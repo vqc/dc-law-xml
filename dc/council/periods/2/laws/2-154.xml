@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 2-154">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 2-154">
   <num type="law">2-154</num>
   <heading type="short">Prevention of the Administration of Lie Detection Procedures Act of 1978</heading>
   <meta>
@@ -12,4 +12,115 @@
       <narrative>Law 2-154, the “Prevention of the Administration of Lie Detection Procedures Act of 1978,” was introduced in Council and assigned Bill No. 2-225, which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first and second readings on November 28, 1978, and December 12, 1978, respectively. Signed by the Mayor on December 29, 1978, it was assigned Act No. 2-320 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|9"/>
+    <num codify:value="32-901">2</num>
+    <heading>Definitions.</heading>
+    <text>As used in this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Employee” means any natural person who performs any labor for compensation, in whole or in part, in the District of Columbia; but does not include:</text>
+      <para>
+        <num>(A)</num>
+        <text>Employees of any authority of the government of the United States other than the District of Columbia government;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Employees of any foreign government; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Employees of any international organization defined in 22 U.S.C. § 288.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Employer” means anyone who employs any natural person and who does business in the District of Columbia, but does not include any agency or authority of the federal government.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Hiring procedure” means any procedure or action in the District of Columbia used to find, or to select for employment, any person seeking employment, whether the procedure is used by a prospective employer with all persons seeking employment, or is used only selectively with such persons.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Lie detector test” means any polygraph, lie detector, or other test which by any mechanical, electrical, chemical, or physiological means attempts to determine whether a person is telling the truth, or the truth to the best of the person’s knowledge.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-154">Mar. 6, 1979, D.C. Law 2-154, § 2, 25 DCR 6980</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 36-801.</annotation>
+        <annotation>1973 Ed., § 36-901.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|9"/>
+    <num codify:value="32-902">3</num>
+    <heading>Use prohibited; exceptions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No employer or prospective employer shall administer, accept or use the results of any lie detector test in connection with the employment, application or consideration of an individual, or have administered, inside the District of Columbia, any lie detector test to any employee, or, in or during any hiring procedure, to any person whose employment, as contemplated at the time of administration of the test, would take place in whole or in part in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The provisions of this section shall not apply to any criminal or internal disciplinary investigation, or pre-employment investigation conducted by the Metropolitan Police, the Fire Department, and the Department of Corrections; provided that any information received from a lie detector test which renders an applicant ineligible for employment shall be verified through other information and no person may be denied employment based solely on the results of a pre-employment lie detector test.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-154">Mar. 6, 1979, D.C. Law 2-154, § 3, 25 DCR 6980</annotation>
+        <annotation doc="D.C. Law 10-175">Sept. 22, 1994, D.C. Law 10-175, § 2, 41 DCR 5173</annotation>
+        <annotation doc="D.C. Law 10-215">Mar. 16, 1995, D.C. Law 10-215, § 2, 41 DCR 8036</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§32-903">32-903</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 36-802.</annotation>
+        <annotation>1973 Ed., § 36-902.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Lie Detector Tests for Pre-Employment Investigations Temporary Amendment Act of 1994 (<cite doc="D.C. Law 10-175">D.C. Law 10-175</cite>, September 22, 1994, law notification  42 DCR 6705).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|9"/>
+    <num codify:value="32-903">4</num>
+    <heading>Invasion of privacy; contracts and arbitration decisions; criminal penalties and civil liability.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any administration of a lie detector test to any employee or person seeking employment, in violation of § <cite path="§32-902">32-902</cite>, shall be an unwarranted invasion of privacy in the District of Columbia, and shall be compensable by damages for tortious injury.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No contract or arbitration decision shall contain any provision in violation of § <cite path="§32-902">32-902</cite>.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Any employer who violates the provisions of § <cite path="§32-902">32-902</cite> shall be guilty of a misdemeanor and subject to a fine of $500, or 30 days in jail, or both, upon conviction.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Any employer who violates the provisions of this chapter shall be civilly liable to the person whom he or she required to take a polygraph or similar examination, and the amount of damages shall be established by the court, plus reasonable attorney’s fees. Remedies available under subsection (c) of this section and this subsection shall be deemed alternative or joint relief, and not subject to waiver by the exercise of the other.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-154">Mar. 6, 1979, D.C. Law 2-154, § 4, 25 DCR 6980</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 36-803.</annotation>
+        <annotation>1973 Ed., § 36-903.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

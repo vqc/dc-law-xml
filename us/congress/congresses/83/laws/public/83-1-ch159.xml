@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 83-1-ch159">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 83-1-ch159">
   <heading/>
   <meta>
     <effective>1953-06-29</effective>
@@ -10,9 +10,430 @@
   <container>
     <prefix>Title</prefix>
     <num>IV</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|5|I"/>
+      <num codify:value="1-506">409</num>
+      <heading>Refusal to give testimony relating to office or employment.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any officer or employee of the District who refuses to testify upon matters relating to his office or employment in any proceeding wherein he is a defendant or is called as a witness upon the ground that his answer may tend to incriminate him or compel him to be a witness against himself, or who refuses so to testify on such ground when called by a grand jury or a congressional committee, shall forfeit his office or employment and any emolument, perquisite, or benefit (by way of pension or otherwise) arising therefrom, and be disqualified from holding any public office or employment under the District.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any former officer or employee of the District who refuses to testify upon matters relating to his former office or employment in any proceeding wherein he is a defendant or is called as a witness upon the ground that his answer may tend to incriminate him or compel him to be a witness against himself, or who refuses so to testify on such ground when called by a grand jury or a congressional committee, shall forfeit any emolument, perquisite, or benefit (by way of pension or otherwise) arising from such former office or employment, and be disqualified from holding any public office or employment under the District.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the retirement pay, pension, or annuity of any officer or employee or former officer or employee of the District is forfeited under this section, there shall be paid to such individual a sum equal to (1) the total amount paid by him as contributions toward such retirement pay, pension, or annuity, plus any accrued interest attributable to such contributions, less (2) the total amount of such retirement pay, pension, or annuity received by him prior to such forfeiture.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>June 29, 1953, 67 Stat. 108, ch. 159, title IV, § 409</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-506.</annotation>
+          <annotation>1973 Ed., § 1-319.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>III</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§5-113.06" path="|5|1|VII|A"/>
+      <num codify:value="5-113.02">302</num>
+      <heading>Records — Criminal offenses.</heading>
+      <para>
+        <num>(a)</num>
+        <text>In addition to the records kept under § <cite path="§5-113.01">5-113.01</cite>, the Metropolitan Police force shall keep a record of each case in which an individual in the custody of any police force or of the United States Marshal is charged with having committed a criminal offense in the District (except those traffic violations and other petty offenses to which the Council of the District of Columbia determines this section should not apply). The record shall show:</text>
+        <para>
+          <num>(1)</num>
+          <text>The circumstances under which the individual came into the custody of the police or the United States Marshal;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The charge originally placed against him, and any subsequent changes in the charge (if he is charged with murder, manslaughter, or causing the death of another by the operation of a vehicle at an immoderate speed or in a careless, reckless, or negligent manner, the charge shall be recorded as “homicide”);</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If he is released (except on bail) without having his guilt or innocence of the charge determined by a court, the circumstances under which he is released;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>If his guilt or innocence is so determined, the judgment of the court;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If he is convicted, the sentence imposed; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>If, after being confined in a correctional institution, he is released therefrom, the circumstances of his release.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Attorney General, the Corporation Counsel, the United States Magistrate for the District, the Clerk of the District Court, the Clerk of the Superior Court of the District of Columbia, and the Director of the Department of Corrections shall furnish the Chief of Police with such information as the Mayor of the District of Columbia considers necessary to enable the Metropolitan Police force to carry out this section.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>June 29, 1953, 67 Stat. 100, ch. 159, title III, § 302</annotation>
+          <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Environmental controls, smoking restrictions, fines and penalties, see § <cite path="§7-1706">7-1706</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§7-1706">7-1706</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 4-132.</annotation>
+          <annotation>1973 Ed., § 4-134a.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(99) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§5-113.06" path="|5|1|VII|A"/>
+      <num codify:value="5-113.03">303</num>
+      <heading>Reports by other police.</heading>
+      <text>Reports shall be made to the Chief of Police, in accordance with regulations prescribed by the Mayor of the District of Columbia, of each offense reported to, and each arrest made by, any other police force operating in the District.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>June 29, 1953, 67 Stat. 100, ch. 159, title III, § 303</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 4-133.</annotation>
+          <annotation>1973 Ed., § 4-134b.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§5-113.06" path="|5|1|VII|A"/>
+      <num codify:value="5-113.05">304</num>
+      <heading>Notice of release of prisoners.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Whenever the Board of Parole of the District of Columbia has authorized the release of a prisoner under § <cite path="§24-404">24-404</cite>, or the United States Board of Parole has authorized the release of a prisoner under § <cite path="§24-406">24-406</cite>, it shall notify the Chief of Police of that fact as far in advance of the prisoner’s release as possible.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Except in cases covered by subsection (a) of this section, notice that a prisoner under sentence of 6 months or more is to be released from an institution under the management and regulation of the Director of the Department of Corrections shall be given to the Chief of Police as far in advance of the prisoner’s release as possible.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>June 29, 1953, 67 Stat. 100, ch. 159, title III, § 304</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 4-134.</annotation>
+          <annotation>1973 Ed., § 4-134c.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|8"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-801">401</num>
+    <heading>Created; composition; duties; Chairman; meetings.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 29, 1953, 67 Stat. 101, ch. 159, § 401</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a), 157(f)</annotation>
+        <annotation doc="D.C. Law 19-320">June 19, 2013, D.C. Law 19-320, § 513, 60 DCR 3390</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-1001.</annotation>
+        <annotation>1973 Ed., § 2-1901.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary repeal of section, see § 514 of the Omnibus Criminal Code Amendments Emergency Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013,  60 DCR 1017).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 514 of the Omnibus Criminal Code Amendment Congressional Review Emergency Act of 2013 (D.C. Act 20-44, April 1, 2013,  60 DCR 5381, 20 DCSTAT 1281).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>The Act of October 17, 1968, Pub. L. 90-578, terminated the office of United States Commissioner and established in place thereof the office of United States Magistrate, referred to in subsection (b)(6) of this section. The Act became operative in the District on June 27, 1969, when 2 United States Magistrates assumed office pursuant to appointment by order of the District Court, dated June 20, 1969.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|3"/>
+    <num codify:value="24-306">405</num>
+    <heading>Psychiatric services.</heading>
+    <text>The Mayor shall appoint a qualified psychiatrist and a qualified psychologist whose services shall be available to the following officers to assist them in carrying out their duties:</text>
+    <para>
+      <num>(1)</num>
+      <text>In criminal cases, the judges and probation officers of the United States District Court for the District of Columbia and the judges and Director of Social Services of the Superior Court of the District of Columbia;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The judges and such personnel assigned to the Family Division of the Superior Court as the Chief Judge may designate;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Such officers of the Department of Corrections as the Director thereof shall designate; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The Board of Parole of the District.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 29, 1953, 67 Stat. 105, ch. 159, § 405</annotation>
+        <annotation>Aug. 16, 1954, 68 Stat. 730, ch. 737, § 1</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 577, Pub. L. 91-358, title I, § 159(d)</annotation>
+        <annotation doc="D.C. Law 11-275">June 3, 1997, D.C. Law 11-275, § 15, 44 DCR 1408</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Board of Parole, creation, powers and duties, see §§ <cite path="§24-401.01">24-401.01</cite> to 24-401.03.</annotation>
+        <annotation>Confinement in mental hospital while in penal institution, see § <cite path="§24-502">24-502</cite>.</annotation>
+        <annotation>Department of Corrections, see §§ <cite path="§24-211.011">24-211.011</cite> to 24-211.06.</annotation>
+        <annotation>Investigations and reports by probation officers, see § <cite path="§24-303">24-303</cite>.</annotation>
+        <annotation>Physical and mental examinations and treatment of child, see § <cite path="§16-2315">16-2315</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§24-502">24-502</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-106.</annotation>
+        <annotation>1973 Ed., § 24-106.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section>
+    <num>305</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" before="§5-133.17" path="|5|1|XVII"/>
+      <num codify:value="5-133.12">(a)</num>
+      <heading>Bonds.</heading>
+      <text>The Mayor of the District of Columbia shall obtain a bond to secure the District against loss resulting from any act of dishonesty by any officer or member of the Metropolitan Police force. Bonds obtained under this section shall be in such amounts, and may secure the District against loss resulting from such other acts by officers and members of the Metropolitan Police force, as the Council of the District of Columbia shall consider appropriate. The Mayor may obtain such bonds by negotiation, without regard to § <cite path="§2-225.05">2-225.05</cite> [repealed], and shall pay the cost of such bonds out of funds appropriated for the expenses of the Metropolitan Police Department for fiscal years beginning after June 30, 1953. The premium on any such bond may cover periods not exceeding 3 years and may be paid in advance.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>June 29, 1953, 67 Stat. 101, ch. 159, § 305(a)</annotation>
+          <annotation>July 7, 1955, 69 Stat. 281, ch. 280, § 4</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Merit system, application to police officers and firefighters, see § <cite path="§1-632.03">1-632.03</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§1-632.03">1-632.03</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 4-184.</annotation>
+          <annotation>1973 Ed., § 4-186.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(106) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§5-133.17" path="|5|1|XVII"/>
+    <num codify:value="5-133.13">307</num>
+    <heading>Mobile laboratory.</heading>
+    <text>The Metropolitan Police force shall maintain and operate a motor vehicle equipped with cameras, photographic developing equipment, an electrical generator, floodlights, and such other equipment as may be necessary to permit the use of the vehicle as a mobile laboratory to handle evidence at the scenes of crimes and otherwise to aid in the prevention and detection of crime.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 29, 1953, 67 Stat. 101, ch. 159, § 307</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-185.</annotation>
+        <annotation>1973 Ed., § 4-187.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section>
+    <num>211</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|22|13"/>
+      <num codify:value="22-1321">(a)</num>
+      <heading>Disorderly conduct.</heading>
+      <para>
+        <num>(a)</num>
+        <text>In any place open to the general public, and in the communal areas of multi-unit housing, it is unlawful for a person to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Intentionally or recklessly act in such a manner as to cause another person to be in reasonable fear that a person or property in a person’s immediate possession is likely to be harmed or taken;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Incite or provoke violence where there is a likelihood that such violence will ensue; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Direct abusive or offensive language or gestures at another person (other than a law enforcement officer while acting in his or her official capacity) in a manner likely to provoke immediate physical retaliation or violence by that person or another person.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It is unlawful for a person to engage in loud, threatening, or abusive language, or disruptive conduct, with the intent and effect of impeding or disrupting the orderly conduct of a lawful public gathering, or of a congregation of people engaged in any religious service or in worship, a funeral, or similar proceeding.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>It is unlawful for a person to engage in loud, threatening, or abusive language, or disruptive conduct with the intent and effect of impeding or disrupting the lawful use of a public conveyance by one or more other persons.</text>
+      </para>
+      <para>
+        <num>(c-1)</num>
+        <text>It is unlawful for a person to engage in loud, threatening, or abusive language, or disruptive conduct in a public building with the intent and effect of impeding or disrupting the orderly conduct of business in that public building.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>It is unlawful for a person to make an unreasonably loud noise between 10:00 p.m. and 7:00 a.m. that is likely to annoy or disturb one or more other persons in their residences.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>It is unlawful for a person to urinate or defecate in public, other than in a urinal or toilet.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>It is unlawful for a person to stealthily look into a window or other opening of a dwelling, as defined in § <cite path="§6-101.07">6-101.07</cite>, under circumstances in which an occupant would have a reasonable expectation of privacy. It is not necessary that the dwelling be occupied at the time the person looks into the window or other opening.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>It is unlawful, under circumstances whereby a breach of the peace may be occasioned, to interfere with any person in any public place by jostling against the person, unnecessarily crowding the person, or placing a hand in the proximity of the person’s handbag, pocketbook, or wallet.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>A person who violates any provision of this section shall be guilty of a misdemeanor and, upon conviction, shall be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, imprisoned not more than 90 days, or both.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>June 29, 1953, 67 Stat. 98, ch. 159, § 211(a)</annotation>
+          <annotation doc="D.C. Law 10-119">redesignated § 211, May 21, 1994, D.C. Law 10-119, § 9(a), 41 DCR 1639</annotation>
+          <annotation doc="D.C. Law 18-375">May 26, 2011, D.C. Law 18-375,§ 3(a), 58 DCR 731</annotation>
+          <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 202(c), 60 DCR 2064</annotation>
+          <annotation doc="D.C. Law 19-320">June 19, 2013, D.C. Law 19-320, § 103, 60 DCR 3390</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Burning of cross or other religious symbol, see § <cite path="§22-3312.02">22-3312.02</cite>.</annotation>
+          <annotation>Defacement of public or private building or property, see § <cite path="§22-3312.01">22-3312.01</cite>.</annotation>
+          <annotation>Entities conducting prosecutions, failure to pay fines, see § <cite path="§22-1809">22-1809</cite>.</annotation>
+          <annotation>Wearing of masks for particular purposes, see § <cite path="§22-3312.03">22-3312.03</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§16-801">16-801</cite> and § <cite path="§22-1809">22-1809</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 22-1121.</annotation>
+          <annotation>1973 Ed., § 22-1121.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 18-375">D.C. Law 18-375</cite> rewrote the section, which formerly read:</annotation>
+          <annotation>“Whoever, with intent to provoke a breach of the peace, or under circumstances such that a breach of the peace may be occasioned thereby: (1) acts in such a manner as to annoy, disturb, interfere with, obstruct, or be offensive to others; (2) congregates with others on a public street and refuses to move on when ordered by the police; (3) shouts or makes a noise either outside or inside a building during the nighttime to the annoyance or disturbance of any considerable number of persons; (4) interferes with any person in any place by jostling against such person or unnecessarily crowding such person or by placing a hand in the proximity of such person’s pocketbook, or handbag; or (5) causes a disturbance in any streetcar, railroad car, omnibus, or other public conveyance, by running through it, climbing through windows or upon the seats, or otherwise annoying passengers or employees, shall be fined not more than $250 or imprisoned not more than 90 days, or both.”</annotation>
+          <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $500” in (h).</annotation>
+          <annotation>The 2013 amendment by <cite doc="D.C. Law 19-320">D.C. Law 19-320</cite> substituted “with the intent and effect of impeding or disrupting” for “which unreasonably impedes, disrupts, or disturbs” in (c); and added (c-1).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) amendment of section, see § 303(a) of Public Safety Legislation Sixty-Day Layover Emergency Amendment Act of 2010 (D.C. Act 18-693, January 18, 2011,  58 DCR 640).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 303(a) of Public Safety Legislation Sixty-Day Layover Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-45, April 20, 2011,  58 DCR 3701).</annotation>
+          <annotation>For temporary amendment of (c) and addition of (c-1), see § 103 of the Omnibus Criminal Code Amendments Emergency Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013,  60 DCR 1017).</annotation>
+          <annotation>For temporary (90 days) amendment of this section, see § 103 of the Omnibus Criminal Code Amendment Congressional Review Emergency Act of 2013 (D.C. Act 20-44, April 1, 2013,  60 DCR 5381, 20 DCSTAT 1281).</annotation>
+          <annotation>For temporary (90 days) amendment of this section, see § 202(c) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
+  <section>
+    <num>209</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|22|25"/>
+      <num codify:value="22-2501">(a)</num>
+      <heading>Possession of implements of crime; penalty.</heading>
+      <text>No person shall have in his or her possession in the District any instrument, tool, or implement for picking locks or pockets, with the intent to use such instrument, tool, or implement to commit a crime. Whoever violates this section shall be imprisoned for not more than 180 days  and may be fined not more than  and, in addition, may be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, unless the violation occurs after he or she has been convicted in the District of a violation of this section or of a felony, either in the District or another jurisdiction, in which case he or she shall be imprisoned for not less than one year nor more than 5 years and, in addition, may be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>June 29, 1953, 67 Stat. 97, ch. 159, § 209(a)</annotation>
+          <annotation doc="D.C. Law 4-29">Aug. 5, 1981, D.C. Law 4-29, § 604(a)(2), 28 DCR 3081</annotation>
+          <annotation doc="D.C. Law 4-52">Nov. 17, 1981, D.C. Law 4-52, § 3(g), 28 DCR 4348</annotation>
+          <annotation doc="D.C. Law 10-119">May 21, 1994, D.C. Law 10-119, § 9(c), 41 DCR 1639</annotation>
+          <annotation doc="D.C. Law 10-151">Aug. 20, 1994, D.C. Law 10-151, § 110(b), 41 DCR 2608</annotation>
+          <annotation doc="D.C. Law 11-275">June 3, 1997, D.C. Law 11-275, § 11, 44 DCR 1408</annotation>
+          <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, §§ 202(b), 305, 60 DCR 2064</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>District defined, see § <cite path="§1-201.03">1-201.03</cite>.</annotation>
+          <annotation>Minimum sentences, convictions under this section, see § <cite path="§24-403">24-403</cite>.</annotation>
+          <annotation>Sentencing, supervised release, and good time credit for felonies under this section committed on or after August 5, 2000, see § <cite path="§24-403.01">24-403.01</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§24-403">24-403</cite> and § <cite path="§24-403.01">24-403.01</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 22-3601.</annotation>
+          <annotation>1973 Ed., § 22-3601.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $1,000”;  and added “and, in addition, may be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” at the end of the last sentence.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary amendment of section, see § 110(b) of the Omnibus Criminal Justice Reform Emergency Amendment Act of 1994 (D.C. Act 10-255, June 22, 1994,  41 DCR 4286).</annotation>
+          <annotation>For temporary (90 days) amendment of this section, see §§ 202(b) and 305 of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

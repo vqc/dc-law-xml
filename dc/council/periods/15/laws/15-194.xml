@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 15-194">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 15-194">
   <num type="law">15-194</num>
   <heading type="short">Omnibus Public Safety Agency Reform Amendment Act of 2004</heading>
   <meta>
@@ -12,4 +12,701 @@
       <narrative>Law 15-194, the “Omnibus Public Safety Agency Reform Amendment Act of 2004”, was introduced in Council and assigned Bill No. 15-32, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on April 6, 2004, and June 1, 2004, respectively. Signed by the Mayor on June 24, 2004, it was assigned Act No. 15-463 and transmitted to both Houses of Congress for its review. D.C. Law 15-194 became effective on September 30, 2004.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|1|XV-A"/>
+    <reason>Expired</reason>
+    <num codify:value="5-129.31">1102</num>
+    <heading>Detective advisers.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 1102, 51 DCR 9406</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§5-704">5-704</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Mayor’s Rulemaking Authority Pursuant to the Detective Adviser Act of 2004 to the Chief, Metropolitan Police Department, see Mayor’s Order 2005-99, June 14, 2005 ( 52 DCR 8165).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Pursuant to subsec. (d), this section expired 2 years after September 30, 2004.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|1|XV-B"/>
+    <num codify:value="5-129.51">1002</num>
+    <heading>Metropolitan Police Department Reserve Corps.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall establish a Metropolitan Police Department Reserve Corps (“Reserve Corps”) in the District of Columbia. The purpose of the Reserve Corps shall be to assist full-time, sworn police personnel in both the day-to-day and emergency delivery of law enforcement services, consistent with applicable law.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Reserve Corps shall have as its membership a corps of unpaid volunteers who fulfill police duties and responsibilities as determined by the Chief of the Metropolitan Police Department.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The selection criteria required for and training provided to members of the Reserve Corps shall be similar to the selection criteria required for and training provided to full-time, sworn police personnel. When establishing the criteria, the Chief of Police shall review national standards, such as the Commission on Accreditation for Law Enforcement Agencies.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of this section within 180 days of September 30, 2004. The rules shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Prescribe the duties and responsibilities of Reserve Corps members;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Define the scope of Reserve Corps members’ authority and discretion in carrying out their duties and responsibilities, including any limitations on or restrictions to their authority and discretion; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Delineate the supervision Reserve Corps members are to receive.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 1002, 51 DCR 9406</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Mayor’s Rulemaking Authority Pursuant to the Metropolitan Police Department Reserve Corps Establishment Act of 2004 and the Volunteer Act of 1977 to the Chief, Metropolitan Police Department, see Mayor’s Order 2006-57, May 19, 2006 ( 53 DCR 5313).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|4|II|B"/>
+    <num codify:value="5-441">202</num>
+    <heading>Fire and Emergency Medical Services education and training program; certification of firefighters, paramedics, and emergency medical technicians.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Chief of the Fire and Emergency Medical Services Department shall design an education and training program that encompasses entry-level and in-service training and addresses issues such as skills with specialized equipment acquired to address special hazards, knowledge of new construction techniques, and emergency medicine skills for target audiences, such as persons with disabilities, the elderly, and very young. The education and training program shall be based upon the department’s mission and operational performance measures.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Fire Chief, in close coordination with the Medical Director, shall develop and implement a program of certification for firefighters, paramedics, and emergency medical technicians.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>For fiscal years 2011, 2012, 2013, and 2014, no officer or member of the Fire and Emergency Medical Services Department shall be detailed to Emergency Medical Technician classes for more than 60 days.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 202, 51 DCR 9406</annotation>
+        <annotation doc="D.C. Law 16-305">Apr. 24, 2007, D.C. Law 16-305, § 17, 53 DCR 6198</annotation>
+        <annotation doc="D.C. Law 17-147">Apr. 15, 2008, D.C. Law 17-147, § 5, 55 DCR 2558</annotation>
+        <annotation doc="D.C. Law 18-223">Sept. 24, 2010, D.C. Law 18-223, § 3024, 57 DCR 6242</annotation>
+        <annotation doc="D.C. Law 19-21">Sept. 14, 2011, D.C. Law 19-21, § 3014, 58 DCR 6226</annotation>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 3024, 59 DCR 8025</annotation>
+        <annotation doc="D.C. Law 20-61">Dec. 24, 2013, D.C. Law 20-61, § 3054, 60 DCR 12472</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite>, in subsec. (a), substituted “persons with disabilities, the” for “the disabled”.</annotation>
+        <annotation><cite doc="D.C. Law 17-147">D.C. Law 17-147</cite> inserted “, in close coordination with the Medical Director,” following “Fire Chief”.</annotation>
+        <annotation><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> added subsec. (c).</annotation>
+        <annotation><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (c), substituted “fiscal years 2011 and 2012” for “fiscal year 2011”.</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> substituted “fiscal years 2011, 2012, and 2013” for “fiscal years 2011 and 2012” in (c).</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> substituted “2012, 2013, and 2014” for “2012, and 2013” in (c).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 3024 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 3064 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
+        <annotation>For temporary (90 days) addition of this section, see § 3054 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 11001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|4|III"/>
+    <num codify:value="5-451">721</num>
+    <heading>Physical examinations and agility standards.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All sworn members of the Fire and Emergency Medical Services Department shall be required to pass, at least biennially, a physical examination and a physical agility test. The physical examination shall be performed by a physician at the Police and Fire Clinic using current medical standards adopted after consultation with medical professionals within 180 days of September 30, 2004. The physical agility testing shall be based on full-duty physical performance standards adopted within 180 days of September 30, 2004.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of this section within 180 days of September 30, 2004.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 721, 51 DCR 9406</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§5-631">5-631</cite> and § <cite path="§5-701">5-701</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|6A|I"/>
+    <num codify:value="5-631">621</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Act” means subchapter I of Chapter 7 of Title 5 [§ <cite path="§5-701">5-701</cite> et seq.].</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Chief” means either the Chief of the Metropolitan Police Department or the Chief of the Fire and Emergency Medical Services Department.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Department” means the Metropolitan Police Department or the Fire and Emergency Medical Services Department.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Director” means either the director of medical services for the Metropolitan Police Department, or the medical services officer for the Fire and Emergency Medical Services Department.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Full range of duties” means the ability of a member to perform all of the essential functions of police work or fire suppression as determined by the established policies and procedures of the Metropolitan Police Department or the Fire and Emergency Medical Services Department, and to meet the physical examination and physical agility standards established under §§ <cite path="§5-107.02a">5-107.02a</cite> and <cite path="§5-451">5-451</cite>.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Limited duty” means a temporary status for members who, because of injury or other temporary medical disability, are not able to perform the full range of duties, but are certified by a Police and Fire Clinic physician as being capable of effectively performing certain types of work within the department.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Member” means a sworn employee of the Metropolitan Police Department or the Fire and Emergency Medical Services Department.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 621, 51 DCR 9406</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 641 of <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite> provided</text>
+        <text>“Sec. 641. Applicability subject to availability of appropriations.</text>
+        <text>“This title referring to Chapter 6A shall be subject to the availability of appropriations.”</text>
+        <text>Application of Titles I and VI of <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite>: Section 1301 of <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite> provided:</text>
+        <text>“Titles I and VI of this act shall apply to pre-1980 employees of the Metropolitan Police Department and the Fire and Emergency Medical Services Department upon their enactment by Congress.”</text>
+        <text>Because of the codification of <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite>, Subtitle D as subchapter II of this chapter, the preexisting text, §§ <cite path="§5-631">5-631</cite> through <cite path="§5-635">5-635</cite>, has been designated as subchapter I.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|6A|I"/>
+    <num codify:value="5-632">622</num>
+    <heading>Limited duty.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If the Director, in consultation with Police and Fire Clinic physicians, determines that a member, because of injury or other temporary medical disability is unable to perform the full range of duties, but is capable of effectively performing certain types of work within the department, and the prognosis is that the member will be able to perform a full range of duties after achieving maximum medical improvement, the Director may recommend to the Chief that the member perform work in a limited-duty status.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Members in a limited-duty status shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Undertake in-service training as required by the Chief;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Not be permitted to work voluntary overtime; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Not accept or continue any off-duty employment without the specific approval of the Chief.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No less than every 30 days, the Director shall evaluate members in a limited-duty status to determine their health status and to ensure that they are complying with their medical treatment plans.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>If at any time the Director, in consultation with the Police and Fire Clinic physicians, determines that a member in a limited-duty status is unable to perform the full range of duties after achieving maximum medical improvement, the Director shall recommend the member for retirement pursuant to § <cite path="§5-709">5-709</cite> or § <cite path="§5-710">5-710</cite>, as appropriate.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 622, 51 DCR 9406</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|6A|I"/>
+    <num codify:value="5-633">623</num>
+    <heading>Medical leave for performance of duty injuries and illnesses; referral for disability retirement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsections (e) and (g) of this section, if the Director, in consultation with the Police and Fire Clinic physicians, determines that a member can neither perform the full range of duties nor work in a limited-duty status due to a performance-of-duty injury or illness, the member shall be entitled to non-chargeable medical leave and shall receive administrative pay for a period of not more than 2 years in accordance with rules established by the Mayor.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Except as provided in subsection (g) of this section, if at any time the Director, in consultation with the Police and Fire Clinic physicians, determines that a member who has sustained a performance-of-duty injury or illness will not be able to perform the full range of duties after achieving maximum medical improvement, the Director shall recommend the member for retirement pursuant to § <cite path="§5-710">5-710</cite>.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Except as provided in subsections (e) and (f) of this section, and regardless of whether the prognosis is that the member will be able to perform the full range of duties after achieving maximum medical improvement, the Director shall process for retirement pursuant to § <cite path="§5-710">5-710</cite>, those members of the Metropolitan Police Department who spend all or part of 172 cumulative work days in a less-than-full-duty status over any 2-year period as a result of any one performance-of-duty injury or illness, including any complications relating to the injury or illness.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Except as provided in subsections (e), (f) and (g) of this section, and regardless of whether the prognosis is that the member will be able to perform the full range of duties after achieving maximum medical improvement, the Director shall process for retirement pursuant to § <cite path="§5-710">5-710</cite>, those Fire and Emergency Medical Services members who spend 64 cumulative work days in a less-than-full-duty status over any 2-year period as a result of any one performance-of-duty injury or illness, including any complications relating to the injury or illness.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>If a member has sustained a serious or life-threatening injury or illness in the performance of duty that may require more than 2 years of medical treatment for the member to achieve maximum medical improvement, and the prognosis is that the member eventually will be able to perform the full range of duties, the Director, in consultation with Police and Fire Clinic physicians, may recommend to the Chief that the member be provided with additional non-chargeable medical leave and disability compensation pay until the member achieves maximum medical improvement.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The provisions of subsections (c) and (d) of this section shall not apply to members who are unable to perform the full range of duties as a result of pregnancy.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <para>
+        <num>(1)</num>
+        <text>If a member of the Fire and Emergency Medical Services Department has sustained, in the performance of duty at the scene of a fire or emergency, any serious or life-threatening injury or illness for which the member requires critical care treatment in a hospital intensive care unit or its equivalent, the member shall not be processed for retirement pursuant to subsection (b) or subsection (d) of this section unless the member:</text>
+        <para>
+          <num>(A)</num>
+          <text>As a result of the injury or illness sustained, has spent more than 170 cumulative work days in a less-than-full-duty status over the 2-year period following the date the member sustained the injury or illness; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Is unable to work in a less-than-full-duty capacity within the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The member shall be provided with additional non-chargeable medical leave and disability compensation pay pursuant to subsection (a) of this section until the member achieves maximum medical improvement or is processed for retirement after having spent more than 170 cumulative work days in less-than-full-duty status over the 2-year period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <para>
+          <num>(A)</num>
+          <text>A member who has spent more than 170 cumulative work days in less-than-full-duty status over the 2-year period pursuant to paragraph (1) of this subsection and continues to be unable to perform the full range of duties shall not be processed involuntarily for retirement under § <cite path="§5-710">5-710</cite> if the member is able and willing to work in any less-than-full-duty capacity within the Department, including staffing the divisions of the Training Academy, Professional Standards, Fleet Management, Facilities Maintenance, Fire Prevention and Education, and equipment maintenance, or other non-firefighting duty.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Department shall assign the member non-firefighting duties if the member continues to be unable to perform the full range of duties but is able and willing to work in a less-than-full-duty capacity after expiration of the 170 days.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Nothing in this paragraph shall be construed as preventing the member from seeking retirement for disability under § <cite path="§5-710">5-710</cite>.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 623, 51 DCR 9406</annotation>
+        <annotation doc="D.C. Law 17-235">Oct. 21, 2008, D.C. Law 17-235, § 2, 55 DCR 9016</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-235">D.C. Law 17-235</cite>, in subsec. (a), substituted “subsections (e) and (g)” for “subsection (e)”; in subsec. (b), inserted “Except as provided in subsection (g) of this section,”; and added subsec. (g).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>Section 2 of <cite doc="D.C. Law 17-143">D.C. Law 17-143</cite>, in subsec. (d), substituted “subsections (e), (f), and (g)” for “subsections (e) and (f)”, and added subsec. (g) to read as follows: “(g) If a member of the Fire and Emergency Medical Services Department has sustained, in the performance of duty at the scene of a fire, 2nd-or 3rd-degree burns over 15% or more of the member’s body for which the member requires critical care treatment in a hospital intensive care unit or its equivalent, the member shall not be processed for retirement pursuant to subsection (d) of this section unless the member, as a result of the burns sustained, has spent more than 170 cumulative work days in a less-than-full-duty status over the 2-year period following the date the member sustained the burns.”</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 17-143">D.C. Law 17-143</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Burned Fire Fighter Relief Emergency Amendment Act of 2008 (D.C. Act 17-243, January 23, 2008,  55 DCR 1226).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Burned Fire Fighter Relief Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-347, April 14, 2008,  55 DCR 5200).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|6A|I"/>
+    <num codify:value="5-634">624</num>
+    <heading>Medical leave for non-performance-of-duty illnesses and injuries; referral for disability retirement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If the Director, in consultation with the Police and Fire Clinic physicians, determines that a member can neither perform the full range of duties nor work in a limited-duty status due to a non-performance-of-duty injury or illness, the member shall be entitled to chargeable medical leave to the extent the member has leave in his or her sick leave and annual leave accounts, and in accordance with rules established by the Mayor under Chapter 6 of Title 1 and Chapter 5 of Title 32.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If at any time the Director, in consultation with the Police and Fire Clinic physicians, determines that a member who has sustained a non-performance-of-duty injury or illness will not be able to perform the full range of duties after achieving maximum medical improvement, the Director shall recommend the member for retirement pursuant to § <cite path="§5-709">5-709</cite>.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Except as provided in subsection (e) of this section, and regardless of whether the prognosis is that the member who has sustained a non-performance-of-duty injury or illness will be able to perform a full range of duties after achieving maximum medical improvement, the Director shall process for retirement pursuant to § <cite path="§5-709">5-709</cite>, those Metropolitan Police Department members who spend all or part of 172 cumulative work days in a less-than-full-duty status over any 2-year period as a result of any one non-performance-of-duty injury or illness, including any complications relating to the injury or illness.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Except as provided in subsection (e) of this section, and regardless of whether the prognosis is that the member who has sustained a non-performance-of-duty injury or illness will be able to perform the full range of duties after achieving maximum medical improvement, the Director shall process for retirement pursuant to § <cite path="§5-709">5-709</cite>, those Fire and Emergency Medical Services members who spend 64 cumulative work days in a less-than-full-duty status over any 2-year period as a result of any one non-performance-of-duty injury or illness, including any complications relating to the injury or illness.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The provisions of subsections (c) and (d) of this section shall not apply to members who are unable to perform a full range of duties as a result of pregnancy.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 624, 51 DCR 9406</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|6A|I"/>
+    <num codify:value="5-635">625</num>
+    <heading>Rules.</heading>
+    <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 625, 51 DCR 9406</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|6A|II"/>
+    <num codify:value="5-651">651</num>
+    <heading>Definitions.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 651</annotation>
+        <annotation doc="D.C. Law 19-311">as added May 1, 2013, D.C. Law 19-311, § 2, 60 DCR 3425</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 656 of <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite>, as added by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite>, § 2, provided that this subchapter shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</text>
+        <text>Section 656 of <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite>, as added by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite>, § 2, provided that this section shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|6A|II"/>
+    <num codify:value="5-652">652</num>
+    <heading>Presumption as to disability or death from heart disease, hypertension, or respiratory disease.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 652</annotation>
+        <annotation doc="D.C. Law 19-311">as added May 1, 2013, D.C. Law 19-311, § 2, 60 DCR 3425</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 656 of <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite>, as added by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite>, § 2, provided that this subchapter shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|6A|II"/>
+    <num codify:value="5-653">653</num>
+    <heading>Presumption as to disability or death from cancer.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 653</annotation>
+        <annotation doc="D.C. Law 19-311">as added May 1, 2013, D.C. Law 19-311, § 2, 60 DCR 3425</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 656 of <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite>, as added by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite>, § 2, provided that this subchapter shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|6A|II"/>
+    <num codify:value="5-654">654</num>
+    <heading>Presumption as to disability or death from infectious disease.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 654</annotation>
+        <annotation doc="D.C. Law 19-311">as added May 1, 2013, D.C. Law 19-311, § 2, 60 DCR 3425</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 656 of <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite>, as added by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite>, § 2, provided that this subchapter shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|6A|II"/>
+    <num codify:value="5-655">655</num>
+    <heading>Disqualification from presumption as to disability or death.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 655</annotation>
+        <annotation doc="D.C. Law 19-311">as added May 1, 2013, D.C. Law 19-311, § 2, 60 DCR 3425</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 656 of <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite>, as added by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite>, § 2, provided that this subchapter shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|6A|II"/>
+    <num codify:value="5-656">656</num>
+    <heading>Applicability.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 656</annotation>
+        <annotation doc="D.C. Law 19-311">as added May 1, 2013, D.C. Law 19-311, § 2, 60 DCR 3425</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 656 of <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite>, as added by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite>, § 2, provided that this subchapter shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|10A|I"/>
+    <num codify:value="5-1031">502</num>
+    <heading>Commencement of corrective  or adverse action.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided  in subsection (b) of this section, no corrective or adverse action  against any sworn member or civilian employee of the Fire and Emergency  Medical Services Department shall be commenced more than 90 days,  not including Saturdays, Sundays, or legal holidays, after the date  that the Fire and Emergency Medical Services Department knew or should  have known of the act or occurrence allegedly constituting cause.</text>
+    </para>
+    <para>
+      <num>(a-1)</num>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided  in subsection (b) of this section, no corrective or adverse action  against any sworn member or civilian employee of the Metropolitan  Police Department shall be commenced more than 90 days, not including  Saturdays, Sundays, or legal holidays, after the date that the Metropolitan  Police Department had notice of the act or occurrence allegedly constituting  cause.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the purposes  of paragraph (1) of this subsection, the Metropolitan Police Department  has notice of the act or occurrence allegedly constituting cause on  the date that the Metropolitan Police Department generates an internal  investigation system tracking number for the act or occurrence.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If the act or  occurrence allegedly constituting cause is the subject of a criminal  investigation by the Metropolitan Police Department or any law enforcement  agency with jurisdiction within the United States, the Office of the  United States Attorney for the District of Columbia, or the Office  of the Attorney General, or is the subject of an investigation by  the Office of the Inspector General, the Office of the District of  Columbia Auditor, or the Office of Police Complaints, the 90-day period  for commencing a corrective or adverse action under subsection (a)  or (a-1) of this section shall be tolled until the conclusion of the  investigation.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 502, 51 DCR 9406</annotation>
+        <annotation doc="D.C. Law 20-173">Mar. 7, 2015, D.C. Law 20-173, § 101, 61 DCR 12582</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-173">D.C. Law 20-173</cite> deleted “or the Metropolitan Police Department” following “Medical Services Department” twice in (a); added (a-1); and rewrote (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 101 of the Metropolitan Police Department Commencement of Discipline and Command Staff Appointment Emergency Amendment Act of 2014 (D.C. Act 20-524, Dec. 18, 2014,  61 DCR 13112, 20 STAT 4438).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|10A|I"/>
+    <num codify:value="5-1032">503</num>
+    <heading>Report on misconduct  allegations and grievances.</heading>
+    <text>The Chief of  Police and the Fire Chief shall, not later than January 15 of each  calendar year, beginning in 2006, deliver a report to the Mayor and  the Council concerning misconduct and grievances filed by or against  members of their respective departments. The report shall contain:</text>
+    <para>
+      <num>(1)</num>
+      <text>The number of  individuals, of all rank and services, investigated and disciplined  for misconduct, categorized by the nature of the misconduct allegations,  the nature of those misconduct allegations that are substantiated,  and the discipline given for substantiated allegations; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The number of  formal grievances filed by individuals, including complaints filed  with each agency’s Equal Employment Opportunity Officer, categorized  by the nature of the grievance filed and the nature of those grievances  that are substantiated.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 503, 51 DCR 9406</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|10A|II"/>
+    <num codify:value="5-1051">511</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Chief” means the Chief of the Department.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Conditional retirement” means that a member has retired or resigned from the Department while under disciplinary investigation for serious misconduct.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Department” means the Fire and Emergency Medical Services Department.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Disciplinary investigation” means an official investigation by the Department, including the Office of Internal Affairs, of allegations of serious misconduct by a member of the Department.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Resign” means the voluntary separation of a member from the Department before the member’s pension rights have accrued and vested.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Retire” means the voluntary separation of a member from the Department after the member’s pension rights, retirement pay, or other benefits have accrued and vested as provided by federal or District of Columbia law or regulation.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Serious misconduct” means any felony violation of federal, local, or District of Columbia law, making a false statement under oath, falsifying official records or reports, using unnecessary force, gross dereliction of duty, perpetrating a felony or assisting a person to escape investigation or prosecution, using illegal controlled substances, or other violations as determined by the Chief by general order.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 511</annotation>
+        <annotation doc="D.C. Law 20-236">as added Mar. 11, 2015, D.C. Law 20-236, §  2(b), 62 DCR 485</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|10A|II"/>
+    <num codify:value="5-1052">512</num>
+    <heading>Completion of disciplinary investigations.</heading>
+    <text>The Department shall complete a disciplinary investigation, including issuing findings pursuant to the general orders, of a member regardless of whether that member resigns or retires while under investigation.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 512</annotation>
+        <annotation doc="D.C. Law 20-236">as added Mar. 11, 2015, D.C. Law 20-236, §  2(b), 62 DCR 485</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|10A|II"/>
+    <num codify:value="5-1053">513</num>
+    <heading>Conditional retirement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If a member of the Department retires or resigns while under disciplinary investigation, that member shall be deemed to be in conditional retirement until the disciplinary investigation is completed and factual findings are made.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A member who is in conditional retirement shall not be paid a pension or receive other accrued benefits of any kind, including salary, compensatory time, or accrued leave, during the pendency of the disciplinary investigation.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Department shall complete the disciplinary investigation of a member in conditional retirement within 25 days from the date that the member retired or resigned. If the Department has not completed the investigation 25 days from the date the member retired or resigned, the matter shall be deemed to be closed and the allegations of serious misconduct not sustained.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>If, at any time during a member’s conditional retirement, the Department finds that the allegations of serious misconduct are not sustained or are unfounded, the matter shall be deemed to be closed and the member’s pension rights and accrued benefits shall be paid retroactive to the date on which the member initially retired or resigned.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>If the Department sustains the allegations of serious misconduct, the disciplinary process shall proceed as if the member in conditional retirement continued to be a member of the Department. The member shall be accorded all rights to which he or she is entitled under federal and District of Columbia law and regulations, Department regulations, and any applicable labor agreement.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>If the Department ultimately determines that a member in conditional retirement should be subjected to discipline as provided by law and regulation, the member shall be subject to penalties in lieu of discipline, pursuant to § <cite path="§5-1044">5-1044</cite>.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>A member who retires or resigns from the Department without knowing that he or she was under disciplinary investigation for serious misconduct shall not be deemed to be in conditional retirement, but shall instead be provided the opportunity to continue employment with the Department during the pendency of the disciplinary investigation. Should the member decide to retire or resign after he or she has been informed of the disciplinary investigation, he or she shall be deemed to be in conditional retirement as provided in this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 513</annotation>
+        <annotation doc="D.C. Law 20-236">as added Mar. 11, 2015, D.C. Law 20-236, §  2(b), 62 DCR 485</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|10A|II"/>
+    <num codify:value="5-1054">514</num>
+    <heading>Penalties in lieu of discipline for members in conditional retirement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Department shall set the level of discipline for a member in conditional retirement as if he or she continued to be a member of the Department.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A member in conditional retirement who would have received suspension as discipline had he or she remained a member of the Department shall be assessed a penalty of not less than $100 and not greater than $5,000, depending on the length of suspension.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If a member in conditional retirement would have been terminated from the Department as discipline for serious misconduct, the member shall be assessed a penalty of not less than $1,000 and not greater than $5,000 in the discretion of the Chief, pursuant to written standards developed by the Chief.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 514</annotation>
+        <annotation doc="D.C. Law 20-236">as added Mar. 11, 2015, D.C. Law 20-236, §  2(b), 62 DCR 485</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|10A|II"/>
+    <num codify:value="5-1055">515</num>
+    <heading>Payments of penalties and collection of debts.</heading>
+    <text>Penalties assessed against a member in conditional retirement as provided in §  5-1054 shall be treated as a debt owed to the District of Columbia government, pursuant to § <cite path="§1-629.03">1-629.03</cite>, and may be collected by the District of Columbia government, pursuant to § <cite path="§1-629.04">1-629.04</cite>, or by any other means authorized by law.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 515</annotation>
+        <annotation doc="D.C. Law 20-236">as added Mar. 11, 2015, D.C. Law 20-236, §  2(b), 62 DCR 485</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|10A|II"/>
+    <num codify:value="5-1056">516</num>
+    <heading>Administrative review.</heading>
+    <text>A member in conditional retirement may challenge the imposition of penalties imposed by §§  <cite path="§5-1054">5-1054</cite> and  5-1055 in an administrative proceeding before the District of Columbia Office of Employee Appeals, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 516</annotation>
+        <annotation doc="D.C. Law 20-236">as added Mar. 11, 2015, D.C. Law 20-236, §  2(b), 62 DCR 485</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|10A|II"/>
+    <num codify:value="5-1057">517</num>
+    <heading>Applicability.</heading>
+    <text>This subchapter shall apply upon adoption of regulations by the Chief to implement the provisions of this chapter. The Chief shall adopt such regulations within 60 days after March 11, 2015.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 517</annotation>
+        <annotation doc="D.C. Law 20-236">as added Mar. 11, 2015, D.C. Law 20-236, §  2(b), 62 DCR 485</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

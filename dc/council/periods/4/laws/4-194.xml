@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 4-194">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 4-194">
   <num type="law">4-194</num>
   <heading type="short">Child Restraint Act of 1982</heading>
   <meta>
@@ -12,4 +12,337 @@
       <narrative>Law 4-194, “Child Restraint Act of 1982,” was introduced in Council and assigned Bill No. 4-434, which was referred to the Committee on Transportation and Environmental Affairs. The Bill was adopted on first and second readings on November 16, 1982, and December 14, 1982, respectively. Signed by the Mayor on December 28, 1982, it was assigned Act No. 4-278 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|17"/>
+    <num codify:value="50-1701">2</num>
+    <heading>Findings; purpose.</heading>
+    <text>The Council of the District of Columbia finds that:</text>
+    <para>
+      <num>(1)</num>
+      <para>
+        <num>(A)</num>
+        <text>Nationally, motor vehicle accidents are the leading cause of death of children of less than 6 years of age;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>In 1981, over 600 children of less than 6 years of age were reported injured in motor vehicle accidents in the District of Columbia, reflecting an increase of 16% over reported injuries in 1980 and 40% over reported injuries in 1979;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Young children, due to their small size and early skeletal development, are at a much greater risk of serious bodily injury in motor vehicle accidents than are adults;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Proper use of child restraint seats and safety belts has been estimated to reduce by as much as 90% and 67%, respectively, the fatalities and injuries to children resulting from motor vehicle accidents;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Reducing fatalities and injuries to children from motor vehicle accidents through the proper use of child restraint seats and safety belts would result in a significant reduction of the social and economic burdens which these accidents place upon families, insurers, and the public generally;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Project Safe-Child is a cooperative program conducted by the Office of Child Health Advocacy at Children’s Hospital National Medical Center and the Transportation Safety Division of the Office of Policy and Program Development in the District of Columbia Department of Transportation which includes a child restraint loaner program for the distribution of child restraints to residents of the District of Columbia; and</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Project Safe-Child’s public information program and child restraint loaner programs, upon being expanded through greater allocation of federal grant funds from the National Highway Traffic Safety Administration, can assist the public in complying with this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>It is the purpose of this chapter to require that children of less than 16 years of age be protected by being properly restrained in a child restraint seat or safety belt when riding in a motor vehicle.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-194">Mar. 10, 1983, D.C. Law 4-194, § 2, 30 DCR 49</annotation>
+        <annotation doc="D.C. Law 9-57">Mar. 7, 1992, D.C. Law 9-57, § 2(a), 38 DCR 7283</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-1201.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>Section 2920 of <cite doc="D.C. Law 13-172">D.C. Law 13-172</cite> provided: “This act shall apply upon the enactment of the Fiscal Year 2001 Budget Support Act of 2000 and the adoption by Congress of legislation repealing Chapter 23 of Title 11 of the District of Columbia Code.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>The functions of the Department of Transportation were transferred to the Department of Public Works by Reorganization Plan No. 4 of 1983, effective March 1, 1984.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|17"/>
+    <num codify:value="50-1702">3</num>
+    <heading>Definitions.</heading>
+    <text>As used in this chapter the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Child restraint seat” means any motor vehicle restraint system which has been designed to protect children and has been approved pursuant to § <cite path="§50-1704">50-1704</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Operator” means a person who drives or is in actual physical control of a vehicle.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Properly restrained,” when used in reference to the use of a safety belt, means secured with the lap portion of a safety belt which is provided in a motor vehicle; and when used in reference to the use of a child restraint seat, means secured in a child restraint seat which itself has been fastened to the motor vehicle by a safety belt and in which all securing straps are being used.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Transport” means to have a child of less than 16 years of age as a passenger in a motor vehicle while the operator is seated in the driver position and the motor vehicle is either parked or in motion.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Motor vehicle” means any device with more than 3 wheels and a seating capacity of 8 or fewer passengers, exclusive of the operator, which is propelled by an internal-combustion engine, electricity, or steam, and which is designed, used, or maintained for passenger or recreational purposes, or which is designed, used, or maintained for transporting freight, merchandise, or other commercial loads or property.</text>
+    </para>
+    <afterText>The term “motor vehicle” does not include any device which is used for livery, sightseeing, taxi, ambulance, funeral, or farm purposes; or any device with more than 3 wheels which is propelled by an internal-combustion engine, electricity, or steam and which has a seating capacity of more than 8 passengers, exclusive of the operator.</afterText>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-194">Mar. 10, 1983, D.C. Law 4-194, § 3, 30 DCR 49</annotation>
+        <annotation doc="D.C. Law 10-255">May 16, 1995, D.C. Law 10-255, § 35, 41 DCR 5193</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-1202.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|17"/>
+    <num codify:value="50-1703">4</num>
+    <heading>Requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The operator of a motor vehicle may not transport any child of less than 3 years of age unless the child is properly restrained in a child restraint seat.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The operator of a motor vehicle shall not transport any child under 16 years of age unless the child is properly restrained in an approved child safety restraint system or restrained in a seat belt. Children under 8 years of age shall be properly seated in an installed infant, convertible (toddler) or booster child safety seat, according to the manufacturer’s instructions. A booster seat shall only be used with both a lap and shoulder belt.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A parent or legal guardian may transport his or her own child without restraint herein if that person is transporting a number of his or her own children of less than 16 years of age which exceeds the number of passenger positions equipped with safety belts in the motor vehicle. However, an unrestrained child may not be transported in the front seat of a motor vehicle.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Automobile rental companies shall be required to inform each customer of the provisions of this chapter and provide educational materials to the customer. The educational materials shall be provided by the Department of Transportation.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-194">Mar. 10, 1983, D.C. Law 4-194, § 4, 30 DCR 49</annotation>
+        <annotation doc="D.C. Law 9-57">Mar. 7, 1992, D.C. Law 9-57, § 2(b), 38 DCR 7283</annotation>
+        <annotation doc="D.C. Law 14-212">Oct. 19, 2002, D.C. Law 14-212, § 2(a), 49 DCR 8137</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§50-1706">50-1706</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-1203.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-212">D.C. Law 14-212</cite> rewrote subsec. (b) and added subsec. (d). Prior to amendment, subsec. (b) read as follows: “(b) The operator of a motor vehicle may not transport any child between 3 years of age and 16 years of age unless the child is properly restrained in an approved child restraint seat or safety belt.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|17"/>
+    <num codify:value="50-1703.01">4a</num>
+    <heading>Child Passenger Safety Program.</heading>
+    <text>Any fines in excess of $55 shall be directed to fund the Child Passenger Safety Program which will be used:</text>
+    <para>
+      <num>(1)</num>
+      <text>To assure that at least one fitting station is located in each ward of the city at the facilities of the District of Columbia Fire and Emergency Medical Services Department (“DCFEMS”), Metropolitan Police Department (“MPD”) precincts, Department of Motor Vehicle (“DMV”) Inspection Stations or facilities of the Department of Transportation (“DOT”);</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>That personnel of the DCFEMS, MPD, DMV and DOT receive training on the proper installation of a child restraint system;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>To provide offenders with a child passenger safety class administered by DOT; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>To provide children of all ages who are from low income families with child restraint systems free or at a minimal cost.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-194">Mar. 10, 1983, D.C. Law 4-194, § 4a</annotation>
+        <annotation doc="D.C. Law 14-212">as added Oct. 19, 2002, D.C. Law 14-212, § 2(b), 49 DCR 8137</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|17"/>
+    <reason>Repealed</reason>
+    <num codify:value="50-1703.02">4b</num>
+    <heading>Child Passenger Safety Fund.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-194">Mar. 10, 1983, D.C. Law 4-194, § 4b</annotation>
+        <annotation doc="D.C. Law 14-212">as added Oct. 19, 2002, D.C. Law 14-212, § 2(b), 49 DCR 8137</annotation>
+        <annotation doc="D.C. Law 19-21">Sept. 14, 2011, D.C. Law 19-21, § 9095, 58 DCR 6226</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|17"/>
+    <num codify:value="50-1704">5</num>
+    <heading>Seats to conform to federal safety standards.</heading>
+    <text>Child restraint seats shall conform to all applicable federal motor vehicle safety standards established pursuant to § 103 of title 1 of the National Traffic and Motor Vehicle Safety Act of 1966, approved September 9, 1966 (80 Stat. 719; 15 U.S.C. § 1392  ).</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-194">Mar. 10, 1983, D.C. Law 4-194, § 5, 30 DCR 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§50-1702">50-1702</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-1204.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>15 U.S.C. § 1392, referred to in this section, was repealed in 1994 by P.L. 103-272, § 7(b). For present law, see  49 U.S.C. § 30101 et seq.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|17"/>
+    <num codify:value="50-1704.01">5a</num>
+    <heading>Administration.</heading>
+    <text>The Department of Transportation shall continue to serve as the lead agency in the administration of the Child Passenger Safety Fund and in coordinating the child safety seat program with the DCFEMS, MPD and DMV.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-194">Mar. 10, 1983, D.C. Law 4-194, § 5a</annotation>
+        <annotation doc="D.C. Law 14-212">as added Oct. 19, 2002, D.C. Law 14-212, § 2(c), 49 DCR 8137</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|17"/>
+    <num codify:value="50-1705">6</num>
+    <heading>Application of chapter.</heading>
+    <para>
+      <num>(a)</num>
+      <text>This chapter shall apply to any person operating a motor vehicle in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This chapter shall apply to any motor vehicle that is used for personal use.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-194">Mar. 10, 1983, D.C. Law 4-194, § 6, 30 DCR 49</annotation>
+        <annotation doc="D.C. Law 9-57">Mar. 7, 1992, D.C. Law 9-57, § 2(c), 38 DCR 7283</annotation>
+        <annotation doc="D.C. Law 14-212">Oct. 19, 2002, D.C. Law 14-212, § 2(d), 49 DCR 8137</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-1205.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-212">D.C. Law 14-212</cite> designated subsec. (a); and added subsec. (b).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|17"/>
+    <num codify:value="50-1706">7</num>
+    <heading>Penalty; waiver of fine.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>First time offenders of this chapter shall be given a choice of paying a $75 fine or attending a child restraint safety class, for which they will be charged $25. For the second offense, offenders shall be required to attend a child safety class, for which they will be charged $25 and pay a $75 fine. For the third offense, offenders shall be fined $125. For the fourth, and each subsequent offense, offenders shall receive a $150 fine.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Violations shall be processed and adjudicated as moving violations.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The fine for the first violation of § <cite path="§50-1703">50-1703</cite>(a) by any operator shall be waived upon presentation of proof by the operator that an approved child restraint seat has been acquired subsequent to the violation, either by purchase, gift, or through an officially designated child restraint seat loan program, by the operator or by the parent or legal guardian of the child who was transported without being properly restrained.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Director of the Department of Transportation shall assign 2 points under the provisions of 18 DCMR to the driver record of any person convicted of a violation of this chapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-194">Mar. 10, 1983, D.C. Law 4-194, § 7, 30 DCR 49</annotation>
+        <annotation doc="D.C. Law 9-57">Mar. 7, 1992, D.C. Law 9-57, § 2(d), 38 DCR 7283</annotation>
+        <annotation doc="D.C. Law 14-212">Oct. 19, 2002, D.C. Law 14-212, § 2(e), 49 DCR 8137</annotation>
+        <annotation doc="D.C. Law 16-279">Mar. 14, 2007, D.C. Law 16-279, § 303, 54 DCR 903</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-1206.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-212">D.C. Law 14-212</cite> rewrote subsec. (a) which had read as follows: “(a) Any individual who violates any provision of this chapter shall be subject to a fine of $55, and the violation shall be processed and adjudicated under the provisions applicable to parking, standing, stopping, and pedestrian infractions which are set forth in subchapter III of Chapter 23 of this title.”</annotation>
+        <annotation><cite doc="D.C. Law 16-279">D.C. Law 16-279</cite>, in subsec. (a)(2), substituted “as moving violations” for “under the provisions applicable to parking, standing, stopping, and pedestrian infractions which are set forth in subchapter III of Chapter 23 of this title”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>The functions of the Department of Transportation were transferred to the Department of Public Works by Reorganization Plan No. 4 of 1983, effective March 1, 1984.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|17"/>
+    <num codify:value="50-1707">8</num>
+    <heading>Evidentiary effect; basis for civil liability.</heading>
+    <text>Neither a violation of this chapter nor compliance herewith shall constitute any evidence of negligence or contributory negligence, nor shall either a violation or compliance provide any basis for a civil action for damages.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-194">Mar. 10, 1983, D.C. Law 4-194, § 8, 30 DCR 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-1207.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|17"/>
+    <num codify:value="50-1708">9</num>
+    <heading>Rules; public information program.</heading>
+    <text>Within 180 days from March 7, 1992, the Mayor shall issue rules to implement this chapter and, through public or private programs, shall maintain a child restraint seat loan program for residents of the District of Columbia, and make available to the public information about this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-194">Mar. 10, 1983, D.C. Law 4-194, § 9, 30 DCR 49</annotation>
+        <annotation doc="D.C. Law 9-57">Mar. 7, 1992, D.C. Law 9-57, § 2(e), 38 DCR 7283</annotation>
+        <annotation doc="D.C. Law 10-68">Feb. 5, 1994, D.C. Law 10-68, § 34, 40 DCR 6311</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-1208.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority under Law 4-194, see Mayor’s Order 83-174, June 23, 1983.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

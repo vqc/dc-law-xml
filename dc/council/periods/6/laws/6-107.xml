@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 6-107">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 6-107">
   <num type="law">6-107</num>
   <heading type="short">District of Columbia Regional Interstate Banking Act of 1985</heading>
   <meta>
@@ -12,4 +12,24 @@
       <narrative>Law 6-107, the “District of Columbia Regional Interstate Banking Act of 1985,” was introduced in Council and assigned Bill No. 6-276, which was referred to the Committee on Housing and Economic Development. The Bill was adopted on first and second readings on January 14, 1986 and January 28, 1986, respectively. Signed by the Mayor on February 14, 1986, it was assigned Act No. 6-136 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section>
+    <num>2</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" before="§26-709" path="|26|7|I"/>
+      <reason>Repealed</reason>
+      <num codify:value="26-708">(i)</num>
+      <heading>Nonseverability.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 6-107">Apr. 11, 1986, D.C. Law 6-107, § 2(i), 33 DCR 1168</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 26-808.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

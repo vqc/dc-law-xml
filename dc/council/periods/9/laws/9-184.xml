@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 9-184" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 9-184" flag="true">
   <num type="law">9-184</num>
   <heading type="short">DISTRICT OF COLUMBIA ARCHITECT LICENSURE ACT OF 1991, BILL 9-189</heading>
   <meta>
@@ -10,4 +10,863 @@
     </cites>
     <history url="http://lims.dccouncil.us/Legislation/B9-0189"/>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1641">101</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 101, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-241.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation><cite doc="D.C. Law 12-261">D.C. Law 12-261</cite>, Title I, § 1236, provided: “Sec. 1236. The Barber and Cosmetology Revision Act of 1992, effective March 17, 1993 (<cite doc="D.C. Law 9-245">D.C. Law 9-245</cite>;  D.C. Code § <cite path="§2-421">2-421</cite> et seq. § <cite path="§3-1801">3-1801</cite> et seq., 2001 Ed. ), is repealed and authority transferred to the Board of Barber and Cosmetology established by  D.C. Code § <cite path="§47-2853.6">47-2853.6</cite> [§ <cite path="§47-2853.06">47-2853.06</cite>, 2001 Ed.].”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1642">102</num>
+    <heading>Architects registered or licensed under prior law.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 102, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-242.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1643">103</num>
+    <heading>Responsibilities of the Mayor.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 103, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-243.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1651">201</num>
+    <heading>Board of Architecture; establishment; appointment.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 201, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-251.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1652">202</num>
+    <heading>Qualifications of members.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 202, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-252.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1653">203</num>
+    <heading>Terms of members; filling of vacancies.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 203, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-253.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1654">204</num>
+    <heading>Removal.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 204, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-254.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1655">205</num>
+    <heading>Meetings; officers; quorum.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 205, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-255.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1656">206</num>
+    <heading>Compensation.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 206, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-256.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1657">207</num>
+    <heading>General powers and duties.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 207, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-257.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1658">208</num>
+    <heading>Annual report.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 208, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-258.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1661">301</num>
+    <heading>License required.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 301, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-261.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1662">302</num>
+    <heading>Exceptions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 302, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-262.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1663">303</num>
+    <heading>General qualifications of applicants.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 303, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-263.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1664">304</num>
+    <heading>Application for license.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 304, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-264.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1665">305</num>
+    <heading>Examination requirements.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 305, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-265.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1666">306</num>
+    <heading>License by reciprocity.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 306, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-266.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1667">307</num>
+    <heading>Issuance of license.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 307, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-267.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1668">308</num>
+    <heading>Scope of license.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 308, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-268.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1669">309</num>
+    <heading>Term and renewal of license.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 309, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-269.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</text>
+        <text><cite doc="D.C. Law 12-261">D.C. Law 12-261</cite>, Title I, § 1236, provided:</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1670">310</num>
+    <heading>Reinstatement of expired license.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 310, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-270.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1671">311</num>
+    <heading>Display of license; change of address.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 311, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-271.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1672">312</num>
+    <heading>Architect’s seal required.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 312, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-272.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1673">313</num>
+    <heading>Denials.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 313, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-273.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1674">314</num>
+    <heading>Disciplinary actions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 314, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-274.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1675">315</num>
+    <heading>Hearings.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 315, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-275.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1676">316</num>
+    <heading>Summary action.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 316, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-276.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1677">317</num>
+    <heading>Cease and desist orders.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 317, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-277.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1678">318</num>
+    <heading>Voluntary surrender of license.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 318, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-278.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1679">319</num>
+    <heading>Judicial and administrative review.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 319, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-279.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1680">320</num>
+    <heading>Reinstatement of a suspended or revoked license.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 320, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-280.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1681">401</num>
+    <heading>Partnerships and corporations established for the practice of architecture.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 401, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-281.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1691">501</num>
+    <heading>Penalties; alternative sanctions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 501, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-291.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1692">502</num>
+    <heading>Prosecution.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 502, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-292.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1693">503</num>
+    <heading>Injunctions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 503, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-293.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1694">504</num>
+    <heading>Civil actions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 504, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-294.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1696">601</num>
+    <heading>Transfer of personnel, records, property, and funds.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 601, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-296.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1697">602</num>
+    <heading>Board of Examiners and Registrars of Architects abolished.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 602, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-297.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|16|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1698">603</num>
+    <heading>Pending actions and proceedings; existing orders.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-184">Mar. 13, 1993, D.C. Law 9-184, § 603, 39 DCR 8208</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1235, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-298.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of chapter: See note to § <cite path="§3-1641">3-1641</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

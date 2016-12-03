@@ -1,10 +1,170 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 71-2-ch135">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 71-2-ch135">
+  <heading/>
   <meta>
     <effective>1930-04-12</effective>
     <cites>
-        <law congress="71" session="2" chapter="135"/>
+      <law congress="71" session="2" chapter="135"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|57"/>
+    <reason>Repealed</reason>
+    <num codify:value="31-5722">1</num>
+    <heading>Separation of fraternal and insurance activities; corporations affected.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Apr. 12, 1930, 46 Stat. 158, ch. 135, § 1</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(o), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86,§ 1237(c), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1222.</annotation>
+        <annotation>1973 Ed., § 35-922.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-5702">31-5702</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|57"/>
+    <reason>Repealed</reason>
+    <num codify:value="31-5723">2</num>
+    <heading>Separation of fraternal and insurance activities — Certificate of corporation to be filed; contents.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Apr. 12, 1930, 46 Stat. 158, ch. 135, § 2</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10, 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86, § 1237(c), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1223.</annotation>
+        <annotation>1973 Ed., § 35-923.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>This section was also amended by <cite doc="D.C. Law 12-81">D.C. Law 12-81</cite> to validate previously made technical corrections.</text>
+        <text>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-5702">31-5702</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|57"/>
+    <reason>Repealed</reason>
+    <num codify:value="31-5724">3</num>
+    <heading>Separation of fraternal and insurance activities — Approval and certificates of Commissioner required.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Apr. 12, 1930, 46 Stat. 159, ch. 135, § 3</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(o), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86,§ 1237(c), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1224.</annotation>
+        <annotation>1973 Ed., § 35-924.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-5702">31-5702</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|57"/>
+    <reason>Repealed</reason>
+    <num codify:value="31-5725">4</num>
+    <heading>Separation of fraternal and insurance activities — General powers, duties, liabilities and structure of activities.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Apr. 12, 1930, 46 Stat. 159, ch. 135, § 4</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10, 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86, § 1237(c), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1225.</annotation>
+        <annotation>1973 Ed., § 35-925.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>This section was also amended by <cite doc="D.C. Law 12-81">D.C. Law 12-81</cite> to validate previously made technical corrections.</text>
+        <text>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-5702">31-5702</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|57"/>
+    <reason>Repealed</reason>
+    <num codify:value="31-5726">5</num>
+    <heading>Separation of fraternal and insurance activities — Continuation and supervision of original corporation.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Apr. 12, 1930, 46 Stat. 160, ch. 135, § 5</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(o), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86,§ 1237(c), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1226.</annotation>
+        <annotation>1973 Ed., § 35-926.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-5702">31-5702</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|57"/>
+    <reason>Repealed</reason>
+    <num codify:value="31-5727">6</num>
+    <heading>Separation of fraternal and insurance activities — Existing contracts preserved; Congressional powers reserved.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Apr. 12, 1930, 46 Stat. 160, ch. 135, § 6</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86, § 1237(c), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1227.</annotation>
+        <annotation>1973 Ed., § 35-927.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|57"/>
+    <reason>Repealed</reason>
+    <num codify:value="31-5728">7</num>
+    <heading>Separation of fraternal and insurance activities — Applicability of state and District laws.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Apr. 12, 1930, 46 Stat. 160, ch. 135, § 7</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86, § 1237(c), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1228.</annotation>
+        <annotation>1973 Ed., § 35-928.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

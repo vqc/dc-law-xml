@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 12-60">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 12-60">
   <num type="law">12-60</num>
   <heading type="short">Fiscal Year 1998 Revised Budget Support Act of 1998</heading>
   <meta>
@@ -12,4 +12,361 @@
       <narrative>Law 12-60, the “Fiscal Year 1998 Revised Budget Support Act of 1998,” was introduced in Council and assigned Bill No. 12-353, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on September 8, 1997, and October 7, 1997, respectively. Signed by the Mayor on October 24, 1997, it was assigned Act No. 12-191 and transmitted to both Houses of Congress for its review. D.C. Law 12-60 became effective on March 20, 1998.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-920" path="|38|9"/>
+    <num codify:value="38-918">1301</num>
+    <heading>Written procedures for evaluating facilities needs.</heading>
+    <text>The District of Columbia Public Schools shall develop and submit for Council approval by November 1, 1997, written procedures outlining an ongoing process for evaluating facilities needs, to include:</text>
+    <para>
+      <num>(1)</num>
+      <text>Annual community input and deliberations; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Annual demographic projections based on census, economic development (which shall include housing starts), and other factors.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-60">Mar. 20, 1998, D.C. Law 12-60, § 1301, 44 DCR 7378</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2218.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>Section 1301 of D.C. Law 12-59 added § 31-2218 [1981 Ed.].</annotation>
+        <annotation>Section 2001(b) of <cite doc="D.C. Law 12-59">D.C. Law 12-59</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2002 of <cite doc="D.C. Law 12-59">D.C. Law 12-59</cite> provided that the act shall apply as of October 1, 1997.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of section, see § 1301 of the Fiscal Year 1998 Revised Budget Support Emergency Act of 1997 (D.C. Act 12-152, October 17, 1997,  44 DCR 6196), and § 1301 of the Fiscal Year 1998 Revised Budget Support Congressional Review Emergency Act of 1997 (D.C. Act 12-239, January 13, 1998,  45 DCR 508).</annotation>
+        <annotation>Section 2002 of D.C. Act 12-152 provided for the application of the act.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Application of Law 12-60: Section 2002 of <cite doc="D.C. Law 12-60">D.C. Law 12-60</cite> provided that the act shall apply as of October 1, 1997.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-920" path="|38|9"/>
+    <num codify:value="38-919">1302</num>
+    <heading>Community input and demographic analysis in annual capital request.</heading>
+    <text>The District of Columbia Public Schools shall submit annually with its capital request a report that details how the capital request reflects the required community input and demographic analysis.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-60">Mar. 20, 1998, D.C. Law 12-60, § 1302, 44 DCR 7378</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2219.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>Section 1302 of D.C. Law 12-59 added § 31-2219 [1981 Ed.].</annotation>
+        <annotation>Section 2001(b) of <cite doc="D.C. Law 12-59">D.C. Law 12-59</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2002 of <cite doc="D.C. Law 12-59">D.C. Law 12-59</cite> provided that the act shall apply as of October 1, 1997.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of section, see § 1302 of the Fiscal Year 1998 Revised Budget Support Emergency Act of 1997 (D.C. Act 12-152, October 17, 1997,  44 DCR 6196), and § 1302 of the Fiscal Year 1998 Revised Budget Support Congressional Review Emergency Act of 1997 (D.C. Act 12-239, January 13, 1998,  45 DCR 508).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|22"/>
+    <reason>Expired</reason>
+    <num codify:value="38-2201">1402</num>
+    <heading>Establishment of the 21st Century Public School Information Technology Program.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-60">Mar. 20, 1998, D.C. Law 12-60, § 1402, 44 DCR 7378</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2521.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>Sections 1401 to 1406 of D.C. Law 12-59 enacted §§ 31-2521 to 31-2525, comprising subchapter II of Chapter 25 of Title 31 1981 Ed. .</annotation>
+        <annotation>Section 2001(b) of <cite doc="D.C. Law 12-59">D.C. Law 12-59</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of subchapter II, see §§ 1401 to 1406 of the Fiscal Year 1998 Revised Budget Support Emergency Act of 1997 (D.C. Act 12-152, October 17, 1997,  44 DCR 6196); and see §§ 1401 to 1406 of the Fiscal Year 1998 Revised Budget Support Congressional Review Emergency Act of 1997 (D.C. Act 12-239, January 13, 1998,  45 DCR 508).</annotation>
+        <annotation>Section 2002 of D.C. Act 12-152 provided for the application of the act.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>21st Century Public School Information Technology Program Act of 1997: Section 1401 of <cite doc="D.C. Law 12-60">D.C. Law 12-60</cite> provided that title XIV of the act may be cited as the “21st Century Public School Information Technology Program Act of 1997.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Editor’s Note Section 1406 of <cite doc="D.C. Law 12-60">D.C. Law 12-60</cite> provided that this chapter shall expire in 4 years after March 20, 1998.  Sections 38-2201 to  38-2205 expired effective March 21, 2002.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|22"/>
+    <reason>Expired</reason>
+    <num codify:value="38-2202">1403</num>
+    <heading>Computer literacy requirement for teachers.</heading>
+    <text>Expired.   .</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-60">Mar. 20, 1998, D.C. Law 12-60, § 1403, 44 DCR 7378</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2522.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§38-2201">38-2201</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of subchapter, see note to § <cite path="§38-2201">38-2201</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>21st Century Public School Information Technology Program Act of 1997: See Historical and Statutory Notes following § <cite path="§38-2201">38-2201</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|22"/>
+    <reason>Expired</reason>
+    <num codify:value="38-2203">1404</num>
+    <heading>Establishment of the 21st Century Public School Information Technology Program Fund.</heading>
+    <text>Expired.   .</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-60">Mar. 20, 1998, D.C. Law 12-60, § 1404, 44 DCR 7378</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2523.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§38-2201">38-2201</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of subchapter, see note to § <cite path="§38-2201">38-2201</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>21st Century Public School Information Technology Program Act of 1997: See Historical and Statutory Notes following § <cite path="§38-2201">38-2201</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|22"/>
+    <reason>Expired</reason>
+    <num codify:value="38-2204">1405</num>
+    <heading>Eligibility for funding.</heading>
+    <text>Expired.   .</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-60">Mar. 20, 1998, D.C. Law 12-60, § 1405, 44 DCR 7378</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2524.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§38-2201">38-2201</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of subchapter, see note to § <cite path="§38-2201">38-2201</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>21st Century Public School Information Technology Program Act of 1997: See Historical and Statutory Notes following § <cite path="§38-2201">38-2201</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|22"/>
+    <reason>Expired</reason>
+    <num codify:value="38-2205">1406</num>
+    <heading>Sunset provision.</heading>
+    <text>Expired.   .</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-60">Mar. 20, 1998, D.C. Law 12-60, § 1406, 44 DCR 7378</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2525.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§38-2201">38-2201</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of subchapter, see note to § <cite path="§38-2201">38-2201</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|26|6"/>
+    <reason>Repealed</reason>
+    <num codify:value="26-601">1802</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-60">Mar. 20, 1998, D.C. Law 12-60, § 1802, 44 DCR 7378</annotation>
+        <annotation doc="D.C. Law 12-175">Mar. 26, 1999, D.C. Law 12-175, § 1902(a), 45 DCR 7193</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 26-802.2.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation><cite doc="D.C. Law 12-59">D.C. Law 12-59</cite>, title XVIII, § 1802 ( 44 DCR 7356), eff. March 20, 1998, provided for the temporary addition of this section.</annotation>
+        <annotation>Section 2001(b) of <cite doc="D.C. Law 12-59">D.C. Law 12-59</cite> provided for expiration “after 225 days of its having taken effect.”</annotation>
+        <annotation>Section 2002 of <cite doc="D.C. Law 12-59">D.C. Law 12-59</cite> provided: “Sec. 2002. This act shall apply as of October 1, 1997.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary repeal of section, see § 1502(a) of the Fiscal Year 1999 Budget Support Emergency Act of 1998 (D.C. Act 12-401, July 13, 1998,  45 DCR 4794) and § 1502(a) of the Fiscal Year 1999 Budget Support Congressional Review Emergency Act of 1998 (D.C. Act 12-564, January 12, 1999,  46 DCR 669).</annotation>
+        <annotation>For temporary (90-day) amendment of section, see § 1502(a) of the Fiscal Year 1999 Budget Support Congressional Review Emergency Act of 1999 (D.C. Act 13-41, March 31, 1999,  46 DCR 3446).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text><cite doc="D.C. Law 12-60">D.C. Law 12-60</cite>, title XVIII, § 1802 ( 44 DCR 7378), eff. March 20, 1998, added this section. Section 2002 of <cite doc="D.C. Law 12-60">D.C. Law 12-60</cite> provided: “Sec. 2002. This act shall apply as of October 1, 1997.”</text>
+        <text>Application of <cite doc="D.C. Law 12-175">D.C. Law 12-175</cite>: Section 1904 of <cite doc="D.C. Law 12-175">D.C. Law 12-175</cite> provided that the act shall apply as of October 1, 1998.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|26|6"/>
+    <reason>Repealed</reason>
+    <num codify:value="26-602">1803</num>
+    <heading>Establishment of special account.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-60">Mar. 20, 1998, D.C. Law 12-60, § 1803, 44 DCR 7378</annotation>
+        <annotation doc="D.C. Law 12-175">Mar. 26, 1999, D.C. Law 12-175, §  1902(b), 45 DCR 7193</annotation>
+        <annotation doc="D.C. Law 12-264">Apr. 20, 1999, D.C. Law 12-264, § 25, 46 DCR 2118</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 36, 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 26-802.3.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>Sections 1802 through 1804 of D.C. Law 12-59 added §§ 26-802.3 and 26-802.4 [1981 Ed.].</annotation>
+        <annotation>Section 2001(b) of <cite doc="D.C. Law 12-59">D.C. Law 12-59</cite> provided the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of §§  26-802.3 and 26-802.4 [1981 Ed.], see §§ 1802 to 1804 of the Fiscal Year 1998 Revised Budget Support Emergency Act of 1997 (D.C. Act 12-152, October 17, 1997,  44 DCR 6196) and §§ 1802 to 1804 of the Fiscal Year 1998 Revised Budget Support Congressional Review Emergency Act of 1997 (D.C. Act 12-239, January 13, 1998,  45 DCR 508).</annotation>
+        <annotation>For temporary amendment of section, see § 1502(b) of the Fiscal Year 1999 Budget Support Emergency Act of 1998 (D.C. Act 12-401, July 13, 1998,  45 DCR 4794), and § 1502(b) of the Fiscal Year 1999 Budget Support Congressional Review Emergency Act of 1998 (D.C. Act 12-564, January 12, 1999,  46 DCR 669).</annotation>
+        <annotation>For temporary (90-day) amendment of section, see § 1502(b) of the Fiscal Year 1999 Budget Support Congressional Review Emergency Act of 1999 (D.C. Act 13-41, March 31, 1999,  46 DCR 3446).</annotation>
+        <annotation>For temporary (90-day) amendment of section, see § 1502(c) of the Fiscal Year 1999 Budget Support Congressional Review Emergency Act of 1999 (D.C. Act 13-41, March 31, 1999,  46 DCR 3446).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Application of Law 12-60: Section 2002 of <cite doc="D.C. Law 12-60">D.C. Law 12-60</cite> provided that the act shall apply as of October 1, 1997.</text>
+        <text>Application of <cite doc="D.C. Law 12-175">D.C. Law 12-175</cite>: See Historical and Statutory Notes following § <cite path="§26-601">26-601</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section>
+    <num>1804</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|26|6"/>
+      <reason>Repealed</reason>
+      <num codify:value="26-603">(1)</num>
+      <heading>Fees credited to the special account.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 12-60">Mar. 20, 1998, D.C. Law 12-60, § 1804(1), 44 DCR 7378</annotation>
+          <annotation doc="D.C. Law 12-175">Mar. 26, 1999, D.C. Law 12-175, §  1902(c), 45 DCR 7193</annotation>
+          <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1411(a), 48 DCR 991</annotation>
+          <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §§ 601(b), 602(a), 49 DCR 2551</annotation>
+          <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, §  36, 52 DCR 2638</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 26-802.4.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>Section 2 of <cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001”, effective March 19, 2002, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+          <annotation>Section 4(b) of <cite doc="D.C. Law 14-86">D.C. Law 14-86</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Addition of Section</heading>
+          <annotation>For temporary addition of sections, see notes following § <cite path="§26-602">26-602</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary amendment of section, see § 1502(c) of the Fiscal Year 1999 Budget Support Emergency Act of 1998 (D.C. Act 12-401, July 13, 1998,  45 DCR 4794) and § 1502(c) of the Fiscal Year 1999 Budget Support Congressional Review Emergency Act of 1999 (D.C. Act 12-564, January 12, 1999,  46 DCR 669).</annotation>
+          <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 601(b) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <text>Application of Law 12-60: See Historical and Statutory Notes following § <cite path="§26-602">26-602</cite>.</text>
+          <text>Application of <cite doc="D.C. Law 12-175">D.C. Law 12-175</cite>: See Historical and Statutory Notes following § <cite path="§26-601">26-601</cite>.</text>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
+  <section>
+    <num>701</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" before="§4-205.13a" path="|4|2|V"/>
+      <reason>Repealed</reason>
+      <num codify:value="4-205.13">(g)</num>
+      <heading>Enumerated income disregarded.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 12-60">Mar. 20, 1998, D.C. Law 12-60, § 701(g), 44 DCR 7378</annotation>
+          <annotation doc="D.C. Law 12-241">Apr. 20, 1999, D.C. Law 12-241, § 2(p), 46 DCR 905</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 3-205.13.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 2(x) of Public Assistance Temporary Amendment Act of 1998 (<cite doc="D.C. Law 12-130">D.C. Law 12-130</cite>, July 24, 1998, law notification  45 DCR 6501).</annotation>
+          <annotation>For temporary (225 day) repeal of section, see § 2(p) of Self-Sufficiency Promotion Temporary Amendment Act of 1998 (<cite doc="D.C. Law 12-230">D.C. Law 12-230</cite>, April 20, 1999, law notification  46 DCR 4143).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary repeal of section, see § 2(p) of the Self-Sufficiency Promotion Emergency Amendment Act of 1998 (D.C. Act 12-372, June 9, 1998,  45 DCR 4270), § 2(p) of the Self-Sufficiency Promotion Legislative Review Emergency Amendment Act of 1998 (D.C. Act 12-425, July 31, 1998,  45 DCR 5682), § 2(p) of the Self-Sufficiency Promotion Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-552, December 24, 1998,  46 DCR 521), and § 2(p) of the Self-Sufficiency Promotion Congressional Review Emergency Amendment Act of 1999 (D.C. Act 13-19, February 17, 1999,  46 DCR 2492).</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

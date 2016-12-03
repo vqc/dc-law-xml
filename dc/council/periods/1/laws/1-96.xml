@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 1-96" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 1-96" flag="true">
   <num type="law">1-96</num>
   <meta>
     <effective>1977-03-25</effective>
@@ -11,4 +11,28 @@
       <narrative>Law 1-96 was introduced in Council and assigned Bill No. 1-119, which was referred to the Committee on the Judiciary and the Committee on Criminal Law. The Bill was adopted on first and second readings on September 15, 1976 and October 12, 1976, respectively. Signed by the Mayor on November 19, 1976, it was assigned Act No. 1-178 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|J"/>
+    <num codify:value="1-301.174">4a</num>
+    <heading>District of Columbia Auditor Legal Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a nonlapsing fund the District of Columbia Auditor Legal Fund (“Fund”), which shall be administered by the District of Columbia Auditor for the purpose of enforcing the District of Columbia Auditor’s subpoena power.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>There shall be deposited into the Fund all fees awarded and expenses or costs reimbursed pursuant to § <cite path="§1-301.172">1-301.172</cite>(b) or (c), and any other funds required by law to be deposited into the Fund.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Funds deposited to the Fund shall be used for the purpose of subpoena enforcement against a District government agency or instrumentality challenging the District of Columbia Auditor’s subpoena authority. All funds deposited into the Fund, and any interest earned on those funds, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the purpose set forth in this section without regard to fiscal year limitation, subject to authorization by Congress.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-96">Mar. 25, 1977, D.C. Law 1-96, § 4a</annotation>
+        <annotation doc="D.C. Law 18-119">as added Mar. 11, 2010, D.C. Law 18-119, § 4(b), 57 DCR 906</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

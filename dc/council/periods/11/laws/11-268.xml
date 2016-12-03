@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 11-268">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 11-268">
   <num type="law">11-268</num>
   <heading type="short">Department of Insurance and Securities Regulation Establishment Act of 1996</heading>
   <meta>
@@ -12,4 +12,379 @@
       <narrative>Law 11-268, the “Department of Insurance and Securities Regulation Establishment Act of 1996,” was introduced in Council and assigned Bill No. 11-415, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 30, 1996, it was assigned Act No. 11-524 and transmitted to both Houses of Congress for its review. D.C. Law 11-268 became effective on May 21, 1997.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|1|I"/>
+    <num codify:value="31-101">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Associate Commissioner for Securities and Banking” means the Associate Commissioner of the Securities and Banking Bureau.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Commissioner” means the Commissioner of the Department of Insurance, Securities, and Banking, who shall be the chief executive officer of the Department of Insurance, Securities, and Banking.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Department” means the Department of Insurance, Securities, and Banking.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Deputy Commissioner” means the Deputy Commissioner of the Department of Insurance, Securities, and Banking.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“District of Columbia Banking Code” means the statutory provisions concerning banking and financial institutions codified in Title 26, laws administered by the Commissioner, and rules and regulations promulgated under those statutory provisions and laws.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Insurance Bureau” means the office overseeing the regulation of insurance, insurers, and health maintenance organizations.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Securities and Banking Bureau” means the office administering the District of Columbia Banking Code and overseeing the regulation of securities.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 2, 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 3(a), 51 DCR 2817</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 98, 52 DCR 2638</annotation>
+        <annotation doc="D.C. Law 18-223">Sept. 24, 2010, D.C. Law 18-223, § 2112(a), 57 DCR 6242</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-121.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite> redesignated par. (1) as paragraph (1B); in the redesignated par. (1B), substituted “Commissioner of the Department of Insurance, Securities, and Banking” for “Commissioner of Insurance and Securities”; rewrote par. (1); added par. (1A); and in par. (2), substituted “Department of Insurance, Securities, and Banking” for “Department of Insurance and Securities Regulation”. Prior to amendment, par. (1) had read as follows: “(1) ‘Commissioner’ means the Commissioner of Insurance and Securities, who shall be the chief executive officer of the Department of Insurance and Securities Regulation.”</annotation>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite> validated a previously made technical correction.</annotation>
+        <annotation><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote the section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 3(a) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2112(a) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 2111 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle K of title II of the act may be cited as the “Department of Insurance, Securities, and Banking Reorganization Amendment Act of 2010”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|1|I"/>
+    <num codify:value="31-102">3</num>
+    <heading>Establishment of the Department of Insurance, Securities, and Banking.</heading>
+    <text>The Department, under the supervision of the Commissioner, is established as a cabinet level agency of the District government.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 3, 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 3(b), 51 DCR 2817</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 40(a), 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-1131.02">31-1131.02</cite> and § <cite path="§31-3171.01">31-3171.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-122.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite> rewrote the section which had read as follows: “Pursuant to § <cite path="§1-204.04">1-204.04</cite>(b), the Council establishes the Department of Insurance and Securities Regulation as a cabinet level agency of the executive branch of the Government of the District of Columbia, under the supervision of the Commissioner of Insurance and Securities.”</annotation>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in the section heading, validated a previously made technical correction.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 3(b) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|1|I"/>
+    <num codify:value="31-103">4</num>
+    <heading>Functions and duties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The functions and duties contained and referenced herein are transferred to the Department and shall be performed by the following major organizational components of the Department.</text>
+      <para>
+        <num>(1)</num>
+        <text>All duties and responsibilities in respect to the regulation of life and health and property and casualty insurance, insurers, and health maintenance organizations that heretofore have been given to the Mayor, the Superintendent of Insurance, or the Insurance Administrator, by virtue of various District of Columbia laws, shall be assumed by the Commissioner of Insurance and Securities who shall exercise those regulatory responsibilities through the Insurance Bureau.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All functions and duties assigned to the Public Service Commission in Chapter 36 [repealed] of Title 3 and Chapter 37 [repealed] of Title 3, shall be assumed by the Commissioner, who shall exercise those regulatory responsibilities through the Securities and Banking Bureau.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Pursuant to §§ <cite path="§26-551.03">26-551.03</cite> and <cite path="§26-551.05">26-551.05</cite>, the Commissioner, through the Securities and Banking Bureau, shall administer the District of Columbia Banking Code, as defined in § <cite path="§26-551.02">26-551.02</cite>(14).</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor, at his or her discretion, may transfer the regulatory functions and duties of other executive offices and agencies to the Department.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 4, 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 3(c), 51 DCR 2817</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 40(b), 52 DCR 2638</annotation>
+        <annotation doc="D.C. Law 18-223">Sept. 24, 2010, D.C. Law 18-223, § 2112(b), 57 DCR 6242</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-123.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite>, in subsec. (a), deleted “of Insurance and Securities” following “Commissioner” in par. (2), and added par. (3).</annotation>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in subsec. (a)(3), substituted “Banking Code, as defined in § <cite path="§26-551.02">26-551.02</cite>(14)” for “Banking Code”.</annotation>
+        <annotation><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite>, in subsec. (a)(2), substituted “Securities and Banking Bureau” for “Securities Bureau”; and, in subsec. (a)(3), substituted “Securities and Banking Bureau” for “Banking Bureau”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 3(c) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2112(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|1|I"/>
+    <num codify:value="31-104">5</num>
+    <heading>Commissioner of the Department of Insurance, Securities, and Banking.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commissioner shall be appointed by the Mayor, with the advice and consent of the Council, pursuant to § <cite path="§1-204.22">1-204.22</cite>(1).</text>
+      <para>
+        <num>(1)</num>
+        <text>Notwithstanding the provisions of § <cite path="§1-611.07">1-611.07</cite>(c) [repealed], the rate of pay for the Commissioner or for any other position in the Department for which the Mayor deems it necessary, may exceed the rate of pay for the Mayor.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Mayor shall submit a resolution to the Council for a 45-day period of review, excluding Saturdays, Sundays, holidays, and periods of Council recess, indicating the proposed rate of pay for the Commissioner and for each other employee in the Department. A resolution which has not been approved or disapproved, in whole or part, within the prescribed period of 45 days shall be deemed approved by the Council.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commissioner shall employ staff as needed, in accordance with annual appropriations.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 5, 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 3(d), 51 DCR 2817</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 40(c), 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-124.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite>, deleted “of Insurance and Securities” following “Commissioner” throughout the section.</annotation>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in the section heading, validated a previously made technical correction.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 3(d) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Commissioner of the Department of Insurance and Securities Regulation Salary Approval Resolution of 1998: Pursuant to Resolution 12-582, effective July 7, 1998, the Council approved the rate of pay for the Commissioner of the Department of Insurance and Securities Regulation.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|1|I"/>
+    <num codify:value="31-105">6</num>
+    <heading>Transfers.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All positions, property, records, and unexpended balances of appropriations, allocations, assessments, and other funds available or to be made available to the Department of Consumer and Regulatory Affairs and the Public Service Commission relating to the duties and functions assigned herein, are transferred to the Department.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All powers, duties, and functions transferred to the Department of Banking and Financial Institutions under § <cite path="§26-551.03">26-551.03</cite>, are hereby transferred to the Department of Insurance, Securities, and Banking.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>All positions, property, records, and unexpended balances of appropriations, allocations, assessments, and other funds available or to be made available to the Department of Banking and Financial Institutions under § <cite path="§26-551.03">26-551.03</cite>, are hereby transferred to the Department.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 6, 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 3(e), 51 DCR 2817</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 40(d), 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-125.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite> designated the existing text as subsec. (a); and added subsecs. (b) and (c).</annotation>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in subsec. (a), validated a previously made technical correction.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 3(e) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|1|I"/>
+    <num codify:value="31-106">7</num>
+    <heading>Organization.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commissioner, as the chief executive officer of the Department is authorized to organize the personnel and property transferred herein within any organizational unit of the Department as the Commissioner deems appropriate.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Securities and Banking Bureau is established to oversee the regulation of securities under the supervision of the Commissioner and administer the District of Columbia Banking Code.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The position of Associate Commissioner for Securities and Banking is hereby established to administer the Banking Bureau under the supervision of the Commissioner.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 7, 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 3(f), 51 DCR 2817</annotation>
+        <annotation doc="D.C. Law 18-223">Sept. 24, 2010, D.C. Law 18-223, § 2112(c), 57 DCR 6242</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-126.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite> designated the text of the existing section as subsection (a); in subsec. (a), substituted “Commissioner” for “Commissioner of Insurance and Securities” and substituted “Department” for “Department of Insurance and Securities Regulation”; and added subsec. (b).</annotation>
+        <annotation><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsec. (b)(1); and, in subsec. (b)(2), substituted “Associate Commissioner for Securities and Banking” for “Director of the Bureau of Banking and Financial Institutions”. Prior to amendment, subsec. (b)(1) read as follows: “(b)(1) The Bureau of Banking and Financial Institutions is hereby established to administer the District of Columbia Banking Code under supervision of the Commissioner.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 3(f) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2112(c) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|1|I"/>
+    <num codify:value="31-107">8</num>
+    <heading>Department of Insurance, Securities, and Banking funding.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Control of the Insurance Regulatory Trust Fund, and all monies required to be deposited therein, pursuant to Chapter 7 of this title, is transferred to the Department.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(b-1)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(b-2)</num>
+      <text>There is established within the General Fund of the District of Columbia a trust fund designated as the Securities and Banking Regulatory Trust Fund (“Fund”), to which shall be credited all proceeds from licensure and any funds obtained pursuant to securities regulation and banking regulation. All funds received but not expended in a fiscal year shall revert to the unrestricted fund balance of the General Fund of the District of Columbia. All funds received and deposited in the Fund shall be used to fund the expenses of the Securities and Banking Bureau in the discharge of its administrative and regulatory duties as prescribed by law. All licensing fees, fines, and any other fees imposed, assessed, and collected for securities regulation and banking regulation shall be deposited into the Fund. The Mayor, through the Commissioner, shall administer the Fund.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The administrative costs of the Department, including the compensation of the Commissioner and the Department’s central administrative staff, shall be charged on a pro-rata basis to each of the respective Bureau trust funds in a manner reflecting the central administrative costs associated with the operation of each Bureau. In no circumstances shall monies collected and deposited pursuant to the statutory funding requirements of the District of Columbia Securities Act, the Investment Advisors Act, and the Insurance Regulatory Trust Fund Act, be commingled or used to fund the regulatory activities of a bureau other than the bureau regulating the activities for which the respective funds were established.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor shall submit to the Council, as part of the annual budget, a budget for the Department and a request for an appropriation for expenditures from the Insurance Regulatory Trust Fund and the Securities and Banking Regulatory Trust Fund. The Mayor’s request shall be based on an estimated projection of the expenditures necessary to perform the administration and regulatory functions of the Department. This estimate shall include, but not be limited to, expenditures for salaries, fringe benefits, overhead charges, travel, training, supplies, technical, professional, and any and all other services necessary to discharge the duties and responsibilities of this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 8, 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 3(g), 51 DCR 2817</annotation>
+        <annotation doc="D.C. Law 18-223">Sept. 24, 2010, D.C. Law 18-223, § 2112(d), 57 DCR 6242</annotation>
+        <annotation doc="D.C. Law 19-21">Sept. 14, 2011, D.C. Law 19-21, § 9039, 58 DCR 6226</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-5041.02">31-5041.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-127.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite>, in subsec. (a), substituted “Department” for “Department of Insurance and Securities Regulation”; added subsec. (b-1); and, in subsec. (d), substituted “, the Security Regulatory Trust Fund, and the Banking Regulatory Trust Fund” for “and the Security Regulatory Trust Fund”.</annotation>
+        <annotation><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> repealed subsecs. (b) and (b-1); added subsec. (b-2); and, in subsec. (d), substituted “and the Securities and Banking Regulatory Trust Fund” for “, the Securities Regulatory Trust Fund, and the Banking Regulatory Trust Fund”.</annotation>
+        <annotation><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (b-2), substituted “all proceeds from licensure and any funds” for “all funds”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 3(g) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2112(d) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <text>The “District of Columbia Securities Act”, referred to in (c), is the Act of August 30, 1964, 78 Stat. 620, Pub. L. 88-503, which is codified primarily as § <cite path="§3-3601">3-3601</cite> et seq.</text>
+        <text>The “Investment Advisors Act”, referred to in (c), is <cite doc="D.C. Law 9-216">D.C. Law 9-216</cite>, which is codified as § <cite path="§3-3701">3-3701</cite> et seq.</text>
+        <text>The “Insurance Regulatory Trust Fund Act”, referred to in (c), is <cite doc="D.C. Law 10-40">D.C. Law 10-40</cite>, which is codified as § <cite path="§31-1201">31-1201</cite> et seq.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|1|I"/>
+    <num codify:value="31-108">9</num>
+    <heading>Abolition of Insurance Administration.</heading>
+    <text>The Insurance Administration in the Department of Consumer and Regulatory Affairs as currently organized is abolished.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 9, 44 DCR 1730</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-128.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section>
+    <num>10</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" before="§31-202" path="|31|2"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-201">(c)</num>
+      <heading>Establishment; appointment of Superintendent and clerk.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(c), 44 DCR 1730</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-3503">31-3503</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-101.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: The Department of Insurance, including the Superintendent, was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. Reorganization Order No. 43, dated June 23, 1953, as amended, established, under the direction and control of a Commissioner, a Department of Insurance headed by a Superintendent. The Order provided for the organization of the Department, abolished the previously existing Department of Insurance, and provided that all functions and positions of the previous Department would be transferred to the new Department of Insurance, including the duties, powers, and authorities of all officers and employees; and that all personnel, property, records and unexpended balances relating to the functions and positions transferred would also be transferred to the new Department. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. The functions of the Superintendent of Insurance were transferred to the Department of Consumer and Regulatory Affairs by Reorganization Plan No. 1 of 1983, effective March 31, 1983. Pursuant to the provisions of D.C. Law 11- (Act 11-524), the Department of Insurance and Securities Regulation was established and the duties of the Superintendent of Insurance and the Insurance Administration were assumed by the Commissioner of Insurance and Securities, and the Insurance Administration in the Department of Consumer and Regulatory Affairs was abolished.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

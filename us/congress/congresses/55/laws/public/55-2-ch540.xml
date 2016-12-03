@@ -1,10 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 55-2-ch540">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 55-2-ch540" codify:tag="section" from-code="true">
   <meta>
     <effective>1898-06-30</effective>
     <cites>
-        <law congress="55" session="2" chapter="540"/>
+      <law congress="55" session="2" chapter="540"/>
     </cites>
   </meta>
+  <codify:insert doc="D.C. Code" path="|9|1|VII"/>
+  <reason>Repealed</reason>
+  <num codify:value="9-113.03"></num>
+  <heading>Council may change names of streets when 2 streets have same name.</heading>
+  <text>Repealed.</text>
+  <annotations>
+    <annoGroup>
+      <heading>History</heading>
+      <annotation>June 30, 1898, 30 Stat. 532, ch. 540</annotation>
+      <annotation doc="D.C. Law 4-201">Mar. 10, 1983, D.C. Law 4-201, § 702, 30 DCR 148</annotation>
+    </annoGroup>
+    <annoGroup>
+      <heading>Prior Codifications</heading>
+      <annotation>1981 Ed., § 7-106.</annotation>
+    </annoGroup>
+  </annotations>
 </document>

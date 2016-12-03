@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 18-88">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 18-88">
   <num type="law">18-88</num>
   <heading type="short">Omnibus Public Safety and Justice Amendment Act of 2009</heading>
   <meta>
@@ -12,4 +12,593 @@
       <narrative>Law 18-88, the “Omnibus Public Safety and Justice Amendment Act of 2009”, as introduced in Council and assigned Bill No. 18-151, which was referred to the Committee on Public Safety and the Judiciary. The bill as adopted on first and second readings on June 30, 2009, and July 31, 2009, respectively. Signed by the Mayor on August 26, 2009, it was assigned Act No. 18-189 and transmitted to both Houses of Congress for its review. D.C. Law 18-88 became effective on December 10, 2009.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|15|II-A"/>
+    <num codify:value="2-1531.01">104</num>
+    <heading>Establishment of a Gang and Crew Intervention Joint Working Group.</heading>
+    <para>
+      <num>(a)</num>
+      <text>By December 31, 2009, the Mayor shall create a Gang and Crew Intervention Joint Working Group (“Joint Working Group”) consisting of members of the Executive Committee of the Citywide Coordinating Council for Youth Violence Prevention (“CCCYVP”) and the core Focused Improvement Area (“FIA”) team, to include the Metropolitan Police Department (“MPD”), the Office of the City Administrator, and other agencies as identified by the Office of the Mayor.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Joint Working Group shall develop a coordinated response to high-profile youth violence through the following measures:</text>
+      <para>
+        <num>(1)</num>
+        <text>Assess critical incident (“CI”) need and capacity by:</text>
+        <para>
+          <num>(A)</num>
+          <text>Identifying and mapping all CIs involving youth over the past 6 months;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Determining what portion of these incidents generated a CI response from CCCYVP partners; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Evaluating the current capacity of community-based organizations funded by the District (through both the CCCYVP and Children’s Youth Investment Trust) for violence intervention to respond to CIs;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Endeavor to align existing resources to respond to critical incidents by:</text>
+        <para>
+          <num>(A)</num>
+          <text>Developing a plan to align all violence intervention initiatives funded in fiscal year 2010, regardless of funding source, into a coordinated CI strategy, to include proposals to modify contracts, as necessary;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Assuring that CI resources are targeted to gang and crew “hot spots” and those neighborhoods experiencing the highest rates of youth violence; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Clarifying the geographic areas that each intervention service partner is or will be covering;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Coordinate existing resources to respond to critical incidents by:</text>
+        <para>
+          <num>(A)</num>
+          <text>Developing protocols for the immediate engagement of intervention partners by MPD when critical incidents occur;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Assuring that Department of Parks and Recreation Roving Leaders in targeted neighborhoods are a part of the CI teams; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Engaging staff and School Resource Officers of middle and high schools in targeted neighborhoods in the CI process, as appropriate;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Identify targeted youth by:</text>
+        <para>
+          <num>(A)</num>
+          <text>Identifying existing and emerging conflicts between gangs and crews based on MPD’s Gang Intelligence Fusion Unit, MPD Division officers, and street intelligence from community partners and schools;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>In partnership with schools and community partners, identifying the youth most immediately at risk of involvement in violent behavior in targeted neighborhoods;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Establishing and implementing a process to review unsolved violent offenses for possible gang and crew involvement; provided, that MPD shall review all unsolved suspected gang or crew homicides and attempted homicides involving minors or young adults within the last 5 years, to determine which may be connected to gang and crew violence, and deploy resources to close these cases quickly; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Partnering with Department of Youth Rehabilitation Services and Court Social Services prior to a youth’s release from detention to ensure youth and community safety are carefully planned for, including access to robust post-detention services; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Intervene with targeted youth by:</text>
+        <para>
+          <num>(A)</num>
+          <text>Developing protocols for CIs that outline the necessary steps when responding to violent incidents involving youth, including the development of containment and de-escalation strategies that are incident-specific and designed to prevent acts of retaliation; provided, that:</text>
+          <para>
+            <num>(i)</num>
+            <text>The protocols shall address:</text>
+            <para>
+              <num>(I)</num>
+              <text>What information is shared;</text>
+            </para>
+            <para>
+              <num>(II)</num>
+              <text>The roles and responsibilities of all parties in responding to violent incidents;</text>
+            </para>
+            <para>
+              <num>(III)</num>
+              <text>Guidelines for street mediation, truces, and rumor control; and</text>
+            </para>
+            <para>
+              <num>(IV)</num>
+              <text>Engagement of family members and others significant in the lives of both perpetrators and victims; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Standards for individualized diversion plans for involved youth shall be developed that engage schools, government agencies, recreation centers, and other community-based resources;</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Establishing core components of an individual intervention and diversion plan, including direct outreach to all involved parties (both of the victim and alleged perpetrator), and engagement of families, schools, and community-based resources;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Developing a proposal to provide flexible funds to resource these plans with the participation, as necessary, of agency personnel in review sessions and implementation; provided, that, when possible, any existing family team meeting processes at the Child and Family Services Agency and the Department of Youth Rehabilitation Services may be key elements of this process for youth involved with either of these agencies; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Identifying additional resources from agencies that should, where appropriate, be available to provide support for individual CI plans.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>By December 31, 2009, the Joint Working Group shall expand capacity of Critical Incident and Targeted Youth Outreach Teams through the following measures:</text>
+      <para>
+        <num>(1)</num>
+        <text>Based on the CI capacity assessment, described in subsection (b) of this section, estimate what the current gap is between capacities and need;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Assess the existing capacity of CCCYVP partners to provide targeted outreach to the highest-risk youth;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Develop a plan to expand CI and targeted outreach that realistically reflects time necessary for recruitment and orientation of new staff; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Prepare a cost estimate for the short-term expansion plan, and a funding proposal for its implementation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 104, 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 104 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) addition, see § 104 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|12A"/>
+    <num codify:value="22-1211">103</num>
+    <heading>Tampering with a detection device.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>It is unlawful for a person who is required to wear a device as a condition of a protection order, pretrial, presentence, or predisposition release, probation, supervised release, parole, or commitment, or who is required to wear a device while incarcerated, to:</text>
+        <para>
+          <num>(A)</num>
+          <text>Intentionally remove or alter the device, or to intentionally interfere with or mask or attempt to interfere with or mask the operation of the device;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Intentionally allow any unauthorized person to remove or alter the device, or to intentionally interfere with or mask or attempt to interfere with or mask the operation of the device; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Intentionally fail to charge the power for the device or otherwise maintain the device’s battery charge or power.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the purposes of this subsection, the term “device” includes a bracelet, anklet, or other equipment with electronic monitoring capability or global positioning system or radio frequency identification technology.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Whoever violates this section shall be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, imprisoned for not more than 180 days, or both.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 103, 56 DCR 7413</annotation>
+        <annotation doc="D.C. Law 18-377">June 3, 2011, D.C. Law 18-377, § 8, 58 DCR 1174</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 213(c), 60 DCR 2064</annotation>
+        <annotation doc="D.C. Law 19-320">June 19, 2013, D.C. Law 19-320, § 101, 60 DCR 3390</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§23-581">23-581</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-377">D.C. Law 18-377</cite>, in subsec. (a)(1), substituted “or commitment, or who is required to wear a device while incarcerated” for “or commitment”; and, in subsec. (a)(2), substituted “global positioning system or radio frequency identification” for “global positioning system”.</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $1,000” in (b).</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-320">D.C. Law 19-320</cite> added (a)(1)(C); and made related changes.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 103 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) addition, see § 103 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 508 of Public Safety Legislation Sixty-Day Layover Emergency Amendment Act of 2010 (D.C. Act 18-693, January 18, 2011,  58 DCR 640).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 508 of Public Safety Legislation Sixty-Day Layover Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-45, April 20, 2011,  58 DCR 3701).</annotation>
+        <annotation>For temporary amendment of (a)(1), see § 101 of the Omnibus Criminal Code Amendments Emergency Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013,  60 DCR 1017).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 101 of the Omnibus Criminal Code Amendment Congressional Review Emergency Act of 2013 (D.C. Act 20-44, April 1, 2013,  60 DCR 5381, 20 DCSTAT 1281).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 213(c) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|13A"/>
+    <num codify:value="22-1341">102</num>
+    <heading>Unlawful entry of a motor vehicle.</heading>
+    <para>
+      <num>(a)</num>
+      <text>It is unlawful to enter or be inside of the motor vehicle of another person without the permission of the owner or person lawfully in charge of the motor vehicle. A person who violates this subsection shall, upon conviction, be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, imprisoned for not more than 90 days, or both.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Subsection (a) of this section shall not apply to:</text>
+      <para>
+        <num>(1)</num>
+        <text>An employee of the District government in connection with his or her official duties;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A tow crane operator who has valid authorization from the District government or from the property owner on whose property the motor vehicle is illegally parked; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person with a security interest in the motor vehicle who is legally authorized to seize the motor vehicle.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>For the purposes of this section, the term “enter the motor vehicle” means to insert any part of one’s body into any part of the motor vehicle, including the passenger compartment, the trunk or cargo area, or the engine compartment.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 102, 56 DCR 7413</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 213(b), 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§23-581">23-581</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $500” in (a).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 102 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) addition, see § 102 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 213(b) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|25A"/>
+    <reason>Repealed</reason>
+    <num codify:value="22-2511">101</num>
+    <heading>Presence in a motor vehicle containing a firearm.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 101, 56 DCR 7413</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 213(a), 60 DCR 2064</annotation>
+        <annotation doc="D.C. Law 20-279">June 16, 2015, D.C. Law 20-279, § 4, 62 DCR 1944</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $5,000” in (c)(1), and for “$10,000” in (c)(2).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 101 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) addition, see § 101 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 213(a) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+        <annotation>For temporary  (90 days) repeal of this section, see §  4(a) of the License to Carry a Pistol Emergency Amendment  Act of 2014 (D.C. Act 20-447, Oct. 7, 2014, 61 DCR 10765, 20 STAT 4175).</annotation>
+        <annotation>For temporary  (90 days) repeal of this section, see §  4(a) of the License to Carry a Pistol Second Emergency  Amendment Act of 2014 (D.C. Act 20-564, Jan. 6, 2015, 62 DCR 866, 21 STAT 527).</annotation>
+        <annotation>For temporary  (90 days) repeal of this section, see §  4(a) of the License to Carry a Pistol Emergency Amendment  Act of 2014 (D.C. Act 20-447, Oct. 7, 2014, 61 DCR 10765, 20 STAT 4175).</annotation>
+        <annotation>For temporary  (90 days) repeal of emergency D.C. Act 20-447, see § 4(b) of  the  License to Carry a Pistol Second Emergency Amendment  Act of 2014 (D.C. Act 20-564, Jan. 6, 2015, 62 DCR 866, 21 STAT 527).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 4(a) of the License to Carry a Pistol Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-74, June 4, 2015,  62 DCR 8242, 21 DCSTAT 1451).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>This section was held unconstitutional in  Conley v. United States, 2013 D.C. App. LEXIS 633, — A.3d — (Sept. 26, 2013). In its analysis, the District of Columbia Court of Appeals held that  D.C. Code § <cite path="§22-2511">22-2511</cite> (2012) violates due process for two reasons. First, the essence of the offense is the defendant’s voluntary presence in a vehicle after he learns that it contains a firearm. Yet instead of requiring the government to prove that the defendant’s continued presence was voluntary, § <cite path="§22-2511">22-2511</cite> requires the defendant to shoulder the burden of proving, as an affirmative defense, that his presence in the vehicle was involuntary. This shifting of the burden of persuasion with respect to a critical component of the crime is incompatible with due process. But § <cite path="§22-2511">22-2511</cite> offends due process in another way. It is incompatible with due process to convict a person of a crime based on the failure to take a legally required action — a crime of omission — if he had no reason to believe he had a legal duty to act, or even that his failure to act was blameworthy. The fundamental constitutional vice of § <cite path="§22-2511">22-2511</cite> is that it criminalizes entirely innocent behavior — merely remaining in the vicinity of a firearm in a vehicle, which the average citizen would not suppose to be wrongful (let alone felonious) — without requiring the government to prove that the defendant had notice of any legal duty to behave otherwise. This is a defect that cannot be cured by interpreting the statutory language. Accordingly, the District of Columbia Court of Appeals held that § <cite path="§22-2511">22-2511</cite> is unconstitutional on its face.</text>
+        <text>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|31A"/>
+    <num codify:value="22-3131">501</num>
+    <heading>Legislative intent.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Council finds that stalking is a serious problem in this city and nationwide. Stalking involves severe intrusions on the victim’s personal privacy and autonomy. It is a crime that can have a long-lasting impact on the victim’s quality of life, and creates risks to the security and safety of the victim and others, even in the absence of express threats of physical harm. Stalking conduct often becomes increasingly violent over time. The Council recognizes the dangerous nature of stalking as well as the strong connections between stalking and domestic violence and between stalking and sexual assault. Therefore, the Council enacts this law to encourage effective intervention by the criminal justice system before stalking escalates into behavior that has even more serious or lethal consequences.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Council enacts this stalking statute to permit the criminal justice system to hold stalkers accountable for a wide range of acts, communications, and conduct. The Council recognizes that stalking includes a pattern of following or monitoring the victim, or committing violent or intimidating acts against the victim, regardless of the means.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 501, 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 501 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) addition, see § 501 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|31A"/>
+    <num codify:value="22-3132">502</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Any device” means electronic, mechanical, digital or any other equipment, including: a camera, spycam, computer, spyware, microphone, audio or video recorder, global positioning system, electronic monitoring system, listening device, night-vision goggles, binoculars, telescope, or spyglass.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Any means” includes the use of a telephone, mail, delivery service, e-mail, website, or other method of communication or any device.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Communicating” means using oral or written language, photographs, pictures, signs, symbols, gestures, or other acts or objects that are intended to convey a message.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Emotional distress” means significant mental suffering or distress that may, but does not necessarily, require medical or other professional treatment or counseling;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Financial injury” means the monetary costs, debts, or obligations incurred as a result of the stalking by the specific individual, member of the specific individual’s household, a person whose safety is threatened by the stalking, or a person who is financially responsible for the specific individual and includes:</text>
+      <para>
+        <num>(A)</num>
+        <text>The costs of replacing or repairing any property that was taken or damaged;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The costs of clearing the specific individual’s name or his or her credit, criminal, or any other official record;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Medical bills;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Relocation expenses;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Lost employment or wages; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Attorney’s fees.</text>
+      </para>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Personal identifying information” shall have the same meaning as provided in § <cite path="§22-3227.01">22-3227.01</cite>(3).</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Specific individual” or “individual” means the victim or alleged victim of stalking.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“To engage in a course of conduct” means directly or indirectly, or through one or more third persons, in person or by any means, on 2 or more occasions, to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Follow, monitor, place under surveillance, threaten, or communicate to or about another individual;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Interfere with, damage, take, or unlawfully enter an individual’s real or personal property or threaten or attempt to do so; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Use another individual’s personal identifying information.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 502, 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-951">22-951</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 502 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) addition, see § 502 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|31A"/>
+    <num codify:value="22-3133">503</num>
+    <heading>Stalking.</heading>
+    <para>
+      <num>(a)</num>
+      <text>It is unlawful for a person to purposefully engage in a course of conduct directed at a specific individual:</text>
+      <para>
+        <num>(1)</num>
+        <text>With the intent to cause that individual to:</text>
+        <para>
+          <num>(A)</num>
+          <text>Fear for his or her safety or the safety of another person;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Feel seriously alarmed, disturbed, or frightened; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Suffer emotional distress;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>That the person knows would cause that individual reasonably to:</text>
+        <para>
+          <num>(A)</num>
+          <text>Fear for his or her safety or the safety of another person;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Feel seriously alarmed, disturbed, or frightened; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Suffer emotional distress; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>That the person should have known would cause a reasonable person in the individual’s circumstances to:</text>
+        <para>
+          <num>(A)</num>
+          <text>Fear for his or her safety or the safety of another person;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Feel seriously alarmed, disturbed, or frightened; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Suffer emotional distress.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This section does not apply to constitutionally protected activity.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Where a single act is of a continuing nature, each 24-hour period constitutes a separate occasion.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The conduct on each of the occasions need not be the same as it is on the others.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 503, 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-3134">22-3134</cite> and § <cite path="§23-581">23-581</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 503 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) addition, see § 503 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|31A"/>
+    <num codify:value="22-3134">504</num>
+    <heading>Penalties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsections (b) and (c) of this section, a person who violates § <cite path="§22-3133">22-3133</cite> shall be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, imprisoned for not more than 12 months, or both.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A person who violates § <cite path="§22-3133">22-3133</cite> shall be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, imprisoned for not more than 5 years, or both, if the person:</text>
+      <para>
+        <num>(1)</num>
+        <text>At the time, was subject to a court, parole, or supervised release order prohibiting contact with the specific individual;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Has one prior conviction in any jurisdiction of stalking any person within the previous 10 years;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>At the time, was at least 4 years older than the specific individual and the specific individual was less than 18 years of age; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Caused more than $ 2,500 in financial injury.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A person who violates § <cite path="§22-3133">22-3133</cite> shall be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, imprisoned for not more than 10 years, or both, if the person has 2 or more prior convictions in any jurisdiction for stalking any person, at least one of which was for a jury demandable offense.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A person shall not be sentenced consecutively for stalking and identify theft based on the same act or course of conduct.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 504, 56 DCR 7413</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 213(d), 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $1,000” in (a), for “not more than $10,000” in (b), and for “not more than $25,000” in (c).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 504 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) addition, see § 504 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 213(d) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|31A"/>
+    <num codify:value="22-3135">505</num>
+    <heading>Jurisdiction.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An offense shall be deemed to be committed in the District of Columbia if the conduct on at least one occasion was initiated in the District of Columbia or had an effect on the specific individual in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A communication shall be deemed to be committed in the District of Columbia if it is made or received in the District of Columbia or, if the specific individual lives in the District of Columbia, it can be electronically accessed in the District of Columbia.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 505, 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 505 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) addition, see § 505 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

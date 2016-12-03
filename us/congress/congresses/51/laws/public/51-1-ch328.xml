@@ -1,10 +1,859 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 51-1-ch328">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 51-1-ch328">
+  <heading/>
   <meta>
     <effective>1889-03-01</effective>
     <cites>
-        <law congress="51" session="1" chapter="328"/>
+      <law congress="51" session="1" chapter="328"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|1"/>
+    <num codify:value="49-101">40</num>
+    <heading>Drill, parade, encampment or required duty.</heading>
+    <text>Any drill, parade, encampment or duty that is required, ordered, or authorized to be performed under the provisions of this title, shall be deemed to be a military duty, and while on such duty every officer and enlisted man of the National Guard shall be subject to the lawful orders of his superior officers, and for any military offense may be put and kept under arrest or under guard for a time not extending beyond the term of service for which he is then ordered.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 778, ch. 328, § 40</annotation>
+        <annotation>renumbered Feb. 18, 1909, 35 Stat. 634, ch. 146, § 43</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-601.</annotation>
+        <annotation>1973 Ed., § 39-601.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Supervision and control of National Guard of District of Columbia:  See Presidential Executive Order No. 11485, October 1, 1969, 34 F.R. 15411.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|1"/>
+    <num codify:value="49-102">41</num>
+    <heading>Prescribing drills.</heading>
+    <text>The Commanding General shall prescribe such stated drills and parades as he may deem necessary for the instruction of the National Guard, and may order out any portion of the National Guard for such drills, inspections, parades, escort, or other duties, as he may deem proper. The commanding officer of any regiment, battalion or company may also assemble his command, or any part thereof, in the evening for drill, instruction, or other business, as he may deem expedient; but no parade shall be performed by any regiment, battalion, company, or part thereof, without the permission of the Commanding General.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 778, ch. 328, § 41</annotation>
+        <annotation>renumbered Feb. 18, 1909, 35 Stat. 634, ch. 146, § 44</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-602.</annotation>
+        <annotation>1973 Ed., § 39-602.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|1"/>
+    <num codify:value="49-103">45</num>
+    <heading>Suppression of riots.</heading>
+    <text>When there is in the District of Columbia a tumult, riot, mob, or a body of men acting together by force with attempt to commit a felony or to offer violence to persons or property, or by force or violence to break and resist the laws, or when such tumult, riot, or mob is threatened, it shall be lawful for the Mayor of the District of Columbia, or for the United States Marshal for the District of Columbia, or for the National Capital Service Director, to call on the Commander-in-Chief to aid them in suppressing such violence and enforcing the laws; the Commander-in-Chief shall thereupon order out so much and such portion of the militia as he may deem necessary to suppress the same, and no member thereof who shall be thus ordered out by proper authority for any such duty shall be liable to civil or criminal prosecution for any act done in the discharge of his military duty.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 778, ch. 328, § 45</annotation>
+        <annotation>renumbered Feb. 18, 1909, 35 Stat. 634, ch. 146, § 48</annotation>
+        <annotation doc="Pub. L. 93-198">Dec. 24, 1973, 87 Stat. 826, Pub. L. 93-198, title VII, § 739(d)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-603.</annotation>
+        <annotation>1973 Ed., § 39-603.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|1"/>
+    <num codify:value="49-104">46</num>
+    <heading>Excuse for physical disability; penalty for absence.</heading>
+    <text>No officer or soldier of the National Guard, when ordered on duty to aid the civil authorities, or when ordered into the service of the United States in obedience to the call or order of the President, shall be excused from such duty except upon the certificate of the surgeon of his command of physical disability, such certificate to be presented to the Commanding General in case of an officer, or to his company commander in case of a soldier. If such officer or soldier fail to furnish such excuse he shall be tried and punished by a court-martial. For absence from any other military duty required or ordered under the provisions of this chapter the penalty shall be such as may be prescribed by the Commanding General, or the bylaws of the organization to which the officer or soldier belongs.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 778, ch. 328, § 46</annotation>
+        <annotation>renumbered Feb. 18, 1909, 35 Stat. 634, ch. 146, § 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-604.</annotation>
+        <annotation>1973 Ed., § 39-604.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|1"/>
+    <num codify:value="49-105">47</num>
+    <heading>Parades to have right-of-way.</heading>
+    <text>The United States forces or troops, or any portion of the militia, parading, or performing any duty according to law, shall have the right-of-way in any street or highway through which they may pass; provided, that the carriage of the United States mails, the legitimate functions of the police, and the progress and operations of fire engines and fire departments shall not be interfered with thereby.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 779, ch. 328, § 47</annotation>
+        <annotation>renumbered Feb. 18, 1909, 35 Stat. 634, ch. 146, § 50</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-605.</annotation>
+        <annotation>1973 Ed., § 39-605.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|1"/>
+    <num codify:value="49-106">48</num>
+    <heading>Rules for parades and encampments.</heading>
+    <text>Every commanding officer, when on duty, may ascertain and fix necessary bounds and limits to his parade or encampment. Whoever intrudes within the limits of the parade or encampment after being forbidden, or whoever shall interrupt, molest, or obstruct any officer or soldier while on duty, may be put and kept under guard until the parade, encampment, or duty be concluded; and the commanding officer may turn over such person to any police officer, and said police officer is required to detain him in custody for examination or trial before the Superior Court of the District of Columbia, and the judge thereof may punish such offense by a fine not exceeding $25.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 779, ch. 328, § 48</annotation>
+        <annotation>renumbered Feb. 18, 1909, 35 Stat. 634, ch. 146, § 51</annotation>
+        <annotation>Apr. 1, 1942, 56 Stat. 190, ch. 207, § 1</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-606.</annotation>
+        <annotation>1973 Ed., § 39-606.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|1"/>
+    <num codify:value="49-107">43</num>
+    <heading>Camp duty.</heading>
+    <text>The National Guard shall perform not less than 6 consecutive days of camp duty in each year, at such time as may be ordered by the Commanding General, and the Quartermaster General of the militia, subject to the approval of the Commanding General, shall provide, by rental or otherwise, a suitable camp-ground for the annual encampment of the militia, make the necessary provisions thereon for the encampment, and provide necessary transportation to and from the same for baggage and supplies.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 778, ch. 328, § 43</annotation>
+        <annotation>renumbered Feb. 18, 1909, 35 Stat. 634, ch. 146, § 46</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-607.</annotation>
+        <annotation>1973 Ed., § 39-607.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-203" path="|49|2"/>
+    <num codify:value="49-201">31</num>
+    <heading>Issuance by Department of Army.</heading>
+    <text>The uniforms, arms, and equipments of the National Guard shall as far as practicable be the same as prescribed and furnished to the regular Army. Every organization of the National Guard shall be provided with such ordnance and ordnance stores, clothing, camp and garrison equipage, quartermaster’s stores, medical supplies, and other military stores, as may be necessary for the proper training and instruction of the force and for the proper performance of the duties required under this chapter. Such property shall be issued from the stores and supplies appropriated for the use of the Army, upon the approval and by the direction of the Secretary of the Army, to the Commanding General, upon his requisitions for the same. The property so issued shall remain and continue to be the property of the United States, and shall be accounted for by the Commanding General at such times, in manner, and on such forms as the Secretary of the Army may require.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 776, ch. 328, § 31</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 632, ch. 146, § 29</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-201.</annotation>
+        <annotation>1973 Ed., § 39-501.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-203" path="|49|2"/>
+    <num codify:value="49-202">32</num>
+    <heading>Regulations for reissue of equipment by Commanding General.</heading>
+    <text>The Commanding General may transfer all public property, received by him for the use of the National Guard under the provisions of this chapter, to the several departmental officers of the general staff, and may make and prescribe regulations for its issue by them, and for its care and preservation by the officers or soldiers to whom issued.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 776, ch. 328, § 32</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 632, ch. 146, § 30</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-202.</annotation>
+        <annotation>1973 Ed., § 39-502.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-206" path="|49|2"/>
+    <num codify:value="49-204">33</num>
+    <heading>Returns of equipment.</heading>
+    <text>Every officer receiving public property for military use shall be accountable for the articles so received by him, and shall make returns of such property at such times, in such manner, and on such forms as may be prescribed. He shall be liable to trial by court-martial for neglect of duty, and also make good to the United States the value of all such property defaced, injured, destroyed or lost, by any neglect or default on his part, to be recovered in an action of tort, or by any other action at law, to be instituted by the Judge Advocate General of the militia at the order of the Commanding General. All money received on account of loss or damages shall be paid in the Treasury of the United States, and shall be accounted for by the Commanding General in his returns to the Secretary of the Army.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 776, ch. 328, § 33</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 633, ch. 146, § 32</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-204.</annotation>
+        <annotation>1973 Ed., § 39-504.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-206" path="|49|2"/>
+    <num codify:value="49-205">34</num>
+    <heading>Penalty for selling, pawning, injuring, or retaining public property.</heading>
+    <text>Any officer or soldier who shall sell, dispose of, pawn or pledge, willfully destroy or injure, or retain after proper demand made, any public property issued under the provisions of this title, shall be deemed guilty of a misdemeanor, and shall be punished by imprisonment for not exceeding 2 months, or by a fine not exceeding $100, or by both; and it is hereby made the duty of the judge of the Superior Court of the District of Columbia, upon information filed or complaint, made under oath, to issue process for the arrest of the offender, and to cause him to be brought before the Superior Court of the District of Columbia to be dealt with according to the provisions of this section.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 777, ch. 328, § 34</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 633, ch. 146, § 33</annotation>
+        <annotation>Apr. 1, 1942, 56 Stat. 190, ch. 207, § 1</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§49-211">49-211</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-205.</annotation>
+        <annotation>1973 Ed., § 39-505.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|2"/>
+    <num codify:value="49-212">37</num>
+    <heading>Distinctive uniforms.</heading>
+    <text>Any organization of the active militia may, with the approval of the Commanding General, and at its own expense, adopt any other uniform than that issued to it; but such uniform shall not be worn when such organization is on duty under the orders of the Commanding General except by his permission.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 777, ch. 328, § 37</annotation>
+        <annotation>renumbered Feb. 18, 1909, 35 Stat. 634, ch. 146, § 40</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-212.</annotation>
+        <annotation>1973 Ed., § 39-512.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|2"/>
+    <num codify:value="49-213">38</num>
+    <heading>Right to own personal property; actions for injuries.</heading>
+    <text>Organizations of the National Guard shall have the right to own and keep personal property, which shall belong to and be under the control of the active members thereof; and the commanding officer of any organization may recover for its use any debts or effects belonging to it, or damages for injury to such property; action for such recovery to be brought in the name of such commanding officer, before the court in the District of Columbia having jurisdiction of the amount in controversy, and no suit or complaint pending in his name shall be abated by his ceasing to be commanding officer of the organization; but, upon the motion of the commander succeeding him, such commander shall be admitted to prosecute the suit or complaint in like manner and with like effect as if it had been originally commenced by him.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 777, ch. 328, § 38</annotation>
+        <annotation>renumbered Feb. 17, 1909, 35 Stat. 623, ch. 134</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 634, ch. 146, § 41</annotation>
+        <annotation>June 25, 1936, 49 Stat. 1921, ch. 804</annotation>
+        <annotation>June 25, 1948, 62 Stat. 991, ch. 646, § 32(b)</annotation>
+        <annotation>May 24, 1949, 63 Stat. 107, ch. 139, § 127</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 575, Pub. L. 91-358, title I, § 157(i)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-213.</annotation>
+        <annotation>1973 Ed., § 39-513.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|2"/>
+    <num codify:value="49-214">39</num>
+    <heading>Armories to be provided.</heading>
+    <text>The Quartermaster General of the militia shall provide, by rental or otherwise, such armories for the National Guard as may be allowed and directed by the Commanding General. He shall also provide each organization with such lockers, closets, gun racks, and cases or desks as may be necessary for the care, preservation, and safekeeping of the arms, equipments, uniforms, records, and other militia property in their possession. He shall also provide suitable rooms for the offices of the Commanding General and staff, for the keeping of books, the transaction of business, and the instruction of officers, and also suitable places for the storage and safekeeping of public property.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 777, ch. 328, § 39</annotation>
+        <annotation>renumbered Feb. 18, 1909, 35 Stat. 634, ch. 146, § 42</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-214.</annotation>
+        <annotation>1973 Ed., § 39-514.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|2"/>
+    <num codify:value="49-215">42</num>
+    <heading>Annual inspections.</heading>
+    <text>An annual inspection and muster of each organization of the National Guard, and an inspection of their armories and of public property in their possession, shall be made at such times and places as the Commanding General may order and direct.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 778, ch. 328, § 42</annotation>
+        <annotation>renumbered Feb. 18, 1909, 35 Stat. 634, ch. 146, § 45</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-215.</annotation>
+        <annotation>1973 Ed., § 39-515.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|2"/>
+    <num codify:value="49-216">44</num>
+    <heading>Use of Fort Lesley J. McNair.</heading>
+    <text>National Guard shall have the use of the drill grounds and rifle range at Fort Lesley J. McNair, subject to the approval of the Secretary of the Army, and the Commanding General of the militia shall provide such additional targets and accessories as may be necessary for the use of the militia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 778, ch. 328, § 44</annotation>
+        <annotation>renumbered Feb. 18, 1909, 35 Stat. 634, ch. 146, § 47</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-216.</annotation>
+        <annotation>1973 Ed., § 39-516.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-306" path="|49|3"/>
+    <num codify:value="49-301">7</num>
+    <heading>Commanding General.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There shall be appointed and commissioned by the President of the United States a Commanding General of the militia of the District of Columbia with the rank of brigadier general, or major general, who shall hold office until his successor is appointed and qualified, but may be removed at any time by the President.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Except as provided in subsection (c) of this section, any person serving as the Commanding General of the militia of the District of Columbia shall be considered to be an employee of the Department of Defense, and of the United States, within the meaning of § 2105 of Title 5, United States Code.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Any officer of the armed forces of the United States who, while serving on active duty, is detailed to serve as Commanding General of the militia of the District of Columbia shall, while so detailed, be entitled to receive only the pay and allowances to which he is entitled as an officer of the armed forces.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 773, ch. 328, § 7</annotation>
+        <annotation doc="Pub. L. 85-270">Sept. 2, 1957, 71 Stat. 596, Pub. L. 85-270, § 1</annotation>
+        <annotation doc="Pub. L. 91-297">June 30, 1970, 84 Stat. 366, Pub. L. 91-297, title V, § 501(a)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-301.</annotation>
+        <annotation>1973 Ed., § 39-201.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-306" path="|49|3"/>
+    <num codify:value="49-302">8</num>
+    <heading>Staff officers; noncommissioned staff.</heading>
+    <text>The staff of the militia of the District of Columbia shall be appointed and commissioned by the President. It shall consist of one Adjutant General, one Inspector General, one Quartermaster General, one Commissary General, one Chief of Ordnance, one Chief Engineer, one Surgeon General, one Judge Advocate General, and one Inspector General of Rifle Practice each with the rank of major; and 4 aides-de-camp, each with the rank of captain. The Commanding General may appoint a noncommissioned staff of the militia, to consist of one sergeant major, one quartermaster sergeant, one commissary sergeant, one ordnance sergeant, 2 staff sergeants, one hospital steward, one color sergeant, and one sergeant bugler.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 773, ch. 328, § 8</annotation>
+        <annotation>June 3, 1916, 39 Stat. 199, ch. 134, § 66</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-302.</annotation>
+        <annotation>1973 Ed., § 39-202.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-306" path="|49|3"/>
+    <num codify:value="49-304">9</num>
+    <heading>Adjutant General.</heading>
+    <text>The President may assign an officer of the Army to act as Adjutant General of the militia of the District of Columbia, who, while so assigned, shall be commissioned as such and be subject to the orders of the Commanding General and the provisions of this title; provided, however, that the officer so assigned shall receive no other pay or emolument than that to which his rank in the Army entitles him when on detached service.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 773, ch. 328, § 9</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-304.</annotation>
+        <annotation>1973 Ed., § 39-204.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-306" path="|49|3"/>
+    <num codify:value="49-305">19</num>
+    <heading>Officers.</heading>
+    <text>All officers shall be commissioned by the President of the United States, on the recommendation of the Commanding General. They shall be nominated as herein provided. No person commissioned as an officer shall assume such rank or enter upon the duties of the office to which he may be commissioned until he has accepted such commission and taken such oath or affirmation as may be prescribed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 775, ch. 328, § 19</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 630, ch. 146, § 13</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-305.</annotation>
+        <annotation>1973 Ed., § 39-206.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-308" path="|49|3"/>
+    <num codify:value="49-307">22</num>
+    <heading>Filling vacancies above the grade of 2nd lieutenant.</heading>
+    <text>Vacancies occurring in the cavalry, coast artillery corps, field artillery, and infantry above the grade of 2nd lieutenant shall, subject to the examination required by law, be filled by promotion according to seniority from the next lower grade in the troop, the separate company, the field battery, the separate battalion, and the regiment in which the vacancy occurs.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 775, ch. 328, § 22</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 630, ch. 146, § 15</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-307.</annotation>
+        <annotation>1973 Ed., § 39-208.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-310" path="|49|3"/>
+    <num codify:value="49-309">23</num>
+    <heading>Examinations for promotion; failure to appear; retirement for disability.</heading>
+    <text>The Commanding General is authorized to prescribe a system of examination to be conducted at such times anterior to the accruing of the right to promotion as may be best for the interest of the service. If any officer fails to appear for examination within 30 days after notification to so appear or fails to pass a satisfactory examination and is reported unfit for promotion, the officer next below him in rank, having passed said examination, shall receive the promotion; and provided, that should the officer fail in his physical examination and be found incapacitated for service by reason of physical disability contracted in the line of duty he shall be retired with the rank to which his seniority entitled him to be promoted; but if he should fail for any other reason he shall be suspended from promotion for 90 days, when he shall be reexamined, and in case of failure on such reexamination he shall be honorably discharged.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 775, ch. 328, § 23</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 630, ch. 146, § 17</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-309.</annotation>
+        <annotation>1973 Ed., § 39-210.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|3"/>
+    <num codify:value="49-313">24</num>
+    <heading>Discharge of commissioned officer.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A commissioned officer may be honorably discharged:</text>
+      <para>
+        <num>(1)</num>
+        <text>Upon tender of resignation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon disbandment of the organization to which he belongs; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Upon report of a board of examination, or for failure to appear before such board when ordered.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>He may be dismissed upon the sentence of a court-martial, or conviction in a court of justice of an infamous offense.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 775, ch. 328, § 24</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 631, ch. 146, § 21</annotation>
+        <annotation doc="D.C. Law 12-264">Apr. 20, 1999, D.C. Law 12-264, § 41(b), 46 DCR 2118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-313.</annotation>
+        <annotation>1973 Ed., § 39-214.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-407" path="|49|4|I"/>
+    <num codify:value="49-401">1</num>
+    <heading>Militia; persons to be enrolled.</heading>
+    <text>Every able-bodied male citizen resident within the District of Columbia, of the age of 18 years and under the age of 45 years, excepting persons exempted by § <cite path="§49-402">49-402</cite>, and idiots, lunatics, common drunkards, vagabonds, paupers, and persons convicted of any infamous crime, shall be enrolled in the militia. Persons so convicted after enrollment shall forthwith be disenrolled; and in all cases of doubt respecting the age of a person enrolled, the burden of proof shall be upon him.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 772, ch. 328, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-101.</annotation>
+        <annotation>1973 Ed., § 39-101.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-407" path="|49|4|I"/>
+    <num codify:value="49-402">2</num>
+    <heading>Exemptions from service.</heading>
+    <text>In addition to the persons exempted from enrollment in the militia by the general laws of the United States, the following persons shall also be exempted from enrollment in the militia of the District of Columbia, namely: Officers of the government of the District of Columbia; judges and officers of the courts of the District of Columbia; officers who have held commissions in the regular or volunteer Army, Navy, or Air Force of the United States; officers who have served for a period of 5 years in the militia of the District of Columbia or of any state of the United States; ministers of the gospel; practicing physicians; and conductors and engine-drivers of railroad trains.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 772, ch. 328, § 2</annotation>
+        <annotation doc="D.C. Law 6-52">Nov. 19, 1985, D.C. Law 6-52, § 2(a), 32 DCR 5690</annotation>
+        <annotation doc="D.C. Law 12-264">Apr. 20, 1999, D.C. Law 12-264, § 41(a), 46 DCR 2118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§49-401">49-401</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-102.</annotation>
+        <annotation>1973 Ed., § 39-102.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-407" path="|49|4|I"/>
+    <num codify:value="49-403">3</num>
+    <heading>Assessors to make list of persons liable to enrollment.</heading>
+    <text>The Mayor of the District of Columbia shall provide for the enrollment of the militia, and for this purpose may require the assessors of taxes, at the same time they are engaged in taking the assessment of valuation of real and personal property, to make a list of persons liable to enrollment, and such record shall be deemed a sufficient notification to all persons whose names are thus recorded that they have been enrolled in the militia. Immediately after the completion of each enrollment they shall furnish the Commanding General of the militia with a copy of the same.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 773, ch. 328, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-103.</annotation>
+        <annotation>1973 Ed., § 39-103.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-407" path="|49|4|I"/>
+    <num codify:value="49-404">4</num>
+    <heading>Duty of enrolled militia; police and fire department personnel.</heading>
+    <text>The enrolled militia shall not be subject to any duty except when called into the service of the United States, or to aid the civil authorities in the execution of the laws or suppression of riots. However, if the enrolled militia is called to aid the civil authorities, who already have activated, or will concomitantly activate, the police and fire departments, no member of these departments shall be subject to duty in the militia. Also, if the enrolled militia is called into service of the United States, the chief of the police department and the chief of the fire department shall be entitled to have exempted from call in the militia minimum personnel considered necessary to ensure continued, reasonable police and fire services to the citizens of the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 773, ch. 328, § 4</annotation>
+        <annotation doc="D.C. Law 6-52">Nov. 19, 1985, D.C. Law 6-52, § 2(b), 32 DCR 5690</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-104.</annotation>
+        <annotation>1973 Ed., § 39-104.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 day) addition, see § 2 of National Guard Operations Coordination Temporary Act of 2006 (<cite doc="D.C. Law 16-149">D.C. Law 16-149</cite>, July 25, 2006, law notification  53 DCR 7508).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2 of National Guard Operations Coordination Emergency Act of 2006 (D.C. Act 16-365, April 26, 2006,  53 DCR 3632).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3032 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3032 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3032 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 3031 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided that subtitle C of title III of the act may be cited as the “National Guard Operations Coordination Act of 2006”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Establishment of a plan to coordinate operations of the National Guard and the Metropolitan Police Department: Section 3032 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided: “The Mayor is directed to consult with the Commanding General of the National Guard of the District of Columbia to establish a plan whereby the National Guard Reaction Force provided supplemental manpower to the Special Operations Division of the Metropolitan Police Department to assist it in the performance of its duties. The plan shall be implemented within 180 days of April 26, 2006.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-407" path="|49|4|I"/>
+    <num codify:value="49-405">5</num>
+    <heading>Ordering enrolled militia into service.</heading>
+    <text>Whenever it shall be necessary to call out any portion of the enrolled militia the Commander-in-Chief shall order out, by draft or otherwise, or accept as volunteers as many as required. Every member of the enrolled militia who volunteers, or who is ordered out or drafted under the provisions of this chapter, who does not appear at the time and place designated, may be arrested by order of the Commanding General and be tried and punished by a court-martial. The portion of the enrolled militia ordered out or accepted shall be mustered into service for such period as may be required, and the Commanding General may assign them to existing organizations of the active militia, or may organize them as the exigencies of the occasion may require.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 773, ch. 328, § 5</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-105.</annotation>
+        <annotation>1973 Ed., § 39-105.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-407" path="|49|4|I"/>
+    <num codify:value="49-406">10</num>
+    <heading>Organized militia; volunteer service; designation.</heading>
+    <text>The organized militia shall be composed of volunteers, and shall be designated the National Guard of the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 774, ch. 328, § 10</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 629, ch. 146, § 10</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-106.</annotation>
+        <annotation>1973 Ed., § 39-106.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|4|I"/>
+    <num codify:value="49-408">18</num>
+    <heading>Disbanding companies below minimum strength.</heading>
+    <text>When any company of the National Guard shall, for a period of not less than 90 days, contain less than the required number of enlisted men, or upon a duly ordered inspection, shall be found to have fallen below a proper standard of efficiency, the Commanding General may, with consent of the President, either disband such company or consolidate it with any other company of the National Guard, and grant an honorable discharge to the supernumerary officers and noncommissioned officers produced by such consolidation. Officers and enlisted men discharged by reason of such disbanding or consolidation and at any time thereafter reentering the service shall have allowed to them, as part of their term of service, the time already served.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 774, ch. 328, § 18</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 630, ch. 146, § 12</annotation>
+        <annotation>June 3, 1916, 39 Stat. 200, ch. 134, § 68</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-108.</annotation>
+        <annotation>1973 Ed., § 39-111.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|4|I"/>
+    <num codify:value="49-409">6</num>
+    <heading>President to be Commander-in-Chief.</heading>
+    <text>The President of the United States shall be the Commander-in-Chief of the militia of the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 773, ch. 328, § 6</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-109.</annotation>
+        <annotation>1973 Ed., § 39-112.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Supervision and control of National Guard of District of Columbia:  See Presidential Executive Order No. 11485, October 1, 1969, 34 F.R. 15411.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-504" path="|49|5"/>
+    <num codify:value="49-503">51</num>
+    <heading>General courts-martial.</heading>
+    <text>General courts-martial for the trial of commissioned officers or enlisted men shall be ordered by the President of the United States or Commanding General at such times as the interests of the service may require.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 779, ch. 328, § 51</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 634, ch. 146, § 56</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-803.</annotation>
+        <annotation>1973 Ed., § 39-703.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|7"/>
+    <num codify:value="49-701">25</num>
+    <heading>Appointment; reduction to ranks.</heading>
+    <text>The commanding officers of regiments and battalions not part of regiments shall appoint and warrant the noncommissioned staff officers of their respective regiments or battalions, and they shall, in their discretion, warrant the noncommissioned officers of the companies of their respective regiments and battalions from the members thereof, upon the written nomination of the commanding officers of the companies, respectively. In troop, battery, and companies not part of a regiment or battalion and in the hospital corps the noncommissioned officers shall be warranted by the commanding officer of the brigade, in his discretion, from the members thereof, upon the written nomination of the commanding officer of the troop, battery, company, or hospital corps. The officer warranting a noncommissioned officer shall have power to reduce to the ranks, for good and sufficient reasons, the noncommissioned officers named in this section, but such as were enlisted as noncommissioned officers shall be discharged. Noncommissioned officers who shall be dropped vacate their positions.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 775, ch. 328, § 25</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 631, ch. 146, § 22</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-401.</annotation>
+        <annotation>1973 Ed., § 39-301.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-802" path="|49|8"/>
+    <num codify:value="49-801">60</num>
+    <heading>Duties of officers.</heading>
+    <text>The departmental and military duties of the officers provided for in this subtitle shall be correlative with those discharged by similarly designated officers in the Army of the United States.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 781, ch. 328, § 60</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 636, ch. 146, § 68</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§49-902">49-902</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-901.</annotation>
+        <annotation>1973 Ed., § 39-901.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>The reference to “this subtitle” in this section includes all sections of Subtitle I of Title 49 except §§ <cite path="§49-217">49-217</cite>, <cite path="§49-303">49-303</cite>, and <cite path="§49-906">49-906</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-806" path="|49|8"/>
+    <num codify:value="49-803">59</num>
+    <heading>Companies, battalions, or regiments authorized to make rules.</heading>
+    <text>Companies, battalions, or regiments may adopt constitutional articles of agreement or bylaws subject to the approval of the Commander-in-Chief, for the government of matters relating to the civic affairs of their respective organizations, the regulation of fines for nonperformance of duty, and the determination of causes upon which excuses from fines may be based; provided, however, that such articles or rules shall not be repugnant to law or the regulations for the government of the militia; and provided further, that the articles or rules adopted by any company or battalion shall not be repugnant to the articles or rules adopted for the general government of the regiment or battalion to which it belongs. Certified copies of such articles or rules, with like copies of all alterations, as finally approved by the Commanding General, shall be deposited in the office of the Adjutant General.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 780, ch. 328, § 59</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 636, ch. 146, § 67</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-903.</annotation>
+        <annotation>1973 Ed., § 39-903.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-806" path="|49|8"/>
+    <num codify:value="49-804">61</num>
+    <heading>System of discipline and field exercise.</heading>
+    <text>The system of discipline and field exercise ordered to be observed by the Army of the United States, or such other system as may be directed for the militia by laws of the United States, shall be observed by the National Guard.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 781, ch. 328, § 61</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 636, ch. 146, § 69</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-904.</annotation>
+        <annotation>1973 Ed., § 39-904.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-806" path="|49|8"/>
+    <num codify:value="49-805">62</num>
+    <heading>Commanding General authorized to make regulations.</heading>
+    <text>The Commanding General, subject to the approval of the Commander-in-Chief, is authorized to make and publish regulations for the government of the militia in all matters not specifically provided for by law, conforming the same to the practice and regulations of the Army so far as they may be applicable.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 781, ch. 328, § 62</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 636, ch. 146, § 70</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-905.</annotation>
+        <annotation>1973 Ed., § 39-905.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|8"/>
+    <num codify:value="49-807">77</num>
+    <heading>National Guard tuition assistance benefits.</heading>
+    <text>Any funds contributed by the District of Columbia to the District of Columbia National Guard Tuition Assistance Program may be utilized, at the discretion of the District of Columbia National Guard, for tuition assistance benefits for all members or for new recruits; provided, that the member or new recruit is a resident of the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 781, ch. 328, § 77</annotation>
+        <annotation doc="D.C. Law 18-158">as added May 27, 2010, D.C. Law 18-158, § 301, 57 DCR 3000</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2 of National Guard Tuition Assistance Clarification Emergency Amendment Act of 2009 (D.C. Act 18-285, January 25, 2010,  57 DCR 1173).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-905" path="|49|9"/>
+    <num codify:value="49-902">55</num>
+    <heading>General expenses.</heading>
+    <text>There shall be allowed for the general expenses of the militia such sums as may be necessary for the rental and furnishing of offices for headquarters, stationery, postage, printing and issuing orders, advertising orders, providing necessary blanks for the use of the militia, the cost of storing, caring for, and issuing all public property, and such other contingent expenses, not herein specially provided for, as may be estimated and appropriated for; the accounts for which shall be certified to by the officer receiving the service or property charged for, approved by the Commanding General, and paid in the manner provided in § <cite path="§49-801">49-801</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 780, ch. 328, § 55</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 635, ch. 146, § 63</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-702.</annotation>
+        <annotation>1973 Ed., § 39-802.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-905" path="|49|9"/>
+    <num codify:value="49-903">56</num>
+    <heading>Musicians.</heading>
+    <para>
+      <num>(a)</num>
+      <text>During the annual encampment, and on every duty on parade ordered by the Commanding General, there shall be allowed and paid for each day of service:</text>
+      <para>
+        <num>(1)</num>
+        <text>To each member of the regularly enlisted bands, $4;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To the chief musicians, $8; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To the principal musicians, $6.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In the event there is no enlisted band or field music, or not a sufficient number of either, the Commanding General may authorize the employment of such as he may deem necessary for the occasion; provided, that the total pay of the enlisted musicians shall not in any event exceed the rates authorized by this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 780, ch. 328, § 56</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 635, ch. 146, § 64</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-703.</annotation>
+        <annotation>1973 Ed., § 39-803.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§49-905" path="|49|9"/>
+    <num codify:value="49-904">57</num>
+    <heading>Subsistence stores.</heading>
+    <text>During the annual encampment, or when ordered on duty to aid the civil authorities, the National Guard shall be furnished with subsistence stores, of the kind, quality, and amount allowed and prescribed by the Army. Such stores shall be issued from the stores and supplies appropriated for the use of the Army, upon the approval and by the direction of the Secretary of the Army, to the Commanding General upon his requisitions for the same.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 1, 1889, 25 Stat. 790, ch. 328, § 57</annotation>
+        <annotation>Feb. 18, 1909, 35 Stat. 635, ch. 146, § 65</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-704.</annotation>
+        <annotation>1973 Ed., § 39-804.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

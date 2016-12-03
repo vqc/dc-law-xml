@@ -1,10 +1,611 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 80-2-ch324">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 80-2-ch324">
+  <heading/>
   <meta>
     <effective>1948-05-20</effective>
     <cites>
-        <law congress="80" session="2" chapter="324"/>
+      <law congress="80" session="2" chapter="324"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-2711" path="|31|27"/>
+    <num codify:value="31-2701">1</num>
+    <heading>Definitions.</heading>
+    <text>In this chapter, unless the context otherwise requires:</text>
+    <para>
+      <num>(1)</num>
+      <text>“District” means the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Commissioner” means the Commissioner of the Department of Insurance, Securities, and Banking.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Insurance” includes (but is not limited to) fidelity, surety, and guaranty bonds.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Company” means any insurer, whether stock, mutual, reciprocal, interinsurer, Lloyd’s, or any other form or group of insurers.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Policy” means an insurance policy or contract as defined by Chapter 25 of this title.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Agent” means and shall include any individual, copartnership, or corporation acting in the capacity of or licensed as a “policy-writing agent,” “soliciting agent,” or “salaried company employee” as defined by Chapter 25 of this title.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Exempt commercial risk” means a person or entity which meets one of the following criteria:</text>
+      <para>
+        <num>(A)</num>
+        <text>Retains or employs a certified or qualified risk manager to negotiate insurance coverage;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Possesses a net worth in excess of $2 million;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Generates annual revenues in excess of $2 million;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Has at least 10 employees;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Pays annual aggregate country-wide standard insurance premiums in excess of $10,000;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Has total insured property value of at least $2 million; or</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Is a nonprofit organization or public body generating annual budgeted expenditures of at least $5 million.</text>
+      </para>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Medical malpractice insurer” means an insurer licensed to underwrite medical malpractice insurance.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 20, 1948, 62 Stat. 242, ch. 324, § 1</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(t), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 201, 48 DCR 1225</annotation>
+        <annotation doc="D.C. Law 13-299">May 5, 2001, D.C. Law 13-299, § 2(a), 48 DCR 2211</annotation>
+        <annotation doc="D.C. Law 14-153">June 25, 2002, D.C. Law 14-153, § 2, 49 DCR 4257</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 4(p), 51 DCR 2817</annotation>
+        <annotation doc="D.C. Law 16-263">Mar. 14, 2007, D.C. Law 16-263, § 101(a), 54 DCR 807</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1701.</annotation>
+        <annotation>1973 Ed., § 35-1501.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-265">D.C. Law 13-265</cite> amended the definition of exempt commercial risk.</annotation>
+        <annotation><cite doc="D.C. Law 13-299">D.C. Law 13-299</cite> added the definition of exempt commercial risk.</annotation>
+        <annotation><cite doc="D.C. Law 14-153">D.C. Law 14-153</cite> amended the definition of exempt commercial risk without any change.</annotation>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite>, in the definition of commissioner, substituted “Commissioner of the Department of Insurance, Securities, and Banking” for “Commissioner of Insurance and Securities”.</annotation>
+        <annotation><cite doc="D.C. Law 16-263">D.C. Law 16-263</cite> added par. (8).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Insurance Economic Development Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-61">D.C. Law 14-61</cite>, January 24, 2002, law notification  49 DCR 990).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Insurance Economic Development Emergency Amendment Act of 2001 (D.C. Act 14-131, October 2, 2001,  48 DCR 9568).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Insurance Economic Development Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-218, December 21, 2001,  49 DCR 393).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 4(p) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Department of Insurance abolished: The Department of Insurance, including the Superintendent, was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. Reorganization Order No. 43, dated June 23, 1953, as amended, established, under the direction and control of a Commissioner, a Department of Insurance headed by a Superintendent. The Order provided for the organization of the Department, abolished the previously existing Department of Insurance, and provided that all functions and positions of the previous Department would be transferred to the new Department of Insurance, including the duties, powers, and authorities of all officers and employees; and that all personnel, property, records and unexpended balances relating to the functions and positions transferred would also be transferred to the new Department. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. The functions of the Superintendent of Insurance were transferred to the Department of Consumer and Regulatory Affairs by Reorganization Plan No. 1 of 1983, effective March 31, 1983. Pursuant to the provisions of <cite doc="D.C. Law 11-268">D.C. Law 11-268</cite>, the Department of Insurance and Securities Regulation was established and the duties of the Superintendent of Insurance and the Insurance Administration were assumed by the Commissioner of Insurance and Securities and the Insurance Administration in the Department of Consumer and Regulatory Affairs was abolished.</text>
+        <text>Section 3 of <cite doc="D.C. Law 14-153">D.C. Law 14-153</cite> provided: “Section 2 shall apply as of May 15, 2001.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-2711" path="|31|27"/>
+    <num codify:value="31-2702">2</num>
+    <heading>Applicability of chapter.</heading>
+    <text>This chapter shall apply to all forms of fire, casualty, motor vehicle, explosion, sprinkler leakage, and inland marine insurance in the District and to all forms of insurance within the scope of Chapter 25 of this title; provided, that this chapter shall not apply to reinsurance other than joint reinsurance to the extent provided in this chapter, and shall not apply to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Insurance of vessels or craft, their cargoes, marine builders’ risks, marine protection and indemnity, or other risks commonly insured under marine, as distinguished from inland marine, insurance policies;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Title insurance;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Accident and health insurance;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Insurance against loss of or damage to aircraft or to liability, other than workmen’s compensation and employers’ liability, arising out of the ownership, maintenance, or use of aircraft; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>To insurance issued to self-insurers and insuring against loss in excess of at least $10,000 resulting from any 1 accident or event, except when rates therefor are made by a rating organization.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 20, 1948, 62 Stat. 242, ch. 324, § 2</annotation>
+        <annotation doc="D.C. Law 10-40">Oct. 21, 1993, D.C. Law 10-40, § 14, 40 DCR 6009</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1702.</annotation>
+        <annotation>1973 Ed., § 35-1502.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-2711" path="|31|27"/>
+    <num codify:value="31-2703">3</num>
+    <heading>Making of rates.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Rates for insurance within the scope of this chapter shall not be excessive, inadequate, or unfairly discriminatory.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Due consideration shall be given to past and prospective loss experience within and outside the District, to physical hazards, to safety and loss prevention factors, to underwriting practice and judgment, to catastrophe hazards, if any, to a reasonable margin for underwriting profit and contingencies; to dividends, savings, or unabsorbed premium deposits allowed or returned by companies to their policyholders, members, or subscribers; to past and prospective expenses both country-wide and those specially applicable to the District; to whether classification rates exist generally for the risks under consideration; to the rarity or peculiar characteristics of the risks; and to all other relevant factors within and outside the District. Due consideration shall be given to the net investment income (including the realized capital gains) on all cash and invested assets held against all unearned premium reserves and loss reserves of any nature. Unrealized capital gains or losses shall not be considered in the rate-making process.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Nothing in this section shall be taken to prohibit as unfairly discriminatory the establishment of classifications or modifications of classifications of risks based upon the size, expense, management, individual experience, location or dispersion of hazard, or any other reasonable considerations attributable to such risks provided such classifications and modifications apply to all risks under the same or substantially similar circumstances or conditions.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Nothing in this chapter shall be construed to require uniformity in insurance rates, classifications, rating plans, or practices.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Nothing in this chapter shall abridge or restrict the freedom of contract of companies, agents, brokers, or employees with reference to the commissions or salaries to be paid to such agents, brokers, or employees by companies.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <para>
+        <num>(1)</num>
+        <text>Every classification plan fixed, established, and promulgated by the Commissioner shall be so structured as to produce rates or premium charges which are adequate, not excessive, and not unfairly discriminatory.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Every final rate or premium charge proposed to be used by any motor vehicle insurer shall be filed with the Commissioner and shall be adequate, not excessive, and not unfairly discriminatory. A motor vehicle insurance rate may be held by the Commissioner to be excessive if the rate is unreasonably high for the insurance provided and is not actuarially justified based on the commonly accepted actuarial principles. In determining whether rates comply with standards under this subsection, due consideration shall be given for past and prospective loss experience within and outside the District, a reasonable margin for underwriting profit and contingencies, dividends, savings, or unabsorbed premium deposits allowed or returned by insurers to their policyholders or members or subscribers, past and prospective expenses, both countrywide and in the District, and investment income earned or realized by insurers both from their unearned premiums and from their loss reserve funds. If the Commissioner finds after a hearing that a rate is not in compliance with this subsection, he shall order that its use be discontinued for any policy issued or renewed after a date specified in the order and the order may prospectively provide for premium adjustment of any policy then in force.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f-1)</num>
+      <para>
+        <num>(1)</num>
+        <para>
+          <num>(A)</num>
+          <text>Every final rate or premium charge proposed to be used by a medical malpractice insurer shall be filed with the Commissioner and shall be adequate, not excessive, and not unfairly discriminatory. A medical malpractice rate shall be excessive if the rate is unreasonably high for the insurance provided. In determining whether rates are adequate, not excessive, and not unfairly discriminatory, due consideration shall be given to:</text>
+          <para>
+            <num>(i)</num>
+            <text>Past and prospective loss experience within the District;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A reasonable margin for underwriting profit and contingencies;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Dividends, savings, or unabsorbed premium deposits allowed or returned by insurers to their policyholders, members, or subscribers;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Past and prospective expenses in the District;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>All investment income reasonably attributable to medical malpractice insurance in the District.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>If District experience is not credible, the Commissioner may consider experience outside the District. The Commissioner shall promulgate rules setting forth the extent to which and the circumstances under which an insurer may rely on experience outside the District.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a medical malpractice insurer wishes to change a rate, it shall file a complete rate application with the Commissioner. A complete rate application shall include all information, including all actuarial data, projections, and assumptions, that the medical malpractice insurer has relied on in calculating its proposed rates. All such information shall be made available when filed in accordance with subchapter II of Chapter 5 of Title 2.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Commissioner shall notify the public of any application by a medical malpractice insurer for a rate change increase. The application shall be deemed approved 60 days after public notice unless the proposed rate change increase exceeds 10%. If the proposed rate change increase exceeds 10%, the Commissioner shall hold a hearing on the proposed change and shall issue an order approving, denying, or modifying the proposed change within 90 days after public notice of the proposed change. Any person shall have a right to testify in a hearing held by the Commissioner. The Commissioner shall promulgate rules governing the public hearing.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If the Commissioner finds, after a hearing, that a rate used by a medical malpractice insurer does not comply with this subsection, the Commissioner shall order the insurer to discontinue using the rate and to issue a refund to any policyholder who has paid the rate to the extent that the Commissioner has found it excessive.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>No company, agent, or broker shall make, issue, or deliver, or knowingly permit the making, issuance, or delivery of any policy of insurance within the scope of this chapter contrary to pertinent filings which are in effect for the company as provided in this chapter, except that upon the written application of the insured stating his reasons therefor, filed with and approved by the Commissioner, a rate in excess of that provided by a filing otherwise applicable may be used on any specific risk.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>Every insurer writing motor vehicle insurance in the District shall file with the Commissioner, in such form as he shall order, complete financial records showing the amount of profit on every line of motor vehicle insurance during the previous year.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>The Office of the People’s Counsel shall serve as advocate for consumers in rate hearings before the Commissioner and the costs associated with such advocacy shall be borne by the insurer or insurers requesting the rate hearing.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 20, 1948, 62 Stat. 243, ch. 324, § 3</annotation>
+        <annotation doc="D.C. Law 4-155">Sept. 18, 1982, D.C. Law 4-155,§ 14(a), 29 DCR 3491</annotation>
+        <annotation doc="D.C. Law 6-96">Mar. 4, 1986, D.C. Law 6-96, § 3, 32 DCR 7245</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(t), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 11-160">Sept. 20, 1996, D.C. Law 11-160, § 4, 43 DCR 3722</annotation>
+        <annotation doc="D.C. Law 16-263">Mar. 14, 2007, D.C. Law 16-263, § 101(b), 54 DCR 807</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-2704">31-2704</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1703.</annotation>
+        <annotation>1973 Ed., § 35-1503.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-263">D.C. Law 16-263</cite> added subsec. (f-1).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Report by Commissioner of Insurance and Securities: Section 5 of <cite doc="D.C. Law 11-160">D.C. Law 11-160</cite> provided that “Within two years of September 20, 1996, the Commissioner of Insurance and Securities shall prepare and submit to the Council of the District of Columbia for its review a report on the impact of this act on the private passenger motor vehicle insurance market or any part thereof, the funding for the Office of Insurance, the District of Columbia insurance premium tax, the number of insurers doing business in the District, and the number of insurers domiciled in the District of Columbia. In preparing such report, the Commissioner may request from specific private passenger motor vehicle insurers doing business in the District, or from all such insurers, reasonable and pertinent information. Information which is proprietary to any affected insurer shall be treated as confidential by the Commissioner, but may be used in the aggregate with other information from other affected insurers for statistical or other reporting purposes.”</text>
+        <text>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§35-2701">35-2701</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-2711" path="|31|27"/>
+    <num codify:value="31-2704">4</num>
+    <heading>Filing requirements of individual companies; adjustment of rates; removal of discriminations.</heading>
+    <para>
+      <num>(a)</num>
+      <text>On and after July 1, 1948, every company shall file with the Commissioner, either directly or through a licensed rating organization of which it is a member or subscriber, except as to rates on inland marine risks which are not made by a rating organization and which by general custom of the business are not written according to manual rates or rating plans, all rates and rating plans, rules, and classifications which it uses or proposes to use in the District.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Whenever it shall be made to appear to the Commissioner, either from his own information or from complaint of any party alleging to be aggrieved thereby, that there are reasonable grounds to believe that the rates on any or on all risks or classes of risks or kinds of insurance within the scope of this chapter are not in accordance with the terms of this chapter, it shall be his duty, and he shall have the full power and authority, to investigate the necessity for an adjustment of any or all such rates.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>After an investigation of the rates, the Commissioner shall, before ordering an adjustment, hold a hearing upon not less than 10 days’ written notice specifying the matters to be considered at the hearing, to every company and rating organization which filed the rates; provided, that the Commissioner shall not be required to hold the hearing if he or she is advised by every such company and rating organization that they do not desire the hearing. The cost of the hearing shall be borne by the insurance company requesting the rate increase. If, after the hearing, the Commissioner determines that any or all of the rates are excessive or inadequate, he or she shall order an adjustment. Pending the investigation and order of the Commissioner, the rates shall be deemed to have been made in accordance with the terms of this chapter.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>An order of adjustment shall not affect any contract or policy made or issued prior to the effective date of the order unless:</text>
+          <para>
+            <num>(i)</num>
+            <text>The adjustment is substantial and exceeds the cost to the companies of making the adjustment; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The order is made after the prescribed investigation and hearing and within 30 days after the filing of rates affected.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>An order of adjustment shall not affect an existing contract or policy other than:</text>
+          <para>
+            <num>(i)</num>
+            <text>A medical malpractice, workmen’s compensation, or automobile liability insurance policy required by law, order, rule, or regulation of a public authority; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A contract or policy of any type as to which the rates are not, by general custom of the business or because of rarity and peculiar characteristics, written according to normal classification or rating procedure.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>In determining the necessity for an adjustment of rates, the Commissioner shall be bound by all of the provisions of § <cite path="§31-2703">31-2703</cite>.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Commissioner is further empowered to investigate and to order removed at such time and in such manner as he shall specify any unfair discrimination existing between individual risks or classes of risks.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 20, 1948, 62 Stat. 243, ch. 324, § 4</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(t), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 30(a), 45 DCR 745</annotation>
+        <annotation doc="D.C. Law 16-263">Mar. 14, 2007, D.C. Law 16-263, § 101(c), 54 DCR 807</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1704.</annotation>
+        <annotation>1973 Ed., § 35-1504.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-263">D.C. Law 16-263</cite> rewrote subsec. (c) which had read as follows: “(c) After such an investigation of any such rates, the Commissioner shall, before ordering any appropriate adjustment thereof, hold a hearing upon not less than 10-days written notice specifying the matters to be considered at such hearing, to every company and rating organization which filed such rates, provided the Commissioner need not hold such hearing in the event he is advised by every such company and rating organization that they do not desire such hearing. If after such hearing the Commissioner determines that any or all of such rates are excessive or inadequate, he shall order appropriate adjustment thereof. Pending such investigation and order of the Commissioner, rates shall be deemed to have been made in accordance with the terms of this chapter. No order of adjustment shall affect any contract or policy made or issued prior to the effective date of such order unless: (1) the adjustment to be effected is substantial and exceeds the cost to the companies of making the adjustment; and (2) the order is made after the prescribed investigation and hearing and within 30 days after the filing of rates affected. In no event shall an order of adjustment affect an existing contract or policy other than one of workmen’s compensation or automobile liability insurance required by law, order, rule, or regulation of a public authority, or a contract or policy of any type as to which the rates are not, by general custom of the business or because of rarity and peculiar characteristics, written according to normal classification or rating procedure.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2701">31-2701</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-2711" path="|31|27"/>
+    <num codify:value="31-2705">5</num>
+    <heading>Cooperative and concerted action authorized.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Subject to the provisions of this chapter, 2 or more companies may cooperate or act in concert with each other:</text>
+      <para>
+        <num>(1)</num>
+        <text>As a rating organization, for the purpose of making rates, rating plans, or rating systems. No company shall be deemed to be a rating organization;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>As an advisory organization, for the purpose of preparing policy forms, making underwriting rules, surveys, or inspections incident to but not including the making of rates, rating plans, or rating systems, or collecting and furnishing to companies or rating organizations loss or expense statistics or other statistical data, and acting in an advisory as distinguished from a rate making capacity;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>As a group or fleet of companies operating under the same general management and control, for the purpose of conducting a complete insurance service;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>As a group, association, or other organization for the purpose of joint underwriting or joint reinsurance, or of equitable apportionment and proper rating of insurance which may be afforded applicants who are in good faith entitled to but who are unable to procure such insurance through ordinary methods.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No company shall be required by this chapter to be a member or subscriber of any rating organization.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 20, 1948, 62 Stat. 244, ch. 324, § 5</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1705.</annotation>
+        <annotation>1973 Ed., § 35-1505.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-2711" path="|31|27"/>
+    <reason>Repealed</reason>
+    <num codify:value="31-2706">6</num>
+    <heading>Filing requirements of organizations of companies; unfair practices; supervision of rating organizations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 20, 1948, 62 Stat. 245, ch. 324, § 6</annotation>
+        <annotation doc="D.C. Law 10-233">Mar. 21, 1995, D.C. Law 10-233, § 7, 42 DCR 24</annotation>
+        <annotation doc="D.C. Law 11-110">Apr. 18, 1996, D.C. Law 11-110, § 39, 43 DCR 530</annotation>
+        <annotation doc="D.C. Law 11-255">Apr. 9, 1997,D.C. Law 11-255, § 40, 44 DCR 1271</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(t), 44DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 2003(jj), 46 DCR 3142</annotation>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 126(c), 48 DCR 1225</annotation>
+        <annotation doc="D.C. Law 14-213">redesignated § 303, Oct. 19, 2002, D.C. Law 14-213, § 20(b), 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1706.</annotation>
+        <annotation>1973 Ed., § 35-1506.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For purported temporary (90 day) amendment of section, see § 3(x) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003,  50 DCR 6896).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>D.C. Act 15-145, § 3(x) and <cite doc="D.C. Law 15-38">D.C. Law 15-38</cite>, § 3(x), purported to amend subsec. (c)(5) of this section previously repealed by <cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>.</text>
+        <text>Office of Collector of Taxes abolished: The Office of the Collector of Taxes was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. All functions of the Office of the Collector of Taxes including the functions of all officers, employees, and subordinate agencies were transferred to the Director, Department of General Administration by Reorganization Order No. 3, dated August 28, 1952. Reorganization Order No. 20, dated November 10, 1952, transferred the functions of the Collector of Taxes to the Finance Office. The same Order provided for the Office of the Collector of Taxes headed by a Collector in the Finance Office, and abolished the previously existing Office of the Collector of Taxes. Reorganization Order No. 20 was superseded and replaced by Organization Order No. 121, dated December 12, 1957, which provided that the Finance Office (consisting of the Office of the Finance Officer, Property Tax Division, Revenue Division, Treasury Division, Accounting Division, and Data Processing Division) would continue under the direction and control of the Director of General Administration, and that the Treasury Division would perform the function of collecting revenues of the District of Columbia and depositing the same with the Treasurer of the United States. Organization Order No. 121, was revoked by Organization Order No. 3, dated December 13, 1967, Part IVC of which prescribed the functions of the Finance Office within a newly established Department of General Administration. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. Functions of the Finance Office as stated in Part IVC of Organization Order No. 3 were transferred to the Director of the Department of Finance and Revenue by Commissioner’s Order No. 69-96, dated March 7, 1969. The collection functions of the Director of the Department of Finance and Revenue were transferred to the District of Columbia Treasurer by § <cite path="§47-316">47-316</cite> on March 5, 1981.</text>
+        <text>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2701">31-2701</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-2711" path="|31|27"/>
+    <num codify:value="31-2707">7</num>
+    <heading>Information to be furnished to insured or Commissioner; grievance procedure.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Every rating organization and every company which makes its own rates shall, within a reasonable time after receiving written request therefor and upon payment of such reasonable charge as it may make, furnish to any insured affected by a rate made by it, or to the authorized representative of such insured, all pertinent information as to such rate.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Every rating organization and every company which makes its own rates shall provide within the District reasonable means whereby any person aggrieved by the application of its rating system may be heard, in person or by his authorized representative, on his written request to revise the manner in which such rating system has been applied in connection with the insurance afforded him. If the rating organization or company fails to grant or reject such request within 30 days after it is made, the applicant may proceed in the same manner as if his application had been rejected. Any party affected by the action of such rating organization or such company on such request may, within 30 days after written notice of such action, appeal to the Commissioner, who, after a hearing held upon not less than 10 days written notice to the appellant and to such rating organization or company, may affirm or reverse such action.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No company, agent, broker, or rating organization may willfully withhold required information from or give false or misleading information to the Commissioner.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>No company, agent, or broker shall fail to furnish to an insured any policy or comparable evidence of insurance to which the insured is entitled.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 20, 1948, 62 Stat. 246, ch. 324, § 7</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(t), 44 DCR 1730</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1707.</annotation>
+        <annotation>1973 Ed., § 35-1507.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2701">31-2701</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-2711" path="|31|27"/>
+    <num codify:value="31-2708">8</num>
+    <heading>Additional powers and duties of Commissioner.</heading>
+    <para>
+      <num>(a)</num>
+      <text>In addition to any powers hereinbefore expressly enumerated in this chapter, the Commissioner shall have full power and authority, and it shall be his duty, to enforce by regulations made and promulgated by the Council of the District of Columbia, by orders, or otherwise all and singular, the provisions of this chapter, and the full intent thereof. In particular he shall have the authority and power:</text>
+      <para>
+        <num>(1)</num>
+        <text>To examine all records of companies and rating organizations and to require any or every company, agent, broker, and rating organization to furnish under oath such information as he may deem necessary for the administration of this chapter. The expense of such examination shall be paid by the company or rating organization examined. In lieu of such examination the Commissioner may, in his discretion, accept a report of examination made by any other insurance supervisory authority;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Council of the District of Columbia shall have the authority and power to make, and the Commissioner shall have the authority and power to enforce, such reasonable orders, rules, and regulations as may be necessary in making this chapter effective, but such orders, rules, and regulations shall not be contrary to or inconsistent with the provisions of this chapter;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To issue an order, after a full hearing to all parties in interest, requiring any group, association, or organization of companies and the members thereof to cease and desist from any unfair or unreasonable practice.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commissioner may designate 1 or more rating organizations or other agencies to assist him in gathering statistical data and in making such compilations thereof as may be necessary for the proper administration of this chapter. Such compilations shall be made available, subject to reasonable rules promulgated by the Council of the District of Columbia, to companies and rating organizations.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commissioner shall have no authority at any hearing to compel the attendance of witnesses and he shall not be required to adhere to formal rules of pleading or evidence. At the request of a party or parties in interest made prior to any hearing, he shall administer oaths to witnesses and shall permit such party or parties, at the cost and expense of one who so requests, to have made a record of the hearing, which record upon request of such party or parties the Commissioner shall certify.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 20, 1948, 62 Stat. 246, ch. 324, § 8</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(t), 44 DCR 1730</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1708.</annotation>
+        <annotation>1973 Ed., § 35-1508.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2701">31-2701</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(279) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-2711" path="|31|27"/>
+    <num codify:value="31-2709">9</num>
+    <heading>Violations.</heading>
+    <text>Any company, broker, or agent guilty of violating any of the provisions of this chapter or any order, rule, or regulation issued pursuant to this chapter shall be subject to the provisions of §§ <cite path="§31-2502.03">31-2502.03</cite> and <cite path="§31-2502.36">31-2502.36</cite> [repealed], respectively.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 20, 1948, 62 Stat. 247, ch. 324, § 9</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1709.</annotation>
+        <annotation>1973 Ed., § 35-1509.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-2711" path="|31|27"/>
+    <num codify:value="31-2710">10</num>
+    <heading>Judicial proceedings to contest actions of Commissioner.</heading>
+    <text>Any person, firm or corporation aggrieved by any order, ruling, proceeding, or action of the Commissioner may contest the validity of such order, ruling, proceeding, or action in any court of competent jurisdiction by appeal or through any other appropriate proceedings, as provided under § <cite path="§31-2502.44">31-2502.44</cite> [repealed].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 20, 1948, 62 Stat. 247, ch. 324, § 10</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268,§ 10, 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 30(b), 45 DCR 745</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1710.</annotation>
+        <annotation>1973 Ed., § 35-1510.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2701">31-2701</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|27"/>
+    <num codify:value="31-2714">14</num>
+    <heading>Exemptions and limitations.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An insurer shall not be required to file with, or to receive approval from, the Commissioner, for rates and policy forms used in the insurance of exempt commercial risks.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The filing and review exemption set forth in subsection (a) of this section shall not apply to workers’ compensation and employer’s liability policies and rates.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>All policies issued under this chapter shall contain a notice to the insured that the rate and policy form are not subject to the filing, review, and approval requirements of the Commissioner.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An insurer providing a policy under this chapter shall, at the time of entering into the policy agreement and annually thereafter, on a form to be prescribed by the Commissioner, which form clearly sets forth the standards of this chapter; the right of the policyholder to obtain regulatory review under this chapter; the effects of the waiver of the regulatory review; and any other information the Commissioner considers useful; and obtain a written certification signed by the policyholder certifying that the policyholder:</text>
+        <para>
+          <num>(A)</num>
+          <text>Employs a certified or qualified risk manager or placed the business through a licensed insurance producer or otherwise meets the criteria of an exempt commercial risk;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Is aware that the policy being purchased is not subject to initial regulatory review or approval of rates and forms; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Agrees to the use of the exempt rates and forms by its insurer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The policyholder certification shall be filed with, and retained by, the insurance company issuing coverage to the policyholder. An insurer issuing policies under this section shall provide the number of exempt policyholders annually to the Commissioner.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>If any provision of this section conflicts with any other law in the District, this section shall govern.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 20, 1948, 62 Stat. 242, ch. 324, § 14</annotation>
+        <annotation doc="D.C. Law 13-299">as added May 5, 2001, D.C. Law 13-299, § 2(b), 48 DCR 2211</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 21, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite> validated a previously made technical change in directory language of <cite doc="D.C. Law 13-299">D.C. Law 13-299</cite> which required no change in text.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

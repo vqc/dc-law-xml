@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 85-94">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 85-94">
   <num>85-94</num>
   <meta>
     <effective>1957-07-10</effective>
@@ -7,4 +7,513 @@
       <law session="85" lawId="94"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-701">1</num>
+    <heading>Purposes; effective date.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 285, Pub. L. 85-94, § 1</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-301.</annotation>
+        <annotation>1973 Ed., § 30-301.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-702">2</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 285, Pub. L. 85-94, § 2</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 578, Pub. L. 91-358, title I, § 159(f)(1)</annotation>
+        <annotation doc="D.C. Law 6-166">Feb. 24, 1987, D.C. Law 6-166, § 33(f)(1), 33 DCR 6710</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-302.</annotation>
+        <annotation>1973 Ed., § 30-302.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-703">3</num>
+    <heading>Existing remedies preserved.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 286, Pub. L. 85-94, § 3</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-303.</annotation>
+        <annotation>1973 Ed., § 30-303.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-704">4</num>
+    <heading>Extent of duties of support.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 286, Pub. L. 85-94, § 4</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-304.</annotation>
+        <annotation>1973 Ed., § 30-304.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-705">5</num>
+    <heading>Remedies of a state furnishing support or institutional care.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 286, Pub. L. 85-94, § 5</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-305.</annotation>
+        <annotation>1973 Ed., § 30-305.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-706">6</num>
+    <heading>Commencement of proceedings; jurisdiction of Superior Court.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 286, Pub. L. 85-94, § 6</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 586, Pub. L. 91-358, title I, § 165(d)</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-306.</annotation>
+        <annotation>1973 Ed., § 30-306.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-707">7</num>
+    <heading>Complaint; verification; contents; attachments.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 286, Pub. L. 85-94, § 7</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-307.</annotation>
+        <annotation>1973 Ed., § 30-307.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-708">8</num>
+    <heading>Representation of plaintiff by Corporation Counsel or private counsel.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 286, Pub. L. 85-94, § 8</annotation>
+        <annotation doc="D.C. Law 6-166">Feb. 24, 1987, D.C. Law 6-166, § 33(f)(2), 33 DCR 6710</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-308.</annotation>
+        <annotation>1973 Ed., § 30-308.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-709">9</num>
+    <heading>Complaint on behalf of minor dependent.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 287, Pub. L. 85-94, § 9</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-309.</annotation>
+        <annotation>1973 Ed., § 30-309.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-710">10</num>
+    <heading>Duty of Court when District is initiating state.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 287, Pub. L. 85-94, § 10</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-310.</annotation>
+        <annotation>1973 Ed., § 30-310.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-711">11</num>
+    <heading>Fees and costs to accompany complaint; waiver of payment.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 287, Pub. L. 85-94, § 11</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-311.</annotation>
+        <annotation>1973 Ed., § 30-311.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-712">12</num>
+    <heading>Flight of defendant from jurisdiction of responding state.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 287, Pub. L. 85-94, § 12</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-312.</annotation>
+        <annotation>1973 Ed., § 30-312.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-713">13</num>
+    <heading>Duties of Director of Department of Human Services.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 287, Pub. L. 85-94, § 13</annotation>
+        <annotation doc="D.C. Law 6-166">Feb. 24, 1987, D.C. Law 6-166, § 33(f)(3), 33 DCR 6710</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-313.</annotation>
+        <annotation>1973 Ed., § 30-313.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-714">14</num>
+    <heading>Duty of Court when District is responding state.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 287, Pub. L. 85-94, § 14</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-314.</annotation>
+        <annotation>1973 Ed., § 30-314.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-715">15</num>
+    <heading>Orders of Court on finding duty of support.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 288, Pub. L. 85-94, § 15</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-315.</annotation>
+        <annotation>1973 Ed., § 30-315.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-716">16</num>
+    <heading>Copies of orders to be transmitted to initiating state.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 288, Pub. L. 85-94, § 16</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-316.</annotation>
+        <annotation>1973 Ed., § 30-316.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-717">17</num>
+    <heading>Duties of Court as to receipt and disbursement of payments.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 288, Pub. L. 85-94, § 17</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-317.</annotation>
+        <annotation>1973 Ed., § 30-317.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-718">18</num>
+    <heading>Husband and wife as witnesses.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 288, Pub. L. 85-94, § 18</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-318.</annotation>
+        <annotation>1973 Ed., § 30-318.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-719">19</num>
+    <heading>Crediting of payments under support orders.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 288, Pub. L. 85-94, § 19</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-319.</annotation>
+        <annotation>1973 Ed., § 30-319.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-720">20</num>
+    <heading>Duty to support illegitimate child.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 288, Pub. L. 85-94, § 20</annotation>
+        <annotation doc="D.C. Law 1-87">Oct. 1, 1976, D.C. Law 1-87, § 34, 23 DCR 2544</annotation>
+        <annotation doc="D.C. Law 1-107">Apr. 7, 1977, D.C. Law 1-107, title I, § 114, 23 DCR 8737</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Acknowledgement of parentage, issuance of new birth certificates, see § <cite path="§7-210">7-210</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-320.</annotation>
+        <annotation>1973 Ed., § 30-320.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-721">21</num>
+    <heading>Effect of participation in proceedings.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 288, Pub. L. 85-94, § 21</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-321.</annotation>
+        <annotation>1973 Ed., § 30-321.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-722">22</num>
+    <heading>Right of appeal.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 289, Pub. L. 85-94, § 22</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 578, Pub. L. 91-358, title I, § 159(f)(2)</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-322.</annotation>
+        <annotation>1973 Ed., § 30-322.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-723">23</num>
+    <heading>Severability.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 289, Pub. L. 85-94, § 23</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-323.</annotation>
+        <annotation>1973 Ed., § 30-323.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-724">24</num>
+    <heading>Appropriations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, 71 Stat. 289, Pub. L. 85-94, § 24</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-324.</annotation>
+        <annotation>1973 Ed., § 30-324.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-725">24a</num>
+    <heading>Registration of foreign support order.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, Pub. L. 85-94, § 24a</annotation>
+        <annotation doc="D.C. Law 6-166">as added Feb. 24, 1987, D.C. Law 6-166, § 33(f)(4), 33 DCR 6710</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-325.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|46|7"/>
+    <reason>Repealed</reason>
+    <num codify:value="46-726">24b</num>
+    <heading>Effect of foreign support order.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-94">July 10, 1957, Pub. L. 85-94, § 24b</annotation>
+        <annotation doc="D.C. Law 6-166">as added Feb. 24, 1987, D.C. Law 6-166, § 33(f)(4), 33 DCR 6710</annotation>
+        <annotation doc="D.C. Law 11-81">Feb. 9, 1996, D.C. Law 11-81, § 902, 42 DCR 6748</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 30-326.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

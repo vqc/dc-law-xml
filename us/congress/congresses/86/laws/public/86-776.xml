@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 86-776">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 86-776">
   <num>86-776</num>
   <meta>
     <effective>1960-09-13</effective>
@@ -7,4 +7,42 @@
       <law session="86" lawId="776"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2313">1</num>
+    <heading>Grant of certain lands — Transfer.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-776">Sept. 13, 1960, 74 Stat. 916, Pub. L. 86-776, § 1</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1813.</annotation>
+        <annotation>1973 Ed., § 31-1033.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2314">2</num>
+    <heading>Delivery of deed.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-776">Sept. 13, 1960, 74 Stat. 917, Pub. L. 86-776, § 2</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1814.</annotation>
+        <annotation>1973 Ed., § 31-1034.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

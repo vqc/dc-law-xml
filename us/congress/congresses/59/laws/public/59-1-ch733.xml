@@ -1,10 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 59-1-ch733">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 59-1-ch733" codify:tag="section" from-code="true">
   <meta>
     <effective>1905-02-23</effective>
     <cites>
-        <law congress="59" session="1" chapter="733"/>
+      <law congress="59" session="1" chapter="733"/>
     </cites>
   </meta>
+  <codify:insert doc="D.C. Code" before="§42-902" path="|42|9"/>
+  <num codify:value="42-901"></num>
+  <heading>Ownership of real estate by aliens.</heading>
+  <text>The Act entitled “An Act to better define and regulate the rights of aliens to hold and own real estate in the territories,” approved March 2, 1897 (48 U.S.C. §§ 1501  -1507  ), be, and the same is hereby, amended so as to extend to aliens the same rights and privileges concerning the acquisition, holding, owning, and disposition of real estate in the District of Columbia as by that Act are conferred upon them in respect of real estate in the territories of the United States. All laws and parts of laws so far as they conflict with the provisions of this section are hereby repealed.</text>
+  <annotations>
+    <annoGroup>
+      <heading>History</heading>
+      <annotation>Feb. 23, 1905, 33 Stat. 733, ch. 733</annotation>
+    </annoGroup>
+    <annoGroup>
+      <heading>Prior Codifications</heading>
+      <annotation>1981 Ed., § 45-1301.</annotation>
+      <annotation>1973 Ed., § 45-1501.</annotation>
+    </annoGroup>
+  </annotations>
 </document>

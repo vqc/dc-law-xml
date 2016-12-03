@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 4-210">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 4-210">
   <num type="law">4-210</num>
   <heading type="short">Nuclear Weapons Freeze Act of 1982</heading>
   <meta>
@@ -12,4 +12,98 @@
       <narrative>Law 4-210, the “Nuclear Weapons Freeze Act of 1982,” was submitted to the electors of the District of Columbia on November 2, 1982, as Initiative No. 10. The results of the voting, certified by the Board of Elections and Ethics on November 10, 1982, were 80,766 for the Initiative and 34,926 against the Initiative. It was transmitted to Congress on February 1, 1983, published in the D.C. Register on March 11, 1983, and became law on March 17, 1983.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|24"/>
+    <num codify:value="7-2401">2</num>
+    <heading>Declaration of policy.</heading>
+    <text>In the interest of preventing nuclear war, reversing the economic impact of weapons spending, and safeguarding District of Columbia residents, and recognizing that civil defense cannot provide protection from nuclear destruction, it is by the electors declared the public policy of the District of Columbia to support:</text>
+    <para>
+      <num>(1)</num>
+      <text>A mutual United States-Soviet Union nuclear weapons freeze as a first step toward arms reduction;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Redirection of resources to job creation and human needs; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Avoidance of nuclear war, not futile preparation to withstand nuclear attack.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-210">Mar. 17, 1983, D.C. Law 4-210, § 2, 30 DCR 1088</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-1511.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Nuclear Test Ban Support: Pursuant to Resolution 6-656, the “Nuclear Test Ban Support Resolution of 1986,” effective May 13, 1986, the Council expressed support for a mutual and verifiable ban of nuclear testing as a first step towards freezing and reversing the arms race between the United States and the Soviet Union.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|24"/>
+    <reason>Repealed</reason>
+    <num codify:value="7-2402">3</num>
+    <heading>Establishment of Advisory Board.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-210">Mar. 17, 1983, D.C. Law 4-210, § 3, 30 DCR 1088</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86, § 401(g), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-1512.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|24"/>
+    <reason>Repealed</reason>
+    <num codify:value="7-2403">4</num>
+    <heading>Duties of Advisory Board.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-210">Mar. 17, 1983, D.C. Law 4-210, § 4, 30 DCR 1088</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86, § 401(g), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-1513.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|24"/>
+    <num codify:value="7-2404">5</num>
+    <heading>Proposal for immediate negotiation.</heading>
+    <text>Within 30 days of March 17, 1983, the Mayor shall propose to Congress, the Secretary of Defense, the Secretary of State, and the President the immediate negotiation with the Soviet Union of a permanent, mutual freeze on the testing, production, and further deployment of all nuclear weapons and their delivery systems.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-210">Mar. 17, 1983, D.C. Law 4-210, § 5, 30 DCR 1088</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Prisons, privately operated facilities, authority to register firearms, see § <cite path="§24-261.02">24-261.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-1514.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Initiative 37, <cite doc="D.C. Law 10-99">D.C. Law 10-99</cite>: <cite doc="D.C. Law 10-99">D.C. Law 10-99</cite> was enacted by the electors of the District of Columbia in Initiative Measure 37.</text>
+        <text>Section 1 of <cite doc="D.C. Law 10-99">D.C. Law 10-99</cite> requires the Mayor to notify the District’s Congressional Delegate, in writing, that a majority of District voters request that the Delegate propose a Constitutional amendment directing the U.S. government to: 1) abolish all nuclear warheads by the year 2000; 2) pursue a good faith effort to eliminate war, armed conflict, and military operations; 3) actively promote international peace and nuclear disarmament; and 4) convert weapons industries into constructive, ecologically beneficial peacetime industries and to redirect those resources to meet human needs, including housing, health care, agriculture, education, and environment.</text>
+        <text>Section 2 of <cite doc="D.C. Law 10-99">D.C. Law 10-99</cite> provided for severability of the act.</text>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

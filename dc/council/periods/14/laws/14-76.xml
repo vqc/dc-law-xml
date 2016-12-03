@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 14-76">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 14-76">
   <num type="law">14-76</num>
   <heading type="short">Office of Administrative Hearings Establishment Act of 2001</heading>
   <meta>
@@ -12,4 +12,1453 @@
       <narrative>Law 14-76, the “Office of Administrative Hearings Establishment Act of 2001”, was introduced in Council and assigned Bill No. 14-208, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on October 2, 2001, and November 6, 2001, respectively. Signed by the Mayor on November 29, 2001, it was assigned Act No. 14-196 and transmitted to both Houses of Congress for its review. D.C. Law 14-76 became effective on March 6, 2002.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.01">4</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Adjudicated case” means a contested case or other administrative adjudicative proceeding before the Mayor or any agency that results in a final disposition by order and in which the legal rights, duties, or privileges of specific parties are required by any law or constitutional provision to be determined after an adjudicative hearing of any type. The term “adjudicated case” includes, without limitation, any required administrative adjudicative proceeding arising from a charge by an agency that a person committed an offense or infraction that is civil in nature.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Administrative Law Judge,” unless otherwise specified, means an Administrative Law Judge of the Office of Administrative Hearings.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Administrative Procedure Act” means the District of Columbia Administrative Procedure Act (§ <cite path="§2-501">2-501</cite> et seq.).</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Agency” shall have the meaning provided that term in § <cite path="§2-502">2-502</cite>(3).</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Commission” means the Commission on Selection and Tenure of Administrative Law Judges of the Office of Administrative Hearings.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Contested case” shall have the meaning provided that term in § <cite path="§2-502">2-502</cite>(8).</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Fiscal year” means the period from October 1 through September 30 of the following year.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Hearing officer” means an individual, other than an agency director, whose permanent duties as an employee of the District of Columbia on the day prior to this chapter becoming applicable to his or her agency consisted in whole or in substantial part of regularly adjudicating administrative matters as required by law. The term “hearing officer” includes, without limitation, any person with a position bearing the title “Hearing Officer,” “Hearing Examiner,” “ “Attorney Examiner,” “Administrative Law Judge,” “Administrative Judge,” or “Adjudication Specialist”. Notwithstanding anything to the contrary in this paragraph, the term “hearing officer” does not include any employee holding an intermittent service, a temporary appointment of less than one year, or a term appointment of less than one year. The Mayor or the Commission may issue rules in accordance with § <cite path="§2-1831.11">2-1831.11</cite> to adjust the period of employee tenure required to qualify as a hearing officer, except that such rules may not require a period longer than one year prior to this act becoming applicable to an employee’s agency.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Independent agency” shall have the meaning provided that term in § <cite path="§2-502">2-502</cite>(5).</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Interlocutory order” means any decision of an Administrative Law Judge in a matter other than an order as defined in this chapter.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Office” means the Office of Administrative Hearings as established by this chapter, and, unless otherwise stated, includes its Chief Administrative Law Judge and its Administrative Law Judges.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Order” shall have the meaning provided that term in § <cite path="§2-502">2-502</cite>(11).</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“Party” shall have the meaning provided that term in § <cite path="§2-502">2-502</cite>(10).</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>“Person” includes individuals, partnerships, corporations, associations, and public or private organizations and entities of any character other than the Mayor, the Council, the courts, or an agency.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 4, 48 DCR 11442</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-1801.03">2-1801.03</cite>, § <cite path="§4-754.41">4-754.41</cite>, § <cite path="§7-2341.18">7-2341.18</cite>, § <cite path="§7-2341.24">7-2341.24</cite>, § <cite path="§36-304.01">36-304.01</cite>, § <cite path="§47-877">47-877</cite>, § <cite path="§50-307">50-307</cite>, § <cite path="§50-309.02">50-309.02</cite>, § <cite path="§50-312">50-312</cite>, and § <cite path="§50-329.03">50-329.03</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.02">5</num>
+    <heading>Establishment of Office of Administrative Hearings.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The District of Columbia Office of Administrative Hearings is established as an independent agency within the executive branch of the District of Columbia government in the form and manner prescribed by this chapter. The Office shall be responsible for the administrative adjudication of all cases to which this chapter applies.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Office shall commence operations on the day that begins the first pay period after 180 days following Council confirmation of the individual who will serve as the first Chief Administrative Law Judge of the Office. On or after March 6, 2002, the Mayor may issue an executive order appointing an acting Chief Administrative Law Judge, pending his or her confirmation, and may authorize him or her to plan for the implementation of this chapter, including the commencement of operations of the Office.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <para>
+          <num>(A)</num>
+          <text>If the Office begins operations after October 1, 2003, the Chief Financial Officer shall make intra-district transfers, on a quarterly basis, to the Department of Health, the Department of Human Services, the Board of Appeals and Review, the Child and Family Services Agency, and the Department of Motor Vehicles for the continuing costs of their adjudication functions during Fiscal Year 2004. The intra-district transfer shall be calculated as a pro rata share of the funds and full-time equivalent positions that each agency, respectively, transferred to the Office for its Fiscal Year 2004 baseline budget prepared by the Office of the Chief Financial Officer. Any amount so transferred shall remain a portion of the Office’s baseline budget for any succeeding fiscal year.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>In calculating any pro rata share for the Board of Appeals and Review, the Chief Financial Officer shall exclude from consideration any period that occurs, in whole or in part, during the first quarter of Fiscal Year 2004. The Chief Financial Officer shall also make an intra-district transfer to the Office’s budget of any unused funds in the Fiscal Year 2004 budget of the Board of Appeals and Review, as of the date that the Office commences operations in accordance with subsection (b) of this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Repealed.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All funding and full-time equivalent position authority associated with the administrative adjudication functions of any agency to which this unit becomes applicable on October 1, 2004, shall be transferred from that agency on or before the date that this unit becomes applicable to that agency.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All property associated with the administrative adjudication functions of any agency to which this act becomes applicable shall be transferred to the Office on or before the date that this chapter becomes applicable to that agency.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Any hearing officer in an agency covered by this chapter shall be subject to all rights, privileges, and requirements of this chapter, but his or her position and related costs shall continue to be funded by his or her originating agency until personnel authority, property, records, and unexpended balances of appropriations, revenues, and other funds associated with an agency’s carrying out the functions assigned to the Office under authority of this chapter are lawfully transferred to the Office.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Office shall be subject to Unit A of Chapter 3 of Title 2, subchapter IX-A of Chapter 2 of Title 2, Chapter 14 of Title 1, and Chapter 10 of Title 10.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 5, 48 DCR 11442</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 402(a), 50 DCR 5668</annotation>
+        <annotation doc="D.C. Law 15-177">Sept. 8, 2004, D.C. Law 15-177, § 2(a), 51 DCR 5709</annotation>
+        <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 16, 53 DCR 6794</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite>, in subsec. (b), substituted “the day that begins the first pay period after 180 days following Council confirmation of the individual who will serve as the first Chief Administrative Law Judge of the Office” for “October 1, 2003”; and rewrote subsec. (c) which had read as follows: “(c) All funding, property, and full-time equivalent position authority associated with the administrative adjudication functions of the agencies to which this chapter becomes applicable by October 1, 2003 shall be transferred from those agencies to the Office by that date. All funding, property, and full-time equivalent position authority associated with the administrative adjudication functions of any agency to which this chapter becomes applicable after October 1, 2003 shall be transferred from that agency to the Office on or before the date that this chapter becomes applicable to that agency.”</annotation>
+        <annotation><cite doc="D.C. Law 15-177">D.C. Law 15-177</cite> repealed par. (2) of subsec. (c) which had read:</annotation>
+        <annotation>“(2) If the Office begins operation after October 1, 2003, the Chief Financial Officer shall make an intra-district transfer, from the D.C. Public Schools to the Office, of the pro rata share of the $1,866,000 budgeted for adjudication of cases related to special education. The Chief Financial Officer shall calculate the pro rata share as a percentage of funds equal to the percentage of pay periods in fiscal year 2004 during which the Office has the responsibility of hearing special education cases.”</annotation>
+        <annotation><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in subsec. (e), substituted “subchapter IX-A of Chapter 2 of this title” for “subchapter IX of Chapter 2 of this title”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(a) of the Office of Administrative Hearings Independence Preservation Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-115">D.C. Law 15-115</cite>, Mar. 30, 2004, law notification  51 DCR 3802).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 402(a) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 402(a) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Office of Administrative Hearings Independence Preservation Emergency Amendment Act of 2003 (D.C. Act 15-275, December 18, 2003,  51 DCR 45).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Office of Administrative Hearings Independence Preservation Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-403, March 18, 2004,  51 DCR 3645).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <text>Short title of title IV of Law 15-39: Section 401 of <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> provided that title IV of the act may be cited as the Office of Administrative Hearings Amendment Act of 2003.</text>
+        <text>Short title: Section 3009 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided that subtitle D of title III of the act may be cited as the “Office of Administrative Hearings Space Analysis Act of 2008”.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 3010 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided:</text>
+        <text>“(a) Notwithstanding any other provision of law, the District of Columbia Auditor shall contract for an analysis to identify the space needs of the Office of Administrative Hearings; provided, that the District of Columbia Auditor shall not utilize a subordinate agency to provide or procure this analysis.</text>
+        <text>“(b) The analysis shall be submitted to the Council not later than December 1, 2008.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.03">6</num>
+    <heading>Jurisdiction of the Office and agency authority to review cases.</heading>
+    <para>
+      <num>(a)</num>
+      <text>As of the day that begins the first pay period after 180 days following Council confirmation of the individual who will serve as the first Chief Administrative Law Judge of the Office, this chapter shall apply to adjudicated cases under the jurisdiction of the following agencies:</text>
+      <para>
+        <num>(1)</num>
+        <text>Department of Health;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Department of Human Services;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Board of Appeals and Review;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Repealed;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>All adjudicated cases in which a hearing is required to be held pursuant to § <cite path="§7-2108">7-2108</cite>(a) and 7-2108(b), including licensing and enforcement matters arising under rules issued by the Child and Family Services Agency;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>All adjudicated cases required to be heard pursuant to §§ <cite path="§8-802">8-802</cite> and <cite path="§8-902">8-902</cite>;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Repealed;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Department of Banking and Financial Institutions; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Repealed;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>All adjudications involving infractions of subchapter II-A of Chapter 10 of Title 6 [§§ <cite path="§6-1041.01">6-1041.01</cite> through <cite path="§6-1041.09">6-1041.09</cite>] and the rules promulgated under its authority.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Repealed.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In addition to those agencies listed in subsection (a) of this section, as of October 1, 2004, this chapter shall apply to adjudicated cases under the jurisdiction of the following agencies:</text>
+      <para>
+        <num>(1)</num>
+        <text>Department of Employment Services, other than the private workers’ compensation function;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Department of Consumer and Regulatory Affairs, except for those cases under the jurisdiction of the Rent Administrator and those cases under the jurisdiction of the Real Property Tax Appeals Commission for the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Taxicab Commission;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All adjudicated cases of the Office of Tax and Revenue arising from tax protests filed pursuant to § <cite path="§47-4312">47-4312</cite>; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>All adjudicated enforcement cases brought by the Historic Preservation Office within the Office of Planning.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b-1)</num>
+      <para>
+        <num>(1)</num>
+        <text>In addition to those agencies listed in subsections (a) and (b) of this section, as of October 1, 2006, this chapter shall apply to adjudicated cases under the jurisdiction of the Rent Administrator in the Department of Consumer Regulatory Affairs.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In preparation for the transfer of jurisdiction of the Rent Administrator’s adjudicatory function to the Office, the Rent Administrator of the Department of Consumer and Regulatory Affairs shall submit a plan to the Mayor and Council by December 31, 2004 describing how the Rent Administrator’s office will function after its adjudicatory responsibilities are transferred to the Office, the legislative changes needed to prepare the Rent Administrator for its new role, and the resources needed to maintain its non-adjudicatory functions. The plan shall be developed in consultation with the Office.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b-2)</num>
+      <text>In addition to those adjudicated cases listed in subsections (a), (b), and (b-1) of this section, as of January 1, 2009, this chapter shall apply to all adjudicated cases involving:</text>
+      <para>
+        <num>(1)</num>
+        <text>The imposition of a civil fine for violation of firearm registrant requirements pursuant to § <cite path="§7-2502.09">7-2502.09</cite>(b) [(b) repealed];</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The denial or revocation of a firearm registration certificate pursuant to § <cite path="§7-2502.10">7-2502.10</cite>;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The denial or revocation of a dealer license pursuant to § <cite path="§7-2504.06">7-2504.06</cite>; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The imposition of a civil fine for violations of Chapter 10 of Title 7 [§ <cite path="§7-1001">7-1001</cite> et seq.], pursuant to § <cite path="§7-1007">7-1007</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b-3)</num>
+      <text>In addition to those cases described in subsections (a), (b), (b-1), and (b-2) of this section, as of May 5, 2010, this chapter shall apply to adjudicated cases required to be heard pursuant to § <cite path="§42-3141.06">42-3141.06</cite>.</text>
+    </para>
+    <para>
+      <num>(b-4)</num>
+      <text>In addition to those adjudicated cases listed in subsections (a), (b), (b-1), (b-2), and (b-3) of this section, this chapter shall apply to all adjudicated cases involving the impoundment of a vehicle pursuant to § <cite path="§22-2724">22-2724</cite>(a).</text>
+    </para>
+    <para>
+      <num>(b-5)</num>
+      <text>This chapter shall apply to appeals pursuant to §§ <cite path="§47-857.09a">47-857.09a</cite> and <cite path="§47-859.04a">47-859.04a</cite>.</text>
+    </para>
+    <para>
+      <num>(b-6)</num>
+      <text>In addition to those adjudicated cases listed in subsections (a), (b), (b-1), (b-2), (b-3), (b-4), and (b-5) of this section, this chapter shall apply to all adjudicated cases involving the failure to report known or reasonably believed child sexual abuse pursuant to subchapter II-A of Chapter 30 of Title 22 [§ <cite path="§22-3020.51">22-3020.51</cite> et seq.].</text>
+    </para>
+    <para>
+      <num>(b-7)</num>
+      <text>In addition to those adjudicated cases listed in subsections (a), (b), (b-1), (b-2), (b-3), (b-4), (b-5), and (b-6) of this section, this chapter shall apply to all adjudications involving the imposition of a civil fine for violations of § <cite path="§48-1201">48-1201</cite>.</text>
+    </para>
+    <para>
+      <num>(b-8)</num>
+      <text>In addition to those adjudicated cases listed in subsections (a), (b), (b-1), (b-2), (b-3), (b-4), (b-5), (b-6), and (b-7) of this section, this chapter shall apply to appeals pursuant to § <cite path="§2-218.63">2-218.63</cite>(g).</text>
+    </para>
+    <para>
+      <num>(b-9)</num>
+      <text>In addition to  those cases described in subsections (a), (b), (b-1), (b-2), (b-3),  (b-4), (b-5), (b-6), and (b-7) [and (b-8)], this chapter shall apply to adjudicated  cases under the jurisdiction of the District Department of Transportation.</text>
+    </para>
+    <para>
+      <num>(b-10)</num>
+      <text>In addition to those cases described in subsections (a), (b), (b-1), (b-2), (b-3), (b-4), (b-5), (b-6), (b-7), and (b-8) [and (b-9)], this chapter shall apply to adjudicated cases involving a civil fine or penalty imposed by the Higher Education Licensure Commission under § <cite path="§38-1312">38-1312</cite>(a-1).</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Those agencies, boards, and commissions that are not included in subsections (a), (b), (b-1), (b-2), or (b-3) of this section may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Refer individual cases to the Office, with the approval of the Chief Administrative Law Judge; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Elect to be covered by this chapter, subject to the approval of the Chief Administrative Law Judge and the Mayor, and upon such terms as the Mayor may set.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Nothing in this chapter shall be construed to grant a right to a hearing not created independently by a constitutional provision or a provision of law other than this chapter, except with regard to the discipline or removal of an Administrative Law Judge or the Chief Administrative Law Judge.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Except as provided in subsection (h) of this section, no agency of the District of Columbia to which this chapter applies shall adjudicate adjudicated cases under the jurisdiction of the Office of Administrative Hearings or employ hearing officers, either full- or part-time, for the purpose of adjudicating cases under the jurisdiction of the Office.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Any case initiated by, or arising from a decision or action of, an agency or a portion of an agency in receivership shall not be heard by the Office unless the receiver has entered a binding agreement that any order issued by the Office in the matter would have the same force, effect, and finality as it would if the receivership did not exist.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>Nothing in this chapter shall be construed to limit the authority of an agency covered in subsections (a), (b), (b-1), (b-2), or (b-3) of this section, if the authority exists pursuant to other provisions of the law, to have an agency head or one or more members of the governing board, commission, or body of the agency adjudicate cases falling within its jurisdiction in lieu of the Office. This authority may not be delegated in whole or in part to any subordinate employees of the agency.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <para>
+        <num>(1)</num>
+        <text>A board or commission with authority to issue professional or occupational licenses may delegate to the Office its authority to conduct a hearing and issue an order on the proposed denial, suspension, or revocation of a license or on any proposed disciplinary action against a licensee or applicant for a license. The Office’s order shall be appealable to the board or commission pursuant to § <cite path="§2-1831.16">2-1831.16</cite>(b).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A case that was delegated by a board or commission to an administrative law judge or hearing examiner employed by an agency subject to this chapter shall be deemed to have been delegated to the Office pursuant to this section as of the date that the agency’s adjudicated cases became subject to this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>A person who has filed a protest of a proposed assessment under § <cite path="§47-4312">47-4312</cite> and requested a hearing with the Office shall be deemed to have elected adjudication by the Office as the exclusive means of adjudication of all challenges to the proposed assessment, and to have waived any right to adjudication of a challenge to the proposed assessment in any other forum. Nothing in this subsection limits the right of any person to judicial review of an order of the Office pursuant to § <cite path="§2-1831.16">2-1831.16</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 6, 48 DCR 11442</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 402(b), 50 DCR 5668</annotation>
+        <annotation doc="D.C. Law 15-177">Sept. 8, 2004, D.C. Law 15-177, § 2(b), 51 DCR 5709</annotation>
+        <annotation doc="D.C. Law 15-205">Dec. 7, 2004, D.C. Law 15-205, § 3502, 51 DCR 8441</annotation>
+        <annotation doc="D.C. Law 15-217">Dec. 7, 2004, D.C. Law 15-217, § 3(a), 51 DCR 9126</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, §§ 10, 84(c), 86, 52 DCR 2638</annotation>
+        <annotation doc="D.C. Law 16-83">Apr. 4, 2006, D.C. Law 16-83, § 2(a), 53 DCR 1059</annotation>
+        <annotation doc="D.C. Law 16-189">Mar. 2, 2007, D.C. Law 16-189, § 3, 53 DCR 6786</annotation>
+        <annotation doc="D.C. Law 16-225">Mar. 6, 2007, D.C. Law 16-225, § 2, 53 DCR 10232</annotation>
+        <annotation doc="D.C. Law 16-275">Mar. 14, 2007, D.C. Law 16-275, § 202, 54 DCR 880</annotation>
+        <annotation doc="D.C. Law 17-216">Aug. 15, 2008, D.C. Law 17-216, § 2, 55 DCR 7500</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 191, 56 DCR 1117</annotation>
+        <annotation doc="D.C. Law 17-372">Mar. 31, 2009, D.C. Law 17-372, § 2, 56 DCR 1365</annotation>
+        <annotation doc="D.C. Law 18-146">May 22, 2010, D.C. Law 18-146, § 3, 57 DCR 2549</annotation>
+        <annotation doc="D.C. Law 18-219">Sept. 18, 2010, D.C. Law 18-219, § 13(a), 57 DCR 4353</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259,§ 3, 57 DCR 5591</annotation>
+        <annotation doc="D.C. Law 18-352">Mar. 31, 2011, D.C. Law 18-352, § 3, 58 DCR 744</annotation>
+        <annotation doc="D.C. Law 18-363">Apr. 8, 2011, D.C. Law 18-363, § 3(e), 58 DCR 963</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 26, 59 DCR 6190</annotation>
+        <annotation doc="D.C. Law 19-268">Apr. 20, 2013, D.C. Law 19-268, § 2, 60 DCR 1709</annotation>
+        <annotation doc="D.C. Law 19-315">June 8, 2013, D.C. Law 19-315, § 3, 60 DCR 1702</annotation>
+        <annotation doc="D.C. Law 20-108">June 10, 2014, D.C. Law 20-108, § 3(b), 61 DCR 3892</annotation>
+        <annotation doc="D.C. Law 20-126">July 17, 2014, D.C. Law 20-126, § 401, 61 DCR 3482</annotation>
+        <annotation doc="D.C. Law 20-207">Mar. 11, 2015, D.C. Law 20-207, § 3, 61 DCR 12690</annotation>
+        <annotation doc="D.C. Law 21-74">Feb. 27, 2016, D.C. Law 21-74, § 5, 63 DCR 252</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-1831.16">2-1831.16</cite>, § <cite path="§22-3020.54">22-3020.54</cite>, § <cite path="§42-3502.04">42-3502.04</cite>, and § <cite path="§47-4312">47-4312</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite>, in subsec. (a), substituted “As of the day that begins the first pay period after 180 days following Council confirmation of the individual who will serve as the first Chief Administrative Law Judge of the Office” for “As of October 1, 2003” in the introductory language, substituted “All adjudicated cases pertaining to special education heard by the D.C. Public Schools” for “Department of Consumer and Regulatory Affairs” in par. (4), and repealed par. (7); in subsec. (b), substituted “Department of Consumer and Regulatory Affairs” for “All adjudicated cases pertaining to special education heard by the D.C. Public Schools” in par. (2), made a nonsubstantive change in par. (3), and added par. (4); and repealed subsec. (d).</annotation>
+        <annotation><cite doc="D.C. Law 15-177">D.C. Law 15-177</cite> repealed par. (4) of subsec. (a) and rewrote subsec. (c) which had read:</annotation>
+        <annotation>“(4) All adjudicated cases pertaining to special education heard by the D.C. Public Schools;”</annotation>
+        <annotation>“(c) Those agencies that are not included in subsections (a) or (b) of this section may refer individual cases to the Office of Administrative Hearings, with the approval of the Chief Administrative Law Judge, or elect, subject to the approval of the Mayor and upon such terms as the Mayor shall set, to be covered by this chapter.”</annotation>
+        <annotation><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> rewrote par. (2) of subsec. (b); added subsec. (b-1); and, in subsecs. (c) and (h), substituted “(a), (b), or (b-1)” for “(a) or (b)”. Prior to amendment, par. (2) of subsec. (b) had read as follows: “(2) Department of Consumer and Regulatory Affairs;”.</annotation>
+        <annotation><cite doc="D.C. Law 15-217">D.C. Law 15-217</cite>, rewrote par. (4) of subsec. (b); in subsec. (c), substituted “agencies, boards, and commissions” for “agencies”; and added subsecs. (i) and (j). Prior to amendment, par. (4) of subsec. (b) had read as follows: “(4) All adjudicated cases pertaining to tax-related issues heard by the Office of Tax and Revenue.”</annotation>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in subsecs. (a)(4) and (b)(2), validated a previously made technical changes; and, in subsec. (f), substituted “adjudicated cases” for “contested cases”.</annotation>
+        <annotation><cite doc="D.C. Law 16-83">D.C. Law 16-83</cite> rewrote subsec. (b-1)(1) which read as follows: “(b-1)(1) In addition to those agencies listed in subsections (a) and (b) of this section, as of October 1, 2005, this chapter shall apply to adjudicated cases under the jurisdiction of the Rent Administrator in the Department of Consumer and Regulatory Affairs.”</annotation>
+        <annotation><cite doc="D.C. Law 16-189">D.C. Law 16-189</cite> added subsec. (b)(5).</annotation>
+        <annotation><cite doc="D.C. Law 16-225">D.C. Law 16-225</cite> added subsec. (a)(9).</annotation>
+        <annotation><cite doc="D.C. Law 16-275">D.C. Law 16-275</cite> added subsec. (a)(10).</annotation>
+        <annotation><cite doc="D.C. Law 17-216">D.C. Law 17-216</cite>, in subsec. (b)(2), substituted “Rent Administrator and those cases under the jurisdiction of the Board of Real Property Assessment and Appeals” for “ Rent Administrator”.</annotation>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated previously made technical corrections in subsec. (b).</annotation>
+        <annotation><cite doc="D.C. Law 17-372">D.C. Law 17-372</cite> added subsec. (b-2).</annotation>
+        <annotation><cite doc="D.C. Law 18-146">D.C. Law 18-146</cite>, in subsec. (b-2), deleted “or” from the end of par. (2); substituted “; and” for a period at the end of par. (3), and added par. (4).</annotation>
+        <annotation><cite doc="D.C. Law 18-219">D.C. Law 18-219</cite> added subsec. (b-3); and, in subsecs. (c) and (h), substituted “(a), (b), (b-1), (b-2), or (b-3)” for “(a), (b), or (b-1)”.</annotation>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite> added subsec. (b-4).</annotation>
+        <annotation><cite doc="D.C. Law 18-352">D.C. Law 18-352</cite> added subsec. (b-5).</annotation>
+        <annotation><cite doc="D.C. Law 18-363">D.C. Law 18-363</cite>, in subsec. (b)(2), substituted “Real Property Tax Appeals Commission for the District of Columbia” for “Board of Real Property Assessments and Appeals”.</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> redesignated the subsection added by <cite doc="D.C. Law 18-352">D.C. Law 18-352</cite> as (b-5).</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-268">D.C. Law 19-268</cite> added (a)(11) and made related changes.</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-315">D.C. Law 19-315</cite> added (b-6).</annotation>
+        <annotation>The 2014 amendment by <cite doc="D.C. Law 20-108">D.C. Law 20-108</cite> added (b-8).</annotation>
+        <annotation>The 2014 amendment by <cite doc="D.C. Law 20-126">D.C. Law 20-126</cite> added (b-7).</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-207">D.C. Law 20-207</cite> repealed (a)(9) and (a)(11) and made related stylistic changes; and added  the subsection designated herein as (b-9).</annotation>
+        <annotation>The 2016 amendment by <cite doc="D.C. Law 21-74">D.C. Law 21-74</cite> added the subsection designated herein as (b-10).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(b) of the Office of Administrative Hearings Independence Preservation Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-115">D.C. Law 15-115</cite>, Mar. 30, 2004, law notification  51 DCR 3802).</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 16-134">D.C. Law 16-134</cite>, in subsec. (a)(7), substituted “;” for “; and”; in subsec. (a)(8), substituted “; and” for a period; and added subsec. (a)(9), which read as follows:</annotation>
+        <annotation>“(9) All adjudications involving infractions of rules established pursuant to sections 9c, 9d, 9e, and 9f of the Department of Transportation Establishment Act of 2002, effective March 21, 2002 (<cite doc="D.C. Law 14-137">D.C. Law 14-137</cite>; D.C. Official Code § <cite path="§50-921.01">50-921.01</cite> et seq.), and Chapter 15 of Title 18 of the District of Columbia Municipal Regulations.”</annotation>
+        <annotation>Section 6(b) of <cite doc="D.C. Law 16-134">D.C. Law 16-134</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 16-249">D.C. Law 16-249</cite> added par. (3) to subsec. (b-1) to read as follows:</annotation>
+        <annotation>“(3) Notwithstanding paragraphs (1) and (2) of this subsection or any other provision of law, the Rent Administrator, or any employee or other person to whom authority has been lawfully delegated by the Rent Administrator, may issue a final order in any case in which an evidentiary hearing was conducted before October 1, 2006, but in which no final order was issued before that date, and may rule upon any post-hearing motion including a motion for reconsideration.”</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 16-249">D.C. Law 16-249</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 16-259">D.C. Law 16-259</cite>, in subsec. (b)(2), substituted “Rent Administrator and those cases under the jurisdiction of the Board or Real Property Assessment and Appeals” for “Rent Administrator”.</annotation>
+        <annotation>Section 7(b) of <cite doc="D.C. Law 16-259">D.C. Law 16-259</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 17-98">D.C. Law 17-98</cite>, in subsec. (b-1)(1), designated the existing language as subpar. (A), and added a new subpar. (B) to read as follows:</annotation>
+        <annotation>“(B) Notwithstanding subparagraph (A) of this paragraph, the Rent Administrator, or any employee or other person to whom authority has been delegated by the Rent Administrator, may issue a final order in any case in which an evidentiary hearing was conducted before October 1, 2006, but in which no final order was issued before that date, and may rule upon any post-hearing motion, including a motion for reconsideration.”</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 17-98">D.C. Law 17-98</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 17-102">D.C. Law 17-102</cite>, in subsec. (b)(2), substituted “Rent Administrator and those cases under the jurisdiction of the Board of Real Property Assessment and Appeals” for “Rent Administrator”.</annotation>
+        <annotation>Section 7(b) of <cite doc="D.C. Law 17-102">D.C. Law 17-102</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 18-31">D.C. Law 18-31</cite> designated the existing language of subsec. (b-1)(1) as (b-1)(1)(A), and added subsec. (b-1)(1)(B) to read as follows:</annotation>
+        <annotation>“(B) Notwithstanding subparagraph (A) of this paragraph, the Rent Administrator, or any employee or other person to whom authority has been delegated by the Rent Administrator, may issue a final order in any case in which an evidentiary hearing was conducted before October 1, 2006, but in which no final order was issued before that date, and in any case remanded by the Rental Housing Commission that does not require a new hearing to be conducted. The Rent Administrator, or a delegee, may also rule upon any post-hearing motion, including a motion for reconsideration.”</annotation>
+        <annotation>Section 5(b) of <cite doc="D.C. Law 18-31">D.C. Law 18-31</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 18-151">D.C. Law 18-151</cite>, in subsec. (b-1)(1), designated the existing text as subpar. (A) and added subpar. (B) to read as follows:</annotation>
+        <annotation>“(B) Notwithstanding subparagraph (A) of this paragraph, the Rent Administrator, or any employee or other person to whom authority has been delegated by the Rent Administrator, may issue a final order in any case in which an evidentiary hearing was conducted before October 1, 2006, but in which no final order was issued before that date, and in any case remanded by the Rental Housing Commission that does not require a new hearing to be conducted. The Rent Administrator; or a delegee, may also rule upon any post-hearing motion, including a motion for reconsideration.”</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 18-151">D.C. Law 18-151</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 18-347">D.C. Law 18-347</cite>, in subsec. (b-1)(1), designated the existing language as subpar. (A), and added subpar. (B) to read as follows:</annotation>
+        <annotation>“(B) Notwithstanding subparagraph (A) of this paragraph, the Rent Administrator, or any employee or other person to whom authority has been delegated by the Rent Administrator, may issue a final order in any case in which an evidentiary hearing was conducted before October 1, 2006, but in which no final order was issued before that date, and in any case remanded by the Rental Housing Commission that does not require a new hearing to be conducted. The Rent Administrator, or a delegee, may also rule upon any post-hearing motion, including a motion for reconsideration.”.</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 18-347">D.C. Law 18-347</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>For temporary (225 days) amendment of this section, see § 5 of the Higher Education Licensure Commission Temporary Amendment Act of 2015 (<cite doc="D.C. Law 21-51">D.C. Law 21-51</cite>, Jan. 9, 2016,  62 DCR 13983).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 402(b) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 402(b) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Office of Administrative Hearings Independence Preservation Emergency Amendment Act of 2003 (D.C. Act 15-275, December 18, 2003,  51 DCR 45).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Office of Administrative Hearings Independence Preservation Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-403, March 18, 2004,  51 DCR 3645).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 3502 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Office of Administrative Hearings Establishment Emergency Amendment Act of 2004 (D.C. Act 15-513, August 2, 2004,  51 DCR 8976).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Office of Administrative Hearings Establishment Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-553, October 26, 2004,  51 DCR 10359).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 3502 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Administrative Hearings Rental Housing Emergency Amendment Act of 2005 (D.C. Act 16-181, October 4, 2005,  52 DCR 9085).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Second Office of Administrative Hearings Rental Housing Emergency Amendment Act of 2005 (D.C. Act 16-246, December 22, 2005,  53 DCR 274).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of District Department of Transportation DC Circulator Emergency Amendment Act of 2006 (D.C. Act 16-321, March 23, 2006,  53 DCR 2557).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Office of Administrative Hearings Rental Housing Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-333, March 23, 2006,  53 DCR 2596).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3 of Targeted Historic Preservation Assistance Emergency Amendment Act of 2006 (D.C. Act 16-472, July 31, 2006,  53 DCR 6781).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3 of Targeted Historic Preservation Assistance Congressional Review Emergency Act of 2006 (D.C. Act 16-500, October 23, 2006,  53 DCR 9046).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Rent Administrator Hearing Authority Emergency Amendment Act of 2006 (D.C. Act 16-532, December 4, 2006,  53 DCR 9841).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Nuisance Properties Abatement Reform and Real Property Classification Emergency Amendment Act of 2006 (D.C. Act 16-586, December 28, 2006,  54 DCR 353).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of District Department of Transportation DC Circulator Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-3, January 16, 2007,  54 DCR 1439).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Rent Administrator Hearing Authority Emergency Amendment Act of 2007 (D.C. Act 17-148, October 17, 2007,  54 DCR 10758).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Nuisance Properties Abatement Reform and Real Property Classification Emergency Amendment Act of 2007 (D.C. Act 17-173, November 2, 2007,  54 DCR 11204).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Rent Administrator Hearing Authority Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-255, January 23, 2008,  55 DCR 1270).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Nuisance Properties Abatement Reform and Real Property Classification Congressional Review Emergency Act of 2008 (D.C. Act 17-436, July 16, 2008,  55 DCR 8272).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see §§ 2, 5 of Firearms Registration Emergency Amendment Act of 2008 (D.C. Act 17-651, January 6, 2009,  56 DCR 911).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Rent Administration Hearing Authority Emergency Amendment Act of 2009 (D.C. Act 18-53, April 27, 2009,  56 DCR 3596).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2, of Rent Administrator Hearing Authority Emergency Amendment Act of 2009 (D.C. Act 18-317, February 22, 2010,  57 DCR 1656).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 13(a) of Anti-Graffiti Emergency Act of 2010 (D.C. Act 18-389, May 5, 2010, 57</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 5 of the Higher Education Licensure Commission Emergency Amendment Act of 2015 (D.C. Act 21-158, Oct. 16, 2015,  62 DCR 13715).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 5 of the Higher Education Licensure Commission Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-284, Jan. 27, 2016,  63 DCR 1188).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle E of title III of Law 15-205: Section 3501 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle E of title III of the act may be cited as the Office of Administrative Hearings Amendment Act of 2004.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Applicability: Section 4 of <cite doc="D.C. Law 16-189">D.C. Law 16-189</cite> provided that the implementation of the provisions of the act is subject to appropriations and nothing in this act shall be construed to create an entitlement.</text>
+        <text>Section 5(a) of <cite doc="D.C. Law 17-216">D.C. Law 17-216</cite> provided that sections 2, 3, and 4(b) and (c) shall apply to real property tax years beginning after September 30, 2006.</text>
+        <text>Applicability: Section 4 of <cite doc="D.C. Law 16-189">D.C. Law 16-189</cite> provided: “The implementation of the provisions of this act is subject to appropriations and nothing in this act shall be construed to create an entitlement.”</text>
+        <text>Section 4(b) of <cite doc="D.C. Law 20-108">D.C. Law 20-108</cite>(b) provided that, except as provided in § <cite path="§2-218.46">2-218.46</cite>(f), contracts existing or pending as of June 10, 2014, shall not be affected by the provisions of the act.</text>
+        <text>Section 4(c) of <cite doc="D.C. Law 20-108">D.C. Law 20-108</cite> provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</text>
+        <text>Section 4(c) of <cite doc="D.C. Law 20-108">D.C. Law 20-108</cite> was repealed by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 7005.</text>
+        <text>Section 501 of <cite doc="D.C. Law 20-126">D.C. Law 20-126</cite> provided that the Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], may issue rules to implement the provisions of the act.</text>
+        <text>Applicability of <cite doc="D.C. Law 20-207">D.C. Law 20-207</cite>: Section 12(a) of <cite doc="D.C. Law 20-207">D.C. Law 20-207</cite> provided that §§ 2(a), 2(b)(1), 2(b)(2)(A), 2(b)(2)(B), 2(b)(2)(C), 2(c), 3, 4, 6, 7, 8, 9, 10, and 11 shall apply as of March 11, 2015.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.04">7</num>
+    <heading>Chief Administrative Law Judge.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Office shall be headed by a Chief Administrative Law Judge who shall be accountable and responsible for the fairness, impartiality, effectiveness, and efficiency of the Office.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Administrative Law Judge shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be appointed by the Mayor, with the advice and consent of the Council;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Serve a 6-year term and be eligible for reappointment by the Mayor, with the advice and consent of the Council, for a maximum of 2 terms as Chief Administrative Law Judge;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Take an oath of office, as required by law, prior to the commencement of duties;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Devote full-time to the duties of the Office and shall not engage in the practice of law, or perform any other duties that are inconsistent with the duties and responsibilities of the Chief Administrative Law Judge;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Be a member in good standing of the District of Columbia Bar at the time he or she assumes office and throughout his or her tenure as Chief Administrative Law Judge;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Be a resident of the District of Columbia or become a resident of the District of Columbia within 180 days of his or her taking office;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Not be subject to removal from office before expiration of his or her term, except upon a written finding of the Mayor of good cause, subject to the right of appeal;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Have the powers and duties specified in this chapter, and the powers, privileges, and immunities of an Administrative Law Judge; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Be appointed to the Excepted Service as a statutory officeholder pursuant to § <cite path="§1-609.08">1-609.08</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Chief Administrative Law Judge shall be compensated at the Grade 18 level, Step 5, of the Mayor’s Excepted Service Schedule.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>At the conclusion of his or her term or a period of service of at least 2 years, the Chief Administrative Law Judge shall have the right to assume a position as a full-time or part-time Administrative Law Judge for a full 6-year term; provided, that he or she shall have no such right if he or she was removed from office for cause, or if the Mayor makes a written finding within 60 days of the effective date of the Chief Administrative Law Judge’s resignation or the end of the Chief Administrative Law Judge’s term, whichever is earlier, that cause for removal existed at or before the conclusion of his or her period of service. Such a finding is subject to a right of appeal.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A former Chief Administrative Law Judge serving pursuant to subsection (d) of this section shall hold a position entitled “Senior Administrative Law Judge.” Upon becoming a Senior Administrative Law Judge, the rate of pay of any former Chief Administrative Law Judge shall be reduced to the same rate of pay as the Administrative Law Judge or Senior Administrative Law Judge then holding the highest grade in the Office. Thereafter, the Senior Administrative Law Judge’s rate of pay may be adjusted in the same manner as the rate of pay of an Administrative Law Judge. After completing any full 6-year term, a Senior Administrative Law Judge may be reappointed to another full term in accordance with section § <cite path="§2-1831.10">2-1831.10</cite>(a), (b), and (c).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 7, 48 DCR 11442</annotation>
+        <annotation doc="D.C. Law 16-83">Apr. 4, 2006, D.C. Law 16-83, § 2(b), 53 DCR 1059</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-83">D.C. Law 16-83</cite>, in subsecs. (d) and (e), substituted “6-year term” for “10-year term”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Second Office of Administrative Hearings Rental Housing Emergency Amendment Act of 2005 (D.C. Act 16-246, December 22, 2005,  53 DCR 274).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Office of Administrative Hearings Rental Housing Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-333, March 23, 2006,  53 DCR 2596).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.05">8</num>
+    <heading>Powers and duties of the Chief Administrative Law Judge.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Chief Administrative Law Judge shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Supervise the Office of Administrative Hearings;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Oversee and administer assignment of Administrative Law Judges to preside over adjudicated cases heard by the Office;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To the extent he or she deems appropriate, establish internal classifications for case assignment and management on the basis of subject matter, expertise, case complexity, and other appropriate criteria;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Establish standard and specialized training programs for Administrative Law Judges;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Appoint, in accordance with applicable law and available funding, promote, discipline, and remove staff employed by the Office, other than Administrative Law Judges;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Provide for, or require completion of, continuing education programs for Administrative Law Judges and other employees of the Office deemed to be necessary or desirable;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Develop and implement rules of procedure and practice for cases before the Office (including rental housing cases within the jurisdiction of the Office) and approve the use of forms and documents that will assist in managing cases coming before the Office;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Monitor and supervise the quality of administrative adjudication;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Develop and implement a code of professional responsibility for Administrative Law Judges;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Develop and implement annual performance standards for the management and disposition of cases assigned to Administrative Law Judges, which shall take account of subject matter and case complexity;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Apply a pay scale and retention allowances equivalent to those that are available to Legal Service and Senior Executive Attorney Service attorneys in a manner designed to attract highly capable public and private sector attorneys to become Administrative Law Judges in the Office; provided, that Administrative Law Judges shall receive a minimum annual compensation at that point on the ES-10 pay scale that is equivalent to the mid-point of the LX-2 pay scale;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Issue and transmit to the Mayor and the Council, not later than 90 days after the close of the first complete fiscal year of the Office’s operation and each fiscal year thereafter, an annual report on the operations of the Office. The annual report shall include performance evaluations and case statistics for each Administrative Law Judge from the filing of a case to disposition.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Administrative Law Judge may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Serve as an Administrative Law Judge in any case;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Furnish Administrative Law Judges on a reimbursable basis to District of Columbia or other government entities not covered by this unit;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Accept and expend funds, grants, bequests, and gifts on behalf of the Office, and accept the donation of services that are related to the purpose of the Office unless such a donation would create a conflict of interest in violation of applicable law;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Enter into agreements and contracts under law with any public or private entities or educational institutions;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Develop and maintain a program for student interns and law clerks to work in the Office;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Recommend to the Commission the proposal and promulgation of rules regulating the appointment, reappointment, discipline, and removal of Administrative Law Judges;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Adopt, in accordance with § <cite path="§2-505">2-505</cite>, rules that are necessary or desirable to facilitate implementation of this unit, other than rules regulating the appointment, reappointment, discipline, and removal of Administrative Law Judges promulgated pursuant to § <cite path="§2-1831.11">2-1831.11</cite>;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Assess reasonable filing, copying, and other fees, and adopt rules for waiving or reducing fees for parties who, after careful review, are determined by the Office to be incapable of paying full fees; provided, that filing fees permitted under this subsection shall not be charged to the District of Columbia government or the United States;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Collect and retain revenues paid in connection with any adjudicated case, shall be deposited into the unrestricted fund balance of the General Fund of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Retain outside counsel, other than the Corporation Counsel, to represent the Office or any employee of the Office in his or her official capacity in actual or anticipated litigation;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Implement a program for ongoing quality assurance and performance review; provided, that no such review shall require that an outcome in any case be altered;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Issue and implement procedures, practices, and guidelines relating to the operations or responsibilities of the Office; and</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Exercise any other lawful authority to effectuate the purposes of this chapter.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 8, 48 DCR 11442</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 3012, 55 DCR 7598</annotation>
+        <annotation doc="D.C. Law 18-377">June 3, 2011, D.C. Law 18-377, § 18, 58 DCR 1174</annotation>
+        <annotation doc="D.C. Law 19-21">Sept. 14, 2011, D.C. Law 19-21, § 9049, 58 DCR 6226</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3502.02">42-3502.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite>, in subsec. (a)(11), inserted “; provided, that Administrative Law Judges shall receive a minimum annual compensation at that point on the ES-10 pay scale that is equivalent to the mid-point of the LX-2 pay scale;”.</annotation>
+        <annotation><cite doc="D.C. Law 18-377">D.C. Law 18-377</cite>, in subsec. (a)(7), inserted “(including rental housing cases within the jurisdiction of the Office)”.</annotation>
+        <annotation><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (b)(9), substituted “revenues” for “a portion of revenue”, and substituted “shall be deposited into the unrestricted fund balance of the General Fund of the District of Columbia.” for “, such revenue to be maintained by the Chief Financial Officer in a non-lapsing account to fund the administrative adjudication services provided by the Office, except that such funds shall only be collected and maintained in a manner consistent with safeguarding the integrity and independence of the decisional process in matters pending before the Office;”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 519 of Public Safety Legislation Sixty-Day Layover Emergency Amendment Act of 2010 (D.C. Act 18-693, January 18, 2011,  58 DCR 640).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 519 of Public Safety Legislation Sixty-Day Layover Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-45, April 20, 2011,  58 DCR 3701).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 3011 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided that subtitle E of title III of the act may be cited as the “Administrative Law Judge Pay Parity Amendment Act of 2008”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.06">9</num>
+    <heading>Commission on Selection and Tenure of Administrative Law Judges of the Office of Administrative Hearings.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established the Commission on Selection and Tenure of Administrative Law Judges of the Office of Administrative Hearings. The Commission’s mission shall be to ensure the recruitment and retention of a well-qualified, efficient, and effective corps of Administrative Law Judges in the Office.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission shall have final authority to appoint, reappoint, discipline, and remove Administrative Law Judges.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No Administrative Law Judge shall be appointed to an initial term without the affirmative vote of a majority of the voting members of the Commission; provided, that the Commission shall appoint to an initial term as an Administrative Law Judge any hearing examiner employed by an agency to which this chapter becomes applicable if that person timely seeks the appointment and is eligible for the appointment pursuant to § <cite path="§2-1831.08">2-1831.08</cite>(e).</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Commission members shall have protection from liability as provided in § <cite path="§2-415">2-415</cite>(b-1).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 9, 48 DCR 11442</annotation>
+        <annotation doc="D.C. Law 15-217">Dec. 7, 2004, D.C. Law 15-217, § 3(b), 51 DCR 9126</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-415">2-415</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-217">D.C. Law 15-217</cite> added (d).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 3 of the Commission on Selection and Tenure of Administrative Law Judges Non-Liability Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-169">D.C. Law 15-169</cite>, June 19, 2004, law notification  51 DCR 7334).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 3 of Commission on Selection and Tenure of Administrative Law Judges Non-Liability Emergency Amendment Act of 2004 (D.C. Act 15-389, March 18, 2004,  51 DCR 3387).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 3 of Commission on Selection and Tenure of Administrative Law Judges Non-Liability Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-444, June 23, 2004,  51 DCR 6556).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.07">10</num>
+    <heading>Commission members.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission shall consist of 3 voting members. The voting members of the Commission shall serve staggered terms, as provided in subsections (c) and (d) of this section. One voting member shall be appointed by the Mayor, one voting member shall be appointed by the Chairman of the Council of the District of Columbia, with the approval of a majority of the Council, and one voting member shall be appointed by the Chief Judge of the Superior Court of the District of Columbia. The Corporation Counsel, or his or her designee from within the ranks of the Senior Executive Attorney Service, and the Chief Administrative Law Judge shall serve as non-voting ex officio members of the Commission.</text>
+      <text>
+        <em>ex officio</em>
+      </text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A majority of the voting members of the Commission shall select its chairperson at the start of each fiscal year. In the absence of such a selection, the Commission member appointed by the Chief Judge of the Superior Court of the District of Columbia shall chair the Commission. The Chairperson may designate another member to act for him or her in case of absence or other exigency. A majority of the Commission’s voting members shall constitute a quorum.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Except as provided in subsection (d) of this section, each member of the Commission shall serve a 3-year term and shall be eligible for reappointment. The terms of the first members of the Commission shall commence on May 1, 2003, and shall expire as provided in subsection (d) of this section. All subsequent terms for members of the Commission shall commence immediately upon the expiration of the previous term. If a vacancy exists after the start of any 3-year term of office, the person appointed to fill that vacancy shall be appointed to serve the unexpired portion of the term. If a member of the Commission leaves office before the expiration of his or her term, a new member may be appointed to serve out the remainder of the term.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The initial term of the voting member of the Commission appointed by the Mayor shall expire on April 30, 2004. The initial term of the voting member of the Commission appointed by the Chairman of the Council shall expire on April 30, 2005. The initial term of the voting member of the Commission appointed by the Chief Judge of the Superior Court of the District of Columbia shall expire on April 30, 2006.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Members of the Commission shall not receive any salary or remuneration, but may receive reimbursement of reasonable expenses incurred in connection with their service on the Commission in accordance with applicable law.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>No voting member of the Commission shall be eligible for appointment as an Administrative Law Judge or Chief Administrative Law Judge while serving on the Commission and until the passage of at least 3 years from the termination of his or her service on the Commission. No voting member of the Commission shall appear as an attorney or otherwise participate in any professional or representative capacity in any case pending before the Office while serving on the Commission and until the passage of at least 3 years from the termination of his or her service on the Commission. This section does not disqualify any firm or person, other than the member or former member of the Commission, from representing a party in any adjudicated case.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>No member of the Commission shall exercise his or her authority, or shall act in any other manner, to direct the outcome of any case pending before the Office.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 10, 48 DCR 11442</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.08">11</num>
+    <heading>Administrative Law Judges.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Administrative Law Judges shall be accountable and responsible for the fair, impartial, effective, and efficient disposition of cases to which they are assigned by the Chief Administrative Law Judge.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An Administrative Law Judge shall be appointed to the Excepted Service as a statutory officeholder pursuant to § <cite path="§1-609.08">1-609.08</cite>, upon the affirmative vote of a majority of the voting members of the Commission after a selection process in accordance with rules promulgated pursuant to § <cite path="§2-1831.11">2-1831.11</cite>(a) and (b).</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The initial term of office of an Administrative Law Judge appointed prior to December 6, 2005, shall be 2 years, at the end of which the Administrative Law Judge shall be eligible for reappointment by the Commission to a term of 10 years. After serving an initial reappointment term of 10 years, the Administrative Law Judge shall be eligible for reappointment by the Commission to a new term of 6 years.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The initial term of office of an Administrative Law Judge hired after December 5, 2005, shall be 2 years, at the end of which the Administrative Law Judge shall be eligible for reappointment by the Commission to a term of 6 years.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>At the expiration of any 6-year term of office, an Administrative Law Judge shall be eligible for reappointment by the Commission to a new term of 6 years.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Non-reappointment of an Administrative Law Judge shall not be deemed to be discipline or removal of the Administrative Law Judge.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>To be eligible for appointment, an Administrative Law Judge shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>At the time of appointment, be a member in good standing of the District of Columbia Bar and remain in good standing throughout his or her tenure as an Administrative Law Judge;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If appointed to a position at grade 15 or below, be subject to the residency requirements applicable to attorneys pursuant to § <cite path="§1-609.06">1-609.06</cite>(c);</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If appointed to a position at a level higher than grade 15, be subject to the residency requirements placed on members of the Senior Executive Attorney Service pursuant to § <cite path="§1-608.59">1-608.59</cite>;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Have at least 5 years experience in the practice of law, including experience with court, administrative, or arbitration litigation;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Possess judicial temperament, expertise, experience, and analytical and other skills necessary and desirable for an Administrative Law Judge; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Satisfy all other requirements specified in rules promulgated pursuant to § <cite path="§2-1831.11">2-1831.11</cite>(a) and (b);</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>An individual occupying a position as a hearing officer in an agency at the time the agency becomes subject to this chapter is eligible to be appointed as an Administrative Law Judge in the Office; provided, that he or she satisfies all the requirements for appointment as an Administrative Law Judge specified in this chapter and in the rules promulgated pursuant to this chapter.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>No hearing officer shall be required to accept an appointment as an Administrative Law Judge pursuant to subsection (e) of this section. Any hearing officer who is not appointed or is ineligible to be appointed as an Administrative Law Judge shall be reassigned, without reduction in grade or step, to another position within the agency employing that individual, or by the Mayor to a position in another agency.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Any Administrative Law Judge appointed pursuant to the authority of subsection (e) of this section who is not reappointed after expiration of his or her initial 2-year term may be appointed to the Legal Service, and be placed in a position in the agency that employed the individual immediately before he or she accepted the appointment as an Administrative Law Judge or in any other position designated by the Corporation Counsel.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>The compensation of an Administrative Law Judge shall not exceed the compensation level available to attorneys of the Senior Executive Attorney Service created by § <cite path="§1-608.53">1-608.53</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 11, 48 DCR 11442</annotation>
+        <annotation doc="D.C. Law 16-83">Apr. 4, 2006, D.C. Law 16-83, § 2(c), 53 DCR 1059</annotation>
+        <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 125, 53 DCR 6794</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-1831.06">2-1831.06</cite>, § <cite path="§2-1831.11">2-1831.11</cite>, and § <cite path="§2-1831.12">2-1831.12</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-83">D.C. Law 16-83</cite> rewrote subsec. (c) which read as follows: “(c) The initial term of office of an Administrative Law Judge shall be 2 years, at the end of which the Administrative Law Judge shall be eligible for reappointment to a term of 10 years. At the expiration of any 10-year term of office, an Administrative Law Judge shall be eligible for reappointment by the Commission to a new term of 10 years. Non-reappointment of an Administrative Law Judge shall not be deemed to be discipline or removal of the Administrative Law Judge.”</annotation>
+        <annotation><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in subsec. (c)(1), validated a previously made technical correction.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(c) of Second Office of Administrative Hearings Rental Housing Emergency Amendment Act of 2005 (D.C. Act 16-246, December 22, 2005,  53 DCR 274).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(c) of Office of Administrative Hearings Rental Housing Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-333, March 23, 2006,  53 DCR 2596).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.09">12</num>
+    <heading>Powers, duties, and liability of Administrative Law Judges.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An Administrative Law Judge shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Participate in the program of orientation and in programs of continuing legal education for Administrative Law Judges required by the Chief Administrative Law Judge;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Meet annual performance standards applicable to his or her duties;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Engage in no conduct inconsistent with the duties, responsibilities, and ethical obligations of an Administrative Law Judge;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Not be responsible to, or subject to the supervision or direction of, an officer, employee, attorney, or agent engaged in the performance of investigative, prosecutorial, or advisory functions for another agency;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Fully participate in Office management committees and management activities to set and steer policies relating to Office operations, including, without limitation, personnel matters;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Supervise, direct, and evaluate the work of employees assigned to him or her;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Conform to all legally applicable standards of conduct;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Decide all cases in an impartial manner;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Devote full-time to the duties of the position and shall not:</text>
+        <para>
+          <num>(A)</num>
+          <text>Engage in the practice of law; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Perform any duties that are inconsistent with the duties and responsibilities of an Administrative Law Judge;</text>
+        </para>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Cooperate with the Executive Director of the Office to achieve efficient and effective administration of the Office; and</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Take an oath of office, as required by law, prior to the commencement of duties.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In any case in which he or she presides, an Administrative Law Judge may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Issue subpoenas and may order compliance therewith;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Administer oaths;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Accept documents for filing;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Examine an individual under oath;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Issue interlocutory orders and orders;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Issue protective orders;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Control the conduct of proceedings as deemed necessary or desirable for the sound administration of justice;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Impose monetary sanctions for failure to comply with a lawful order or lawful interlocutory order, other than an order that solely requires payment of a sum certain as a result of an admission or finding of liability for any infraction or violation that is civil in nature;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Suspend, revoke, or deny a license or permit;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Perform other necessary and appropriate acts in the performance of his or her duties and properly exercise any other powers authorized by law;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Engage in or encourage the use of alternative dispute resolution;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>When authorized by rules promulgated pursuant to § <cite path="§2-505">2-505</cite>, issue administrative inspection authorizations that authorize the administrative inspection and administrative search of a business property or premises, whether private or public, and excluding any area of a premises that is used exclusively as a private residential dwelling. Subject to the exclusions of this paragraph, property (including any premises) is subject to administrative inspection and administrative search under this paragraph only if there is probable cause to believe that:</text>
+        <para>
+          <num>(A)</num>
+          <text>The property is subject to one or more statutes relating to the public health, safety, or welfare;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Entry to said property has been denied to officials authorized by civil authority to inspect or otherwise to enforce such statutes or regulations; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Reasonable grounds exist for such administrative inspection and search; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Exercise any other lawful authority.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Any rule promulgated pursuant to subsection (b) (12) of this section shall include all protections provided by Rule 204 of the Superior Court of the District of Columbia Rules of Civil Procedure.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A person may not refuse or decline to comply with a lawful interlocutory order or lawful order issued by an Administrative Law Judge.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>In addition to any other sanctions that an Administrative Law Judge may lawfully impose for the violation of any order or interlocutory order, an Administrative Law Judge, or a party in interest in an adjudicated case, may apply to any judge of the Superior Court of the District of Columbia for an order issued on an expedited basis to show cause why a person should not be held in civil contempt for refusal to comply with an order or an interlocutory order issued by an Administrative Law Judge. On the return of an order to show cause, if the judge hearing the case determines that the person is guilty of refusal to comply with a lawful order or interlocutory order of the Administrative Law Judge without good cause, the judge may commit the offender to jail or may provide any other sanction authorized in cases of civil contempt. A party in interest may also bring an action for any other equitable or legal remedy authorized by law to compel compliance with the requirements of an order or interlocutory order of an Administrative Law Judge.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>An Administrative Law Judge has no authority to commit any person to jail.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>An Administrative Law Judge shall be subject to suit, liability, discovery, and subpoena in a civil action relating to actions taken and decisions made in the performance of duties while in office on the same basis as a judge of the Superior Court of the District of Columbia.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 12, 48 DCR 11442</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§32-1331.05">32-1331.05</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.10">13</num>
+    <heading>Reappointment and discipline of Administrative Law Judges.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No Administrative Law Judge shall be reappointed upon the expiration of any 2-year, 6-year, or 10-year term without the affirmative vote of a majority of the voting members of the Commission.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>At least 6 months before the expiration of any term, an Administrative Law Judge seeking reappointment to a new term shall file a statement with the Commission specifying that he or she requests reappointment to a new term. For any Administrative Law Judge who timely files such a statement, the Chief Administrative Law Judge shall prepare a record of the Administrative Law Judge’s performance with regard to that judge’s efficiency, efficacy, and quality of performance over the period of his or her appointment. The record shall be prepared and transmitted to the Commission within 120 days of the filing of the statement. At a minimum, the record shall contain at least one year of decisions authored by the Administrative Law Judge, data on how the Administrative Law Judge has met applicable objective performance standards, the Chief Administrative Law Judge’s recommendation as to whether the reappointment should be made, and any other information requested by one or more members of the Commission. The members of the Commission shall consider all information received with regard to reappointment, and the voting members shall give significant weight to the recommendation of the Chief Administrative Law Judge, unless it is determined that the recommendation is not founded on substantial evidence.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The voting members of the Commission shall vote on the request for reappointment prior to the expiration of the Administrative Law Judge’s term, but no earlier than 60 days prior to such expiration. A reappointment approved by the Commission is effective upon expiration of the previous appointment.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>During a term of office, an Administrative Law Judge shall be subject to discipline and removal, only for cause, with a right to notice and a hearing before the Commission pursuant to this act and rules issued pursuant to § <cite path="§2-1831.11">2-1831.11</cite>(a) and (b). An Administrative Law Judge’s unexcused failure to meet annual performance standards in any 2 years within a 3-year period shall be among the grounds constituting cause for removal.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Any disciplinary action against an Administrative Law Judge proposed by the Chief Administrative Law Judge that would result in a suspension of 10 days or more, a reduction in grade, or removal of the Administrative Law Judge shall take effect only if a majority of the voting members of the Commission approve the action.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 13, 48 DCR 11442</annotation>
+        <annotation doc="D.C. Law 16-83">Apr. 4, 2006, D.C. Law 16-83, § 2(d), 53 DCR 1059</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-1831.04">2-1831.04</cite> and § <cite path="§2-1831.11">2-1831.11</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-83">D.C. Law 16-83</cite>, in subsec. (a), substituted “any 2-year, 6-year, or 10-year term” for “any 2-year or 10-year term”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(d) of Second Office of Administrative Hearings Rental Housing Emergency Amendment Act of 2005 (D.C. Act 16-246, December 22, 2005,  53 DCR 274).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(d) of Office of Administrative Hearings Rental Housing Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-333, March 23, 2006,  53 DCR 2596).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.11">14</num>
+    <heading>Rules governing appointment, reappointment, and discipline of Administrative Law Judges.</heading>
+    <para>
+      <num>(a)</num>
+      <text>In accordance with § <cite path="§2-505">2-505</cite>, the Mayor shall promulgate initial rules governing the appointment, reappointment, discipline, removal, and qualifications of Administrative Law Judges within 180 days of March 6, 2002. The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not disapprove the proposed rules, in whole or in part, by resolution within this 45-day review period, the proposed rules shall be deemed approved.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Upon convening, or at anytime thereafter, the Commission may amend or repeal, in whole or in part, or may add to, the initial rules promulgated under the authority of subsection (a) of this section, in accordance with § <cite path="§2-505">2-505</cite>. Any proposed rule changes shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not disapprove the proposed rules, in whole or in part, by resolution within this 45-day review period, the proposed rules shall be deemed approved. The Chief Administrative Law Judge may at any time request that the Commission review and consider proposed rule changes authorized by this subsection. The Commission also, on its own initiative, or upon recommendation of the Chief Administrative Law Judge, may promulgate emergency rules, valid for not more than 120 days, in the limited circumstances permitted by § <cite path="§2-505">2-505</cite>(c).</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Any rules promulgated pursuant to subsections (a) and (b) of this section shall be designed to competitively recruit and retain highly qualified, effective, and efficient Administrative Law Judges from the public and private sectors. Any such rules:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall require that Administrative Law Judges meet the qualifications established in § <cite path="§2-1831.08">2-1831.08</cite>(d)(1) through (5);</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May prescribe the passing of a qualifying examination as a minimum, but not exclusive, requirement for appointment;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>May prescribe additional qualifications for the purpose of ensuring the appointment of well-qualified, efficient, and effective Administrative Law Judges;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Shall require that all Administrative Law Judge positions (except positions subject to § <cite path="§2-1831.08">2-1831.08</cite>(e) be timely advertised in a portion of a daily or weekly periodical that is likely to be seen by highly qualified public and private sector attorneys in the District of Columbia who are seeking or considering positions as attorneys or administrative law judges in the government. This requirement shall not apply to a position open only to Administrative Law Judges already appointed pursuant to § <cite path="§2-1831.10">2-1831.10</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Rules promulgated pursuant to subsections (a) and (b) of this section shall govern the process of selecting Administrative Law Judges.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 14, 48 DCR 11442</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-1831.01">2-1831.01</cite>, § <cite path="§2-1831.05">2-1831.05</cite>, § <cite path="§2-1831.08">2-1831.08</cite>, and § <cite path="§2-1831.10">2-1831.10</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority under <cite doc="D.C. Law 14-76">D.C. Law 14-76</cite>, the “Office of Administrative Hearings Establishment Act of 2001”, see Mayor’s Order 2003-53, May 2, 2003 ( 50 DCR 4290).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.12">15</num>
+    <heading>Executive Director and other personnel.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There shall be an Executive Director of the Office. The Executive Director shall be responsible for the administration of the Office, subject to the supervision of the Chief Administrative Law Judge.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Executive Director shall be appointed by the Chief Administrative Law Judge as a statutory employee in the Excepted Service pursuant to § <cite path="§1-609.08">1-609.08</cite>, and shall serve at the pleasure of the Chief Administrative Law Judge. In making the appointment, the Chief Administrative Law Judge shall consider experience and special training in administrative, operational, and managerial positions and familiarity with court and administrative hearing procedures and operations. The Executive Director need not be an attorney and may not concurrently hold an appointment as an Administrative Law Judge appointed under the authority of § <cite path="§2-1831.08">2-1831.08</cite>(b).</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Executive Director shall be a resident of the District of Columbia or become a resident not more than 180 days after the date of appointment, and shall remain a resident, unless temporarily or permanently exempted from these requirements by the Mayor for good cause.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Office shall have a Clerk and may have deputy clerks who shall perform such duties as may be assigned to them. The Clerk and deputy clerks may be authorized to administer oaths, issue subpoenas, and perform other appropriate duties.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>With the approval of the Chief Administrative Law Judge, the Executive Director may appoint and fix the salary of any attorney and non-attorney personnel appointed pursuant to the authority of this chapter, other than Administrative Law Judges, except that no individual appointed by the Executive Director may be paid at a rate greater than the rate of pay for the Executive Director. Law clerks and attorneys employed by the office in a capacity other than as an Administrative Law Judge shall be appointed non-competitively as Excepted Service attorneys under § <cite path="§1-609.06">1-609.06</cite>, and shall not be appointed to the Legal Service or Senior Executive Attorney Service.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Executive Director shall not have supervisory authority over any person appointed as an Administrative Law Judge.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 15, 48 DCR 11442</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.13">16</num>
+    <heading>Interaction of the Office with other agencies; other procedural matters.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All components of the District of Columbia government shall cooperate with the Chief Administrative Law Judge, the Executive Director, and Administrative Law Judges in the discharge of their duties.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Office shall be subject to audit and examination on the same basis as other District of Columbia government agencies.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>When a case is brought before the Office, any agency that is a party shall take no further decisional action with respect to the subject matter in issue, except in the role of a party litigant or with the consent of all parties, for so long as the Office has jurisdiction over the proceeding.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>All documents filed in any case before the Office shall be available to the public for review unless a statute, protective order, or other legal requirement prohibits disclosure.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Beginning November 15, 2004, and by November 15 of each year thereafter, the Chief Administrative Law Judge shall transmit to the Mayor, the Council, and each agency to which this chapter applies, a written summary of the Office’s caseload during the previous fiscal year that is attributable to any provision of law administered by or under the jurisdiction of each agency. The summary shall also include comparative data on caseload from prior fiscal years. Each agency to which this chapter applies shall provide a written response to the summary to the Mayor, the Council, and the Office within 30 calendar days of issuance of the summary. The response shall state whether the agency knows or believes there is a reasonable possibility that such caseload will increase or decrease by more than 10% in the current or following fiscal year based on any planned or ongoing agency actions, or any other reason, and specifying the anticipated amount of the increase or decrease and the reasons therefor. For purposes of this subsection, the existence of a 10% or greater increase or decrease shall be measured pursuant to rules promulgated under this chapter.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Prior to any agency promulgating a rule (other than an emergency rule) that will materially affect the number or types of cases heard by the Office, the agency director shall consult with the Chief Administrative Law Judge regarding fiscal and operational impact of the proposed rule, and shall submit to the Chief Administrative Law Judge a statement containing the agency’s projections regarding increases in case volume and case complexity likely to follow promulgation of the rule.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The director of any agency that becomes subject to this chapter shall direct that all employees of the agency provide the Office with any financial and programmatic information requested by the Office relating to any operational or personnel responsibilities of the Office, including, without limitation, any information the Chief Administrative Law Judge deems necessary in order to absorb the transfer of an agency’s adjudication function into the Office. The information shall be provided promptly and in no event later than the 15th day after the request is received. The Chief Financial Officer shall also issue the directive called for in this subsection with respect to the employees under his or her control.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <para>
+        <num>(1)</num>
+        <text>Whenever any applicable law or regulation requires or permits the filing in the Office of an affidavit or other writing subscribed to under oath, the subscriber, in lieu of a sworn or notarized statement, may submit a written declaration subscribed as true under penalty of perjury in substantially the following form:</text>
+        <text>“I declare (or certify, verify, or state), under penalty of perjury, that the foregoing is true and correct. Executed on (date).</text>
+        <text>“(Signature)”.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Signing such a statement shall be considered the taking of an oath or affirmation for purposes of §§ <cite path="§22-2402">22-2402</cite> and <cite path="§22-2404">22-2404</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>No person outside the Office shall participate in or in any way influence or attempt to influence, except through the ordinary litigation process, the fair and independent decisionmaking process in an adjudicated case before the Office.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 16, 48 DCR 11442</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-754.41">4-754.41</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.14">17</num>
+    <heading>Representation of parties in adjudicated cases before the Office.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An individual may represent himself or herself before the Office.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An individual or other party may be represented before the Office by an attorney authorized to practice law in the District of Columbia, or may be assisted by others in such a manner and under such circumstances as are permitted by law, or as may be permitted under the rules of the Office.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A corporation, partnership, limited partnership, or other private legal entity may be represented before the Office by a duly authorized officer, director, general partner, or employee.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>An agency may be represented before the Office by the Corporation Counsel, an attorney assigned to the agency, or by a duly authorized agency employee when consistent with applicable law and rules.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Office shall promulgate rules regulating attorneys practicing before the Office.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 17, 48 DCR 11442</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.15">18</num>
+    <heading>Conflicts of regulations.</heading>
+    <text>Unless a federal law or regulation or District of Columbia statute requires that a particular federal or District of Columbia procedure be observed, this chapter and the rules promulgated pursuant to this chapter shall take precedence in the event of a conflict with other authority with regard to any issue involving or relating to procedures of the Office.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 18, 48 DCR 11442</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.16">19</num>
+    <heading>Judicial review and administrative appeals.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An order of the Office shall be effective upon its issuance, unless stayed by an Administrative Law Judge sua sponte or upon motion of any party. Any party may file a motion for reconsideration of an order or a motion for a new trial within 10 calendar days of service of an order. Unless otherwise ordered by an Administrative Law Judge, the filing of such a motion shall not stay the effectiveness of an order. If such a motion is timely filed, the order shall not be final for purposes of judicial review until the motion is ruled upon by the Administrative Law Judge or is denied by operation of law.</text>
+      <text>
+        <em>sua sponte</em>
+      </text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any agency, board, commission, or body of an agency identified in subchapter III of Chapter 18 of this title [§ <cite path="§2-1803.01">2-1803.01</cite> et seq.], other than the Board of Appeals and Review, shall retain jurisdiction to entertain and determine appeals from orders of Administrative Law Judges, as granted in that chapter. The Rental Housing Commission shall have jurisdiction to review orders of the Office in all adjudicated cases brought pursuant to Chapter 35 of Title 42 [§ <cite path="§42-501.01">42-501.01</cite> et seq.]. A board or commission that delegates a matter pursuant to § <cite path="§2-1831.03">2-1831.03</cite>(i) shall have jurisdiction of any appeal by any party from an order of an Administrative Law Judge issued in that matter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Except as provided in subsection (b) of this section, any person suffering a legal wrong or adversely affected or aggrieved by any order of the Office in any adjudicated case may obtain judicial review of that order.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Notwithstanding any other provision of law, any agency suffering a legal wrong or adversely affected or aggrieved by any order of the Office in any adjudicated case may obtain judicial review of that order.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Judicial review of all orders of the Office in contested cases shall be in the District of Columbia Court of Appeals in accordance with the procedures and rules of that court.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Judicial review of any order of the Office in a matter that is not a contested case shall be in accordance with other applicable law.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>In all proceedings for judicial review authorized by this section, the reviewing court shall apply the standards of review prescribed in § <cite path="§2-510">2-510</cite>. A reviewing court may not modify a monetary sanction imposed by an Administrative Law Judge if that sanction is within the limits established by law or regulation.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>Notwithstanding any other provision of law, neither the Office nor an Administrative Law Judge shall be a party in any proceeding brought by a party in any court seeking judicial review of any order of the Office, or of any order of an agency head or governing board, commission, or body of an agency that decides any appeal from any order of the Office. Only the parties before the Office or any other party permitted to participate by the reviewing court shall be parties in any such proceeding for judicial review.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 19, 48 DCR 11442</annotation>
+        <annotation doc="D.C. Law 15-217">Dec. 7, 2004, D.C. Law 15-217, § 3(c), 51 DCR 9126</annotation>
+        <annotation doc="D.C. Law 16-83">Apr. 4, 2006, D.C. Law 16-83, § 2(e), 53 DCR 1059</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-1803.01">2-1803.01</cite>, § <cite path="§2-1803.02">2-1803.02</cite>, § <cite path="§2-1831.03">2-1831.03</cite>, § <cite path="§47-2885.21">47-2885.21</cite>, and § <cite path="§47-4312">47-4312</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-217">D.C. Law 15-217</cite> added the last sentence to subsec. (b).</annotation>
+        <annotation><cite doc="D.C. Law 16-83">D.C. Law 16-83</cite>, in subsec. (b), substituted “The Rental Housing Commission shall have jurisdiction to review orders of the Office in all adjudicated cases brought pursuant to Chapter 35 of Title 42.” for “The Rental Housing Commission shall have jurisdiction to review orders of the Office in all adjudicated cases in which the Rent Administrator, or his or her designee, would have had jurisdiction but for the enactment of this chapter.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Office of Administrative Hearings Establishment Emergency Amendment Act of 2004 (D.C. Act 15-513, August 2, 2004,  51 DCR 8976).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Office of Administrative Hearings Establishment Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-553, October 26, 2004,  51 DCR 10359).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Administrative Hearings Rental Housing Emergency Amendment Act of 2005 (D.C. Act 16-181, October 4, 2005,  52 DCR 9085).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(e) of Second Office of Administrative Hearings Rental Housing Emergency Amendment Act of 2005 (D.C. Act 16-246, December 22, 2005,  53 DCR 274).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(e) of Office of Administrative Hearings Rental Housing Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-333, March 23, 2006,  53 DCR 2596).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.17">20</num>
+    <heading>Advisory Committee.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established an Advisory Committee to the Office of Administrative Hearings.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Advisory Committee shall consist of the following 8 persons:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor or his or her designee;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Chairman of the Council or his or her designee;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Corporation Counsel or his or her designee;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Two agency heads appointed by the Mayor, or their designees, from agencies with cases coming before the Office of Administrative Hearings;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Two members of the District of Columbia Bar, appointed by the Mayor, neither of whom shall be employed by the District of Columbia government; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A member of the public, appointed by the Mayor, who is not a member of the District of Columbia Bar.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall chair the Advisory Committee, or may designate an Advisory Committee Chair from among its members.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A member of the Advisory Committee may not receive compensation for service on the Advisory Committee, but is entitled to reimbursement for travel expenses in accordance with applicable law and regulations.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Advisory Committee shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Advise the Chief Administrative Law Judge in carrying out his or her duties;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Identify issues of importance to Administrative Law Judges and agencies that should be addressed by the Office;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Review issues and problems relating to administrative adjudication;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Review and comment upon the policies and regulations proposed by the Chief Administrative Law Judge; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Make recommendations for statutory and regulatory changes that are consistent with advancing the purposes of this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Advisory Committee shall meet at a regular time and place to be determined by the committee.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Chief Administrative Law Judge shall confer with the Advisory Committee at its meetings and shall provide such information as the Advisory Committee lawfully may request.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 20, 48 DCR 11442</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <num codify:value="2-1831.18">21</num>
+    <heading>Study of and report on Bureau of Traffic Adjudication.</heading>
+    <text>The Mayor shall conduct a study to consider methods to improve the quality of adjudications within the Bureau of Traffic Adjudication at the Department of Motor Vehicles. This study shall review best practices in other jurisdictions and examine issues such as staffing levels, timeliness of decisions, caseloads, and qualifications of hearing examiners. The Mayor shall provide a report to the Council, including recommendations for legislative and operational changes, by October 1, 2002.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 21, 48 DCR 11442</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|18A"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1831.19">22</num>
+    <heading>Appropriations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-76">Mar. 6, 2002, D.C. Law 14-76, § 22, 48 DCR 11442</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 7036, 55 DCR 7598</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

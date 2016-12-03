@@ -1,10 +1,85 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 77-2-ch649">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 77-2-ch649">
+  <heading/>
   <meta>
     <effective>1942-01-12</effective>
     <cites>
-        <law congress="77" session="2" chapter="649"/>
+      <law congress="77" session="2" chapter="649"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|1"/>
+    <num codify:value="4-124">1</num>
+    <heading>Duties and responsibilities of Board.</heading>
+    <text>The Board of Public Welfare of the District of Columbia [abolished; see now the Department of Human Services] established by § <cite path="§4-102">4-102</cite> [omitted], shall, in addition to the other duties and responsibilities imposed upon it by law, have the following duties and responsibilities:</text>
+    <para>
+      <num>(1)</num>
+      <text>To investigate the circumstances affecting children handicapped by dependency, neglect or mental defect, or who may be in danger of becoming delinquent, and to provide such services for the protection and care of such children as will assist in conserving satisfactory home life;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>To safeguard the welfare of children born out of wedlock, by providing services for their mothers and fathers and in caring for and in obtaining support for such children;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>To assume responsibility for the care and support of dependent or neglected children under the age of 18 years needing public care away from their own homes, when such need has been determined by careful investigation and is requested by the parent or parents or any person or agency responsible for the care of such children;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>To make suitable provision for the reception and care of children in need of detention pending court action, or who are temporarily detained under court order, or who are temporarily homeless; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Upon proper showing, in its discretion, to discharge from custody or guardianship any child committed to its care.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Jan. 12, 1942, 55 Stat. 882, ch. 649, § 1</annotation>
+        <annotation doc="D.C. Law 1-87">Oct. 1, 1976, D.C. Law 1-87, § 6, 23 DCR 2544</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Age of majority, see § <cite path="§46-101">46-101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-125.</annotation>
+        <annotation>1973 Ed., § 3-126.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>Board of Public Welfare abolished: See note to § <cite path="§4-102">4-102</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|1"/>
+    <num codify:value="4-125">2</num>
+    <heading>Assisting child to leave institution without authority; concealing such child; duty of police.</heading>
+    <text>Any person who shall entice or attempt to entice, away from any home or institution, any child legally committed to the Board of Public Welfare and placed by said Board in such home or institution, or any person who shall assist or attempt to assist any such child to leave without permission such home or institution, knowing such child to be an inmate of such institution or to have been placed in such home, or any person who shall harbor, conceal, or aid in harboring or concealing any such child who shall be absent without leave from a home or institution in which he has been placed by the Board of Public Welfare, shall, upon conviction thereof, be deemed guilty of a misdemeanor and shall pay a fine of not less than $10 nor more than $100; and any policeman shall have power, and it is hereby made his duty, to take into custody any child, when in his power to do so, who shall be absent without leave from a home or institution in which he has been placed and return him thereto or to the Receiving Home.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Jan. 12, 1942, 55 Stat. 883, ch. 649, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Age of majority, see § <cite path="§46-101">46-101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-126.</annotation>
+        <annotation>1973 Ed., § 3-127.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 5039 of Fiscal Year 2009 Budget Support Emergency Act of 2008 (D.C. Act 17-468, July 28, 2008,  55 DCR 8746).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>Board of Public Welfare abolished: See note to § <cite path="§4-102">4-102</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

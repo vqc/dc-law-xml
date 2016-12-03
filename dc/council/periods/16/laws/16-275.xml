@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 16-275">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 16-275">
   <num type="law">16-275</num>
   <heading type="short">Inclusionary Zoning Implementation Amendment Act of 2006</heading>
   <meta>
@@ -12,4 +12,441 @@
       <narrative>Law 16-275, the “Inclusionary Zoning Implementation Amendment Act of 2006”, was introduced in Council and assigned Bill No. 16-779, which was referred to Committee on the Whole. The Bill was adopted on first and second readings on December 5, 2006, and December 19, 2006, respectively. Signed by the Mayor on December 28, 2006, it was assigned Act No. 16-632 and transmitted to both Houses of Congress for its review. D.C. Law 16-275 became effective on March 14, 2007.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II-A"/>
+    <num codify:value="6-1041.01">101</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Housing Production Trust Fund” means the fund established by Chapter 28 of Title 42 [§ <cite path="§42-2801">42-2801</cite> et seq.].</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Inclusionary Development” means developments subject to the Inclusionary Zoning Program pursuant to 11 DCMR § 2602.1.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Inclusionary unit” means a unit set aside for sale or rental to low- and moderate-income households as required by the Inclusionary Zoning Program.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Inclusionary Zoning Program” means all of the provisions of Chapter 26 of Title 11 of the District of Columbia Municipal Regulations (11 DCMR 2600 et seq.), this subchapter, and the regulations promulgated under the authority of this subchapter.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Low-income household” means a household of one or more individuals with a total annual income adjusted for household size equal to or less than 50% of the Metropolitan Statistical Area median as certified by the Mayor.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Moderate-income household” means a household of one or more individuals with a total annual income adjusted for household size equal to between 51% and 80% of the Metropolitan Statistical Area median as certified by the Mayor.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-275">Mar. 14, 2007, D.C. Law 16-275, § 101, 54 DCR 880</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-301.181">1-301.181</cite> and § <cite path="§2-1831.03">2-1831.03</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II-A"/>
+    <num codify:value="6-1041.02">102</num>
+    <heading>Unlawful acts.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No inclusionary unit may be sold or leased to any person not authorized by the Mayor to purchase or rent the unit, except as may be permitted by regulation.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Except as provided in Chapter 26 of Title 11 of the District of Columbia Municipal Regulations, the zoning regulations, no inclusionary unit may be sold or leased for more than the maximum rent or purchase price established by the Mayor pursuant to § <cite path="§6-1041.03">6-1041.03</cite>, unless the unit is sold to a land trust or similar entity authorized by regulation to purchase such units for resale at prices specified by the Mayor.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>It shall be unlawful to construct an Inclusionary Development in a manner inconsistent with a Certificate of Inclusionary Zoning Compliance approved by the Mayor pursuant to § <cite path="§6-1041.05">6-1041.05</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-275">Mar. 14, 2007, D.C. Law 16-275, § 102, 54 DCR 880</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 161(a), 56 DCR 1117</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1041.04">6-1041.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in the section heading.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II-A"/>
+    <num codify:value="6-1041.03">103</num>
+    <heading>Establishment of maximum rent and purchase price; publication requirement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall establish the maximum rent or purchase price for the first sale of an inclusionary unit based upon either the actual income of the household selected by the Mayor to lease or purchase the unit or based upon a rental and price schedule as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Rents based upon the actual income of a household shall be established so that the household will not expend more than approximately 30% of its annual income on rent and utilities.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Purchase prices based upon the actual income of a household shall be established so that the household will not expend more than approximately 30% of its annual income on mortgage payments, including principal, interest, and property insurance and taxes, home owner association or condominium fees, and utilities.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Maximum rent and purchase prices established through a schedule applicable to low-income households shall be set so that a household earning 50% of the Metropolitan Statistical Area median will expend no more than approximately 30% of its annual income on the applicable housing costs identified in subsections (b) and (c) of this section.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Maximum rent and purchase prices established through a schedule applicable to moderate-income households shall be set so that a household earning 80% of the Metropolitan Statistical Area median will expend no more than approximately 30% of its annual income on the applicable housing costs identified in subsections (b) and (c) of this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The initial rental and prices schedule shall be published in the District of Columbia Register. The schedule may be modified as necessary to maintain the affordability of inclusionary units. The initial and revised schedules need not be offered for public comment through publication of a notice of proposed rulemaking, but shall not become effective until publication in the District of Columbia Register. Each published schedule shall identify the assumptions underlying the prices and rents established, such as the mortgage term and the average interest rate, taxes, insurance, condominium fees used.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Except as provided in subsection (d) the purchase price, for the second and all subsequent sales of an inclusionary unit shall equal not more than the purchase price paid by each seller plus the costs of the improvements permitted by regulation to be added to the purchase price, which amount shall be either multiplied by the percentage by which the consumer price index has risen or fallen since the date on which that seller purchased the property, or calculated pursuant to another formula as determined and published by the Mayor.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The purchase price for the second and all subsequent sales of an inclusionary unit sold to the Mayor shall equal the purchase price paid by each seller plus the costs of the improvements permitted by regulation to be added to the purchase price, which amount shall be multiplied by 25% or the percentage that the consumer price index has risen or fallen, whichever is lower, since the date on which that seller purchased the property.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-275">Mar. 14, 2007, D.C. Law 16-275, § 103, 54 DCR 880</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1041.02">6-1041.02</cite> and § <cite path="§42-2802">42-2802</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(a) of Inclusionary Zoning Implementation Temporary Amendment Act of 2008 (<cite doc="D.C. Law 17-161">D.C. Law 17-161</cite>, May 13, 2008, law notification  55 DCR 5894).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Inclusionary Zoning Implementation Emergency Amendment Act of 2008 (D.C. Act 17-304, February 22, 2008,  55 DCR 2514).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II-A"/>
+    <num codify:value="6-1041.04">104</num>
+    <heading>Enforcement.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>A violation of this subchapter or the rules issued under authority of this subchapter shall be a civil infraction for the purposes of Chapter 18 of Title 2 and be grounds for revocation of any building permit and certificate of occupancy for the market rate portions of the Inclusionary Development.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Civil fines, penalties, and fees may be imposed as sanctions for infraction of § <cite path="§6-1041.02">6-1041.02</cite> or any rule promulgated under its authority pursuant to Chapter 18 of Title 2.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In addition to such fines, penalties, and fees as may be established pursuant to subsection (a) of this section, the following fines shall be imposed for violations of § <cite path="§6-1041.02">6-1041.02</cite>:</text>
+      <para>
+        <num>(1)</num>
+        <text>Any person found to have sold a inclusionary unit at a price greater than that permitted by the Mayor shall pay a fine equal to the amount by which the purchase price exceeded the price allowed plus 10%.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any person found to have rented an inclusionary unit for a rent greater than that permitted by the Mayor shall pay a fine equal the amount by which the rent paid exceeded the rent allowed plus 10%. The fine amount shall continue to be paid until the owner provides proof satisfactory to the Mayor that the rental payment has been reduced to the maximum allowed.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All other violations of the Inclusionary Zoning Program are Class I infractions and subject to the fine schedule set forth at 16 DCMR § 3201.1, as that schedule may be amended.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>All fines collected pursuant to this section shall be deposited into the Housing Production Trust Fund.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Attorney General for the District of Columbia may institute court proceedings to enjoin violations of the Inclusionary Zoning Program.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The District government shall not issue or reissue any license or permit, including a building permit or certificate of occupancy, to any applicant for a license or permit if the applicant is the owner of any Inclusionary Development or unit and found, after a hearing, to be in violation of the Inclusionary Zoning Program until such time as the Mayor certifies that the Inclusionary Development or unit is again in compliance.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-275">Mar. 14, 2007, D.C. Law 16-275, § 104, 54 DCR 880</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1041.07">6-1041.07</cite> and § <cite path="§42-2802">42-2802</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II-A"/>
+    <num codify:value="6-1041.05">105</num>
+    <heading>Certificate of Inclusionary Zoning Compliance.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No building permit shall be issued for an Inclusionary Development unless:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor receives and approves a Certificate of Inclusionary Zoning Compliance, signed by all owners of the Inclusionary Development, demonstrating that the Inclusionary Development will meet the requirements of the Inclusionary Zoning Program; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The owner of the Inclusionary Development records a covenant in the land records of the District of Columbia that binds all persons with a property interest in any or all of the Inclusionary Development to construct and reserve the number of inclusionary units indicated on the Certificate of Inclusionary Zoning Compliance, and to sell or rent, as applicable, such units in accordance with the Inclusionary Zoning Program and the Certificate of Inclusionary Zoning Compliance for so long as the development remains in existence. The covenant and certificate shall be made part of all future deeds and leases of inclusionary units and shall contain any other provision required by the Mayor.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A certificate of occupancy shall be required for each inclusionary unit.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No certificate of occupancy for any market rate unit in an Inclusionary Development shall be issued unless the application includes a written statement signed by the Mayor and dated no earlier than 6 months from the date of the application, indicating that the Inclusionary Development is in compliance with the Inclusionary Zoning Program and the Certificate of Inclusionary Zoning Compliance.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor may, by regulation, require the establishment of an escrow account at the time that a certificate of occupancy is issued for a development permitted by the Board of Zoning Adjustment to satisfy its requirements under the Inclusionary Zoning Program with off-site development. The regulations may provide for the payment of the escrow amount into the Housing Production Trust Fund if the off-site development is not constructed after a certain period of time.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-275">Mar. 14, 2007, D.C. Law 16-275, § 105, 54 DCR 880</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1041.02">6-1041.02</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II-A"/>
+    <num codify:value="6-1041.06">106</num>
+    <heading>Ineligibility of students.</heading>
+    <text>Notwithstanding § <cite path="§2-1402.21">2-1402.21</cite>, a person enrolled as full-time student in a college or university shall not be eligible to apply to rent or purchase an inclusionary unit unless the annual income of his or her parent or guardian would qualify under the eligibility standards established by the Mayor, or unless the student is a part of a household that otherwise qualifies for the inclusionary unit.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-275">Mar. 14, 2007, D.C. Law 16-275, § 106, 54 DCR 880</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 161(b), 56 DCR 1117</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in the section heading.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II-A"/>
+    <num codify:value="6-1041.07">107</num>
+    <heading>Authority and responsibilities of the Mayor.</heading>
+    <text>The Mayor is authorized to undertake all administrative activities to implement the Inclusionary Zoning Program. The activities which the Mayor shall undertake include:</text>
+    <para>
+      <num>(1)</num>
+      <text>Promulgating regulations needed to implement the Inclusionary Zoning Program, including amendments to Title 12A of the District of Columbia Municipal Regulations;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Establishing the circumstances when the Mayor, the District of Housing Authority, or a 3rd party, including a land trust or a qualified nonprofit organization, may purchase an inclusionary unit for the purpose of reselling it to low- or moderate-income households;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Advertising the existence of the Inclusionary Zoning Program to the general public, including the process to apply for participation;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Accepting applications from households seeking to rent or purchase inclusionary units;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Establishing minimum income requirements;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Evaluating the eligibility of households submitting applications pursuant to paragraph (4), based upon the eligibility criteria established in Chapter 26 of Title 11 of the District of Columbia Municipal Regulations (11 DCMR 2600 et seq.) and other relevant considerations;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Establishing one or more lists of eligible households, such as one for rental and one for home ownership, and a selection process for determining the order in which such households shall be chosen to rent or purchase available inclusionary units, including the establishment of preference points for residents of the District of Columbia, eligible households in which at least one member works in the District of Columbia, and the length of time that households have been on the wait list;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Establishing the process by which the owners of Inclusionary Developments or units shall notify the Mayor of the availability of inclusionary units;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>Determining the circumstances under which owners of Inclusionary Developments or units may sell or rent inclusionary units to low- or moderate-income households that have not been selected by the Mayor;</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>Establishing minimum size and other standards for inclusionary units;</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>Determining the circumstances under which an owner or renter of an inclusionary unit may temporarily lease the unit;</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>Establishing the process by which renters of inclusionary units shall be required to periodically certify their continuing eligibility for occupancy and, if no longer eligible, the means by which their leaseholds shall be terminated and their units made available to eligible households; and</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>Establishing a fee for the review of Certificates of Inclusionary Zoning Compliance submitted in accordance with § <cite path="§6-1041.04">6-1041.04</cite>; provided, that the fee shall not exceed the costs of reviewing the certificates and enforcing compliance with the program.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-275">Mar. 14, 2007, D.C. Law 16-275, § 107, 54 DCR 880</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 161(c), 56 DCR 1117</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in the section heading.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(b) of Inclusionary Zoning Implementation Temporary Amendment Act of 2008 (<cite doc="D.C. Law 17-161">D.C. Law 17-161</cite>, May 13, 2008, law notification  55 DCR 5894).</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 17-311">D.C. Law 17-311</cite> added subsec. (c) to read as follows:</annotation>
+        <annotation>“(c)(1) No later than February 6, 2009, the Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), shall issue and publish a Notice of Final Rulemaking containing all regulations necessary for implementation of this act, as required by this section, including the maximum rent and purchase price schedule required by section 103.</annotation>
+        <annotation>“(2) The final rulemaking required by this subsection shall contain an effective date that is no later than 60 days after the date of publication in the District of Columbia Register of the Notice of Final Rulemaking.”.</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 17-311">D.C. Law 17-311</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Inclusionary Zoning Implementation Emergency Amendment Act of 2008 (D.C. Act 17-304, February 22, 2008,  55 DCR 2514).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Inclusionary Zoning Regulations Emergency Amendment Act of 2008 (D.C. Act 17-571, November 6, 2008,  55 DCR 12116).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Inclusionary Zoning Final Rulemaking Emergency Amendment Act of 2008 (D.C. Act 17-574, December 8, 2008,  55 DCR 12615).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Inclusionary Zoning Final Rulemaking Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-12, February 23, 2009,  56 DCR 1918).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority—Inclusionary Zoning Implementation Act of 2006, see Mayor’s Order 2008-59, April 2, 2008 ( 55 DCR 5510).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II-A"/>
+    <num codify:value="6-1041.08">108</num>
+    <heading>Agency responsibilities.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The District of Columbia Housing Authority (“DCHA”) shall perform all the functions and duties under the Inclusionary Zoning Program as may be delegated to it by the Mayor.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Nothing in this section shall be construed as preventing the Mayor from delegating any or all of such functions to a subordinate agency.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Notwithstanding Reorganization Plan No. 3 of 1983 [part C, subchapter VI, Chapter 15 of Title 1], effective March 31, 1983, the functions of the Department of Consumer and Regulatory Affairs shall not include any of the functions given to the Mayor under this subchapter, except the functions as may be delegated to it by the Mayor.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-275">Mar. 14, 2007, D.C. Law 16-275, § 108, 54 DCR 880</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II-A"/>
+    <num codify:value="6-1041.09">109</num>
+    <heading>Annual reports.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Beginning on the first anniversary of March 14, 2007, and each year thereafter, the Mayor shall submit a report to the Council and the Zoning Commission, providing:</text>
+      <para>
+        <num>(1)</num>
+        <text>The number of inclusionary units produced at each targeted income level;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The number of inclusionary units produced for sale;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The number of inclusionary units produced for rent;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The median income of the households that purchased or rented inclusionary units;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The number of inclusionary units purchased or rented by DCHA, other District agency, and 3rd parties, for resale to low- or moderate-income households;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The value of the subsidy, if any, contributed toward the rental or purchase of units by DCHA, other District agency, or 3rd party to make them affordable to low- or moderate-income households;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The average rent and sales prices for inclusionary units based on number of bedrooms;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The numbers of waivers or alternative compliance requested and granted;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>An analysis of how much bonus density was actually achieved for each development in which inclusionary units were required; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>An assessment of whether the Inclusionary Zoning Program has had any adverse effect on the production of housing or on the value of land in the District, and, if a substantial adverse effect on housing production has been found, whether additional regulatory or legislative incentives or programs should be adopted by the District to mitigate against such adverse effect, and whether changes in the Inclusionary Zoning Program should be considered by the Zoning Commission, such as:</text>
+        <para>
+          <num>(A)</num>
+          <text>Increasing the allowable bonus density or height of developments where inclusionary units are required;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Increasing the minimum threshold of the number of housing units in a development that triggers the application of the Inclusionary Zoning Program;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Reducing the amount of required affordable housing;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Reducing the minimum set-aside requirements on matter-of-right densities; or</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Changing the income levels of the targeted households for inclusionary units.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>No later than 5 1/2 years after March 14, 2007, the Mayor shall submit a report to the Council that lists the initial purchase price of each inclusionary unit sold during the 5-year period subsequent to March 14, 2007, and, for each unit resold, the percentage by which the purchase price exceeded the previous purchase price.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The report shall also include a recommendation on how best to ensure a baseline rate of return for inclusionary unit owners upon resale while maintaining the continued affordability inclusionary units.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-275">Mar. 14, 2007, D.C. Law 16-275, § 109, 54 DCR 880</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 20-84">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 20-84">
   <num type="law">20-84</num>
   <heading type="short">Focused Student Achievement Amendment Act of 2013</heading>
   <meta>
@@ -12,4 +12,211 @@
       <narrative>Law 20-84, the “Focused Student Achievement Amendment Act of 2013,” was introduced in Council and assigned Bill No. 20-311. The Bill was adopted on first and second readings on November 5, 2013, and December 3, 2013, respectively. Signed by the Mayor on December 27, 2013, it was assigned Act No. 20-254 and transmitted to Congress for its review. D.C. Law 20-84 became effective on February 22, 2014.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|7D"/>
+    <num codify:value="38-781.01">202</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Chancellor” means the chief executive officer of DCPS, as established by § <cite path="§38-174">38-174</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“DCMR” means the District of Columbia Municipal Regulations.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“DCPS” means the District of Columbia Public Schools agency established by § <cite path="§38-171">38-171</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Parent” means a natural parent, adoptive parent, step-parent, or any person who has legal custody of a student by court order.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Passing grade” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>For pre-kindergarten through 5th grade, achieving proficient or advanced grades in a subject or content area; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>For 6th through 12th grade, receiving credit for a course.</text>
+      </para>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Principal” means a principal at a DCPS school.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Promoted” describes students in pre-kindergarten through 11th grade who are advanced to the next grade level.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Promotion” means advancement to the next grade level for students in pre-kindergarten through grade 11.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Retained” describes students who are required to repeat their current grade level due to their failure to meet promotion criteria.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Retention” means repetition of a student’s current school grade level due to the student’s failure to meet promotion criteria.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“School year” means the school term beginning in August of one year and ending in the following year. The term “school year” does not include summer school.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Subject” and “content area” mean a particular course of study, such as mathematics, English language arts, writing, or literature.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-84">Feb. 22, 2014, D.C. Law 20-84, § 202, 61 DCR 178</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|7D"/>
+    <num codify:value="38-781.02">203</num>
+    <heading>Student retention and promotion.</heading>
+    <para>
+      <num>(a)</num>
+      <text>In accordance with the requirements of this chapter or as set forth in the DCMR, a DCPS student can be retained at any grade level.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>Decisions regarding the promotion and retention of a DCPS student enrolled in pre-kindergarten through 8th grade shall be made by the student’s principal based upon the recommendation of the student’s teacher and in consideration of the promotion requirements set forth in the DCMR.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A DCPS student enrolled in 9th grade through 11th grade shall be promoted if the student meets the promotion requirements as set forth in the DCMR.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Notwithstanding subsection (b) of this section:</text>
+      <para>
+        <num>(1)</num>
+        <text>A principal may:</text>
+        <para>
+          <num>(A)</num>
+          <text>Retain any student who does not meet the promotion requirements set forth in the DCMR; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Promote a student who has failed to meet the promotion requirements set forth in the DCMR; provided, that the principal submits a written explanation justifying the decision to the Chancellor before the promotion is made; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No student with more than 30 unexcused absences in a school year shall be promoted unless the principal submits a written explanation justifying the decision to the Chancellor before the promotion is made.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Chancellor may develop separate promotion criteria for students who are enrolled in an English language learner program or receive special education services.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-84">Feb. 22, 2014, D.C. Law 20-84, § 203, 61 DCR 178</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|7D"/>
+    <num codify:value="38-781.03">204</num>
+    <heading>Reporting requirements.</heading>
+    <text>Within 30 calendar days after the end of the school year, the Chancellor shall submit to the Office of the State Superintendent of Education the name of each:</text>
+    <para>
+      <num>(1)</num>
+      <text>Student who was identified as at risk of retention pursuant to 5-E DCMR § 2200.9 and a description of intervention services provided to the student; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Retained student, the underlying reason for the retention decision, and whether the student was identified as at risk of retention pursuant to the requirements of 5-E DCMR § 2200.9.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-84">Feb. 22, 2014, D.C. Law 20-84, § 204, 61 DCR 178</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|7D"/>
+    <num codify:value="38-781.04">205</num>
+    <heading>Review; appeals.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Chancellor shall establish procedures to review retention decisions made pursuant to this chapter or as set forth in the DCMR and may review all retention decisions made pursuant to the procedures.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chancellor shall establish a process, including deadlines, to allow the parent of a student to be retained for failure to meet the promotion criteria specified in the DCMR to appeal the retention decision on the grounds that the student has met the promotion criteria.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-84">Feb. 22, 2014, D.C. Law 20-84, § 205, 61 DCR 178</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|7D"/>
+    <num codify:value="38-781.05">206</num>
+    <heading>Summer school.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>Each student retained for the failure to meet the promotion criteria specified in the DCMR shall attend the summer school session immediately following the school year in which the student was retained, unless specifically excused by the principal or the Chancellor.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A student who attends summer school pursuant to this section shall be reevaluated for promotion if the student:</text>
+        <para>
+          <num>(A)</num>
+          <text>Does not have more than 3 unexcused absences from summer school; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Receives a passing grade in the subject or content area for which the student did not achieve a passing grade during the school year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A student who meets the promotion criteria set forth in the DCMR after the completion of summer school shall be promoted.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In addition to those students identified to attend summer school pursuant to subsection (a) of this section, each principal shall provide to the Chancellor before the summer school registration deadline a list of the names of all students who the principal believes could benefit from summer school.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-84">Feb. 22, 2014, D.C. Law 20-84, § 206, 61 DCR 178</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|7D"/>
+    <num codify:value="38-781.06">207</num>
+    <heading>Rules.</heading>
+    <text>The Chancellor, pursuant to § <cite path="§38-174">38-174</cite>(c)(5), shall issue rules to implement the provisions of this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-84">Feb. 22, 2014, D.C. Law 20-84, § 207, 61 DCR 178</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

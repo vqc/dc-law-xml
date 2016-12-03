@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <heading>The 64th Congress</heading>
+  <subheading>Public Laws</subheading>
+  <ns0:include href="./laws/public/64-2-ch433.xml"/>
+  <ns0:include href="./laws/public/64-2-ch209.xml"/>
+  <ns0:include href="./laws/public/64-2-ch130.xml"/>
+  <ns0:include href="./laws/public/64-2-ch127.xml"/>
+  <ns0:include href="./laws/public/64-1-ch165.xml"/>
+  <ns0:include href="./laws/public/64-1-ch80.xml"/>
+  <ns0:include href="./laws/public/64-1-ch75.xml"/>
+</collection>

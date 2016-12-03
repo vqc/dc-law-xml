@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 13-179">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 13-179">
   <num type="law">13-179</num>
   <heading type="short">Mayor’s Official Residence Commission Establishment Act of 2000</heading>
   <meta>
@@ -12,4 +12,198 @@
       <narrative>Law 13-179, the “Mayor’s Official Residence Commission Establishment Act of 2000,” was introduced in Council and assigned Bill No. 13-590, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 26, 2000, and July 11, 2000, respectively. Signed by the Mayor on July 26, 2000, it was assigned Act No. 13-390 and transmitted to both Houses of Congress for its review. D.C. Law 13-179 became effective on October 21, 2000.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XIV|A"/>
+    <num codify:value="1-331.01">2</num>
+    <heading>Findings.</heading>
+    <text>The Council of the District of Columbia finds that:</text>
+    <para>
+      <num>(1)</num>
+      <text>The District of Columbia is the nation’s capital and an international  showcase.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Mayor of the District of Columbia serves as the highest elected  official at both the state and local levels.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Each of the 50 states in the United States provides an official residence  for its top executive government official, the governor, for the purpose of  serving as: an official state residence; a suitable official location for entertaining and honoring state, national, and international guests, as well  as its own distinguished citizens; and an official location that houses and  displays cherished memorabilia of the state’s cultural and social history.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>An official residence is also provided for the mayors of major cities in  the United States, including Detroit, New York, and Los Angeles.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The mayors of cities that serve as the capitals of other nations are also  provided with an official residence, including London, England and Paris,  France.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The Mayor of the District of Columbia should have a residence suitable to  entertain and honor citizens, businesses, local and federal officials, and the  many official guests and distinguished persons who visit the District each  year from other cities, states, and nations.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>After 25 years of limited home rule, it is time to establish an official  residence of the Mayor of the District of Columbia.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-179">Oct. 21, 2000, D.C. Law 13-179, § 2, 47 DCR 6847</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-370.1.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XIV|A"/>
+    <num codify:value="1-331.02">3</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Commission” means the Mayor’s Official Residence Commission established  pursuant to this subchapter.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Official residence” means the land and improvements where the Mayor has  the exclusive right to live during the Mayor’s term of office, and which shall  be exempt from property taxes.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Substantial nongovernment in-kind contributions” means any service  reasonably valued at more than $5,000 which is received from any source other  than the District government.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-179">Oct. 21, 2000, D.C. Law 13-179, § 3, 47 DCR 6847</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-370.2.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XIV|A"/>
+    <num codify:value="1-331.03">4</num>
+    <heading>Mayor’s Official Residence Commission — establishment; duties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a Mayor’s Official Residence Commission with the purpose of preparing recommendations to the Council and the Mayor on the most appropriate site in the District to establish the Mayor’s official residence and on the most cost-effective methods of financing the acquisition, renovation, and maintenance of the official residence.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Explore the appropriateness and cost of using property under the  District’s jurisdiction that is located at 921 Pennsylvania Avenue, S.E.   (Square 0948, Lots 802 and 803), for use as the official residence upon the  expiration of the current lease of this property in June 2002;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Compare the appropriateness and cost of using the property identified in  paragraph (1) of this subsection as the official residence with the  appropriateness and cost of using other properties already owned or to be  acquired by the District or another entity for this purpose; and</text>
+        <text>(Square 0948, Lots 802 and 803), for use as the official residence upon the  expiration of the current lease of this property in June 2002;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Develop a plan for raising the funds necessary for the acquisition,  renovation, and maintenance of the most appropriate property for use as the  official residence.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Commission shall submit its recommendations in the form of a report to the Council and the Mayor within 180 days of the appointment of a majority of its members. The report shall include the information, comparative analysis, and plan required by subsections (a) and (b) of this section, along with specific recommendations on the actions and timetables for such actions that are necessary to establish an official residence of the Mayor. The report shall be accompanied by any draft executive orders, or proposed legislation, regulations, or amendments to existing statutes or regulations, including this subchapter, which may be necessary to implement the recommendations.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Prior to the issuance of this report, the Commission shall conduct not  less than one public forum or hearing, at which comments are invited from the  public, and for which 15 days prior notice is provided in the District of  Columbia Register and to the Mayor, the Council, and each Advisory  Neighborhood Commission. A copy of all written comments provided to the Commission by the public shall be submitted by the Commission to the Council  and the Mayor.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-179">Oct. 21, 2000, D.C. Law 13-179, § 4, 47 DCR 6847</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-370.3.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XIV|A"/>
+    <num codify:value="1-331.04">5</num>
+    <heading>Mayor’s Official Residence Commission — composition; compensation; quorum.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission shall be composed of 9 voting members. Four public citizen members including the chairperson of the Commission shall be appointed by the Chairman of the Council, 3 public citizen members shall be appointed by the Mayor, and 2 ex officio members shall be the District’s Chief Property Management Officer and Director of the Office of Planning who each may designate from time to time a staff representative to perform the ex officio member’s responsibilities. A majority of the members shall be required to be District residents. All appointments shall be made within 15 days of the October 21, 2000. A vacancy shall be filled in the same manner in which its initial appointment was made.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Each public citizen member of the Commission shall serve without compensation and shall not be entitled to reimbursement for actual and necessary expenses incurred in the performance of the Commission’s duties.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The chairperson of the Commission, or the chairperson’s designated representative who shall be a member of the Commission, shall convene all meetings of the Commission. The chairperson shall convene the first meeting of the Commission not later than 15 days after all appointments have been made. The Commission shall meet not less often than once a month.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A majority of the members of the Commission shall constitute a quorum. Voting by proxy shall not be permitted, but meetings and votes by teleconference or other electronic means shall be permitted. A written summary shall be prepared of all meetings at which a vote is taken, which shall be made available to the public upon request.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Commission may request from any department, agency, or instrumentality of the District government, including independent agencies and receiverships, any information necessary to carry out the provisions of this subchapter. Each department, agency, instrumentality, independent agency, or receivership shall cooperate with the Commission and provide any information, in a timely manner, that the Commission requests to carry out the provisions of this subchapter.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Mayor shall provide administrative and technical support, office space, staff, supplies, and other resources needed by the Commission to carry out the provisions of this subchapter.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Commission may solicit, receive, accept, and expend contributions or grants from private or federal sources to carry out the provisions of this subchapter. Any Commission solicitation, receipt, acceptance, or expenditure of contributions or grants from private sources shall not be subject to appropriation. The Commission shall keep a record, available to the public for inspection, of all private contributions or grants and any substantial nongovernment in-kind contributions received. The record shall include the full name, address, and occupation or type of business of each donor.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>The Commission may enter into contracts, for which sufficient appropriations or other public or private funding is available and provided, with federal or state agencies, private firms, institutions, or individuals to conduct research or surveys, prepare appraisals or reports, or perform other activities necessary to the discharge of its duties.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>The Commission may establish such advisory groups, committees, or subcommittees, consisting of members or nonmembers, as it deems necessary to carry out the purposes of this subchapter.</text>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>No District laws, rules, or orders governing administrative procedures, conflict of interest, financial disclosure, employment, or procurement shall apply to the Commission in its expenditure of non-local funds, except as provided in this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-179">Oct. 21, 2000, D.C. Law 13-179, § 5, 47 DCR 6847</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-370.4.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XIV|A"/>
+    <num codify:value="1-331.05">6</num>
+    <heading>Selection of official residence.</heading>
+    <text>Within 60 days of the submission of the Commission’s report to the Council and the Mayor, the Mayor shall propose the selection of a property to be used as the official residence and submit the proposed selection to the Council with a proposed resolution of approval. The proposed resolution shall specify, if applicable, the proposed methods of acquiring, renovating, and maintaining the property as the official residence. The Council or a committee of the Council shall hold a public hearing on the proposed resolution. If the Council does not approve or disapprove the proposed resolution within 90 calendar days, excluding days of Council recess, the proposed resolution shall be deemed disapproved.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-179">Oct. 21, 2000, D.C. Law 13-179, § 6, 47 DCR 6847</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-370.5.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Resolutions</heading>
+        <annotation>Resolution 14-113, the “Approval of the Proposal from the Eugene B. Casey Foundation for an Official Residence of the Mayor Resolution of 2001”, was approved effective June 5, 2001.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

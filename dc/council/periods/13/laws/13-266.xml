@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 13-266">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 13-266">
   <num type="law">13-266</num>
   <heading type="short">Opportunity Accounts Act of 2000</heading>
   <meta>
@@ -12,4 +12,549 @@
       <narrative>Law 13-266, the “Opportunity Accounts Act of 2000”, was introduced in Council and assigned Bill No. 13-33, which was referred to the Committee on Economic Development. The Bill was adopted on first and second readings on November 8, 2000, and December 5, 2000, respectively. Signed by the Mayor on January 5, 2001, it was assigned Act No. 13-556 and transmitted to both Houses of Congress for its review. D.C. Law 13-266 became effective on April 3, 2001.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.61">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this part, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Account holder” means a person who is the owner of an opportunity account.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Administering organization” means an entity that is approved by the Mayor to implement and administer an opportunity account program.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“District of Columbia median income” means the most recent measurement of median income for the District of Columbia published by the United States Department of Housing and Urban Development.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Financial institution” means a bank, trust company, savings bank, credit union, or savings and loan association with an office in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Medical emergency” means a debilitating or life-threatening illness.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Opportunity account” means a special savings account established under this part.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Opportunity Account Office” means the special savings account office established under § <cite path="§1-307.62">1-307.62</cite>.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Opportunity account program” means a program of an administering organization to administer and oversee opportunity accounts and to encourage the establishment of opportunity accounts.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Opportunity account reserve fund” means the fund created by an administering organization for the purposes of funding the costs incurred in the administration of an opportunity account program and for providing matching funds for opportunity accounts.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Retirement” means the period commencing upon the eligibility of a person for Social Security benefits.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 2, 48 DCR 1240</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority Pursuant to <cite doc="D.C. Law 13-266">D.C. Law 13-266</cite>, the “Opportunity Accounts Act of 2002”, see Mayor’s Order 2002-45, March 8, 2002 ( 49 DCR 2252).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.62">3</num>
+    <heading>Establishment of Opportunity Account Office.</heading>
+    <text>The Mayor shall establish in the executive branch an office to be known as the Opportunity Account Office. The office shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Provide eligible families and individuals with an opportunity to establish opportunity accounts;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Provide that the opportunity account shall be established by an approved financial institution and administered by an approved organization;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Provide incentives to encourage participation in the program; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Require that money deposited into an opportunity account shall be used only for approved purposes.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 3, 48 DCR 1240</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-307.61">1-307.61</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.63">4</num>
+    <heading>Solicitation and consideration of proposals by organizations to administer opportunity account programs.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall solicit proposals from private organizations to administer opportunity accounts on a nonprofit basis. Organization proposals shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>A description of the qualifications of the organization to administer an opportunity accounts program;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A description of the ability and plans of the organization to provide or raise sufficient funds to provide matching contributions for opportunity accounts;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A description of the ability of the organization to maintain sufficient funds to administer an opportunity account program;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A description of groups to be targeted for priority participation in the opportunity account program;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A process for including account holders in decision-making regarding the implementation of the opportunity account program;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A requirement that an account holder contribute funds from earned income;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A requirement that the account holder attend economic literacy courses of the administering organization or a partner organization;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A requirement that the account holder be provided adequate information on the requirements of the opportunity account program and this part and the purposes for which opportunity account and matching fund account funds may be used;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>A process for offering or making available courses or training on the use of funds for an approved purpose, such as a home purchase or the establishment of a business;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>A process for regular evaluation and review of opportunity accounts to ensure compliance with this part, District of Columbia regulations, and program rules by account holders and a process for counseling account holders who are not in compliance;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>A system for preventing withdrawal of matching funds for a purpose other than an approved purpose by maintaining the matching funds in a matching funds account separate from the opportunity account; and</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Other information as may be required by the Mayor.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In reviewing proposals of organizations to administer opportunity accounts, the Mayor shall consider the following factors:</text>
+      <para>
+        <num>(1)</num>
+        <text>Whether the organization is exempt from taxation under section 501(c)(3) of the Internal Code of 1986, approved October 22, 1986 (68A Stat. 163; 26 U.S.C. § 501(c)(3));</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The administrative and technical ability of the organization to administer an opportunity account program;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The fiscal accountability of the organization;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The ability of the organization to provide or raise money for matching contributions;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The ability of the organization to establish and administer an opportunity account reserve fund to receive contributions from opportunity account program contributors;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The amount and quality of proposed auxiliary services, including economic literacy seminars and asset training;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The staffing that the organization will assign to the opportunity account program;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The record of the organization in administering other public assistance programs; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Any other factors the Mayor considers relevant to the determination of the ability of the organization to create and operate an opportunity account program efficiently and effectively.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 4, 48 DCR 1240</annotation>
+        <annotation doc="D.C. Law 14-310">June 12, 2003, D.C. Law 14-310, § 2(a), 50 DCR 1092</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-310">D.C. Law 14-310</cite>, in subsec. (b), validated a previously made technical correction.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.64">5</num>
+    <heading>Responsibilities of administering organization.</heading>
+    <text>An administering organization shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Administer opportunity accounts in accordance with this part and all rules promulgated under this part and in conformity with the organization’s application as approved by the Mayor;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Establish an opportunity account reserve fund account at a financial institution and deposit into that account sufficient funds to administer the organization’s opportunity account program and to provide potential matching funds for opportunity accounts in the organization’s opportunity account program; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Review and approve expenditures of opportunity account funds to ensure that the expenditures are used for a purpose permitted under this part.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 5, 48 DCR 1240</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.65">6</num>
+    <heading>Financial institution establishment of opportunity accounts.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A financial institution shall not establish an opportunity account for an account holder unless the establishment of the account by the financial institution is approved by the Mayor. The Mayor may grant general approval to a financial institution to establish an opportunity account for any person meeting specified standards.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A financial institution may establish an opportunity account reserve fund account if the establishment of the account by the financial institution is approved by the Mayor. The Mayor may grant general approval to a financial institution to establish an opportunity account reserve fund account for any organization meeting specified standards.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A financial institution establishing an opportunity account shall certify to the Mayor, on a form to be prescribed by the Mayor and accompanied by any documentation required by the Mayor, that an opportunity account has been established and that funds have been deposited into the account.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A financial institution establishing an opportunity account reserve fund account shall certify to the Mayor, on a form to be prescribed by the Mayor and accompanied by any documentation required by the Mayor, that an opportunity account reserve fund account has been established and that funds have been deposited into the account.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A financial institution establishing an opportunity account shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Maintain the account in the name of the account holder alone or in a subaccount of an escrow or custodial account in the name of the administering organization;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Permit deposits to be made in the account by the account holder or an organization on behalf of the account holder;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide at least the market rate of interest for the account; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Permit the account holder, or, if in an escrow or custodial account, the administering organization, to withdraw money from the account.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 6, 48 DCR 1240</annotation>
+        <annotation doc="D.C. Law 14-310">June 12, 2003, D.C. Law 14-310, § 2(b), 50 DCR 1092</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-310">D.C. Law 14-310</cite> rewrote par. (4) of subsec. (e) which had read as follows: “(4) Permit the account holder or, if in an escrow or custodial account, the administering organization to withdraw money from the account.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.66">7</num>
+    <heading>Eligibility to open an opportunity account; account limit.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An individual whose household income does not exceed 85% of the District of Columbia median income may open an opportunity account.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The total balance in an opportunity account, except interested earned on matching funds or funds deposited into the account by the account holder, shall not exceed $10,000.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 7, 48 DCR 1240</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.67">8</num>
+    <heading>Matching funds and return of matching funds; tax exemption.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The administering organization shall deposit into a matching funds account for the account holder matching funds of at least $2 for every dollar that the account holder deposits into the account.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Subject to annual available appropriations, the District of Columbia shall provide to an administering organization matching funds of $2, to be deposited into the matching funds account for the account holder, for every dollar that the account holder deposits into the opportunity account; provided that:</text>
+      <para>
+        <num>(1)</num>
+        <text>The District of Columbia shall not provide matching funds for the account unless the administering organization provides matching funds in at least the same amount; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The District of Columbia shall provide no more than $3,000 in the aggregate in matching funds per account.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>There shall be no limit on federal or private matching funds made available to an account holder.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Subject to annual available appropriations, matching funds deposited into a matching funds account or withdrawn by an account holder from a matching funds account shall be exempt from taxation under District of Columbia law; provided, that any money withdrawn from a matching funds account by an account holder for an unapproved use shall be taxed as income to the account holder, unless the funds are reinstated in accordance with § <cite path="§1-307.68">1-307.68</cite>(d).</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The administering organization shall deposit matching funds in an account separate from the opportunity account. The separate account may be the opportunity account reserve fund account.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Except for matching funds used for an approved purpose under § <cite path="§1-307.68">1-307.68</cite>(a) before 10 years after the establishment of the opportunity account, the matching funds shall be returned to the District of Columbia and administering organization in the same amounts as the matching funds were provided 10 years after the establishment of the opportunity account.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 8, 48 DCR 1240</annotation>
+        <annotation doc="D.C. Law 13-313">June 19, 2001, D.C. Law 13-313, § 26(a), (b), 48 DCR 1873</annotation>
+        <annotation doc="D.C. Law 14-42">Oct. 26, 2001, D.C. Law 14-42, § 17, 48 DCR 7612</annotation>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 7036, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-42">D.C. Law 14-42</cite> validated a previously made technical correction in subsec. (d).</annotation>
+        <annotation><cite doc="D.C. Law 13-313">D.C. Law 13-313</cite>, rewrote subsec. (d); and, in subsec. (f), substituted “Except for matching funds used for an approved purpose under § <cite path="§1-307.68">1-307.68</cite>(a) before 10 years after the establishment of the opportunity account,” for “Except for matching funds used to purchase a federally qualified individual retirement account as permitted under § <cite path="§1-307.68">1-307.68</cite>(a)(8)”. Prior to amendment, subsec. (d) read:</annotation>
+        <annotation>“(d) Subject to appropriations, matching funds deposited into a matching funds account or withdrawn by an account holder from a matching funds account shall be exempt from taxation under District of Columbia law; provided, that:</annotation>
+        <annotation>“(1) Interest earned on the matching funds shall not be exempt from taxation; and</annotation>
+        <annotation>“(2) Any money withdrawn from a matching funds account for an unapproved use shall be taxed as income unless it is reinstated in the account as provided in section 9(d).”</annotation>
+        <annotation><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsecs. (b) and (d), substituted “Subject to annual available appropriations” for “Subject to appropriations”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 17 of Technical Amendments Emergency Act of 2001 (D.C. Act 14-108, August 3, 2001,  48 DCR 7622).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 7036 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 7036 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.68">9</num>
+    <heading>Use of opportunity account funds.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An account holder may withdraw his or her opportunity account funds or matching funds for any of the following purposes, if approved by the administering organization:</text>
+      <para>
+        <num>(1)</num>
+        <text>To pay educational costs for the account holder or a spouse, domestic partner, father, mother, child, or dependent of the account holder at an accredited institution of higher education;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To pay job training costs for the account holder or a spouse, domestic partner, father, mother, child, or dependent of the account holder at an accredited or licensed training program;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To purchase a primary residence;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To pay for major repairs or improvements to a primary residence;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>To fund start-up costs of a business for the account holder or a spouse, domestic partner, father, mother, child, or dependent of the account holder;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>To pay for costs associated with a medical emergency, to the extent that those costs are not covered by insurance;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>To pay for costs and expenses incurred during retirement;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>To purchase a federally qualified individual retirement account if such purchase takes place not earlier than 5 years after the establishment of the opportunity account.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If an account holder withdraws opportunity account funds or matching funds for a purpose not allowed by this part: (1) the account holder shall lose his or her matching funds and the matching funds shall be returned to the District of Columbia and administering organization in the same amounts as the matching funds were provided; (2) the account holder shall be removed from the opportunity account program; and (3) all funds deposited by the account holder into the opportunity account shall be returned to the account holder. The Mayor may establish, by rule, an opportunity for an account holder to reinstate funds to his or her opportunity account or matching funds account after an unlawful withdrawal before the penalties in this subsection shall take effect.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 9, 48 DCR 1240</annotation>
+        <annotation doc="D.C. Law 13-313">June 19, 2001, D.C. Law 13-313, § 26(c), (d), 48 DCR 1873</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-307.67">1-307.67</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-313">D.C. Law 13-313</cite>, in subsec. (a)(2), deleted “who is at least 18 years of age” following “account holder”; and, in subsec. (a)(5), deleted “who is at least 18 years of age or older” following “account holder”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.69">10</num>
+    <heading>Emergency withdrawal.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An account holder may make an emergency withdrawal of his or her opportunity account funds in accordance with this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An account holder may make an emergency withdrawal for:</text>
+      <para>
+        <num>(1)</num>
+        <text>Paying the costs of medical care or the expenses necessary to obtain medical care for the account holder or a spouse, domestic partner, father, mother, child, or dependent of the account holder;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Making a payment necessary to prevent the eviction of the account holder from the primary residence of the account holder or to prevent foreclosure on a mortgage for the primary residence of the account holder; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Making payments necessary to enable the account holder to meet necessary living expenses following loss of employment.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>An account holder making an emergency withdrawal shall only withdraw funds deposited by the account holder and shall not withdraw matching funds;</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>An emergency withdrawal shall not be made unless authorized by an administering organization on a case-by-case basis.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>An account holder shall deposit funds into the opportunity account in the same amount as the funds withdrawn from the account for the emergency withdrawal no later than 12 months after the date of the withdrawal. If the account holder fails to make the deposit:</text>
+      <para>
+        <num>(1)</num>
+        <text>The account holder shall lose his or her matching funds and the matching funds shall be returned to the District of Columbia and administering organization in the same amounts as the matching funds were provided;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The account holder shall be removed from the opportunity account program; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All funds deposited by the account holder into the opportunity account shall be returned to the account holder.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 10, 48 DCR 1240</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.70">11</num>
+    <heading>Disposition upon death.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An account holder shall designate in writing a contingent beneficiary at the time the account is established.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In the event of the death of an account holder, ownership of the account shall be transferred to the contingent beneficiary. If the contingent beneficiary is deceased, is not eligible to be an account holder, or otherwise cannot or will not accept ownership of the account, the matching funds shall be returned to the District of Columbia and administering organization in the same amounts as the matching funds were provided and the funds in the opportunity account shall be disbursed in accordance with District of Columbia law.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The account holder may change, by a written instrument, his or her designation of the contingent beneficiary at any time.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 11, 48 DCR 1240</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.71">12</num>
+    <heading>Use of reserve funds for administrative expenses.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No more than 20% of the funds in the opportunity account reserve fund account shall be used for administrative costs of the opportunity account program during either of the first 2 years of an opportunity account program. No more than 15% of the funds in the opportunity account reserve fund account may be used for administrative costs during any subsequent year.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Funds deposited by account holders shall not be used for administrative costs.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 12, 48 DCR 1240</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.72">13</num>
+    <heading>Exclusion of opportunity account funds from public assistance program calculations.</heading>
+    <text>Funds in an opportunity account, including accrued interest, shall not be considered in the determination of whether a person is eligible to receive, or the determination of the amount of, any public assistance or benefits.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 13, 48 DCR 1240</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.73">14</num>
+    <heading>Rulemaking.</heading>
+    <text>The Mayor shall promulgate rules, in accordance with subchapter I of Chapter 5 of Title 2, to carry out the purposes and functions of this part.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 14, 48 DCR 1240</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|IV|D"/>
+    <num codify:value="1-307.74">15</num>
+    <heading>Report to Council.</heading>
+    <text>The Mayor shall provide a comprehensive report on the costs and benefits of the administration of the Opportunity Account Office and opportunity account programs to the Council 18 months after April 3, 2001, and every 2 years thereafter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-266">Apr. 3, 2001, D.C. Law 13-266, § 15, 48 DCR 1240</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 20-194">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 20-194">
   <num type="law">20-194</num>
   <heading type="short">Special Education Student Rights Act of 2014</heading>
   <meta>
@@ -12,4 +12,516 @@
       <narrative>Law 20-194, the “Special Education Student Rights Act of 2014,” was introduced in Council and assigned Bill No. 20-723. The Bill was adopted on first and second readings on Oct. 7, 2014, and Oct. 28, 2014, respectively. Signed by the Mayor on Nov. 20, 2014, it was assigned Act No. 20-486 and transmitted to Congress for its review. D.C. Law 20-194 became effective on Mar. 10, 2015.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25C|I"/>
+    <num codify:value="38-2571.01">101</num>
+    <heading>Short title.</heading>
+    <text>This subchapter may be cited as the “Special Education Procedural Protections Expansion Act of 2014”.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-194">Mar. 10, 2015, D.C. Law 20-194, §  101, 61 DCR 12411</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25C|I"/>
+    <num codify:value="38-2571.02">102</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Child with a disability” shall have the same meaning as provided in section 602(3) of IDEA (20 U.S.C. § 1401(3)).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“IDEA” means the Individuals with Disabilities Education Act, approved April 13, 1970 (84 Stat. 175; 20 U.S.C. § 1400et seq.), and its implementing regulations.</text>
+      <text>
+        <em>et seq.</em>
+      </text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Individualized education program” or “IEP” means a written plan that specifies the special education programs and services to be provided to meet the unique educational needs of a child with a disability, as required under section 614(d) of IDEA (20 U.S.C. § 1414(d)).</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Individualized family service plan” or “IFSP” means a written plan for providing early intervention services to an infant or toddler with a disability and the infant’s or toddler’s family that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Is based on the evaluation and assessment of the child and family, consistent with the requirements of 34 C.F.R. § 303.321;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Consistent with the requirements of 34 C.F.R. § 303.344, includes:</text>
+        <para>
+          <num>(i)</num>
+          <text>Information about the child’s present levels of development;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Information about the family;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The results or outcomes to be achieved;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>The early intervention services necessary to meet the needs of the child and family, and</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>To the extent appropriate, the identification of other services that the child or family needs or is receiving through other sources;</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Is implemented as soon as possible once parental consent for the early intervention services in the IFSP is obtained, consistent with 34 C.F.R. § 303.420; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Is developed in accordance with the IFSP procedures in 34 C.F.R. §§ 303.342, 303.343, and 303.345.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Infant or toddler with a disability” shall have the same meaning as provided in section 632(5) of the IDEA (20 U.S.C. § 1432(5)).</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Local education agency” or “LEA” means the District of Columbia Public Schools system or any individual or group of public charter schools operating under a single charter.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“OSSE” means the Office of the State Superintendent of Education, as established by Chapter 26 of this title [§ <cite path="§38-2601">38-2601</cite> et seq.].</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Parent” means a natural or adoptive parent of a child, a legal guardian, a person acting in the place of a parent, such as a grandparent or stepparent with whom the child lives, or a person who is legally responsible for the child’s welfare, or a surrogate parent who has been appointed in accordance with 34 C.F.R. §300.519. The term “parent” may also include a foster parent when the natural parent’s authority to make educational decisions on the child’s behalf has been extinguished under applicable law and the foster parent has an ongoing, long-term parental relationship with the child, is willing to make educational decisions for the child as required under IDEA, and has no interest that conflicts with the interest of the child.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Public agency” means either OSSE or a local education agency.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Service location” means the physical address at which instruction occurs or at which a student with disabilities receives special education and related services. The term “service location” does not refer to a specific classroom within a building or a specific building on a campus.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-194">Mar. 10, 2015, D.C. Law 20-194, §  102, 61 DCR 12411</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25C|I"/>
+    <num codify:value="38-2571.03">103</num>
+    <heading>Procedural safeguards; due process requirements.</heading>
+    <text>In addition to any procedural safeguards and due process requirements required by IDEA:</text>
+    <para>
+      <num>(1)</num>
+      <text>Before any change in service location for a child with a disability is made, the LEA shall provide the parent with written notice of the proposed change, which shall at minimum include:</text>
+      <para>
+        <num>(A)</num>
+        <text>A description of the action proposed by the LEA;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>An explanation of why the LEA proposes to take the action;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A description of each evaluation procedure, assessment, record, and report the agency used as a basis for the proposed action;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A statement that the parents of a child with a disability have protection under the procedural safeguards of IDEA and that describes the means by which a copy of the procedural safeguards can be obtained;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Sources for parents to contact to obtain assistance in understanding the provisions of IDEA;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>A description of other options that the LEA considered and the reasons why those options were rejected; and</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>A description of any other factors relevant to the LEA’s proposal.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Any notice provided to the parent of a child with a disability or the parent of an infant or toddler with a disability pursuant to section 625(c)(1) or 639(a)(6) of IDEA (respectively, 20 U.S.C. § 1439(a)(6) and 20 U.S. C. § 1415(c)(1)) or this chapter shall include a list of sources the parent may contact for assistance, including contact information for the:</text>
+      <para>
+        <num>(A)</num>
+        <text>Parent Training and Information Center established pursuant to section 671 of IDEA (20 U.S.C. § 1471);</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Office of the Ombudsman for Public Education; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Office of the Student Advocate.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>No fewer than 5 business days before a scheduled meeting where an IEP, IFSP, or eligibility for special education services will be discussed, the public agency scheduling the meeting shall provide parents with an accessible copy of any evaluation, assessment, report, data chart, or other document that will be discussed at the meeting; provided, that if a meeting is scheduled fewer than 5 business days before it is to occur, then these documents shall be provided no fewer than 24 hours before the meeting.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <para>
+        <num>(A)</num>
+        <text>No later than 5 business days after a meeting at which a new or amended IEP has been agreed upon, the public agency shall provide the parents with a copy of the IEP. If an IEP has not yet been completed by the 5th business day after the meeting or additional time is required to comply with subchapter II of Chapter 19 of Title 2 [§ <cite path="§2-1931">2-1931</cite> et seq.] (“Language Access Act”), the public agency shall provide the parent with the latest available draft IEP and a final copy upon its completion; provided, that the final copy of the IEP shall be provided to the parents no later than 15 business days after the meeting at which the IEP was agreed upon.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>No later than 5 business days after a meeting at which a new or amended IFSP has been agreed upon, the public agency shall provide the parents with a copy of the IFSP for their review and signature. If additional time is required to comply with the Language Access Act, the public agency shall provide the parent with a copy for parental review upon completion; provided, that the IFSP shall be provided to the parents for review no later than 15 business days after the meeting at which the IFSP was agreed upon.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <para>
+        <num>(A)</num>
+        <text>Upon request, an LEA shall provide timely access, either together or separately, to the following for observing a child’s current or proposed special educational program:</text>
+        <para>
+          <num>(i)</num>
+          <text>The parent of a child with a disability; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>A designee appointed by the parent of a child with a disability who has professional expertise in the area of special education being observed or is necessary to facilitate an observation for a parent with a disability or to provide language translation assistance to a parent; provided, that the designee is neither representing the parent’s child in litigation related to the provision of free and appropriate public education for that child nor has a financial interest in the outcome of such litigation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The time allowed for a parent, or the parent’s designee, to observe the child’s program shall be of sufficient duration to enable the parent or designee to evaluate a child’s performance in a current program or the ability of a proposed program to support the child.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A parent, or the parent’s designee, shall be allowed to view the child’s instruction in the setting where it ordinarily occurs or the setting where the child’s instruction will occur if the child attends the proposed program.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The LEA shall not impose any conditions or restrictions on such observations except those necessary to:</text>
+        <para>
+          <num>(i)</num>
+          <text>Ensure the safety of the children in a program;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Protect other children in the program from disclosure by an observer of confidential and personally identifiable information in the event such information is obtained in the course of an observation by a parent or a designee; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Avoid any potential disruption arising from multiple observations occurring in a classroom simultaneously.</text>
+        </para>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>An observer shall not disclose nor use any information obtained during the course of an observation for the purpose of seeking or engaging clients in litigation against the District or the LEA.</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>The LEA may require advance notice and may require the designation of a parent’s observer to be in writing.</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Each LEA shall make its observation policy publicly available.</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Nothing in this paragraph shall be construed to limit or restrict any observational rights established by IDEA or other applicable law.</text>
+      </para>
+    </para>
+    <para>
+      <num>(6)</num>
+      <para>
+        <num>(A)</num>
+        <text>In special education due process hearings occurring pursuant to IDEA (20 U.S.C. § 1415(f) and 20 U.S.C. § 1439(a)(1)), the party who filed for the due process hearing shall bear the burden of production and the burden of persuasion; except, that:</text>
+        <para>
+          <num>(i)</num>
+          <text>Where there is a dispute about the appropriateness of the child’s individual educational program or placement, or of the program or placement proposed by the public agency, the public agency shall hold the burden of persuasion on the appropriateness of the existing or proposed program or placement; provided, that the party requesting the due process hearing shall retain the burden of production and shall establish a prima facie case before the burden of persuasion falls on the public agency. The burden of persuasion shall be met by a preponderance of the evidence.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Where a party seeks tuition reimbursement for unilateral placement, the party seeking reimbursement shall bear the burden of production and the burden of persuasion on the appropriateness of the unilateral placement; provided, that the hearing officer shall have the authority to bifurcate a hearing regarding a unilateral placement; provided further, that if the hearing officer determines that the program offered by the public agency is appropriate, it is not necessary to inquire into the appropriateness of the unilateral placement.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>This paragraph shall apply to special education due process hearings resulting from complaints filed after July 1, 2016.</text>
+      </para>
+    </para>
+    <para>
+      <num>(7)</num>
+      <para>
+        <num>(A)</num>
+        <text>In any action or proceeding brought under Part B or Part C of IDEA, a court, in its discretion, may award reasonable expert witness fees as part of the costs to a prevailing party:</text>
+        <para>
+          <num>(i)</num>
+          <text>Who is the parent of a child with a disability;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>That is a local educational agency or OSSE, when the attorney of a parent files a complaint or subsequent cause of action that is frivolous, unreasonable, or without foundation, or against the attorney of a parent who continued to litigate after the litigation clearly became frivolous, unreasonable, or without foundation; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>That is a local educational agency or OSSE against the attorney of a parent, or against the parent, if the parent’s complaint or subsequent cause of action was presented for any improper purpose, such as to harass, to cause unnecessary delay, or to needlessly increase the cost of litigation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Any fees awarded under this paragraph shall be based on rates prevailing in the community in which the action or proceeding arose for the kind and quality of services furnished; provided, that the maximum award shall be $6,000 per action or proceeding. No bonus or multiplier may be used in calculating the fees awarded under this paragraph.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Expert witness fees otherwise available under this paragraph shall not be awarded if reimbursement of attorneys’ fees and related costs would be prohibited in the proceeding under 20 U.S.C. § 1415(i)(3)(D).</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Any expert witness fees available under this paragraph, shall be subject to reduction if the court makes a finding listed under 20 U.S.C. 1415(i)(3)(F).</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Expert witness fees otherwise available under this paragraph shall not be awarded to compensate the moving party for an independent educational evaluation unless that party would be entitled to compensation for the evaluation under IDEA.</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>This paragraph shall apply to actions and proceedings initiated after July 1, 2016.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-194">Mar. 10, 2015, D.C. Law 20-194, §  103, 61 DCR 12411</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25C|I"/>
+    <num codify:value="38-2571.04">104</num>
+    <heading>Transfer of rights.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A child with a disability who has reached 18 years of age shall be presumed to be competent, and all rights under IDEA shall transfer to the student, unless:</text>
+      <para>
+        <num>(1)</num>
+        <text>The student has been adjudged incompetent under law;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Pursuant to a procedure established by OSSE pursuant to 20 U.S.C. § 1415(m)(2), the student has been determined to not have the ability to provide informed consent and another competent adult has been appointed to represent the educational interests of that student; provided, that the adult student shall have the opportunity to challenge any determination made under this paragraph; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <para>
+          <num>(A)</num>
+          <text>The student has designated, in writing, by power of attorney or similar legal document, another competent adult to be the student’s agent to:</text>
+          <para>
+            <num>(i)</num>
+            <text>Make educational decisions;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Receive notices; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Participate in meetings and all other procedures related to the student’s educational program on behalf of the student.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The student may terminate the power of attorney at any time and assume the right to make decisions regarding his or her education.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>A student who has reached 18 years of age may receive support from another competent and willing adult to aid them in their decision-making.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The student’s decisional choice shall prevail any time that a disagreement exists between the student and the other adult providing support.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No less than one year before a child with a disability reaches 18 years of age, the LEA shall notify the parents, in writing, that adult students with disabilities are presumed competent, and that all rights under IDEA will transfer to the student when the student reaches 18 years of age, unless the student or the family exercises one of the options described in subsection (a) of this section. The notice shall also describe the necessary procedure to exercise any of the options provided for in subsections (a) and (b) of this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-194">Mar. 10, 2015, D.C. Law 20-194, §  104, 61 DCR 12411</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25C|II"/>
+    <num codify:value="38-2572.01">201</num>
+    <heading>Short title.</heading>
+    <text>This subchapter may be cited as the “Special Education Due Process Hearing Independence and Transparency Act of 2014”.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-194">Mar. 10, 2015, D.C. Law 20-194, § 201, 61 DCR 12411</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25C|II"/>
+    <num codify:value="38-2572.02">202</num>
+    <heading>Hearing officer selection.</heading>
+    <para>
+      <num>(a)</num>
+      <text>OSSE shall administer impartial due process hearings as required by IDEA (20 U.S.C. § 1415(f) and 20 U.S.C. § 1439(a)(1)) and may issue regulations necessary for this purpose.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In selecting hearing officers for administering special education due process hearings, OSSE shall submit potential candidates for review to a 7-member community review panel.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The members of the community review panel shall be appointed by OSSE and consist of the following:</text>
+        <para>
+          <num>(A)</num>
+          <text>One attorney knowledgeable in the field of special education who has experience representing parents and who is admitted to practice and in good standing in the District of Columbia;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>One attorney knowledgeable in the field of special education who has experience representing schools and who is admitted to practice and is in good standing in the District of Columbia;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>One educator knowledgeable in the field of special education and special education programming;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>One representative from a charter school LEA who is knowledgeable in the field of special education and special education programming;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>One representative from DCPS who is knowledgeable in the field of special education and special education programming; and</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Two parents of individuals who are or at one time were eligible to receive special education and related services in the District of Columbia.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No member of the community review panel may be an employee of OSSE.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Following its review of candidates for hearing officers, the community review panel shall forward its recommendations to the State Superintendent of Education.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-194">Mar. 10, 2015, D.C. Law 20-194, § 202, 61 DCR 12411</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25C|II"/>
+    <num codify:value="38-2572.03">203</num>
+    <heading>Evaluation and termination of hearing officers.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The State Superintendent of Education may establish a process for submitting the records of individual hearing officers to the community review panel for evaluation before exercising a contract option year.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The contract of a hearing officer may only be terminated for good cause and after the hearing officer has been given notice and an opportunity to be heard.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-194">Mar. 10, 2015, D.C. Law 20-194, § 203, 61 DCR 12411</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25C|II"/>
+    <num codify:value="38-2572.04">204</num>
+    <heading>Attorney abuses.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Subject to IDEA and other applicable law, the chief hearing officer in the office for administering special education due process hearings (“office”) may enter an order restricting the practice of any attorney before the office after a showing that the attorney has engaged in a pattern of filing frivolous pleadings.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A pattern of filing frivolous pleadings shall be established when an attorney has:</text>
+      <para>
+        <num>(1)</num>
+        <text>Three or more federal court judgments against him or her due to the filing of frivolous pleadings;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Three or more pleadings that are deemed by the chief hearing officer for the office as frivolous, unreasonable, or without foundation, including pleadings that were filed for an improper purpose, such as to harass, to cause unnecessary delay, or to needlessly increase the cost of litigation; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Filed a due process complaint without the knowledge and consent of the represented party.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The restrictions that may be imposed by the chief hearing officer of the office include:</text>
+      <para>
+        <num>(1)</num>
+        <text>Disqualification from a particular case;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Suspension or disqualification from practice in special education due process hearings in the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A requirement that an attorney obtain ethics or other professional training; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A requirement that an attorney appear only when accompanied by another attorney.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>An attorney subject to a restriction under subsection (c) of this this section shall be given notice and an opportunity to be heard before the imposition of the restriction or as soon after imposition of the restriction as is practicable.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Any person suffering a legal wrong or adversely affected or aggrieved by any order under this section may obtain judicial review of that order in the United States District Court for the District of Columbia.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-194">Mar. 10, 2015, D.C. Law 20-194, § 204, 61 DCR 12411</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25C|III"/>
+    <num codify:value="38-2573.01">301</num>
+    <heading>Rules.</heading>
+    <text>Pursuant to the authority granted in § <cite path="§38-2602">38-2602</cite>(b)(11), the State Superintendent of Education may issue rules to implement the provisions of this chapter; provided, that the State Superintendent of Education shall issue rules to implement § <cite path="§38-2571.04">38-2571.04</cite>(a) by July 1, 2016.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-194">Mar. 10, 2015, D.C. Law 20-194, §  301, 61 DCR 12411</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

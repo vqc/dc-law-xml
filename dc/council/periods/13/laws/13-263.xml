@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 13-263">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 13-263">
   <num type="law">13-263</num>
   <heading type="short">Protections from Predatory Lending and Mortgage Foreclosure Improvements Act of 2000</heading>
   <meta>
@@ -12,4 +12,2617 @@
       <narrative>Law 13-263, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Act of 2000”, was introduced in Council and assigned Bill No. 13-800, which was referred to the Committee on Economic Development. The Bill was adopted on first and second readings on November 8, 2000, and December 5, 2000, respectively. Signed by the Mayor on December 21, 2000, it was assigned Act No. 13-552 and transmitted to both Houses of Congress for its review. D.C. Law 13-263 became effective on April 3, 2001.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-831.01">101</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 101, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>Section 2 of the Protection from Predatory Lending and Mortgage Foreclosure Improvements Congressional Review Emergency Amendment Act of 2002 (D.C. Act 14-273, February 25, 2002,  49 DCR 1969), provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 602(a) of Law 14-132 provided: “The Protections from Predatory Lending and Mortgage Foreclosure Improvements Act of 2000, effective April 3, 2001 (<cite doc="D.C. Law 13-263">D.C. Law 13-263</cite>;  48 DCR 991), is repealed as of November 6, 2001.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§42-832.04" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.01">201</num>
+    <heading>General.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 201, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§42-832.04" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.02">202</num>
+    <heading>Creation; statement of monetary value; other obligations secured.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 202, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§42-832.04" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.03">203</num>
+    <heading>Lien instrument creates security interest only; negative covenant does not create a lien instrument.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 203, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.06">206</num>
+    <heading>Execution, acknowledgment and recordation of a lien instrument in the same manner as a deed.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 206, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.07">207</num>
+    <heading>Duty of Recorder of Deeds.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 207, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.08">208</num>
+    <heading>Assignment, transfer, enforcement and performance of deed of trust or mortgage.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 208, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.09">209</num>
+    <heading>Assignment or transfer of real property encumbered by lien instrument and liability of transferor and transferee to noteowner and each other.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 209, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.10">210</num>
+    <heading>Obligation to provide name and address of noteowner, interested persons in note, amounts due and status of lien instrument.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 210, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.11">211</num>
+    <heading>Decisions by multiple noteowners.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 211, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.12">212</num>
+    <heading>Independent trustee or assignee for foreclosure required for noteowner, beneficiary, mortgagee, or secured party to bid at a power of sale foreclosure.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 212, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.13">213</num>
+    <heading>Right to determine reasonable foreclosure sale terms and conditions if deed of trust or mortgage does not state them.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 213, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.14">214</num>
+    <heading>Deed-in-lieu of foreclosure or deed to noteowner’s designee; no effect on senior or subordinate interests.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 214, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.15">215</num>
+    <heading>Redemption from noteowner by performance or tender.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 215, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.16">216</num>
+    <heading>Prepayment of note secured by lien instrument.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 216, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.17">217</num>
+    <heading>Release of lien instrument after time period when no enforcement.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 217, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.18">218</num>
+    <heading>Authorized forms of release of lien instrument.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 218, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.19">219</num>
+    <heading>Noteowner’s obligation to provide release of lien instrument.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 219, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.20">220</num>
+    <heading>Effective date of noteowner’s receipt of payments.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 220, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.21">221</num>
+    <heading>When deed absolute, conditional sale, or contract for a deed will be considered a lien instrument.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 221, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.22">222</num>
+    <heading>Priority: effect of lien instrument priority on foreclosure; effect of lien instrument priority on unrecorded leases.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 222, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.23">223</num>
+    <heading>Priority: purchase money lien instruments.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 223, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.24">224</num>
+    <heading>Priority: replacement and modification of senior lien instruments; effect on intervening interests.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 224, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.25">225</num>
+    <heading>Priority: effect of priority on the disposition of foreclosure surplus.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 225, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.26">226</num>
+    <heading>Priority: lien on after-acquired real property.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 226, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.27">227</num>
+    <heading>Priority: subrogation.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 227, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.28">228</num>
+    <heading>Priority: subordination.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 228, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.29">229</num>
+    <heading>Priority: foreclosure of wrap-around lien instruments.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 229, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.30">230</num>
+    <heading>Future advances: general.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 230, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.31">231</num>
+    <heading>Future advances: expenditures for the protection of the real property encumbered by a lien instrument.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 231, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.32">232</num>
+    <heading>Future advances: lien instruments securing future advances for improvements to residential real property.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 232, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.33">233</num>
+    <heading>Simultaneous foreclosure of lien instrument and ancillary lien instrument.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 233, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-832.34">234</num>
+    <heading>Mortgaging rents.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 234, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-833.01">301</num>
+    <heading>Qualification of trustee or assignee for foreclosure.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 301, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-833.02">302</num>
+    <heading>Trustee or assignee for foreclosure holds security interest without automatic right of possession; survival of trustee’s or assignee’s for foreclosure security interest.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 302, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-833.03">303</num>
+    <heading>Noteowner’s or beneficiary’s or mortgagee’s right to substitute, add or remove trustees or assignees for foreclosure.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 303, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-833.04">304</num>
+    <heading>Trustee’s or assignee’s for foreclosure right to resign.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 304, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-833.05">305</num>
+    <heading>Trustee or assignee for foreclosure discretionary and ministerial acts.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 305, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-833.06">306</num>
+    <heading>Petition for certificate of satisfaction after death or unavailability or refusal to act of trustee or assignee for foreclosure; procedure; summary determination.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 306, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-833.07">307</num>
+    <heading>Standard of trustee’s or assignee’s for foreclosure conduct; indemnification of Trustee and assignee for foreclosure; Trustee or assignee for foreclosure bond requirements.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 307, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-833.08">308</num>
+    <heading>Trustee or assignee for foreclosure determines foreclosure process consistent with noteowner’s, beneficiary’s, mortgagee’s, or secured party’s written instructions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 308, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-833.09">309</num>
+    <heading>Trustee or assignee for foreclosure commission and compensation for foreclosure.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 309, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-834.01">401</num>
+    <heading>Sending of notices; notice of default required.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 401, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-834.02">402</num>
+    <heading>Notice of default required; no effect on late fees.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 402, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-834.03">403</num>
+    <heading>Minimum grace period for borrower and owner under residential lien instrument.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 403, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-834.04">404</num>
+    <heading>Notice of acceleration required; right of reinstatement until notice of acceleration sent or received; notice of commencement of foreclosure satisfies notice of acceleration.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 404, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-834.05">405</num>
+    <heading>Borrower’s and owner’s right to cure default and reinstate obligation secured by residential lien instrument prior to foreclosure sale auction 3 times in any 12 month period.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 405, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-834.06">406</num>
+    <heading>Certain subordinate interest holder’s right to cure and reinstate note secured by residential lien instrument prior to foreclosure sale auction once in any 12 month period.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 406, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-834.07">407</num>
+    <heading>Right to redeem after acceleration.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 407, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-835.01">501</num>
+    <heading>Accrual of right to foreclose.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 501, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-835.02">502</num>
+    <heading>Notice of commencement of foreclosure.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 502, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-835.03">503</num>
+    <heading>Minimum time period before foreclosure sale auction on residential lien instrument securing a home loan.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 503, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-835.04">504</num>
+    <heading>Noteowner cannot produce original note; form of lost note affidavit and indemnification to borrower, owner and mayor.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 504, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-835.05">505</num>
+    <heading>Noteowner’s remedies on the note and the lien instrument; credit on note or other obligation for foreclosed real property; limitation on time to seek deficiency judgment.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 505, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of section, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-835.06">506</num>
+    <heading>No waiver of protection laws.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 506, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-835.07">507</num>
+    <heading>Omitted parties; no right to object for persons who were properly sent notice.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 507, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-835.08">508</num>
+    <heading>Appointment of a receiver; effect on existing leases; priorities between competing receivers.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 508, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-835.09">509</num>
+    <heading>Waste.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 509, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-835.10">510</num>
+    <heading>Beneficiary’s, trustee’s, mortgagee’s, or assignee’s for foreclosure right to funds paid under casualty insurance or taking in eminent domain.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 510, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-835.11">511</num>
+    <heading>Effect of foreclosure on beneficiary’s, trustee’s, mortgagee’s, or assignee’s for foreclosure right to insurance and eminent domain proceeds.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 511, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-835.12">512</num>
+    <heading>Acquisition of foreclosure title by the owner or other subordinate interest holder.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 512, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-835.13">513</num>
+    <heading>Availability of documents for inspection in the District of Columbia.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 513, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|VI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-836.01">601</num>
+    <heading>Prohibited acts and practices.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 601, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|VI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-836.02">602</num>
+    <heading>Violations and remedies.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 602, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|VI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-836.03">603</num>
+    <heading>Foreclosure against home borrowers subjected to violations of 42-836.01.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 603, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|VI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-836.04">604</num>
+    <heading>Other prohibitions and remedies.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 604, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|VII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-837.01">701</num>
+    <heading>Request for judicial foreclosure of residential lien instrument</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 701, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|VII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-837.02">702</num>
+    <heading>Written demand for judicial foreclosure.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 702, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|VII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-837.03">703</num>
+    <heading>Required conditions during challenge.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 703, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|VII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-837.04">704</num>
+    <heading>Failure to continuously satisfy the required conditions during challenge.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 704, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|VII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-837.05">705</num>
+    <heading>Noteowner’s, beneficiary’s, mortgagee’s, and secured party’s options in response to request for judicial foreclosure.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 705, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|VII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-837.06">706</num>
+    <heading>Failure of trustee or assignee for foreclosure to pursue expedited hearing.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 706, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|VII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-837.07">707</num>
+    <heading>Diligent pursuit of expedited hearing.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 707, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|VIII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-838.01">801</num>
+    <heading>Request for expedited hearing.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 801, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|VIII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-838.02">802</num>
+    <heading>Determination at expedited hearing.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 802, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|IX"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-839.01">901</num>
+    <heading>Commencement of judicial foreclosure.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 901, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|IX"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-839.02">902</num>
+    <heading>Determinations by the court.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 902, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|IX"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-839.03">903</num>
+    <heading>No home loan or no violation of 42-836.01.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 903, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|X"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-840.01">1001</num>
+    <heading>Eligible publications for advertisement of foreclosure sale.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1001, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|X"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-840.02">1002</num>
+    <heading>Content of foreclosure sale advertisement.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1002, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|X"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-840.03">1003</num>
+    <heading>Required publication of foreclosure sale advertisement.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1003, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-841.01">1101</num>
+    <heading>Business day; time; place.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1101, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-841.02">1102</num>
+    <heading>Noteowner, beneficiary, mortgagee, or secured party right to bid; trustee or assignee for foreclosure may not bid; waiver of deposit.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1102, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-841.03">1103</num>
+    <heading>Adequacy of foreclosure sale price; noteowner’s, beneficiary’s, mortgagee’s, or secured party’s conditional agreements before foreclosure sale auction.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1103, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-841.04">1104</num>
+    <heading>Memorandum of foreclosure sale.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1104, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-841.05">1105</num>
+    <heading>Postponement or delay of foreclosure sale auction.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1105, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-841.06">1106</num>
+    <heading>Marshalling; order of foreclosure on multiple parcels.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1106, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-841.07">1107</num>
+    <heading>Merger doctrine inapplicable to lien instruments.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1107, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-841.08">1108</num>
+    <heading>Right to cancel foreclosure sale before completion.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1108, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-841.09">1109</num>
+    <heading>Right to cancel foreclosure sale before issuance of auditor’s approval of foreclosure sale procedure.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1109, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-841.10">1110</num>
+    <heading>Effect of completed foreclosure sale; no statutory redemption.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1110, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-841.11">1111</num>
+    <heading>Liability of accepted bidder to complete foreclosure sale acquisition.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1111, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-841.12">1112</num>
+    <heading>Accepted bidder’s right to possession of real property after foreclosure sale acquisition.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1112, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-842.01">1201</num>
+    <heading>Required deliveries to auditor.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1201, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-842.02">1202</num>
+    <heading>Time deadline for deliveries to auditor.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1202, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-842.03">1203</num>
+    <heading>Claims by subordinate interest holders.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1203, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-842.04">1204</num>
+    <heading>Distribution of foreclosure sale proceeds.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1204, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-842.05">1205</num>
+    <heading>Auditor’s reports on foreclosure procedures and distributions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1205, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-842.06">1206</num>
+    <heading>Recording of auditor’s report on foreclosure sale procedures; presumption of validity of foreclosure sale and limitation of actions; use of auditor’s report on the distribution of foreclosure sale proceeds and deficiency for deficiency judgment.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1206, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XIII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-843.01">1301</num>
+    <heading>Pre-conditions for conveyance of real property.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1301, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XIII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-843.02">1302</num>
+    <heading>Conveyance of real property and distribution of foreclosure sale proceeds.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1302, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XIII"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-843.03">1303</num>
+    <heading>Duties of purchaser at foreclosure sale.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1303, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XIV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-844.01">1401</num>
+    <heading>Determination of auctioneer’s fee.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1401, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XIV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-844.02">1402</num>
+    <heading>Determination of attorney’s fee.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1402, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XIV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-844.03">1403</num>
+    <heading>No waivers by borrowers or owners.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1403, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XIV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-844.04">1404</num>
+    <heading>Standard of conduct.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1404, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XIV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-844.05">1405</num>
+    <heading>Land installment contracts.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1405, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XIV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-844.06">1406</num>
+    <heading>Rulemaking authority.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1406, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-42">Oct. 26, 2001, D.C. Law 14-42, §  20(a), 48 DCR 7612</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 20(a) of Technical Amendments Emergency Act of 2001 (D.C. Act 14-108, August 3, 2001,  48 DCR 7622).</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority Pursuant to DC Law 13-263, The “Protections from Predatory Lending and Mortgage Foreclosure Improvements Act of 2000”, see Mayor’s Order 2001-91, June 22, 2001 ( 48 DCR 6010).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XIV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-844.07">1407</num>
+    <heading>FTE authority to implement this chapter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1407, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XIV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-844.08">1408</num>
+    <heading>Reporting to Council.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1408, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XIV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-844.09">1409</num>
+    <heading>Standards for approval of subprime loan programs.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1409, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XIV"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-844.10">1410</num>
+    <heading>Acceptance of mortgage or deed of trust by the Recorder of Deeds.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1410, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, §  602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|8A|XVI"/>
+    <reason>Repealed</reason>
+    <num codify:value="42-846.02">1602</num>
+    <heading>Applicability.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1602, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-42">Oct. 26, 2001, D.C. Law 14-42, § 20(b), 48 DCR 7612</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(a), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 20(b) of Technical Amendments Emergency Act of 2001 (D.C. Act 14-108, August 3, 2001,  48 DCR 7622).</annotation>
+        <annotation>For temporary (90 day) repeal of chapter, see § 403(a) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

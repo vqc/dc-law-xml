@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 15-87">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 15-87">
   <num type="law">15-87</num>
   <heading type="short">Certified Capital Companies Act of 2003</heading>
   <meta>
@@ -12,4 +12,790 @@
       <narrative>Law 15-87, the “Certified Capital Companies Act of 2003”, was introduced in Council and assigned Bill No. 15-20, which was referred to Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on July 8, 2003, and November 4, 2003, respectively. Signed by the Mayor on November 25, 2003, it was assigned Act No. 15-254 and transmitted to both Houses of Congress for its review. D.C. Law 15-87 became effective on March 10, 2004.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-5238.01" path="|31|52A"/>
+    <num codify:value="31-5231">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Affiliate” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>Any person, directly or indirectly, beneficially owning (whether through rights, options, convertible interests, or otherwise), controlling, or holding power to vote 15% or more of the outstanding voting securities or other voting ownership interests of the Certified Capital Company or Certified Investor;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Any person with 15% or more of its outstanding voting securities or other voting ownership interests directly or indirectly beneficially owned (whether through rights, options, convertible interests, or otherwise), controlled, or held with power to vote by the Certified Capital Company or Certified Investor;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Any person directly or indirectly controlling, controlled by, or under common control with the Certified Capital Company or Certified Investor;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A partnership or limited liability company in which the Certified Capital Company or Certified Investor is a general partner, manager, or managing member; or</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Any person who is an officer, director, employee, or agent of the Certified Capital Company or Certified Investor or an immediate family member of the officer, director, employee, or agent.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Allocation Date” means the date on which the Certified Investors of a Certified Capital Company are allocated Premium Tax Credits by the Commissioner under § <cite path="§31-5234">31-5234</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Certified Capital” means an investment of cash by a Certified Investor in a Certified Capital Company that fully funds the purchase price of an equity interest in the Certified Capital Company, a Qualified Debt Instrument, or a combination of the two.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Certified Capital Company” means a partnership, corporation, trust, or limited liability company, whether organized on a profit or not for profit basis, that has as its primary business activity the investment of cash in Qualified Businesses and that is certified by the Commissioner as meeting the criteria of this chapter.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Certified Investor” means any insurance company, approved by the Commissioner, that invests Certified Capital pursuant to an allocation of Premium Tax Credits under § <cite path="§31-5234">31-5234</cite>.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Commissioner” means the Commissioner of Insurance and Securities Regulation [Commissioner of the Department of Insurance, Securities, and Banking].</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“District” means the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“District Premium Tax Liability” means any liability incurred by an insurance company under § <cite path="§31-205">31-205</cite> or, in the case of a repeal or reduction by the District of the tax imposed by § <cite path="§31-205">31-205</cite>, any other tax liability incurred by an insurance company under District law.</text>
+    </para>
+    <para>
+      <num>(8A)</num>
+      <text>“Economic Impact Study” means an assessment of the performance of the Certified Capital Company program that includes:</text>
+      <para>
+        <num>(A)</num>
+        <text>Job growth and retention in Qualified Businesses after the receipt of Qualified Investments, with reference to the following measures:</text>
+        <para>
+          <num>(i)</num>
+          <text>Overall number of jobs created and retained;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Number of jobs created and retained in Tier One Qualified Businesses, Tier Two Qualified Businesses, and Tier Three Qualified Businesses; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>A description of whether the jobs are full-time salaried, full-time hourly, part-time, or contract;</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Estimates of the taxation revenue generated as the result of Qualified Investments, with specific reference to income tax, sales tax, and corporate tax; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Comparison of each of the measures set forth in subparagraphs (A) and (B) of this paragraph among all Certified Capital Companies.</text>
+      </para>
+    </para>
+    <para>
+      <num>(8B)</num>
+      <text>“Follow-on Investment” means any Qualified Investment that a Certified Capital Company makes in a Qualified Business that is subsequent to its Initial Investment in that Qualified Business.</text>
+    </para>
+    <para>
+      <num>(8C)</num>
+      <text>“Initial Investment” means the 1st Qualified Investment that a Certified Capital Company makes in a Qualified Business after May 27, 2010.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Person” means any natural person or entity, including a corporation, general or limited partnership, trust, or limited liability company.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Premium Tax Credit” means a tax credit which may be applied against a Certified Investor’s District Premium Tax Liability under § <cite path="§31-5233">31-5233</cite>.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Premium Tax Credit Allocation Request” means an application for allocation of Premium Tax Credits prepared and executed by a Certified Investor on a form provided by the Commissioner and filed by a Certified Capital Company with the Commissioner.</text>
+    </para>
+    <para>
+      <num>(11A)</num>
+      <text>“Principal Business Operations” means the location where a business conducts its primary business activities, its managers and the majority of its employees work, and its material books and records are maintained.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <para>
+        <num>(A)</num>
+        <text>“Qualified Business” means a business, except as provided in subparagraph (B) of this paragraph, that meets the following qualifications as of the time of a Certified Capital Company’s Initial Investment in the business:</text>
+        <para>
+          <num>(i)</num>
+          <para>
+            <num>(I)</num>
+            <text>It is headquartered in the District, its Principal Business Operations are located in the District, and the Qualified Investment it receives is used solely to support its business operations in the District, except for advertising, promotions, and sales purposes; or</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>It is headquartered and has its Principal Business Operations located outside the District, certifies in an affidavit that the business will relocate its headquarters and its Principal Business Operations to the District within 90 days after its receipt of the Initial Investment by the Certified Capital Company, and the Qualified Investment it receives is used solely to support its business operations in the District, except for advertising, promotions, and sales purposes;</text>
+          </para>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>At least 25% of its employees are residents of the District;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>At least 75% of its employees are employed in the District;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>It is a small business concern as defined in 13 C.F.R. § 121.201;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>It certifies in an affidavit that the business is unable to obtain conventional financing, which means that the business has failed in an attempt to obtain funding for a loan from a bank or other commercial lender or that the business cannot reasonably be expected to qualify for financing under the standards of commercial lending;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>The business was not organized by a Certified Capital Company or an affiliate of a Certified Capital Company; provided, that this sub-subparagraph shall not prohibit a Certified Capital Company from providing financial, technical, or similar advice to a business before making an investment in such business;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>The business does not have an ownership interest, investment interest, compensation agreement, or similar financial relationship with a Certified Capital Company or any affiliate of a Certified Capital Company before the date on which a Certified Capital Company makes an Initial Investment in the business; provided, that this sub-subparagraph shall not prohibit a Certified Capital Company from providing financial, technical or similar advice to a business before making an investment in such business.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A business shall not be a Qualified Business if it is:</text>
+        <para>
+          <num>(i)</num>
+          <text>A regional or national franchise;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Primarily engaged in real estate development or leasing projects;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Primarily engaged in insurance; or</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Engaged in the provision of professional services by accountants, lawyers, or physicians.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“Qualified Debt Instrument” means a debt instrument issued to a Certified Investor by a Certified Capital Company, at par value or a premium, with an original maturity date of at least 5 years from date of issuance and a repayment schedule which is no faster than a level principal amortization over 5 years, which does not permit the Certified Investor to receive prepayment of interest, and which contains no interest, distribution, or payment features which are related to the profitability of the issuing Certified Capital Company or the performance of its investment portfolio.</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>“Qualified Distribution” means any distribution or payment of a Certified Capital Company in connection with the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>Reasonable costs and expenses of forming and syndicating the Certified Capital Company, which may include the costs of financing and insuring the obligations of the Certified Capital Company; provided, that no more than one Certified Investor, or the Affiliates thereof, in the Certified Capital Company may receive a Qualified Distribution related to providing a guaranty, indemnity, bond, insurance policy, or other payment undertaking in favor of all of the Certified Investors;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Reasonable costs and expenses of managing and operating the Certified Capital Company, including reasonable and necessary fees paid for professional services (such as legal and accounting services) related to the formation and operation of the Certified Capital Company and an annual management fee in an amount that does not exceed 21/2% of the Certified Capital of the Certified Capital Company; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Any projected increase in federal or state taxes of the direct or indirect equity holders of a Certified Capital Company resulting from the earnings or other tax liability of the Certified Capital Company to the extent that the increase is related to the direct or indirect ownership of a Certified Capital Company.</text>
+      </para>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>“Qualified Investment” means the investment of cash by a Certified Capital Company in a Qualified Business for the purchase of any debt, debt participation, equity, or hybrid security, of any nature and description, including a debt instrument or security which has the characteristics of debt but which provides for conversion into equity or equity participation instruments, such as options or warrants; provided, that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Any such debt instrument shall have a maturity of at least 24 months from the date the debt is incurred; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A Certified Capital Company, after an investment and assuming the conversion and exercise of any equity participation or hybrid security, shall not own more than 49% of the voting equity of the Qualified Business.</text>
+      </para>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>“Tier One Qualified Business” means any Qualified Business:</text>
+      <para>
+        <num>(A)</num>
+        <text>That did not receive a Qualified Investment prior to May 27, 2010;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>That is engaged in one of the following lines of business as its primary line of business:</text>
+        <para>
+          <num>(i)</num>
+          <text>Healthcare services;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Information technology;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Environmental services/technology;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Internet information providers;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Communication services;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Biotechnology/research services;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>Multimedia/graphics software;</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>Business management services;</text>
+        </para>
+        <para>
+          <num>(ix)</num>
+          <text>Financial services; or</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>Restaurant services; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Whose Principal Business Operations are located within:</text>
+        <para>
+          <num>(i)</num>
+          <text>Repealed;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The District of Columbia Enterprise Zone as defined by section 1400 of the Internal Revenue Code of 1986, approved August 5, 1997 (111 Stat. 863; 26 U.S.C. §  1400).</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>“Tier Two Qualified Business” means any Qualified Business that did not receive a Qualified Investment prior to May 27, 2010, that is not a Tier One Qualified Business, and that is engaged in one of the lines of business set forth in paragraph (16)(B)(i) through (x) of this section as its primary line of business.</text>
+    </para>
+    <para>
+      <num>(18)</num>
+      <text>“Tier Three Qualified Business” means any Qualified Business that did not receive a Qualified Investment prior to May 27, 2010, and that is not a Tier One Qualified Business or a Tier Two Qualified Business.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-87">Mar. 10, 2004, D.C. Law 15-87, § 2, 50 DCR 10982</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 49(a), 52 DCR 2638</annotation>
+        <annotation doc="D.C. Law 18-181">May 27, 2010, D.C. Law 18-181, § 2(a), 57 DCR 3388</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 9017(c), 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-5232">31-5232</cite> and § <cite path="§31-5235">31-5235</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in par. (8), validated previously made technical corrections.</annotation>
+        <annotation><cite doc="D.C. Law 18-181">D.C. Law 18-181</cite> added pars. (8A), (8B), (8C), (11A), and (16) to (18); and rewrote pars. (12) and (15).</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> repealed (16)(C)(i).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see §§ 9017(c) and  9029 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 9017(c) of the  Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 9017(c) of the  Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 3 of <cite doc="D.C. Law 18-181">D.C. Law 18-181</cite> provided: “Sec. 3. Applicability. This act shall not apply to any Qualified Investment or distribution made by any Certified Capital Company prior to the effective date of this act.”</text>
+        <text>Section 9029 of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> provided that the amendment by § 9017(c) of the act shall apply as of September 30, 2014.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-5238.01" path="|31|52A"/>
+    <num codify:value="31-5232">3</num>
+    <heading>Certification.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commissioner shall begin accepting applications for certification as a Certified Capital Company not later than 150 days after March 10, 2004. An applicant for certification as a Certified Capital Company shall pay a nonrefundable application fee of $15,000 at the time of filing the application with the Commissioner. The Commissioner shall establish by rule or regulation the procedures for making an application for certification as a Certified Capital Company.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>From the time of the application to the time of allocation of Premium Tax Credits, the applicant shall have equity capitalization of at least $500,000 that must be in the form of unencumbered cash, marketable securities, or other liquid assets.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commissioner shall review the organizational documents of each applicant for certification and the business history of the applicant and shall determine whether the applicant’s cash, marketable securities, and other liquid assets meet the requirements of subsection (b) of this section. As part of its application, each applicant shall submit to the Commissioner its balance sheet, audited with an unqualified opinion of an independent certified public accountants, that is dated no earlier than 35 days prior to the date the application is filed under subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The applicant shall certify that the Certified Capital Company does or will, following certification, maintain its principal office within the District and shall commit to maintain a set of its books, records, files, and any other information required by the Commissioner as a condition of certification or as required by rule or regulation.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Commissioner shall verify that at least 2 principals of the Certified Capital Company or at least 2 persons employed or engaged to manage the funds of the Certified Capital Company each have 3 or more years of experience in the venture capital industry.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Any offering material involving the sale of securities of the Certified Capital Company shall include the following statement:</text>
+      <text>“By authorizing the formation of a Certified Capital Company, the District of Columbia does not necessarily endorse the quality of management or the potential for earnings of such company and is not liable for any damages or losses to any investor in the company. Use of the word ‘certified’ in any offering material does not constitute a recommendation or endorsement of the investment by the District of Columbia, its officers, employees, or agents. Upon a violation of the Certified Capital Companies Act of 2003 [Chapter 52A of Title 31 of the D.C. Official Code, § <cite path="§31-5231">31-5231</cite> et seq.], the District of Columbia may require forfeiture of unused Premium Tax Credits and repayment of used Premium Tax Credits.”</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Within 30 days of receipt of a complete application, the Commissioner shall issue the certification or shall provide the applicant with notice of the disapproval of the certification that shall communicate in detail to the applicant the grounds for the refusal, including suggestions for curing any defects in the application. If an applicant submits an amended application within 15 days of receipt of refusal by the Commissioner, the Commissioner shall have 15 days from the receipt of the complete amended application by which to communicate its approval or refusal of the amended application to the applicant. The Commissioner shall review and approve or reject applications in the order complete applications are received.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>No insurance company or any Affiliate of an insurance company shall, directly or indirectly, own (whether through rights, options, convertible interests, or otherwise) 15% or more of the voting equity interests, or other voting ownership interests of or manage a Certified Capital Company or control the direction of investments for a Certified Capital Company. This provision shall not preclude a Certified Investor, insurance company, or any other person from exercising its legal rights and remedies (which may include interim management of a Certified Capital Company): (1) if a Certified Capital Company is in default of its statutory obligations or its contractual obligations to the Certified Investor, insurance company, or other person; or (2) otherwise insure that the Certified Capital Company satisfies the requirements of § <cite path="§31-5235">31-5235</cite>. Nothing in this section shall limit an insurance company’s ownership of nonvoting equity securities or other nonvoting ownership interests of the Certified Capital Company.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-87">Mar. 10, 2004, D.C. Law 15-87, § 3, 50 DCR 10982</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-5234">31-5234</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-5238.01" path="|31|52A"/>
+    <num codify:value="31-5233">4</num>
+    <heading>Premium Tax Credit.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any Certified Investor who makes an investment of Certified Capital pursuant to an allocation of Premium Tax Credits under § <cite path="§31-5234">31-5234</cite> shall, in the year of investment, earn a Premium Tax Credit in the amount of the Certified Investor’s investment of Certified Capital.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A Certified Investor may claim an amount not to exceed 25% of the Premium Tax Credits per year (“Annual Amount”) against its District Premium Tax Liability, beginning with the premium tax filing for calendar year 2009. The Annual Amount shall not exceed the District Premium Tax Liability of the Certified Investor for the taxable year. All unused Premium Tax Credits may be carried forward indefinitely until they are utilized.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>A Certified Investor may use up to 1/2 of its Annual Amount to offset its required June 1st payment of 1/2 of an insurance company’s District Premium Tax Liability, as set forth under § <cite path="§31-205">31-205</cite>(b)(4), beginning with the June 1, 2008 payment.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Certified Investor claiming a Premium Tax Credit shall not be required to pay any additional or retaliatory tax levied pursuant to § <cite path="§31-205">31-205</cite>(f)(1) as a result of claiming the Premium Tax Credit.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A Certified Investor shall not be required to reduce the amount of premium tax included by the Certified Investor in connection with ratemaking in the District, for any insurance written by the Certified Investor or affiliate thereof, because of a reduction in the Certified Investor’s District Premium Tax Liability from the utilization of the Premium Tax Credits.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-87">Mar. 10, 2004, D.C. Law 15-87, § 4, 50 DCR 10982</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 49(b), 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-5231">31-5231</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in pars. (1) and (2) of subsec. (c), validated previously made technical corrections.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-5238.01" path="|31|52A"/>
+    <num codify:value="31-5234">5</num>
+    <heading>Aggregate limitations on Premium Tax Credits; Premium Tax Credit Allocation Requests.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The aggregate amount of Premium Tax Credits that shall be allowed for all Certified Investors under this chapter shall not exceed $50 million. No Certified Capital Company, on an aggregate basis with its Affiliates, shall file Premium Tax Credit Allocation Requests in excess of the maximum amount of Premium Tax Credits which may be allowed.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A Premium Tax Credit Allocation Request shall be made by a Certified Investor on a form provided by the Commissioner and filed with the Commissioner by a Certified Capital Company on behalf of the Certified Investor. The form shall include the affidavit of the Certified Investor pursuant to which the Certified Investor shall irrevocably commit to invest Certified Capital in the Certified Capital Company in the amount of the Premium Tax Credit allocated to it (even if the amount is less than the amount of the Premium Tax Credit Allocation Request). The maximum amount of Premium Tax Credit Allocation Requests which shall be allowed to be filed by any one Certified Investor, on an aggregate basis with its Affiliates, in one or more Certified Capital Companies, shall not exceed the greater of $10 million or 15% of the aggregate limitation as provided in subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Premium Tax Credits shall be allocated to Certified Investors in Certified Capital Companies in the order that Premium Tax Credit Allocation Requests are filed with the Commissioner by the Certified Capital Companies on their behalf. The Premium Tax Credit Allocation Requests may be filed on or after March 10, 2004, and the filings made before such date shall be considered to have been received by the Commissioner on such date. All filings made on the same day shall be treated as having been made contemporaneously. The deadline for submitting Premium Tax Credit Allocation Requests shall be the first business day which occurs 90 days after the date on which the Commissioner will begin accepting applications for certification as a Certified Capital Company pursuant to § <cite path="§31-5232">31-5232</cite>.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>If 2 or more Certified Capital Companies file Premium Tax Credit Allocation Requests with the Commissioner on behalf of their respective Certified Investors on the same day, and the amount of the Premium Tax Credit Allocation Requests exceeds in the aggregate the limit of available Premium Tax Credits under subsection (a) of this section, Premium Tax Credits shall be allocated among the Certified Investors on a pro rata basis. The pro rata allocation for any one Certified Investor shall be the product of a fraction, the numerator of which is the amount in the Premium Tax Credit Allocation Request filed on behalf of the Certified Investor and the denominator of which is the total of the amounts in all Premium Tax Credit Allocation Requests filed on behalf of all Certified Investors, multiplied by the aggregate limitation as provided in subsection (a) of this section.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No allocation shall be made to the Certified Investors of a Certified Capital Company unless the Certified Capital Company has filed Premium Tax Credit Allocation Requests that are not less than 15% of the Premium Tax Credits available under subsection (a) of this section; provided, that if the allocation process does not result in all Premium Tax Credit Allocation Requests having been filled, the 15% minimum shall be reduced to 10% and then 5% until the aggregate of Premium Tax Credits provided in subsection (a) of this section have been allocated or all Premium Tax Credit Allocation Requests have been filled.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Within 5 business days after the Commissioner receives a Premium Tax Credit Allocation Request filed by a Certified Capital Company, the Commissioner shall notify the Certified Capital Company of the amount of Premium Tax Credits allocated to each of the Certified Investors in the Certified Capital Company.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>At the time of receipt of Certified Capital from Certified Investors, the total cash, cash equivalents, or other assets readily available to the Certified Capital Company to make Certified Investments after deducting the costs and expenses of forming and syndicating the Certified Capital Company shall be an amount equal to or greater than 50% of the total Premium Tax Credit allocated to the Certified Investors under subsection (e) of this section.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>If a Certified Capital Company does not receive from a Certified Investor an investment of Certified Capital equaling or exceeding the amount of Premium Tax Credits allocated to the Certified Investor within 5 business days of the Certified Capital Company’s receipt of notice of the allocation, the Premium Tax Credits allocated to the Certified Investor shall be forfeited, and the Commissioner, within 5 business days, shall reallocate the Premium Tax Credits among the other Certified Investors in all Certified Capital Companies on a pro rata basis with respect to the Premium Tax Credit Allocation Requests filed.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-87">Mar. 10, 2004, D.C. Law 15-87, § 5, 50 DCR 10982</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-5231">31-5231</cite> and § <cite path="§31-5233">31-5233</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-5238.01" path="|31|52A"/>
+    <num codify:value="31-5235">6</num>
+    <heading>Requirements for continuance of certification.</heading>
+    <para>
+      <num>(a)</num>
+      <text>To continue to be certified, a Certified Capital Company shall make Qualified Investments according to the following schedule:</text>
+      <para>
+        <num>(1)</num>
+        <text>Within the period ending 30 months after its Allocation Date, a Certified Capital Company shall have made Qualified Investments cumulatively equal to 20% of its Certified Capital;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Within the period ending 4 years after its Allocation Date, a Certified Capital Company shall have made Qualified Investments cumulatively equal to 40% of its Certified Capital;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Within the period ending 5 years after its Allocation Date, a Certified Capital Company shall have made Qualified Investments cumulatively equal to 50% of its Certified Capital; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Within the period ending 10 years after its Allocation Date, a Certified Capital Company shall have made Qualified Investments cumulatively equal to 100% of its Certified Capital.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The aggregate cumulative amount of all Qualified Investments made by the Certified Capital Company following its Allocation Date shall be considered in the calculation of the percentage requirements under this chapter. Any proceeds received from a Qualified Investment may be invested in another Qualified Investment and shall count toward any requirement in this chapter with respect to investments of Certified Capital.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the purposes of satisfying the percentage requirements of subsection (a) of this section only, for each Qualified Investment made after May 27, 2010, a Certified Capital Company that invests in a:</text>
+        <para>
+          <num>(A)</num>
+          <text>Tier One Qualified Business shall be deemed to have invested $1.25 for every dollar invested;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Tier Two Qualified Business shall be deemed to have invested $1.00 for every dollar invested;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Tier Three Qualified Business shall be deemed to have invested $0.75 for every dollar invested;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Qualified Business that receives an Initial Investment pursuant to a waiver granted in accordance with § <cite path="§31-5238.03">31-5238.03</cite> and that fails to satisfy the eligibility criteria to receive an Initial Investment within 6 months of the date of issuance of the waiver shall be deemed to have invested $0 for every dollar invested;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Qualified Business that received a Qualified Investment prior to May 27, 2010, and receives a subsequent Qualified Investment after May 27, 2010, shall be deemed to have invested $1.00 for every dollar invested; and</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Qualified Business that receives an Initial Investment or a Follow-on Investment and that fails to maintain satisfaction of the eligibility criteria to receive an Initial or a Follow-on Investment, as applicable, for 6 consecutive months after the date of the Initial or Follow-On Investment shall be deemed to have invested $0 for every dollar invested.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Notwithstanding any other provision in this chapter, any Qualified Business that has received an Initial Investment may receive a Follow-on Investment if it:</text>
+      <para>
+        <num>(1)</num>
+        <text>Continues to meet the definition of a Qualified Business other than the requirements set forth in § <cite path="§31-5231">31-5231</cite>(12)(A)(iv) and (v); and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Certifies in an affidavit that it intends to maintain its headquarters and Principal Business Operations in the District.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>No Qualified Investment shall exceed 15% of the total Certified Capital of the Certified Capital Company at the time of investment.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A Certified Capital Company, at least 20 business days prior to making an Initial Investment or Follow-on Investment in a business, shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Certify in an affidavit that the business in which it proposes to invest:</text>
+        <para>
+          <num>(A)</num>
+          <text>In the case of an Initial Investment, is a Qualified Business; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>In the case of a Follow-on Investment, is eligible for a Follow-on Investment pursuant to subsection (c) of this section; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Submit, along with the certification required by paragraph (1) of this subsection, an explanation of its determination that the business is eligible for an Initial Investment or Follow-on Investment.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e-1)</num>
+      <text>If, after receiving the affidavit and certification under subsection (e) of this section, the Commissioner determines that a business is not eligible for an Initial Investment or a Follow-on Investment, the Commissioner shall, within 20 days of receiving the affidavit and certification, notify the Certified Capital Company of the determination and provide an explanation.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>All Certified Capital not placed in Qualified Investments by the Certified Capital Company may be held or invested in a manner that the Certified Capital Company, in its discretion, considers appropriate; provided, that the Certified Capital Company shall not invest more than 5% of its Certified Capital in any security or policy issued by a Certified Investor or an Affiliate of a Certified Investor or any account maintained by a Certified Investor or Affiliate of any Certified Investor, unless the Certified Investor or an Affiliate thereof is providing a guaranty, indemnity, bond, insurance policy, or other payment undertaking in favor of the Certified Investors, which security or policy is:</text>
+      <para>
+        <num>(1)</num>
+        <para>
+          <num>(A)</num>
+          <text>Rated “AA” or better by Standard &amp; Poor’s Ratings Group or the equivalent by another nationally-recognized rating agency; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Issued by, or guaranteed with respect to payment by, an entity whose unsecured indebtedness is rated at least “AA” or its equivalent by a nationally recognized credit rating organization; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Not subordinated to other unsecured indebtedness of the issuer or the guarantor, as the case may be.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Each Certified Capital Company shall report to the Commissioner as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Within 5 business days after the receipt of Certified Capital, each Certified Capital Company shall report the following to the Commissioner:</text>
+        <para>
+          <num>(A)</num>
+          <text>The name of each Certified Investor from which the Certified Capital was received, including the Certified Investor’s insurance premium tax identification number;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The amount of each Certified Investor’s investment of Certified Capital and Premium Tax Credits; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The date on which the Certified Capital was received.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>On or before January 31st of each year, each Certified Capital Company shall report the following to the Commissioner:</text>
+        <para>
+          <num>(A)</num>
+          <text>The amount of the Certified Capital Company’s Certified Capital at the end of the immediately preceding year;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Whether or not the Certified Capital Company has invested more than 15% of its total Certified Capital in any one business; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <para>
+            <num>(i)</num>
+            <text>All Qualified Investments that the Certified Capital Company made during the previous calendar year, including the number of employees of each Qualified Business in which it has made investments at the time of such investment and as of December 1st of the preceding calendar year; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>For any Qualified Business in which the Certified Capital Company no longer has an investment, the Certified Capital Company shall provide employment figures for the Qualified Business at the time of such investment and as of the last day before the investment was terminated.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Each Certified Capital Company shall provide to the Commissioner annual audited financial statements, which shall include the opinion of an independent certified public accountant, within 120 days after the end of the fiscal year. In addition, each Certified Capital Company shall provide an agreed-upon procedures report by their independent certified public accountant that shall address the methods of operation and conduct of the business of the Certified Capital Company to determine if the Certified Capital Company is complying with this chapter and the rules and regulations hereunder and that the Certified Capital has been invested as required within the time limits under subsection (a) of this section.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>On or before January 31st of each year, each Certified Capital Company shall pay an annual, nonrefundable certification fee of $10,000 to the Commissioner; provided, that no fee shall be required within 6 months of the initial Allocation Date.</text>
+      </para>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>After May 27, 2010, if a Certified Capital Company makes a Qualified Investment in a business that relocates its Principal Business Operations outside the District prior to the termination of the Qualified Investment or within 6 months after the termination of the Qualified Investment, the cumulative Qualified Investments that the Certified Capital Company will be deemed to have made for the purposes of § <cite path="§31-5236">31-5236</cite> will be reduced by the amount of the Qualified Investment in the business that relocated its Principal Business Operations outside the District, unless the business demonstrates that it has returned its Principal Business Operations to the District within 3 months of the relocation.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-87">Mar. 10, 2004, D.C. Law 15-87, § 6, 50 DCR 10982</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 49(c), 52 DCR 2638</annotation>
+        <annotation doc="D.C. Law 18-181">May 27, 2010, D.C. Law 18-181, § 2(b), 57 DCR 3388</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-5232">31-5232</cite>, § <cite path="§31-5236">31-5236</cite>, and § <cite path="§31-5237">31-5237</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in par. (3) of subsec. (g), validated previously made technical corrections.</annotation>
+        <annotation><cite doc="D.C. Law 18-181">D.C. Law 18-181</cite>, in subsec. (a), deleted “; and” from the end of par. (2), substituted “; and” for a period at the end of par. (3), and added par. (4); rewrote subsecs. (b), (c), (e), and (g)(2)(C); and added subsecs. (e-1) and (h).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-5238.01" path="|31|52A"/>
+    <num codify:value="31-5236">7</num>
+    <heading>One hundred percent investment requirement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A Certified Capital Company may make Qualified Distributions at any time. To make a distribution, other than a Qualified Distribution, a Certified Capital Company shall have made Qualified Investments in an amount cumulatively equal to 100% of its Certified Capital. A Certified Capital Company may repay principal and interest on its indebtedness without any restriction, including repayments of indebtedness of the Certified Capital Company on which Certified Investors earned Premium Tax Credits.</text>
+    </para>
+    <para>
+      <num>(a-1)</num>
+      <text>Notwithstanding any other provision in this chapter, if, pursuant to § <cite path="§31-5235">31-5235</cite>(a)(4), a Certified Capital Company has not made Qualified Investments cumulatively equal to 100% of its Certified Capital within 10 years after its Allocation Date, the Certified Capital Company shall be prohibited from using its Certified Capital to pay its management fees.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>When distributions to holders of equity interests of a Certified Capital Company cumulatively exceed the Certified Capital Company’s original Certified Capital plus any additional capital contributions to the Certified Capital Company (the “Certified Capital Company Capital”), the Certified Capital Company shall report to the Commissioner at the time of the distribution whether the aggregate total of such distributions, when combined with the annual Premium Tax Credits allocated to the Certified Capital Company’s Certified Investors under this chapter to that time, have resulted in an annual internal rate of return exceeding 15% on the Certified Capital Company Capital.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the Certified Capital Company’s annual internal rate of return, determined in accordance with paragraph (1) of this subsection, exceeds 15%, the Certified Capital Company shall at the time of the distribution pay to the Commissioner an amount equal to 15% of the amount above that required to produce the 15% return.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-87">Mar. 10, 2004, D.C. Law 15-87, § 7, 50 DCR 10982</annotation>
+        <annotation doc="D.C. Law 18-181">May 27, 2010, D.C. Law 18-181, § 2(c), 57 DCR 3388</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-5235">31-5235</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-181">D.C. Law 18-181</cite> added subsec. (a-1).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-5238.01" path="|31|52A"/>
+    <num codify:value="31-5237">8</num>
+    <heading>Decertification.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commissioner shall conduct an annual review of each Certified Capital Company to determine if the Certified Capital Company is complying with the requirements of certification, to advise the Certified Capital Company as to the eligibility status of its Qualified Investments, and to ensure that no investment has been made in violation of this chapter. The cost of the annual review shall be paid by each Certified Capital Company under a fee schedule adopted by the Commissioner.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any material violation of this chapter shall be grounds for decertification of the Certified Capital Company. If the Commissioner determines that a Certified Capital Company is not in compliance with the requirements of this chapter, the Commissioner shall, by written notice, inform the officers of the Certified Capital Company that the Certified Capital Company is subject to decertification in 120 days from the date of mailing of the notice unless the deficiencies are corrected.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If the Certified Capital Company is not in compliance with this chapter at the end of the 120-day notice period, the Commissioner may send a notice of decertification to the Certified Capital Company and to all other appropriate District agencies.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Decertification of a Certified Capital Company may cause the recapture of Premium Tax Credits previously claimed and the forfeiture of future Premium Tax Credits to be claimed by Certified Investors with respect to the Certified Capital Company, as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Decertification of a Certified Capital Company within 3 years of the Allocation Date shall cause the recapture of all Premium Tax Credits previously claimed and the forfeiture of all future Premium Tax Credits to be claimed by Certified Investors unless the Certified Capital Company has met the requirements for continued certification as provided in this subsection.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a Certified Capital Company has met all requirements for continued certification under § <cite path="§31-5235">31-5235</cite>(a)(1) and subsequently fails to meet the requirements for continued certification under the provisions of § <cite path="§31-5235">31-5235</cite>(a)(2), the Premium Tax Credits which have been or could be taken, subject to the other provisions of this chapter, by Certified Investors within 3 years from the Allocation Date shall not be subject to recapture or forfeiture; provided, that all other Premium Tax Credits shall be subject to recapture or forfeiture.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a Certified Capital Company has met all requirements for continued certification under § <cite path="§31-5235">31-5235</cite>(a)(1) and (2) and is subsequently decertified, the Premium Tax Credits which have been or could be taken, subject to the other provisions of this chapter, by Certified Investors within 4 years from the Allocation Date shall not be subject to recapture or forfeiture; provided, that all other Premium Tax Credits shall be subject to recapture or forfeiture.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If a Certified Capital Company has met all requirements for continued certification under § <cite path="§31-5235">31-5235</cite>(a)(1), (2), and (3) and is subsequently decertified, those Premium Tax Credits which have been or could be claimed, subject to the other provisions of this chapter, by Certified Investors within 5 years from the Allocation Date shall not be subject to recapture or forfeiture. The Premium Tax Credits to be claimed subsequent to the 5th anniversary of the Allocation Date shall be subject to forfeiture only if the Certified Capital Company is decertified within 5 years from the Allocation Date.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>If a Certified Capital Company has invested an amount cumulatively equal to 100% of its Certified Capital in Qualified Investments, notwithstanding any other provision of this chapter, all Premium Tax Credits shall not be subject to recapture or forfeiture.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>If a Certified Capital Company has invested an amount cumulatively equal to 100% of its Certified Capital in Qualified Investments, notwithstanding any other provision of this chapter, the Certified Capital Company shall not be subject to regulation by the Commissioner.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Commissioner shall send written notice to each Certified Investor whose Premium Tax Credits have been subject to recapture or forfeiture at the address last shown on the last premium tax filing.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Repealed.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-87">Mar. 10, 2004, D.C. Law 15-87, § 8, 50 DCR 10982</annotation>
+        <annotation doc="D.C. Law 18-181">May 27, 2010, D.C. Law 18-181, § 2(d), 57 DCR 3388</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-5238">31-5238</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-181">D.C. Law 18-181</cite>, in subsecs. (a) and (b), substituted “this chapter” for “§ <cite path="§31-5235">31-5235</cite>”; and repealed subsec. (g), which had read as follows: “(g) The Commissioner may waive, pursuant to rules established pursuant to § <cite path="§31-5239">31-5239</cite>, any recapture or forfeiture of credits if, after considering all facts and circumstances, he or she determines that the waiver will have the effect of furthering the District’s economic development.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-5238.01" path="|31|52A"/>
+    <num codify:value="31-5238">9</num>
+    <heading>Transferability.</heading>
+    <text>The Premium Tax Credits may be transferred or sold. The Commissioner shall promulgate regulations to facilitate the transfer or sale of Premium Tax Credits. Any the transfer or sale shall not affect the time schedule for claiming the Premium Tax Credits. Any Premium Tax Credits recaptured under § <cite path="§31-5237">31-5237</cite> shall be the liability of the Certified Investor that actually claimed the Premium Tax Credits.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-87">Mar. 10, 2004, D.C. Law 15-87, § 9, 50 DCR 10982</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|52A"/>
+    <num codify:value="31-5238.03">9b</num>
+    <heading>Waivers and disqualifications.</heading>
+    <text>The Commissioner may grant a business a 6-month waiver from any of the eligibility criteria to receive an Initial Investment if the Commissioner finds that the business will meet the eligibility criteria to receive an Initial Investment within 6 months of the date of issuance of the waiver. The waiver shall expire 6 months after it is issued and a business shall not receive an additional waiver pursuant to this section. Upon satisfaction of all eligibility criteria within the 6-month period, the business shall promptly provide the Commissioner with an affidavit stating that the business has satisfied the eligibility criteria to receive an Initial Investment and shall provide any supporting documents requested by the Commissioner.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-87">Mar. 10, 2004, D.C. Law 15-87, § 9b</annotation>
+        <annotation doc="D.C. Law 18-181">as added May 27, 2010, D.C. Law 18-181, § 2(e), 57 DCR 3388</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-5235">31-5235</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|52A"/>
+    <num codify:value="31-5239">10</num>
+    <heading>Rulemaking.</heading>
+    <text>The Commissioner shall issue rules and regulations to implement this chapter within 120 days of March 10, 2004.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-87">Mar. 10, 2004, D.C. Law 15-87, § 10, 50 DCR 10982</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

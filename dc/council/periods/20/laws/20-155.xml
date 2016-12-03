@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 20-155">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 20-155">
   <num type="law">20-155</num>
   <heading type="short">Fiscal Year 2015 Budget Support Act of 2014</heading>
   <meta>
@@ -12,4 +12,1847 @@
       <narrative>Law 20-155, the “Fiscal Year 2015 Budget Support Act of 2014,” was introduced in Council and assigned Bill No. 20-750. The Bill was adopted on first and second readings on May 28, 2014, and June 24, 2014, respectively. Returned without the Mayor’s signature on Sept. 19, 2014, it was assigned Act No. 20-424 and transmitted to Congress for its review. D.C. Law 20-155 became effective on Feb. 26, 2015.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|7A"/>
+    <num codify:value="3-731">1072</num>
+    <heading>Commission on Fathers, Men, and Boys.</heading>
+    <text>The Commission on Fathers, Men, and Boys (“Commission”) is established to advise the Mayor, the Council, and the public on issues and needs of fathers, men, and boys in the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 1072, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of chapter, see §§  10<cite path="§72-1074">72-1074</cite> of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of chapter, see §§  10<cite path="§72-1074">72-1074</cite> of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of chapter, see §§  10<cite path="§72-1074">72-1074</cite> of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|7A"/>
+    <num codify:value="3-732">1073</num>
+    <heading>Commission members; qualifications; terms of office; removal.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission shall consist of 12 members nominated by the Mayor and subject to the consent of the Council in accordance with § <cite path="§1-523.01">1-523.01</cite>(f). The makeup of the Commission shall reflect the demographics of the District and shall include prominent business and community leaders and individuals certified in fatherhood training or having documented experience working directly with issues of particular interest and concern to fathers, men, and boys.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Members of the Commission shall be residents of the District.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Members shall be appointed to serve terms of 4 years and shall serve until their successors are appointed. A member of the Commission may be reappointed but may serve no more than 2 consecutive terms.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Whenever a vacancy occurs on the Commission, the Mayor shall, within 90 business days of the vacancy, appoint a successor to fill the unexpired portion of the term.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Mayor shall designate, from among the members appointed, the Chairman, who shall serve in that capacity at the pleasure of the Mayor.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>All members of the Commission shall serve without compensation except that expenses incurred by the Commission as a whole, or by a group of its members, shall become an obligation against appropriated District funds designated for that purpose.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Mayor may remove, after notice and hearing, any member of the Commission for neglect of duty, incompetence, misconduct, or malfeasance in office.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 1073, 61 DCR 9990</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|7A"/>
+    <num codify:value="3-733">1074</num>
+    <heading>Duties of the Commission.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Serve as an advocate for fathers, men, and boys residing in the District by advising and making recommendations to the Mayor and the Council concerning the needs of District residents related to or concerning fathers, men, and boys;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Research, review, maintain, and disseminate empirical data, statistics, and facts concerning or attributable to fatherhood and family social economic issues;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Stimulate and encourage the dialogue of responsible fatherhood and spur community initiatives to combat fatherlessness;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Prepare and recommend to the Mayor and the Council an annual plan of programs and services focused on issues directly related to fathers, men, and boys;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Work with District agencies, the private sector, and local communities to promote a healthier societal impact on fathers, men, and boys; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Nominate special advisors to serve and provide technical and expert advice on specific and particular matters relevant to the functions of the Commission.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission shall devise policies and procedures that will effectively address the social economic concerns of fathers, men, and boys, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Employment;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Poverty;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Fatherlessness and responsible fatherhood;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Family law;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Health and well-being; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Rehabilitation and reintegration.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commission may apply for and receive grants to fund programs and initiatives in accordance with procedures relating to grants management, District government statutes, regulations, Mayor’s Orders, and procedures as specified by the Office of the Chief Financial Officer, the Office of Partnerships and Grant Services, and the Office of Contracting and Procurement and to recommend to the Mayor and Council applications for federal grants-in-aid for fatherhood, children, and family initiatives.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Commission may accept private gifts and donations to carry out the purposes of this chapter in compliance with the procedures and requirements of the Office of Partnerships and Grant Services.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 1074, 61 DCR 9990</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|2B"/>
+    <num codify:value="38-281">4072</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Child and Adult Care Food Program” or “CACF Program” means the program authorized by section 17 of the National School Lunch Act, approved October 7, 1975 (89 Stat. 522; 42 U.S.C. § 1766).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Child development facility” means a licensed community-based center, home, or other structure, regardless of its name, that provides care, supervision, guidance, and other services for infants, toddlers, and preschoolers on a regular basis. The term “child development facility” does not include a child development center or program that is sponsored or run by a public or private school.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Eligible child” means a child who is a District resident who occupies a slot funded in whole or in part by the childcare subsidy program, authorized by § <cite path="§4-402">4-402</cite>, subchapter I of Chapter 29 of this title [§ <cite path="§38-2901">38-2901</cite> et seq.], or the District of Columbia Public Schools’ Head Start program.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Farm-to-preschool programs” means programs at child development facilities that connect early care and education settings to local food producers, as an extension of the farm-to-school model, which connect children to local foods through meals and snacks, taste tests, lessons, farmer visits, cooking, field trips, growing food, and community and parent engagement.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Infant” means a child younger than 12 months of age.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Locally grown” shall have the same meaning as provided in § <cite path="§38-821.01">38-821.01</cite>(3).</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“OSSE” means the Office of the State Superintendent of Education, established by § <cite path="§38-2601">38-2601</cite>.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Preschool” or “preschooler” means a child older than 24 months of age but younger than compulsory school attendance age, who is not enrolled in a public, charter, or private school.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Sustainable agriculture” shall have the same meaning as provided in § <cite path="§38-821.01">38-821.01</cite>(9).</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Toddler” means a child between 12 months of age and 24 months of age.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Unprocessed” shall have the same meaning as provided in § <cite path="§38-821.01">38-821.01</cite>(10).</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“WIC” means the Special Supplemental Nutrition Program for Women, Infants, and Children, as provided in section 17 of the Child Nutrition Act of 1966, approved September 26, 1972 (86 Stat. 729; 42 U.S.C. § 1786).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  4072, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this chapter, see §§  40<cite path="§72-4075">72-4075</cite> of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this chapter, see §§  40<cite path="§72-4075">72-4075</cite> of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this chapter, see §§  40<cite path="§72-4075">72-4075</cite> of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+        <annotation>For temporary (90 days) addition of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 4077, an applicability clause, see § 7016(f)(3) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|2B"/>
+    <num codify:value="38-282">4073</num>
+    <heading>Healthy Tots Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the Healthy Tots Fund (“Fund”), which shall be administered by OSSE in accordance with this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Fund shall be funded by annual appropriations, which shall be deposited into the Fund. The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>OSSE shall make funds from the Fund available for the following purposes:</text>
+      <para>
+        <num>(1)</num>
+        <text>To provide additional funding for healthy meals served by child development facilities participating in the CACF Program by reimbursing the child development facility for each meal that meets the rules issued pursuant to this chapter as follows:</text>
+        <para>
+          <num>(A)</num>
+          <text>For meals eligible for reimbursement through the CACF Program served to an eligible child:</text>
+          <para>
+            <num>(i)</num>
+            <text>Ten cents for each breakfast;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Ten cents for each lunch; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Ten cents for each supper;</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>For breakfasts served to any child attending the child development facility but not eligible for reimbursement through the CACF Program because child development facilities have maximized the number of allowable reimbursable meals, an amount of local funding equal to the free federal rate as established under the CACF Program; provided, that the breakfasts meet the rules issued pursuant to this chapter; provided further, that at least 75% of the children attending the child development facility are District residents and at least 50% are eligible to receive free or reduced meals.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>To provide additional funding to child development facilities participating in the Child and Adult Care Food Program that use local foods by reimbursing the child development facility an additional $0.05 per lunch or supper that meets the rules issued pursuant to this chapter served to eligible children and at least one component of a meal is comprised entirely of locally grown and unprocessed foods; provided, that the child development facility reports to OSSE the name and address of the local farms where the foods were grown.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>For the purposes of this paragraph, the term “locally grown and unprocessed foods” shall not include milk.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To provide funding to child development facilities that have partnerships with the Office of the State Superintendent of Education and that follow Early Headstart Standards as defined by 45 C.F.R. § 1304 and that provide comprehensive services, including health, mental health, nutrition, and family services; provided, that the funds shall be used for recruitment into or administration of the Child and Adult Care Food Program, including meal planning and nutrition education to children and their families.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>In addition to the requirements set forth in subsection (c) of this section, and subject to available funding, OSSE shall make funds from the Fund available:</text>
+      <para>
+        <num>(1)</num>
+        <text>To make competitive grants available to child development facilities participating in the Child and Adult Care Food Program to support physical activity, nutrition, gardens, natural play areas, and farm-to-preschool programs; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>As an incentive to increase participation in the Child and Adult Care Food Program, provide a $300 grant per year to a child development home that participates in the Child and Adult Care Food Program to help pay for costs associated with licensing, renewal, and other related expenses.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A child development facility receiving a reimbursement or other funding pursuant to this section shall provide the meals at no charge to participating infants, toddlers, and preschoolers.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <para>
+        <num>(1)</num>
+        <text>OSSE may, by rule, increase the amount of reimbursements, grants, or other funding provided by this section to further improve the quality and nutrition of meals provided by a child development facility.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>OSSE may withhold reimbursements or other funding authorized by this section from a child development facility that does not meet the requirements of this chapter, or rules issued pursuant to this chapter.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  4073, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 days) addition of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 4073a, concerning child development facility requirements, see § 2(f)( 2) of the Fiscal Year 2015 Budget Support Clarification Temporary Amendment Act of 2014 (<cite doc="D.C. Law 20-179">D.C. Law 20-179</cite>, March 7, 2015, 62 DCR 424).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of a provision concerning child development facility requirements, see § 4073a of the  Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 4073a, concerning child development facility requirements, see § 2(f) of the  Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-461, November 6, 2014, 61 DCR 11784, 20 STAT 4368).</annotation>
+        <annotation>For temporary (90 days) addition of a provision concerning child development facility requirements, see § 4073a of the  Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+        <annotation>For temporary (90 days) addition of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 4073a, concerning child development facility requirements, see § 2(f) of the  Fiscal Year 2015 Budget Support Clarification Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-587, January 13, 2015, 62 DCR 1294, 21 STAT 758).</annotation>
+        <annotation>For temporary (90 days) addition of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 4077, an applicability clause, see § 7016(f)(3) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|2B"/>
+    <num codify:value="38-282.01">4073a</num>
+    <heading>Child development facility requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If 50% or more children in a licensed child development facility are eligible to participate in the CACF Program, the facility shall participate in the program unless OSSE grants it an exemption pursuant to subsection (b) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>To be eligible for an exemption, a child development facility must provide OSSE with a written statement describing why participation in the CACF Program constitutes a hardship. OSSE will determine whether good cause exists and provide notice to the child development facility that it is excused from participating in the CACF Program for one year from the date of the notice. To the extent possible, OSSE shall work with excused child development facilities to address barriers to participating in the CACF Program.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Subsection (b) of this section shall expire on September 30, 2016.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  4073a</annotation>
+        <annotation doc="D.C. Law 21-36">as added Oct. 22, 2015, D.C. Law 21-36, § 7030(a), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 7016(f)(1) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+        <annotation>For temporary (90 days) addition of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 4077, an applicability clause, see § 7016(f)(3) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|2B"/>
+    <num codify:value="38-283">4074</num>
+    <heading>OSSE requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The OSSE shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provide training to support the efforts of a child development facility to meet the requirements of this chapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Monitor the progress of a child development facility in complying with this chapter during the facility’s licensing process and record collected data in each facility’s compliance history;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide to the Mayor, the Council, and the Healthy Schools and Youth Commission an annual evaluation of the effect of the implementation of this chapter on the health, well-being, and school-readiness of participating District children; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Provide to the Mayor, the Council, and the Healthy Schools and Youth Commission, no later than June 30 of each year, a report listing the names and locations of licensed child development facilities with 50% or more eligible children enrolled, whether or not the facility participates in the CACF Program, and whether and why the facility was excused from participation.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Within 60 days of February 26, 2015, the OSSE shall add participation in the Child and Adult Care Food Program to the searchable criteria on the website for the OSSE Child Care Connections, which is the District’s child care resource and referral center.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No later than December 30 of each year, the OSSE shall submit, in conjunction with the Department of Health, a report to the Council and the Mayor on the efforts to promote WIC in child development facilities, including data on:</text>
+      <para>
+        <num>(1)</num>
+        <text>Identifying opportunities to better promote WIC at child development facilities;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The feasibility of the development of a breastfeeding-friendly rating for child development facilities; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Whether data matching or other means tested programs can be used to identify families receiving child-care subsidies and connect them to WIC if they are eligible for WIC benefits and are not receiving them.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Within 120 days of February 26, 2015, pursuant to the authority granted by § <cite path="§38-2602">38-2602</cite>(b)(11), the OSSE shall issue rules to implement this chapter, which, at a minimum, shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Establish nutritional standards for meals and snacks served at child development facilities;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Establish physical activity standards for child development facilities;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Improve the environmental sustainability of child development facilities;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Increase the use of locally grown and unprocessed foods from growers engaged in sustainable agriculture practices;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Enhance nutrition and healthy eating education programming for infants, toddlers, and preschoolers at child development facilities, including farm-to-preschool programs; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Ensure that child development facilities provide sufficient training to staff on improving nutrition and increasing the level of physical activity of participating infants, toddlers, and preschoolers.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  4074, 61 DCR 9990</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 7030(b), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> added (a)(4) and made related changes.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 days) amendment of this section, see § 2(f)(3) of the Fiscal Year 2015 Budget Support Clarification Temporary Amendment Act of 2014 (<cite doc="D.C. Law 20-179">D.C. Law 20-179</cite>, March 7, 2015,  62 DCR 424).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, as enacted by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 4074, see § 2(g) of the  Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-461, November 6, 2014, 61 DCR 11784, 20 STAT 4368).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2(g) of the  Fiscal Year 2015 Budget Support Clarification Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-587, January 13, 2015, 62 DCR 1294, 21 STAT 758).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 7016(f)(2) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+        <annotation>For temporary (90 days) addition of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 4077, an applicability clause, see § 7016(f)(3) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|2B"/>
+    <num codify:value="38-284">4075</num>
+    <heading>Use of Department of Parks and Recreation facilities.</heading>
+    <text>The Department of Parks and Recreation shall, to the extent feasible, partner with child development facilities to allow the facilities to use District recreation centers, fields, playgrounds, and other facilities on occasions that do not conflict with the Department of Parks and Recreation’s existing programming or with on-going community obligations.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  4075, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 4077, an applicability clause, see § 7016(f)(3) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|2B"/>
+    <num codify:value="38-285">4077</num>
+    <heading>Applicability.</heading>
+    <text>This chapter shall apply as of October 1, 2015.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  4077</annotation>
+        <annotation doc="D.C. Law 21-36">as added Oct. 22, 2015, D.C. Law 21-36 § 7030(c), 62 DCR 10905</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|16|III-A"/>
+    <num codify:value="32-1661">2122</num>
+    <heading>Definitions; Task Force established; member ship; duties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For the purposes of this subchapter, the term:</text>
+      <para>
+        <num>(1)</num>
+        <text>“Basic skills program” means a secondary, post-secondary, or alternative education or training program that helps individuals enhance the reading, writing, math, English language, digital literacy, or problem-solving skills that adults need to succeed in a job, occupational training, or postsecondary education.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Career pathways” means an approach to connecting progressive levels of basic skills and postsecondary education, training, and supportive services in specific sectors or cross-sector occupations in a way that optimizes the progress and success of individuals (including those with limited education, English skills, or work experience) in securing marketable credentials, family-supporting employment, and further education and employment opportunities.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“High-demand occupations or sectors” means occupations or sectors consistent with the Workforce Investment Council’s current Workforce Investment Act of 1998 Demand Occupation List.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Task Force” means the Adult Career Pathways Task Force established in subsection (b) of this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Beginning October 1, 2014, the Mayor shall establish an Adult Career Pathways Task Force that shall have as its purpose development of a city-wide strategic plan for connecting adult basic skills programs administered in the District to career pathways.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Task Force shall be convened by the Workforce Investment Council, and shall consist of the following 14 members:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Chairman of the Council, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Chair of the Workforce Investment Council, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Deputy Mayor for Education, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The State Superintendent of Education, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Chancellor of the District of Columbia Public Schools, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Chair of the Public Charter School Board, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Director of the Department of Employment Services, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The Director of the Department of Human Services, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(8A)</num>
+        <text>The Director of the Department on Disability Services, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The Executive Director of the D.C. Public Library, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>A representative of the University of the District of Columbia Community College, appointed by the President of the University of the District of Columbia; and</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Three community representatives, appointed by the Mayor, as follows:</text>
+        <para>
+          <num>(A)</num>
+          <text>A representative of a District organization engaged in the direct provision of a basic skills program;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A representative of a District school engaged in the direct provision of a basic skills program; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A representative of a District job training provider.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>No later than September 30, 2015, the Task Force shall submit to the Council and the Mayor the city-wide strategic plan required under this section. The plan shall be developed in concert with the District’s state integrated workforce development plan required under the Workforce Innovation and Opportunity Act, approved July 22, 2014 (128 Stat. 1425; 29 U.S.C. § 3101 et seq.). In developing the strategic plan, the Task Force shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Review best practices for improving literacy, numeracy, and technology skills for adults;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Review and analyze adult basic skills programs currently administered by the Office of the State Superintendent of Education, the District of Columbia Public Schools, the District of Columbia Public Charter Schools, the University of the District of Columbia Community College, the District of Columbia Public Library, and other agencies identified by the Task Force , with focus provided to the missions and goals of the various programs, the types of credentials offered, the degree of funding levels, the age and educational functioning level of students at time of program entry and the rates of gains upon completion, and the degree to which the program partners with job training providers, postsecondary education programs, or employers;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Consult with stakeholders, including the following:</text>
+        <para>
+          <num>(A)</num>
+          <text>Organizations with research or policy expertise in adult basic skills programs and career pathways;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Organizations focused on adult education and workforce development research or service provision;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Representatives of the District’s business community in high-demand occupations or sectors that the Task Force has identified for potential career pathways; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Representatives from the philanthropic community;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Perform an analysis of evidence-based approaches for helping adult learners with different needs and skill levels advance in career pathways, with special attention paid to practices for adult learners with basic skills below the 6th grade level;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Develop a city-wide mission statement for ensuring that adult learners have access to career pathways by 2020 and annual benchmarks for measuring progress toward that goal;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Analyze the high-demand occupations or sectors in which career pathways can be developed;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Develop responsibilities among the Task Force agencies for meeting the citywide goals, including recommendations to better align policies and practices around support services;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Develop common performance definitions and measures that adult basic skills programs will use to track progress, including educational gains, secondary school diploma or equivalent credential attainment, employment placement and retention, entrance into postsecondary education or training, and other credential completion; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Analyze existing professional development opportunities for adult educators and develop a strategy for addressing any identified gaps.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Following the completion of the city-wide strategic plan, the Workforce Investment Council shall convene the Task Force on a quarterly basis to track implementation of the strategy.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  2122, 61 DCR 9990</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 2112, 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “14 members” for “13 members” in the introductory language of (c); added (c)(8A); rewrote the introductory language of (d); and substituted “secondary school diploma or equivalent credential attainment” for “GED or secondary school diploma attainment” in (d)(8).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this subchapter, see § 2122 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this subchapter, see § 2122 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this subchapter, see § 2122 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2112 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|I"/>
+    <num codify:value="1-301.154">1112</num>
+    <heading>Statehood initiatives budgeting.</heading>
+    <text>Beginning in  Fiscal Year 2015, the Chief Financial Officer shall assign an individual  agency-level code for Statehood Initiatives in the District’s  financial system. The agency-level code shall be used to track the  operating budget for the District’s efforts to achieve statehood  and any funds that are appropriated for that purpose.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  1112, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of section, see §  1112 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of section, see §  1112 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of section, see §  1112 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|I"/>
+    <num codify:value="1-301.155">1142</num>
+    <heading>Financial reporting.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No later than December 1, 2014, and on a quarterly basis thereafter, until the approval of the Fiscal Year 2016 budget and financial plan, the Chief Financial Officer shall provide a report to the Council on the following subjects:</text>
+      <para>
+        <num>(1)</num>
+        <text>Progress toward ensuring that the Fiscal Year 2016 budget will be balanced, including:</text>
+        <para>
+          <num>(A)</num>
+          <text>Savings achieved to date;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Additional revenue certified through revised revenue estimates; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Additional revenue that may be certified through revenue enhancements;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An analysis of procurement reform efforts in Fiscal Year 2014, including:</text>
+        <para>
+          <num>(A)</num>
+          <text>Contracts reviewed for potential cost savings;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Savings secured through the renegotiation of existing contracts; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A report from the Office of Contracting and Procurement to the Chief Financial Officer regarding subparagraphs (A) and (B) of this paragraph,</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An analysis of personnel review efforts, including:</text>
+        <para>
+          <num>(A)</num>
+          <text>Positions left vacant or eliminated as a result of cost-savings initiatives; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Savings secured through personnel savings; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any other operating budget savings achieved or targeted in Fiscal Year 2014.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Agencies shall report on their progress toward limiting personal and nonpersonal expenditures whether one-time or recurring.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  1142, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of section, see §§  1142 and 1143 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of section, see §  1142 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of section, see §  1142 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|I"/>
+    <num codify:value="1-301.156">7132</num>
+    <heading>Tax transparency.</heading>
+    <text>For the purposes of this section and § <cite path="§1-301.157">1-301.157</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Categorical preference” means a tax preference that sets eligibility criteria and is potentially available to all entities that meet the criteria, subject to any funding limitations.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“CFO” means the Chief Financial Officer of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Economic development purpose” means a goal to increase or retain business activity, including attracting new businesses or retaining existing ones, encouraging business expansion or investment, increasing or maintaining hiring, or increasing sales.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Individual preference” means a tax preference, such as a tax abatement, applied to one entity, project, or associated projects.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“On-cycle tax preference” means a tax preference being reviewed in a current year.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Tax preference” shall have the same meaning as the phrase “tax expenditures” as defined in § <cite path="§47-318">47-318</cite>(6).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  7132, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of section, see §  7142 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of section, see §  7132 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of section, see §  7132 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|I"/>
+    <num codify:value="1-301.157">7133</num>
+    <heading>Tax preference review.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The CFO shall review all locally adopted tax expenditures on a 5-year cycle and publish annually a report complying with the requirements of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>By October 1, 2015, and by October 1 of every year thereafter, the CFO shall submit for publication in the District of Columbia Register a report for on-cycle tax preferences that complies with the requirements of this section.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>An on-cycle individual preference shall be analyzed and reported in the following manner:</text>
+      <para>
+        <num>(1)</num>
+        <text>An individual preference shall be analyzed and reported in groupings of similarly purposed preferences, with the report focusing on collective effects or trends that emerge.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The report shall include the stated purpose of the of tax preferences within the grouping, if clarified in the authorizing legislation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The report shall include the amount of lost revenue due to the tax preferences within the grouping.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The report shall include an assessment of the general effects on the District resulting from the preferences.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The report on groupings of individual preferences shall include recommendations on how to improve similar preferences in the future.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>For groupings of individual tax preferences with an economic development purpose, the analysis shall consider the economic impact of the preferences, and where sufficient data are available, take into account factors including:</text>
+        <para>
+          <num>(A)</num>
+          <text>Whether the economic impact of the tax preferences would have been expected without the preferences;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The extent to which the economic impact of the tax preferences was offset by economic losses elsewhere;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The average economic impact for a level of direct expenditures equal to the cost of the tax preferences;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The indirect economic impact of the tax preferences;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>The number of jobs created by the preference;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>The wages of the jobs created;</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>The percentage of jobs filled by District residents; and</text>
+        </para>
+        <para>
+          <num>(H)</num>
+          <text>Whether any terms of the tax preferences have been or are being satisfied.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Except as provided in subsection (f) of this section, on-cycle categorical preferences shall receive a full review that, where sufficient data are available, includes:</text>
+      <para>
+        <num>(1)</num>
+        <text>The purpose of the tax preference, if clarified in the authorizing legislation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The tax preference’s cost in terms of lost revenue;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An assessment of whether the tax preference is meeting its goals;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An assessment of whether the tax preference is achieving other goals;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Recommendations for improving the effectiveness of the tax preference;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Recommendations for whether the tax preference should be modified, discontinued, or remain in its existent state; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>For tax preferences with an economic development purpose, an analysis that measures the economic impact of the preference, including:</text>
+        <para>
+          <num>(A)</num>
+          <text>Whether the economic impact of the tax preference would have been expected without the preference;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The extent to which the economic impact of the tax preference was offset by economic losses elsewhere;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The average economic impact for a level of direct expenditures equal to the cost of the tax preference; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The indirect economic impact effect of the tax preference.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>For on-cycle categorical tax preferences that the CFO determines do not merit a full review, the CFO shall instead perform a summary review. In determining which tax preferences are appropriate for a summary review, the CFO shall consider factors including, at a minimum:</text>
+      <para>
+        <num>(1)</num>
+        <text>The revenue lost due to the tax preference and the number of potential or actual claimants;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Whether the revenue lost due to the preference has increased or decreased since the preference was last reviewed;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Whether the preference has been included in legislative or administrative proposals to modify or repeal; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Whether the preference is required by Chapter 2 of this title [§  2-201.01 et seq.].</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>A report on a categorical preference designated for summary review shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>A narrative summary of the preference, including its purpose;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The source and year of statutory authorization;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The fiscal impact of the preference; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A description of the beneficiaries of the tax preference.</text>
+      </para>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>All District agencies, offices, and instrumentalities shall cooperate with the CFO and shall provide any records, information, data, and data analysis needed to complete the reviews and reports required by this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  7133, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of section, see §  7143 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of section, see §  7133 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of section, see §  7133 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|BB"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-325.271">1062</num>
+    <heading>Surplus Personal Property Sales Fund.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  1062, 61 DCR 9990</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 1013, 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this part, see §  1062 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this part, see §  1062 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this part, see §  1062 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 1013 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|CC"/>
+    <num codify:value="1-325.281">5042</num>
+    <heading>Department of Behavioral Health Enterprise Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the Department of Behavioral Health Enterprise Fund (“Fund”), which shall be administered by the Department of Behavioral Health (“Department”) in accordance with subsection (c) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Fund shall consist of revenue from the following fees, proceeds, and revenues collected from the following activities and operations:</text>
+      <para>
+        <num>(1)</num>
+        <text>Proceeds from the cafeteria managed and operated by the Department on the St. Elizabeths Hospital Campus;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Fees charged for trainings and Continuing Education Units by the Department’s Organizational Development- DMH Training Institute; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Recoupment and collection of housing bridge subsidy payments from individual consumers, representative payees, and landlords by the Department’s Adult Services Supported Housing program.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Fund shall be used for the management and operation of the food cafeteria, DMH Training Institute, and Supported Housing programs managed and operated by the Department.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 5042, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this part, see §  5042 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this part, see §  5042 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this part, see §  5042 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|DD"/>
+    <num codify:value="1-325.291">7152</num>
+    <heading>IPW Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the IPW Fund (“Fund”), which shall be administered by Destination DC in accordance with subsection (c) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The following funds shall be deposited into the Fund:</text>
+      <para>
+        <num>(1)</num>
+        <text>Upon approval of the settlement by the District of Columbia Court of Appeals in District of Columbia v. Expedia, Inc., et al., Nos. 14-CV-308, 14-CV-309 and subject to subsection (d) of this section, $2 million from the settlement the District obtained;</text>
+        <text>
+          <em>District of Columbia Court of Appeals in District of Columbia v. Expedia, Inc., et al.,</em>
+        </text>
+        <para>
+          <num>(1-A)</num>
+          <text>The amount of $1.5 million from any recoveries from litigation brought on behalf of the District; provided, that the Litigation Support Fund established in § <cite path="§1-301.86b">1-301.86b</cite> has reached its initial balance cap; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In private-sector matching funds, $3.5 million to be raised by Destination DC.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Money in the Fund shall be used to pay for the costs associated with hosting the U.S. Tourism Association’s annual international tourism conference, known as the IPW.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The portion of the Fund described in subsection (b)(1) of this section shall be available for expenditure only if Destination DC raises private-sector matching funds on a one-to-one basis. Destination DC shall return to the District any settlement funds for which a private- sector match is not secured.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Destination DC shall submit an annual report by the end of each fiscal year to the Mayor and Council, which shall include the amount of private-sector matching funds raised and the amount expended from the Fund.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <para>
+        <num>(1)</num>
+        <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  7152, 61 DCR 9990</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, §§  7024(b), 7242(a), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite>, in (b)(1), substituted “the settlement” for “the $ 60.9 million settlement” and substituted “$ 2 million” for “$ 3.5 million”; and added (b)(1A) and made a related change.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this part, see §  7162 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this part, see §  7152 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this part, see §  7152 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §§ 7016(z)(2) and 7212(a) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|EE"/>
+    <num codify:value="1-325.301">7153</num>
+    <heading>Destination DC Marketing Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the Destination DC Marketing Fund (“Fund”), which shall be established under the auspices of and administered by Destination DC, and which shall be used by Destination DC for the purposes of marketing the District.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The amount of $1.5 million shall be deposited into the Fund from the settlement the District obtained with online travel companies to recover unpaid hotel-room taxes, only upon approval of the settlement by the District of Columbia Court of Appeals, District of Columbia v. Expedia, Inc., et al., Nos. 14-CV-308, 14-CV-309.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  7153, 61 DCR 9990</annotation>
+        <annotation doc="D.C. Law 21-36">Oct 22, 2015, D.C. Law 21-36, § 7024(c), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “the settlement” for “the $ 60.9 million settlement” in (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this part, see §  7163 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this part, see §  7153 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this part, see §  7153 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 7016(z)(3) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|FF"/>
+    <num codify:value="1-325.311">7154</num>
+    <heading>WMATA Momentum Support Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the WMATA Momentum Support Fund (“Fund”), which shall be administered by the Chief Financial Officer in accordance with subsection (c) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Upon approval of the settlement by the District of Columbia Court of Appeals in District of Columbia v. Expedia, Inc., et al., Nos. 14-CV-308, 14-CV-309, the full amount the District obtained from the settlement, minus the amounts designated for other purposes in §§ <cite path="§1-325.291">1-325.291</cite> and <cite path="§1-325.301">1-325.301</cite>, shall be deposited in the Fund.</text>
+      <text>
+        <em>District of Columbia v. Expedia, Inc., et al., Nos. 14-CV-308, 14-CV-309</em>
+      </text>
+    </para>
+    <para>
+      <num>(b-1)</num>
+      <text>Upon settlement of litigation in United States ex rel. Mills v. Compass Group North America et al., 2013 CAB SLD 004624, any and all recoveries by the District from the settlement not otherwise encumbered pursuant to the settlement agreement shall be deposited into the Fund.</text>
+      <text>
+        <em>United States ex rel. Mills v. Compass Group North America et al.</em>
+      </text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Upon execution of an inter-jurisdiction funding agreement for implementation of the Washington Metropolitan Area Transit Authority Momentum Strategic Plan (“Momentum”), any monies in the Fund shall be made available to finance the District’s share of the implementation costs of Momentum.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 7154, 61 DCR 9990</annotation>
+        <annotation doc="D.C. Law 20-36">Oct. 22. 2015, D.C. Law 20-36, §§  7024(d), 7242(b), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “the full amount the District obtained from the settlement, minus the amounts designated for other purposes in §§ <cite path="§1-325.291">1-325.291</cite> and <cite path="§1-325.301">1-325.301</cite>” for “$ 55.9 million from the $ 60.9 million settlement the District obtained” in (b); and added (b-1).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 days) amendment of this section, see §§ 2(b) and 4 of the Fiscal Year 2016 Budget Support Clarification Temporary Amendment Act of 2015 (<cite doc="D.C. Law 21-76">D.C. Law 21-76</cite>, Feb. 27, 2016,  63 DCR 264).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this part, see §  7164 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this part, see §  7154 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this part, see §  7154 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §§ 7016(z)(4) and 7212(b) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+        <annotation>For temporary (90 days) repeal of <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite>, § 7024(d), see § 2(c) of the Fiscal Year 2016 Budget Support Clarification Emergency Amendment Act of 2015 (D.C. Act 21-164, Oct. 16, 2015,  62 DCR 13734).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §§  2(e) and 6 of the Fiscal Year 2016 Budget Support Clarification Emergency Amendment Act of 2015 (D.C. Act 21-164, Oct. 16, 2015,  62 DCR 13734).</annotation>
+        <annotation>For temporary (90 days) repeal of emergency D.C. Act 21-127, § 7016(z)(4), see § 3(a) of the Fiscal Year 2016 Budget Support Clarification Emergency Amendment Act of 2015 (D.C. Act 21-164, Oct. 16, 2015,  62 DCR 13734).</annotation>
+        <annotation>For temporary (90 days) repeal of <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite>, § 7024(d), see § 2 of the Fiscal Year 2016 Budget Support Clarification Emergency Amendment Act of 2016 (D.C. Act 21-292, Jan. 27, 2016,  63 DCR 1211).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 3 of the Fiscal Year 2016 Budget Support Clarification Emergency Amendment Act of 2016 (D.C. Act 21-292, Jan. 27, 2016,  63 DCR 1211).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|GG"/>
+    <num codify:value="1-325.321">5142</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this part, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Fund” means the Teen Pregnancy Prevention Fund established in § <cite path="§1-325.322">1-325.322</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Grant-managing entity” means the DC Campaign to Prevent Teen Pregnancy, as authorized by § <cite path="§1-325.325">1-325.325</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  5142, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this part, see §  5152-5156 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this part, see §§  51<cite path="§42-5147">42-5147</cite> of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this part, see §§  51<cite path="§42-5147">42-5147</cite> of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|GG"/>
+    <num codify:value="1-325.322">5143</num>
+    <heading>Teen Pregnancy Prevention Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a Teen Pregnancy Prevention Fund (“Fund”) to provide subgrants to nonprofit organizations.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Department of Health shall make a grant to a single grant-managing entity of which at least 90% shall be used to make subgrants for the purpose of teen pregnancy prevention. The remaining 10% shall be utilized for administrative expenses and evaluation of the Fund. The grant-managing entity is limited to spending any funds received from the Fund on administrative costs only, and not any substantive work related to teen pregnancy prevention.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Fund is designed to provide subgrants to nonprofits in health services for teens, reproductive health education, professional development and training, research and policy development, and public education and awareness. The funds shall be available for conveyance to a grant-managing entity for the purposes identified in subsection (b) of this section.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Subgrants shall be awarded, subject to the availability of funding, as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>All subgrants shall be awarded on a competitive basis;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The subgrants shall not exceed $100,000 per year;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Subgrants are one-time;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The subgrant funds shall be used exclusively to serve District of Columbia residents; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>All subgrants shall be subject to District transparency requirements, such as Freedom of Information Act requests.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Fund shall be administered pursuant to the requirements set forth in part B of subchapter XII-A of this chapter [§ <cite path="§1-328.11">1-328.11</cite> et seq.].</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  5143, 61 DCR 9990</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|GG"/>
+    <num codify:value="1-325.323">5144</num>
+    <heading>Required information before approval.</heading>
+    <para>
+      <num>(a)</num>
+      <text>To be eligible to receive a subgrant from the grant-managing entity pursuant to § <cite path="§1-325.322">1-325.322</cite>, a subgrantee shall submit the following required documentation to the grant- managing entity, as well as any additional information required by the grant-managing entity:</text>
+      <para>
+        <num>(1)</num>
+        <text>Internal Revenue Service certification that the organization is tax-exempt under section 501(c)(3) of the Internal Revenue Code of 1954, approved August 16, 1954 (68A 24 Stat. 163; 26 U.S.C. § 501(c)(3));</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>The organization’s most recent financial audit, not more than 2 years old; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A recent financial statement, not more than one year old, prepared by a certified accountant that shows that the organization is in good financial standing and which delineates its:</text>
+          <para>
+            <num>(i)</num>
+            <text>Existing assets and liabilities;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Pending lawsuits, if any; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Pending and final judgments, if any,</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Internal Revenue Service Form 990 covering the organization’s most recently completed fiscal year;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A notarized statement from the subgrantee certifying that:</text>
+        <para>
+          <num>(A)</num>
+          <text>The organization is current on District and federal taxes;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The grant-managing entity is authorized to verify the organization’s tax status with the Office of Tax and Revenue and the Office of Tax and Revenue is authorized to release this information to the grant-managing entity;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The grant-managing entity shall have access to the subgrantee’s financial, administrative, and operational records, including specific consent for the grant-managing entity to access its books, accounts, records, findings, and documents related to the subgrant; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The subgrantee is registered with the Department of Consumer and Regulatory Affairs; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A comprehensive program statement that includes a detailed:</text>
+        <para>
+          <num>(A)</num>
+          <text>Scope of work; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Budget that describes how the subgrant funds shall be spent.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  5144, 61 DCR 9990</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|GG"/>
+    <num codify:value="1-325.324">5145</num>
+    <heading>Reporting requirements.</heading>
+    <text>Beginning December 1, 2014, the grant-managing entity shall submit a bimonthly report to the Council of all District funds allocated, which includes:</text>
+    <para>
+      <num>(1)</num>
+      <text>Detailed subgrantee data;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Performance measures and performance outcomes under each subgrant;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The specific services provided under each subgrant;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The entity providing the services, if one other than the subgrantee;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The time period of delivery of the services;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The type of service provided;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The actual amount paid for the services; and</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>The amount of other expenditures under the subgrant, if any.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  5145, 61 DCR 9990</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|GG"/>
+    <num codify:value="1-325.325">5146</num>
+    <heading>Authorization for grant-managing entity.</heading>
+    <text>For Fiscal Year 2016, the DC Campaign to Prevent Teen Pregnancy (“DC Campaign”) is designated as the grant-managing entity. The DC Campaign shall be required to enter into a Memorandum of Understanding (“MOU”) with the District of Columbia government. The MOU shall set forth certain administrative requirements for the DC Campaign to abide by when it obtains District funds and awards subgrants involving District funds, and will clarify and reaffirm the DC Campaign’s responsibility and obligation with respect to District funds, including the monitoring of the use of District funds.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  5146, 61 DCR 9990</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 5052, 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “For Fiscal Year 2016” for “For Fiscal Year 2015.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 5052 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|GG"/>
+    <num codify:value="1-325.326">5147</num>
+    <heading>Limitation on duplicative projects.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The grant-managing entity shall take steps to avoid awarding subgrants to a nonprofit that has been awarded or is being awarded funds from another District agency for the same or similar program purposes for which it is applying for funding from the Fund.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Within 30 days after the effective date of the MOU, the grant-managing entity shall provide to the Department of Health and the Council a plan that sets forth procedures for avoiding the award of duplicative funds.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  5147, 61 DCR 9990</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|5|VIII"/>
+    <num codify:value="1-541.01">1092</num>
+    <heading>Workplace wellness policy.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall develop and adopt a workplace wellness policy for the District government no later than one year following February 26, 2015. The workplace wellness policy shall be reviewed and updated annually.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The workplace wellness policy required by subsection (a) of this section shall apply to all District agencies, including independent District agencies and the Council of the District of Columbia, but excluding boards and commissions, Advisory Neighborhood Commissions, and the Courts.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The workplace wellness policy required by subsection (a) of this section shall include initiatives that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Establish measurable goals for improving the health of District government employees;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Improve nutrition in the workplace, including:</text>
+        <para>
+          <num>(A)</num>
+          <text>Expanding opportunities for employees to store lunches and foods in District buildings; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Promoting the availability and consumption of water throughout the day;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Improve the physical fitness of employees and physical activity during the work day, including:</text>
+        <para>
+          <num>(A)</num>
+          <text>Providing opportunities for employees to exercise at their desks and offices; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Ensuring that staircases are accessible and their use is encouraged;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Promote healthy living and educate employees about physical activity, healthy eating, stress management, and disease prevention;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Provide for early detection and screening for key health indicators; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Support changes in the work environment to encourage healthy behaviors and breastfeeding and promote occupational safety and health.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Each agency shall designate one employee as the agency’s wellness coordinator who shall have the responsibility of implementing the wellness policy in the agency and promoting wellness programs.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>It is the goal of the District for each agency to achieve the American Heart Association’s gold-level designation as a “Fit-Friendly” workplace or other evidence-based workplace initiatives of national or local health organizations.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  1092, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary  (90 days) addition of this section, see §  1092 of the Fiscal  Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July  14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this section, see §  1092 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this section, see §  1092 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|5|VIII"/>
+    <num codify:value="1-541.02">1093</num>
+    <heading>Healthy food and beverage standards for District government property.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], shall issue rules establishing healthy food and beverage nutrition and procurement standards that are guided by the General Services Administration document “Health and Sustainability Guidelines for Federal Concessions and Vending Operations” for all District agencies no later than one year following February 26, 2015.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The standards shall consider both positive and negative contributions of nutrients, ingredients, and foods to diets, including calories, portion size, saturated fat, trans fat, sodium, sugar, and the presence of fruits, vegetables, whole grains, and nutrients of concern in Americans’ diets.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The standards shall apply to foods and beverages purchased or served by District agencies, including at meetings, events, in vending machines, and through onsite vendors, with the exception of food served by the Department of Corrections and the Department of Behavioral Health to persons who reside at their institutions or are in their direct custody. No less than 50% of all foods and beverages shall be healthy, as guided by the General Services Administration document “Health and Sustainability Guidelines for Federal Concessions and Vending Operations”.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The standards shall not apply to food to be served to children in schools, but may apply to food served to adults in schools if that food is separate and different from the food served to children.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Exemptions may be allowed for those circumstances in which the individuals consuming the food have specific dietary needs.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  1093, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see §  1093 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this section, see §  1093 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this section, see §  1093 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2|VI"/>
+    <num codify:value="2-211.01">1132</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Pay-for-success contract” means a contract between the District and a social service intermediary that establishes outcome-based performance standards for social programs performed by nonprofit service providers and initially funded by private investors through a social impact funding instrument and provides a mechanism by which investors shall receive a return of their investment and earnings thereon only if outcome-based performance standards are met by the social service intermediary.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Social service intermediary” means an organization that is organized and operated pursuant to section 501(c)(3) of the Internal Revenue Code of 1954, approved August 16, 1954 (68A Stat. 163; 26 U.S.C. § 501(c)(3)), or an affiliated legal entity thereof that is so organized and operated and that is capable of entering into a pay-for-success contract with the District that sets forth outcome-based performance standards, contracting with service providers to deliver social services, raising capital to finance the delivery of social services via a social impact funding instrument, and administering the social impact funding instrument by providing ongoing investor relations and project management.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Social impact funding instrument” means an investment product established by a social service intermediary to raise private investment capital for social programs.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  1132, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of subchapter, see §§ 11<cite path="§32-1134">32-1134</cite> of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of subchapter, see §§ 11<cite path="§32-1134">32-1134</cite> of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of subchapter, see §§ 11<cite path="§32-1134">32-1134</cite> of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2|VI"/>
+    <num codify:value="2-211.02">1133</num>
+    <heading>Authorization of pay-for-success contracts.</heading>
+    <text>Notwithstanding any other law, the Mayor may enter into pay-for-success contracts. Each contract shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>A requirement that payment from the District be conditioned on the achievement of specific outcomes based on defined performance targets;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>An objective process by which an independent evaluator will determine whether the performance targets have been achieved;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A detailed scope of the social service intermediary’s service under the contract;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A calculation of the amount and timing of payments to the social service intermediary during each year of the contract if performance targets are achieved as determined by the independent evaluator;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A requirement that the social service intermediary create a social impact funding instrument to obtain the funds required for the social program;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>A sinking fund requirement under which the Mayor shall request a multiyear appropriation for every fiscal year that the contract is in effect, in an amount equal to the expected payments that the District would ultimately be obligated to pay in the future based upon service provided, if performance targets were achieved pursuant to the terms of the contract;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>A process for the District to review payments made by the social service intermediary through reporting requirements pursuant to the contract; and</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>A determination by the Mayor that the contract will result in significant performance improvements and budgetary savings to the District across all impacted areas if the performance targets are achieved.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  1133, 61 DCR 9990</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2|VI"/>
+    <num codify:value="2-211.03">1134</num>
+    <heading>Pay-for-Success Contract Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the Pay-for-Success Contract Fund (“Fund”) which shall be administered by the Mayor or his or her designee in accordance with subsection (c) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Each fiscal year there shall be deposited into the Fund the amount of the annual appropriation estimated to be paid in the next fiscal year for any pay-for-success contract.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Fund shall be used to fund payments to be made pursuant to pay-for-success contracts. The Chief Financial Officer shall create separate accounts within the Fund for each pay-for-success contract entered into by the District.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  1134, 61 DCR 9990</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|V-B"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1210.31">7182</num>
+    <heading>Emerging Business District Demonstration Projects.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 7182, 61 DCR 9990</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 7024(f), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of subchapter, see §§  7192 and 7193 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of subchapter, see §§  7182 and 7183 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of subchapter, see §§  7182 and 7183 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+        <annotation>For temporary (90 days) repeal of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, §§ 7182 and 7183, see § 7016(z)(5) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|V-B"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1210.32">7183</num>
+    <heading>Grants.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 7183, 61 DCR 9990</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 7024(f), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 days) addition of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 7185, see § 2(u)( 2) of the Fiscal Year 2015 Budget Support Clarification Temporary Amendment Act of 2014 (<cite doc="D.C. Law 20-179">D.C. Law 20-179</cite>, March 7, 2015, 62 DCR 424).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of a provision concerning funding of the Emerging Business District Demonstration Projects grant program, see §  7185 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 7185, concerning funding of the Emerging Business District Demonstration Projects grant program, see § 2(p) of the  Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-461, November 6, 2014, 61 DCR 11784, 20 STAT 4368).</annotation>
+        <annotation>For temporary (90 days) addition of a provision concerning funding of the Emerging Business District Demonstration Projects grant program, see §  7185 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+        <annotation>For temporary (90 days) addition of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 7185, concerning funding of the Emerging Business District Demonstration Projects grant program, see § 2(p) of the  Fiscal Year 2015 Budget Support Clarification Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-587, January 13, 2015, 62 DCR 1294, 21 STAT 758).</annotation>
+        <annotation>For temporary (90 days) repeal of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, §§ 7182 and 7183, see § 7016(z)(5) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|1|XV-C"/>
+    <num codify:value="5-129.71">3002</num>
+    <heading>Reimbursable police escorts and other law enforcement services.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Chief of Police may charge and collect reimbursement fees, as set forth in the fee schedule established pursuant to subsection (b) of this section, for providing police escorts that are necessary to protect public health and safety. All reimbursement fees collected under this subsection shall be deposited into the fund established by § <cite path="§47-2826">47-2826</cite>(d).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief of Police, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], shall issue rules setting forth a reimbursement fee schedule.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>For the purposes of this subchapter, the term “police escort” shall include the assignment of law enforcement personnel and vehicles as necessary to ensure the preservation of public safety, typically either at a specified location or from a point of origin to a specified destination, in a manner consistent with the nature of the persons, material, and the threat posed by the movement or event.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 3002, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this subchapter, see §  3002 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this subchapter, see §  3002 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this subchapter, see §  3002 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|II-B"/>
+    <num codify:value="8-104.31">6092</num>
+    <heading>Remediation of contaminated sediment in the Anacostia River.</heading>
+    <text>By June 30, 2018, the Director of the District Department of the Environment shall adopt and publish a record of decision in the District of Columbia Register choosing the remedy for remediation of contaminated sediment in the Anacostia River. The remedial choice shall be based on the remedial investigation and feasibility study results and shall be consistent with the National Contingency Plan set forth in 40 C.F.R. Part 300  , and with section 121 of the Comprehensive Environmental Response Compensation and Liability Act, approved October 17, 1986 (100 Stat. 1672  ; 42 U.S.C. § 9621  ).</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  6092, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 6102 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this section, see § 6092 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this section, see § 6092 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2C"/>
+    <num codify:value="4-271.01">5132</num>
+    <heading>SOAR Pilot Program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established within the Department of Human Services (“Department”) a SSI/SSDI Outreach, Access, and Recovery, or SOAR Pilot Program (“Program”) to provide application assistance for individuals applying to receive Supplemental Security Income (“SSI”) and Social Security Disability Insurance (“SSDI”).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Department may contract with, or provide a grant to, a qualified community- based nonprofit corporation, organization, or consortia of organizations, with offices located in the District, to operate the Program. The Department shall establish the criteria that an entity must meet to be selected to operate the Program. If the Department is unable to contract with an outside entity that meets the specified criteria, or determines it to not be in the best interest of the District, the Department shall operate the Program.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A grant issued under this subsection shall be administered pursuant to the requirements set forth in part B of subchapter XII-A of Chapter 3 of Title 1 [§ <cite path="§1-328.11">1-328.11</cite> et seq.].</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Program shall conduct outreach to homeless individuals to provide intensive assistance and support with completing an SSI or SSDI application with the federal Social Security Administration.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  5132, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this chapter, see § 5142 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this chapter, see § 5132 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this chapter, see § 5132 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7B"/>
+    <num codify:value="4-771.01">5112</num>
+    <heading>Homeless Prevention Program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established within the Department of Human Services (“Department”) a Homeless Prevention Program (“Program”) to conduct community outreach and provide services to families at risk of becoming homeless.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Department may contract with a qualified community-based nonprofit corporation, organization, or consortia of organizations, with offices located in the District, to operate the Program. The Department shall establish the criteria that an entity must meet to be selected to operate the Program. If the Department is unable to contract with an outside entity that meets the specified criteria, or determines it to not be in the best interest of the District, the Department shall operate the Program.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Program shall be administered by the Department in consultation with the Interagency Council on Homelessness.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Program shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Use an evidence-based assessment and evaluation method to target and identify families most at risk of becoming homeless;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Connect individuals and families at risk of becoming homeless with housing and financial assistance programs that provide short- and long-term assistance to allow households to remain in their current housing situation, if appropriate;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Have multiple locations in communities identified as being at-risk of homelessness;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Conduct educational campaigns and outreach to inform District residents about the services available to prevent homelessness;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Conduct family or tenant-landlord mediation to assist families in remaining in their current housing situation or provide referrals to other organizations that can provide this assistance, if appropriate;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Provide classes in skills critical to maintaining housing, including household budgeting, financial management, and financial literacy, or provide referrals to other organizations that can provide this assistance;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Provide job training and placement referrals to employment services or provide referrals to other organizations that can provide this assistance, including connecting families with resources available at District agencies;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Assist families in applying for public benefits, including child care, SNAP, tax credits, and Medicaid or provide referrals to other organizations that can provide this assistance; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Provide other counseling, case management, or services, including mental or behavioral health services or referrals to mental or behavioral health programs, to assist families in preventing homelessness.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>No later than January 1, 2016, and annually thereafter, the Program shall submit a report to the Council on the operations and services of the Program during the preceding fiscal year.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  5112, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this chapter, see §  5122 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this chapter, see §  5112 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this chapter, see §  5112 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

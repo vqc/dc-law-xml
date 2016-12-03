@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 8-24">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 8-24">
   <num type="law">8-24</num>
   <heading type="short">District of Columbia Abandoned and Junk Vehicle Removal Amendment Act of 1989</heading>
   <meta>
@@ -12,4 +12,258 @@
       <narrative>Law 8-24, the “District of Columbia Abandoned and Junk Vehicle Removal Amendment Act of 1989,” was introduced in Council and assigned Bill No. 8-10, which was referred to the Committee on Public Works. The Bill was adopted on first and second readings on May 16, 1989 and May 30, 1989, respectively. Signed by the Mayor on June 14, 1989, it was assigned Act No. 8-46 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|24|I"/>
+    <num codify:value="50-2401">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the terms used shall have the same meaning as those defined in § <cite path="§50-2421.02">50-2421.02</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-24">Sept. 9, 1989, D.C. Law 8-24, § 2, 36 DCR 4575</annotation>
+        <annotation doc="D.C. Law 11-95">Feb. 28, 1996, D.C. Law 11-95, § 4, 42 DCR 7180</annotation>
+        <annotation doc="D.C. Law 13-267">Apr. 3, 2001, D.C. Law 13-267, § 3, 48 DCR 1248</annotation>
+        <annotation doc="D.C. Law 15-35">Oct. 28, 2003, D.C. Law 15-35, § 13(c)(1), 50 DCR 6579</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-831.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-267">D.C. Law 13-267</cite> rewrote pars. (1)(D) and (2).</annotation>
+        <annotation><cite doc="D.C. Law 15-35">D.C. Law 15-35</cite> rewrote the section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 13(c)(1) of the Removal and Disposition of Abandoned, Dangerous and Other Unlawfully Parked Vehicles Reform Emergency Act of 2002 (D.C. Act 15-104, June 20, 2003,  50 DCR 5534).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 13(c)(1) of Removal and Disposition of Abandoned and Other Unlawfully Parked Vehicles Reform Congressional Review Emergency Act of 2003 (D.C. Act 15-171, October 6, 2003,  50 DCR 9163).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 12 of <cite doc="D.C. Law 8-24">D.C. Law 8-24</cite> provided that the act shall take effect after a 30-day period of Congressional review following approval by the Mayor (or in the event of veto by the Mayor, action by the Council of the District of Columbia to override the veto) as provided in § <cite path="§1-206.02">1-206.02</cite>(c)(1), and publication in either the District of Columbia Register, the District of Columbia Statutes-at-Large, or the District of Columbia Municipal Regulations; or by November 1, 1989, whichever occurs later. <cite doc="D.C. Law 8-24">D.C. Law 8-24</cite> was effective September 9, 1989.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Application of Law 15-35: Section 15 of <cite doc="D.C. Law 15-35">D.C. Law 15-35</cite> provided: “This act shall apply to all vehicles impounded after its effective date. This act shall also apply to all vehicles impounded prior to its effective date provided that notice is sent to the owners and lien holders in accordance with the provisions of subsections 7(b) or (c), as is applicable.”</text>
+        <text>Effect of repeal provisions: Section 14 of <cite doc="D.C. Law 15-35">D.C. Law 15-35</cite> provided: “Any repeal of a law or regulation by this act shall not invalidate any enforcement action, adjudication, or any other action made or taken pursuant to such law or regulation.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|24|I"/>
+    <num codify:value="50-2402">3</num>
+    <heading>Abandoned and Junk Vehicle Division established.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established an Abandoned and Junk Vehicle Division of the Department of Public Works (“Abandoned and Junk Vehicle Division”), which shall be responsible for the removal of any abandoned or dangerous vehicle from any public or private property including any public space. The Abandoned and Junk Vehicle Division shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Determine whether the vehicle is an abandoned or dangerous vehicle in accordance with § <cite path="§50-2421.02">50-2421.02</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Determine whether the vehicle has been stolen and relinquish custody of the vehicle to the Metropolitan Police Department, if the vehicle has been stolen;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Place or mail, as applicable, the appropriate warning notice described in §§ <cite path="§50-2421.04">50-2421.04</cite> and <cite path="§50-2421.05">50-2421.05</cite>;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Impound any abandoned or dangerous vehicle, if appropriate;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Mail the impoundment notice required by § <cite path="§50-2421.07">50-2421.07</cite>(b) to the owner and lienholders of any impounded vehicle;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Sell or dispose of unclaimed impounded vehicles, including all items of personal property left therein, pursuant to § <cite path="§50-2421.10">50-2421.10</cite>;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Repealed; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Repealed.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall use personnel who are charged with private or public space inspection, sanitation inspection, and traffic and parking enforcement responsibilities to investigate and place warning notices on abandoned and junk vehicles.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall encourage all District government agencies and residents to identify and report abandoned and junk vehicles to the Abandoned and Junk Vehicle Division and shall, within 90 days of September 9, 1989, implement an educational campaign to accomplish this task.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-24">Sept. 9, 1989, D.C. Law 8-24, § 3, 36 DCR 4575</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 3003, 46 DCR 3142</annotation>
+        <annotation doc="D.C. Law 15-35">Oct. 28, 2003, D.C. Law 15-35, § 13(c)(2), 50 DCR 6579</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Nuisance, abandoned vehicles, see § <cite path="§6-804">6-804</cite>.</annotation>
+        <annotation>Regulation of taxicabs, vehicle impoundments, see § <cite path="§50-331">50-331</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§50-331">50-331</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-832.</annotation>
+        <annotation>1981 Ed., § 40-832.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-35">D.C. Law 15-35</cite>, in subsec. (a), substituted “any abandoned or dangerous vehicle” for “any abandoned or junk vehicle” and “space” for “highway” in the introductory paragraph, rewrote pars. (1), (3), (5), and (6), inserted “or dangerous” after “abandoned” in par. (4), and repealed pars. (7) and (8).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 13(c)(2) of the Removal and Disposition of Abandoned, Dangerous and Other Unlawfully Parked Vehicles Reform Emergency Act of 2002 (D.C. Act 15-104, June 20, 2003,  50 DCR 5534).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 13(c)(2) of Removal and Disposition of Abandoned and Other Unlawfully Parked Vehicles Reform Congressional Review Emergency Act of 2003 (D.C. Act 15-171, October 6, 2003,  50 DCR 9163).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: See Historical and Statutory Notes following § <cite path="§50-2401">50-2401</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 12 of <cite doc="D.C. Law 8-24">D.C. Law 8-24</cite> provided that the act shall take effect after a 30-day period of Congressional review following approval by the Mayor (or in the event of veto by the Mayor, action by the Council of the District of Columbia to override the veto) as provided in § <cite path="§1-206.02">1-206.02</cite>(c)(1), and publication in either the District of Columbia Register, the District of Columbia Statutes-at-Large, or the District of Columbia Municipal Regulations; or by November 1, 1989, whichever occurs later. <cite doc="D.C. Law 8-24">D.C. Law 8-24</cite> was effective September 9, 1989.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Effect of repeal provisions: Section 14 of <cite doc="D.C. Law 15-35">D.C. Law 15-35</cite> provided: “Any repeal of a law or regulation by this act shall not invalidate any enforcement action, adjudication, or any other action made or taken pursuant to such law or regulation.”</text>
+        <text>Application of 15-35: Section 15 of <cite doc="D.C. Law 15-35">D.C. Law 15-35</cite> provided: “This act shall apply to all vehicles impounded after its effective date. This act shall also apply to all vehicles impounded prior to its effective date provided that notice is sent to the owners and lien holders in accordance with the provisions of subsections 7(b) or (c), as is applicable.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|24|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="50-2403">4</num>
+    <heading>Junk vehicles; nuisances.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-24">Sept. 9, 1989, D.C. Law 8-24, § 4, 36 DCR 4575</annotation>
+        <annotation doc="D.C. Law 15-35">Oct 28, 2003, D.C. Law 15-35, § 13(c)(3), 50 DCR 6579</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-833.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal of section, see § 13(c)(3) of the Removal and Disposition of Abandoned, Dangerous and Other Unlawfully Parked Vehicles Reform Emergency Act of 2002 (D.C. Act 15-104, June 20, 2003,  50 DCR 5534).</annotation>
+        <annotation>For temporary (90 day) repeal of section, see § 13(c)(3) of Removal and Disposition of Abandoned and Other Unlawfully Parked Vehicles Reform Congressional Review Emergency Act of 2003 (D.C. Act 15-171, October 6, 2003,  50 DCR 9163).</annotation>
+        <annotation>See note § <cite path="§40-812.1">40-812.1</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: See Historical and Statutory Notes following § <cite path="§50-2401">50-2401</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 12 of <cite doc="D.C. Law 8-24">D.C. Law 8-24</cite> provided that the act shall take effect after a 30-day period of Congressional review following approval by the Mayor (or in the event of veto by the Mayor, action by the Council of the District of Columbia to override the veto) as provided in § <cite path="§1-206.02">1-206.02</cite>(c)(1), and publication in either the District of Columbia Register, the District of Columbia Statutes-at-Large, or the District of Columbia Municipal Regulations; or by November 1, 1989, whichever occurs later. <cite doc="D.C. Law 8-24">D.C. Law 8-24</cite> was effective September 9, 1989.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Effect of repeal provisions: Section 14 of <cite doc="D.C. Law 15-35">D.C. Law 15-35</cite> provided: “Any repeal of a law or regulation by this act shall not invalidate any enforcement action, adjudication, or any other action made or taken pursuant to such law or regulation.”</text>
+        <text>Application of Law 15-35: Section 15 of <cite doc="D.C. Law 15-35">D.C. Law 15-35</cite> provided: “This act shall apply to all vehicles impounded after its effective date. This act shall also apply to all vehicles impounded prior to its effective date provided that notice is sent to the owners and lien holders in accordance with the provisions of subsections 7(b) or (c), as is applicable.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|24|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="50-2404">5</num>
+    <heading>Abandoned and Junk Vehicle Division Fund.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-24">Sept. 9, 1989, D.C. Law 8-24, § 5, 36 DCR 4575</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 602, 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-834.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal of section, see § 602 of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) deposit of monies from the Abandoned and Junk Vehicle Division Fund into the General Fund, see § 604 of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) repeal of section, see § 602 of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+        <annotation>For temporary (90 day) deposit of monies from the Abandoned and Junk Vehicle Division Fund into the General Fund, see § 604 of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <text>Short title: See Historical and Statutory Notes following § <cite path="§50-2401">50-2401</cite>.</text>
+        <text>Short title of subtitle A of title VI of Law 15-39: Section 601 of <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> provided that subtitle A of title VI of the act may be cited as the Abandoned and Junk Vehicle Division Fund Amendment Act of 2003.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 12 of <cite doc="D.C. Law 8-24">D.C. Law 8-24</cite> provided that the act shall take effect after a 30-day period of Congressional review following approval by the Mayor (or in the event of veto by the Mayor, action by the Council of the District of Columbia to override the veto) as provided in § <cite path="§1-206.02">1-206.02</cite>(c)(1), and publication in either the District of Columbia Register, the District of Columbia Statutes-at-Large, or the District of Columbia Municipal Regulations; or by November 1, 1989, whichever occurs later. <cite doc="D.C. Law 8-24">D.C. Law 8-24</cite> was effective September 9, 1989.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 604 of <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> provided: “Upon the effective date of this title, any monies that are in the Abandoned and Junk Vehicle Division Fund shall upon its dissolution be deposited into the General Fund.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|24|I"/>
+    <num codify:value="50-2405">8</num>
+    <heading>Jurisdiction over Blue Plains Impoundment Lot.</heading>
+    <text>Within 90 days of September 9, 1989, the Mayor shall transfer jurisdiction of the Blue Plains Impoundment Lot from the Metropolitan Police Department to the Department of Public Works to store and auction abandoned vehicles and submit a feasibility study with recommendations on the use of private contractors to store and auction abandoned vehicles.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-24">Sept. 9, 1989, D.C. Law 8-24, § 8, 36 DCR 4575</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-835.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 12 of <cite doc="D.C. Law 8-24">D.C. Law 8-24</cite> provided that the act shall take effect after a 30-day period of Congressional review following approval by the Mayor (or in the event of veto by the Mayor, action by the Council of the District of Columbia to override the veto) as provided in § <cite path="§1-206.02">1-206.02</cite>(c)(1), and publication in either the District of Columbia Register, the District of Columbia Statutes-at-Large, or the District of Columbia Municipal Regulations; or by November 1, 1989, whichever occurs later. <cite doc="D.C. Law 8-24">D.C. Law 8-24</cite> was effective September 9, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|24|I"/>
+    <num codify:value="50-2406">11</num>
+    <heading>Rules.</heading>
+    <text>Within 90 days from September 9, 1989, the Mayor shall, pursuant to subchapter I of Chapter 5 of Title 2, issue rules to implement the provisions of this act. The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 45-day review period, the proposed rules shall be deemed approved.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-24">Sept. 9, 1989, D.C. Law 8-24, § 11, 36 DCR 4575</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-836.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) provisions for the removal and disposition of abandoned, dangerous, and unlawfully parked vehicles, see §§ 2 to 12, 14, and 15 of the Removal and Disposition of Abandoned, Dangerous and Other Unlawfully Parked Vehicles Reform Emergency Act of 2002 (D.C. Act 15-104, June 20, 2003,  50 DCR 5534).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 12 of <cite doc="D.C. Law 8-24">D.C. Law 8-24</cite> provided that the act shall take effect after a 30-day period of Congressional review following approval by the Mayor (or in the event of veto by the Mayor, action by the Council of the District of Columbia to override the veto) as provided in § <cite path="§1-206.02">1-206.02</cite>(c)(1), and publication in either the District of Columbia Register, the District of Columbia Statutes-at-Large, or the District of Columbia Municipal Regulations; or by November 1, 1989, whichever occurs later. <cite doc="D.C. Law 8-24">D.C. Law 8-24</cite> was effective September 9, 1989.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“This act”, referred to in the first sentence, is <cite doc="D.C. Law 8-24">D.C. Law 8-24</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

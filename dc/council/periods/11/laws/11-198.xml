@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 11-198">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 11-198">
   <num type="law">11-198</num>
   <heading type="short">Fiscal Year 1997 Budget Support Act</heading>
   <meta>
@@ -12,4 +12,605 @@
       <narrative>Law 11-198, the “Fiscal Year 1997 Budget Support Act,” was introduced in Council and assigned Bill No. 11-741, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 19, 1996, and July 3, 1996, respectively. Signed by the Mayor on July 26, 1996, it was assigned Act No. 11-360 and transmitted to both Houses of Congress for its review. D.C. Law 11-198 became effective on April 9, 1997.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|11|III"/>
+    <num codify:value="10-1141.01">601</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Conduit” means any pipe or other hollow protective sleeve through which cable may be inserted.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Private structure” means all privately-owned fixtures on public space or in the public rights of way.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Public rights of way” means the surface, the air space above the surface (including air space immediately adjacent to a private structure located on public space or in a public right of way), and the area below the surface of any public street, bridge, tunnel, highway, lane, path, alley, sidewalk, or boulevard used pursuant to District law for public services, including rail lines and electric, natural gas, water, sewer, and communication utilities.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Public space” means all the publicly-owned property between the property lines on a street, park, or other public property as such property lines are shown on the records of the District, and includes any roadway, tree space, sidewalk, or parking between such property lines.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Public structure” means all publicly-owned fixtures on the public space and in the public rights of way.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 601, 43 DCR 4569</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 7253, 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§9-111.01a">9-111.01a</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> added “used pursuant to District law for public services, including rail lines and electric, natural gas, water, sewer, and communication utilities” in (3).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-1071.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 day) additions, see §§ 2 to 4 of Rental of Public Structures in Public Space Temporary Act of 1995 (<cite doc="D.C. Law 11-76">D.C. Law 11-76</cite>, December 21, 1995, law notification  43 DCR 278).</annotation>
+        <annotation>For temporary (225 day) additions, see §§ 601 to 606 of Fiscal Year 1997 Budget Support Temporary Amendment Act of 1996 (<cite doc="D.C. Law 11-226">D.C. Law 11-226</cite>, April 9, 1997, law notification  44 DCR 2584).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of subchapter, see §§ 1001 through 1006 of the Fiscal Year 1997 Budget Support Emergency Act of 1996 (D.C. Act 11-302, July 25, 1996,  43 DCR 4181), §§ 601 through 606 of the Fiscal Year 1997 Budget Support Emergency Act of 1996 (D.C. Act 11-302, July 25, 1996,  43 DCR 4181), §§ 601 through 606 of the Fiscal Year 1997 Budget Support Emergency Amendment Act of 1996 (D.C. Act 11-429, October 29, 1996,  43 DCR 6151), and §§ 6<cite path="§01-606">01-606</cite> of the Fiscal Year 1997 Budget Support Congressional Adjournment Emergency Amendment Act of 1997 (D.C. Act 12-2, February 19, 1997,  44 DCR 1590).</annotation>
+        <annotation>For temporary addition of sections regarding the authorization of the rental of public structures in public space and public right of way by the Mayor, see §§ 2 through 4 of the Rental of Public Structures in Public Space Emergency Act of 1995 (D.C. Act 11-138, August 15, 1995,  42 DCR 4725) and §§ 2 through 4 of the Rental of Public Structures in Public Space Congressional Review Emergency Act of 1995 (D.C. Act 11-143, October 23, 1995,  42 DCR 6035).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 7223 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 11-138">D.C. Law 11-138</cite>, the “Rental of Public Structures in the Public Space Emergency Act of 1995”, see Mayor’s Order 95-117, September 12, 1995.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|11|III"/>
+    <num codify:value="10-1141.02">602</num>
+    <heading>Applicability.</heading>
+    <text>Sections 10-1141.03   to 10-1141.05   shall not apply to:</text>
+    <para>
+      <num>(1)</num>
+      <text>The rental of:</text>
+      <para>
+        <num>(A)</num>
+        <text>Public space for use as a sidewalk cafe, enclosed flower or fruit stand, or for other retail purposes pursuant to §§ <cite path="§10-1101.01">10-1101.01</cite> through <cite path="§10-1102.02">10-1102.02</cite>;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Space for a vault pursuant to §§ <cite path="§10-1103.01">10-1103.01</cite> through <cite path="§10-1104.01">10-1104.01</cite>; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Airspace for buildings, walkways, or other structures designed to be occupied by people on a regular basis, pursuant to subchapter II of this chapter; or</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The occupation or use of public space or public streets by a vendor pursuant to a license to vend which has been issued to the vendor by the Mayor pursuant to Chapter 1A of Title 37 [§ <cite path="§37-131.01">37-131.01</cite> et seq.].</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 602, 43 DCR 4569</annotation>
+        <annotation doc="D.C. Law 18-71">Oct. 22, 2009, D.C. Law 18-71, § 12(b), 56 DCR 6619</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-1072.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-71">D.C. Law 18-71</cite>, in par. (2), substituted “by the Mayor pursuant to Chapter 1A of Title 37” for “pursuant to § <cite path="§47-2834">47-2834</cite>”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 11(b) of Extension of Time to Dispose of the Old Congress Heights School Temporary Amendment Act of 2008 (<cite doc="D.C. Law 17-172">D.C. Law 17-172</cite>, June 5, 2008, law notification  55 DCR 7258).</annotation>
+        <annotation>Section 10(b) of <cite doc="D.C. Law 18-4">D.C. Law 18-4</cite> substituted “issued on or after March 19, 2008” for “pursuant to paragraph 36 of section 7 of An Act making appropriations for the fiscal year ending June thirtieth, nineteen hundred and three and for other purposes, approved July 1, 1902 (32 Stat. 627;  D.C. Code § <cite path="§47-2834">47-2834</cite>)”.</annotation>
+        <annotation>Section 12(b) of <cite doc="D.C. Law 18-4">D.C. Law 18-4</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§10-1141.01">10-1141.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§10-1141.01">10-1141.01</cite>.</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 10(b) of Vending Regulation Emergency Act of 2008 (D.C. Act 17-322, March 19, 2008,  55 DCR 3445).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 10(b) of Vending Regulation Emergency Act of 2009 (D.C. Act 18-9, January 29, 2009,  56 DCR 1638).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 10(b) of Vending Regulation Congressional Review Emergency Act of 2009 (D.C. Act 18-47, April 27, 2009,  56 DCR 3574).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|11|III"/>
+    <num codify:value="10-1141.03">603</num>
+    <heading>Permits for the occupation of public space, public rights of way, and public structures.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor may issue permits to occupy or otherwise use public rights of way, public space, and public structures pursuant to this subchapter for any purpose, including the use of the foregoing for conduits, including conduits which occupy public space, or a public right of way on April 9, 1997.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor may issue permits to occupy public space, public rights of way, and public structures pursuant to this subchapter without regard to whether the permittee owns the property abutting the public space, public right of way, or public structure which is the subject of the permit. The permits shall be subject to the terms and conditions set forth in any agreement entered into by the Mayor and the permittee to carry out the purposes of this subchapter, and to any regulations promulgated pursuant to this subchapter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor may revoke any permit issued pursuant to this subchapter at any time. In the event the Mayor requires any permittee to vacate all or any part of any public space, public right of way, or public structure for which a permit charge has been paid, the Mayor shall refund as much of the prepaid charge as may represent that portion of the permit which has been revoked.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Public space, public rights of way, and public structures which are the subject of a permit issued pursuant to this subchapter may be leased or subleased only with the express consent of the Mayor.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Upon the expiration or revocation of any permit issued pursuant to this subchapter, the Mayor may require, at the expense of the permittee, the immediate removal of any apparatus, structure, or device affixed or erected in public space or on a public right of way, or on a public structure, and the restoration of the public space, public right of way, or public structure to its condition prior to the issuance of the permit. If the permittee does not comply with the requirements of this section, the Mayor may remove any of the permittee’s property and the cost of such removal shall be borne by the permittee.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Mayor shall require permittees blocking a sidewalk, bicycle lane, or other pedestrian or bicycle path to provide a safe accommodation for pedestrians and bicyclists.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 603, 43 DCR 4569</annotation>
+        <annotation doc="D.C. Law 20-49">Dec. 13, 2013, D.C. Law 20-49, § 3(a), 60 DCR 15148</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-1141.02">10-1141.02</cite>, § <cite path="§10-1141.04">10-1141.04</cite>, and § <cite path="§39-501.04">39-501.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-1073.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-49">D.C. Law 20-49</cite> added (f).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes to § <cite path="§10-1141.01">10-1141.01</cite>.</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 19-70">D.C. Law 19-70</cite> added a section to read as follows:</annotation>
+        <annotation>“Sec. 603a. Waiver or reduction of permit fees for the occupation of public space, public rights of way, and public structures.</annotation>
+        <annotation>“The Mayor may waive or reduce any permit fee, except for the application fee, to occupy or otherwise use public space, public rights of way, or public structures for a project that:</annotation>
+        <annotation>“(1) Is conducted by a Business Improvement District or Community Improvement District established pursuant to the Business Improvement Districts Act of 1996, effective May 29, 1996 (<cite doc="D.C. Law 11-134">D.C. Law 11-134</cite>; D.C. Official Code § <cite path="§2-1215.01">2-1215.01</cite> et seq.);</annotation>
+        <annotation>“(2) In the Mayor’s determination, serves a public benefit;</annotation>
+        <annotation>“(3) Does not impose costs on the District government; and</annotation>
+        <annotation>“(4) Does not involve commercial sponsorship.”.</annotation>
+        <annotation>Section 5(b) of <cite doc="D.C. Law 19-70">D.C. Law 19-70</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§7-1071">7-1071</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to D.C. Act 11-429, the “Fiscal Year 1997 Budget Support Emergency Act of 1996”, see Mayor’s Order 96-175, December 9, 1996 ( 43 DCR 6981).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|11|III"/>
+    <num codify:value="10-1141.03a">603a</num>
+    <heading>Waiver or reduction of permit fees for the occupation of public space, public rights of way, and public structures.</heading>
+    <text>The Mayor may waive or reduce any permit fee, except for the application fee, to occupy or otherwise use public space, public rights of way, or public structures for a project that:</text>
+    <para>
+      <num>(1)</num>
+      <text>Is conducted by a Business Improvement District or Community Improvement District established pursuant to subchapter VIII of Chapter 12 of Title 2 [§ <cite path="§2-1215.01">2-1215.01</cite> et seq.];</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>In the Mayor’s determination, serves a public benefit;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Does not impose costs on the District government; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Does not involve commercial sponsorship.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 603a</annotation>
+        <annotation doc="D.C. Law 19-48">as added Dec. 2, 2011, D.C. Law 19-48, § 2, 58 DCR 8943</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition of section, see § 2 of Public Space Permit Fee Waiver Emergency Amendment Act of 2011 (D.C. Act 19-163, October 11, 2011,  58 DCR 8892).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|11|III"/>
+    <num codify:value="10-1141.04">604</num>
+    <heading>Rulemaking.</heading>
+    <text>The Mayor shall issue regulations to implement this subchapter. These regulations shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Provide for a nonrefundable application fee to be paid by any party applying for a permit pursuant to this subchapter. The fee shall be set in an amount to recoup some or all of the costs to the District of Columbia for reviewing the application;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Provide for the payment of a nondiscriminatory, fair, and equitable charge for any permit issued in accordance with this subchapter. The Mayor may allow a permittee to pay a fixed charge for a set period of time, pay an amount based upon the amount of the public right of way or public space used or occupied, pay an amount based upon a revenue sharing formula, or provide in-kind services to the District in lieu of a monetary payment, or the Mayor may require a permittee to pay a combination of these items. The regulations may also provide for interest to be charged on late payments of any charges imposed pursuant to this subchapter;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Generally establish categories of use and the extent to which public space, public rights of way, and public structures may be used;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Establish and regulate the process through which any impact, modification, or damage to the public space, public-rights-of-way, or public structures may be compensated, which may include the establishment of user fees, including impact and other direct-use fees, charges, and penalties. The regulations shall include provisions governing the appropriate bonding and insurance requirements which must be satisfied by any party who receives a permit issued pursuant to this subchapter, and shall provide for any permittee to provide comprehensive indemnification to the District for any costs or damages which it incurs as a result of actions taken by the permittee in connection with the exercise of any rights or privileges granted in any permit issued pursuant to this subchapter;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Provide for the payment of a technology charge or other surcharge to be added to the fee for each permit issued under § <cite path="§10-1141.03">10-1141.03</cite>;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Treat the blockage of a sidewalk, bicycle lane, or other pedestrian or bicycle path the same as the closure of a lane of traffic, and in these cases apply similar regulations as that of a closure of a lane of traffic for each permit issued under § <cite path="§10-1141.03">10-1141.03</cite>;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Define “safe accommodation,” as it appears in paragraph (8) of this section and in § <cite path="§10-1141.03">10-1141.03</cite>, in consultation with the Bicycle Advisory Council and the Pedestrian Advisory Council, which definition shall apply to all permittees and shall ensure the safe and expedient passage of pedestrians and bicyclists; and</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Require permittees to submit for approval by the Mayor a traffic management plan that addresses safe accommodation for pedestrians and bicyclists before the issuance of a permit by the Mayor under § <cite path="§10-1141.03">10-1141.03</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 604, 43 DCR 4569</annotation>
+        <annotation doc="D.C. Law 13-172">Oct. 19, 2000, D.C. Law 13-172, § 504, 47 DCR 6308</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 624, 50 DCR 5668</annotation>
+        <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 6(a), 51 DCR 881</annotation>
+        <annotation doc="D.C. Law 18-223">Sept. 24, 2010, D.C. Law 18-223, § 6012, 57 DCR 6242</annotation>
+        <annotation doc="D.C. Law 20-49">Dec. 13, 2013, D.C. Law 20-49, § 3(b), 60 DCR 15148</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-1074.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-172">D.C. Law 13-172</cite> added par. (5), and rewrote par. (4), which previously read:</annotation>
+        <annotation>“(4) Establish and regulate the process through which any modification or damage to the public space, public rights of way, or public structure may be compensated. The regulations shall include provisions governing the appropriate bonding and insurance requirements which must be satisfied by any party who receives a permit issued pursuant to this subchapter, and shall provide for any permittee to provide comprehensive indemnification to the District for any costs or damages which it incurs as a result of actions taken by the permittee in connection with the exercise of any rights or privileges granted in any permit issued pursuant to this subchapter.”</annotation>
+        <annotation>Section 503 of <cite doc="D.C. Law 13-172">D.C. Law 13-172</cite> provided: “The amendments made by section 502 of this title to the public rights-of-way rental fees do not preclude the Mayor from further amending these same fees as authorized in section 604 of the Fiscal Year 1997 Budget Support Act of 1996 provided that the amended rates, when taken together with the other user fees, charges, and penalties collected pursuant to that section and  D.C. Code § <cite path="§47-2718">47-2718</cite> do not adversely impact the positive fiscal impact identified in section 506 of this title.”</annotation>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> repealed par. (5) which had read as follows: “(5) The first $30 million dollars of annual revenue derived from the collection of the public rights-of-way user fees, charges, and penalties established pursuant to this section shall be dedicated to the Department of Public Works for expenditures related to street and alley repairs and maintenance that would otherwise be paid out of the General Fund. Any revenues in excess of $30 million annually from the collection of these public rights-of-way user fees, charges, and penalties shall be dedicated to the District of Columbia Highway Trust Fund”.</annotation>
+        <annotation><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in par. (5), validated a previously made technical corrections.</annotation>
+        <annotation><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> deleted “and” from the end of par. (3); substituted “; and” for a period at the end of par. (4); and added par. (5).</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-49">D.C. Law 20-49</cite> added (6), (7) and (8); and made related changes.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§10-1141.01">10-1141.01</cite>.</annotation>
+        <annotation>For temporary (90-day) amendment of section, and statement of continuing amendment authorization, see §§ 503 and 504 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see §§ 503 and 504 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000,  47 DCR 8740).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 624 of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 624 of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 6012 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 6011 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle B of title VI of the act may be cited as the “Public Space Permit Enhancement Amendment Act of 2010”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|11|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="10-1141.04a">604a</num>
+    <heading>Dedication of public rights-of-way user fees, charges, and penalties.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 604a</annotation>
+        <annotation doc="D.C. Law 13-172">as added Oct. 19, 2000, D.C. Law 13-172, § 504(b), 47 DCR 6308</annotation>
+        <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 6(b), 51 DCR 881</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 85(a), 52 DCR 2638</annotation>
+        <annotation doc="D.C. Law 16-91">Apr. 7, 2006, D.C. Law 16-91, § 112, 52 DCR 10637</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal of section, see § 3 of Highway Trust Fund and District Department of Transportation Emergency Amendment Act of 2005 (D.C. Act 16-206, November 17, 2005,  52 DCR 10524).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|11|III"/>
+    <num codify:value="10-1141.05">605</num>
+    <heading>Inspection and audit of books and records.</heading>
+    <text>The Mayor shall require a permittee to maintain specific books, records, and accounts. All books, records, and accounts of any permittee may be inspected by the Mayor, and may be inspected and audited by the District of Columbia Inspector General in order to determine whether the permittee has paid or will pay all amounts properly owed under any permit issued pursuant to this subchapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 605, 43 DCR 4569</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-1075.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§10-1141.01">10-1141.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§10-1141.01">10-1141.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|11|III"/>
+    <num codify:value="10-1141.06">606</num>
+    <heading>Surcharge authorization.</heading>
+    <text>Each public utility company regulated by the Public Service Commission shall recover from its utility customers all lease payments which it pays to the District of Columbia pursuant to this title through a surcharge mechanism applied to each unit of sale and the surcharge amount shall be separately stated on each customer’s monthly billing statement.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 606, 43 DCR 4569</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-1076.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes to § <cite path="§10-1141.01">10-1141.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§10-1141.01">10-1141.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|11|III"/>
+    <num codify:value="10-1141.07">607</num>
+    <heading>Enforcement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Civil fines and penalties may be imposed as sanctions for any infraction of the provisions of this subchapter or any rules issued in accordance with this subchapter, pursuant to Chapter 18 of Title 2 [§ <cite path="§2-1801.01">2-1801.01</cite> et seq.] (“Civil Infractions Act”). Enforcement and adjudication of an infraction shall be pursuant to the Civil Infractions Act.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor may also enforce this subchapter or any rules issued in accordance with this subchapter pursuant to § <cite path="§50-921.19">50-921.19</cite>(a), (c), (d), (e), and (f).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 607</annotation>
+        <annotation doc="D.C. Law 20-207">as added Mar. 11, 2015, D.C. Law 20-207, § 8, 61 DCR 12690</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-207">D.C. Law 20-207</cite>: Section 12(a) of <cite doc="D.C. Law 20-207">D.C. Law 20-207</cite> provided that §§ 2(a), 2(b)(1), 2(b)(2)(A), 2(b)(2)(B), 2(b)(2)(C), 2(c), 3, 4, 6, 7, 8, 9, 10, and 11 shall apply as of March 11, 2015.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|3|II"/>
+    <num codify:value="50-332">505</num>
+    <heading>Enforcement and issuance of citations; report.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Taxicab Commission and the Metropolitan Police Department shall concurrently enforce and issue citations relating to Taxicab requirements.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>On November 1st of each year the Mayor shall provide to the Committee on Public Works and the Environment, or a successor committee with oversight of the Taxicab Commission, a report on the number of civil citations issued pursuant to 31 DCMR § 825 and laws and regulations of the District of Columbia, and a report on any criminal infractions issued during the prior fiscal year.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>On a quarterly basis, beginning in FY 2002, the Taxicab Commission shall issue a report to the Committee on Public Works and the Environment, or a successor committee with oversight of the Taxicab Commission, containing the number of civil infractions issued pursuant to 31 DCMR § 825, by Taxicab Hack Inspectors. This document shall also indicate the number of infractions that were deemed liable through the adjudication process.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 505, 43 DCR 4569</annotation>
+        <annotation doc="D.C. Law 14-28">Oct. 3, 2001, D.C. Law 14-28, § 2502, 48 DCR 6981</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-1722.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-28">D.C. Law 14-28</cite> rewrote the section which had read as follows: “The Metropolitan Police Department shall enforce and issue citations relating to taxicab requirements including notices of civil infractions issued pursuant to  31 DCMR 825. The Metropolitan Police Department shall provide to the Taxicab Commission, on a an annual basis, a report on the number of citations issued to vehicles for hire.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 505 of Fiscal Year 1997 Budget Support Temporary Amendment Act of 1996 (<cite doc="D.C. Law 11-226">D.C. Law 11-226</cite>, April 9, 1997, law notification  44 DCR 2584).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of section, see § 505 of the Fiscal Year 1997 Budget Support Emergency Act of 1996 (D.C. Act 11-302, July 25, 1996,  43 DCR 4181), see § 505 of the Fiscal Year 1997 Budget Support Emergency Amendment Act of 1996 (D.C. Act 11-429, October 29, 1996,  43 DCR 6151), and see § 505 of the Fiscal Year 1997 Budget Support Congressional Adjournment Emergency Amendment Act of 1997 (D.C. Act 12-2, February 19, 1997,  44 DCR 1590).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2302 of Fiscal Year 2002 Budget Support Emergency Act of 2001 (D.C. Act 14-124, August 3, 2001,  48 DCR 7861).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|22|V|A"/>
+    <num codify:value="50-2209.01">901</num>
+    <heading>Authorized; violations as moving violations; evidence; definition.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor is authorized to use an automated traffic enforcement system to detect moving infractions. Violations detected by an automated traffic enforcement system shall constitute moving violations. Proof of an infraction may be evidenced by information obtained through the use of an automated traffic enforcement system. For the purposes of this subchapter, the term “automated traffic enforcement system” means equipment that takes a film or digital camera-based photograph which is linked with a violation detection system that synchronizes the taking of a photograph with the occurrence of a traffic infraction.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Recorded images taken by an automated traffic enforcement system are prima facie evidence of an infraction and may be submitted without authentication.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>An individual’s driver’s license or privilege to operate a motor vehicle in the District shall not be suspended for a violation detected by an automated traffic enforcement system for failure to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Timely answer a notice of infraction;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Appear, without good cause, at a scheduled hearing; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Timely pay any civil fine or penalty.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 901, 43 DCR 4569</annotation>
+        <annotation doc="D.C. Law 19-187">Oct. 23, 2012, D.C. Law 19-187, § 2(a), 59 DCR 10149</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-751.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-187">D.C. Law 19-187</cite> added (c).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 901 of Fiscal Year 1997 Budget Support Temporary Amendment Act of 1996 (<cite doc="D.C. Law 11-226">D.C. Law 11-226</cite>, April 9, 1997, law notification  44 DCR 2584).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of section, see § 901 of the Fiscal Year 1997 Budget Support Emergency Act of 1996 (D.C. Act 11-302, July 25, 1996,  43 DCR 4181), § 901 of the Fiscal Year 1997 Budget Support Emergency Amendment Act of 1996 (D.C. Act 11-429, October 29, 1996,  43 DCR 6151), and § 901 of the Fiscal Year 1997 Budget Support Congressional Adjournment Emergency Amendment Act of 1997 (D.C. Act 12-2, February 19, 1997,  44 DCR 1590).</annotation>
+        <annotation>For temporary amendment of section, see § 902 of the Fiscal Year 1997 Budget Support Emergency Act of 1996 (D.C. Act 11-302, July 25, 1996,  43 DCR 4181), § 902 of the Fiscal Year 1997 Budget Support Emergency Amendment Act of 1996 (D.C. Act 11-429, October 29, 1996,  43 DCR 6151), and § 902 of the Fiscal Year 1997 Budget Support Congressional Adjournment Emergency Amendment Act of 1997 (D.C. Act 12-2, February 19, 1997,  44 DCR 1590).</annotation>
+        <annotation>For temporary (90 day) addition of section, see § 2 of Automated Traffic Enforcement Fund Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-1, January 19, 2005,  52 DCR 2671).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Because of the codification of <cite doc="D.C. Law 19-223">D.C. Law 19-223</cite>, § 103 as Part B of this subchapter, the preexisting text, §§ <cite path="§50-2209.01">50-2209.01</cite> to 50-2209.03, has been designated as Part A.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|22|V|A"/>
+    <num codify:value="50-2209.02">902</num>
+    <heading>Liability for fines; notice of infraction; hearing.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Absent an intervening criminal or fraudulent act, the owner of a vehicle issued a notice of infraction shall be liable for payment of the fine assessed for the infraction.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>When a violation is detected by an automated traffic enforcement system, the Mayor shall mail a summons and a notice of infraction to the name and address of the registered owner of the vehicle on file with the Department of Motor Vehicles or the appropriate state motor vehicle agency. The notice shall include the date, time, and location of the violation, the type of violation detected, the license plate number, and state of issuance of the vehicle detected, and a copy of the photo or digitized image of the violation.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>An owner or operator who receives a citation may request a hearing which shall be adjudicated pursuant to subchapter I of Chapter 23 of this title.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The owner or operator of a vehicle shall not be presumed liable for violations in the vehicle recorded by an automated traffic enforcement system when yielding the right of way to an emergency vehicle, when the vehicle or tags have been reported stolen prior to the citation, when part of a funeral procession, or at the direction of a law enforcement officer.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 902, 43 DCR 4569</annotation>
+        <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 51, 45 DCR 745</annotation>
+        <annotation doc="D.C. Law 15-307">Apr. 8, 2005, D.C. Law 15-307, § 206, 52 DCR 1700</annotation>
+        <annotation doc="D.C. Law 19-187">Oct. 23, 2012, D.C. Law 19-187, § 2(b), 59 DCR 10149</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-629.05">1-629.05</cite>, § <cite path="§50-331">50-331</cite>, and § <cite path="§50-2201.03">50-2201.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-752.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-307">D.C. Law 15-307</cite>, in subsec. (a), substituted “the name, driver’s license number, and address of the person who leased, rented, or otherwise had care, custody, or control of the vehicle; except that if the vehicle was in the temporary care, custody, or control of a business, the owner need only provide the name and address of that business” for “the name and address of the person who leased, rented, or otherwise had care, custody, or control of the vehicle”.</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-187">D.C. Law 19-187</cite> rewrote (a); and substituted “Department of Motor Vehicles” for “Bureau of Motor Vehicle Services” in (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 902 of Fiscal Year 1997 Budget Support Temporary Amendment Act of 1996 (<cite doc="D.C. Law 11-226">D.C. Law 11-226</cite>, April 9, 1997, law notification  44 DCR 2584).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 903 of the Fiscal Year 1997 Budget Support Emergency Act of 1996 (D.C. Act 11-302, July 25, 1996,  43 DCR 4181), § 903 of the Fiscal Year 1997 Budget Support Emergency Amendment Act of 1996 (D.C. Act 11-429, October 29, 1996,  43 DCR 6151), and § 903 of the Fiscal Year 1997 Budget Support Congressional Adjournment Emergency Amendment Act of 1997 (D.C. Act 12-2, February 19, 1997,  44 DCR 1590).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|22|V|A"/>
+    <num codify:value="50-2209.03">903</num>
+    <heading>Agreement with private entity to provide records and services.</heading>
+    <text>The Mayor may enter an agreement with a private entity to obtain relevant records regarding registration information or to perform tasks associated with the use of an automated traffic enforcement system, including, but not limited to, the operation, maintenance, administration or mailing of notices of violations.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 903, 43 DCR 4569</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Automated traffic enforcement systems, adjudication of citations, see § <cite path="§50-2209.02">50-2209.02</cite>.</annotation>
+        <annotation>Capitol Grounds, traffic rules and regulations, fines and penalties, prosecution, see § <cite path="§10-503.25">10-503.25</cite>.</annotation>
+        <annotation>Compulsory/no-fault motor vehicle insurance, offenses, fines pursuant to this chapter, see § <cite path="§31-2413">31-2413</cite>.</annotation>
+        <annotation>Hazardous materials transportation, fines and penalties, adjudication of violations, see § <cite path="§8-1404">8-1404</cite>.</annotation>
+        <annotation>National Capital Region Transportation, revenues allocated to the Metrorail/Metrobus Account, see § <cite path="§9-1111.15">9-1111.15</cite>.</annotation>
+        <annotation>Regulation of traffic, penalties for violations, see § <cite path="§50-2201.03">50-2201.03</cite>.</annotation>
+        <annotation>Traffic violations, speeding and reckless driving, civil fines, see § <cite path="§50-2201.04">50-2201.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-753.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 904 of Fiscal Year 1997 Budget Support Temporary Amendment Act of 1996 (<cite doc="D.C. Law 11-226">D.C. Law 11-226</cite>, April 9, 1997, law notification  44 DCR 2584).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 2 of Automated Traffic Enforcement Fund Temporary Amendment Act of 2002 (<cite doc="D.C. Law 14-226">D.C. Law 14-226</cite>, March 25, 2003, law notification  50 DCR 2739).</annotation>
+        <annotation>For temporary (225 day) addition, see § 2 of Automated Traffic Enforcement Fund Temporary Amendment Act of 2003 (<cite doc="D.C. Law 15-103">D.C. Law 15-103</cite>, March 10, 2004, law notification  51 DCR 3623).</annotation>
+        <annotation>For temporary (225 day) addition, see § 2 of Automated Traffic Enforcement Fund Temporary Amendment of 2004 (<cite doc="D.C. Law 15-252">D.C. Law 15-252</cite>, March 17, 2005, law notification  52 DCR 4128).</annotation>
+        <annotation>Section 2 and 3 of <cite doc="D.C. Law 18-281">D.C. Law 18-281</cite> added sections to read as follows:</annotation>
+        <annotation>“Sec. 904. Automated Traffic Enforcement Fund.</annotation>
+        <annotation>“(a) Effective April 9, 1997, there is established the Automated Traffic Enforcement Fund (‘Fund’) as a lapsing fund, to be administered by the Mayor as an agency fund as defined in D.C. Official Code § <cite path="§47-373">47-373</cite>(2)(I), into which shall be deposited funds to be used exclusively for the administration of the automated traffic enforcement system.</annotation>
+        <annotation>“(b) Authorized expenditures from the Fund include:</annotation>
+        <annotation>“(1) Vendor payments pursuant to an agreement reached under section 903 of this title;</annotation>
+        <annotation>“(2) Salaries, benefits, and overtime incurred by members of the Metropolitan Police Department in the administration of the system;</annotation>
+        <annotation>“(3) Adjudication costs resulting from use of the system;</annotation>
+        <annotation>“(4) Supplies and equipment purchases related to use of the system;</annotation>
+        <annotation>“(5) Utilities;</annotation>
+        <annotation>“(6) Fleet acquisition and operation;</annotation>
+        <annotation>“(7) Facility improvements, rent, and occupancy; and</annotation>
+        <annotation>“(8) Any other expense determined by the Mayor or his designee to be required for the administration of the system.</annotation>
+        <annotation>“(c) The Fund shall be financed through fines and fees received from enforcement and regulation of the activities described in section 902 of this title and through other funds as may be appropriated to the Fund. Revenue deposited into the Fund and all interest earned thereon shall revert to the General Fund of the District of Columbia on September 30 of each fiscal year, but shall, during the fiscal year, be continually available for the uses and purposes set forth in this section, subject to authorization by Congress in an appropriations act.</annotation>
+        <annotation>“(d) The Fund shall be accounted for under procedures established pursuant to D.C. Official Code §§ <cite path="§47-371">47-371</cite> through <cite path="§47-377">47-377</cite>. “Sec. 3. As of the effective date of the Automated Traffic Enforcement Fund Emergency Amendment Act of 2010, effective September 29, 2010 (D.C. Act 18-536; 57 DCR  __), an amount up to but not exceeding $9 million shall be reprogrammed from the Metropolitan Police Department (FA0) Special Purpose Revenue operating budget to the pay-go Capital Budget within Agency PA0 for purposes of supporting future automated traffic initiatives. Notice of the reprogramming authorized by this section shall be transmitted to the Council prior to its taking effect.”</annotation>
+        <annotation>Section 5(b) of <cite doc="D.C. Law 18-281">D.C. Law 18-281</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 904 of the Fiscal Year 1997 Budget Support Emergency Act of 1996 (D.C. Act 11-302, July 25, 1996,  43 DCR 4181), § 904 of the Fiscal Year 1997 Budget Support Emergency Amendment Act of 1996 (D.C. Act 11-429, October 29, 1996,  43 DCR 6151), and § 904 of the Fiscal Year 1997 Budget Support Congressional Adjournment Emergency Amendment Act of 1997 (D.C. Act 12-2, February 19, 1997,  44 DCR 1590).</annotation>
+        <annotation>For temporary (90 day) addition of § <cite path="§50-2209.04">50-2209.04</cite>, see § 2 of Automated Traffic Enforcement Fund Second Congressional Review Emergency Amendment Act of 2002 (D.C. Act 14-604, January 7, 2003,  50 DCR 689).</annotation>
+        <annotation>For temporary (90 day) addition of § <cite path="§50-2209.04">50-2209.04</cite>, see § 2 of Automated Traffic Enforcement Fund Emergency Amendment Act of 2002 (D.C. Act 14-422, July 17, 2002,  49 DCR 7619).</annotation>
+        <annotation>For temporary (90 day) addition of § <cite path="§50-2209.04">50-2209.04</cite>, see § 2 of Automated Traffic Enforcement Fund Congressional Review Emergency Amendment Act of 2002 (D.C. Act 14-493, October 23, 2002,  49 DCR 9779).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2 of Automated Traffic Enforcement Fund Emergency Amendment Act of 2003 (D.C. Act 15-189, October 24, 2003,  50 DCR 9497).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2 of Automated Traffic Enforcement Fund Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-327, January 28, 2004,  51 DCR 1595).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2 of Automated Traffic Enforcement Fund Emergency Amendment Act of 2004 (D.C. Act 15-590, November 1, 2004,  51 DCR 10727).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2 of Automated Traffic Enforcement Fund Emergency Amendment Act of 2010 (D.C. Act 18-536, September 29, 2010,  57 DCR 9292).</annotation>
+        <annotation>For temporary (90 day) addition of section, see § 2 of Automated Traffic Enforcement Fund Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-671, December 28, 2010,  58 DCR 123).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

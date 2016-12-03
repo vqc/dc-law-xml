@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 1-23">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 1-23">
   <num type="law">1-23</num>
   <meta>
     <effective>1975-10-21</effective>
@@ -14,5 +14,85 @@
   <container>
     <prefix>Title</prefix>
     <num>VII</num>
+    <section>
+      <num>701</num>
+      <para from-code="true" codify:tag="section">
+        <codify:insert doc="D.C. Code" before="§34-2105.01" path="|34|21|I"/>
+        <reason>Repealed</reason>
+        <num codify:value="34-2105">(b)</num>
+        <heading>Sanitary sewer service charge.</heading>
+        <text>Repealed.</text>
+        <annotations>
+          <annoGroup>
+            <heading>History</heading>
+            <annotation doc="D.C. Law 1-23">Oct. 21, 1975, D.C. Law 1-23, title VII, § 701(b), 22 DCR 2115</annotation>
+            <annotation doc="D.C. Law 1-70">June 15, 1976, D.C. Law 1-70, title VI, § 602, 23 DCR 549</annotation>
+            <annotation doc="D.C. Law 3-134">Mar. 5, 1981, D.C. Law 3-134, § 3, 27 DCR 4424</annotation>
+            <annotation doc="D.C. Law 4-112">June 4, 1982, D.C. Law 4-112, § 4, 29 DCR 1687</annotation>
+            <annotation doc="D.C. Law 5-14">June 22, 1983, D.C. Law 5-14, § 1003, 30 DCR 2632</annotation>
+            <annotation doc="D.C. Law 7-26">Oct. 1, 1987, D.C. Law 7-26, § 3, 34 DCR 5074</annotation>
+            <annotation doc="D.C. Law 8-38">Oct. 18, 1989, D.C. Law 8-38, § 3, 36 DCR 5752</annotation>
+            <annotation doc="D.C. Law 11-111">repealed pursuant to § 305 of D.C. Law 11-111</annotation>
+          </annoGroup>
+          <annoGroup>
+            <heading>Prior Codifications</heading>
+            <annotation>1981 Ed., § 43-1605.</annotation>
+            <annotation>1973 Ed., § 43-1605a.</annotation>
+          </annoGroup>
+          <annoGroup>
+            <heading>Editor's Notes</heading>
+            <annotation>Repeal effective 90 days after meeting of Board: Section 305 of <cite doc="D.C. Law 11-111">D.C. Law 11-111</cite> repealed this section. However, § 601 of <cite doc="D.C. Law 11-111">D.C. Law 11-111</cite> provided that title III of the act shall apply 90 days after the initial meeting of the Board established by section 204 of the act.</annotation>
+          </annoGroup>
+        </annotations>
+      </para>
+      <para from-code="true" codify:tag="section">
+        <codify:insert doc="D.C. Code" before="§34-2413.10" path="|34|24|VII"/>
+        <reason>Repealed</reason>
+        <num codify:value="34-2413.09">(a)</num>
+        <heading>Water and water service rates and charges.</heading>
+        <text>Repealed.</text>
+        <annotations>
+          <annoGroup>
+            <heading>History</heading>
+            <annotation doc="D.C. Law 1-23">Oct. 21, 1975, D.C. Law 1-23, title VII, § 701(a), 22 DCR 2114</annotation>
+            <annotation doc="D.C. Law 11-111">repealed pursuant to § 302 of D.C. Law 11-111</annotation>
+          </annoGroup>
+          <annoGroup>
+            <heading>Prior Codifications</heading>
+            <annotation>1981 Ed., § 43-1525.</annotation>
+            <annotation>1973 Ed., § 1520d.</annotation>
+          </annoGroup>
+          <annoGroup>
+            <heading>Editor's Notes</heading>
+            <annotation>Repeal effective 90 days after meeting of Board: Section 304 of <cite doc="D.C. Law 11-111">D.C. Law 11-111</cite> repealed this section. However, § 601 of <cite doc="D.C. Law 11-111">D.C. Law 11-111</cite> provided that title III of the act shall apply 90 days after the initial meeting of the Board established by section 204 of the act.</annotation>
+          </annoGroup>
+        </annotations>
+      </para>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§34-2401.07" path="|34|24|I"/>
+      <num codify:value="34-2401.06">703</num>
+      <heading>Change of ownership or occupancy; statement of account.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person who desires a statement of the account of any water and sanitary sewer service charge to the date of the acquisition of any real property shall make a written request to the Department of Public Works (“Department”) on or before the date of the acquisition, except that the Mayor may enforce payment of water and sewer service charges by shutting off the water supply or refusing to restore the water supply without regard to a change of ownership or occupancy of any real property. The Department shall issue a statement of the account within 30 days after receipt of the request for a statement of the account.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Mayor, with prior written notice to the owner of the date and time of entry, and consistent with constitutional guidelines, may enter any building, establishment, or other premises furnished water or sanitary sewer service. If the Mayor is unable to gain entry to the real property after 2 attempts, the Mayor shall notify the owner or occupant to contact the Department within 3 business days after notice is mailed to the owner. If the owner or occupant fails to contact the Department, it shall be presumed that the owner or occupant refuses to permit entry to the property and the Mayor may impose a penalty of $100 and shut off the water supply to the real property. Upon the payment of the penalty or issuance of a final decision where the owner files a request for administrative review, the Mayor shall restore the water supply.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 1-23">Oct. 21, 1975, D.C. Law 1-23, title VII, § 703, 22 DCR 2116</annotation>
+          <annotation doc="D.C. Law 8-136">June 13, 1990, D.C. Law 8-136, § 3, 37 DCR 2620</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1506.</annotation>
+          <annotation>1973 Ed., § 43-1504b.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 17-281">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 17-281">
   <num type="law">17-281</num>
   <heading type="short">Animal Protection Amendment Act of 2008</heading>
   <meta>
@@ -12,4 +12,255 @@
       <narrative>Law 17-281, the “Animal Protection Amendment Act of 2008”, was introduced in Council and assigned Bill No. 17-89 which was referred to the Committees on Health and Public Safety and Judiciary. The Bill was adopted on first and second readings on July 1, 2008, and July 15, 2008, respectively. Signed by the Mayor on August 4, 2008, it was assigned Act No. 17-493 and transmitted to both Houses of Congress for its review. D.C. Law 17-281 became effective on December 5, 2008.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|II"/>
+    <num codify:value="8-1821.01">201</num>
+    <heading>Commercial animal breeder license.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 180 days of December 5, 2008, the Mayor shall establish licensure requirements for commercial animal breeders in the District of Columbia, which shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>Licensing fees;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Standards for the care and management of animals; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Facility inspection requirements.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>For the purposes of this section, the term “commercial animal breeder” means any person, firm, organization, or corporation engaged in the operation of breeding and raising more than 25 animals per year for sale or in return for consideration.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 201, 55 DCR 9186</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 701 of <cite doc="D.C. Law 17-281">D.C. Law 17-281</cite> provided: “Sec. 701. Rulemaking. The Mayor, pursuant to Title 1 of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), shall issue rules to implement the provisions of this act.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|II"/>
+    <num codify:value="8-1821.02">202</num>
+    <heading>Commercial pet care facilities; rulemaking.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person shall operate a commercial pet care facility without first obtaining a basic business license with an Inspected Sales and Services license endorsement pursuant to Title 47. The Mayor shall issue rules to establish the standards for the care and management of animals in a commercial pet care facility.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>For the purposes of this section, the term “commercial pet care facility” means a facility that provides day or overnight boarding, or provides pet-related services, including feeding, exercise, training, bathing, or grooming, but does not include an animal facility as defined in § <cite path="§3-502">3-502</cite> [repealed] or a licensed pet shop.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 202, 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|III"/>
+    <num codify:value="8-1831.01">301</num>
+    <heading>Release of animals.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person shall release an animal from the custody or control of any entity charged with animal protection for any purpose except adoption or to improve the opportunity for adoption, redemption by the owner of the animal, or other suitable placement in the best interest of the animal. No animals shall be knowingly released from any entity charged with animal protection for the purposes of research, experimentation, testing, or medical instruction or demonstration.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A person who violates this section is guilty of a misdemeanor punishable by imprisonment for not more than 180 days, a fine of not more than $1,000, or both.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 301, 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|IV"/>
+    <num codify:value="8-1841.01">401</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term “commercial guard dog” means any dog trained to guard, protect, patrol, or defend any commercial premises.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 401, 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|IV"/>
+    <num codify:value="8-1841.02">402</num>
+    <heading>License; immunizations.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All commercial guard dogs shall have a valid commercial guard dog license issued pursuant to District law. Upon issuance of a license, the Mayor shall issue a fluorescent guard dog identification tag, or such other tag as the Mayor determines appropriate, to be affixed to the collar or harness of the commercial guard dog to indicate the dog is a commercial guard dog.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All commercial guard dogs shall be immunized against rabies and distemper pursuant to District law, and a current and valid certificate of these immunizations shall be retained on file by the owner of the commercial guard dog.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 402, 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|IV"/>
+    <num codify:value="8-1841.03">403</num>
+    <heading>Health.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All commercial guard dogs shall undergo an annual examination by a licensed veterinarian for the purpose of determining whether or not the animal is healthy and fit to work as a commercial guard dog. Upon a determination by a licensed veterinarian that a commercial guard dog is unfit to work, the dog shall not be used to guard, protect, patrol, or defend any commercial premises until the dog is re-examined by the veterinarian. Upon a determination by a licensed veterinarian that a commercial guard dog is permanently unfit to work, the dog shall be immediately retired.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>It shall be unlawful for any individual, business, or entity to cause, allow, use, or train commercial guard dogs that have undergone the surgical procedure of ventricular cordectomy.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 403, 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|IV"/>
+    <num codify:value="8-1841.04">404</num>
+    <heading>Insurance requirements.</heading>
+    <text>An individual, business, or entity that utilizes a commercial guard dog shall maintain a general liability insurance policy for bodily injury, personal injury, and property damage of not less than $50,000 to insure against liability resulting from acts of the animal performed while on guard duty.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 404, 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|IV"/>
+    <num codify:value="8-1841.05">405</num>
+    <heading>Notification requirements.</heading>
+    <text>An individual, business, or entity that utilizes a commercial guard dog shall notify the Mayor, in writing, as to the presence of the animal and shall provide contact information for the entity responsible for the animal and a 24-hour emergency telephone number.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 405, 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|IV"/>
+    <num codify:value="8-1841.06">406</num>
+    <heading>Signage.</heading>
+    <text>An individual, business, or entity that utilizes a commercial guard dog shall post a sign in plain view alerting the public to the presence of a commercial guard dog and shall include the name of the entity responsible for the animal and a 24-hour emergency telephone.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 406, 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|IV"/>
+    <num codify:value="8-1841.07">407</num>
+    <heading>Care of animal.</heading>
+    <text>A commercial guard dog shall not be maintained on any premises unless the dog is provided:</text>
+    <para>
+      <num>(1)</num>
+      <text>Full access to an enclosed shelter sufficient to protect the dog from wind, rain, excessive heat or cold, and disease; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Continuous access to sufficient food and water.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 407, 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|IV"/>
+    <num codify:value="8-1841.08">408</num>
+    <heading>Violation and penalty.</heading>
+    <text>Any person found guilty of violating this subchapter shall be subject to a penalty of $500 for the first offense and $1,000 for each subsequent offense.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 408, 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|IV"/>
+    <num codify:value="8-1841.09">409</num>
+    <heading>Rules.</heading>
+    <text>The Mayor shall issue rules to implement the provisions of this subchapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 409, 55 DCR 9186</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 65, 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “this subchapter” for “this section.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|V"/>
+    <num codify:value="8-1851.01">501</num>
+    <heading>Animals kept in schools.</heading>
+    <text>Only animals of appropriate size and temperament suitable to a classroom environment shall be introduced into the classroom. Use of such animals shall be for instructional purposes only.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 501, 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|V"/>
+    <num codify:value="8-1851.02">502</num>
+    <heading>Care of classroom animals.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Animals kept in schools shall be provided sufficient food and water, be cared for in a safe and humane manner, and remain in schools during holidays only if provided adequate care.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Animals no longer needed in the classroom should be adopted out to a suitable home or given to a local humane organization for adoption.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 502, 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|18|VI"/>
+    <num codify:value="8-1861.01">601</num>
+    <heading>Animal emergency preparedness plan.</heading>
+    <text>Within 90 days of December 5, 2008, the Mayor shall establish an emergency preparedness plan for the protection, sheltering, and evacuation of domestic animals during and following a major disaster or emergency.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 601, 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

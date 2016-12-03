@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 12-209">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 12-209">
   <num type="law">12-209</num>
   <heading type="short">Health Insurance Portability and Accountability Federal Law Conformity and No-Fault Motor Vehicle Insurance Act of 1998</heading>
   <meta>
@@ -12,4 +12,1799 @@
       <narrative>Law 12-209, the “Health Insurance Portability and Accountability Federal Law Conformity and No-Fault Motor Vehicle Insurance Act of 1998,” was introduced in Council and assigned Bill No. 12-419, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second reading on July 7, 1998, and September 22, 1998, respectively. Signed by the Mayor on October 16, 1998, it was assigned Act No. 12-496, and transmitted to both Houses of Congress for review. D.C. Law 12-209 became effective on April 13, 1999.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|I"/>
+    <num codify:value="31-3301.01">101</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Affiliation period” means a period which, under the terms of the health insurance coverage offered by a health maintenance organization, must expire before the health insurance coverage becomes effective. The health maintenance organization is not required to provide health care services or benefits during such period and no premium shall be charged to the participant or beneficiary for any coverage during the period. Such period shall begin on the enrollment date. An affiliation period under a plan shall run concurrently with any waiting period under the plan.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Beneficiary” has the meaning given such term under section 3(8) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 834; 29 U.S.C. § 1002(8)).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Bona fide association” means, with respect to health insurance coverage offered in the District of Columbia, an association which:</text>
+      <para>
+        <num>(A)</num>
+        <text>Has been actively in existence for at least 5 years;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Has been formed and maintained in good faith for purposes other than obtaining insurance;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Does not condition membership in the association on any health status-related factor relating to an individual (including an employee of an employer or a dependent of an employee);</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Makes health insurance coverage offered through the association available to all members regardless of any health status-related factor relating to such members (or individuals eligible for coverage through a member);</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Does not make health insurance coverage offered through the association available other than in connection with a member of the association; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Meets such additional requirements as may be imposed under the laws of the District of Columbia.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Certification” means a written certification of the period of creditable coverage applicable to an individual.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Church plan” has the meaning given such term under section 3(33) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 838; 29 U.S.C. § 1002(33)).</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“COBRA continuation provision” means any of the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>Section 3011(a) of the Internal Revenue Code of 1986, approved November 10, 1988 (102 Stat. 3616; 26 U.S.C. § 4980B), other than subsection (f)(1) of such section insofar as it relates to pediatric vaccines;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, approved April 7, 1986 (100 Stat. 227; 29 U.S.C. § 1161 et seq.), other than section 609 of such Act; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Title XXII of the Public Health Service Act, approved July 1, 1994 (100 Stat. 232; 42 U.S.C. §  300bb-1 et seq.).</text>
+      </para>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Commissioner” means the Commissioner of the Department of Insurance, Securities, and Banking.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <para>
+        <num>(A)</num>
+        <text>“Creditable coverage” means, with respect to an individual, coverage of the individual under any of the following:</text>
+        <para>
+          <num>(i)</num>
+          <text>A group health plan;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Health insurance coverage;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Part A or B of title XVIII of the Social Security Act, approved July 30, 1965 (79 Stat. 291; 42 U.S.C. § 1395c et seq. or 42 U.S.C. §  1395j et seq., respectively);</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Title XIX of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.), other than coverage consisting solely of benefits under section 1928;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Chapter 55 of Title 10, United States Code (10 U.S.C. § 1071 et seq.);</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>A medical care program of the Indian Health Service or of a tribal organization;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>A state health benefits risk pool;</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>A health plan offered under Chapter 89 of Title 5, United States Code (5 U.S.C. § 8901 et seq.);</text>
+        </para>
+        <para>
+          <num>(ix)</num>
+          <text>A public health plan (as defined in regulations); or</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>A health benefit plan under section 5(e) of the Peace Corps Act, approved September 22, 1961 (75 Stat. 614; 22 U.S.C. § 2504(e)).</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>“Creditable coverage” does not include coverage consisting solely of coverage of excepted benefits.</text>
+      </para>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Dependent” means the spouse or child of an eligible employee, subject to the applicable terms of the policy, contract, or plan covering the eligible employee.</text>
+    </para>
+    <para>
+      <num>(9A)</num>
+      <text>“Domestic partnership” shall have the same meaning as provided in § <cite path="§32-701">32-701</cite>(4).</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Eligible employee” means an employee who works for a small group employer on a full-time basis, has a normal work week of 30 or more hours, has satisfied applicable waiting period requirements, and is not a part-time, temporary, or substitute employee.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Eligible individual” means an individual:</text>
+      <para>
+        <num>(A)</num>
+        <para>
+          <num>(i)</num>
+          <text>For whom, as of the date on which the individual seeks individual coverage under this chapter, the aggregate of the periods of creditable coverage is 18 or more months, and (ii) whose most recent prior creditable coverage was under a group health plan, governmental plan, church plan, or health insurance coverage offered in connection with any such plan;</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Who is not eligible for coverage under (i) a group health plan, (ii) part A or part B of title XVIII of the Social Security Act, or (iii) a state plan under title XIX of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.), or any successor program, and does not have other health insurance coverage;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>With respect to whom the most recent coverage within the coverage period described in subparagraph (A) of this paragraph was not terminated based on a factor described in § <cite path="§31-3302.05">31-3302.05</cite>(b) relating to nonpayment of premiums or fraud;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>If the individual had been offered the option of continuation coverage under a COBRA continuation provision or under a similar state program, who elected such coverage; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Who, if the individual elected such continuation coverage, has exhausted such continuation coverage under such provision or program.</text>
+      </para>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Employer” has the meaning given such term under section 3(5) of the Employee Retirement Income Security Act of 1974, approved September 12, 1974 (88 Stat. 834; 29 U.S.C. § 1002(5)), except that such term shall include only employers of 2 or more employees.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“Enrollment date” means, with respect to an eligible individual covered under a group health plan or health insurance coverage, the date of enrollment of the eligible individual in the plan or coverage or, if earlier, the first day of the waiting period for such enrollment.</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>“Established geographic service area” means the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>“Excepted benefits” means benefits under one or more of the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>Benefits not subject to the requirements of this chapter include:</text>
+        <para>
+          <num>(i)</num>
+          <text>Coverage only for accident, or disability income insurance, or any combination thereof;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Coverage issued as a supplement to liability insurance;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Liability insurance, including general liability insurance and automobile liability insurance;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Workers’ compensation or similar insurance;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Medical expense and loss of income benefits;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Credit-only insurance;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>Coverage for on-site medical clinics; and</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>Other similar insurance coverage, as specified in regulations, under which benefits for medical care are secondary or incidental to other insurance benefits;</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Benefits not subject to the requirements of this chapter if offered separately include:</text>
+        <para>
+          <num>(i)</num>
+          <text>Limited scope dental or vision benefits so long as the benefits are offered in a manner not inconsistent with applicable federal law;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Benefits for long-term care, nursing home care, home health care, community-based care, or any combination thereof; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Other similar, limited benefit plans as specified in regulations;</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Benefits not subject to the requirements of this chapter if offered as independent, non-coordinated benefits, supplemental to minimum essential coverage include:</text>
+        <para>
+          <num>(i)</num>
+          <text>Coverage only for a specified disease or illness; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Hospital indemnity or other fixed indemnity insurance; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Benefits not subject to the requirements of this chapter if offered as a separate insurance policy include:</text>
+        <para>
+          <num>(i)</num>
+          <text>Medicare supplemental health insurance (as defined under section 1882(g)(1) of the Social Security Act, approved June 9, 1980 (72 Stat. 1445; 42 U.S.C. § 1395ss(g)(1));</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Coverage supplemental to the coverage provided under Chapter 55 of Title 10, United States Code (10 U.S.C. § 1071et seq.); and</text>
+          <text>
+            <em>et seq.</em>
+          </text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Similar supplemental coverage provided under a group health plan.</text>
+        </para>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>The term “excepted benefits” does not include any combination of benefits described in subparagraphs (A)(i), B(i), (C)(i) or (C)(ii) of this paragraph.</text>
+      </para>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>“Federal governmental plan” means a governmental plan established or maintained for its employees by the government of the United States or by an agency or instrumentality of such government.</text>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>“Governmental plan” has the meaning given such term under section 3(32) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 837; 29 U.S.C. § 1002(32)) and any federal governmental plan.</text>
+    </para>
+    <para>
+      <num>(18)</num>
+      <text>“Group health insurance coverage” means health insurance coverage offered in connection with a group health plan.</text>
+    </para>
+    <para>
+      <num>(19)</num>
+      <text>“Group health plan” means an employee welfare benefit plan (as defined in section 3(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. § 1002(1)), to the extent that the plan provides medical care and includes items and services paid for as medical care to employees or their dependents (as defined under the terms of the plan) directly or through insurance, reimbursement, or otherwise.</text>
+    </para>
+    <para>
+      <num>(19A)</num>
+      <text>“Health Benefit Exchange Authority Establishment Act” means Chapter 31D of this title [§ <cite path="§31-3171.01">31-3171.01</cite> et seq.].</text>
+    </para>
+    <para>
+      <num>(20)</num>
+      <text>“Health benefit plan” means any accident and health insurance policy or certificate, hospital and medical services corporation contract, health maintenance organization subscriber contract, plan provided by a multiple employer welfare arrangement, or plan provided by another benefit arrangement. The term “health benefit plan” does not mean accident only, credit, or disability insurance; coverage of Medicare services or federal employee health plans, pursuant to contracts with the United States government; Medicare supplement or long-term care insurance; dental only or vision only insurance; specified disease insurance; hospital confinement indemnity coverage; limited benefit health coverage; coverage issued as a supplement to liability insurance; insurance arising out of a workers’ compensation or similar law; automobile medical payment insurance; medical expense and loss of income benefits; or insurance under which benefits are payable with or without regard to fault and that is statutorily required to be contained in any liability insurance policy or equivalent self-insurance.</text>
+    </para>
+    <para>
+      <num>(21)</num>
+      <text>“Health insurance coverage” means benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise and includes items and services paid for as medical care) under any hospital or medical service policy or certificate, hospital, or medical service plan contract, or health maintenance organization contract offered by a health insurer.</text>
+    </para>
+    <para>
+      <num>(22)</num>
+      <text>“Health insurer” means any person that provides one or more health benefit plans or insurance in the District of Columbia, including an insurer, a hospital and medical services corporation, a fraternal benefit society, a health maintenance organization, a multiple employer welfare arrangement, or any other person providing a plan of health insurance subject to the authority of the Commissioner.</text>
+    </para>
+    <para>
+      <num>(23)</num>
+      <text>“Health maintenance organization” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>A federally qualified health maintenance organization;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>An organization recognized under the laws of the District of Columbia as a health maintenance organization; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A similar organization regulated under the laws of the District of Columbia for solvency in the same manner and to the same extent as such a health maintenance organization.</text>
+      </para>
+    </para>
+    <para>
+      <num>(24)</num>
+      <text>“Health status-related factor” means the following in relation to the individual or a dependent eligible for coverage under a group health plan or health insurance coverage offered by a health insurer:</text>
+      <para>
+        <num>(A)</num>
+        <text>Health status;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Medical condition (including both physical and mental illnesses);</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Claims experience;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Receipt of health care;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Medical history;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Genetic information;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Evidence of insurability (including conditions arising out of acts of domestic violence); or</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Disability.</text>
+      </para>
+    </para>
+    <para>
+      <num>(25)</num>
+      <text>“High level policy form” means a policy or plan under which the actuarial value of the benefit under the coverage is:</text>
+      <para>
+        <num>(A)</num>
+        <text>At least 15% greater than the actuarial value of the low level policy form coverage offered by the carrier in the District of Columbia; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>At least 100%, but not greater than 120%, of the weighted average.</text>
+      </para>
+    </para>
+    <para>
+      <num>(26)</num>
+      <text>“Individual health insurance coverage” means health insurance coverage offered to individuals in the individual market, which includes a health benefit plan provided to individuals through a trust arrangement, association, or other discretionary group that is not an employer plan, but does not include coverage defined as excepted benefits. The term “individual health insurance coverage” does not include short-term limited duration coverage.</text>
+    </para>
+    <para>
+      <num>(27)</num>
+      <text>“Individual market” means the market for health insurance coverage offered to individuals other than in connection with a group health plan.</text>
+    </para>
+    <para>
+      <num>(28)</num>
+      <text>“Initial enrollment period” means a period of at least 30 days.</text>
+    </para>
+    <para>
+      <num>(29)</num>
+      <para>
+        <num>(A)</num>
+        <para>
+          <num>(i)</num>
+          <text>Except as provided in sub-subparagraph (ii) of this subparagraph, “large employer” means, in connection with a group health plan with respect to a calendar year and a plan year, a single employer that employed an average of at least 51 employees on business days during the preceding calendar year and at least 2 employees on the first day of the plan year.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Beginning in calendar year 2016 and for each succeeding year, “large employer” means, in connection with a group health plan with respect to a calendar year and a plan year, a single employer that employed an average of at least 101 employees on business days during the preceding calendar year and at least 2 employees on the first day of the plan year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>For the purposes of this paragraph:</text>
+        <para>
+          <num>(i)</num>
+          <text>All persons treated as a single employer under section 414(b), (c), (m), or (o) of the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2085; 26 U.S.C. § 414(b), (c), (m), or (o)), shall be treated as a single employer;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An employer and any predecessor employer shall be treated as a single employer;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>All employees shall be counted, including part-time employees and employees who are not eligible for health benefit coverage through the employer; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>If an employer was not in existence throughout the preceding calendar year, the determination of whether that employer is a large employer shall be based on the average number of employees that the employer is reasonably expected to employ in the current calendar year.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(30)</num>
+      <text>“Large group market” means the health insurance market under which individuals obtain health insurance coverage (directly or through any arrangement) on behalf of themselves (and their dependents) through a group health plan maintained by a large employer or through a health insurer.</text>
+    </para>
+    <para>
+      <num>(31)</num>
+      <text>“Late enrollee” means an eligible employee or dependent who requests enrollment in a group health benefit plan after the initial enrollment period provided under the terms of the group health benefit plan, or a participant or beneficiary who enrolls under the plan other than during (i) the first period in which the individual is eligible to enroll under the plan, or (ii) a special enrollment period as required pursuant to this statute. An eligible employee or dependent shall not be considered a late enrollee if all of the conditions set forth below in subparagraphs (A) through (D) of this paragraph are met, or one of the conditions set forth below in subparagraphs (E) or (F) of this paragraph is met:</text>
+      <para>
+        <num>(A)</num>
+        <text>The individual was covered under a public or private health benefit plan at the time the individual was eligible to enroll;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The individual certified at the time of initial enrollment that coverage under another health benefit plan was the reason for declining enrollment;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The individual has lost coverage under a public or private health benefit plan as a result of termination of employment or employment status eligibility, the termination of the other plan’s entire group coverage, death of a spouse, or divorce;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The individual requests enrollment within 30 days after termination of coverage provided under a public or private health benefit plan;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>The individual is employed by a small employer that offers multiple health benefit plans and the individual elects a different plan offered by that small employer during an open enrollment period; or</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>A court has ordered that coverage be provided for a spouse or minor child under a covered employee’s health benefit plan, the minor is eligible for coverage and is a dependent, and the request for enrollment is made within 30 days after issuance of such court order. However, such individual may be considered a late enrollee for benefit riders or enhanced coverage levels not covered under the enrollee’s prior plan.</text>
+      </para>
+    </para>
+    <para>
+      <num>(32)</num>
+      <text>“Low level policy form” means a policy or plan under which the actuarial value of the benefit under the coverage is at least 85%, but not greater than 100%, of the weighted average.</text>
+    </para>
+    <para>
+      <num>(33)</num>
+      <text>“Medical care” means amounts paid for the diagnosis, cure, mitigation, treatment, or prevention of disease, or amounts paid for the purpose of affecting any structure or function of the body.</text>
+    </para>
+    <para>
+      <num>(34)</num>
+      <text>“Network plan” means health insurance coverage of a health insurer under which the financing and delivery of medical care (including items and services paid for as medical care) are provided, in whole or in part, through a defined set of providers under contract with the health insurer.</text>
+    </para>
+    <para>
+      <num>(35)</num>
+      <text>“Nonfederal governmental plan” means a governmental plan that is not a federal governmental plan.</text>
+    </para>
+    <para>
+      <num>(36)</num>
+      <text>“Participant” has the meaning given such term under section 3(7) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 834; 29 U.S.C. § 1002(7)).</text>
+    </para>
+    <para>
+      <num>(37)</num>
+      <text>“Placed for adoption”, “placement”, or “being placed for adoption”, in connection with any placement for adoption of a child with any person, means the assumption and retention by such person of a legal obligation for total or partial support of such child in anticipation of adoption of such child. The child’s placement with such person terminates upon the termination of such legal obligation.</text>
+    </para>
+    <para>
+      <num>(38)</num>
+      <text>“Plan sponsor” has the meaning given such term under section 3(16)(B) of the Employee Retirement Income Security Act of 1974, approved September 2, 1974 (88 Stat. 835; 29 U.S.C. § 1002(16)(B)).</text>
+    </para>
+    <para>
+      <num>(39)</num>
+      <text>“Preexisting condition exclusion” means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the first day of coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before that day. Genetic information shall not be treated as a preexisting condition in the absence of a diagnosis of the condition related to such information.</text>
+    </para>
+    <para>
+      <num>(40)</num>
+      <text>“Preexisting conditions provision” means a provision in a health benefit plan that limits, denies, or excludes benefits for an enrollee for expenses or services related to a preexisting condition.</text>
+    </para>
+    <para>
+      <num>(41)</num>
+      <text>“Premium” means all moneys paid by a small employer and eligible employees as a condition of coverage from a health insurer, including fees and other contributions associated with the health benefit plan.</text>
+    </para>
+    <para>
+      <num>(42)</num>
+      <para>
+        <num>(A)</num>
+        <para>
+          <num>(i)</num>
+          <text>Except as provided in sub-subparagraph (ii) of this subparagraph, “small employer” means a single employer that employed an average of not more than 50 employees during the preceding calendar year.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Beginning in calendar year 2016 and for each succeeding year, “small employer” means a single employer that employed an average of not more than 100 employees during the preceding calendar year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>For the purposes of this paragraph:</text>
+        <para>
+          <num>(i)</num>
+          <text>All persons treated as a single employer under section 414(b), (c), (m), or (o) of the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2085; 26 U.S.C. § 414(b), (c), (m), or (o)), shall be treated as a single employer;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An employer and any predecessor employer shall be treated as a single employer;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>All employees shall be counted, including part-time employees and employees who are not eligible for health benefit coverage through the employer; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>If an employer was not in existence throughout the preceding calendar year, the determination of whether that employer is a small employer shall be based on the average number of employees that the employer is reasonably expected to employ in the current calendar year.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(43)</num>
+      <text>“State” means each of the several states, and the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.</text>
+    </para>
+    <para>
+      <num>(44)</num>
+      <text>“Waiting period” means, with respect to a group health plan or health insurance coverage provided by a health insurer and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.</text>
+    </para>
+    <para>
+      <num>(45)</num>
+      <para>
+        <num>(A)</num>
+        <text>“Weighted average” means the average actuarial value of the benefits provided by:</text>
+        <para>
+          <num>(i)</num>
+          <text>All the health insurance coverages issued (as elected by the health insurer) either by that health insurer or by all health insurers in the District of Columbia in the individual market during the previous calendar year (not including coverage issued under this section), weighted by enrollment for the different coverages; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>All the health insurance coverages issued by all health insurers in the District of Columbia in the individual market, if the data are available, during the previous calendar year, weighted by enrollment for the different coverages.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The term “weighted average” does not include coverages issued pursuant to § <cite path="§31-3302.01">31-3302.01</cite>(d)(1).</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The health insurer shall elect biennially, as provided in § <cite path="§31-3302.01">31-3302.01</cite>(d)(3), whether to calculate the weighted average using the methodology in subparagraph (A)(i) or (ii) of this paragraph.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 101, 45 DCR 8433</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 4(s)(1), 51 DCR 2817</annotation>
+        <annotation doc="D.C. Law 17-231">Sept. 12, 2008, D.C. Law 17-231, § 27(a), 55 DCR 6758</annotation>
+        <annotation doc="D.C. Law 20-265">May 2, 2015, D.C. Law 20-265, § 103, 62 DCR 1529</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-851">7-851</cite> and § <cite path="§31-3302.01">31-3302.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1021.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite>, in par. (7), substituted “Commissioner of the Department of Insurance, Securities, and Banking” for “Commissioner of the Department of Insurance and Securities Regulation”.</annotation>
+        <annotation><cite doc="D.C. Law 17-231">D.C. Law 17-231</cite> added par. (9A).</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-265">D.C. Law 20-265</cite> rewrote (15), (26), (29), and (42); and added (19A).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Sections 101 through 314 of D.C. Law 12-27 and D.C. Law 12-154 enacted §§ 35-1021 through 35-1044, comprising Chapter 10A of Title 35 (1981 Ed.).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see §§ 1<cite path="§01-314">01-314</cite> of the Health Insurance Portability and Accountability Federal Law Conformity Emergency Act of 1997 (D.C. Act 12-96, July 2, 1997,  44 DCR 4000), §§ 1<cite path="§01-314">01-314</cite> of the Health Insurance Portability and Accountability Federal Law Conformity Congressional Recess Emergency Act of 1997 (D.C. Act 12-151, September 29, 1997,  44 DCR 5769), and §§ 1<cite path="§01-314">01-314</cite> of the Health Insurance Portability and Accountability Federal Law Conformity Emergency Amendment Act of 1998 (D.C. Act 12-339, May 4, 1998,  45 DCR 2947).</annotation>
+        <annotation>For temporary addition of chapter, see §§ 1<cite path="§01-314">01-314</cite> of the Health Insurance Portability and Accountability Federal Law Conformity, Motor Vehicle Insurance, Regulatory Reform, and Consumer Law Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-429, August 6, 1998,  45 DCR 5890).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 4(s)(1) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+        <annotation>For temporary (90 day) workers’ compensation and health insurance and portability and accountability approval requirement, see § 1122 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) workers’ compensation and health insurance and portability and accountability approval requirement, see § 1122 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle L of title I of Law 15-205: Section 1121 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle L of title I of the act may be cited as the Workers’ Compensation and Health Insurance Portability and Accountability Approval Requirement Act of 2004.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 1122 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided: “No funds shall be expended relating to the Health Insurance Portability and Accountability Act, approved August 21, 1996 (104 Pub. L. No. 191; 110 Stat. 1936), and the District's Workers' Compensation administration without affirmative approval of the expenditure by the Council.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|II"/>
+    <num codify:value="31-3302.01">201</num>
+    <heading>Guaranteed availability of individual health insurance coverage to certain individuals with prior group coverage.</heading>
+    <para>
+      <num>(a)</num>
+      <text>This subchapter applies only to those health insurers that offer individual health insurance coverage in the District of Columbia. Nothing in this subchapter shall require health insurers participating only in the group health insurance market to offer individual health insurance coverage.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A health insurer may not offer any individual health benefit plans in the District of Columbia unless the health insurer offers, and actively markets, the policies required by this section.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Unless a health insurer makes an election under subsection (d)(2) of this section, the health insurer may not:</text>
+      <para>
+        <num>(1)</num>
+        <text>Decline to offer coverage to, or deny enrollment of, an eligible individual; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Impose any preexisting condition provision on an eligible individual.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>A health insurer that makes an election under paragraph (2) of this subsection may choose to offer at least 2 different policy forms, both of which are designed for, made generally available to, actively marketed to, and enroll both eligible individuals and other individuals.  Policy forms that have different cost-sharing arrangements or different riders shall be considered to be different policy forms.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No later than July 1, 1997, a health insurer that intends to offer 2 policy forms shall submit in writing to the Commissioner both:</text>
+        <para>
+          <num>(A)</num>
+          <text>An election whether to offer (i) a high level and low level policy form, each of which includes benefits substantially similar to other individual health insurance coverage offered by the health insurer in the District of Columbia, or (ii) policy forms with the largest and next to largest premium volume of all policy forms offered by the health insurer in the District of Columbia; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>An election as to which methodology the health insurer will use to determine the weighted average valuation as defined in § <cite path="§31-3301.01">31-3301.01</cite>(45).</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An election made under this section shall be binding for a 2-year period.  After the initial 2-year period, and for each subsequent 2-year period, a health insurer shall again make the elections required by this section.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An election shall be made on a form and in a manner required by the Commissioner.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The actuarial value of benefits provided under individual health insurance coverage shall be calculated based on a standardized population and a set of standardized utilization and cost factors.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A health insurer shall submit any information the Commissioner may require to support and justify the health insurer’s calculations of actuarial values.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A health insurer shall issue the individual health benefit plan elected under this section to any eligible individual.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A health insurer shall not impose any pre-existing condition provision on an eligible individual.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 201, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1022.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|II"/>
+    <num codify:value="31-3302.02">202</num>
+    <heading>Special rules for network plans.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A health insurer that offers health insurance coverage in the individual market may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Limit the individuals who may be enrolled under such coverage to those who live, reside, or work within the service area for such network plan; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Within the service area of such plan, deny such coverage to such individuals if the health insurer has demonstrated to the Commissioner that:</text>
+        <para>
+          <num>(A)</num>
+          <text>It will not have the capacity to deliver services adequately to additional individual enrollees because of its obligations to existing group contract holders, enrollees, and enrollees covered under individual contracts; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>It is applying this section uniformly to individuals without regard to any health status-related factor of such individuals and without regard to whether the individuals are eligible individuals.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A health insurer, upon denying health insurance coverage in the District of Columbia in accordance with subsection (a)(2) of this section, may not offer coverage in the individual market within such service area for a period of 180 days after such coverage is denied.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 202, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1023.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|II"/>
+    <num codify:value="31-3302.03">203</num>
+    <heading>Application of financial capacity limits.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A health insurer may deny health insurance coverage in the individual market to an eligible individual if the health insurer has demonstrated to the satisfaction of the Commissioner that:</text>
+      <para>
+        <num>(1)</num>
+        <text>It does not have the financial reserves necessary to underwrite additional coverage; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>It is applying this section uniformly to all individuals in the individual market in the District of Columbia consistent with the laws of the District of Columbia and without regard to any health status-related factor of such individuals and without regard to whether the individuals are eligible individuals.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A health insurer, upon denying individual health insurance coverage in the District of Columbia in accordance with subsection (a) of this section, may not offer such coverage in the individual market within the District of Columbia for a period of 180 days after the date such coverage is denied or until the health insurer has demonstrated to the satisfaction of the Commissioner that the health insurer has sufficient financial reserves to underwrite additional coverage, whichever is later.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 203, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1024.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|II"/>
+    <num codify:value="31-3302.04">204</num>
+    <heading>Market requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The provisions of this chapter shall not be construed to require that a health insurer offering health insurance coverage only in connection with group health plans or through one or more bona fide associations, or both, offer such health insurance coverage in the individual market.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A health insurer offering health insurance coverage in connection with group health plans under this subchapter shall not be deemed to be a health insurer offering individual health insurance coverage solely because such issuer offers a conversion policy.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A health insurer offering individual health insurance coverage solely because such insurer offers any insurance coverage for children as a participant in a pilot program relating to insurance coverage for children shall not be deemed to be a health insurer offering individual health insurance coverage.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 204, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1025.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|II"/>
+    <num codify:value="31-3302.05">205</num>
+    <heading>Renewability of individual health insurance coverage.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in this section, a health insurer that provides individual health insurance coverage shall renew or continue in force such coverage at the option of the individual.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A health insurer may nonrenew or discontinue health insurance coverage of an individual in the individual market based on one or more of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The individual has failed to pay premiums or contributions in accordance with the terms of the health insurance coverage or the issuer has not received timely premium payments;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The individual has performed an act or practice that constitutes fraud or made an intentional misrepresentation of material fact under the terms of the coverage;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The insurer is ceasing to offer coverage in the individual market in accordance with this chapter;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In the case of a health insurer that offers health insurance coverage in the individual market through a network plan, the individual no longer resides, lives, or works in the service area, or in an area for which the health insurer is authorized to do business, but only if such coverage is terminated under this section uniformly without regard to any health status-related factor of covered individuals; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>In the case of health insurance coverage that is made available in the individual market only through one or more bona fide associations, the membership of the individual in the association (on the basis of which the coverage is provided) ceases, but only if such coverage is terminated under this section uniformly without regard to any health status-related factor of covered individuals.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Requirements for uniform termination of coverage. —</heading>
+      <para>
+        <num>(1)</num>
+        <text>Discontinuance of a particular type of health insurance coverage.</text>
+        <text>
+          <em>Discontinuance of a particular type of health insurance coverage.</em>
+        </text>
+        <text>In any case in which a health insurer decides to discontinue offering a particular type of health insurance coverage offered in the individual market, coverage of such type may be discontinued by the health insurer only if:</text>
+        <para>
+          <num>(i)</num>
+          <text>The health insurer provides notice to each covered individual provided coverage of this type in such market of such discontinuation at least 90 days prior to the date of the discontinuation of such coverage;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The health insurer offers to each individual in the individual market provided coverage of this type the option to purchase any other individual health insurance coverage currently being marketed by the health insurer for individuals in such market; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>In exercising the option to discontinue coverage of this type, and in offering the option of coverage under this subsection, the health insurer acts uniformly without regard to any health status-related factor of enrolled individuals or individuals who may become eligible for such coverage.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Discontinuance of all coverage.</text>
+        <text>
+          <em>Discontinuance of all coverage.</em>
+        </text>
+        <para>
+          <num>(A)</num>
+          <text>Subject to paragraph (1)(iii) of this subsection, in any case in which a health insurer elects to discontinue offering all health insurance coverage in the individual market in the District of Columbia, health insurance coverage may be discontinued by the health insurer only if:</text>
+          <para>
+            <num>(i)</num>
+            <text>The health insurer provides notice to the Commissioner and to each individual of such discontinuation at least 180 days prior to the date of the expiration of such coverage, and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>All health insurance issued or delivered for issuance in the District of Columbia in such market is discontinued and coverage under such health insurance coverage in such market is not renewed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>In the case of discontinuation under paragraph (1) of this subsection in the individual market, the health insurer may not provide for the issuance of any health insurance coverage in the individual market in the District of Columbia during the 5-year period beginning on the date of the discontinuation of the last health insurance coverage not so renewed.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>At the time of coverage renewal, a health insurer may modify the health insurance coverage for a policy form offered to individuals in the individual market so long as such modification is consistent with the laws of the District of Columbia and effective on a uniform basis among all individuals with that policy form.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>In applying this section in the case of health insurance coverage that is made available by health insurers in the individual market to individuals only through one or more associations, a reference to an “individual” is deemed to include a reference to such an association of which the individual is a member.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 205, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1026.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|II"/>
+    <num codify:value="31-3302.06">206</num>
+    <heading>Fair market provision.</heading>
+    <text>The provisions of § <cite path="§31-3303.07">31-3303.07</cite>(j) shall apply to health insurance coverage offered by a health insurer in the individual market in the same manner as they apply to health insurance coverage offered by a health insurer in connection with a group health plan in the small or large group market.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 206, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1027.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|II"/>
+    <num codify:value="31-3302.07">207</num>
+    <heading>Regulations establishing standards.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commissioner may adopt regulations to enable him or her to establish and administer such standards relating to the provisions of this chapter as may be necessary to (i) implement the requirements of this chapter, and (ii) assure that the District of Columbia’s regulation of health insurers is not preempted pursuant to the Health Insurance Portability and Accountability Act of 1996, approved August 21, 1996 (P.L. 104-191; 110 Stat. 1936).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commissioner may revise or amend such regulations and may increase the scope of the regulations to the extent necessary to maintain federal approval of the District of Columbia’s program for regulation of health insurers pursuant to the requirements established by the United States Department of Health and Human Services.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commissioner shall annually advise the Committee on Consumer and Regulatory Affairs, or such other Council committee or committees having subject matter jurisdiction over health insurance, of revisions and amendments made pursuant to subsection (b) of this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 207, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1028.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|II"/>
+    <num codify:value="31-3302.08">208</num>
+    <heading>Applicability.</heading>
+    <text>Unless otherwise specifically provided in this chapter, the provisions of this subchapter shall apply to individual health benefit plans issued or renewed on or after January 1, 1998.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 208, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1029.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|II"/>
+    <num codify:value="31-3302.09">209</num>
+    <heading>Construction.</heading>
+    <text>Nothing in this subchapter shall be construed to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Restrict the amount of the premium rates that an issuer may charge an individual for health insurance coverage provided in the individual market; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Prevent a health insurer offering health insurance coverage in the individual market from establishing premium discounts or rebates or modifying otherwise applicable copayments or deductibles in return for adherence to programs of health promotion and disease prevention.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 209, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1030.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.01">301</num>
+    <heading>Application of subchapter.</heading>
+    <text>This subchapter applies to health insurers offering group health insurance coverage. Each insurer proposing to issue group accident and sickness insurance policies providing hospital, medical and surgical or major medical coverage on an expense incurred basis, each corporation providing group accident and sickness subscription contracts, and each health maintenance organization or multiple employer welfare arrangement providing health care plans for health care services that offers coverage to the group market in the District of Columbia shall be subject to the provisions of this subchapter if any of the following conditions are met:</text>
+    <para>
+      <num>(1)</num>
+      <text>Any portion of the premiums or benefits is paid by or on behalf of the employer;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The eligible employee or dependent is reimbursed, whether through wage adjustments or otherwise, by or on behalf of the employer, for any portion of the premium; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The health benefit plan is treated by the employer or any of the covered individuals as part of a plan or program for the purpose of section 106, 125, or 162 of the United States Internal Revenue Code [26 U.S.C. § 106, 26 U.S.C. § 125, or 26 U.S.C. § 162].</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 301, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1031.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>Sections 106,  125, and  162 of the United States Internal Revenue Code, referred to in (3), are  26 U.S.C.S. §§ 106,  125, and  162.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.02">302</num>
+    <heading>Availability of health benefit plans to small employers.</heading>
+    <text>In order to ensure the broadest availability of health benefit plans to small employers, the Commissioner shall set market conduct and other requirements for health insurers, agents, and third-party administrators, including requirements relating to the following:</text>
+    <para>
+      <num>(1)</num>
+      <text>Registration with the Commissioner by each group health insurer offering group health insurance coverage of its intention to offer health insurance coverage in the small group market under this subchapter;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Publication by the Commissioner of a list of all health insurers who offer coverage in the small group market, including a potential requirement applicable to agents, third-party administrators, and health insurers that no health benefit plan may be sold to a small employer by a health insurer not identified as a health insurer in the small group market;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The availability of a broadly publicized telephone number for the Department of Insurance, Securities, and Banking for access by small employers to information concerning this subchapter; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Methods concerning periodic demonstration by health insurers offering group health insurance coverage that they are marketing and issuing health benefit plans to small employers.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 302, 45 DCR 8433</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 4(s)(2), 51 DCR 2817</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1032.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite>, in par. (3), substituted “Department of Insurance, Securities, and Banking” for “Department of Insurance and Securities Regulation”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 4(s)(2) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.03">303</num>
+    <heading>Renewability.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Every health insurer that offers health insurance coverage in the group market in the District of Columbia shall renew such coverage with respect to all insureds at the option of the employer except:</text>
+      <para>
+        <num>(1)</num>
+        <text>For nonpayment of the required premiums by the policyholder or contract holder, or where the health insurer has not received timely premium payments;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>When the health insurer is ceasing to offer coverage in the small or large group market in accordance with paragraphs (9) and (10) of this subsection;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For fraud or misrepresentation by the employer with respect to their coverage;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>With regard to coverage provided to an eligible employee, for fraud or misrepresentation by the employee with regard to his or her coverage;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>For failure to comply with contribution and participation requirements defined by the health benefit plan;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>For failure to comply with health benefit plan provisions that have been approved by the Commissioner;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>When a health insurer offers health insurance coverage in the group market through a network plan and there is no longer an enrollee in connection with such plan who lives, resides, or works in the service area of the health insurer (or in the area for which the health insurer is authorized to do business), and, in the case of the group market, the health insurer would deny enrollment with respect to such plan under the provisions of paragraphs (9) and (10) of this subsection;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>When health insurance coverage is made available in the group market only through one or more bona fide associations, the membership of an employer in the association (on the basis of which the coverage is provided) ceases, but only if such coverage is terminated under this section uniformly without regard to any health status related factor relating to any covered individual;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>When a health insurer decides to discontinue offering a particular type of group health insurance coverage in the small or large group market in the District of Columbia, coverage of such type may be discontinued by the health insurer in accordance with the laws of the District of Columbia in such market only if the health insurer provides notice to each plan sponsor provided coverage of this type in such market (and participants and beneficiaries covered under such coverage) of such discontinuation at least 90 days prior to the date of the discontinuance; or</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <para>
+          <num>(A)</num>
+          <text>In any case in which a health insurer elects to discontinue offering all health insurance coverage in the small or large group market in the District of Columbia, health insurance coverage may be discontinued by the health insurer only in accordance with the laws of the District of Columbia and if:</text>
+          <para>
+            <num>(i)</num>
+            <text>The health insurer provides notice to the Commissioner and to each plan sponsor (and participants and beneficiaries covered under such coverage) of such discontinuation at least 180 days prior to the date of the discontinuation of such coverage; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>All health insurance issued or delivered for issuance in the District of Columbia in such market (or markets) are discontinued and coverage under such health insurance coverage in such market (or markets) is not renewed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>In the case of a discontinuation in the market, the health insurer may not provide for the issuance of any health insurance coverage in the market involved during the 5-year period beginning on the date of the discontinuance of the last health insurance coverage not so renewed.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>At the time of coverage renewal, a health insurer may modify the health insurance coverage for a product offered to a group health plan in the large group market, or, in the small group market if, for coverage that is available in such market other than only through one or more bona fide associations, such modification is consistent with the law of the District of Columbia and effective on a uniform basis among health insurers with that product.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 303, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1033.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.04">304</num>
+    <heading>Reference to plan sponsor.</heading>
+    <text>In applying this subchapter in the case of health insurance coverage that is made available by a health insurer in the group market to employers only through one or more associations, a reference to “plan sponsor” is deemed, with respect to coverage provided to an employer member of the association, to include a reference to such employer.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 304, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1034.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Temporary addition of chapter: See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.05">305</num>
+    <heading>Coverage.</heading>
+    <text>If coverage to the small or large employer market pursuant to this subchapter ceases to be written, administered, or otherwise provided, such coverage shall continue to be governed by this subchapter with respect to business conducted under this subchapter that was transacted prior to the effective date of termination and that remains in force.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 305, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1035.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.06">306</num>
+    <heading>Availability.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If coverage is offered to small employers under this subchapter, such coverage shall be offered and made available to every small employer that applies for such coverage. Participation in such plan shall be made available to all the eligible employees of a covered small employer and their dependents. No coverage may be offered to only certain eligible employees or their dependents and no employees or their dependents may be excluded or charged additional premiums because of health status.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No coverage offered under this subchapter shall exclude an employer based solely on the nature of the employer’s business.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Subsection (a) of this section shall not apply to health insurance coverage offered by a health insurer if such coverage is made available in the small group market only through one or more bona fide associations.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A health insurer that offers health insurance coverage in a small group market through a network plan may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Limit the employees that may apply for such coverage to those eligible individuals who live, work, or reside in the service area for such network plan; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Within the service area of such plan, deny such coverage to such employers if the health insurer has demonstrated, if required, to the satisfaction of the Commissioner that:</text>
+        <para>
+          <num>(A)</num>
+          <text>It will not have the capacity to deliver services adequately to enrollees of any additional groups because of its obligations to existing group contract holders and enrollees; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>It is applying this subdivision uniformly to all employers without regard to the claims experience of those employers and their employees (and their dependents) or any health status-related factors relating to such employees and dependents.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A health insurer, upon denying health insurance coverage in the District of Columbia in accordance with subsection (d)(2) of this section, may not offer coverage in the small group market within such service area for a period of 180 days after the date such coverage is denied.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>A health insurer may deny health insurance coverage in the small group market if the health insurer has demonstrated, if required, to the satisfaction of the Commissioner that:</text>
+      <para>
+        <num>(1)</num>
+        <text>It does not have the financial reserves necessary to underwrite additional coverage; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>It is applying this subdivision uniformly to all employers in the small group market in the District of Columbia consistent with the laws of this District of Columbia and without regard to the claims experience of those employers and their employees (and their dependents) or any health status-related factor relating to such employees and dependents.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <para>
+        <num>(1)</num>
+        <text>No health insurer offering group health insurance coverage is required to offer coverage or accept applications pursuant to subsection (a) of this section if the Commissioner determines that acceptance of an application or applications would result in the health insurer being declared an impaired insurer.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A health insurer offering group health insurance coverage that does not offer coverage pursuant to subsection (f) of this section may not offer coverage to small employers until the Commissioner determines that the health insurer is no longer impaired.</text>
+      </para>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>A health insurer upon denying health insurance coverage in connection with group health plans in accordance with subsection (d) of this section in the District of Columbia may not offer coverage in connection with group health plans in the small group market for a period of 180 days after the date such coverage is denied or until the health insurer has demonstrated to the satisfaction of the Commissioner that the health insurer has sufficient financial reserves to underwrite additional coverage, whichever is later.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <para>
+        <num>(1)</num>
+        <text>Nothing in this chapter shall be construed to preclude a health insurer from establishing employer contribution rules or group participation rules in connection with a health benefit plan offered in the small group market.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>As used in this subchapter, the term “employer contribution rule” means a requirement relating to the minimum level or amount of employer contribution toward the premium for enrollment of eligible individuals, and the term “group participation rule” means a requirement relating to the minimum number of eligible employees that must be enrolled in relation to a specified percentage or number of eligible employees.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any employer contribution rule or group participation rule shall be applied uniformly among small employers without reference to the size of the small employer group, health status of the small employer group, or other factors.</text>
+      </para>
+    </para>
+    <para>
+      <num>(j)</num>
+      <para>
+        <num>(1)</num>
+        <text>A group health plan or health insurer offering group health insurance coverage that fails to fairly market to small employers as required by this section may not offer coverage in the District of Columbia to new small employers until the later of 180 days after the unfair marketing has been identified and proven to the Commissioner or the date on which the health insurer submits, and the Commissioner approves, a plan to fairly market to the health insurer’s established geographic service area.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No health maintenance organization is required to offer coverage or accept applications pursuant to subsection (a) of this section in the case of any of the following:</text>
+        <para>
+          <num>(A)</num>
+          <text>To small employers where the policy would not be delivered or issued for delivery in the health maintenance organization’s approved service areas;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>To an employee where the employee does not reside or work within the health maintenance organization’s approved service areas; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Within an area where the health maintenance organization demonstrates to the satisfaction of the Commissioner that it will not have the capacity within that area and its network of providers to deliver services adequately to the enrollees of those groups because of its obligations to existing group contract holders and enrollees.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A health maintenance organization that does not offer coverage pursuant to this subsection may not offer coverage in the applicable area to new employer groups with more than 50 eligible employees until the later of 180 days after closure to new applications or the date on which the carrier health maintenance organization notifies the Commissioner that it has regained capacity to deliver services to small employers.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 306, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1036.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.07">307</num>
+    <heading>Limitation on preexisting condition exclusion period.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Subject to subsection (b) of this section, a health insurer offering group health insurance coverage may, with respect to a participant or beneficiary, impose a preexisting limitation only if (i) such exclusion relates to a condition (whether physical or mental), regardless of the cause of the condition, for which medical advice, diagnosis, care, or treatment was recommended or received within the 6-month period ending on the enrollment date, (ii) such exclusion extends for a period of not more than 12 months (or 18 months in the case of a late enrollee) after the enrollment date, and (iii) the period of any such preexisting condition exclusion is reduced by the aggregate of the periods of creditable coverage, if any, applicable to the participant or beneficiary as of the enrollment date.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>Subject to paragraph (4) of this subsection, a group health plan, and a health insurer offering health insurance coverage, may not impose any preexisting condition exclusion in the case of an individual who, as of the last day of the 30-day period beginning with the date of birth, is covered under creditable coverage.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to paragraph (4) of this subsection, a group health plan, and a health insurer offering health insurance coverage, may not impose any preexisting condition exclusion in the case of a child who is adopted or placed for adoption before attaining 18 years of age and who, as of the last day of the 30-day period beginning on the date of the adoption or placement for adoption, is covered under creditable coverage. The previous sentence shall not apply to coverage before the date of such adoption or placement for adoption.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A group health plan, and health insurer offering health insurance coverage, may not impose any preexisting condition exclusion relating to pregnancy as a preexisting condition.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Paragraphs (1) and (2) of this subsection shall no longer apply to an individual after the end of the first 63-day period during all of which the individual was not covered under any creditable coverage.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A period of creditable coverage shall not be counted, with respect to enrollment of an individual under a health benefit plan, if, after such period and before the enrollment date, there was a 63-day period during all of which the individual was not covered under any creditable coverage.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>For purposes of subsections (b)(4) and (c) of this section, any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage), or is in an affiliation period, shall not be taken into account in determining the continuous period under subsection (c) of this section.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <para>
+        <num>(1)</num>
+        <text>Except as otherwise provided under paragraph (2) of this subsection, a group health plan and a health insurer offering group health coverage shall count a period of creditable coverage without regard to the specific benefits covered during the period.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A group health plan, or a health insurer offering group health insurance coverage, may elect to count a period of creditable coverage based on coverage of benefits within each of several classes or categories of benefits rather than as provided under paragraph (1) of this subsection. Such election shall be made on a uniform basis for all participants and beneficiaries. Under such election a group health plan or health insurer shall count a period of creditable coverage with respect to any class or category of benefits if any level of benefits is covered within such class or category.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In the case of an election with respect to a group plan under paragraph (2) of this subsection (whether or not health insurance coverage is provided in connection with such plan), the plan shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Prominently state in any disclosure statements concerning the plan, and state to each enrollee at the time of enrollment under the plan, that the plan has made such election; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Include in such statements a description of the effect of this election.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In the case of an election under paragraph (2) of this subsection with respect to health insurance coverage offered by a health insurer in the small or large group market, the health insurer shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Prominently state in any disclosure statements concerning the coverage, and to each employer at the time of the offer or sale of the coverage, that the health insurer has made such election; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Include in such statements a description of the effect of such election.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Periods of creditable coverage with respect to an individual shall be established through presentation of certifications described in subsection (g) of this section or in such other manner as may be specified in federal regulations.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>A health insurer offering group health insurance coverage shall provide for certification of the period of creditable coverage:</text>
+      <para>
+        <num>(1)</num>
+        <text>At the time an individual ceases to be covered under the plan or otherwise becomes covered under a COBRA continuation provision;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the case of an individual becoming covered under a COBRA continuation provision, at the time the individual ceases to be covered under such provision; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>At the request, or on behalf of, an individual made not later than 24 months after the date of cessation of the coverage described in paragraphs (1) or (2) of this subsection, whichever is later. The certification under paragraph (1) of this subsection may be provided, to the extent practicable, at a time consistent with notices required under any applicable COBRA continuation provision.</text>
+      </para>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>In the case of an election described in subsection (e)(2) of this section by a group health insurer, if the group health plan or health insurer enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual under subsection (f) of this section:</text>
+      <para>
+        <num>(1)</num>
+        <text>Upon request of such group health insurer, the entity which issued the certification provided by the individual shall promptly disclose to such requesting insurer information on coverage of classes and categories of health benefits available under such entity’s plan or coverage; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Such entity may charge the requesting group health plan or health insurer for the reasonable cost of disclosing such information.</text>
+      </para>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>A health insurer offering group health insurance coverage shall permit an employee who is eligible, but not enrolled, for coverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage as a late enrollee for coverage under the terms of the plan if each of the following conditions is met:</text>
+      <para>
+        <num>(1)</num>
+        <text>The employee or dependent was covered under a group health plan or had health insurance coverage at the time coverage was previously offered to the employee or dependent.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only if the plan sponsor or health insurer (if applicable) required such a statement at such time and provided the employee with notice of such requirement (and the consequences of such requirement) at such time.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The employee’s or dependent’s coverage described in paragraph (1) of this subsection: (i) was under a COBRA continuation provision and the coverage under such provision was exhausted; or (ii) was not under such a provision and either the coverage was terminated as a result of loss of eligibility for the coverage (including as a result of legal separation, divorce, death, termination of employment, or reduction in the number of hours of employment) or employer contributions towards such coverage were terminated.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Under the terms of the plan, the employee requests such enrollment not later than 30 days after the date of exhaustion of coverage described in paragraph (3)(i) of this subsection or termination of coverage or employer contribution described in paragraph (3)(ii) of this subsection.</text>
+      </para>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>A health insurer is deemed to make coverage available with respect to a dependent of an individual if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The individual is a participant under the plan (or has met any waiting period applicable to becoming a participant under the plan and is eligible to be enrolled under the plan but for a failure to enroll during a previous enrollment period); and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person becomes such a dependent of the individual through marriage, birth, or adoption or placement for adoption, the group health insurer shall provide for a dependent special enrollment period during which the person (or, if not otherwise enrolled, the individual) may also be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may also be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.</text>
+      </para>
+    </para>
+    <para>
+      <num>(k)</num>
+      <text>A dependent special enrollment period under subsection (j) of this section shall be a period of not less than 30 days and shall begin on the later of the date dependent coverage is made available, or the date of the marriage or domestic partnership, birth, or adoption or placement for adoption (as the case may be).</text>
+    </para>
+    <para>
+      <num>(l)</num>
+      <text>If an individual seeks to enroll a dependent during the first 30 days of such a dependent special enrollment period, the coverage of the dependent shall become effective:</text>
+      <para>
+        <num>(1)</num>
+        <text>In the case of marriage or domestic partnership, not later than the first day of the first month beginning after the date the completed request for enrollment is received;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the case of a dependent’s birth, as of the date of such birth; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In the case of a dependent’s adoption or placement for adoption, the date of such adoption or placement for adoption.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 307, 45 DCR 8433</annotation>
+        <annotation doc="D.C. Law 17-231">Sept. 12, 2008, D.C. Law 17-231, § 27(b), 55 DCR 6758</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-3302.06">31-3302.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1037.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-231">D.C. Law 17-231</cite>, in subsecs. (k) and (l)(1), substituted “marriage or domestic partnership” for “marriage”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.08">308</num>
+    <heading>Disclosure of information.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any health insurer offering health insurance coverage to a small employer shall make a reasonable disclosure of the availability of information to such an employer, as part of its solicitation and sales materials, and upon request of such an employer, information concerning:</text>
+      <para>
+        <num>(1)</num>
+        <text>The provisions of such coverage concerning the health insurer’s right to change premium rates and the factors that may affect changes in premium rates;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The provisions of such coverage relating to renewability of coverage;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The provisions of such coverage relating to any preexisting condition exclusion; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The benefits and premiums available under all health insurance coverage for which the employer is qualified.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A health insurer is not required under this subchapter to disclose any information that is proprietary and trade secret information.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 308, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1038.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.09">309</num>
+    <heading>Eligibility to enroll.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A group health plan, and a health insurer offering group health insurance coverage, may not establish rules for eligibility (including continued eligibility) of any individual to enroll under the terms of the plan based on any of the health status-related factors.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The provisions of this section shall not be construed to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Require a health insurer offering group health insurance coverage to provide particular benefits other than those provided under the terms of such plan or coverage; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To prevent a health insurer offering group health insurance coverage from establishing limitations or restrictions on the amount, level, extent, or nature of the benefits or coverage for similarly situated individuals enrolled in the plan or coverage rules for eligibility to enroll under a plan which includes rules defining any applicable waiting periods for such enrollment.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A health insurer offering group health insurance coverage may not require an individual (as a condition of enrollment or continued enrollment under the plan) to pay a premium or contribution which is greater than such premium or contribution for a similarly situated individual enrolled in the plan on the basis of any health status related factor in relation to the individual or to an individual enrolled under the plan as a dependent of the individual.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Nothing in subsection (c) of this section shall be construed to restrict the amount that an employee may be charged for coverage under group health insurance coverage, or prevent a health insurer offering group health insurance coverage from establishing premium discounts or rebates or modifying otherwise applicable copayments or deductibles in return for adherence to programs of health promotion and disease prevention.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 309, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1039.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.10">310</num>
+    <heading>Exclusions.</heading>
+    <text>The provisions of this subchapter shall not apply to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Any group health benefit plan for any plan year if, on the first day of such plan year, such plan has less than 2 participants who are current employees; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Any health benefit plan for any of the excepted benefits.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 310, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1040.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.11">311</num>
+    <heading>Rules used to determine group size.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All employers treated as a single employer under subsection (b), (c), (m), or (o) of § 414 of the Internal Revenue Code of 1986 (26 U.S.C. § 414) shall be treated as one employer.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In the case of an employer which was not in existence throughout the preceding calendar year, the determination of whether such employer is a small or large group employer shall be based on the average number of employees that it is reasonably expected such employer will employ on business days in the current calendar year.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Any reference in this section to an employer shall include a reference to any predecessor of such employer.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 311, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1041.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.12">312</num>
+    <heading>Affiliation period.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A health maintenance organization which does not impose any preexisting condition exclusion, with respect to any particular coverage option, may impose an affiliation period for such coverage option, but only if such period is applied uniformly without regard to any health status-related factors and such period does not exceed 2 months (or 3 months in the case of a late enrollee).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An affiliation period as described in subsection (a) of this section shall begin on the enrollment date.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>An affiliation period under a plan shall run concurrently with any waiting period under the plan.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 312, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1042.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.13">313</num>
+    <heading>Alternative methods.</heading>
+    <text>A health maintenance organization may use alternative methods to an affiliation period to address adverse selection provided that they are approved by the Commissioner prior to their use.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 313, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1043.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|33|III"/>
+    <num codify:value="31-3303.14">314</num>
+    <heading>Applicability.</heading>
+    <text>Unless otherwise specifically provided in this chapter, the provisions of this subchapter shall apply to group health benefit plans issued or renewed after July 1, 1997.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-209">Apr. 13, 1999, D.C. Law 12-209, § 314, 45 DCR 8433</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-1044.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§31-3301.01">31-3301.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,10 +1,570 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 52-2-ch320">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 52-2-ch320">
+  <heading/>
   <meta>
     <effective>1892-07-29</effective>
     <cites>
-        <law congress="52" session="2" chapter="320"/>
+      <law congress="52" session="2" chapter="320"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1311" path="|22|13"/>
+    <num codify:value="22-1307">6</num>
+    <heading>Crowding, obstructing, or incommoding.</heading>
+    <para>
+      <num>(a)</num>
+      <text>It is unlawful for a person, alone or in concert with others:</text>
+      <para>
+        <num>(1)</num>
+        <text>To crowd, obstruct, or incommode:</text>
+        <para>
+          <num>(A)</num>
+          <text>The use of any street, avenue, alley, road, highway, or sidewalk;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The entrance of any public or private building or enclosure;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The use of or passage through any public building or public conveyance; or</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The passage through or within any park or reservation; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To continue or resume the crowding, obstructing, or incommoding after being instructed by a law enforcement officer to cease the crowding, obstructing, or incommoding.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>It is unlawful for a person, alone or in concert with others, to engage in a demonstration in an area where it is otherwise unlawful to demonstrate and to continue or resume engaging in a demonstration after being instructed by a law enforcement officer to cease engaging in a demonstration.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For purposes of this subsection, the term “demonstration” means marching, congregating, standing, sitting, lying down, parading, demonstrating, or patrolling by one or more persons, with or without signs, for the purpose of persuading one or more individuals, or the public, or to protest some action, attitude, or belief.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A person who violates any provision of this section shall be guilty of a misdemeanor and, upon conviction, shall be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, imprisoned for not more than 90 days, or both.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 323, ch. 320, § 6</annotation>
+        <annotation>July 8, 1898, 30 Stat. 723, ch. 638</annotation>
+        <annotation>June 29, 1953, 67 Stat. 97, ch. 159, § 210</annotation>
+        <annotation doc="D.C. Law 18-375">May 26, 2011, D.C. Law 18-375, § 2(a), 58 DCR 731</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 214(a), 60 DCR 2064</annotation>
+        <annotation doc="D.C. Law 19-320">June 19, 2013, D.C. Law 19-320, § 102, 60 DCR 3390</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Burning of cross or other religious symbol, see § <cite path="§22-3312.02">22-3312.02</cite>.</annotation>
+        <annotation>Conduct of prosecutions under this section, see § <cite path="§22-1809">22-1809</cite>.</annotation>
+        <annotation>Defacement of public or private building or property, see § <cite path="§22-3312.01">22-3312.01</cite>.</annotation>
+        <annotation>Disorderly conduct in public buildings and grounds, see § <cite path="§22-3311">22-3311</cite>.</annotation>
+        <annotation>Wearing of masks for specified purposes, see § <cite path="§22-3312.03">22-3312.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§23-101">23-101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1107.</annotation>
+        <annotation>1973 Ed., § 22-1107.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-375">D.C. Law 18-375</cite> rewrote the section, which formerly read:</annotation>
+        <annotation>“It shall not be lawful for any person or persons within the District of Columbia to congregate and assemble in any street, avenue, alley, road, or highway, or in or around any public building or inclosure, or any park or reservation, or at the entrance of any private building or inclosure, and engage in loud and boisterous talking or other disorderly conduct, or to insult or make rude or obscene gestures or comments or observations on persons passing by, or in their hearing, or to crowd, obstruct, or incommode, the free use of any such street, avenue, alley, road, highway, or any of the foot pavements thereof, or the free entrance into any public or private building or inclosure; it shall not be lawful for any person or persons to curse, swear, or make use of any profane language or indecent or obscene words, or engage in any disorderly conduct in any street, avenue, alley, road, highway, public park or inclosure, public building, church, or assembly room, or in any other public place, or in any place wherefrom the same may be heard in any street, avenue, alley, road, highway, public park or inclosure, or other building, or in any premises other than those where the offense was committed, under a penalty of not more than $250 or imprisonment for not more than 90 days, or both for each and every such offense.”</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $500”.</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-320">D.C. Law 19-320</cite> rewrote this section and the section heading.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 302(a) of Public Safety Legislation Sixty-Day Layover Emergency Amendment Act of 2010 (D.C. Act 18-693, January 18, 2011,  58 DCR 640).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 302(a) of Public Safety Legislation Sixty-Day Layover Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-45, April 20, 2011,  58 DCR 3701).</annotation>
+        <annotation>For temporary amendment of section, see § 102 of the Omnibus Criminal Code Amendments Emergency Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013,  60 DCR 1017).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 102 of the Omnibus Criminal Code Amendment Congressional Review Emergency Act of 2013 (D.C. Act 20-44, April 1, 2013,  60 DCR 5381, 20 DCSTAT 1281).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 214(a) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1311" path="|22|13"/>
+    <num codify:value="22-1308">17</num>
+    <heading>Playing games in streets.</heading>
+    <text>It shall not be lawful for any person or persons to play the game of football, or any other game with a ball, in any of the streets, avenues, or alleys in the City of Washington; nor shall it be lawful for any person or persons to play the game of bandy, shindy, or any other game by which a ball, stone, or other substance is struck or propelled by any stick, cane, or other substance in any street, avenue, or alley in the City of Washington, under a penalty of not more than $5 for each and every such offense.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 325, ch. 320, § 17</annotation>
+        <annotation>Feb. 11, 1895, 28 Stat. 650, ch. 79</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Conduct of prosecutions under this section, see § <cite path="§22-1809">22-1809</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1108.</annotation>
+        <annotation>1973 Ed., § 22-1108.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1311" path="|22|13"/>
+    <num codify:value="22-1309">3</num>
+    <heading>Throwing stones or other missiles.</heading>
+    <text>It shall not be lawful for any person or persons within the District of Columbia to throw any stone or other missile in any street, avenue, alley, road, or highway, or open space, or public square, or inclosure, or to throw any stone or other missile from any place into any street, avenue, road, or highway, alley, open space, public square, or inclosure, under a penalty of not more than $500 for every such offense.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 322, ch. 320, § 3</annotation>
+        <annotation doc="D.C. Law 17-206">July 23, 2008, D.C. Law 17-206,§ 3, 55 DCR 5168</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Conduct of prosecutions under this section, see § <cite path="§22-1809">22-1809</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-1012">22-1012</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1109.</annotation>
+        <annotation>1973 Ed., § 22-1109.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-206">D.C. Law 17-206</cite> substituted “$500” for “five dollars”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1311" path="|22|13"/>
+    <num codify:value="22-1310">10</num>
+    <heading>Urging dogs to fight or create disorder.</heading>
+    <text>It shall not be lawful for any person or persons to entice, induce, urge, or cause any dogs to engage in a fight in any street, alley, road, or highway, open space, or public square in the District of Columbia, or to urge, entice, or cause such dogs to continue or prolong such fight, under a penalty of not more than $1,000 for each and every offense; and any person or persons who shall induce or cause any animal of the dog kind to run after, bark at, frighten, or bite any person, horse, or horses, cows, cattle of any kind, or other animals lawfully passing along or standing in or on any street, avenue, road, or highway, or alley in the District of Columbia, shall forfeit and pay for such offense a sum not exceeding $1,000.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 324, ch. 320, § 10</annotation>
+        <annotation doc="D.C. Law 7-176">Oct. 18, 1988, D.C. Law 7-176,§ 7, 35 DCR 4787</annotation>
+        <annotation doc="D.C. Law 10-151">Aug. 20, 1994, D.C. Law 10-151, § 104, 41 DCR 2608</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Conduct of prosecutions under this section, see § <cite path="§22-1809">22-1809</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1110.</annotation>
+        <annotation>1973 Ed., § 22-1110.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 104 of the Omnibus Criminal Justice Reform Emergency Amendment Act of 1994 (D.C. Act 10-255, June 22, 1994,  41 DCR 4286).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1315" path="|22|13"/>
+    <num codify:value="22-1312">9</num>
+    <heading>Lewd, indecent, or obscene acts; sexual proposal to a minor.</heading>
+    <text>It is unlawful for a person, in public, to make an obscene or indecent exposure of his or her genitalia or anus, to engage in masturbation, or to engage in a sexual act as defined in § <cite path="§22-3001">22-3001</cite>(8). It is unlawful for a person to make an obscene or indecent sexual proposal to a minor. A person who violates any provision of this section shall be guilty of a misdemeanor and, upon conviction, shall be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, imprisoned for not more than 90 days, or both.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 324, ch. 320, § 9</annotation>
+        <annotation>July 8, 1898, 30 Stat. 724, ch. 638</annotation>
+        <annotation>Sept. 26, 1942, 56 Stat. 760, ch. 565</annotation>
+        <annotation>June 9, 1948, 62 Stat. 346, ch. 428, title I, § 101</annotation>
+        <annotation>June 29, 1953, 67 Stat. 92, ch. 159, § 202(a)(1)</annotation>
+        <annotation doc="D.C. Law 16-306">Apr. 24, 2007, D.C. Law 16-306, § 210, 53 DCR 8610</annotation>
+        <annotation doc="D.C. Law 18-375">May 26, 2011, D.C. Law 18-375, § 2(b), 58 DCR 731</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 79, 59 DCR 6190</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 214(b), 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Conduct of prosecutions under this section, see § <cite path="§22-1809">22-1809</cite>.</annotation>
+        <annotation>Obscene conduct, see § <cite path="§22-2201">22-2201</cite>.</annotation>
+        <annotation>Sexual performances using minors, see § <cite path="§22-3101">22-3101</cite> et seq.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-1809">22-1809</cite>, § <cite path="§22-4001">22-4001</cite>, § <cite path="§22-4151">22-4151</cite>, § <cite path="§23-101">23-101</cite>, and § <cite path="§23-581">23-581</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1112.</annotation>
+        <annotation>1973 Ed., § 22-1112.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-306">D.C. Law 16-306</cite> rewrote subsec. (a), which had read as follows: “(a) It shall not be lawful for any person or persons to make any obscene or indecent exposure of his or her person, or to make any lewd, obscene, or indecent sexual proposal, or to commit any other lewd, obscene, or indecent act in the District of Columbia, under penalty of not more than $300 fine, or imprisonment of not more than 90 days, or both, for each and every such offense.”</annotation>
+        <annotation><cite doc="D.C. Law 18-375">D.C. Law 18-375</cite> rewrote the section, which formerly read:</annotation>
+        <annotation>“(a) It shall not be lawful for any person or persons to make any obscene or indecent exposure of his or her person, or to make any lewd, obscene, or indecent sexual proposal in the District of Columbia under penalty of not more than $300 fine, or imprisonment of not more than 90 days, or both, for each and every such offense.</annotation>
+        <annotation>“(b) Any person or persons who shall commit an offense described in subsection (a) of this section, knowing he or she or they are in the presence of a child under the age of 16 years, shall be punished by imprisonment of not more than 1 year, or fined in an amount not to exceed $1,000, or both, for each and every such offense.”</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> made a technical correction to the 1892 act which did not affect this section as codified.</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $500”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 210 of Omnibus Public Safety Emergency Amendment Act of 2006 (D.C. Act 16-445, July 19, 2006,  53 DCR 6443).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 210 of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-490, October 18, 2006,  53 DCR 8686).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 210 of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-10, January 16, 2007,  54 DCR 1479).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 210 of Omnibus Public Safety Second Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-25, April 19, 2007,  54 DCR 4036).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 302(b) of Public Safety Legislation Sixty-Day Layover Emergency Amendment Act of 2010 (D.C. Act 18-693, January 18, 2011,  58 DCR 640).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 302(b) of Public Safety Legislation Sixty-Day Layover Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-45, April 20, 2011,  58 DCR 3701).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 214(b) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1315" path="|22|13"/>
+    <num codify:value="22-1313">14</num>
+    <heading>Kindling bonfires.</heading>
+    <text>It shall not be lawful for any person or persons within the limits of the District of Columbia to kindle or set on fire, or be present, aiding, consenting, or causing it to be done, in any street, avenue, road, or highway, alley, open ground, or lot, any box, barrel, straw, shavings, or other combustible, between the setting and rising of the sun; and, any person offending against the provisions of this section shall on conviction thereof, forfeit and pay a sum not exceeding $10 for each and every offense.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 325, ch. 320, § 14</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Conduct of prosecutions under this section, see § <cite path="§22-1809">22-1809</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1113.</annotation>
+        <annotation>1973 Ed., § 22-1113.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1315" path="|22|13"/>
+    <reason>Repealed</reason>
+    <num codify:value="22-1314">11</num>
+    <heading>Disturbing religious congregation.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 324, ch. 320, § 11</annotation>
+        <annotation doc="D.C. Law 18-375">May 26, 2011, D.C. Law 18-375,§ 2(c), 58 DCR 731</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1114.</annotation>
+        <annotation>1973 Ed., § 22-1114.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal of section, see § 302(c) of Public Safety Legislation Sixty-Day Layover Emergency Amendment Act of 2010 (D.C. Act 18-693, January 18, 2011,  58 DCR 640).</annotation>
+        <annotation>For temporary (90 day) repeal of section, see § 302(c) of Public Safety Legislation Sixty-Day Layover Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-45, April 20, 2011,  58 DCR 3701).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1315" path="|22|13"/>
+    <num codify:value="22-1314.01">11a</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of § <cite path="§22-1314.02">22-1314.02</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Health professional” means a person licensed to practice a health occupation in the District pursuant to § <cite path="§3-1201.01">3-1201.01</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Medical facility” includes a hospital, clinic, physician’s office, or other facility that provides health or surgical services.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Person” shall not include:</text>
+      <para>
+        <num>(A)</num>
+        <text>The chief medical officer of the medical facility or his or her designee;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The chief executive officer of the medical facility or his or her designee;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>An agent of the medical facility; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A law enforcement officer in the performance of his or her official duty.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 322, ch. 320, § 11a</annotation>
+        <annotation doc="D.C. Law 11-157">as added Sept. 20, 1996, D.C. Law 11-157, § 2, 43 DCR 3699</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1114.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of section, see § 2 of the Interference with Medical Facilities and Health Professionals Congressional Review Emergency Amendment Act of 1996 (D.C. Act 11-306, July 26, 1996,  43 DCR 4205).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1315" path="|22|13"/>
+    <num codify:value="22-1314.02">11b</num>
+    <heading>Prohibited acts.</heading>
+    <para>
+      <num>(a)</num>
+      <text>It shall be unlawful for a person, except as otherwise authorized by District or federal law, alone or in concert with others, to willfully or recklessly interfere with access to or from a medical facility or to willfully or recklessly disrupt the normal functioning of such facility by:</text>
+      <para>
+        <num>(1)</num>
+        <text>Physically obstructing, impeding, or hindering the free passage of an individual seeking to enter or depart the facility or from the common areas of the real property upon which the facility is located;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Making noise that unreasonably disturbs the peace within the facility;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Trespassing on the facility or the common areas of the real property upon which the facility is located;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Telephoning the facility repeatedly to harass or threaten owners, agents, patients, and employees, or knowingly permitting any telephone under his or her control to be so used for the purpose of threatening owners, agents, patients, and employees; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Threatening to inflict injury on the owners, agents, patients, employees, or property of the medical facility or knowingly permitting any telephone under his or her control to be used for such purpose.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A person shall not act alone or in concert with others with the intent to prevent a health professional or his or her family from entering or leaving the health professional’s home.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Subsections (a) and (b) of this section shall not be construed to prohibit any otherwise lawful picketing or assembly.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Any person who violates subsections (a) or (b) of this section, upon conviction, shall be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, imprisoned for not more than 180 days, or both.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 322, ch. 320, § 11b</annotation>
+        <annotation doc="D.C. Law 11-157">as added Sept. 20, 1996, D.C. Law 11-157, § 2, 43 DCR 3699</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 214(c), 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§16-801">16-801</cite> and § <cite path="§22-1314.01">22-1314.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1114.2.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $1,000” in (d).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>Temporary amendment of Reestablishment of Health Services Planning and Certificate of Need Program: Sections 201 through 221 of <cite doc="D.C. Law 11-75">D.C. Law 11-75</cite> reestablished the Health Services Planning and Certificate of Need Program.</annotation>
+        <annotation>Section 301(b) of <cite doc="D.C. Law 11-75">D.C. Law 11-75</cite> provided that this act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>See §§ 2 and 3 of <cite doc="D.C. Law 11-133">D.C. Law 11-133</cite>.</annotation>
+        <annotation>Section 5(b) of <cite doc="D.C. Law 11-133">D.C. Law 11-133</cite> provided that the act shall expire on the 225th day of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Emergency Reestablishment of a Health Services Planning and Certificate of Need Regulatory Program: For temporary reestablishment of a Health Services Planning and Certificate of Need Regulatory Program in the District of Columbia, see § 201-221 of the Interference with Medical Facilities and Health Professionals and Reestablishment of Health Services Planning and Certificate of Need Program Emergency Act of 1995 (D.C. Act 11-117, July 25, 1995,  42 DCR 4044).</annotation>
+        <annotation>For temporary re-establishment of a health services planning and certificate of need regulatory program in the District of Columbia, see §§ 2 through 23 of the Health Services Planning and Certificate of Need Program Emergency Act of 1995 (D.C. Act 11-151, November 9, 1995,  42 DCR 6550).</annotation>
+        <annotation>For temporary addition of section, see § 2 of the Interference with Medical Facilities and Health Professionals Congressional Review Emergency Amendment Act of 1996 (D.C. Act 11-306, July 26, 1996,  43 DCR 4205).</annotation>
+        <annotation>For temporary establishment of a health services planning and certificate of need regulatory program in the District of Columbia, see § 2-22 of the Health Services Planning Program Legislative Review Emergency Act of 1996 (D.C. Act 11-345, August 8, 1996,  43 DCR 4517).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 214(c) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 11-117">D.C. Law 11-117</cite>, the “Interference with Medical Facilities and Health Professionals and Reestablishment of Health Services Planning and Certificate of Need Program Emergency Act of 1995”: See Mayor’s Order 95-112, August 18, 1995.</annotation>
+        <annotation>Delegation of authority pursuant to the Health Services Planning and Certificate of Need Program Emergency Act of 1995, effective November 7, 1995 (D.C. Act 11-151), see Mayor’s Order 95-162, December 4, 1995.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1320" path="|22|13"/>
+    <num codify:value="22-1317">4</num>
+    <heading>Flying fire balloons or parachutes.</heading>
+    <text>It shall not be lawful for any person or persons to set up or fly any fire balloon or parachute in or upon or over any street, avenue, alley, open space, public enclosure, or square within the limits of the City of Washington, under a penalty of not more than $10 for each and every such offense.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 322, ch. 320, § 4</annotation>
+        <annotation>Feb. 11, 1895, 28 Stat. 650, ch. 79</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 667, Pub. L. 91-358, title VIII, § 802</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Conduct of prosecutions under this section, see § <cite path="§22-1809">22-1809</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1117.</annotation>
+        <annotation>1973 Ed., § 22-1117.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1320" path="|22|13"/>
+    <num codify:value="22-1318">16</num>
+    <heading>Driving or riding on footways in public grounds.</heading>
+    <text>If any person shall drive or lead any horse, mule, or other animal, or any cart, wagon, or other carriage whatever on any of the paved or graveled footways in and on any of the public grounds belonging to the United States within the District of Columbia, or shall ride thereon, except at the intersection of streets, alleys, and avenues, each and every such offender shall forfeit and pay for each offense a sum not less than $1 nor more than $5.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 325, ch. 320, § 16</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Conduct of prosecutions under this section, see § <cite path="§22-1809">22-1809</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1118.</annotation>
+        <annotation>1973 Ed., § 22-1118.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|18"/>
+    <num codify:value="22-1809">18</num>
+    <heading>Prosecutions.</heading>
+    <text>All prosecutions for violations of § <cite path="§22-1321">22-1321</cite> or any of the provisions of any of the laws or ordinances provided for by this act shall be conducted in the name of and for the benefit of the District of Columbia, and in the same manner as provided by law for the prosecution of offenses against the laws and ordinances of the said District. Any person convicted of any violation of § <cite path="§22-1321">22-1321</cite> or any of the provisions of this act, and who shall fail to pay the fine or penalty imposed, or to give security where the same is required, shall be committed to the Workhouse of the District of Columbia for a term not exceeding 6 months for each and every offense. The second sentence of this section shall not apply with respect to any violation of § <cite path="§22-1312">22-1312</cite>(b).</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 325, ch. 320, § 18</annotation>
+        <annotation>June 29, 1953, 67 Stat. 93, 98, ch. 159, §§ 202(a)(2), 211(b)</annotation>
+        <annotation doc="D.C. Law 18-375">redesignated § 211a, May 26, 2011, D.C. Law 18-375, § 3(b), 58 DCR 731</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Adulteration of food and drugs, see § <cite path="§48-101">48-101</cite> et seq.</annotation>
+        <annotation>Alcoholic Beverage Control Act, see § <cite path="§25-101">25-101</cite> et seq.</annotation>
+        <annotation>Conduct of prosecutions, see § <cite path="§23-101">23-101</cite>.</annotation>
+        <annotation>Uniform Narcotic Drug Act, see § <cite path="§48-901.02">48-901.02</cite> et seq.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-109.</annotation>
+        <annotation>1973 Ed., § 22-109.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 303(b) of Public Safety Legislation Sixty-Day Layover Emergency Amendment Act of 2010 (D.C. Act 18-693, January 18, 2011,  58 DCR 640).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 303(b) of Public Safety Legislation Sixty-Day Layover Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-45, April 20, 2011,  58 DCR 3701).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>The term, “this act,” referred to twice in this section, refers to the Act of July 29, 1892, 27 Stat. 325, ch. 320.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-3311" path="|22|33"/>
+    <num codify:value="22-3310">13</num>
+    <heading>Destroying vines, bushes, shrubs, trees or protections thereof; penalty.</heading>
+    <text>It shall be unlawful for any person willfully to top, cut down, remove, girdle, break, wound, destroy, or in any manner injure any vine, bush, shrub, or tree not owned by that person, or any of the boxes, stakes or any other protection thereof, under a penalty not to exceed, for each and every such offense:</text>
+    <para>
+      <num>(1)</num>
+      <text>In the case of any tree 55 inches or greater in circumference when measured at a height of four and one half feet, a fine of not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite> or imprisonment for not more than 90 days, or both; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For vines, bushes, shrubs, and smaller trees, a fine of not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite> or imprisonment for not more than 30 days, or both.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 324, ch. 320, § 13</annotation>
+        <annotation doc="D.C. Law 13-314">June 19, 2001, D.C. Law 13-314,§ 3, 48 DCR 2076</annotation>
+        <annotation doc="D.C. Law 14-309">June 12, 2003, D.C. Law 14-309, § 201, 50 DCR 888</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 21(b), 52 DCR 2638</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 214(d), 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Conduct of prosecutions under this section, see § <cite path="§22-1809">22-1809</cite>.</annotation>
+        <annotation>Cutting down or destroying things on the land of another, see § <cite path="§22-3308">22-3308</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-3110.</annotation>
+        <annotation>1973 Ed., § 22-3110.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-314">D.C. Law 13-314</cite> substituted “$500” for “$50”.</annotation>
+        <annotation><cite doc="D.C. Law 14-309">D.C. Law 14-309</cite> rewrote the section which had read as follows: “It shall not be lawful for any person or persons to girdle, break, wound, destroy, or in any manner injure any of the trees growing or planted and set, or which may hereafter be planted and set on any of the public grounds, open space, or squares or on any private lot, or on any of the streets, or avenues, roads or highways, in the District of Columbia, or any of the boxes, stakes, or any other protection thereof, under a penalty of not exceeding $500 for each and every such offense; and if any person or persons shall tie or in any manner fasten a horse or horses to any of the trees, boxes, or other protection thereof on any streets or avenues, roads, or highways, on any of the public grounds belonging to the United States, or on any of the streets, avenues, or alleys, in the District of Columbia, each and every such offender shall forfeit and pay for each offense a sum not exceeding $10.”</annotation>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in subsecs. (a) and (b), validated a previously made technical correction.</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “a fine of not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “$15,000” in (1), and for “$5,000” in (2).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 214(d) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-3315" path="|22|33"/>
+    <num codify:value="22-3313">2</num>
+    <heading>Destroying or defacing building material for streets.</heading>
+    <text>It shall not be lawful for any person or persons to destroy, break, cut, disfigure, deface, burn, or otherwise injure any building materials, or materials intended for the improvement of any street, avenue, alley, foot pavement, roads, highways, or inclosure, whether public or private property, or remove the same (except in pursuance of law or by consent of the owner) from the place where the same may be collected for purposes of building or improvement as aforesaid; or to remove, cut, destroy, or injure any scaffolding, ladder, or other thing used in or about such building or improvement, under a penalty of not more than $25 for each and every such offense.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 29, 1892, 27 Stat. 322, ch. 320, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Conduct of prosecutions under this section, see § <cite path="§22-1809">22-1809</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-3113.</annotation>
+        <annotation>1973 Ed., § 22-3113.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

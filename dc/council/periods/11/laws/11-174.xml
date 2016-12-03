@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 11-174">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 11-174">
   <num type="law">11-174</num>
   <heading type="short">Expulsion of Students Who Bring Weapons Into Public Schools Act of 1996</heading>
   <meta>
@@ -12,4 +12,191 @@
       <narrative>Law 11-174, the “Expulsion of Students Who Bring Weapons Into Public Schools Act of 1996,” was introduced in Council and assigned Bill No. 11-540, which was referred to the Committee on Education and Libraries. The Bill was adopted on first and second readings on June 4, 1996, and July 3, 1996, respectively. Signed by the Mayor on July 19, 1996, it was assigned Act No. 11-323 and transmitted to both Houses of Congress for its review. D.C. Law 11-174 became effective on April 9, 1997.</narrative>
     </history>
   </meta>
+  <section>
+    <num>2</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|38|2|II|A"/>
+      <num codify:value="38-231">(a)</num>
+      <heading>Expulsion of students who bring weapons into public schools.</heading>
+      <text>Absent extenuating circumstances, as determined on a case-by-case basis by the Superintendent of Schools, and consistent with the Individuals With Disabilities Education Act, approved October 30, 1990 (104 Stat. 1141; 20 U.S.C. 1400   et seq.), any student who brings a weapon into a District of Columbia Public School shall be expelled for not less than one year.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 11-174">Apr. 9, 1997, D.C. Law 11-174, § 2(a), 43 DCR 4500</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§38-235">38-235</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-451.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Addition of Section</heading>
+          <annotation>Section 2 of D.C. Law 11-173 enacted §§ 31-451 through 31-454, comprising subchapter II of Chapter 4 of Title 31 (1981 Ed.).</annotation>
+          <annotation>Section 4(b) of <cite doc="D.C. Law 11-173">D.C. Law 11-173</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary addition of subchapter, see § 2(a)-(d) of the Expulsion of Students Who Bring Weapons into Public Schools Emergency Act of 1996 (D.C. Act 11-289, July 1, 1996,  43 DCR 3711), § 2(a)-(d) of the Expulsion of Students Who Bring Weapons into Public Schools Congressional Review Emergency Act of 1996 (D.C. Act 11-398, October 9, 1996,  43 DCR 5692), § 2(a)-(d) of the Expulsion of Student Who Bring Weapons Into Public Schools Second Congressional Review Emergency Act of 1996 (D.C. Act 11-467, December 30, 1996,  44 DCR 172), and § 2(a)-(d) of the Expulsion of Students Who Bring Weapons Into Public Schools Congressional Review Emergency Act of 1997 (D.C. Act 12-22, March 3, 1997,  44 DCR 1770).</annotation>
+          <annotation>For temporary (90-day) authorization for payment of attorney fees, see § 2703 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
+          <annotation>For temporary (90-day) authorization for comprehensive special education transportation plans, see § 2732 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
+          <annotation>For temporary (90-day) authorization for payment of attorney fees, see §§ 2(c) and 3(c) of the Fiscal Year 2001 Budget Support Second Emergency Amendment Act of 2000 (D.C. Act 13-393, August 14, 2000,  47 DCR 7032).</annotation>
+          <annotation>For temporary (90 days) requirement that the Office of the State Superintendent of Education provide a suspension and expulsion report, see § 201 of the Attendance Accountability Emergency Act of 2013 (D.C. Act 20-133, July 30, 2013,  60 DCR 11531, 20 DCSTAT 1973).</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|38|2|II|A"/>
+      <num codify:value="38-232">(b)</num>
+      <heading>Reference to criminal justice or juvenile delinquency system.</heading>
+      <text>Pursuant to the Gun-Free Schools Act of 1994, approved October 20, 1994 (108 Stat. 3908; 20 U.S.C. 8921   et seq.) [repealed, see now 20 U.S.C. § 7151  ] the Superintendent of Schools shall refer to the criminal justice or juvenile delinquency system, simultaneous with expulsion, any student who is expelled for bringing a weapon into a District of Columbia Public School.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 11-174">Apr. 9, 1997, D.C. Law 11-174, § 2(b), 43 DCR 4500</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-452.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Addition of Section</heading>
+          <annotation>See Historical and Statutory Notes following § <cite path="§38-231">38-231</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary addition of subchapter, see note to § <cite path="§38-231">38-231</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|38|2|II|A"/>
+      <num codify:value="38-233">(c)</num>
+      <heading>Alternative educational programs.</heading>
+      <text>The Board of Education shall provide to any student who is expelled from school in accordance with this subchapter an alternative educational program at the D.C. Street Academy, at another existing alternative educational program, or at any alternative educational program that may be established in the future. Not later than 90 days after the effective date of this subchapter:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor and the Board of Education shall submit a report to the Council delineating a comprehensive plan for providing alternative educational services to a student who has been expelled from a District of Columbia Public School setting.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The comprehensive plan shall include a description of the alternative education services to be provided to an expelled student, each location where the alternative education services shall be provided, and the estimated annual cost of providing the alternative education services.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 11-174">Apr. 9, 1997, D.C. Law 11-174, § 2(c), 43 DCR 4500</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-453.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Addition of Section</heading>
+          <annotation>See Historical and Statutory Notes following § <cite path="§38-231">38-231</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary addition of subchapter, see note to § <cite path="§38-231">38-231</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|38|2|II|A"/>
+      <num codify:value="38-234">(d)</num>
+      <heading>Definitions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>For the purposes of this subchapter, the term “weapon” means a firearm and includes:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any weapon, including a starter gun, which will or is designed to or may be readily converted to expel a projectile by the action of an explosive:</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The frame or receiver of any weapon described in this subsection;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any firearm muffler or firearm silencer; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any destructive device; the term “destructive device” means:</text>
+          <para>
+            <num>(A)</num>
+            <text>Any explosive, incendiary, or poison gas;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Bomb;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Grenade;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Rocket having a propellant charge of more than 4 ounces;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Missile having an explosive or incendiary charge of more than a 1/4 ounce;</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Mine; or</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>Any similar device.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any type of weapon which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than 1/2 an inch in diameter; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Any combination of parts either designed or intended for use in converting any device into any destructive device described in subparagraphs (e) and (f) of this paragraph and from which a destructive device may be readily assembled.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The term “weapon” shall not include:</text>
+        <para>
+          <num>(1)</num>
+          <text>An antique firearm;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any device which is neither designed nor redesigned for use as a weapon; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device.</text>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 11-174">Apr. 9, 1997, D.C. Law 11-174, § 2(d), 43 DCR 4500</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-454.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Addition of Section</heading>
+          <annotation>See Historical and Statutory Notes following § <cite path="§38-231">38-231</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary addition of subchapter, see note to § <cite path="§38-231">38-231</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 15-164">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 15-164">
   <num type="law">15-164</num>
   <heading type="short">Access RX Act of 2004</heading>
   <meta>
@@ -12,4 +12,1014 @@
       <narrative>Law 15-164, the “Access RX Act of 2004”, was introduced in Council and assigned Bill No. 15-569, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on February 3, 2004, and March 2, 2004, respectively. Signed by the Mayor on March 24, 2004, it was assigned Act No. 15-410 and transmitted to both Houses of Congress for its review. D.C. Law 15-164 became effective on May 18, 2004.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.01">101</num>
+    <heading>Findings and declaration of intent.</heading>
+    <text>The Council finds that:</text>
+    <para>
+      <num>(1)</num>
+      <text>Affordability is critical in providing access to prescription drugs for District of Columbia residents.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>AccessRx enables the District to take steps to make prescription drugs more affordable for qualified District residents, thereby increasing the overall health of District residents, promoting healthy communities, and protecting the public health and welfare.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>AccessRx can be integrated with any District-wide program for the uninsured.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The intent of AccessRx is not to discourage employers from offering or paying for prescription drug benefits for their employees or to replace employer-sponsored prescription drug benefit plans that provide benefits comparable to those made available to qualified District residents under AccessRx.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 101, 51 DCR 3688</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-503.03">7-503.03</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.02">102</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“AccessRx” means the District of Columbia AccessRx program established by § <cite path="§48-831.03">48-831.03</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Average wholesale price” means the wholesale price charged for a specific commodity that is assigned by the drug wholesaler and is listed in a nationally recognized drug pricing registry that is updated daily and charged to the retail pharmacy.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Basic component of AccessRx” includes the provision of drugs and medications for cardiac conditions and high blood pressure, diabetes, arthritis, anticoagulation, hyperlipidemia, osteoporosis, chronic obstructive pulmonary disease and asthma, incontinence, thyroid diseases, glaucoma, Parkinson’s disease, multiple sclerosis, amyotrophic lateral sclerosis, and other conditions approved by the Department. The term “basic component of AccessRx” shall also include the provision of over-the-counter medications that are prescribed by a health care provider and approved as cost-effective by the Department.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <para>
+        <num>(A)</num>
+        <text>“Covered entity” means:</text>
+        <para>
+          <num>(i)</num>
+          <text>Any hospital or medical service organization, insurer, health coverage plan, or health maintenance organization licensed in the District that contracts with another entity to provide prescription drug benefits for its customers or clients;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Any health program administered by the Department or the District in its capacity as provider of health coverage; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Any employer, labor union, or other group of persons organized in the District that contracts with another entity to provide prescription drug benefits for its employees or members who are employed or reside in the District of Columbia.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The term “covered entity” does not include a health plan that provides coverage only for accidental injury, specified disease, hospital indemnity, Medicare supplement, disability income, long-term care, or other limited benefit health insurance policies and contracts.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Covered individual” means a member, participant, enrollee, contract holder, policy holder, or beneficiary of a covered entity who is provided a prescription drug benefit by the covered entity. The term “covered individual” includes a dependent or other person provided a prescription drug benefit through a policy, contract, or plan for a covered individual.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Department” means the Department of Health.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Director” means the Director of the Department of Health.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“District” means the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Generic drug” means a chemically equivalent copy of a brand-name drug with an expired patent.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Initial discounted price” for a drug means the price the Department pays D.C. Medicaid participating retail pharmacies for that drug for District of Columbia Medicaid recipients.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Labeler” means an entity or person that receives prescription drugs from a manufacturer or wholesaler and repackages those drugs for later retail sale and that has a labeler code from the federal Food and Drug Administration under 21 C.F.R. § 207.20.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Manufacturer” means a manufacturer of prescription drugs and includes a subsidiary or affiliate of a manufacturer.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“Marketing” means advertising and promotional activities, including, but not limited to, the activities described in § <cite path="§48-833.03">48-833.03</cite>.</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>“National Drug Code registration number” means the number registered for a drug pursuant to the listing system established by the United States Food and Drug Administration under section 510 of the Federal Food, Drug, and Cosmetic Act, approved October 10, 1962 (76 Stat. 794; 21 U.S.C. § 360).</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>“Participating retail pharmacy” or “retail pharmacy” means a retail pharmacy located in the District, or another business licensed to dispense prescription drugs in the District, that participates in the program.</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>“Pharmacy benefits management” means a service provided to covered entities to facilitate the provision of prescription drug benefits to covered individuals for dispensation within the District of Columbia, including negotiating pricing and other terms with drug manufacturers and retails pharmacies. “Pharmacy benefits management” may include any or all of the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>Claims processing, retail network management, and payment of claims to pharmacies for prescription drugs dispensed to covered individuals for dispensation within the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Clinical formulary development and management services;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Rebate contracting and administration;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Certain patient compliance, therapeutic intervention, and generic substitution programs; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Disease management programs.</text>
+      </para>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>“Pharmacy benefits manager” means an entity that performs pharmacy benefits management. The term “pharmacy benefits manager” includes a person or entity acting for a pharmacy benefits manager in a contractual or employment relationship in the performance of pharmacy benefits management for a covered entity.</text>
+    </para>
+    <para>
+      <num>(18)</num>
+      <text>“Qualified resident” means a resident of the District who is eligible for the AccessRx program pursuant to this subchapter.</text>
+    </para>
+    <para>
+      <num>(19)</num>
+      <text>“Secondary discounted price” means the initial discounted price minus any further discounts paid for out of the AccessRx Fund.</text>
+    </para>
+    <para>
+      <num>(20)</num>
+      <text>“Supplemental component of AccessRx” includes all prescription drugs and medications provided under the D.C. Medicaid program excluding those provided pursuant to the basic component of AccessRx.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 102, 51 DCR 3688</annotation>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 5062(a), 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-192">D.C. Law 16-192</cite>, in par. (4)(A)(iii), substituted “for its employees or members who are employed or reside in the District of Columbia” for “for its employees or members”; and, in par. (16), substituted “to covered individuals for dispensation within the District of Columbia” for “to covered individuals”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(a) of AccessRx Act Clarification Temporary Amendment of Act of 2006 (<cite doc="D.C. Law 16-154">D.C. Law 16-154</cite>, September 19, 2006, law notification  53 DCR 7926).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of AccessRX Act Clarification Emergency Amendment Act of 2006 (D.C. Act 16-370, May 5, 2006,  53 DCR 4059).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5062(a) of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5062(a) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5062(a) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 5061 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided that subtitle F of title V of the act may be cited as the “AccessRx Clarification Amendment Act of 2006”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.03">103</num>
+    <heading>Establishment of AccessRx.</heading>
+    <para>
+      <num>(a)</num>
+      <text>AccessRx is hereby established. AccessRx shall be administered by the Department, which shall utilize, among other things, manufacturer rebates, pharmacy discounts, and aggregate purchasing to reduce prescription drug prices. In addition, the Department shall investigate the purchase of prescription drugs from outside of the United States.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Department shall administer AccessRx and other medical and pharmaceutical assistance programs in a manner that is advantageous to the programs and to the enrollees in those programs. In implementing this subchapter, the Department may coordinate the other programs and AccessRx and may take actions to enhance efficiency, reduce the cost of prescription drugs, and maximize the benefits to the programs and enrollees, including providing the benefits of AccessRx to enrollees in other programs.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 103, 51 DCR 3688</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§48-831.02">48-831.02</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.04">104</num>
+    <heading>Cost containment and savings with respect to existing publicly funded pharmaceutical programs.</heading>
+    <text>The Department shall make every effort to reduce and contain the cost of prescription drugs purchased for publicly funded pharmaceutical assistance programs, including D.C. Medicaid, the D.C. Health Care Alliance, and the Department of Mental Health. These efforts shall include manufacturer rebates, pharmacy discounts, and reductions through aggregate purchases, and may include importation of pharmaceuticals from outside of the United States. These savings shall be deposited in the AccessRx Fund established in § <cite path="§48-831.10">48-831.10</cite></text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 104, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.05">105</num>
+    <heading>Rebate agreement.</heading>
+    <text>A drug manufacturer or labeler that sells prescription drugs in the District through any publicly funded pharmaceutical assistance program shall enter into a rebate agreement with the Department under AccessRx. The rebate agreement shall require the manufacturer or labeler to make rebate payments to the District for deposit in the AccessRx Fund each calendar quarter or according to a schedule established by the Department.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 105, 51 DCR 3688</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§48-831.33">48-831.33</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.06">106</num>
+    <heading>Rebate amount.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Director of the Department shall negotiate the amount of the rebate required from a manufacturer or labeler in accordance with this subchapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Director shall take into consideration the rebate calculated under the Medicaid Rebate Program pursuant to section 1927 of the Social Security Act, approved November 5, 1990 (104 Stat. 1388-143; 42 U.S.C. § 1396r-8), the average wholesale price of prescription drugs, and any other information on prescription drug prices and price discounts.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Director shall use the Director’s best efforts to obtain an initial rebate amount equal to or greater than the rebate calculated under the Medicaid program pursuant to 42 U.S.C. § 1396r-8.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>With respect to the rebate that takes effect on October 1, 2005 pursuant to § <cite path="§48-831.33">48-831.33</cite>(d), the Director shall use the Director’s best efforts to obtain an amount equal to or greater than the amount of any discount, rebate, or price reduction for prescription drugs provided to the federal government. If the Department is not able to achieve the rebate amount described by this subsection, the Department shall report that fact to the standing committee of the Council having jurisdiction over the Department.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 106, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.07">107</num>
+    <heading>Operation of program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Participating retail pharmacies shall submit claims to the Department to verify the amount charged to qualified residents and to receive reimbursement.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Department shall not impose transaction charges on participating retail pharmacies that submit claims or receive payments under AccessRx.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>On a periodic basis, to be established by the Department, the Department shall reimburse a participating retail pharmacy for:</text>
+      <para>
+        <num>(1)</num>
+        <text>The discounted price provided to uninsured qualified residents pursuant to § <cite path="§48-831.33">48-831.33</cite>; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Prescription drugs dispensed to low-income elderly pursuant to § <cite path="§48-831.23">48-831.23</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Department shall conduct ongoing quality assurance activities similar to those used in the D.C. Medicaid program.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Department shall collect utilization data from participating retail pharmacies submitting claims necessary to calculate the amount of the rebate from the manufacturer or labeler. The Department shall protect the confidentiality of all information subject to confidentiality protection under District or federal law, rule or regulation.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 107, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.08">108</num>
+    <heading>Discrepancies in rebate amounts.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>Upon receipt of the data from the Department, the manufacturer or labeler shall calculate the quarterly payment. If a discrepancy is discovered, the Department may, at its expense, hire a mutually agreed-upon independent auditor to verify the manufacturer’s calculation. If a discrepancy is still found, the manufacturer or labeler shall justify its calculation or make payments to the Department for any additional amount due. The manufacturer or labeler may, at its expense, hire a mutually agreed-upon independent auditor to verify the accuracy of the utilization data provided by the Department. If a discrepancy is discovered, the Department shall justify its data or refund any excess payment to the manufacturer or labeler.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the dispute over the rebate amount is not resolved, a request for a hearing with supporting documentation shall be submitted to the Office of Administrative Hearings. Failure to resolve the dispute may be cause for terminating the drug rebate agreement and denying payment to the manufacturer or labeler for any drugs.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All prescription drugs of a manufacturer or labeler that enters into a rebate agreement that appear on the list of approved drugs shall be immediately available and the cost of the drugs shall be reimbursed, except as provided in this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 108, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.09">109</num>
+    <heading>Action with regard to nonparticipating manufacturers and labelers.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The names of manufacturers and labelers who do and do not enter into rebate agreements pursuant to this subchapter are public information. The Department shall release this information to health care providers and the public on a regular basis. The Department also shall publicize participation by manufacturers and labelers that is of particular benefit to the public.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Department shall impose prior authorization requirements, as permitted by law, in all publicly funded pharmaceutical assistance programs to the extent the Department determines it is appropriate to do so in order to encourage manufacturer and labeler participation in AccessRx, as long as the additional prior authorization requirements remain consistent with the goals of the D.C. Medicaid program and Title 19 of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 109, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.10">110</num>
+    <heading>AccessRx Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The AccessRx Fund is established as a nonlapsing, dedicated fund, into which shall be deposited revenue from manufacturers and labelers that pay rebates pursuant to this subchapter and any appropriations or allocations designated for the AccessRx Fund, along with accruing interest, to be used for the purposes specified in subsection (b) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All funds in the AccessRx Fund, including any surplus or interest, shall be used to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Reimburse retail pharmacies for discounted prices provided to uninsured qualified residents pursuant to § <cite path="§48-831.33">48-831.33</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Pay benefits described in § <cite path="§48-831.23">48-831.23</cite>; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Reimburse the Department for contracted services, including pharmacy claims processing fees, administrative and associated computer costs, and other reasonable program costs.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The funds deposited in the AccessRx Fund shall not revert to the General Fund but shall continually be available for the uses designated in subsection (b) of this section, subject to authorization by Congress in an appropriations act.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 110, 51 DCR 3688</annotation>
+        <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 88(a), 53 DCR 6794</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§48-831.04">48-831.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in subsec. (b)(1), validated a previously made technical correction.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.11">111</num>
+    <heading>Eligibility procedures.</heading>
+    <text>The Department shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Establish simplified procedures for determining eligibility and issuing AccessRx enrollment cards to qualified residents;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Undertake outreach efforts to build public awareness of AccessRx and maximize enrollment of qualified residents; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Adjust the requirements and terms of AccessRx to accommodate any new federally funded prescription drug program.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 111, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.12">112</num>
+    <heading>Method of prescribing or ordering drugs.</heading>
+    <text>The method of prescribing or ordering drugs may include, but is not limited to, the use of standard or larger prescription refill sizes in order to minimize operational costs and maximize economy. Unless the prescribing physician indicates otherwise, the use of the lowest cost generic or chemically equivalent drugs is required; provided, that these drugs are of the same quality and have the same mode of delivery as is provided to the general public, consistent with good pharmaceutical practice.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 112, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.13">113</num>
+    <heading>Third-party administration.</heading>
+    <text>The Department may contract with one or more third parties to administer any or all components of AccessRx, including outreach, eligibility, claims, administration, and rebate recovery and redistribution.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 113, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.14">114</num>
+    <heading>Waivers.</heading>
+    <text>The Department may seek any waivers of federal law, rule or regulation necessary to implement the provisions of this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 114, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.15">115</num>
+    <heading>Annual summary report.</heading>
+    <text>The Department shall submit a written report on the enrollment and financial status of AccessRx to the Council by the 2nd week of January each year.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 115, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.16">116</num>
+    <heading>Agreements with governments of other jurisdictions and other entities.</heading>
+    <text>The District may negotiate and enter into purchasing alliances and regional strategies with the governments of other jurisdictions, and with other public and private entities, for the purpose of reducing prescription drug prices for residents of the District.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 116, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|A"/>
+    <num codify:value="48-831.17">117</num>
+    <heading>Rulemaking.</heading>
+    <text>The Mayor is authorized to issue any rules necessary to implement the provisions of this subchapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 117, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|B"/>
+    <num codify:value="48-831.21">121</num>
+    <heading>Establishment of AccessRx for the low-income elderly.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Department shall conduct a program to provide low-cost prescription and nonprescription drugs, medications, and medical supplies to low-income elderly individuals (“AccessRx for low-income elderly”).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Director shall provide sufficient personnel to ensure efficient administration of the program. The extent and magnitude of the program shall be determined by the Director on the basis of the calculated need of the recipient population and the available funds.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Department may not spend more on this program than is available through appropriations from the General Fund, dedicated revenue, federal or other grants, and other established and committed funding sources. The Director may accept, for the purpose of carrying out this program:</text>
+      <para>
+        <num>(1)</num>
+        <text>Federal funds appropriated under any federal law relating to the furnishing of free or low-cost drugs to elderly individuals, and may take such action as is necessary for the purposes of carrying out that federal law; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Funds that may be available from any other agency of government, individual, group, or corporation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 121, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|B"/>
+    <num codify:value="48-831.22">122</num>
+    <heading>Eligibility for low-income elderly.</heading>
+    <text>To be eligible, an individual shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Be a resident of the District;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Be at least 62 years of age; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Have a household income that is not more than 200% of the federal poverty level.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 122, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|B"/>
+    <num codify:value="48-831.23">123</num>
+    <heading>Payment for drugs by low-income elderly.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Director shall establish the amount of payment to be made by eligible low-income elderly individuals toward the cost of prescription or nonprescription drugs, medications, and medical supplies furnished under AccessRx for low-income elderly; provided, that:</text>
+      <para>
+        <num>(1)</num>
+        <text>The total cost paid by the low-income elderly individual for any covered purchase of a prescription or nonprescription drug or medication provided under the basic component of AccessRx does not exceed 20% of the price allowed for that prescription under AccessRx rules, or $2, whichever is greater; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the supplemental component of AccessRx, except as otherwise provided in this section, the total cost paid by the low-income elderly individual for any covered purchase of a prescription drug or medication shall not exceed 50% of the price allowed for that prescription under AccessRx.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Prior to January 1, 2006, the Director shall establish annual limits on the costs incurred by eligible household members for prescription or nonprescription drugs or medications covered under AccessRx for low-income elderly. After the annual limits have been established, beginning on January 1, 2007, AccessRx for low-income elderly shall pay 80% of the cost of all prescription or nonprescription drugs or medications covered by the supplemental component of AccessRx. The limits shall be set by the Director by regulation as necessary to operate the program within the AccessRx for low-income elderly budget.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 123, 51 DCR 3688</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§48-831.07">48-831.07</cite> and § <cite path="§48-831.10">48-831.10</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|C"/>
+    <num codify:value="48-831.31">131</num>
+    <heading>Establishment of AccessRx for uninsured District residents.</heading>
+    <text>The Department shall conduct a program to negotiate low-cost prescription and nonprescription drugs, medications, and medical supplies for uninsured District residents (“AccessRx for uninsured”). The Director shall provide sufficient personnel to ensure efficient administration of the program. The extent and magnitude of the program shall be determined by the Director on the basis of the calculated need of the recipient population and available funds.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 131, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|C"/>
+    <num codify:value="48-831.32">132</num>
+    <heading>Eligibility of the uninsured.</heading>
+    <text>To be eligible, an individual shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Be a resident of the District;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Have a household income that is not more than 350% of the federal poverty level; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Not be enrolled in any public or private medical insurance program.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 132, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|C"/>
+    <num codify:value="48-831.33">133</num>
+    <heading>Discounted prices for uninsured qualified residents.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any participating retail pharmacy that sells prescription drugs covered by a rebate agreement pursuant to § <cite path="§48-831.05">48-831.05</cite> shall discount the retail price of those drugs sold to uninsured qualified residents.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Department shall establish discounted prices for drugs covered by a rebate agreement and shall promote the use of efficacious and reduced-cost drugs, taking into consideration reduced prices for state and federally capped drug programs, differential dispensing fees, administrative overhead, and incentive payments.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Beginning January 1, 2005, a participating retail pharmacy shall offer the initial discounted price.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Beginning no later than October 1, 2005, a participating retail pharmacy shall offer the secondary discounted price, if available.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 133, 51 DCR 3688</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§48-831.06">48-831.06</cite>, § <cite path="§48-831.07">48-831.07</cite>, and § <cite path="§48-831.10">48-831.10</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|D"/>
+    <num codify:value="48-831.41">141</num>
+    <heading>Establishment of AccessRx Pharmaceutical Resource Center.</heading>
+    <text>The Department shall conduct a program to provide life saving prescription and nonprescription medications and medical supplies by enrolling eligible individuals into pharmaceutical assistance programs. Of the funds appropriated for the Department of Health for fiscal year 2006, the Director shall enter into a contract with the Archdiocesan Health Care Network, Catholic Charities in an amount up to $1.956 million to operate and administer the program and provide sufficient personnel to ensure appropriate oversight of the program.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 141</annotation>
+        <annotation doc="D.C. Law 16-33">as added Oct. 20, 2005, D.C. Law 16-33, § 5072, 52 DCR 7503</annotation>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 5062(b), 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> substituted “in an amount up to $1.956 million” for “in the amount of $1.956 million”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 5072 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005,  52 DCR 7667).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5062(b) of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5062(b) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5062(b) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle H of title V of Law 16-33: Section 5071 of <cite doc="D.C. Law 16-33">D.C. Law 16-33</cite> provided that subtitle H of title V of the act may be cited as the AccessRx Amendment Act of 2005.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|I|D"/>
+    <num codify:value="48-831.42">142</num>
+    <heading>Eligibility.</heading>
+    <para>
+      <num>(a)</num>
+      <text>To be eligible, an individual shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be a resident of the District;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Have a household income not exceeding 300% of the federal poverty level; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Lack prescription coverage.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Eligibility shall be determined by the contract organization administering the program.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Eligibility for District Medicaid, DC Healthcare Alliance, and other public programs shall be screened at the time an individual seeks to enroll in the program, and appropriate referrals shall be made to the Income Maintenance Administration in the Department of Human Services.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 142</annotation>
+        <annotation doc="D.C. Law 16-33">as added Oct. 20, 2005, D.C. Law 16-33, § 5072, 52 DCR 7503</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 5072 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005,  52 DCR 7667).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|II"/>
+    <num codify:value="48-832.01">201</num>
+    <heading>Fiduciary duty.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A pharmacy benefits manager owes a fiduciary duty to a covered entity and shall discharge that duty in accordance with all applicable laws. In performance of that duty, a pharmacy benefits manager shall adhere to the practices set forth in this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>A pharmacy benefits manager shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Perform its duties with care, skill, prudence, and diligence and in accordance with the standards of conduct applicable to a fiduciary in an enterprise of a like character and with like aims; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Repealed.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Notify the covered entity in writing of any activity, policy or practice of the pharmacy benefits manager that directly or indirectly presents any conflict of interest with the duties imposed by this subchapter; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A pharmacy benefits manager that receives from any drug manufacturer or labeler any payment or benefit of any kind in connection with the utilization of prescription drugs by covered individuals, including payments or benefits based on volume of sales or market share, shall pass that payment or benefit on in full to the covered entity. This provision does not prohibit the covered entity from agreeing by contract to compensate the pharmacy benefits manager by returning a portion of the benefit or payment to the pharmacy benefits manager.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>Upon request by a covered entity, a pharmacy benefits manager retained by that covered entity shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Provide information showing the quantity of drugs purchased by the covered entity and the net cost to the covered entity for the drugs. This information shall include all rebates, discounts, and other similar payments. If requested by the covered entity, the pharmacy benefits manager shall provide such quantity and net cost information on a drug-by-drug basis by National Drug Code registration number rather than on an aggregated basis; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Disclose to the covered entity all financial terms and arrangements for remuneration of any kind that apply between the pharmacy benefits manager and any prescription drug manufacturer or labeler, including, without limitation, formulary management and drug-substitution programs, educational support, claims processing, and data sales fees.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A pharmacy benefits manager providing information to a covered entity under this section may designate that information as confidential. Information designated as confidential may not be disclosed by the covered entity to any other person or entity without the consent of the pharmacy benefits manager, unless ordered by a court of the District for good cause shown.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The following provisions apply to the dispensation of a substitute prescription drug for a prescribed drug to a covered individual:</text>
+      <para>
+        <num>(1)</num>
+        <text>Repealed.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the substitute drug costs more than the prescribed drug, the pharmacy benefits manager shall disclose to the covered entity the cost of both drugs and any benefit or payment directly or indirectly accruing to the pharmacy benefits manager as a result of the substitution.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The pharmacy benefits manager shall transfer in full to the covered entity any benefit or payment received in any form by the pharmacy benefits manager as a result of a prescription drug substitution under paragraph (2) of this subsection.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 201, 51 DCR 3688</annotation>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 5062(c), 53 DCR 6899</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 137, 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-192">D.C. Law 16-192</cite>, in subsec. (b)(1)(A), inserted “and” at the end; repealed subsecs. (b)(1)(B) and (d)(1); and rewrote subsec. (d)(2).</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “paragraph (2)” for “paragraphs (1) or (2)” in (d)(3).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(b) of AccessRx Act Clarification Temporary Amendment of Act of 2006 (<cite doc="D.C. Law 16-154">D.C. Law 16-154</cite>, September 19, 2006, law notification  53 DCR 7926).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of AccessRX Act Clarification Emergency Amendment Act of 2006 (D.C. Act 16-370, May 5, 2006,  53 DCR 4059).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5062(c) of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5062(c) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5062(c) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|II"/>
+    <num codify:value="48-832.02">202</num>
+    <heading>Compliance.</heading>
+    <text>Compliance with the requirements of this subchapter is required in all contracts between a pharmacy benefits manager and a covered entity entered into in the District of Columbia or by a covered entity in the District of Columbia executed after May 18, 2004.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 202, 51 DCR 3688</annotation>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 5062(d), 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> substituted “and a covered entity entered into in the District of Columbia or by a covered entity in the District of Columbia” for “and a covered entity”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(c) of AccessRx Act Clarification Temporary Amendment of Act of 2006 (<cite doc="D.C. Law 16-154">D.C. Law 16-154</cite>, September 19, 2006, law notification  53 DCR 7926).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(c) of AccessRX Act Clarification Emergency Amendment Act of 2006 (D.C. Act 16-370, May 5, 2006,  53 DCR 4059).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5062(d) of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5062(d) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5062(d) of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|II"/>
+    <num codify:value="48-832.03">203</num>
+    <heading>Enforcement.</heading>
+    <text>A violation of this subchapter is a violation of Chapter 39 of Title 28, for which a fine of not more than $10,000 may be adjudged.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 203, 51 DCR 3688</annotation>
+        <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 88(b), 53 DCR 6794</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite> validated a previously made technical correction.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|III"/>
+    <num codify:value="48-833.01">301</num>
+    <heading>Requirement to disclose prescription drug marketing costs.</heading>
+    <text>A manufacturer or labeler of prescription drugs dispensed in the District that employs, directs, or utilizes marketing representatives in the District shall report marketing costs for prescription drugs in the District. These marketing costs shall be reported to the Department for the purposes of assisting the District in its role as a purchaser of prescription drugs and as an administrator of prescription drug programs, enabling the District to determine the scope of prescription drug marketing costs and their effect on the cost, utilization, and delivery of health care services, and furthering the role of the District as guardian of the public interest.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 301, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|III"/>
+    <num codify:value="48-833.02">302</num>
+    <heading>Manner of reporting.</heading>
+    <text>By July 1st of each year, a manufacturer or labeler of prescription drugs that directly or indirectly distributes prescription drugs for dispensation to residents of the District shall file a report with the Department in the form and manner provided by the Department. The report shall be accompanied by payment of a fee, as set by the Department in rule, to support the work of the Department under this subchapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 302, 51 DCR 3688</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§48-833.03">48-833.03</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|III"/>
+    <num codify:value="48-833.03">303</num>
+    <heading>Content of annual report by manufacturer or labeler.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsection (b) of this section, the annual report filed pursuant to § <cite path="§48-833.02">48-833.02</cite> shall include the following information as it pertains to marketing activities conducted within the District in a form that provides the value, nature, purpose, and recipient of the expense:</text>
+      <para>
+        <num>(1)</num>
+        <text>All expenses associated with advertising, marketing, and direct promotion of prescription drugs through radio, television, magazines, newspapers, direct mail, and telephone communications as they pertain to District residents;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>With regard to all persons and entities licensed to provide health care in the District, including health care professionals and persons employed by them in the District, carriers licensed under Title 31, health plans and benefits managers, pharmacies, hospitals, nursing facilities, clinics, and other entities licensed to provide health care in the District, the following information:</text>
+        <para>
+          <num>(A)</num>
+          <text>All expenses associated with educational or informational programs, materials, and seminars, and remuneration for promoting or participating in educational or informational sessions, regardless of whether the manufacturer or labeler provides the educational or informational sessions or materials;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>All expenses associated with food, entertainment, gifts valued at more than $25, and anything provided to a health care professional for less than market value;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>All expenses associated with trips and travel; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>All expenses associated with product samples, except for samples that will be distributed free of charge to patients; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The aggregate cost of all employees or contractors of the manufacturer or labeler who directly or indirectly engage in the advertising or promotional activities listed in paragraphs (1) and (2) of this subsection, including all forms of payment to those employees. The cost reported under this paragraph shall reflect only that portion of payment to employees or contractors that pertains to activities within the District or to recipients of the advertising or promotional activities who are residents of or are employed in the District.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The following marketing expenses are not subject to the requirements of this subchapter:</text>
+      <para>
+        <num>(1)</num>
+        <text>Expenses of $25 or less;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Reasonable compensation and reimbursement for expenses in connection with a bona fide clinical trial of a new vaccine, therapy, or treatment; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Scholarships and reimbursement of expenses for attending a significant educational, scientific, or policy-making conference or seminar of a national, regional, or specialty medical or other professional association if the recipient of the scholarship is chosen by the association sponsoring the conference or seminar.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 303, 51 DCR 3688</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§48-831.02">48-831.02</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|III"/>
+    <num codify:value="48-833.04">304</num>
+    <heading>Department reports.</heading>
+    <text>By November 30th of each year, the Department shall provide an annual report, providing information in aggregate form, on prescription drug marketing expenses to the Council and the Corporation Counsel. By January 1, 2005, and every 2 years thereafter, the Department shall provide a report to the Council and the Corporation Counsel, providing information in aggregate form, containing an analysis of the data submitted to the Department, including the scope of prescription drug marketing activities and expenses and their effect on the cost, utilization, and delivery of health care services, and any recommendations with regard to marketing activities of prescription drug manufacturers and labelers.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 304, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|III"/>
+    <num codify:value="48-833.05">305</num>
+    <heading>Confidentiality; public information.</heading>
+    <text>Notwithstanding any provision of law to the contrary, information submitted to the Department pursuant to this subchapter is confidential and is not a public record. Data compiled in aggregate form by the Department for the purposes of reporting required by this subchapter is a public record as long as it does not reveal trade information that is protected by District, state, or federal law.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 305, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|III"/>
+    <num codify:value="48-833.06">306</num>
+    <heading>Penalty.</heading>
+    <text>This subchapter may be enforced in a civil action brought by the Corporation Counsel. A manufacturer or labeler that fails to provide a report as required by this subchapter commits a civil violation for which a fine of $1,000 plus costs and attorney’s fees may be adjudged.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 306, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|III"/>
+    <num codify:value="48-833.07">307</num>
+    <heading>Rulemaking.</heading>
+    <text>The Mayor is authorized to issue any rules necessary to implement the provisions of this subchapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 307, 51 DCR 3688</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority Pursuant to <cite doc="D.C. Law 16-62">D.C. Law 16-62</cite>, the AccessRx Act of 2004, see Mayor’s Order 2006-60, June 7, 2006 ( 53 DCR 5322).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|III"/>
+    <num codify:value="48-833.08">308</num>
+    <heading>Report.</heading>
+    <text>The Department shall report to the committee of the Council having jurisdiction over health and human services matters on or before January 1, 2005 and on or before July 1, 2005 on the assessment of fees on manufacturers and labelers of prescription drugs.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 308, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|8A|III"/>
+    <num codify:value="48-833.09">309</num>
+    <heading>Applicability date.</heading>
+    <text>This subchapter shall apply as of July 1, 2004.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-164">May 18, 2004, D.C. Law 15-164, § 309, 51 DCR 3688</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

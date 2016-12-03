@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 92-327">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 92-327">
   <num>92-327</num>
   <meta>
     <effective>1972-06-30</effective>
@@ -7,4 +7,46 @@
       <law session="92" lawId="327"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-703.03" path="|6|7|I|B"/>
+    <num codify:value="6-703.02">1</num>
+    <heading>Interstate agreement concerning hauling permit fees for certain multiaxle motor vehicles.</heading>
+    <text>The Mayor of the District of Columbia may enter into an interstate agreement with the Commonwealth of Virginia or with the State of Maryland, or with both, which shall stipulate that any person: (1) who operates in the District of Columbia and in the state which is a party to the agreement a single unit motor vehicle which has 3 or more axles and which is designed to unload itself; (2) who has registered that motor vehicle in the District of Columbia or in that state; and (3) who but for the agreement is required to pay the fee for an annual hauling permit prescribed by § <cite path="§6-703.01">6-703.01</cite>, and a similar fee imposed on the motor vehicle by that state, shall not be required to pay a fee described in clause (3) of this section which is imposed by a jurisdiction other than the jurisdiction in which the motor vehicle is registered. If the Mayor enters into an interstate agreement under this section, he may adjust the annual hauling permit fees of the District of Columbia referred to in clause (3) of this section so that the total amount of fees (including registration and inspection fees) required for the operation in the District of Columbia and in each state which is a party to such agreement of the vehicles referred to in clause (1) of this section shall be uniform.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 92-327">June 30, 1972, 86 Stat. 392, Pub. L. 92-327, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Motor vehicles and traffic, operators’ permits, registration, exemption of nonresidents, see § <cite path="§50-1401.02">50-1401.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-517.</annotation>
+        <annotation>1973 Ed., § 5-316a.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§50-2201.24" path="|50|22|I|B"/>
+    <num codify:value="50-2201.23">2</num>
+    <heading>Mayor may enter into interstate agreement concerning enforcement of traffic laws.</heading>
+    <text>The Mayor of the District of Columbia may enter into an interstate agreement with the Commonwealth of Virginia or with the State of Maryland, or with both, pursuant to which the parties to such agreement may assist each other in the enforcement of its laws relating to traffic (including parking violations).</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 92-327">June 30, 1972, 86 Stat. 392, Pub. L. 92-327, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-706.</annotation>
+        <annotation>1973 Ed., § 40-603-2.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to the District of Columbia Council and to a Commissioner of the District of Columbia. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

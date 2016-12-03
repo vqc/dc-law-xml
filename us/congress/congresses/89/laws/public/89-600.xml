@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 89-600">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 89-600">
   <num>89-600</num>
   <meta>
     <effective>1966-09-21</effective>
@@ -7,4 +7,63 @@
       <law session="89" lawId="600"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|12"/>
+    <num codify:value="6-1206">1</num>
+    <heading>Old Georgetown Market declared historic landmark.</heading>
+    <text>That the real property, together with all structures thereon on September 21, 1966, described as lot 800, square 1186, of the District of Columbia, commonly known as the Old Georgetown Market, is hereby declared a historic landmark, and the Mayor of the District of Columbia is authorized and directed to preserve such property as a historic landmark and to operate and maintain it as a public market, except that the Mayor is authorized to enter into an agreement with the Secretary of the Interior to provide for the use of a portion of such property as a museum to be operated by the Secretary in connection with the Chesapeake and Ohio Canal. Such property shall not be used under authority of any provision of law for any purpose not provided in this section unless:</text>
+    <para>
+      <num>(1)</num>
+      <text>Such law is enacted after September 21, 1966; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Specifically authorizes such property to be used for such other purpose.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 89-600">Sept. 21, 1966, 80 Stat. 829, Pub. L. 89-600, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1207">6-1207</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1106.</annotation>
+        <annotation>1973 Ed., § 5-806.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|12"/>
+    <num codify:value="6-1207">2</num>
+    <heading>Appropriations to carry out § 6-1206.</heading>
+    <text>For the purpose of carrying out the provisions of § <cite path="§6-1206">6-1206</cite>, there are authorized to be appropriated to the District of Columbia such sums as may be necessary.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 89-600">Sept. 21, 1966, 80 Stat. 830, Pub. L. 89-600, § 2</annotation>
+        <annotation doc="Pub. L. 91-650">Jan. 5, 1971, 84 Stat. 1938, Pub. L. 91-650, title VII, § 701</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1107.</annotation>
+        <annotation>1973 Ed., § 5-807.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 2 of Preservation of Residential Neighborhoods Against Nuisances Temporary Act of 1996 (<cite doc="D.C. Law 11-209">D.C. Law 11-209</cite>, April 9, 1997, law notification 44 DCR ).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition, see § 2 of the Preservation of Residential Neighborhoods Against Nuisances Emergency Act of 1996 (D.C. Act 11-352, August 12, 1996,  43 DCR 4626), and § 2 of the Preservation of Residential Neighborhoods Against Nuisances Congressional Review Emergency Act of 1996 (D.C. Act 11-412, October 28, 1996,  43 DCR 6068).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

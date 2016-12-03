@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 90-319">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 90-319">
   <num>90-319</num>
   <meta>
     <effective>1968-05-27</effective>
@@ -7,4 +7,26 @@
       <law session="90" lawId="319"/>
     </cites>
   </meta>
+  <section>
+    <num>2</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" before="§38-1972" path="|38|19|III"/>
+      <reason>Repealed</reason>
+      <num codify:value="38-1971">(4)</num>
+      <heading>Probationary employees; salary increases; termination.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 90-319">May 27, 1968, 82 Stat. 138, Pub. L. 90-319, § 2(4)</annotation>
+          <annotation doc="D.C. Law 4-78">Mar. 16, 1982, D.C. Law 4-78, § 11, 29 DCR 49</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-1133.</annotation>
+          <annotation>1973 Ed., § 31-1533.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

@@ -1,10 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 70-2-ch659">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 70-2-ch659" codify:tag="section" from-code="true">
   <meta>
     <effective>1928-05-21</effective>
     <cites>
-        <law congress="70" session="2" chapter="659"/>
+      <law congress="70" session="2" chapter="659"/>
     </cites>
   </meta>
+  <codify:insert doc="D.C. Code" before="§7-179" path="|7|1|IV"/>
+  <num codify:value="7-178"></num>
+  <heading>Reception, burial, and identification of ashes of certain cremated indigent persons.</heading>
+  <text>The Director of the Department of Human Services is authorized to provide and furnish proper containers for the reception, burial, and identification of the ashes of all human bodies of indigent persons that are cremated at the public crematorium, which ashes remain unclaimed after 12 months from date of such cremation.</text>
+  <annotations>
+    <annoGroup>
+      <heading>History</heading>
+      <annotation>May 21, 1928, 45 Stat. 669, ch. 659</annotation>
+      <annotation>July 3, 1930, 46 Stat. 975, ch. 848</annotation>
+      <annotation>Aug. 1, 1950, 64 Stat. 393, ch. 513, § 1</annotation>
+    </annoGroup>
+    <annoGroup>
+      <heading>Prior Codifications</heading>
+      <annotation>1981 Ed., § 6-114.</annotation>
+      <annotation>1973 Ed., § 6-115.</annotation>
+    </annoGroup>
+    <annoGroup>
+      <heading>Editor's Notes</heading>
+      <annotation>Office of Director of Public Health abolished: See Historical and Statutory Notes following § <cite path="§7-101">7-101</cite>.</annotation>
+    </annoGroup>
+  </annotations>
 </document>

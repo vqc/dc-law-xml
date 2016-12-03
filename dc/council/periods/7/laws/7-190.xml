@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 7-190">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 7-190">
   <num type="law">7-190</num>
   <heading type="short">District of Columbia Hazardous Materials Transportation and Motor Carrier Safety Act of 1988</heading>
   <meta>
@@ -12,4 +12,199 @@
       <narrative>Law 7-190, the “District of Columbia Hazardous Materials Transportation and Motor Carrier Safety Act of 1988,” was introduced in Council and assigned Bill No. 7-20, which was referred to the Committee on Public Works. The Bill was adopted on first and second readings on October 25, 1988 and November 15, 1988, respectively. Signed by the Mayor on December 1, 1988, it was assigned Act No. 7-252 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§8-1403" path="|8|14|I"/>
+    <num codify:value="8-1401">2</num>
+    <heading>Findings and purposes.</heading>
+    <text>The Council of the District of Columbia makes the following findings and supports the following purposes:</text>
+    <para>
+      <num>(1)</num>
+      <text>Many shipments of hazardous materials are made in the District of Columbia (“District”);</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The District is 1 of the few states that has not adopted the federal regulations governing the transportation of hazardous materials and motor carrier safety;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>According to statistics compiled by the federal Environmental Protection Agency, there have been 30 incidents involving the unintentional release of hazardous materials in transport in the District since 1985, none of which have been required by law to be reported to the District government;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>There have been a growing number of incidents involving the transportation of hazardous materials on highways surrounding the District in recent months;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>According to the United States Department of Transportation, there is an insufficient number of federal inspectors available to inspect vehicles transporting hazardous materials, causing many vehicles to go uninspected unless the states have regulations enabling them to carry out inspections;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The District does not have a procedure for inspecting the safety of commercial motor vehicles that transport hazardous materials in the city, nor for monitoring the condition of the operators of those vehicles;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Until the District adopts a system consistent with the federal motor carrier safety regulations that govern commercial motor vehicles, including those transporting hazardous materials, the District is ineligible to receive at least $225,000 per year in federal grant assistance for implementing the regulations;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Other costs to the District associated with enforcing this chapter should be the responsibility of those who transport hazardous materials in the District;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>The Hazardous Materials Study Commission will no longer be necessary since the Commission’s mandate will be executed through the implementation of this chapter; and</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>Residents of and visitors to the District should be protected from the serious risks associated with improper transportation of hazardous materials, overworked operators, and unsuitable maintenance of commercial motor vehicles, including vehicles transporting hazardous materials.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-190">Mar. 16, 1989, D.C. Law 7-190, § 2, 35 DCR 8663</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§50-1901">50-1901</cite>, § <cite path="§50-2201.02">50-2201.02</cite>, § <cite path="§50-2206.01">50-2206.01</cite>, and § <cite path="§50-2206.16">50-2206.16</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3301.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§8-1403" path="|8|14|I"/>
+    <num codify:value="8-1402">3</num>
+    <heading>Definition.</heading>
+    <text>For the purposes of this chapter, the term “hazardous materials” means substances or materials in a quantity and form that may pose an unreasonable risk to health, safety, or property when transported in commerce and includes explosives, radioactive materials, etiological agents, flammable liquids or solids, combustible liquids or solids, poisons, oxidizing or corrosive materials, or compressed gases.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-190">Mar. 16, 1989, D.C. Law 7-190, § 3, 35 DCR 8663</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3302.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section>
+    <num>4</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" before="§8-1404" path="|8|14|I"/>
+      <num codify:value="8-1403.01">(a)</num>
+      <heading>Stops and inspection.</heading>
+      <text>To determine compliance with this chapter and its implementing regulations, a police officer may stop the driver of a motor vehicle and enter upon the premises of a motor carrier that is regulated pursuant to this chapter and inspect any of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>All equipment, parts, and accessories, including carrier maintenance, certification, and safety records;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All driver records, including driver’s license, permits, hours of service records, certificate of physical examination, and training records;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All manifests, including bills of lading or other shipping documents; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All cargo and cargo areas, including the removal of cargo seals when necessary to conduct a safety inspection.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 7-190">Mar. 16, 1989, D.C. Law 7-190, § 4(a)</annotation>
+          <annotation doc="D.C. Law 9-173">as added Oct. 1, 1992, D.C. Law 9-173, § 3(b), 39 DCR 5834</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§8-1403.02">8-1403.02</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 6-3303.1.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" before="§8-1404" path="|8|14|I"/>
+      <num codify:value="8-1403.02">(b)</num>
+      <heading>Consent to inspection.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The operation of a vehicle subject to this chapter and its implementing regulations on any highway or roadway in the District shall constitute the consent of the driver and the owner of the vehicle to the inspection pursuant to § <cite path="§8-1403.01">8-1403.01</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The driver of a vehicle shall obey every sign and every direction of a police officer to stop the vehicle and submit to an inspection.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 7-190">Mar. 16, 1989, D.C. Law 7-190, § 4(b)</annotation>
+          <annotation doc="D.C. Law 9-173">as added Oct. 1, 1992, D.C. Law 9-173, § 3(b), 39 DCR 5834</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 6-3303.2.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
+  <section>
+    <num>5</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|8|14|I"/>
+      <num codify:value="8-1404.01">(a)</num>
+      <heading>Reimbursements.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The owner of any hazardous material motor carrier that releases a hazardous material shall reimburse the District for all expenditures made by the District to contain, remove, or respond to such a release.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Mayor shall notify by certified mail the owner of any hazardous material motor carrier that releases a hazardous material of the costs incurred by the District to contain, remove, or respond to the release.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the owner of the hazardous material motor carrier does not reimburse the District for all expenditures made to contain, remove, or respond to the release, within 10 days of the posting of notice by the Mayor, the Corporation Counsel may bring a civil action to seek reimbursement from the owner of the motor carrier.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 7-190">Mar. 16, 1989, D.C. Law 7-190, § 5(a)</annotation>
+          <annotation doc="D.C. Law 9-173">as added Oct. 1, 1992, D.C. Law 9-173, § 3(d), 39 DCR 5834</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 6-3304.1.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|14|I"/>
+    <num codify:value="8-1405">6</num>
+    <heading>Rules.</heading>
+    <text>Within 6 months of March 16, 1989, the Mayor shall, pursuant to subchapter I of Chapter 5 of Title 2, issue rules to implement the provisions of this chapter. The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 45-day review period, the proposed rules shall be deemed approved.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-190">Mar. 16, 1989, D.C. Law 7-190, § 6, 35 DCR 8663</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1404">8-1404</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3305.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority under <cite doc="D.C. Law 7-190">D.C. Law 7-190</cite>, the “D.C. Hazardous Materials Transportation &amp; Motor Carrier Safety Act of 1988”, see Mayor’s Order 89-169, July 25, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

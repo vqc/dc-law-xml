@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 11-123">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 11-123">
   <num type="law">11-123</num>
   <heading type="short">Insurance Industry Material Transactions Disclosure Act of 1996</heading>
   <meta>
@@ -12,4 +12,275 @@
       <narrative>Law 11-123, the “Insurance Industry Material Transactions Disclosure Act of 1996,” was introduced in Council and Assigned Bill No. 11-239, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on February 6, 1996, and March 5, 1996, respectively. Signed by the mayor on March 15, 1996, it was assigned Act No. 11-230 and transmitted to both Houses of Congress for its review. D.C. Law 11-123 became effective on May 24, 1996.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|10"/>
+    <num codify:value="31-1001">2</num>
+    <heading>Report requirement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Every insurer domiciled in the District of Columbia shall file a report with the Commissioner of the Department of Insurance, Securities, and Banking (“Commissioner”) disclosing material acquisitions and dispositions of assets or material nonrenewals, cancellations or revisions of ceded reinsurance agreements unless such acquisitions and dispositions of assets or material nonrenewals, cancellations or revisions of ceded reinsurance agreements that have been submitted to the Commissioner for review, approval, or information purposes pursuant to other provisions of the insurance code, laws, regulations, or other requirements.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The report required in subsection (a) of this section is due within 15 days after the end of the calendar month in which any of the transactions enumerated in subsection (a) of this section occur.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>One complete copy of the report, including any exhibits or other attachments, shall be filed with:</text>
+      <para>
+        <num>(1)</num>
+        <text>The insurance department of the insurer’s state of domicile; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The National Association of Insurance Commissioners.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Repealed.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-123">May 24, 1996, D.C. Law 11-123, § 2, 43 DCR 1542</annotation>
+        <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 42(a), 45 DCR 745</annotation>
+        <annotation doc="D.C. Law 13-191">Oct. 21, 2000, D.C. Law 13-191, § 6(a), 47 DCR 7311</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 42, 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-1002">31-1002</cite> and § <cite path="§31-1003">31-1003</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4101.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-191">D.C. Law 13-191</cite> repealed subsec. (d) providing:</annotation>
+        <annotation>“(d) All reports obtained by or disclosed to the Commissioner pursuant to this chapter shall be given confidential treatment and shall not be subject to subpoena, shall not be subject to disclosure under subchapter II of Chapter 15 of Title 1 1981 Ed., and shall not be made public by the Commissioner, the National Association of Insurance Commissioners, or any other person except to insurance departments of other states, without the prior written consent of the insurer to which it pertains, unless the Commissioner, after giving the insurer who would be affected notice and an opportunity to be heard, determines that the interest of policyholders, shareholders, or the public will be served by the publication thereof, in which event the Commissioner may publish all or any part in the manner the Commissioner may deem appropriate.”</annotation>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in subsec. (a), substituted “of the Department of Insurance, Securities, and Banking” for “of Insurance and Securities”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|10"/>
+    <num codify:value="31-1002">3</num>
+    <heading>Acquisition and disposition of assets.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No acquisition or disposition of assets need be reported pursuant to § <cite path="§31-1001">31-1001</cite> if the acquisitions or dispositions are not material. For purposes of this chapter, a material acquisition (or the aggregate of any series of related acquisitions during any 30-day period) or disposition (or the aggregate of any series of related dispositions during any 30-day period) is one that is nonrecurring and not in the ordinary course of business and involves more than 5% of the reporting insurer’s total admitted assets as reported in its most recent statutory statement filed with the insurance department of the insurer’s state of domicile.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>Asset acquisitions subject to this chapter include every purchase, lease, exchange, merger, consolidation, succession, or other acquisition other than the construction or development of real property by or for the reporting insurer or the acquisition of materials for such purpose.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Asset dispositions subject to this chapter include every sale, lease, exchange, merger, consolidation, mortgage, hypothecation, assignment (whether for the benefit of creditors or otherwise), abandonment, destruction, or other disposition.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The following information is required to be disclosed in any report of a material acquisition or disposition of assets:</text>
+      <para>
+        <num>(1)</num>
+        <text>Date of the transaction;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Manner of acquisition or disposition;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Description of the assets involved;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Nature and amount of the consideration given or received;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Purpose of, or reason for, the transaction;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Manner by which the amount of consideration was determined;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Gain or loss recognized or realized as a result of the transaction; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Names of the persons from whom the assets were acquired or to whom they were disposed.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Insurers are required to report material acquisitions and dispositions on a nonconsolidated basis unless the insurer is part of a consolidated group of insurers which utilizes a pooling arrangement or 100% reinsurance agreement that affects the solvency and integrity of the insurer’s reserves and the insurer ceded substantially all of its direct and assumed business to the pool. An insurer is deemed to have ceded substantially all of its direct and assumed business to a pool if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The insurer has less than $1,000,000 total direct plus assumed written premiums during a calendar year that are not subject to a pooling arrangement; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The net income of the business not subject to the pooling arrangement represents less than 5% of the insurer’s capital and surplus.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-123">May 24, 1996, D.C. Law 11-123, § 3, 43 DCR 1542</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4102.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|10"/>
+    <num codify:value="31-1003">4</num>
+    <heading>Nonrenewals, cancellations, or revisions of ceded reinsurance agreements.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No nonrenewals, cancellations, or revisions of ceded reinsurance agreements need be reported pursuant to § <cite path="§31-1001">31-1001</cite> if the nonrenewals, cancellations, or revisions are not material.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>For purposes of this chapter, a material nonrenewal, cancellation, or revision is one that affects:</text>
+      <para>
+        <num>(1)</num>
+        <text>As respects property and casualty business, including accident and health business written by a property and casualty insurer:</text>
+        <para>
+          <num>(A)</num>
+          <text>More than 50% of the insurer’s total ceded written premium; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>More than 50% of the insurer’s total ceded indemnity and loss adjustment reserves.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>As respects life, annuity, and accident and health business, more than 50% of the total reserve credit taken for business ceded, on an annualized basis, as indicated in the insurer’s most recent annual statement.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>As respects either property and casualty or life, annuity, and accident and health business, either of the following events shall constitute a material revision which must be reported:</text>
+      <para>
+        <num>(1)</num>
+        <text>An authorized reinsurer representing more than 10% of a total cession is replaced by one or more unauthorized reinsurers; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Previously established collateral requirements that have been reduced or waived as respects one or more unauthorized reinsurers representing collectively more than 10% of a total cession.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>No filing shall be required if:</text>
+      <para>
+        <num>(1)</num>
+        <text>As respects property and casualty business, including accident and health business written by a property and casualty insurer, the insurer’s total ceded written premium represents, on an annualized basis, less than 10% of its total written premium for direct and assumed business; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>As respects life, annuity, and accident and health business, the total reserve credit taken for business ceded represents, on an annualized basis, less than 10% of the statutory reserve requirement prior to any cession.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The following information is required to be disclosed in any report of a material nonrenewal, cancellation, or revision of ceded reinsurance agreements:</text>
+      <para>
+        <num>(1)</num>
+        <text>Effective date of the nonrenewal, cancellation, or revision;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The description of the transaction with an identification of the initiator thereof;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Purpose of, or reason for, the transaction; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>if applicable, the identity of the replacement reinsurers.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Insurers are required to report all material nonrenewals, cancellations, or revisions of ceded reinsurance agreements on a nonconsolidated basis unless the insurer is part of a consolidated group of insurers which utilizes a pooling arrangement or 100% reinsurance agreement that affects the solvency and integrity of the insurer’s reserves and the insurer ceded substantially all of its direct and assumed business to the pool. An insurer is deemed to have ceded substantially all of its direct and assumed business to a pool if the insurer has less than $1,000,000 total direct plus assumed written premiums during a calendar year that $1,000,000 total direct plus assumed written premiums during a calendar year that are not subject to a pooling arrangement and the net income of the business not subject to the pooling arrangement represents less than 5% of the insurer’s capital and surplus.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-123">May 24, 1996, D.C. Law 11-123, § 4, 43 DCR 1542</annotation>
+        <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 42(b), 45 DCR 745</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4103.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|10"/>
+    <num codify:value="31-1004">4a</num>
+    <heading>Confidentiality.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All reports obtained by or disclosed to the Commissioner under this chapter in the possession or control of the Department of Insurance, Securities, and Banking shall be confidential and privileged; shall not be subject to subchapter II of Chapter 5 of Title 2; shall not be subject to subpoena; and shall not be subject to discovery or admissible in evidence in a private civil action without the prior written consent of the insurer to which it pertains; provided, that the Commissioner may use the documents, materials, or other information in the furtherance of any regulatory or legal action brought as a part of the Commissioner’s official duties.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If the Commissioner, after giving the insurer who would be affected notice and an opportunity to be heard, determines that the interest of policyholders, shareholders, or the public will be served by publication of the information subject to subsection (a) of this section, the Commissioner may publish all or any part in the manner that the Commissioner considers appropriate.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commissioner or any person who received documents, materials, or other information while acting under the authority of the Commissioner shall not be permitted or required to testify in a private civil action concerning any confidential documents, materials, or information subject to subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>To assist in the performance of the Commissioner’s duties, the Commissioner:</text>
+      <para>
+        <num>(1)</num>
+        <text>May share documents, materials, or other information, including the confidential and privileged documents, materials, or other information subject to subsection (a) of this section, with other state, federal, and international regulatory agencies; with the National Association of Insurance Commissioners, including its affiliates and subsidiaries; and with state, federal, and international law enforcement authorities; provided, that the recipient agrees, and has the legal authority, to maintain the confidentiality and privileged status of the documents, materials, or other information;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May receive documents, materials, or other information, including confidential and privileged documents, materials, or other information, from the National Association of Insurance Commissioners, including its affiliates and subsidiaries, and from regulatory and law enforcement officials of other foreign or domestic jurisdictions, and shall maintain as confidential or privileged any document, material, or other information received with notice or the understanding that it is confidential or privileged under the laws of the jurisdiction that is the source of the document, material, or other information; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>May enter into agreements governing the sharing and use of information consistent with this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>No waiver of an applicable privilege or claim of confidentiality in the documents, materials, or other information shall occur as a result of disclosure to the Commissioner under this section or of sharing as authorized in subsection (d) of this section. Nothing in this section shall require an insurer to disclose documents, materials, or other information that is not otherwise required by law to be disclosed.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-123">May 24, 1996, D.C. Law 11-123, § 4a</annotation>
+        <annotation doc="D.C. Law 13-191">as added Oct. 21, 2000, D.C. Law 13-191, § 6(b), 47 DCR 7311</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 4(f), 51 DCR 2817</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite>, in subsec. (a), substituted “Department of Insurance, Securities, and Banking” for “Department of Insurance and Securities Regulation”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 4(f) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

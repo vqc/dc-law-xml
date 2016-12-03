@@ -1,10 +1,158 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 50-1-ch272">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 50-1-ch272">
+  <heading/>
   <meta>
     <effective>1887-02-28</effective>
     <cites>
-        <law congress="50" session="1" chapter="272"/>
+      <law congress="50" session="1" chapter="272"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|27"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2701">1</num>
+    <heading>License required.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Feb. 28, 1887, 24 Stat. 427, ch. 272, § 1</annotation>
+        <annotation>Mar. 4, 1925, 43 Stat. 1284, ch. 545</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1238, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2401.</annotation>
+        <annotation>1973 Ed., § 2-1501.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation><cite doc="D.C. Law 12-261">D.C. Law 12-261</cite>, Title I, § 1238 provided: “Sec. 1238. An Act to regulate steam-engineering in the District of Columbia, approved February 28, 1887 (24 Stat. 427;  D.C. Code § <cite path="§2-2401">2-2401</cite> et seq. § <cite path="§3-2701">3-2701</cite> et seq., 2001 Ed. ), is repealed and authority thereunder transferred to the Board of Industrial Trades established by  D.C. Code § <cite path="§47-2853.6">47-2853.6</cite> [§ <cite path="§47-2853.06">47-2853.06</cite>, 2001 Ed.].”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|27"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2703">3</num>
+    <heading>Qualification of applicants; application.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Feb. 28, 1887, 24 Stat. 427, ch. 272, § 3</annotation>
+        <annotation>Mar. 4, 1925, 43 Stat. 1284, ch. 545</annotation>
+        <annotation doc="D.C. Law 1-75">July 22, 1976, D.C. Law 1-75, § 3(h), 23 DCR 1178</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1238, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2403.</annotation>
+        <annotation>1973 Ed., § 2-1503.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|27"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2704">4</num>
+    <heading>License fee.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Feb. 28, 1887, 24 Stat. 427, ch. 272, § 4</annotation>
+        <annotation>Mar. 4, 1925, 43 Stat. 1284, ch. 545</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1238, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2404.</annotation>
+        <annotation>1973 Ed., § 2-1504.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|27"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2705">5</num>
+    <heading>Revocation of license for intoxication.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Feb. 28, 1887, 24 Stat. 427, ch. 272, § 5</annotation>
+        <annotation>Mar. 4, 1925, 43 Stat. 1284, ch. 545</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1238, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2405.</annotation>
+        <annotation>1973 Ed., § 2-1505.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|27"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2706">6</num>
+    <heading>Employment of unlicensed person; exemption.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Feb. 28, 1887, 24 Stat. 427, ch. 272, § 6</annotation>
+        <annotation>Mar. 4, 1925, 43 Stat. 1284, ch. 545</annotation>
+        <annotation>Apr. 1, 1942, 56 Stat. 190, ch. 207, § 1</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1238, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2406.</annotation>
+        <annotation>1973 Ed., § 2-1506.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|27"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2707">7</num>
+    <heading>Exemptions from chapter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Feb. 28, 1887, 24 Stat. 427, ch. 272, § 7</annotation>
+        <annotation>Mar. 4, 1925, 43 Stat. 1284, ch. 545</annotation>
+        <annotation>July 31, 1939, 53 Stat. 1143, ch. 398</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1238, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2407.</annotation>
+        <annotation>1973 Ed., § 2-1507.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|27"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2708">8</num>
+    <heading>Imposition of civil fines, penalties, and fees; adjudications.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Feb. 28, 1887, ch. 272, § 8</annotation>
+        <annotation doc="D.C. Law 6-42">as added Oct. 5, 1985, D.C. Law 6-42, § 482, 32 DCR 4450</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1238, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2408.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

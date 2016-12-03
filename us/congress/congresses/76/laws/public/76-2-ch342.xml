@@ -1,10 +1,128 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 76-2-ch342">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 76-2-ch342">
+  <heading/>
   <meta>
     <effective>1940-06-12</effective>
     <cites>
-        <law congress="76" session="2" chapter="342"/>
+      <law congress="76" session="2" chapter="342"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-1964" path="|38|19|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1946">1</num>
+    <heading>Leave with part pay authorized; limitations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 12, 1940, 54 Stat. 349, ch. 342, § 1</annotation>
+        <annotation doc="D.C. Law 4-78">Mar. 16, 1982, D.C. Law 4-78,§ 17, 29 DCR 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1011.</annotation>
+        <annotation>1973 Ed., § 31-632.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-1964" path="|38|19|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1947">2</num>
+    <heading>Report of person on leave; termination of leave.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 12, 1940, 54 Stat. 349, ch. 342, § 2</annotation>
+        <annotation doc="D.C. Law 4-78">Mar. 16, 1982, D.C. Law 4-78,§ 17, 29 DCR 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1012.</annotation>
+        <annotation>1973 Ed., § 31-633.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-1964" path="|38|19|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1948">3</num>
+    <heading>Leave of absence for educational purposes — Compensation of elementary and secondary school teachers.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 12, 1940, 54 Stat. 349, ch. 342, § 3</annotation>
+        <annotation doc="Pub. L. 88-472">Aug. 21, 1964, 78 Stat. 584, Pub. L. 88-472, § 1</annotation>
+        <annotation doc="D.C. Law 4-78">Mar. 16, 1982, D.C. Law 4-78, § 17, 29 DCR 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1013.</annotation>
+        <annotation>1973 Ed., § 31-634.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-1964" path="|38|19|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1949">4</num>
+    <heading>Leave of absence for educational purposes — Compensation of other employees.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 12, 1940, 54 Stat. 349, ch. 342, § 4</annotation>
+        <annotation doc="Pub. L. 88-472">Aug. 21, 1964, 78 Stat. 584, Pub. L. 88-472, § 2</annotation>
+        <annotation doc="D.C. Law 1-53">Mar. 12, 1976, D.C. Law 1-53, § 2, 22 DCR 5132</annotation>
+        <annotation doc="D.C. Law 4-78">Mar. 16, 1982, D.C. Law 4-78, § 17, 29 DCR 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1014.</annotation>
+        <annotation>1973 Ed., § 31-635.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-1964" path="|38|19|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1950">5</num>
+    <heading>Leave of absence for educational purposes — Inclusion for promotion and retirement purposes.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 12, 1940, 54 Stat. 350, ch. 342, § 5</annotation>
+        <annotation doc="Pub. L. 88-472">Aug. 21, 1964, 78 Stat. 585, Pub. L. 88-472, § 3</annotation>
+        <annotation doc="D.C. Law 4-78">Mar. 16, 1982, D.C. Law 4-78, § 17, 29 DCR 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1015.</annotation>
+        <annotation>1973 Ed., § 31-636.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-1964" path="|38|19|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1951">6</num>
+    <heading>Masculine pronoun construed to include female employees.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 12, 1940, 54 Stat. 350, ch. 342, § 6</annotation>
+        <annotation doc="D.C. Law 4-78">Mar. 16, 1982, D.C. Law 4-78,§ 17, 29 DCR 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1016.</annotation>
+        <annotation>1973 Ed., § 31-637.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

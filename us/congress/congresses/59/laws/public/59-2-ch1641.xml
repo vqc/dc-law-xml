@@ -1,10 +1,77 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 59-2-ch1641">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 59-2-ch1641">
+  <heading/>
   <meta>
     <effective>1906-04-20</effective>
     <cites>
-        <law congress="59" session="2" chapter="1641"/>
+      <law congress="59" session="2" chapter="1641"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|43|1"/>
+    <reason>Repealed</reason>
+    <num codify:value="43-129">1</num>
+    <heading>Cremation required in certain cases.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Apr. 20, 1906, 34 Stat. 123, ch. 1641, § 1</annotation>
+        <annotation doc="D.C. Law 13-172">Oct. 19, 2000, D.C. Law 13-172, § 2919(c), 47 DCR 6308</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 27-129.</annotation>
+        <annotation>1973 Ed., § 27-129.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90-day) repeal of sections, see § 2919(c) of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2919(c) of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000,  47 DCR 8740).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|43|1"/>
+    <reason>Repealed</reason>
+    <num codify:value="43-130">2</num>
+    <heading>Public crematory established.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Apr. 20, 1906, 34 Stat. 123, ch. 1641, § 2</annotation>
+        <annotation>Feb. 22, 1921, 41 Stat. 1144, ch. 70, § 7</annotation>
+        <annotation>June 28, 1944, 58 Stat. 533, ch. 300, § 18</annotation>
+        <annotation doc="Pub. L. 90-173">Dec. 4, 1967, 81 Stat. 532, Pub. L. 90-173, § 1</annotation>
+        <annotation doc="D.C. Law 13-172">Oct. 19, 2000, D.C. Law 13-172, § 2919(c), 47 DCR 6308</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 27-130.</annotation>
+        <annotation>1973 Ed., § 27-130.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2919(c) of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000,  47 DCR 8740).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|43|1"/>
+    <num codify:value="43-131">3</num>
+    <heading>Act for promotion of anatomical science not affected by crematory law.</heading>
+    <text>Nothing in §§ <cite path="§43-129">43-129</cite> to 43-131 shall be construed as repealing or in any way modifying any of the provisions of Chapter 2 of Title 3.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Apr. 20, 1906, 34 Stat. 124, ch. 1641, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 27-131.</annotation>
+        <annotation>1973 Ed., § 27-131.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

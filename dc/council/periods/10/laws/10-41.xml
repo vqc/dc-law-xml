@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 10-41">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 10-41">
   <num type="law">10-41</num>
   <heading type="short">Managing General Agents Act of 1993</heading>
   <meta>
@@ -12,4 +12,401 @@
       <narrative>Law 10-41, the “Managing General Agents Act of 1993,” was introduced in Council and assigned Bill No. 10-125, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 5, 1993, it was assigned Act No. 10-76 and transmitted to both Houses of Congress for its review. D.C. Law 10-41 became effective on October 21, 1993.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|15"/>
+    <num codify:value="31-1501">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Actuary” means a person who is a member in good standing of the American Academy of Actuaries.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“District” means the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Insurer” means any person, firm, association, or corporation duly licensed in the District as an insurance company pursuant to §§ <cite path="§31-4304">31-4304</cite> and <cite path="§31-2502.02">31-2502.02</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <para>
+        <num>(A)</num>
+        <text>“Managing general agent” means any person, firm, association, or corporation who:</text>
+        <para>
+          <num>(i)</num>
+          <text>Negotiates and binds ceding reinsurance contracts on behalf of an insurer; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Manages all or part of the insurance business of an insurer, including the management of a separate division, department, or underwriting office; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Acts as an agent for such an insurer whether known as a managing general agent, manager, or other similar term, who, with or without the authority, either separately or together with affiliates, produces, directly or indirectly, and underwrites an amount of gross direct written premiums equal to or more than 5% of the policyholder surplus as reported in the last annual statement of the insurer in any one quarter or year, and, in addition, adjusts or pays claims in excess of an amount determined by the Mayor, or negotiates reinsurance on behalf of the insurer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Notwithstanding the above definition, the term “managing general agent” shall not apply to the following persons for the purposes of this chapter:</text>
+        <para>
+          <num>(i)</num>
+          <text>An employee of the insurer;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>A United States manager of the United States branch of an alien insurer;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>An underwriting manager who, pursuant to contract, manages all or part of the insurance operations of the insurer, is under common control with the insurer, subject to Chapter 7 of this title, or its predecessor, and whose compensation is not based on the volume of premiums written; or</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>The attorney-in-fact authorized by and acting for the subscribers of a reciprocal insurer or inter-insurance exchange under powers of attorney.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Producers” means an insurance broker or brokers or any other person, firm, association, or corporation, when for any compensation, commission or other thing of value, such person, firm, association, or corporation acts or aids in any manner in soliciting, negotiating, or procuring the making of any insurance contract on behalf of an insured other than the person, firm, association, or corporation.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Underwrite” means the authority to accept or reject risks on behalf of the insurer.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-41">Oct. 21, 1993, D.C. Law 10-41, § 2, 40 DCR 6014</annotation>
+        <annotation doc="D.C. Law 11-110">Apr. 18, 1996, D.C. Law 11-110, § 41, 43 DCR 530</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-1504">31-1504</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3001.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 10-41">D.C. Law 10-41</cite>, the Managing General Agents Act of 1993, see Mayor’s Order 94-54, March 7, 1994 ( 41 DCR 1433).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Mayor authorized to issue rules: Section 8 of <cite doc="D.C. Law 10-41">D.C. Law 10-41</cite> provided that the Mayor shall, pursuant to subchapter I of Chapter 15 of Title 1 subchapter I of Chapter 5 of Title 2, 2001 Ed., issue rules to implement the provisions of this chapter.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|15"/>
+    <num codify:value="31-1502">3</num>
+    <heading>Licensure.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person, firm, association, or corporation shall act in the capacity of a managing general agent with respect to risks located in the District for an insurer licensed in the District, unless the person is a licensed broker in the District.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No person, firm, association, or corporation shall act in the capacity of a managing general agent representing an insurer domiciled in the District with respect to risks located outside the District, nor shall an insurer utilize the services of such a managing general agent, unless the person is licensed as a broker in the District, which license may be a nonresident license, pursuant to the provisions of this chapter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor may require a bond in an amount acceptable to him or her for the protection of the insurer.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor may require the managing general agent to maintain an errors and omissions policy.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-41">Oct. 21, 1993, D.C. Law 10-41, § 3, 40 DCR 6014</annotation>
+        <annotation doc="D.C. Law 10-255">May 16, 1995, D.C. Law 10-255, § 29(a), 41 DCR 5193</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3002.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|15"/>
+    <num codify:value="31-1503">4</num>
+    <heading>Required contract provisions.</heading>
+    <text>No person, firm, association, or corporation acting in the capacity of a managing general agent shall place business with an insurer unless there is in force a written contract between the parties which sets forth the responsibilities of each party, and where both parties share responsibility for a particular function, specifies the division of the responsibilities, and which contains the following minimum provisions:</text>
+    <para>
+      <num>(1)</num>
+      <text>The insurer may terminate the contract for cause upon written notice to the managing general agent. The insurer may suspend the underwriting authority of the managing general agent during the pendency of any dispute regarding the cause for termination.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The managing general agent will render accounts to the insurer detailing all transactions and remit all funds due under the contract to the insurer on not less than a monthly basis.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>All funds collected for the account of an insurer will be held in a separate account by the managing general agent in a fiduciary capacity in a bank which is a member of the Federal Reserve System. This account shall be used for all payments on behalf of the insurer. The managing general agent may retain no more than 3 months estimated claims payments and allocated loss adjustment expenses.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Separate records of business written by the managing general agent will be maintained. The insurer shall have access and right to copy all accounts and records related to its business in a form usable by the insurer, and the Mayor shall have access to all books, bank accounts, and records of the managing general agent in a form usable to the Mayor. These records shall be retained according to Chapter 14 of this title, and §§ <cite path="§31-4440">31-4440</cite> and <cite path="§31-5204">31-5204</cite>.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The contract may not be assigned in whole or part by the managing general agent.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Appropriate underwriting guidelines are required, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>The maximum annual premium volume;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The basis of the rates to be charged;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The types of risks which may be written;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Maximum limits of liability;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Applicable exclusions;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Territorial limitations;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Policy cancellation provisions; and</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>The maximum policy period.</text>
+      </para>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The insurer shall have the right to cancel or not renew any policy of insurance subject to the applicable laws and regulations of the District governing the cancellation and nonrenewal of insurance policies.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>If the contract permits the managing general agent to settle claims on behalf of the insurer:</text>
+      <para>
+        <num>(A)</num>
+        <text>All claims must be reported to the company within 48 hours of receipt.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A copy of the claim file will be sent to the insurer at its request or as soon as it becomes known that the claim:</text>
+        <para>
+          <num>(i)</num>
+          <text>Has the potential to exceed an amount determined by the Mayor or exceeds the limit set by the company, whichever is less;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Involves a coverage dispute;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>May exceed the managing general agent’s claims settlement authority;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Is open for more than 6 months; or</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Is closed by payment of an amount set by the Mayor or an amount set by the company, whichever is less.</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>All claim files will be the joint property of the insurer and managing general agent. Upon an order of liquidation of the insurer, however, these files shall become the sole property of the insurer or its estate; the managing general agent shall have reasonable access to and the right to copy the files on a timely basis.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Any settlement authority granted to the managing general agent may be terminated for cause upon the insurer’s written notice to the managing general agent or upon the termination of the contract. The insurer may suspend the settlement authority during the pendency of any dispute regarding the cause for termination.</text>
+      </para>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>Where electronic claims files are in existence, the contract must address the timely transmission of the data.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>If the contract provides for a sharing of interim profits by the managing general agent, and the managing general agent has the authority to determine the amount of the interim profits by establishing loss reserves or controlling claim payments, or in any other manner, interim profits will not be paid to the managing general agent until 1 year after they are earned for property insurance business and 5 years after they are earned on casualty business and not until the profits have been verified pursuant to § <cite path="§31-1504">31-1504</cite>.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>The managing general agent shall not:</text>
+      <para>
+        <num>(A)</num>
+        <text>Bind reinsurance or retrocessions on behalf of the insurer, except that the managing general agent may bind facultative reinsurance contracts pursuant to obligatory facultative agreements if the contract with the insurer contains reinsurance underwriting guidelines including, for both reinsurance assumed and ceded, a list of reinsurers with which such automatic agreements are in effect, the coverages and amounts or percentages that may be reinsured, and commission schedules;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Commit the insurer to participate in insurance or reinsurance syndicates;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Appoint any producer without assuring that the producer is lawfully licensed to transact the type of insurance for which he is appointed;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Without prior approval of the insurer, pay or commit the insurer to pay a claim over a specified amount, net of reinsurance, which shall not exceed 1% of the insurer’s policyholder’s surplus as of December 31 of the last completed calendar year;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Collect any payment from a reinsurer or commit the insurer to any claim settlement with a reinsurer without prior approval of the insurer. If prior approval is given, a report must be promptly forwarded to the insurer;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Permit its subproducer to serve on the insurer’s board of directors;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Jointly employ an individual who is employed with the insurer; or</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Appoint a submanaging general agent.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-41">Oct. 21, 1993, D.C. Law 10-41, § 4, 40 DCR 6014</annotation>
+        <annotation doc="D.C. Law 10-255">May 16, 1995, D.C. Law 10-255, § 29(b), 41 DCR 5193</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3003.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|15"/>
+    <num codify:value="31-1504">5</num>
+    <heading>Duties of insurers.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The insurer shall have on file an independent financial examination, in a form acceptable to the Mayor, of each managing general agent with which it has done business.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If a managing general agent establishes loss reserves, the insurer shall annually obtain the opinion of an actuary attesting to the adequacy of loss reserves established for losses incurred and outstanding on business produced by the managing general agent. This is in addition to any other required loss reserve certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The insurer shall periodically (at least semiannually) conduct an on-site review of the underwriting and claims processing operations of the managing general agent.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Binding authority for all reinsurance contracts or participation in insurance or reinsurance syndicates shall rest with an officer of the insurer, who shall not be affiliated with the managing general agent.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Within 30 days of entering into or terminating a contract with a managing general agent, the insurer shall provide written notification of the appointment or termination to the Mayor. Notices of appointment of a managing general agent shall include a statement of duties which the applicant is expected to perform on behalf of the insurer, the lines of insurance for which the applicant is to be authorized to act, and any other information the Mayor may request.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>An insurer shall review its books and records each quarter to determine if any producer has, because of § <cite path="§31-1501">31-1501</cite>(4), become a managing general agent as defined in that section. If the insurer determines that a producer has become a managing general agent pursuant to the above, the insurer shall promptly notify the producer and the Mayor of the determination, and the insurer and producer shall fully comply with the provisions of this chapter within 30 days.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>An insurer shall not appoint to its board of directors an officer, director, employee, subproducer, or controlling shareholder of its managing general agents. This subsection shall not apply to relationships governed by Chapter 7 of this title or, if applicable, Chapter 4 of this title.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-41">Oct. 21, 1993, D.C. Law 10-41, § 5, 40 DCR 6014</annotation>
+        <annotation doc="D.C. Law 10-255">May 16, 1995, D.C. Law 10-255, § 29(c), 41 DCR 5193</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-1503">31-1503</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3004.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|15"/>
+    <num codify:value="31-1505">6</num>
+    <heading>Examination authority.</heading>
+    <text>The acts of the managing general agent are considered to be the acts of the insurer on whose behalf it is acting. A managing general agent may be examined as if it were the insurer.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-41">Oct. 21, 1993, D.C. Law 10-41, § 6, 40 DCR 6014</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3005.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|15"/>
+    <num codify:value="31-1506">7</num>
+    <heading>Penalties and liabilities.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If the Mayor determines that the managing general agent or any other person has not materially complied with this chapter, or any regulation or order promulgated thereunder, after notice and opportunity to be heard, the Mayor may order:</text>
+      <para>
+        <num>(1)</num>
+        <text>For each separate violation, a penalty in an amount not exceeding $10,000, or not more than $25,000 for intentional violations;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Revocation or suspension of the producer’s license; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If it was found that because of material noncompliance the insurer has suffered any loss or damage, the Commissioner may maintain a civil action brought by or on behalf of the insurer and its policyholders and creditors for recovery of compensatory damages for the benefit of the insurer and its policyholders and creditors, or other appropriate relief.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The decision, determination, or order of the Mayor pursuant to subsection (a) of this section shall be subject to judicial review pursuant to subchapter I of Chapter 5 of Title 2, §§ <cite path="§31-2502.43">31-2502.43</cite> [repealed] and 31-2502.44 [repealed], and §§ <cite path="§31-4327">31-4327</cite> [repealed] and 31-4332.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Nothing in this section shall affect the right of the Mayor to impose any other penalties provided in the insurance law of the District.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Nothing in this chapter is intended to or shall in any manner limit or restrict the rights of policyholders, claimants, and auditors.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-41">Oct. 21, 1993, D.C. Law 10-41, § 7, 40 DCR 6014</annotation>
+        <annotation doc="D.C. Law 10-103">Apr. 26, 1994, D.C. Law 10-103, § 5, 41 DCR 1005</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Hospital and medical services corporations, applicable law, see § <cite path="§31-3503">31-3503</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3006.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 5(a) of Insurance Omnibus Temporary Amendment Act of 1993 (<cite doc="D.C. Law 10-76">D.C. Law 10-76</cite>, March 17, 1994, law notification  41 DCR 1626).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

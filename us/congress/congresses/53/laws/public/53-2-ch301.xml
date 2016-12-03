@@ -1,10 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 53-2-ch301">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 53-2-ch301" codify:tag="section" from-code="true">
   <meta>
     <effective>1894-08-18</effective>
     <cites>
-        <law congress="53" session="2" chapter="301"/>
+      <law congress="53" session="2" chapter="301"/>
     </cites>
   </meta>
+  <codify:insert doc="D.C. Code" path="|24|2|I|A"/>
+  <num codify:value="24-201.23"></num>
+  <heading>Payment for maintenance of Jail.</heading>
+  <text>All expenses incurred for maintenance of the Jail of the District of Columbia and for support of prisoners therein shall be paid out of the revenues of the District of Columbia, and estimates for such expenses shall each year be submitted in the annual estimates for the expenses of the government of the District of Columbia.</text>
+  <annotations>
+    <annoGroup>
+      <heading>History</heading>
+      <annotation>Aug. 18, 1894, 28 Stat. 417, ch. 301</annotation>
+      <annotation>June 29, 1922, 42 Stat. 668, ch. 249</annotation>
+    </annoGroup>
+    <annoGroup>
+      <heading>Prior Codifications</heading>
+      <annotation>1981 Ed., § 24-422.</annotation>
+      <annotation>1973 Ed., § 24-422.</annotation>
+    </annoGroup>
+  </annotations>
 </document>

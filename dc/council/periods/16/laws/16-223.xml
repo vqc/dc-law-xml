@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 16-223">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 16-223">
   <num type="law">16-223</num>
   <heading type="short">Metropolitan Police Department Amendment Act of 2006</heading>
   <meta>
@@ -12,4 +12,32 @@
       <narrative>Law 16-223, the “Metropolitan Police Department Amendment Act of 2006”, was introduced in Council and assigned Bill No. 16-586, which was referred to Committee on Judiciary. The Bill was adopted on first and second readings on November 14, 2006, and December 5, 2006, respectively. Signed by the Mayor on December 19, 2006, it was assigned Act No. 16-552 and transmitted to both Houses of Congress for its review. D.C. Law 16-223 became effective on March 6, 2007.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|1|III"/>
+    <num codify:value="5-105.09">101</num>
+    <heading>Service of process.</heading>
+    <text>No later than 60 days following March 6, 2007, the Chief of Police, pursuant to subchapter I of Chapter 5 of Title 2, shall issue rules establishing a procedure for service of process upon sworn members of the Metropolitan Police Department for actions arising out of the performance of their duties. The rules shall include the following:</text>
+    <para>
+      <num>(1)</num>
+      <text>A process whereby the sworn member is notified that service of process is being attempted on him or her;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A process for notifying a process server and the public of a specific time and place where service will be made;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The designation of one or more offices, at the command level or the department’s general counsel, where service shall be accepted on behalf of the sworn member, and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The discipline to be meted out against any sworn member who avoids service of process.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-223">Mar. 6, 2007, D.C. Law 16-223, § 101, 53 DCR 10221</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

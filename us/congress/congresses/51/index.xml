@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <heading>The 51st Congress</heading>
+  <subheading>Public Laws</subheading>
+  <ns0:include href="./laws/public/51-2-ch1001.xml"/>
+  <ns0:include href="./laws/public/51-2-ch949.xml"/>
+  <ns0:include href="./laws/public/51-2-ch724.xml"/>
+  <ns0:include href="./laws/public/51-1-ch370.xml"/>
+  <ns0:include href="./laws/public/51-1-ch328.xml"/>
+  <subheading>Resolutions</subheading>
+  <ns0:include href="./resolutions/21.xml"/>
+</collection>

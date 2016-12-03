@@ -1,10 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 60-2-ch198">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 60-2-ch198">
+  <heading/>
   <meta>
     <effective>1908-05-26</effective>
     <cites>
-        <law congress="60" session="2" chapter="198"/>
+      <law congress="60" session="2" chapter="198"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|49|2"/>
+    <num codify:value="49-217">1</num>
+    <heading>Purchase of supplies.</heading>
+    <text>The purchase of supplies and the procurement of services for all branches of the District of Columbia militia service may be made in open market, in the manner common among businessmen, when the aggregate of the amount required does not exceed $100.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 26, 1908, 35 Stat. 308, ch. 198, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 39-217.</annotation>
+        <annotation>1973 Ed., § 39-517.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,10 +1,143 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 77-1-ch589">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 77-1-ch589">
+  <heading/>
   <meta>
     <effective>1941-12-17</effective>
     <cites>
-        <law congress="77" session="1" chapter="589"/>
+      <law congress="77" session="1" chapter="589"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|35"/>
+    <reason>Repealed</reason>
+    <num codify:value="22-3502">1</num>
+    <heading>“Vagrants” defined.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 17, 1941, 55 Stat. 808, ch. 589, § 1</annotation>
+        <annotation>June 29, 1953, 67 Stat. 97, ch. 159, § 209(b)</annotation>
+        <annotation doc="D.C. Law 10-54">Nov. 17, 1993, D.C. Law 10-54, § 9, 40 DCR 5450</annotation>
+        <annotation doc="D.C. Law 10-119">May 21, 1994, D.C. Law 10-119, § 16(a), 41 DCR 1639</annotation>
+        <annotation doc="D.C. Law 11-119">May 17, 1996, D.C. Law 11-119,§ 5, 43 DCR 528</annotation>
+        <annotation doc="D.C. Law 11-275">June 3, 1997, D.C. Law 11-275, § 9(a), 44 DCR 1408</annotation>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 216, 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-3302.</annotation>
+        <annotation>1973 Ed., § 22-3302.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal, see § 216 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) repeal, see § 216 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|35"/>
+    <reason>Repealed</reason>
+    <num codify:value="22-3503">2</num>
+    <heading>Prosecutions; burden of proof to show lawful employment.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 17, 1941, 55 Stat. 809, ch. 589, § 2</annotation>
+        <annotation doc="D.C. Law 10-119">May 21, 1994, D.C. Law 10-119,§ 16(b), 41 DCR 1639</annotation>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 216, 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-3303.</annotation>
+        <annotation>1973 Ed., § 22-3303.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal, see § 216 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) repeal, see § 216 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|35"/>
+    <reason>Repealed</reason>
+    <num codify:value="22-3504">3</num>
+    <heading>Penalty; conditions imposed by court.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 17, 1941, 55 Stat. 809, ch. 589, § 3</annotation>
+        <annotation>Aug. 1, 1950, 64 Stat. 393, ch. 513, § 1</annotation>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 216, 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-3304.</annotation>
+        <annotation>1973 Ed., § 22-3304.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal, see § 216 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) repeal, see § 216 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+        <annotation>For Law 18-88, see notes following § <cite path="§22-402">22-402</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|35"/>
+    <reason>Repealed</reason>
+    <num codify:value="22-3505">4</num>
+    <heading>Prosecutions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 17, 1941, 55 Stat. 810, ch. 589, § 4</annotation>
+        <annotation>Apr. 1, 1942, 56 Stat. 190, ch. 207, § 1</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+        <annotation doc="D.C. Law 10-119">May 21, 1994, D.C. Law 10-119, § 16(c), 41 DCR 1639</annotation>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 216, 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-3305.</annotation>
+        <annotation>1973 Ed., § 22-3305.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal, see § 216 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) repeal, see § 216 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|35"/>
+    <reason>Repealed</reason>
+    <num codify:value="22-3506">6</num>
+    <heading>Right to strike or picket not abrogated.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 17, 1941, 55 Stat. 810, ch. 589, § 6</annotation>
+        <annotation doc="D.C. Law 11-275">June 3, 1997, D.C. Law 11-275,§ 9(b), 44 DCR 1408</annotation>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 216, 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-3306.</annotation>
+        <annotation>1973 Ed., § 22-3306.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal, see § 216 of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) repeal, see § 216 of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

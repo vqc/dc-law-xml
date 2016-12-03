@@ -1,10 +1,94 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 64-2-ch130">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 64-2-ch130">
+  <heading/>
   <meta>
     <effective>1916-05-29</effective>
     <cites>
-        <law congress="64" session="2" chapter="130"/>
+      <law congress="64" session="2" chapter="130"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1514" path="|22|15"/>
+    <num codify:value="22-1511">1</num>
+    <heading>Fraudulent advertising.</heading>
+    <text>It shall be unlawful in the District of Columbia for any person, firm, association, corporation, or advertising agency, either directly or indirectly, to display or exhibit to the public in any manner whatever, whether by handbill, placard, poster, picture, film, or otherwise; or to insert or cause to be inserted in any newspaper, magazine, or other publication printed in the District of Columbia; or to issue, exhibit, or in any way distribute or disseminate to the public; or to deliver, exhibit, mail, or send to any person, firm, association, or corporation any false, untrue, or misleading statement, representation, or advertisement with intent to sell, barter, or exchange any goods, wares, or merchandise or anything of value or to deceive, mislead, or induce any person, firm, association, or corporation to purchase, discount, or in any way invest in or accept as collateral security any bonds, bill, share of stock, note, warehouse receipt, or any security; or with the purpose to deceive, mislead, or induce any person, firm, association, or corporation to purchase, make any loan upon or invest in any property of any kind; or use any of the aforesaid methods with the intent or purpose to deceive, mislead, or induce any other person, firm, or corporation for a valuable consideration to employ the services of any person, firm, association, or corporation so advertising such services.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 29, 1916, 39 Stat. 165, ch. 130, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Food sales, misrepresentation or false advertising, purchase authorization, see § <cite path="§37-201.22a">37-201.22a</cite>.</annotation>
+        <annotation>Fraud, see § <cite path="§22-3221">22-3221</cite>.</annotation>
+        <annotation>Proof of intent to defraud, see § <cite path="§23-322">23-322</cite>.</annotation>
+        <annotation>Theft, see § <cite path="§22-3211">22-3211</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-1512">22-1512</cite>, § <cite path="§22-1513">22-1513</cite>, and § <cite path="§37-201.22a">37-201.22a</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1411.</annotation>
+        <annotation>1973 Ed., § 22-1411.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1514" path="|22|15"/>
+    <num codify:value="22-1512">2</num>
+    <heading>Prosecution under § 22-1511.</heading>
+    <text>Prosecution under § <cite path="§22-1511">22-1511</cite> shall be in the Superior Court of the District of Columbia upon information filed by the United States Attorney for the District of Columbia or an Assistant U.S. Attorney.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 29, 1916, 39 Stat. 165, ch. 130, § 2</annotation>
+        <annotation>Apr. 1, 1942, 56 Stat. 190, ch. 207, § 1</annotation>
+        <annotation>June 25, 1948, 62 Stat. 909, ch. 646, § 1</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+        <annotation doc="D.C. Law 10-119">May 21, 1994, D.C. Law 10-119, § 10, 41 DCR 1639</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1412.</annotation>
+        <annotation>1973 Ed., § 22-1412.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1514" path="|22|15"/>
+    <num codify:value="22-1513">3</num>
+    <heading>Penalty under § 22-1511.</heading>
+    <text>Any person, firm, or association violating any of the provisions of § <cite path="§22-1511">22-1511</cite> shall upon conviction thereof, be punished by a fine of not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite> or by imprisonment of not more than 60 days, or by both fine and imprisonment, in the discretion of the court. A corporation convicted of an offense under the provisions of § <cite path="§22-1511">22-1511</cite> shall be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, and its president or such other officials as may be responsible for the conduct and management thereof shall be imprisoned not more than 60 days, in the discretion of the court.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 29, 1916, 39 Stat. 165, ch. 130, § 3</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 222, 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Food sales, misrepresentation or false advertising, purchase authorization, see § <cite path="§37-201.22a">37-201.22a</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1413.</annotation>
+        <annotation>1973 Ed., § 22-1413.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $500” twice.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 222 of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

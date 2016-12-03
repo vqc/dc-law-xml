@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 14-237">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 14-237">
   <num type="law">14-237</num>
   <heading type="short">District of Columbia Flag Adoption and Design Act of 2002</heading>
   <meta>
@@ -12,4 +12,135 @@
       <narrative>Law 14-237, the “District of Columbia Flag Adoption and Design Act of 2002”, was introduced in Council and assigned Bill No. 14-647, which was referred to the Committee on the Whole. The Bill was adopted on first and second readings on July 2, 2002, and October 1, 2002, respectively. Signed by the Mayor on October 23, 2002, it was assigned Act No. 14-516 and transmitted to both Houses of Congress for its review. D.C. Law 14-237 became effective on March 25, 2003.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|III|B"/>
+    <num codify:value="1-151">2</num>
+    <heading>District of Columbia official flag.</heading>
+    <text>The flag of the District of Columbia shall be 3 red stars in the upper portion of the flag (the chief), with 2 red horizontal bars on a field of white. All proportions described in this section are expressed in relation to the flag’s vertical dimension (the hoist). The chief shall be 3/10 of the hoist, the horizontal red bars shall be 2  /10  , the base and white space between the 2 bars shall be 2/10 and 1/10, respectively. The red stars shall be 2/10 in diameter, and shall be spaced equidistant in the fly. The length of the fly shall depend on the proportions of the flag upon which this design may be displayed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-237">Mar. 25, 2003, D.C. Law 14-237, § 2, 49 DCR 10485</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-152">1-152</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-171">1-171</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|III|B"/>
+    <num codify:value="1-152">3</num>
+    <heading>Inclusion of “DC” and “No Taxation Without Representation” within District of Columbia flag.</heading>
+    <para>
+      <num>(a)</num>
+      <text>After the design adopted under subsection (b) of this section becomes effective, the flag of the District of Columbia shall temporarily contain the language “DC” and “No Taxation Without Representation”.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The placement and design of the language prescribed in subsection (a) of this section shall be established by act of the Council.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The flag adopted pursuant to § <cite path="§1-151">1-151</cite> and subsection (b) of this section shall be flown officially as of 90 days following the effective date of the act specified in subsection (b) of this section.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The language prescribed in subsection (a) of this section shall be removed from the flag when District of Columbia registered voters are able to vote for 2 Senators and one Representative with full rights and privileges in the Congress of the United States.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The language prescribed in subsection (a) of this section shall not be required in instances where a reproduction of the flag is placed as a symbol on motor vehicles, District of Columbia government letterhead, or other objects.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Notwithstanding subsections (a) and (b) of this section, the District government and any person may officially display a District of Columbia flag that contains the language “DC” and “No Taxation Without Representation” on June 14 of each year, known as Flag Day, until a design is officially adopted by the Council pursuant to subsection (b) of this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-237">Mar. 25, 2003, D.C. Law 14-237, § 3, 49 DCR 10485</annotation>
+        <annotation doc="D.C. Law 19-239">Mar. 19, 2013, D.C. Law 19-239, § 2, 59 DCR 14788</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-154">1-154</cite> and § <cite path="§1-172">1-172</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-172">1-172</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-239">D.C. Law 19-239</cite> added (f).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|III|B"/>
+    <num codify:value="1-153">4</num>
+    <heading>Flag Design Advisory Commission.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a Flag Design Advisory Commission (“Commission”) with the purpose of preparing a recommendation for the placement and design of the language “DC” and “No Taxation Without Representation” on the District of Columbia flag.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission shall be composed of 7 members: the Mayor, or his or her designee; the Chairman of the Council, or his or her designee; the Chairman of the Council’s Subcommittee on Labor, Voting Rights, and Redistricting, or his or her designee; 2 persons appointed by the Mayor; and 2 persons appointed by the Chairman of the Council. The Chairman of the Council shall designate the Commission Chairman. All appointments shall be made within 30 days of March 25, 2003. Vacancies shall be filled in the same manner as the initial appointment was made.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commission shall submit its recommendation in the form of a report to the Council no later than 4 months after March 25, 2003. The Commission shall approve its recommendation by a majority vote.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Costs of the Commission and its members shall be borne by the members or paid through private contributions. The Commission is authorized to receive private-sector contributions. The Commission is authorized to use space and supplies owned or rented by the District of Columbia government, and to use staff loaned from the Council or detailed from the Mayor for such purposes consistent with this subchapter as the Commission may determine.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Commission shall have the authority to create and operate under its own rules of procedure.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The books and records of the Commission shall be public documents.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-237">Mar. 25, 2003, D.C. Law 14-237, § 4, 49 DCR 10485</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-173">1-173</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-173">1-173</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|III|B"/>
+    <num codify:value="1-154">5</num>
+    <heading>Use of donations and grants for flag replacement.</heading>
+    <text>The Mayor is authorized to solicit, receive, accept, and expend donations or grants from private sources to defray the costs of replacing existing District of Columbia flags with flags that include the language prescribed in § <cite path="§1-152">1-152</cite>(a).</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-237">Mar. 25, 2003, D.C. Law 14-237, § 5, 49 DCR 10485</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-174">1-174</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-174">1-174</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

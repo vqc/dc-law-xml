@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <heading>The 72nd Congress</heading>
+  <subheading>Public Laws</subheading>
+  <ns0:include href="./laws/public/72-2-ch492.xml"/>
+  <ns0:include href="./laws/public/72-2-ch465.xml"/>
+  <ns0:include href="./laws/public/72-2-ch308.xml"/>
+  <ns0:include href="./laws/public/72-2-ch269.xml"/>
+  <ns0:include href="./laws/public/72-2-ch265.xml"/>
+  <ns0:include href="./laws/public/72-2-ch200.xml"/>
+  <ns0:include href="./laws/public/72-2-ch197.xml"/>
+  <ns0:include href="./laws/public/72-2-ch180.xml"/>
+  <ns0:include href="./laws/public/72-2-ch131.xml"/>
+  <ns0:include href="./laws/public/72-2-ch118.xml"/>
+  <ns0:include href="./laws/public/72-2-ch98.xml"/>
+  <ns0:include href="./laws/public/72-2-ch47.xml"/>
+  <ns0:include href="./laws/public/72-2-ch40.xml"/>
+  <ns0:include href="./laws/public/72-1-ch399.xml"/>
+  <ns0:include href="./laws/public/72-1-ch317.xml"/>
+  <ns0:include href="./laws/public/72-1-ch302.xml"/>
+  <ns0:include href="./laws/public/72-1-ch282.xml"/>
+  <ns0:include href="./laws/public/72-1-ch246.xml"/>
+</collection>

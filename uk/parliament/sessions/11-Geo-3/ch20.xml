@@ -1,10 +1,91 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="11 Geo. 3, ch. 20">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="11 Geo. 3, ch. 20">
+  <heading/>
   <meta>
     <effective>1771-01-01</effective>
     <cites>
-        <law session="11 Geo. 3" chapter="20"/>
+      <law session="11 Geo. 3" chapter="20"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§42-3225" path="|42|32"/>
+    <num codify:value="42-3222">1</num>
+    <heading>Lease under control of a person with a mental disability — Surrender and renewal; guardian or committee; court order.</heading>
+    <text>In all cases where any person with a mental disability is or shall be entitled or has right to renew any lease or leases made or granted, or to be made or granted, for the life or lives of 1 or more person or persons, or for any term or number of years, absolute or determinable on the death of 1 or more person or persons, or otherwise; it shall and may be lawful to and for the person with a mental disability, or his or her guardian or guardians, committee or committees, of his estate, in his, her, or their name or names, by the direction of the chancellor, signified by an order made on hearing all parties concerned, upon petition, in a summary way, from time to time, to accept of a surrender or surrenders of such lease or leases; and to make and execute to any person or persons, bodies politic, or corporate or collegiate, aggregate or sole, a new lease or leases of the premises comprised in such lease or leases so to be surrendered by virtue of this section, for and during such number of lives, or for such term or terms of years, determinable upon such number of lives, or for such term or terms of years absolute, as was or were mentioned or contained in such lease or leases so surrendered, at the making thereof, or otherwise, as the chancellor for the time being, by any such order, so to be obtained as aforesaid, shall direct.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>11 Geo. 3, ch. 20, § 1, 1771</annotation>
+        <annotation>Kilty’s Rep. 253</annotation>
+        <annotation>Alex. Br. Stat. 791</annotation>
+        <annotation>Comp. Stat. D.C., 336, § 74</annotation>
+        <annotation doc="D.C. Law 16-305">Apr. 24, 2007, D.C. Law 16-305, § 64(a), 53 DCR 6198</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-1422.</annotation>
+        <annotation>1973 Ed., § 45-924.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite> rewrote this section, which formerly read:</annotation>
+        <annotation>“§ <cite path="§42-3222">42-3222</cite>. Leases under control of mentally handicapped—Surrender and renewal; committee or guardian; court order.”</annotation>
+        <annotation>“In all cases where any lunatic is or shall be entitled, or has right to renew any lease or leases made or granted, or to be made or granted, for the life or lives of 1 or more person or persons, or for any term or number of years, absolute or determinable on the death of 1 or more person or persons, or otherwise; it shall and may be lawful to and for such lunatic, or his or her guardian or guardians, committee or committees, of his estate, in his, her, or their name or names, by the direction of the chancellor, signified by an order made on hearing all parties concerned, upon petition, in a summary way, from time to time, to accept of a surrender or surrenders of such lease or leases; and to make and execute to any person or persons, bodies politic, or corporate or collegiate, aggregate or sole, a new lease or leases of the premises comprised in such lease or leases so to be surrendered by virtue of this section, for and during such number of lives, or for such term or terms of years, determinable upon such number of lives, or for such term or terms of years absolute, as was or were mentioned or contained in such lease or leases so surrendered, at the making thereof, or otherwise, as the chancellor for the time being, by any such order, so to be obtained as aforesaid, shall direct.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§42-3225" path="|42|32"/>
+    <num codify:value="42-3223">2</num>
+    <heading>Leases under control of a person with a mental disability — Lease pursuant to provisions of § 42-3222 valid.</heading>
+    <text>All and every such lease or leases so to be made or executed shall be deemed as good and valid, and effectual in the law, to all intents and purposes, as if the person with a mental disability was at the time of making or executing thereof of without a mental disability.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>11 Geo. 3, ch. 20, § 2, 1771</annotation>
+        <annotation>Kilty’s Rep. 253</annotation>
+        <annotation>Alex. Br. Stat. 791</annotation>
+        <annotation>Comp. Stat. D.C., 336, § 75</annotation>
+        <annotation doc="D.C. Law 16-305">Apr. 24, 2007, D.C. Law 16-305, § 64(b), 53 DCR 6198</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-1423.</annotation>
+        <annotation>1973 Ed., § 45-925.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite> rewrote this section, which formerly read:</annotation>
+        <annotation>“§ <cite path="§42-3223">42-3223</cite>. Leases under control of mentally handicapped—Lease pursuant to provisions of § <cite path="§42-3222">42-3222</cite> valid.</annotation>
+        <annotation>“All and every such lease or leases so to be made or executed as aforesaid, shall be and be deemed as good and valid, and effectual in the law, to all intents and purposes, as if such lunatic was at the time of making or executing thereof of sane mind, and had executed the same in his or her own proper person.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§42-3225" path="|42|32"/>
+    <num codify:value="42-3224">3</num>
+    <heading>Leases under control of a person with a mental disability — Money received for renewal paid to guardian for benefit of person with a disability; characterization of money at death of person with a disability.</heading>
+    <text>All fines, premiums, foregifts, and sums of money, which shall or may be had, received, or paid for, or on account of the renewing of any such lease or leases as aforesaid, shall (after a deduction of all necessary incident charges and expenses) be paid to the guardian or guardians, committee or committees, of the person with a disability, and be applied and disposed of for the benefit of the person with the disability, in such manner as the chancellor shall direct: but, upon the death of the person with the disability, all such sum or sums of money as shall arise by such fines, premiums, or foregifts, or so much as shall remain unapplied for the benefit of the person with the disability, at his, her or their death, shall, as between the representatives of the real and personal estates of all such people with disabilities, be considered as real estate, unless such the person with a disability shall be a tenant for life only, and then the same shall be considered as personal estate.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>11 Geo. 3, ch. 20, § 3, 1771</annotation>
+        <annotation>Kilty’s Rep. 253</annotation>
+        <annotation>Alex. Br. Stat. 792</annotation>
+        <annotation>Comp. Stat. D.C., 336, § 76</annotation>
+        <annotation doc="D.C. Law 16-305">Apr. 24, 2007, D.C. Law 16-305, § 64(c), 53 DCR 6198</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-1424.</annotation>
+        <annotation>1973 Ed., § 45-926.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite> rewrote this section, which formerly read:</annotation>
+        <annotation>“§ <cite path="§42-3224">42-3224</cite>. Leases under control of mentally handicapped—Money received for renewal paid to guardian for benefit of handicapped; characterization of money at death of handicapped.</annotation>
+        <annotation>“All fines, premiums, foregifts, and sums of money, which shall or may be had, received, or paid for, or on account of the renewing of any such lease or leases as aforesaid, shall (after a deduction of all necessary incident charges and expenses) be paid to the guardian or guardians, committee or committees, of the said lunatic, and be applied and disposed of for the benefit of such lunatic, in such manner as the chancellor shall direct: but, upon the death of such lunatic or lunatics, all such sum or sums of money as shall arise by such fines, premiums, or foregifts, or so much as shall remain unapplied for the benefit of such lunatic or lunatics, at his, her or their death, shall, as between the representatives of the real and personal estates of all such lunatics, be considered as real estate, unless such lunatic or lunatics shall be tenants for life only; and then the same shall be considered as personal estate.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

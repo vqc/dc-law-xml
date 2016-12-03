@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 3-97">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 3-97">
   <num type="law">3-97</num>
   <heading type="short">Animal Control Act Amendment Act of 1980</heading>
   <meta>
@@ -12,4 +12,23 @@
       <narrative>Law 3-97, the “Animal Control Act Amendment Act of 1980,” was introduced in Council and assigned Bill No. 3-211, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on June 17, 1980 and July 1, 1980, respectively. Signed by the Mayor on July 16, 1980, it was assigned Act No. 3-219 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section>
+    <num>2</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" before="§8-1813" path="|8|18|I"/>
+      <num codify:value="8-1812">(f)</num>
+      <heading>Civil liability.</heading>
+      <text>If a dog injures a person while at large, lack of knowledge of the dog’s vicious propensity standing alone shall not absolve the owner from a finding of negligence.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 3-97">Sept. 16, 1980, D.C. Law 3-97, § 2(f), 27 DCR 3523</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 6-1012.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

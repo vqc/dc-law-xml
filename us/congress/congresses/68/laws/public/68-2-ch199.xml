@@ -1,10 +1,72 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 68-2-ch199">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 68-2-ch199">
+  <heading/>
   <meta>
     <effective>1924-05-27</effective>
     <cites>
-        <law congress="68" session="2" chapter="199"/>
+      <law congress="68" session="2" chapter="199"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§5-204" path="|5|2"/>
+    <num codify:value="5-202">4</num>
+    <heading>Organization.</heading>
+    <text>The United States Park Police shall be under the exclusive charge and control of the Director of the National Park Service. It shall consist of an active officer of the United States Army, detailed by the Department of the Army, 1 lieutenant with grade corresponding to that of lieutenant (Metropolitan Police), 1 first sergeant, 5 sergeants with grade corresponding to that of sergeant (Metropolitan Police), and 54 privates, all of whom shall have served 3 years to be with grade corresponding to private, class 3 (Metropolitan Police); all of whom shall have served 1 year to be with grade corresponding to private, class 2 (Metropolitan Police) and such others as the Director of the National Park Service deems necessary and are appropriated for by Congress; and all of whom shall have served less than 1 year to be with grade corresponding to private, class 1 (Metropolitan Police).</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 27, 1924, 43 Stat. 175, ch. 199, § 4</annotation>
+        <annotation>Feb. 26, 1925, 43 Stat. 983, ch. 339</annotation>
+        <annotation>July 3, 1926, 44 Stat. 834, ch. 760, § 1</annotation>
+        <annotation>June 10, 1933, Ex. Ord. No. 6166, § 2</annotation>
+        <annotation>Mar. 2, 1934, 48 Stat. 389, ch. 38, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-202.</annotation>
+        <annotation>1973 Ed., § 4-202.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§5-204" path="|5|2"/>
+    <num codify:value="5-203">6</num>
+    <heading>Equipment; extra compensation.</heading>
+    <text>The members of the United States Park Police force shall be furnished with uniforms, means of transportation, and such other equipment as may be necessary for the proper performance of their duties, including badges, revolvers, and ammunition; the United States Army officer detailed as Superintendent of the United States Park Police, who shall use on official business motor transportation furnished and maintained by himself, shall receive an extra compensation of not to exceed $480 per annum. Members detailed to motorcycle service shall each receive an extra compensation of $120 per annum.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 27, 1924, 43 Stat. 175, ch. 199, § 6</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-203.</annotation>
+        <annotation>1973 Ed., § 4-204.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Appropriations for uniforms or allowances: Section 105 of Pub. L. 105-83, 111 Stat. 1561, provided that appropriations available to the Department of the Interior for salaries and expenses shall be available for uniforms or allowances therefor, as authorized by this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|2"/>
+    <num codify:value="5-205">9</num>
+    <heading>Special police.</heading>
+    <text>The Director of the National Park Service, in his discretion, may appoint special policemen, without compensation, for duty in connection with the policing of the public parks and other reservations under his jurisdiction within the District of Columbia, such special policemen to have the same powers and perform the same duties as the United States Park Police and Metropolitan Police of said District of Columbia, and to be subject to such regulations as he may prescribe; provided, that the jurisdiction and police power of such special policemen shall be restricted to the public parks and other reservations under the control of the Director of the National Park Service.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 27, 1924, 43 Stat. 176, ch. 199, § 9</annotation>
+        <annotation>Feb. 26, 1925, 43 Stat. 983, ch. 339, § 1</annotation>
+        <annotation>June 10, 1933, Ex. Ord. No. 6166, § 2</annotation>
+        <annotation>Mar. 2, 1934, 48 Stat. 389, ch. 38, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-205.</annotation>
+        <annotation>1973 Ed., § 4-208.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

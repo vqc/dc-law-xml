@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 85-300">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 85-300">
   <num>85-300</num>
   <meta>
     <effective>1957-09-07</effective>
@@ -7,4 +7,399 @@
       <law session="85" lawId="300"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|3|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-321">2</num>
+    <heading>Purpose; authorization of Board to construct, maintain, and operate Stadium; plans.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-300">Sept. 7, 1957, 71 Stat. 619, Pub. L. 85-300, § 2</annotation>
+        <annotation doc="Pub. L. 85-561">July 28, 1958, 72 Stat. 421, Pub. L. 85-561, § 1(1), (2)</annotation>
+        <annotation doc="Pub. L. 86-378">Sept. 23, 1959, 73 Stat. 702, Pub. L. 86-378, § 1(1)</annotation>
+        <annotation doc="D.C. Law 10-152">Aug. 23, 1994, D.C. Law 10-152, § 21(a)(1), 41 DCR 4636</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-321.</annotation>
+        <annotation>1973 Ed., § 2-1720.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Construction of Law</heading>
+        <text>Construction of Law 10-152</text>
+        <text>Section 19(c) of <cite doc="D.C. Law 10-152">D.C. Law 10-152</cite> provided that the provisions of the act are to be liberally construed so as to effectuate those powers which are specifically enumerated.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>Section 19(b) of <cite doc="D.C. Law 10-152">D.C. Law 10-152</cite> provided that all references to the Armory Board in subchapter II of Chapter 3 of Title 2 subchapter II of Chapter 3 of Title 3, 2001 Ed. are hereinafter intended to be references to the Sports Commission unless the clear meaning requires otherwise.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Appropriations authorized: Public Law 104-194, 110 Stat. 2363, the District of Columbia Appropriations Act, 1997, provided for the Starplex Fund, $8,717,000 from other funds for expenses incurred by the Armory Board in the exercise of its powers granted by this subchapter and subchapter II of this chapter: Provided, That the Mayor shall submit a budget for the Armory Board for the forthcoming fiscal year as required by § <cite path="§47-301">47-301</cite>(b).</text>
+        <text>Effect of dissolution of Sports Commission: Section 19(d) of <cite doc="D.C. Law 10-152">D.C. Law 10-152</cite> provided that if the Sports Commission is dissolved by repeal of the act or ceases to exist for any reason, all of its assets (including, but not limited to, cash, accounts receivable, reserve funds, real or personal property and contract and other rights) shall automatically be assigned to and become the property of the District.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|3|II"/>
+    <num codify:value="3-322">3</num>
+    <heading>Authorization of Secretary of Interior.</heading>
+    <text>The Secretary of the Interior is authorized and directed to acquire by gift, purchase, condemnation, or otherwise, all real property within the boundaries of the East Capitol Street site, as established in the 1st paragraph under the heading “(2) East Capitol Street Site” contained in the National Capital Planning Commission report entitled “Preliminary Report on Sites for National Memorial Stadium” dated November 8, 1956, and thereafter, acting under authority of the Act entitled “An Act to establish a National Park Service, and for other purposes,” approved August 25, 1916, as amended (16 U.S.C. § 1   et seq.), the Secretary of the Interior shall enter into a contract with the Board for the construction, maintenance, and operation of the Stadium (including the operation and maintenance of motor vehicle parking areas) on such East Capitol Street site, except that such contract may be for a term of not more than 30 years. The Secretary of the Interior is authorized and directed to construct and prepare in areas A, C, D, and E only, on such site, as such areas are indicated on National Capital Parks Map No. 1.7-146, motor vehicle parking areas, including driveways, walks, lighting, and landscaping, at a total cost not to exceed $2,660,000.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-300">Sept. 7, 1957, 71 Stat. 619, Pub. L. 85-300, § 3</annotation>
+        <annotation doc="Pub. L. 85-561">July 28, 1958, 72 Stat. 421, Pub. L. 85-561, § 1(3)</annotation>
+        <annotation doc="Pub. L. 86-378">Sept. 23, 1959, 73 Stat. 702, Pub. L. 86-378, § 1(2), (3)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-322.</annotation>
+        <annotation>1973 Ed., § 2-1721.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>See note to § <cite path="§3-321">3-321</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Effect of dissolution of Sports Commission: See note to § <cite path="§3-321">3-321</cite>.</text>
+        <text>Construction of Law 10-152: See note to § <cite path="§3-321">3-321</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|3|II"/>
+    <num codify:value="3-323">4</num>
+    <heading>Bonds; issuance; rate of interest; registration; redemption; refinancing; sale; exemption from taxation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Board is hereby authorized to provide for the payment of the cost of preliminary engineering and economic surveys relating to the Stadium, and for the payment of the cost of planning, designing and constructing such Stadium, and to provide funds for the operation and maintenance of such Stadium, and for the payment of interest on the bonds authorized herein during the period of construction and during the 12-month period following completion of construction of the Stadium, by an issue or issues of negotiable bonds of the Board, bearing interest, payable annually or semiannually, as the Board shall determine, at a rate not exceeding such rate as shall be approved by the Secretary of the Treasury. All such bonds may be registered as to principal alone or both principal and interest, shall be payable as to principal within not to exceed 30 years from the date thereof, shall be in such denominations, shall be executed in such manner, and shall be payable in such medium and at such place or places as the Board may determine, and the face amount thereof shall be so calculated as to produce, at the price of their sale, the cost of the Stadium constructed pursuant to this subchapter. The Board may reserve the right to redeem any or all of the bonds before maturity in such manner and at such price or prices not exceeding 105 per centum of the face value and accrued interest as may be fixed by the Board prior to the issuance of the bonds. The Board when it deems advisable may issue refunding bonds to refinance any outstanding bonds, and interest thereon, at maturity or before maturity when called for redemption, except that such refunding bonds shall mature within not to exceed 30 years from the date thereof, or not to exceed 50 years from September 7, 1957, whichever shall first occur.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The bonds may be sold at not less than par. If the proceeds of the bonds shall exceed the cost, the excess shall be placed in the fund created by § <cite path="§3-325">3-325</cite> [repealed] for the payment of the principal and interest of such bonds. Prior to the preparation of definitive bonds the Board may, under like restrictions, issue temporary bonds, or may, under like restrictions, issue temporary bonds or interim certificates without coupons, of any denomination whatsoever, exchangeable for definitive bonds when such bonds that have been executed are available for delivery.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>All bonds, or other securities, issued by the Board under authority of this subchapter shall be exempt both as to principal and interest from all taxation (except estate and inheritance taxes) now or hereafter imposed by the District of Columbia.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-300">Sept. 7, 1957, 71 Stat. 619, Pub. L. 85-300, § 4</annotation>
+        <annotation doc="Pub. L. 85-561">July 28, 1958, 72 Stat. 421, Pub. L. 85-561, § 1(4)-(8)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-323.</annotation>
+        <annotation>1973 Ed., § 2-1722.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>Section 3-325, referred to in subsection (b), was repealed by <cite doc="D.C. Law 10-152">D.C. Law 10-152</cite>,§ 21(a)(3), effective Aug. 23, 1994.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>See note to § <cite path="§3-321">3-321</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Effect of dissolution of Sports Commission: See note to § <cite path="§3-321">3-321</cite>.</text>
+        <text>Construction of Law 10-152: See note to § <cite path="§3-321">3-321</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|3|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-324">5</num>
+    <heading>Authorization of Board to carry out purposes of subchapter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-300">Sept. 7, 1957, 71 Stat. 620, Pub. L. 85-300, § 5</annotation>
+        <annotation doc="Pub. L. 85-561">July 28, 1958, 72 Stat. 421, 422, Pub. L. 85-561, § 1(9)-(11)</annotation>
+        <annotation doc="Pub. L. 86-378">Sept. 23, 1959, 73 Stat. 702, Pub. L. 86-378, § 1(4), (5)</annotation>
+        <annotation doc="D.C. Law 6-101">Mar. 25, 1986, D.C. Law 6-101, § 2, 33 DCR 793</annotation>
+        <annotation doc="D.C. Law 7-204">Mar. 16, 1989, D.C. Law 7-204, § 4, 36 DCR 454</annotation>
+        <annotation doc="D.C. Law 10-152">Aug. 23, 1994, D.C. Law 10-152, § 21(a)(2), 41 DCR 4636</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-324.</annotation>
+        <annotation>1973 Ed., § 2-1723.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>See note to § <cite path="§3-321">3-321</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Effect of dissolution of Sports Commission: See note to § <cite path="§3-321">3-321</cite>.</text>
+        <text>Construction of Law 10-152: See note to § <cite path="§3-321">3-321</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|3|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-325">6</num>
+    <heading>Deposit of receipts; sinking fund; statement showing costs of construction of Stadium.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-300">Sept. 7, 1957, 71 Stat. 621, Pub. L. 85-300, § 6</annotation>
+        <annotation doc="Pub. L. 85-561">July 28, 1958, 72 Stat. 422, Pub. L. 85-561, § 1(12)</annotation>
+        <annotation doc="Pub. L. 86-378">Sept. 23, 1959, 73 Stat. 702, Pub. L. 86-378, § 1(6), (7)</annotation>
+        <annotation doc="D.C. Law 1-113">Apr. 7, 1977, D.C. Law 1-113, § 3, 23 DCR 8742</annotation>
+        <annotation doc="D.C. Law 3-70">June 14, 1980, D.C. Law 3-70, § 7(p), 27 DCR 1776</annotation>
+        <annotation doc="D.C. Law 10-152">Aug. 23, 1994, D.C. Law 10-152, §  21(a)(3), 41 DCR 4636</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-325.</annotation>
+        <annotation>1973 Ed., § 2-1724.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>See note to § <cite path="§3-321">3-321</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Effect of dissolution of Sports Commission: See note to § <cite path="§3-321">3-321</cite>.</text>
+        <text>Construction of Law 10-152: See note to § <cite path="§3-321">3-321</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|3|II"/>
+    <num codify:value="3-326">7</num>
+    <heading>Title to Stadium to vest in United States; date; conveyance and lease to District of Columbia; non-transferability; uses of property; reversion for noncompliance.</heading>
+    <para>
+      <num>(a)</num>
+      <text>After payment of the bonds and interest or after a sinking fund sufficient for such purpose shall have been provided and shall be held solely for that purpose, but in any event not later than 50 years from September 7, 1957, all right, title, and interest in and to the Stadium constructed under this subchapter shall vest in the United States.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>Not later than 180 days after October 29, 1986, the Secretary of the Interior shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Convey without consideration to the government of the District of Columbia all right, title, and interest of the United States in and to the building comprising the Stadium constructed under this subchapter; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Lease without consideration to the government of the District of Columbia:</text>
+          <para>
+            <num>(i)</num>
+            <text>The ground under; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The parking facilities associated with the Stadium constructed under this subchapter.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The lease authorized by paragraph (1)(B) of this subsection shall be for a period of 50 years.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The conveyance and lease of real property under subsection (b) of this section shall be subject to such terms and conditions (which shall be set forth in the instrument of conveyance) as will ensure that title to the property shall not be transferred by the District to any person or entity other than the United States or any political subdivision or agency of the District of Columbia or the United States and that the property will be used only for:</text>
+      <para>
+        <num>(1)</num>
+        <text>Stadium purposes;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Providing recreational facilities, open space, or public outdoor recreation opportunities;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Such other public purposes for which the property was used prior to June 1, 1985; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Such other public purposes for which the property was approved for use by the Secretary with the concurrence of the National Capital Planning Commission prior to June 1, 1985.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The instrument of conveyance and the lease referred to in subsection (c) of this section shall provide that all right, title, and interest conveyed to the District of Columbia pursuant to such instrument of conveyance shall revert to the United States and the lease shall terminate if:</text>
+        <para>
+          <num>(A)</num>
+          <text>The terms and conditions referred to in subsection (c) of this section have not been complied with, as determined by the Secretary, and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Such noncompliance has not been corrected within 90 days after written notice of such noncompliance has been received by the Mayor of the District of Columbia. Such noncompliance shall be treated as corrected if the District of Columbia and the Secretary enter into an agreement, with the concurrence of the National Capital Planning Commission, which the Secretary considers adequate to ensure that the property will be used in a manner consistent with the purposes referred to in subsection (c) of this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No person may bring an action respecting a violation of any term or condition referred to in subsection (c) of this section before the expiration of 90 days after the date on which such person has notified the Mayor of the District of Columbia of the alleged violation. The notice shall include notice of such person’s intention to bring an action to declare a reversion and termination of the lease under paragraph (1) of this subsection.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The conveyance of real property under subsection (b) of this section shall be made subject to the condition that the District of Columbia shall bear the cost of removing structures or rehabilitating the land or Stadium should the Stadium revert to the United States pursuant to this subsection.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any property which reverts to the Secretary under this subsection shall be administered by the Secretary as part of the Park System of the Nation’s Capital in accordance with the provisions of the Act of August 25, 1916 (16 U.S.C. §§ 1, 2-4), and other provisions of the law generally applicable to units of the national park system.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <para>
+        <num>(1)</num>
+        <text>Upon receipt of a written description from the District of Columbia of not more than 15 contiguous acres (hereinafter referred to as “the 15 acres”), within the area designated “D” on the revised map entitled “Map to Designate Transfer of Stadium and Lease of Parking Lots to the District” and bound by 21st Street, NE, Oklahoma Avenue, NE, Benning Road, NE, the Metro line, and C Street, NE, and execution of a long-term lease by the Mayor of the District of Columbia that is contingent upon the Secretary’s conveyance of the 15 acres and for the purpose consistent with this paragraph, the Secretary shall convey the 15 acres described land to the District of Columbia for the purpose of siting, developing, and operating an educational institution for the public welfare, with first preference given to a pre-collegiate public boarding school.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon conveyance, the portion of the stadium lease that affects the 15 acres on the property and all the conditions associated therewith shall terminate, and the 15 acres property shall be removed from the “Map to Designate Transfer of Stadium and Lease of Parking Lots to the District”, and the long-term lease described in paragraph (1) of this subsection shall take effect immediately. The Mayor of the District of Columbia shall execute and deliver a quitclaim deed to effectuate the District’s responsibilities under this section.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-300">Sept. 7, 1957, 71 Stat. 621, Pub. L. 85-300, § 7</annotation>
+        <annotation doc="Pub. L. 85-561">July 28, 1958, 72 Stat. 422, Pub. L. 85-561, § 1(13)</annotation>
+        <annotation doc="Pub. L. 99-581">Oct. 29, 1986, 100 Stat. 3313, Pub. L. 99-581, § 1</annotation>
+        <annotation doc="Pub. L. 109-115">Nov. 30, 2005, 119 Stat. 2521, Pub. L. 109-115, § 130</annotation>
+        <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 126, 53 DCR 6794</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-326.</annotation>
+        <annotation>1973 Ed., § 2-1725.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>Pub. L. 109-115 added subsec. (e).</annotation>
+        <annotation><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in subsec. (e)(2), validated a previously made technical correction.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>See note to § <cite path="§3-321">3-321</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Effect of dissolution of Sports Commission: See note to § <cite path="§3-321">3-321</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|3|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-327">8</num>
+    <heading>Employment of personnel; compensation; delegation of powers.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-300">Sept. 7, 1957, 71 Stat. 621, Pub. L. 85-300, § 8</annotation>
+        <annotation doc="D.C. Law 2-139">Mar. 3, 1979, D.C. Law 2-139, § 3205(bb), 25 DCR 5740</annotation>
+        <annotation doc="D.C. Law 10-152">Aug. 23, 1994, D.C. Law 10-152, § 21(a)(4), 41 DCR 4636</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Effective date provisions, see § <cite path="§1-636.02">1-636.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-327.</annotation>
+        <annotation>1973 Ed., § 2-1726.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>See note to § <cite path="§3-321">3-321</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Effect of dissolution of Sports Commission: See note to § <cite path="§3-321">3-321</cite>.</text>
+        <text>Construction of Law 10-152: See note to § <cite path="§3-321">3-321</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|3|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-328">9</num>
+    <heading>Limitation on indebtedness; liability of Board members; deficits in sinking fund to be included in budget estimates; authority of Council to borrow from Secretary of Treasury; repayment; bonds guaranteed by United States.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-300">Sept. 7, 1957, 71 Stat. 621, Pub. L. 85-300, § 9</annotation>
+        <annotation doc="Pub. L. 85-561">July 28, 1958, 72 Stat. 422, Pub. L. 85-561, § 1(14)</annotation>
+        <annotation doc="D.C. Law 10-152">Aug. 23, 1994, D.C. Law 10-152, § 21(a)(4), 41 DCR 4636</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-328.</annotation>
+        <annotation>1973 Ed., § 2-1727.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|3|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-329">10</num>
+    <heading>Financial statement; report of activities and business; recommendations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-300">Sept. 7, 1957, 71 Stat. 622, Pub. L. 85-300, § 10</annotation>
+        <annotation doc="Pub. L. 85-561">July 28, 1958, 72 Stat. 423, Pub. L. 85-561, § 1(15)</annotation>
+        <annotation doc="Pub. L. 86-378">Sept. 23, 1959, 73 Stat. 702, Pub. L. 86-378, § 1(8)</annotation>
+        <annotation doc="Pub. L. 95-185">Nov. 15, 1977, 91 Stat. 1383, Pub. L. 95-185, § 3</annotation>
+        <annotation doc="D.C. Law 10-152">Aug. 23, 1994, D.C. Law 10-152, § 21(a)(4), 41 DCR 4636</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-329.</annotation>
+        <annotation>1973 Ed., § 2-1728.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|3|II"/>
+    <num codify:value="3-330">11</num>
+    <heading>“Stadium” defined.</heading>
+    <text>As used in this subchapter the term “Stadium” includes all equipment, appliances, facilities, and property of any kind (including any area designated A, B, C, D, or E on the revised map entitled “Map to Designate Transfer of Stadium and Lease of Parking Lots to the District,” prepared jointly by the National Park Service (National Capital Region) and the District of Columbia Department of Public Works for site development and dated October 1986 (NPS drawing number 831/87284-A)), necessary to carry out the purposes of this subchapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 85-300">Sept. 7, 1957, 71 Stat. 622, Pub. L. 85-300, § 11</annotation>
+        <annotation doc="Pub. L. 85-561">July 28, 1958, 72 Stat. 423, Pub. L. 85-561, § 1(16)</annotation>
+        <annotation doc="Pub. L. 86-378">Sept. 23, 1959, 73 Stat. 702, Pub. L. 86-378, § 1(9)</annotation>
+        <annotation doc="Pub. L. 99-581">Oct. 29, 1986, 100 Stat. 3313, Pub. L. 99-581, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-330.</annotation>
+        <annotation>1973 Ed., § 2-1729.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>See note to § <cite path="§3-321">3-321</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Effect of dissolution of Sports Commission: See note to § <cite path="§3-321">3-321</cite>.</text>
+        <text>Construction of Law 10-152: See note to § <cite path="§3-321">3-321</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

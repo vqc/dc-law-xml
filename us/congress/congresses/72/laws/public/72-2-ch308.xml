@@ -1,10 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 72-2-ch308">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 72-2-ch308" codify:tag="section" from-code="true">
   <meta>
     <effective>1932-06-29</effective>
     <cites>
-        <law congress="72" session="2" chapter="308"/>
+      <law congress="72" session="2" chapter="308"/>
     </cites>
   </meta>
+  <codify:insert doc="D.C. Code" before="§2-225.14" path="|2|2|XIII|A"/>
+  <reason>Repealed</reason>
+  <num codify:value="2-225.12"></num>
+  <heading>Authorization to test materials in laboratory of Department of Transportation.</heading>
+  <text>Repealed.</text>
+  <annotations>
+    <annoGroup>
+      <heading>History</heading>
+      <annotation>June 29, 1932, 47 Stat. 354, ch. 308</annotation>
+      <annotation doc="D.C. Law 6-85">Feb. 21, 1986, D.C. Law 6-85, § 1103(c), 32 DCR 7396</annotation>
+    </annoGroup>
+    <annoGroup>
+      <heading>Prior Codifications</heading>
+      <annotation>1981 Ed., § 1-1117.</annotation>
+      <annotation>1973 Ed., § 1-814.</annotation>
+    </annoGroup>
+    <annoGroup>
+      <heading>Transfer of Functions</heading>
+      <annotation>The functions of the Department of Transportation were transferred to the Department of Public Works by Reorganization Plan No. 4 of 1983, effective March 1, 1984.</annotation>
+    </annoGroup>
+  </annotations>
 </document>

@@ -1,10 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 72-2-ch47">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 72-2-ch47">
+  <heading/>
   <meta>
     <effective>1932-02-18</effective>
     <cites>
-        <law congress="72" session="2" chapter="47"/>
+      <law congress="72" session="2" chapter="47"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|36|2"/>
+    <num codify:value="36-201">1</num>
+    <heading>Adoption of label authorized; filing; certified copies.</heading>
+    <text>A union or association of employees in the District of Columbia may adopt a device in the form of a label, brand, mark, name, or other character for the purpose of designating the products of the labor of the members thereof. A drawing of such device may be filed in the Office of the Recorder of Deeds of the District of Columbia and the Recorder shall register same in a book to be provided for such purpose and be entitled to collect $1 for each registration. A certified copy of the drawing may be obtained upon the payment of $1 for each certification.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Feb. 18, 1932, 47 Stat. 50, ch. 47, § 1</annotation>
+        <annotation doc="Pub. L. 89-493">July 5, 1966, 80 Stat. 263, Pub. L. 89-493, § 7(b)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§36-202">36-202</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 48-401.</annotation>
+        <annotation>1973 Ed., § 48-401.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|36|2"/>
+    <num codify:value="36-202">2</num>
+    <heading>Unauthorized use of registered label; injunctive relief.</heading>
+    <text>No person shall in any way use or display the label, brand, mark, name, or other character adopted by any such union or association as provided in § <cite path="§36-201">36-201</cite> without the consent or authority of such union or association; or counterfeit or imitate any such label, brand, mark, name, or other character, or knowingly sell, dispose of, keep, or have in his possession with intent to sell or dispose of any goods, wares, merchandise, or other products of labor, upon which any such counterfeit or imitation is attached, affixed, printed, stamped, or impressed, or knowingly sell, dispose of, keep, or have in his possession with intent to sell or dispose of any goods, wares, merchandise, or other products of labor contained in any box, case, can, or package, to which or on which any such counterfeit or imitation is attached, affixed, printed, painted, stamped, or impressed. If copies of such device have been filed, the union or association may maintain an action in the Superior Court of the District of Columbia to enjoin the manufacture, use, display, or sale of counterfeit or colorable imitations of such device, or of goods bearing the same, or the unauthorized use or display of such device or of goods bearing the same, and the Court may restrain such wrongful manufacture, use, display, or sale, and every unauthorized use or display by others of the genuine devices so registered and filed, if such use or display is not authorized by the owner thereof, and may award to the plaintiff such damages resulting from such wrongful manufacture, use, display, or sale as may be proved, together with the profits derived therefrom.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Feb. 18, 1932, 47 Stat. 50, ch. 47, § 2</annotation>
+        <annotation>June 25, 1936, 49 Stat. 1921, ch. 804</annotation>
+        <annotation>June 25, 1948, 62 Stat. 991, ch. 646, § 32(b)</annotation>
+        <annotation>May 24, 1949, 63 Stat. 107, ch. 139, § 127</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 573, Pub. L. 91-358, title I, § 155(c)(55)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§36-203">36-203</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 48-402.</annotation>
+        <annotation>1973 Ed., § 48-402.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|36|2"/>
+    <num codify:value="36-203">3</num>
+    <heading>Penalties.</heading>
+    <text>A person violating any of the provisions of § <cite path="§36-202">36-202</cite> shall be guilty of a misdemeanor punishable by a fine of not less than $100 nor more than $500, or by imprisonment for not less than 3 months nor more than 1 year, or by both such fine and imprisonment.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Feb. 18, 1932, 47 Stat. 51, ch. 47, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Deceptive imitation of goods, criminal penalty, see § <cite path="§22-1502">22-1502</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 48-403.</annotation>
+        <annotation>1973 Ed., § 48-403.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

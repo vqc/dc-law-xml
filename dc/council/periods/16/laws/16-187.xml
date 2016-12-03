@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 16-187">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 16-187">
   <num type="law">16-187</num>
   <heading type="short">Enhanced Professional Security Amendment Act of 2006</heading>
   <meta>
@@ -12,4 +12,23 @@
       <narrative>Law 16-187, the “Enhanced Professional Security Amendment Act of 2006”, was introduced in Council and assigned Bill No. 16-102, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on June 6, 2006, and July 11, 2006, respectively. Signed by the Mayor on July 25, 2006, it was assigned Act No. 16-465 and transmitted to both Houses of Congress for its review. D.C. Law 16-187 became effective on November 16, 2006.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|1|XV|B"/>
+    <reason>Repealed</reason>
+    <num codify:value="5-129.21">101</num>
+    <heading>Security Officer Advisory Commission.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-187">Nov. 16, 2006, D.C. Law 16-187, § 101, 53 DCR 6722</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 253, 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary  (90 days) repeal of this section, see §  253 of the New Columbia  Statehood Initiative, Omnibus Boards and Commissions, and Election  Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481,  Nov. 18, 2014, 61 DCR 12133, 20 STAT 4405).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 253 of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 STAT 807).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 65-2-ch174">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 65-2-ch174">
   <heading/>
   <meta>
     <effective>1918-09-19</effective>
@@ -10,5 +10,353 @@
   <container>
     <prefix>Title</prefix>
     <num>II</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|32|8|I"/>
+      <num codify:value="32-801">1</num>
+      <heading>Purpose of subchapter.</heading>
+      <text>The purpose of this subchapter is to foster, promote, and develop the safety of wage earners of the District of Columbia in relation to their working conditions.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Sept. 19, 1918, ch. 174, title II, § 1</annotation>
+          <annotation>Oct. 14, 1941, 55 Stat. 738, ch. 438,§ 3</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 36-221.</annotation>
+          <annotation>1973 Ed., § 36-431.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal of chapter: Section 25 of <cite doc="D.C. Law 7-186">D.C. Law 7-186</cite> repeals subchapter II of Chapter 2 of Title 36 Chapter 8 of Title 32, 2001 Ed.. Section 26(a) ( D.C. Code, 32-1124(a)) provided that §§ <cite path="§36-1202">36-1202</cite>, <cite path="§36-1203">36-1203</cite>, <cite path="§36-1205">36-1205</cite> to 36-1223 (§§ <cite path="§32-1102">32-1102</cite>, <cite path="§32-1103">32-1103</cite>, <cite path="§32-1105">32-1105</cite> to 32-1123, 2001 Ed.), and the repeal of subchapter II of Chapter 2 of Title 36 (Chapter 8 of Title 32, 2001 Ed.) shall apply 2 years after approval of the plan by the Secretary.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|32|8|I"/>
+      <num codify:value="32-802">2</num>
+      <heading>Definitions.</heading>
+      <text>When used in this subchapter, the following words shall have the following meanings, unless the context clearly requires otherwise:</text>
+      <para>
+        <num>(1)</num>
+        <text>“Employer” includes every person, firm, corporation, partnership, stock association, agent, manager, representative, or foreman, or other persons having control or custody of any place of employment or of any employee. It shall not include the District of Columbia or any instrumentality thereof, or the United States or any instrumentality thereof.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Board” means the Minimum Wage and Industrial Safety Board.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Safe” and “safety” as applied to an employment, a device, or a place of employment, including facilities of sanitation and hygiene, mean such freedom from danger to life or health of employees as circumstances reasonably permit, and shall not be given restrictive interpretation so as to exclude any mitigation or prevention of a specific danger.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Place of employment” means any place where employment is carried on; provided, however, that such term shall not include the premises of any federal or District of Columbia establishment, except to include any and all work of whatever nature being performed by an independent contractor for the United States government or any instrumentality thereof, or the District of Columbia or any instrumentality thereof.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Sept. 19, 1918, ch. 174, title II, § 2</annotation>
+          <annotation>Oct. 14, 1941, 55 Stat. 738, ch. 438,§ 3</annotation>
+          <annotation doc="Pub. L. 91-650">Jan. 5, 1971, 84 Stat. 1936, Pub. L. 91-650, title V, § 501(1)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 36-222.</annotation>
+          <annotation>1973 Ed., § 36-432.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>References in Text</heading>
+          <annotation>The Minimum Wage and Industrial Safety Board, referred to in paragraph (2) of this section, was replaced by the District of Columbia Occupational Safety and Health Board, pursuant to <cite doc="D.C. Law 7-186">D.C. Law 7-186</cite>, §§ 6 and 25, codified at § <cite path="§32-1105">32-1105</cite> and providing for the repeal of §§ <cite path="§32-801">32-801</cite> to 32-812.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal of chapter: See Historical and Statutory Notes following § <cite path="§32-801">32-801</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|32|8|I"/>
+      <num codify:value="32-803">3</num>
+      <heading>Additional duties of Board under this subchapter.</heading>
+      <text>The Board, in addition to its duties defined in subchapter I of Chapter 10 of this title shall administer the provisions of this subchapter and shall have power to make such inspections and investigations as it may deem necessary; collect and compile statistical information; require employers to keep their places of employment reasonably safe; require employers to keep such records as it may deem advisable and to furnish the Board with complete, detailed reports relative to all accidents. The Council of the District of Columbia shall have power to determine and fix reasonable standards of safety in employment, places of employment, in the use of devices and safeguards, and in the use of practices, means, methods, operations, and processes of employment; promulgate general rules and regulations based upon such standards and fix the minimum safety requirements which shall be complied with by employers within the purview of this subchapter. To promote the safety of persons employed in existing buildings or other existing structures, such rules, regulations, and standards may require, without limitation, changes in the permanent or temporary features of such buildings or other structures.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Sept. 19, 1918, ch. 174, title II, § 3</annotation>
+          <annotation>Oct. 14, 1941, 55 Stat. 738, ch. 438,§ 3</annotation>
+          <annotation doc="Pub. L. 91-650">Jan. 5, 1971, 84 Stat. 1936, Pub. L. 91-650, title V, § 501(2)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 36-223.</annotation>
+          <annotation>1973 Ed., § 36-433.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal of chapter: See Historical and Statutory Notes following § <cite path="§32-801">32-801</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402 (283) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|32|8|I"/>
+      <num codify:value="32-804">4</num>
+      <heading>Council to make rules and regulations; public hearing.</heading>
+      <text>Before any rules or regulations of the Council of the District of Columbia shall become effective a public hearing shall be held by the Council for the purpose of investigating reasonable standards of safety in employment, places of employment, in the use of devices and safeguards, and in the use of practices, means, methods, operations, and processes of employment, and any person interested in the matter being investigated may appear and testify. If, after investigation, the Council is of the opinion that minimum standards of safety requirements are necessary to protect or safeguard the lives or health of employees covered by this subchapter, it may adopt and promulgate such rules and regulations as it may deem advisable, which shall become effective 30 days after publication of notice at least once in a newspaper of general circulation in the District of Columbia that they have been adopted and copies are available to the public at the Office of the Mayor of the District of Columbia.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Sept. 19, 1918, ch. 174, title II, § 4</annotation>
+          <annotation>Oct. 14, 1941, 55 Stat. 738, ch. 438,§ 4</annotation>
+          <annotation>June 14, 1944, 58 Stat. 279, ch. 258</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 36-224.</annotation>
+          <annotation>1973 Ed., § 36-434.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal of subchapter: See Historical and Statutory Notes following § <cite path="§36-221">36-221</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402 (284) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-211">1-211</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-213">1-213</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|32|8|I"/>
+      <num codify:value="32-805">5</num>
+      <heading>Board authorized to take testimony and issue subpoenas.</heading>
+      <text>Any member of the Board shall have power to administer oaths and the Board may require by subpoena the attendance and testimony of witnesses, the production of all books, registers, and other evidence relative to any matters under investigation, at any public hearing, or at any session or any conference held by the Board. In case of disobedience to a subpoena the Board may invoke the Superior Court of the District of Columbia in requiring the attendance and testimony of witnesses and the production of documentary evidence. In the case of contumacy or refusal to obey a subpoena, the Court may issue an order requiring appearance before the Board, the production of documentary evidence and the giving of evidence touching the matter in question, and any failure to obey such order of the Court may be punished by such Court as a contempt thereof.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Sept. 19, 1918, ch. 174, title II, § 5</annotation>
+          <annotation>Oct. 14, 1941, 55 Stat. 738, ch. 438,§ 3</annotation>
+          <annotation>June 25, 1948, 62 Stat. 991, ch. 646, § 32(b)</annotation>
+          <annotation>May 24, 1949, 63 Stat. 107, ch. 139, § 127</annotation>
+          <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 572, Pub. L. 91-358, title I,§ 155(c)(38)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 36-225.</annotation>
+          <annotation>1973 Ed., § 36-435.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal of chapter: See Historical and Statutory Notes following § <cite path="§32-801">32-801</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|32|8|I"/>
+      <num codify:value="32-806">6</num>
+      <heading>Variations from rules or regulations; public hearing.</heading>
+      <text>The Board may, upon written application of any employer affected by such rule or regulation, permit variations from any provisions thereof if it shall find that the application of such provision would result in unnecessary hardship or practical difficulty, and notwithstanding such variance, that the protection afforded by such rule or regulation will be provided. The Board may grant a hearing open to the public on such application upon request of the applicant or other interested party or parties, or on its own initiative. The Board’s decision thereon shall be subject to review by the District of Columbia Court of Appeals upon petition of the applicant or other affected party or parties. The Board shall keep a properly indexed record of all variations permitted from any rule or regulation, which shall be open to public inspection.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Sept. 19, 1918, ch. 174, title II, § 6</annotation>
+          <annotation>Oct. 14, 1941, 55 Stat. 738, ch. 438,§ 3</annotation>
+          <annotation doc="Pub. L. 91-650">Jan. 5, 1971, 84 Stat. 1936, Pub. L. 91-650, title V, § 501(3)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 36-226.</annotation>
+          <annotation>1973 Ed., § 36-436.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal of chapter: See Historical and Statutory Notes following § <cite path="§32-801">32-801</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|32|8|I"/>
+      <num codify:value="32-807">7</num>
+      <heading>Director of Industrial Safety.</heading>
+      <text>The Board is hereby authorized to employ a Director of Industrial Safety, who shall not be a member of the Board. The Director shall perform such duties as may be prescribed by the Board in administering the provisions of this subchapter.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Sept. 19, 1918, ch. 174, title II, § 7</annotation>
+          <annotation>Oct. 14, 1941, 55 Stat. 738, ch. 438,§ 3</annotation>
+          <annotation>Oct. 28, 1949, 63 Stat. 972, ch. 782, title XI, § 1106(a)</annotation>
+          <annotation doc="D.C. Law 2-139">Mar. 3, 1979, D.C. Law 2-139, § 3205(k), 25 DCR 5740</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Effective date provisions, see § <cite path="§1-636.02">1-636.02</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§1-636.02">1-636.02</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 36-227.</annotation>
+          <annotation>1973 Ed., § 36-437.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal of chapter: See Historical and Statutory Notes following § <cite path="§32-801">32-801</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|32|8|I"/>
+      <num codify:value="32-808">8</num>
+      <heading>Employer to furnish safe place of employment, information required by Board, report of employees’ injury or death, and record of employees.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every employer shall furnish a place of employment which shall be reasonably safe for employees, shall furnish and use safety devices and safeguards, and shall adopt and use practices, means, methods, operations, and processes which are reasonably safe and adequate to render such employment and place of employment reasonably safe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Every employer shall furnish to the Board any information which the Board is authorized to require and shall make true and specific answers to all questions.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Every employer shall submit to the Board within 10 days from the date of any injury or death, or from the date that the employer has knowledge of any disease or infection resulting from any injury, a duplicate copy of the report provided for in § 930 of Title 33, United States Code, as made applicable to the District of Columbia by §§ 36-501 and 36-502 [1973 Ed.].</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Every employer shall keep an accurate record of every person employed by him so as to be able in case of accident immediately to give an accurate record relative to same.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Sept. 19, 1918, ch. 174, title II, § 8</annotation>
+          <annotation>Oct. 14, 1941, 55 Stat. 738, ch. 438,§ 3</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Submission of duplicate report to mayor, see § <cite path="§32-1113">32-1113</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§32-1113">32-1113</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 36-228.</annotation>
+          <annotation>1973 Ed., § 36-438.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>References in Text</heading>
+          <annotation>The references to §§ 36-501 and 36-502, at the end of subsection (c) of this section, are references to those sections as they appeared in the 1973 Edition of the D.C. Code. Chapter 5 of Title 36 1973 Ed. was revised by the Act of July 1, 1980, D.C. Law 3-77. D.C. Law 3-77 repealed §§ 36-501 and 36-502 as they appeared in the 1973 Edition of the D.C. Code. Therefore the reference to these sections is no longer relevant.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal of chapter: See Historical and Statutory Notes following § <cite path="§32-801">32-801</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|32|8|I"/>
+      <num codify:value="32-809">9</num>
+      <heading>Authority to examine place of employment.</heading>
+      <text>The Board, or any officer or employee acting under its authority, shall have the authority, at any reasonable time, to enter any place where an employment covered by this subchapter is being carried on, and to examine any structure, tool, appliance, machinery, or process used in or connected with such employment. No employer or other persons shall refuse to admit any member of the Board or its authorized representative to any such place or to permit any such examination.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Sept. 19, 1918, ch. 174, title II, § 9</annotation>
+          <annotation>Oct. 14, 1941, 55 Stat. 738, ch. 438,§ 3</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 36-229.</annotation>
+          <annotation>1973 Ed., § 36-439.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal of chapter: See Historical and Statutory Notes following § <cite path="§32-801">32-801</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|32|8|I"/>
+      <num codify:value="32-810">10</num>
+      <heading>Mayor to furnish office space and supplies.</heading>
+      <text>The Mayor of the District of Columbia shall furnish the Board with such office space, furniture and equipment, stationery, books, books of reference, and other supplies as are necessary for the discharge of its duties under this subchapter.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Sept. 19, 1918, ch. 174, title II, § 10</annotation>
+          <annotation>Oct. 14, 1941, 55 Stat. 738, ch. 438, § 3</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 36-230.</annotation>
+          <annotation>1973 Ed., § 36-440.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal of chapter: See Historical and Statutory Notes following § <cite path="§32-801">32-801</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|32|8|I"/>
+      <num codify:value="32-811">11</num>
+      <heading>Annual report to Mayor.</heading>
+      <text>The Board shall annually, on or before the 1st day of July, file with the Mayor of the District of Columbia a report covering its activities under this subchapter.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Sept. 19, 1918, ch. 174, title II, § 11</annotation>
+          <annotation>Oct. 14, 1941, 55 Stat. 738, ch. 438, § 3</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 36-231.</annotation>
+          <annotation>1973 Ed., § 36-441.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal of chapter: See Historical and Statutory Notes following § <cite path="§32-801">32-801</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|32|8|I"/>
+      <num codify:value="32-812">12</num>
+      <heading>Penalties for violation of subchapter; jurisdiction; prosecution.</heading>
+      <text>Whoever violates any of the provisions of this subchapter, or any rules or regulations promulgated hereunder, shall be deemed guilty of a misdemeanor; and, upon conviction thereof, shall be punished by a fine of not less than $100 or more than $600, or by imprisonment of not exceeding 90 days. Prosecutions for violations of this subchapter shall be in the name of the District of Columbia on information filed in the Superior Court of the District of Columbia by the Corporation Counsel or one of his assistants.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Sept. 19, 1918, ch. 174, title II, § 12</annotation>
+          <annotation>Oct. 14, 1941, 55 Stat. 738, ch. 438, § 3</annotation>
+          <annotation>Apr. 1, 1942, 56 Stat. 190, ch. 207, § 1</annotation>
+          <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+          <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+          <annotation doc="Pub. L. 91-650">Jan. 5, 1971, 84 Stat. 1936, Pub. L. 91-650, title V, § 501(4)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 36-232.</annotation>
+          <annotation>1973 Ed., § 36-442.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal of chapter: See Historical and Statutory Notes following § <cite path="§32-801">32-801</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
 </document>

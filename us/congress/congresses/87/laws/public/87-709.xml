@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 87-709">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 87-709">
   <num>87-709</num>
   <meta>
     <effective>1962-09-27</effective>
@@ -7,4 +7,946 @@
       <law session="87" lawId="709"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-401">2</num>
+    <heading>Definition of terms.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 636, Pub. L. 87-709, § 2</annotation>
+        <annotation doc="D.C. Law 10-34">Oct. 15, 1993, D.C. Law 10-34, § 2(a), 40 DCR 5764</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-101.</annotation>
+        <annotation>1973 Ed., § 41-301.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Chapter repealed effective January 1, 1998: Section 1203 of <cite doc="D.C. Law 11-234">D.C. Law 11-234</cite> provided that §§ <cite path="§41-101">41-101</cite> through <cite path="§41-148">41-148</cite> §§ <cite path="§33-401">33-401</cite> through <cite path="§33-448">33-448</cite>, 2001 Ed. are repealed effective January 1, 1998.</text>
+        <text><cite doc="D.C. Law 12-184">D.C. Law 12-184</cite>, § 3 ( 45 DCR 7796), eff. March 26, 1999, amends §§ <cite path="§41-101">41-101</cite>, <cite path="§41-102">41-102</cite> § <cite path="§33-401">33-401</cite>, 33-402, 2001 Ed. without reference to their prior repeal.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-402">3</num>
+    <heading>Interpretation of knowledge and notice.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 636, Pub. L. 87-709, § 3</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-102.</annotation>
+        <annotation>1973 Ed., § 41-302.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation><cite doc="D.C. Law 12-184">D.C. Law 12-184</cite>, § 3 ( 45 DCR 7796), eff. March 26, 1999, amends §§ <cite path="§41-101">41-101</cite>, <cite path="§41-102">41-102</cite> § <cite path="§33-401">33-401</cite>, 33-402, 2001 Ed. without reference to their prior repeal.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-403">4</num>
+    <heading>Rules of construction.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 636, Pub. L. 87-709, § 4</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-103.</annotation>
+        <annotation>1973 Ed., § 41-303.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-404">5</num>
+    <heading>Rules for cases not provided for in this chapter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 636, Pub. L. 87-709, § 5</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-104.</annotation>
+        <annotation>1973 Ed., § 41-304.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-405">6</num>
+    <heading>“Partnership” defined.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 636, Pub. L. 87-709, § 6</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-105.</annotation>
+        <annotation>1973 Ed., § 41-305.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-405.01">6a</num>
+    <heading>Registration and fees.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 637, Pub. L. 87-709, § 6a</annotation>
+        <annotation doc="D.C. Law 10-34">as added by Oct. 15, 1993, D.C. Law 10-34, § 2(b), 40 DCR 5764</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-105.1.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-406">7</num>
+    <heading>Rules for determining the existence of a partnership.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 637, Pub. L. 87-709, § 7</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-106.</annotation>
+        <annotation>1973 Ed., § 41-306.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-407">8</num>
+    <heading>Partnership property; acquisition and conveyance of title.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 637, Pub. L. 87-709, § 8</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-107.</annotation>
+        <annotation>1973 Ed., § 41-307.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-408">9</num>
+    <heading>Role of partners in partnership business; acts requiring authorization for binding; acts requiring authorization by all partners.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 637, Pub. L. 87-709, § 9</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-108.</annotation>
+        <annotation>1973 Ed., § 41-308.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-409">10</num>
+    <heading>Conveyance of real property of the partnership.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 638, Pub. L. 87-709, § 10</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-109.</annotation>
+        <annotation>1973 Ed., § 41-309.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-410">11</num>
+    <heading>Admissions or representations deemed binding on partnership.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 638, Pub. L. 87-709, § 11</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-110.</annotation>
+        <annotation>1973 Ed., § 41-310.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-411">12</num>
+    <heading>Partnership charged with knowledge of or notice to partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 638, Pub. L. 87-709, § 12</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-111.</annotation>
+        <annotation>1973 Ed., § 41-311.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-412">13</num>
+    <heading>Liability — Wrongful act of partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 638, Pub. L. 87-709, § 13</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-112.</annotation>
+        <annotation>1973 Ed., § 41-312.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-413">14</num>
+    <heading>Liability — Partner’s breach of trust.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 639, Pub. L. 87-709, § 14</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-113.</annotation>
+        <annotation>1973 Ed., § 41-313.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-414">15</num>
+    <heading>Liability — Extent for partnership.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 639, Pub. L. 87-709, § 15</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-114.</annotation>
+        <annotation>1973 Ed., § 41-314.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-415">16</num>
+    <heading>Liability — Partner by estoppel.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 639, Pub. L. 87-709, § 16</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-115.</annotation>
+        <annotation>1973 Ed., § 41-315.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-416">17</num>
+    <heading>Liability — Incurred by incoming partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 639, Pub. L. 87-709, § 17</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-116.</annotation>
+        <annotation>1973 Ed., § 41-316.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-417">18</num>
+    <heading>Rules determining rights and duties of partners.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 639, Pub. L. 87-709, § 18</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-117.</annotation>
+        <annotation>1973 Ed., § 41-317.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-418">19</num>
+    <heading>Partnership books; right to inspect.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 640, Pub. L. 87-709, § 19</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-118.</annotation>
+        <annotation>1973 Ed., § 41-318.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-419">20</num>
+    <heading>Duty of partners to render information.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 640, Pub. L. 87-709, § 20</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-119.</annotation>
+        <annotation>1973 Ed., § 41-319.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-420">21</num>
+    <heading>Partner accountable as a fiduciary.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 640, Pub. L. 87-709, § 21</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-120.</annotation>
+        <annotation>1973 Ed., § 41-320.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-421">22</num>
+    <heading>Right to an account.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 640, Pub. L. 87-709, § 22</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-121.</annotation>
+        <annotation>1973 Ed., § 41-321.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-422">23</num>
+    <heading>Continuation of partnership beyond fixed term; rights and duties of partners.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 640, Pub. L. 87-709, § 23</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-122.</annotation>
+        <annotation>1973 Ed., § 41-322.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-423">24</num>
+    <heading>Property rights of partner — Extent.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 641, Pub. L. 87-709, § 24</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-123.</annotation>
+        <annotation>1973 Ed., § 41-323.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-424">25</num>
+    <heading>Property rights of partner — Specific partnership property; assignability; attachment or execution.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 641, Pub. L. 87-709, § 25</annotation>
+        <annotation doc="D.C. Law 1-87">Oct. 1, 1976, D.C. Law 1-87, § 39, 23 DCR 2544</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-124.</annotation>
+        <annotation>1973 Ed., § 41-324.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-425">26</num>
+    <heading>Partner’s interest in partnership — Profits and surplus.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 641, Pub. L. 87-709, § 26</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-125.</annotation>
+        <annotation>1973 Ed., § 41-325.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-426">27</num>
+    <heading>Partner’s interest in partnership — Effect of assignment on partnership; rights of assignee.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 641, Pub. L. 87-709, § 27</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-126.</annotation>
+        <annotation>1973 Ed., § 41-326.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-427">28</num>
+    <heading>Partner’s interest in partnership — Charging order; appointment of receiver; redemption of interest charged.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 641, Pub. L. 87-709, § 28</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-127.</annotation>
+        <annotation>1973 Ed., § 41-327.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-428">29</num>
+    <heading>“Dissolution” defined.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 642, Pub. L. 87-709, § 29</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-128.</annotation>
+        <annotation>1973 Ed., § 41-328.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-429">30</num>
+    <heading>Dissolution — No termination of partnership.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 642, Pub. L. 87-709, § 30</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-129.</annotation>
+        <annotation>1973 Ed., § 41-329.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-430">31</num>
+    <heading>Dissolution — Causes.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 642, Pub. L. 87-709, § 31</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-130.</annotation>
+        <annotation>1973 Ed., § 41-330.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-431">32</num>
+    <heading>Dissolution — Decree of court.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 642, Pub. L. 87-709, § 32</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-131.</annotation>
+        <annotation>1973 Ed., § 41-331.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-432">33</num>
+    <heading>Dissolution — Effect on authority of partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 643, Pub. L. 87-709, § 33</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-132.</annotation>
+        <annotation>1973 Ed., § 41-332.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-433">34</num>
+    <heading>Dissolution — Right of partner to contribution from copartners</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 643, Pub. L. 87-709, § 34</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-133.</annotation>
+        <annotation>1973 Ed., § 41-333.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-434">35</num>
+    <heading>Dissolution — Power of partner to bind partnership; liability of partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 643, Pub. L. 87-709, § 35</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-134.</annotation>
+        <annotation>1973 Ed., § 41-334.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-435">36</num>
+    <heading>Dissolution — Effect on partner’s existing liability; discharge of liability.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 644, Pub. L. 87-709, § 36</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-135.</annotation>
+        <annotation>1973 Ed., § 41-335.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-436">37</num>
+    <heading>Dissolution — Right to wind up.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 644, Pub. L. 87-709, § 37</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-136.</annotation>
+        <annotation>1973 Ed., § 41-336.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-437">38</num>
+    <heading>Dissolution — Right of partners to application of partnership property.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 644, Pub. L. 87-709, § 38</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-137.</annotation>
+        <annotation>1973 Ed., § 41-337.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-438">39</num>
+    <heading>Dissolution — Fraud or misrepresentation; rights of partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 645, Pub. L. 87-709, § 39</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-138.</annotation>
+        <annotation>1973 Ed., § 41-338.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-439">40</num>
+    <heading>Dissolution — Order of distribution of assets; liabilities; contribution of partners to satisfy liabilities; rights of assignees; partner’s right to enforce contributions; distribution of claims against separate property.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 646, Pub. L. 87-709, § 40</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-139.</annotation>
+        <annotation>1973 Ed., § 41-339.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-440">41</num>
+    <heading>Continuing partnership business — Liability of partners in certain cases; rights of creditors.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 646, Pub. L. 87-709, § 41</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-140.</annotation>
+        <annotation>1973 Ed., § 41-340.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-441">42</num>
+    <heading>Continuing partnership business — Rights of retiring or estate of deceased partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 647, Pub. L. 87-709, § 42</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-141.</annotation>
+        <annotation>1973 Ed., § 41-341.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-442">43</num>
+    <heading>Accrual of right to account.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 648, Pub. L. 87-709, § 43</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-142.</annotation>
+        <annotation>1973 Ed., § 41-342.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-443">44</num>
+    <heading>Registered limited liability partnerships.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 648, Pub. L. 87-709, § 44</annotation>
+        <annotation doc="D.C. Law 10-34">as added by Oct. 15, 1993, D.C. Law 10-34, § 2(b), 40 DCR 5764</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-143.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-444">45</num>
+    <heading>Name of registered limited liability partnerships.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 648, Pub. L. 87-709, § 45</annotation>
+        <annotation doc="D.C. Law 10-34">as added by Oct. 15, 1993, D.C. Law 10-34, § 2(b), 40 DCR 5764</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-144.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-445">46</num>
+    <heading>Insurance requirement for registered limited liability partnerships.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 648, Pub. L. 87-709, § 46</annotation>
+        <annotation doc="D.C. Law 10-34">as added by Oct. 15, 1993, D.C. Law 10-34, § 2(b), 40 DCR 5764</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-145.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-446">47</num>
+    <heading>Nature of partners’ liability in registered limited liability partnerships.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 648, Pub. L. 87-709, § 47</annotation>
+        <annotation doc="D.C. Law 10-34">as added by Oct. 15, 1993, D.C. Law 10-34, § 2(b), 40 DCR 5764</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-146.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-447">48</num>
+    <heading>Foreign registered limited liability partnerships.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 648, Pub. L. 87-709, § 48</annotation>
+        <annotation doc="D.C. Law 10-34">as added by Oct. 15, 1993, D.C. Law 10-34, § 2(b), 40 DCR 5764</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-147.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-448">49</num>
+    <heading>Applicability of chapter to foreign and interstate commerce.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-709">Sept. 27, 1962, 76 Stat. 648, Pub. L. 87-709, § 49</annotation>
+        <annotation doc="D.C. Law 10-34">as added by Oct. 15, 1993, D.C. Law 10-34, § 2(b), 40 DCR 5764</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1203, 44 DCR 777</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-148.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

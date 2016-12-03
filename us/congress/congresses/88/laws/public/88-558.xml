@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 88-558">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 88-558">
   <num>88-558</num>
   <meta>
     <effective>1964-08-31</effective>
@@ -7,4 +7,31 @@
       <law session="88" lawId="558"/>
     </cites>
   </meta>
+  <section>
+    <num>3</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|2|4|I"/>
+      <reason>Repealed</reason>
+      <num codify:value="2-407">(f)</num>
+      <heading>Damage to personal property of District employee incident to service.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 88-558">Aug. 31, 1964, Pub. L. 88-558, § 3(f)</annotation>
+          <annotation doc="Pub. L. 90-561">Oct. 12, 1968, 82 Stat. 998, Pub. L. 90-561</annotation>
+          <annotation doc="Pub. L. 97-258">Sept. 13, 1982, 96 Stat. 877, Pub. L. 97-258, § 5(b)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>District of Columbia administration, status of volunteers, see § <cite path="§1-319.03">1-319.03</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1207.</annotation>
+          <annotation>1973 Ed., § 1-907.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

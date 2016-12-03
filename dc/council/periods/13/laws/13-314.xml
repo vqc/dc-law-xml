@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 13-314">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 13-314">
   <num type="law">13-314</num>
   <heading type="short">Tree Protection Amendment Act of 2000</heading>
   <meta>
@@ -12,4 +12,22 @@
       <narrative>Law 13-314, the “Tree Protection Amendment Act of 2000”, was introduced in Council and assigned Bill No. 13-928, which was referred to the Committee on Public Works and the Environment. The Bill was adopted on first and second readings on December 5, 2000, and December 19, 2000, respectively. Signed by the Mayor on January 24, 2000, it was assigned Act No. 13-594 and transmitted to both Houses of Congress for its review. D.C. Law 13-314 became effective on June 19, 2001.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|7A"/>
+    <num codify:value="10-731">2</num>
+    <heading>Notice to be displayed on the tree.</heading>
+    <text>Prior to the removal of a tree on the public land, unless the tree is dead or dangerous and in the need of immediate removal, the Department of Public Works, Tree and Landscape Division, shall provide a 7-day written notice, excluding Saturdays, Sundays, and legal holidays, to be displayed on the tree, notwithstanding the notice requirement pursuant to § <cite path="§6-804">6-804</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-314">June 19, 2001, D.C. Law 13-314, § 2, 48 DCR 2076</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>District of Columbia fiscal management, capital improvements, authorization of lease-purchase financing, see § <cite path="§1-204.90">1-204.90</cite>.</annotation>
+        <annotation>John A. Wilson Building, exclusive authority of the Council of the District of Columbia, see § <cite path="§10-1301">10-1301</cite>.</annotation>
+        <annotation>Public Parking Authority, acquisition of real property, see § <cite path="§50-2509">50-2509</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

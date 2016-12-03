@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 9-182">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 9-182">
   <num type="law">9-182</num>
   <heading type="short">Department of Public Health Establishment Act of 1992</heading>
   <meta>
@@ -12,4 +12,170 @@
       <narrative>Law 9-182, the “Department of Public Health Establishment Act of 1992,” was introduced in Council and assigned Bill No. 9-40, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on July 7, 1992, and October 6, 1992, respectively. Signed by the Mayor on November 2, 1992, it was assigned Act No. 9-302 and transmitted to both Houses of Congress for its review. D.C. Law 9-182 became effective on March 13, 1993.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|1|III"/>
+    <num codify:value="7-151">2</num>
+    <heading>Establishment of the Department of Public Health.</heading>
+    <text>There is established in the Executive Branch of the Government of the District of Columbia a Department of Public Health, which shall have as its responsibility the planning, development and implementation of the delivery of health care services to all District of Columbia residents.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-182">Mar. 13, 1992, D.C. Law 9-182, § 2, 39 DCR 8203</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-131.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <text>Pursuant to Reorganization Plan No. 4 of 1996 each of the functions assigned, and authorities delegated to the Director of the Department of Human Services as set forth in Sections III. (K), (L), and (P), of Reorganization Plan No. 3 of 1986, dated January 3, 1987.</text>
+        <text>The administrative and management support functions in the Department of Human Services as set forth in Sections III. (A), (B), (C), (D), (E), and (F), of Reorganization Plan No. 3 of 1986, dated January 3, 1987, that relate to the functions set forth in section V. (A)(1) above were transferred to the Department of Health.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Mayor's Orders</heading>
+        <text>Establishment and Appointments — Mayor’s Bioterrorism Preparedness and Response Program Advisory Committee, see Mayor’s Order 2002-77, May 3, 2002 ( 49 DCR 4137).</text>
+        <text>Establishment and Appointments — Mayor’s Hospital Bioterrorism Preparedness Planning Advisory Committee, see Mayor’s Order 2002-78, May 3, 2002 ( 49 DCR 4143).</text>
+        <text>Amendment of Mayor’s Order 2002-77, dated 4-5-02, Establishment and Appointments — Mayor’s Bioterrorism Preparedness and Response Program Advisory Committee, see Mayor’s Order 2002-145, August 30, 2002 ( 49 DCR 8411).</text>
+        <text>Amendment of Mayor’s Order 2002-78, dated 4-15-02, Establishment and Appointments — Mayor’s Hospital Bioterrorism Preparedness, see Mayor’s Order 2002-147, August 30, 2002 ( 49 DCR 8415).</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|1|III"/>
+    <num codify:value="7-152">3</num>
+    <heading>Organization of the Department of Public Health.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Pursuant to subchapter VI of Chapter 3 of Title 1, the Mayor shall prepare and transmit to the Council a reorganization plan establishing a Department of Public Health no later than October 1, 1993.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The reorganization plan establishing the Department of Public Health shall have, at a minimum, all functions, powers and duties of the Commission on Public Health, including supportive services provided to the Commission on Public Health by the Department of Human Services’ Management and Support Services Division.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor may prepare and transmit to the Council a reorganization plan for the remaining functions of the Department of Human Services at the same time as the reorganization plan establishing the Department of Public Health is transmitted to the Council.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The reorganization plan establishing the Department of Public Health shall become effective no later than October 1, 1994.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-182">Mar. 13, 1992, D.C. Law 9-182, § 3, 39 DCR 8203</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-132.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <text>Pursuant to Reorganization Plan No. 4 of 1996 each of the functions assigned, and authorities delegated to the Director of the Department of Human Services as set forth in Sections III. (K), (L), and (P), of Reorganization Plan No. 3 of 1986, dated January 3, 1987.</text>
+        <text>The administrative and management support functions in the Department of Human Services as set forth in Sections III. (A), (B), (C), (D), (E), and (F), of Reorganization Plan No. 3 of 1986, dated January 3, 1987, that relate to the functions set forth in section V. (A)(I) above were transferred to the Department of Health.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|1|III"/>
+    <num codify:value="7-153">4</num>
+    <heading>Appointment of Director.</heading>
+    <text>The Department of Public Health shall be under the supervision and direction of a Director who shall be appointed by the Mayor in accordance with subchapter X of Chapter 6 of Title 1, and subject to the advice and consent of the Council, as provided in § <cite path="§1-523.01">1-523.01</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-182">Mar. 13, 1992, D.C. Law 9-182, § 4, 39 DCR 8203</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-133.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|1|III"/>
+    <num codify:value="7-154">5</num>
+    <heading>Establishment of Public Health Coordination Advisory Committee.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a Public Health Coordination Advisory Committee (“Committee”) which shall be responsible for advising the Director of the Department of Public Health, the Mayor and the Council on policy matters related to the effective and efficient coordination of the delivery of public health care services in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Committee shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Director of the Department of Public Health who shall serve as the chairperson;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Director of the Department of Mental Health or a designee;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Commissioner of Social Services or a designee;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Executive Director of the District of Columbia General Hospital or a designee;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Executive Director of the Office on Aging or a designee;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Director of the Department of Consumer and Regulatory Affairs or a designee;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The President of the Doctors Council of the District of Columbia, representing employees in Compensation Unit 19, or a designee; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The following persons who shall be appointed by the Mayor:</text>
+        <para>
+          <num>(A)</num>
+          <text>1 licensed physician and 1 licensed dentist employed by a District health care facility;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>2 licensed nurses employed by a District health care facility; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>2 consumers of health care services in the District.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The duties of the Committee shall include advising the Director of the Department of Public Health on the development, implementation and monitoring of a comprehensive plan to coordinate the delivery of District health care services provided by the public health clinics of the Department of Public Health and the District of Columbia General Hospital to provide a comprehensive continuum of efficient and quality health care services to District residents.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-182">Mar. 13, 1992, D.C. Law 9-182, § 5, 39 DCR 8203</annotation>
+        <annotation doc="D.C. Law 14-56">Dec. 18, 2001, D.C. Law 14-56, § 116(d), 48 DCR 7674</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-134.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-56">D.C. Law 14-56</cite>, in subsec. (b)(2), substituted “Director of the Department of Mental Health” for “Commissioner of Mental Health Services”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 16(d) of Department of Mental Health Establishment Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-51">D.C. Law 14-51</cite>, October 30, 2001, law notification  48 DCR 10807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 16(d) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001,  48 DCR 4390).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 16(d) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001,  48 DCR 7123).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 116(d) of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001,  48 DCR 9947).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

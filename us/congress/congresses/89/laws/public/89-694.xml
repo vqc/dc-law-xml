@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 89-694">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 89-694">
   <num>89-694</num>
   <meta>
     <effective>1966-10-15</effective>
@@ -7,4 +7,61 @@
       <law session="89" lawId="694"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2321">2</num>
+    <heading>Authorization of appropriations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 89-694">Oct. 15, 1966, 80 Stat. 1027, Pub. L. 89-694, § 2</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1821.</annotation>
+        <annotation>1973 Ed., § 31-1051.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2322">3</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 89-694">Oct. 15, 1966, 80 Stat. 1027, Pub. L. 89-694, § 3</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1822.</annotation>
+        <annotation>1973 Ed., § 31-1052.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2323">4</num>
+    <heading>Agreement with Gallaudet College; annual report.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 89-694">Oct. 15, 1966, 80 Stat. 1027, Pub. L. 89-694, § 4</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1823.</annotation>
+        <annotation>1973 Ed., § 31-1053.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

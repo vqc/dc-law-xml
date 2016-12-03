@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 88-243">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 88-243">
   <num>88-243</num>
   <meta>
     <effective>1963-12-30</effective>
@@ -7,4 +7,27 @@
       <law session="88" lawId="243"/>
     </cites>
   </meta>
+  <section>
+    <num>15</num>
+    <para>
+      <num>(a)</num>
+      <para from-code="true" codify:tag="section">
+        <codify:insert doc="D.C. Code" before="§22-1507" path="|22|15"/>
+        <reason>Repealed</reason>
+        <num codify:value="22-1506">(1)</num>
+        <heading>Sale or concealment by conditional vendee, with intent to defraud.</heading>
+        <text>Repealed.</text>
+        <annotations>
+          <annoGroup>
+            <heading>History</heading>
+            <annotation doc="Pub. L. 88-243">Dec. 30, 1963, 77 Stat. 774, Pub. L. 88-243, § 15(a)(1)</annotation>
+          </annoGroup>
+          <annoGroup>
+            <heading>Prior Codifications</heading>
+            <annotation>1981 Ed., § 22-1406.</annotation>
+          </annoGroup>
+        </annotations>
+      </para>
+    </para>
+  </section>
 </document>

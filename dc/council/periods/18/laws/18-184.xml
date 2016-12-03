@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 18-184">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 18-184">
   <num type="law">18-184</num>
   <heading type="short">Uniform Emergency Volunteer Health Practitioners Act of 2010</heading>
   <meta>
@@ -12,4 +12,667 @@
       <narrative>Law 18-184, the “Uniform Emergency Volunteer Health Practitioners Act of 2010”, was introduced in Council and assigned Bill No. 18-71, which was referred to the Committee on Health, Public Safety and the Judiciary. The Bill was adopted on first and second readings on March 2, 2010, and March 16, 2010, respectively. Signed by the Mayor on April 26, 2010, it was assigned Act No. 18-383 and transmitted to both Houses of Congress for its review. D.C. Law 18-184 became effective on July 1, 2010.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23C"/>
+    <num codify:value="7-2361.01">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Disaster relief organization” means an entity that provides emergency or disaster relief services that include health or veterinary services provided by volunteer health practitioners and that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Is designated or recognized as a provider of those services pursuant to a disaster response and recovery plan adopted by an agency of the federal government or the Mayor; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Regularly plans and conducts its activities in coordination with an agency of the federal government or the Mayor.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Emergency” means an event or condition that is a public emergency, as defined by § <cite path="§7-2301">7-2301</cite>(3).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Emergency declaration” means a declaration of emergency issued by a person authorized to do so under the laws of the District.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Emergency Management Assistance Compact” means the interstate compact approved by Congress by the Joint Resolution Granting the consent of Congress to the Emergency Management Assistance Compact, approved October 19, 1996 (Pub. L. No. 104-321; 110 Stat. 3877) [see also D.C. Code § <cite path="§7-2332">7-2332</cite>].</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Entity” means a person other than an individual.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Health facility” means an entity licensed under the laws of this or another state to provide health or veterinary services.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Health practitioner” means an individual licensed under the laws of this or another state to provide health or veterinary services.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Health services” means the provision of treatment, care, advice or guidance, or other services, or supplies, related to the health or death of individuals, or human populations, to the extent necessary to respond to an emergency, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>The following, concerning the physical or mental condition or functional status of an individual or affecting the structure or function of the body:</text>
+        <para>
+          <num>(i)</num>
+          <text>Preventive care;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Diagnostic care;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Therapeutic care;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Rehabilitative care;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Maintenance care;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Palliative care;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>Counseling services:</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>Assessment services;</text>
+        </para>
+        <para>
+          <num>(ix)</num>
+          <text>Procedural services; or</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>Other services;</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The sale or dispensing of a drug, a device, equipment, or another item to an individual in accordance with a prescription; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Funeral, cremation, cemetery, or other mortuary services.</text>
+      </para>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Host entity” means an entity operating in the District that uses volunteer health practitioners to respond to an emergency.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“License” means authorization by a state to engage in health or veterinary services that are unlawful without the authorization. The term includes authorization under the laws of the District to an individual to provide health or veterinary services based upon a national certification issued by a public or private entity.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Mayor” means the Mayor of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Person” means an individual, corporation, business trust, trust, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity. The term “person” includes the government of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“Registration system” means a system for registering volunteer health practitioners that meets the requirements in § <cite path="§7-2361.04">7-2361.04</cite>.</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>“Scope of practice” means the extent of the authorization to provide health or veterinary services granted to a health practitioner by a license issued to the practitioner in the state in which the principal part of the practitioner’s services are rendered, including any conditions imposed by the licensing authority.</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>“State” means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>“Veterinary services” means the provision of treatment, care, advice or guidance, or other services, or supplies, related to the health or death of an animal or to animal populations, to the extent necessary to respond to an emergency, including the:</text>
+      <para>
+        <num>(A)</num>
+        <text>Diagnosis, treatment, or prevention of an animal disease, injury, or other physical or mental condition by the prescription, administration, or dispensing of:</text>
+        <para>
+          <num>(i)</num>
+          <text>A vaccine;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Medicine;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Surgery; or</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Therapy;</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Use of a procedure for reproductive management; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Monitoring and treatment of animal populations for diseases that have spread or demonstrate the potential to spread to humans.</text>
+      </para>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>“Volunteer health practitioner” means a health practitioner who provides health or veterinary services, whether or not the practitioner receives compensation for those services, including an employee of the federal government. The term “volunteer health practitioner” does not include a practitioner who receives compensation pursuant to a preexisting employment relationship with a host entity or affiliate that requires the practitioner to provide health services in the District, unless the practitioner is employed by a disaster relief organization while an emergency declaration is in effect.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-184">July 1, 2010, D.C. Law 18-184, § 2, 57 DCR 3655</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§3-411">3-411</cite>, § <cite path="§3-1201.03">3-1201.03</cite>, and § <cite path="§7-2304.01">7-2304.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 2 of the Uniform Emergency Volunteer Health Practitioners Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23C"/>
+    <num codify:value="7-2361.02">3</num>
+    <heading>Applicability to volunteer health practitioners.</heading>
+    <text>This chapter applies to volunteer health practitioners registered with a registration system that complies with § <cite path="§7-2361.04">7-2361.04</cite> and who provide health or veterinary services in the District for a host entity while an emergency declaration is in effect.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-184">July 1, 2010, D.C. Law 18-184, § 3, 57 DCR 3655</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 3 of the Uniform Emergency Volunteer Health Practitioners Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23C"/>
+    <num codify:value="7-2361.03">4</num>
+    <heading>Regulation of services during emergency.</heading>
+    <para>
+      <num>(a)</num>
+      <text>While an emergency declaration is in effect, the Mayor may issue a Mayor’s order that limits, restricts, or otherwise regulates:</text>
+      <para>
+        <num>(1)</num>
+        <text>The duration of practice by volunteer health practitioners;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The geographical areas in which volunteer health practitioners may practice;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The types of volunteer health practitioners who may practice; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any other matter necessary to coordinate effectively the provision of health or veterinary services during the emergency.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An order issued pursuant to subsection (a) of this section may take effect immediately, without prior notice or comment, and is not a rule within the meaning of subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.].</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A host entity that uses volunteer health practitioners to provide health or veterinary services in the District shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Consult and coordinate its activities with the Mayor to the extent practicable to provide for the efficient and effective use of volunteer health practitioners; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Comply with all District laws relating to the management of emergency health or veterinary services, including Chapter 23 of this title [§ <cite path="§7-2301.01">7-2301.01</cite> et seq.].</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-184">July 1, 2010, D.C. Law 18-184, § 4, 57 DCR 3655</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 4 of the Uniform Emergency Volunteer Health Practitioners Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23C"/>
+    <num codify:value="7-2361.04">5</num>
+    <heading>Volunteer health practitioner registration systems.</heading>
+    <para>
+      <num>(a)</num>
+      <text>To qualify as a volunteer health practitioner registration system, a registration system must:</text>
+      <para>
+        <num>(1)</num>
+        <text>Accept applications for the registration of volunteer health practitioners before or during an emergency;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Include information about the licensure and good standing of health practitioners that is accessible by authorized persons;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be capable of confirming the accuracy of information concerning whether a health practitioner is licensed and in good standing before health services or veterinary services are provided under this chapter; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Meet one of the following conditions:</text>
+        <para>
+          <num>(A)</num>
+          <text>Be an emergency system for advance registration of volunteer health-care practitioners established by a state and funded through the Health Resources Services Administration under section 319I of the Public Health Service Act, approved June 12, 2002 (116 Stat. 608; 42 U.S.C. § 247d-7b);</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Be a local unit consisting of trained and equipped emergency response, public health, and medical personnel formed pursuant to section 2801 of the Public Health Service Act, approved June 12, 2002 (116. Stat. 596; 42 U.S.C. 300hh);</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Be operated by a:</text>
+          <para>
+            <num>(i)</num>
+            <text>Disaster relief organization;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Licensing board;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>National or regional association of licensing boards or health practitioners;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Health facility that provides comprehensive inpatient and outpatient health-care services, including a tertiary care and teaching hospital; or</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Governmental entity; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Be designated by the Mayor as a registration system for purposes of this chapter.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>While an emergency declaration is in effect, the Mayor, the Mayor’s designee, or a host entity may confirm whether volunteer health practitioners utilized in the District are registered with a registration system that complies with subsection (a) of this section. Confirmation is limited to obtaining the identities of the practitioners from the system and determining whether the system indicates that the practitioners are licensed and in good standing.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Upon request of the Mayor, the Mayor’s designee, or a host entity pursuant to subsection (b) of this section, or a similarly authorized person in another state, the entity operating a registration system located in the District shall notify the authorized person of the identities of volunteer health practitioners and whether the practitioners are licensed and in good standing.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A host entity is not required to use the services of a volunteer health practitioner even if the practitioner is registered with a registration system that indicates that the practitioner is licensed and in good standing.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-184">July 1, 2010, D.C. Law 18-184, § 5, 57 DCR 3655</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-2361.01">7-2361.01</cite>, § <cite path="§7-2361.02">7-2361.02</cite>, and § <cite path="§7-2361.05">7-2361.05</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 5 of the Uniform Emergency Volunteer Health Practitioners Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23C"/>
+    <num codify:value="7-2361.05">6</num>
+    <heading>Recognition of volunteer health practitioners licensed in other states.</heading>
+    <para>
+      <num>(a)</num>
+      <text>While an emergency declaration is in effect, a volunteer health practitioner registered with a registration system that complies with § <cite path="§7-2361.04">7-2361.04</cite> and licensed and in good standing in the state upon which the practitioner’s registration is based may practice in the District to the extent authorized by this chapter as if the practitioner were licensed in the District.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A volunteer health practitioner qualified under subsection (a) of this section is not entitled to the protections of this chapter if the practitioner is licensed in more than one state and any license of the practitioner is suspended, revoked, or subject to an agency order limiting or restricting practice privileges, or has been voluntarily terminated under threat of sanction.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-184">July 1, 2010, D.C. Law 18-184, § 6, 57 DCR 3655</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 6 of the Uniform Emergency Volunteer Health Practitioners Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23C"/>
+    <num codify:value="7-2361.06">7</num>
+    <heading>No effect on credentialing and privileging.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsection (b) of this section, this chapter does not affect the credentialing or privileging standards of a health facility and does not preclude a health facility from waiving or modifying those standards while an emergency declaration is in effect.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor may issue rules, pursuant to § <cite path="§7-2361.09">7-2361.09</cite>, establishing credentialing standards applicable while an emergency declaration is in effect.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>For the purposes of this section, the term:</text>
+      <para>
+        <num>(1)</num>
+        <text>“Credentialing” means obtaining, verifying, and assessing the qualifications of a health practitioner to provide treatment, care, or services in or for a health facility.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Privileging” means the authorizing by an appropriate authority, such as a governing body, of a health practitioner to provide specific treatment, care, or services at a health facility subject to limits based on factors that include:</text>
+        <para>
+          <num>(A)</num>
+          <text>License;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Education;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Training;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Experience;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Competence;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Health status; and</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>Specialized skill.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-184">July 1, 2010, D.C. Law 18-184, § 7, 57 DCR 3655</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 7 of the Uniform Emergency Volunteer Health Practitioners Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23C"/>
+    <num codify:value="7-2361.07">8</num>
+    <heading>Provision of volunteer health or veterinary services; unauthorized practice sanctions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A volunteer health practitioner shall not:</text>
+      <para>
+        <num>(1)</num>
+        <text>Practice outside of the scope of practice for a similarly licensed practitioner established by the licensing provisions, practice acts, or other laws of the District; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide services that are outside the practitioner’s scope of practice, even if a similarly licensed practitioner in the District would be permitted to provide the services.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor may issue a Mayor’s order that modifies or restricts the health or veterinary services that volunteer health practitioners may provide pursuant to this chapter. An order under this subsection may take effect immediately, without prior notice or comment, and is not a rule within the meaning of subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.].</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A host entity may restrict the health or veterinary services that a volunteer health practitioner may provide pursuant to this chapter.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>A volunteer health practitioner does not engage in unauthorized practice under this section unless the practitioner has reason to know of any limitation, modification, or restriction relating to his or her practice or that a similarly licensed practitioner in the District would not be permitted to provide the services.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A volunteer health practitioner has reason to know of a limitation, modification, or restriction or that a similarly licensed practitioner in the District would not be permitted to provide a service if:</text>
+        <para>
+          <num>(A)</num>
+          <text>The practitioner knows the limitation, modification, or restriction exists or that a similarly licensed practitioner in the District would not be permitted to provide the service; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>From all the facts and circumstances known to the practitioner at the relevant time, a reasonable person would conclude that the limitation, modification, or restriction exists or that a similarly licensed practitioner in the District would not be permitted to provide the service.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>In addition to the authority granted by District law other than this chapter to regulate the conduct of health practitioners, a licensing board or other disciplinary authority in the District:</text>
+      <para>
+        <num>(1)</num>
+        <text>May impose administrative sanctions upon a health practitioner licensed in the District for conduct outside of the District in response to an out-of-state emergency;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May impose administrative sanctions upon a practitioner not licensed in the District for conduct in the District in response to an in-state emergency; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Shall report any administrative sanctions imposed upon a practitioner licensed in another state to the appropriate licensing board or other disciplinary authority in any other state in which the practitioner is known to be licensed.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>In determining whether to impose administrative sanctions under subsection (e) of this section, a licensing board or other disciplinary authority shall consider the circumstances in which the conduct took place, including any exigent circumstances, and the practitioner’s:</text>
+      <para>
+        <num>(1)</num>
+        <text>Scope of practice;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Education;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Training;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Experience; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Specialized skill.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-184">July 1, 2010, D.C. Law 18-184, § 8, 57 DCR 3655</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 8 of the Uniform Emergency Volunteer Health Practitioners Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23C"/>
+    <num codify:value="7-2361.08">9</num>
+    <heading>Relation to other laws.</heading>
+    <para>
+      <num>(a)</num>
+      <text>This chapter does not limit rights, privileges, or immunities provided to volunteer health practitioners by laws other than this chapter. Except as otherwise provided in subsection (b) of this section, this chapter does not affect requirements for the use of health practitioners pursuant to the Emergency Management Assistance Compact.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor, pursuant to the Emergency Management Assistance Compact, may incorporate into the emergency forces of the District volunteer health practitioners who are not officers or employees of the District.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-184">July 1, 2010, D.C. Law 18-184, § 9, 57 DCR 3655</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 9 of the Uniform Emergency Volunteer Health Practitioners Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23C"/>
+    <num codify:value="7-2361.09">10</num>
+    <heading>Regulatory authority.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], may issue rules to implement the provisions of this chapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In issuing rules under subsection (a) of this section, the Mayor shall consult with and consider the recommendations of the entities established to coordinate the implementation of the Emergency Management Assistance Compact in the District and in other states to promote uniformity of application of this chapter and make the emergency response systems in the various states reasonably compatible.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-184">July 1, 2010, D.C. Law 18-184, § 10, 57 DCR 3655</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-2361.06">7-2361.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 10 of the Uniform Emergency Volunteer Health Practitioners Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23C"/>
+    <num codify:value="7-2361.10">11</num>
+    <heading>Civil liability for volunteer health practitioners; vicarious liability.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Subject to subsection (c) of this section, a volunteer health practitioner who provides health or veterinary services pursuant to this chapter is not liable for damages for an act or omission of the practitioner in providing those services.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No person is vicariously liable for damages for an act or omission of a volunteer health practitioner if the practitioner is not liable for the damages under subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>This section does not limit the liability of a volunteer health practitioner for:</text>
+      <para>
+        <num>(1)</num>
+        <text>Willful misconduct or wanton, grossly negligent, reckless, or criminal conduct;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An intentional tort;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Breach of contract;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A claim asserted by a host entity or by an entity located in this or another state which employs or uses the services of the practitioner; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>An act or omission relating to the operation of:</text>
+        <para>
+          <num>(A)</num>
+          <text>A motor vehicle;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A vessel;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>An aircraft; or</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Other vehicle.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A person that, pursuant to this chapter, operates, uses, or relies upon information provided by a registration system is not liable for damages for an act or omission relating to that operation, use, or reliance unless the act or omission is an intentional tort or is willful misconduct or wanton, grossly negligent, reckless, or criminal conduct.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>In authorizing health services under this chapter, the District of Columbia has no liability for the act or omission of the volunteer health practitioner.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-184">July 1, 2010, D.C. Law 18-184, § 11, 57 DCR 3655</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 11 of the Uniform Emergency Volunteer Health Practitioners Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23C"/>
+    <num codify:value="7-2361.11">12</num>
+    <heading>Workers’ compensation coverage.</heading>
+    <text>Notwithstanding subchapter XXIII of Chapter 6 of Title 1 [§ <cite path="§1-623.01">1-623.01</cite> et seq.], a volunteer health practitioner who is providing health services in the District pursuant to this chapter, or who is traveling to or from the District to provide such services, and who is not covered by workers’ compensation insurance, shall be considered an employee of the District government for purposes of any medical workers’ compensation benefits concerning any injury incurred in traveling or providing the services. Benefits for volunteer health practitioners are limited to those medical benefits provided to District government employees under § <cite path="§1-623.03">1-623.03</cite>. If a practitioner is a participant or beneficiary of a health benefits plan or similar plan, the medical benefits under that plan are primary to the medical benefits under this section, and medical benefits under this section are reduced by the benefits under that plan.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-184">July 1, 2010, D.C. Law 18-184, § 12, 57 DCR 3655</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 12 of the Uniform Emergency Volunteer Health Practitioners Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23C"/>
+    <num codify:value="7-2361.12">13</num>
+    <heading>Uniformity of application and construction.</heading>
+    <text>In applying and construing this chapter, consideration shall be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-184">July 1, 2010, D.C. Law 18-184, § 13, 57 DCR 3655</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 13 of the Uniform Emergency Volunteer Health Practitioners Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

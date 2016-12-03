@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 19-115" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 19-115" flag="true">
   <num type="law">19-115</num>
   <heading type="short">District of Columbia Government Comprehensive Merit Personnel Amendment Act of 2012</heading>
   <meta>
@@ -12,4 +12,23 @@
       <narrative>Law 19-115, the “District of Columbia Government Comprehensive Merit Personnel Amendment Act of 2012”, was introduced in Council and assigned Bill No. 19-476, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on December 6, 2011, and January 4, 2012, respectively. Signed by the Mayor on January 20, 2012, it was assigned Act No. 19-290 and transmitted to both Houses of Congress for its review. D.C. Law 19-115 became effective on March 14, 2012.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|5|I"/>
+    <num codify:value="1-511">3</num>
+    <heading>Review of personnel practices.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The District of Columbia Department of Human Resources shall conduct a comprehensive review of all regulations, policies, and  standard operating procedures under its control to ensure compliance with all local and federal laws.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>On or before March 1, 2012, and every 3 months thereafter until this review is complete, the District of Columbia Department of Human Resources shall report to the Council on the status of this review, the components that have been completed, the components that remain outstanding, and the projected timeline for completion of this project.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-115">Mar. 14, 2012, D.C. Law 19-115, § 3, 59 DCR 461</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

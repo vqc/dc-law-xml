@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 93-376">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 93-376">
   <num>93-376</num>
   <meta>
     <effective>1974-08-14</effective>
@@ -10,37 +10,1064 @@
   <container>
     <prefix>Title</prefix>
     <num>I</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|A"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1101.01">102</num>
+      <heading>Definitions.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 447, Pub. L. 93-376, title I, § 102</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title VIII, § 806, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 3-1">June 7, 1979, D.C. Law 3-1, § 3(a), 25 DCR 9454</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(a), (p), (r), (s), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 17-104">Feb. 2, 2008, D.C. Law 17-104, § 8, 54 DCR 12218</annotation>
+          <annotation doc="D.C. Law 17-231">Sept. 12, 2008, D.C. Law 17-231, § 6(a), 55 DCR 6758</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1401.</annotation>
+          <annotation>1973 Ed., § 1-1121.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 7 of Exploratory Committee Disclosure Informational Report and Contribution Prohibition Temporary Amendment Act of 2005 (<cite doc="D.C. Law 16-34">D.C. Law 16-34</cite>, October 20, 2005, law notification  52 DCR 10008).</annotation>
+          <annotation>For temporary (225 day) amendment of section, see § 7 of Exploratory Committee Regulation Temporary Amendment Act of 2007 (<cite doc="D.C. Law 17-2">D.C. Law 17-2</cite>, April 18, 2007, law notification  54 DCR 6581).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) amendment of section, see § 7 of Exploratory Committee Disclosure Informational Report and Contribution Prohibition Emergency Amendment Act of 2005 (D.C. Act 16-100, June 21, 2005,  52 DCR 6086).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 7 of Exploratory Committee Disclosure Information Report and Contribution Prohibition Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-178, October 4, 2005,  52 DCR 9076).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 6 of Exploratory Committee Regulation Emergency Amendment Act of 2007 (D.C. Act 17-13, January 29, 2007,  54 DCR 1520).</annotation>
+          <annotation>For temporary (90 day) addition of sections, see §§ 2 to 237 of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+          <annotation>For temporary (90 day) addition of section, see § 501(a) to (i) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Applicability of chapter to Law 11-144: Section 4 of <cite doc="D.C. Law 11-144">D.C. Law 11-144</cite>, the Contribution Limitation Initiative Amendment Act of 1996, provided that  D.C. Code § <cite path="§1-1101.01">1-1101.01</cite> et seq. shall apply to the act. <cite doc="D.C. Law 11-144">D.C. Law 11-144</cite> repeals § <cite path="§1-1104.01">1-1104.01</cite> and amends §§ <cite path="§1-1131.01">1-1131.01</cite>, <cite path="§1-1131.03">1-1131.03</cite>, and <cite path="§1-1104.02">1-1104.02</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>II</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|B"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1102.01">201</num>
+      <heading>Political committees.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 449, Pub. L. 93-376, title II, § 201</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title VIII, § 803, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1411.</annotation>
+          <annotation>1973 Ed., § 1-1131.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|B"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1102.02">202</num>
+      <heading>Principal campaign committee.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 450, Pub. L. 93-376, title II, § 202</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(p), (r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1412.</annotation>
+          <annotation>1973 Ed., § 1-1132.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|B"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1102.03">203</num>
+      <heading>Designation of campaign depositories; petty cash fund.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 451, Pub. L. 93-376, title II, § 203</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1413.</annotation>
+          <annotation>1973 Ed., § 1-1133.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|B"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1102.04">204</num>
+      <heading>Statement of organization of political committees.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 451, Pub. L. 93-376, title II, § 204</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 3-1">June 7, 1979, D.C. Law 3-1, § 3(b), 25 DCR 9454</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(b), (r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1414.</annotation>
+          <annotation>1973 Ed., § 1-1134.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|B"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1102.05">205</num>
+      <heading>Registration statement of candidate; depository information.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 452, Pub. L. 93-376, title II, § 205</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(p), (r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 13-91">Apr. 12, 2000, D.C. Law 13-91, § 124(a), 47 DCR 520</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1415.</annotation>
+          <annotation>1973 Ed., § 1-1135.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|B"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1102.06">206</num>
+      <heading>Reports of receipts and expenditures by political committees and candidates.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 452, Pub. L. 93-376, title II, § 206</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 3-1">June 7, 1979, D.C. Law 3-1, § 3(c), 25 DCR 9454</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(c), (q)-(s), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1416.</annotation>
+          <annotation>1973 Ed., § 1-1136.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>Section 2 of <cite doc="D.C. Law 19-33">D.C. Law 19-33</cite>, in subsec. (a), substituted “in the 7 months preceding the date on which, and in each year during which, an election is held for the office” for “in each year during which there is held an election for the office”.</annotation>
+          <annotation>Section 4(b) of <cite doc="D.C. Law 19-33">D.C. Law 19-33</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) amendment of section, see § 2 of Campaign Finance Reporting Emergency Amendment Act of 2011 (D.C. Act 19-95, July 11, 2011,  58 DCR 5818).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 2 of Campaign Finance Reporting Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-197, October 18, 2011,  58 DCR 9167).</annotation>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|B"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1102.07">207</num>
+      <heading>Reports by others than political committees and candidates.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 453, Pub. L. 93-376, title II, § 207</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1417.</annotation>
+          <annotation>1973 Ed., § 1-1137.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|B"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1102.08">208</num>
+      <heading>Formal requirements respecting reports and statements.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 454, Pub. L. 93-376, title II, § 208</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1418.</annotation>
+          <annotation>1973 Ed., § 1-1138.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|B"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1102.09">209</num>
+      <heading>Exemption for total expenses under $500.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 454, Pub. L. 93-376, title II, § 209</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(q), (r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 13-79">April 5, 2000, D.C. Law 13-79, § 2(a), 46 DCR 10460</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1419.</annotation>
+          <annotation>1973 Ed., § 1-1139.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|B"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1102.10">210</num>
+      <heading>Identification of campaign literature.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 454, Pub. L. 93-376, title II, § 210</annotation>
+          <annotation doc="D.C. Law 3-1">June 7, 1979, D.C. Law 3-1, § 3(d), 25 DCR 9454</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(s), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1420.</annotation>
+          <annotation>1973 Ed., § 1-1140.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|B"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1102.11">211</num>
+      <heading>Candidate’s liability for financial obligation incurred by political committee.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 454, Pub. L. 93-376, title II, § 211</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1421.</annotation>
+          <annotation>1973 Ed., § 1-1141.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>III</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|C"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1103.01">301</num>
+      <heading>Office of Director of Campaign Finance established; enforcement of chapter.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 454, Pub. L. 93-376, title III, § 301</annotation>
+          <annotation doc="Pub. L. 93-635">Jan. 3, 1975, 88 Stat. 2177, Pub. L. 93-635, § 12</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101,§ 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 2-139">Mar. 3, 1979, D.C. Law 2-139, § 3205(w), 25 DCR 5740</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(d), (p), (r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 5-17">Aug. 2, 1983, D.C. Law 5-17, § 6, 30 DCR 3196</annotation>
+          <annotation doc="D.C. Law 13-79">April 5, 2000, D.C. Law 13-79, § 2(b), 46 DCR 10460</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§1-636.02">1-636.02</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1431.</annotation>
+          <annotation>1973 Ed., § 1-1151.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 2(a) of District of Columbia Campaign Finance Reform and Conflict of Interest Act of 1974 Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-22">D.C. Law 11-22</cite>, June 17, 1995, law notification  42 DCR 3236).</annotation>
+          <annotation>For temporary (225 day) amendment of section, see § 2 of District of Columbia Campaign Finance Reform and Conflict of Interest Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-51">D.C. Law 11-51</cite>, September 22, 1995, law notification  42 DCR 5510).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|C"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1103.02">302</num>
+      <heading>Powers of Director.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 455, Pub. L. 93-376, title III, § 302</annotation>
+          <annotation doc="D.C. Law 2-12">June 28, 1977, D.C. Law 2-12, § 6(i), 24 DCR 1442</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(e), (r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 13-79">April 5, 2000, D.C. Law 13-79, § 2(c), 46 DCR 10460</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1432.</annotation>
+          <annotation>1973 Ed., § 1-1152.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|C"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1103.03">303</num>
+      <heading>Duties of Director.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 456, Pub. L. 93-376, title III, § 303</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(p)-(r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 13-79">April 5, 2000, D.C. Law 13-79, § 2(d), 46 DCR 10460</annotation>
+          <annotation doc="D.C. Law 13-163">Oct. 4, 2000, D.C. Law 13-163, § 2(a), 47 DCR 5812</annotation>
+          <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1061, 57 DCR 181</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1433.</annotation>
+          <annotation>1973 Ed., § 1-1153.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 2(a) of District of Columbia Campaign Finance Reform and Conflict of Interest Act of 1974 Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-22">D.C. Law 11-22</cite>, June 17, 1995, law notification  42 DCR 3236).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) amendment of section, see § 1061 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 1061 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Short Title</heading>
+          <annotation>Short title: Section 1060 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle G of title I of the act may be cited as the “Campaign Finance Electronic Signature Amendment Act of 2009”.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|C"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1103.04">304</num>
+      <heading>Assistance of Comptroller General.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 456, Pub. L. 93-376, title III, § 304</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1434.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|C"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1103.05">306</num>
+      <heading>District of Columbia Board of Elections and Ethics created; penalties; advisory opinions.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 458, Pub. L. 93-376, title III, § 306</annotation>
+          <annotation doc="Pub. L. 93-635">Jan. 3, 1975, 88 Stat. 2178, Pub. L. 93-635, § 14(a)</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title III, § 302(a), 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(f), (r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 13-163">Oct. 4, 2000, D.C. Law 13-163, § 2(b), 47 DCR 5812</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1435.</annotation>
+          <annotation>1973 Ed., § 1-1156.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 2(a) of District of Columbia Campaign Finance Reform and Conflict of Interest Act of 1974 Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-22">D.C. Law 11-22</cite>, June 17, 1995, law notification  42 DCR 3236).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>IV</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|D"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1104.01">401</num>
+      <heading>General limitations.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 459, Pub. L. 93-376, title IV, § 401</annotation>
+          <annotation doc="D.C. Law 1-16">Sept. 23, 1975, D.C. Law 1-16, § 2, 22 DCR 1987</annotation>
+          <annotation doc="D.C. Law 1-21">Oct. 10, 1975, D.C. Law 1-21, § 7(a), 22 DCR 2069</annotation>
+          <annotation doc="D.C. Law 1-27">Oct. 30, 1975, D.C. Law 1-27, § 3(a), (b), 22 DCR 2471</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title VIII, § 802, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title I, § 104, title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 3-1">June 7, 1979, D.C. Law 3-1, § 3(e), 25 DCR 9454</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(g), (r), (s), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 5-111">Sept. 26, 1984, D.C. Law 5-111, § 2(a), 31 DCR 3952</annotation>
+          <annotation doc="D.C. Law 11-144">June 13, 1996, D.C. Law 11-144, § 2, 43 DCR 2174</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1441.</annotation>
+          <annotation>1973 Ed., § 1-1161.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Applicability of chapter to Law 11-144: Section 4 of <cite doc="D.C. Law 11-144">D.C. Law 11-144</cite>, the Contribution Limitation Initiative Amendment Act of 1996, provided that  D.C. Code § <cite path="§1-1101.01">1-1101.01</cite> et seq. shall apply to the act. <cite doc="D.C. Law 11-144">D.C. Law 11-144</cite> repeals § <cite path="§1-1104.01">1-1104.01</cite> and amends §§ <cite path="§1-1131.01">1-1131.01</cite>, <cite path="§1-1131.03">1-1131.03</cite>, and <cite path="§1-1104.02">1-1104.02</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|D"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1104.03">402</num>
+      <heading>Constituent services.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 461, Pub. L. 93-376, title IV, § 402</annotation>
+          <annotation doc="D.C. Law 1-21">Oct. 10, 1975, D.C. Law 1-21, § 7(b), 22 DCR 2069</annotation>
+          <annotation doc="D.C. Law 1-27">Oct. 30, 1975, D.C. Law 1-27, § 3(c), 22 DCR 2471</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title VII, § 702, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title I, § 102(d), 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(h), (r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 7-66">Jan. 28, 1988, D.C. Law 7-66, § 2, 34 DCR 7439</annotation>
+          <annotation doc="D.C. Law 13-91">Apr. 12, 2000, D.C. Law 13-91, § 124(b), 47 DCR 520</annotation>
+          <annotation doc="D.C. Law 16-305">Apr. 24, 2007, D.C. Law 16-305, § 7, 53 DCR 6198</annotation>
+          <annotation doc="D.C. Law 18-52">Sept. 23, 2009, D.C. Law 18-52, § 2, 56 DCR 5491</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1443.</annotation>
+          <annotation>1973 Ed., § 1-1162.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>V</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|E"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1105.01">501</num>
+      <heading>Definitions.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 462, Pub. L. 93-376, title V, § 501</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title III, § 302, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title III, § 302(b)-(i), title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 2-139">Mar. 3, 1979, D.C. Law 2-139, § 3205(w), 25 DCR 5740</annotation>
+          <annotation doc="D.C. Law 3-58">Apr. 23, 1980, D.C. Law 3-58, § 2(a), 27 DCR 963</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(i), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 13-91">Apr. 12, 2000, D.C. Law 13-91, § 124(c), 47 DCR 520</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§1-636.02">1-636.02</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1451.</annotation>
+          <annotation>1973 Ed., § 1-1171.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|E"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1105.02">502</num>
+      <heading>Persons required to register.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 462, Pub. L. 93-376, title V, § 502</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title III, § 302, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1271, 57 DCR 181</annotation>
+          <annotation doc="D.C. Law 18-223">Sept. 24, 2010, D.C. Law 18-223, § 1162, 57 DCR 6242</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1452.</annotation>
+          <annotation>1973 Ed., § 1-1172.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 1802 of the Fiscal Year 2010 Balanced Budget Support Temporary Act of 2010 (<cite doc="D.C. Law 18-222">D.C. Law 18-222</cite>, September 24, 2010, law notification  57 DCR 9859).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) amendment of section, see § 1271 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 1271 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 1802 of Fiscal Year 2010 Balanced Budget Support Emergency Act of 2010 (D.C. Act 18-450, June 28, 2010,  57 DCR 5635).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 1802 of Fiscal Year 2010 Balanced Budget Support Congressional Review Emergency Act of 2010 (D.C. Act 18-531, August 6, 2010,  57 DCR 8109).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 1162 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Short Title</heading>
+          <text>Short title: Section 1270 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle BB of title I of the act may be cited as the “Campaign Finance Reform and Conflict of Interest Amendment Act of 2009”.</text>
+          <text>Short title: Section 1161 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle Q of title I of the act may be cited as the “Lobbyist Administration and Enforcement Fund Establishment Amendment Act of 2010”.</text>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|E"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1105.03">503</num>
+      <heading>Exceptions.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 462, Pub. L. 93-376, title V, § 503</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title III, § 302, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title III, § 302(j), title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(j), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1453.</annotation>
+          <annotation>1973 Ed., § 1-1173.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|E"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1105.04">504</num>
+      <heading>Registration form.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 463, Pub. L. 93-376, title V, § 504</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title III, § 302, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title III, § 302(k), title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(r), (s), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1454.</annotation>
+          <annotation>1973 Ed., § 1-1174.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|E"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1105.05">505</num>
+      <heading>Activity reports.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 463, Pub. L. 93-376, title V, § 505</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title III, § 302, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title III, § 302 (l)-(p), title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(k), (q), (r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1455.</annotation>
+          <annotation>1973 Ed., § 1-1175.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|E"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1105.06">506</num>
+      <heading>Prohibited activities.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 463, Pub. L. 93-376, title V, § 506</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title III, § 302, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title III, § 302(q), title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 13-91">Apr. 12, 2000, D.C. Law 13-91, § 124(d), 47 DCR 520</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1456.</annotation>
+          <annotation>1973 Ed., § 1-1176.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|E"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1105.07">507</num>
+      <heading>Penalties; prohibition from serving as lobbyist; citizen suits.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 464, Pub. L. 93-376, title V, § 507</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title III, § 302, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title III, § 302(r), (s), title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1457.</annotation>
+          <annotation>1973 Ed., § 1-1177.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>VI</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|F"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1106.01">601</num>
+      <heading>Conflict of interest.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 465, Pub. L. 93-376, title VI, § 601</annotation>
+          <annotation doc="Pub. L. 93-635">Jan. 3, 1975, 88 Stat. 2178, Pub. L. 93-635, § 14(b)</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title II, § 202, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title I, § 102(b), title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 2-139">Mar. 3, 1979, D.C. Law 2-139, § 3205 (w), 25 DCR 5740</annotation>
+          <annotation doc="D.C. Law 3-58">Apr. 23, 1980, D.C. Law 3-58, § 2(b), 27 DCR 963</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(p), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 13-184">Oct. 21, 2000, D.C. Law 13-184, § 2, 47 DCR 7066</annotation>
+          <annotation doc="D.C. Law 17-231">Sept. 12, 2008, D.C. Law 17-231, § 6(b), 55 DCR 6758</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§1-636.02">1-636.02</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1461.</annotation>
+          <annotation>1973 Ed., § 1-1181.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 2 of the Conflict of Interest Temporary Amendment Act of 2007 (<cite doc="D.C. Law 17-43">D.C. Law 17-43</cite>, November 24, 2007, law notification  55 DCR 2).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) amendment of section, see § 2 of Conflict of Interest Emergency Amendment Act of 2007 (D.C. Act 17-73, July 26, 2007,  54 DCR 7547).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 2 of Conflict of Interest Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-154, October 18, 2007,  54 DCR 10913).</annotation>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|F"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1106.02">602</num>
+      <heading>Disclosure of financial interest.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 467, Pub. L. 93-376, title VI, § 602</annotation>
+          <annotation doc="D.C. Law 1-21">Oct. 10, 1975, D.C. Law 1-21, § 7(c), 22 DCR 2069</annotation>
+          <annotation doc="D.C. Law 1-27">Oct. 30, 1975, D.C. Law 1-27, § 3(d), 22 DCR 2471</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title II, § 203, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title I, § 102(a), (c), title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 2-139">Mar. 3, 1979, D.C. Law 2-139, § 3205(w), 25 DCR 5740</annotation>
+          <annotation doc="D.C. Law 3-58">Apr. 23, 1980, D.C. Law 3-58,§ 2(c)-(f), 27 DCR 963</annotation>
+          <annotation doc="D.C. Law 4-23">Aug. 1, 1981, D.C. Law 4-23, § 2, 28 DCR 2616</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(l), (p)-(s), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 5-111">Sept. 26, 1984, D.C. Law 5-111, §§ 2(a), 3, 31 DCR 3952</annotation>
+          <annotation doc="D.C. Law 6-97">Mar. 25, 1986, D.C. Law 6-97,§ 23(c), 33 DCR 703</annotation>
+          <annotation doc="D.C. Law 6-192">Feb. 24, 1987, D.C. Law 6-192, § 21, 33 DCR 7836</annotation>
+          <annotation doc="D.C. Law 7-231">May 10, 1989, D.C. Law 7-231, § 6, 36 DCR 492</annotation>
+          <annotation doc="D.C. Law 8-41">Oct. 18, 1989, D.C. Law 8-41, § 2(a), 36 DCR 5758</annotation>
+          <annotation doc="D.C. Law 8-135">June 8, 1990, D.C. Law 8-135, § 3, 37 DCR 2616</annotation>
+          <annotation doc="D.C. Law 9-241">Mar. 17, 1993, D.C. Law 9-241, § 3, 40 DCR 629</annotation>
+          <annotation doc="D.C. Law 10-153">Aug. 23, 1994, D.C. Law 10-153, § 16, 41 DCR 4652</annotation>
+          <annotation doc="D.C. Law 10-255">May 16, 1995, D.C. Law 10-255, § 4, 41 DCR 5193</annotation>
+          <annotation doc="D.C. Law 13-79">April 5, 2000, D.C. Law 13-79, § 2(e), 46 DCR 10460</annotation>
+          <annotation doc="D.C. Law 13-91">Apr. 12, 2000, D.C. Law 13-91, § 124(e), 47 DCR 520</annotation>
+          <annotation doc="D.C. Law 13-283">Apr. 27, 2001, D.C. Law 13-283, § 4, 48 DCR 1917</annotation>
+          <annotation doc="D.C. Law 13-313">June 19, 2001, D.C. Law 13-313, § 6, 48 DCR 1873</annotation>
+          <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 4, 49 DCR 8140</annotation>
+          <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 25, 51 DCR 881</annotation>
+          <annotation doc="D.C. Law 16-33">Oct. 20, 2005, D.C. Law 16-33, § 4004(a), 52 DCR 7503</annotation>
+          <annotation doc="D.C. Law 16-91">Apr. 7, 2006, D.C. Law 16-91, § 128, 52 DCR 10637</annotation>
+          <annotation doc="D.C. Law 17-231">Sept. 12, 2008, D.C. Law 17-231, § 6(c), 55 DCR 6758</annotation>
+          <annotation doc="D.C. Law 18-363">Apr. 8, 2011, D.C. Law 18-363, § 3(c), 58 DCR 963</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+          <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 17, 59 DCR 6190</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§1-636.02">1-636.02</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1462.</annotation>
+          <annotation>1973 Ed., § 1-1182.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> would have substituted “Real Property Tax Appeals Commission for the District of Columbia” for “Board of Real Property Assessments and Appeals” in the introductory language of (a).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90-day) amendment of section, see § 4 of the Legal Services Clarification and Technical Emergency Amendment Act of 1999 (D.C. Act 13-203, December 8, 1999,  46 DCR 10456).</annotation>
+          <annotation>For temporary (90-day) amendment of section, see § 4 of the Legal Services Clarification and Technical Congressional Review Emergency Amendment Act of 2000 (D.C. Act 13-293, March 7, 2000,  47 DCR 2063).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 4004(a) of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005,  52 DCR 7667).</annotation>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Mayor's Orders</heading>
+          <annotation>Amendment of Organization Order No. 112, establishing Board of Appeals and Review: See Mayor’s Order 84-31, February 9, 1984.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <text>Reorganization Plan No. 3 of 1988 changed the name of the Commission from the Educational Institution Licensure Commission to the Education Licensure Commission.</text>
+          <text><cite doc="D.C. Law 7-231">D.C. Law 7-231</cite> in subsection (a) inserted “and each member of the Retirement Board”. This language was omitted from this section as codified between June, 1990, and September, 2008.</text>
+          <text>Termination of Federal Disclosure Requirements: See Pub. L. 99-573, § 6.</text>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>VI-A</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|F-i"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1106.51">651</num>
+      <heading>Prohibition on the use of District government resources for campaign related activities.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 470, Pub. L. 93-376, title VI-A, § 651</annotation>
+          <annotation doc="D.C. Law 14-36">as added Oct. 13, 2001, D.C. Law 14-36, § 2, 48 DCR 7111</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>VII</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|G"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1107.01">701</num>
+      <heading>Penalties; prosecutions.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 470, Pub. L. 93-376, title VII, § 701</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title III, § 302(t), 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 2-101">Aug. 18, 1978, D.C. Law 2-101, § 3, 25 DCR 257</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(m), (r), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1471.</annotation>
+          <annotation>1973 Ed., § 1-1191.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|G"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1107.01a">701a</num>
+      <heading>Document under oath.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 470, Pub. L. 93-376, title VII, § 701a</annotation>
+          <annotation doc="D.C. Law 4-88">as added Mar. 16, 1982, D.C. Law 4-88, § 3(n), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1471.1.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|G"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1107.02">703</num>
+      <heading>Use of surplus campaign funds.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 471, Pub. L. 93-376, title VII, § 703</annotation>
+          <annotation doc="D.C. Law 1-79">Sept. 2, 1976, D.C. Law 1-79, title VIII, § 805, 23 DCR 2050</annotation>
+          <annotation doc="D.C. Law 1-126">Apr. 23, 1977, D.C. Law 1-126, title IV, § 402, 24 DCR 2372</annotation>
+          <annotation doc="D.C. Law 3-1">June 7, 1979, D.C. Law 3-1, § 3(f), 25 DCR 9454</annotation>
+          <annotation doc="D.C. Law 4-88">Mar. 16, 1982, D.C. Law 4-88, § 3(o), (r), (s), 29 DCR 458</annotation>
+          <annotation doc="D.C. Law 13-138">July 18, 2000, D.C. Law 13-138, § 2, 47 DCR 3424</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1472.</annotation>
+          <annotation>1973 Ed., § 1-1192.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|G"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1107.03">707</num>
+      <heading>Authority of Council.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, 88 Stat. 472, Pub. L. 93-376, title VII, § 707</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1473.</annotation>
+          <annotation>1973 Ed., § 1-1193.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>VIII</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|1|11|I|H"/>
+      <reason>Repealed</reason>
+      <num codify:value="1-1108.01">801</num>
+      <heading>Limitations on honoraria and royalties.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 93-376">Aug. 14, 1974, Pub. L. 93-376, title VIII, § 801</annotation>
+          <annotation doc="D.C. Law 8-41">as added Oct. 18, 1989, D.C. Law 8-41, § 2(b), 36 DCR 5758</annotation>
+          <annotation doc="D.C. Law 15-348">Apr. 13, 2005, D.C. Law 15-348, § 201, 52 DCR 1991</annotation>
+          <annotation doc="D.C. Law 19-124">April 27, 2012, D.C. Law 19-124, § 501(d), 59 DCR 1862</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-1481.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 2 of Honoraria Temporary Amendment Act of 2002 (<cite doc="D.C. Law 14-211">D.C. Law 14-211</cite>, October 19, 2002, law notification  49 DCR 10467).</annotation>
+          <annotation>For temporary (225 day) amendment of section, see § 2 of Honoraria Temporary Amendment Act of 2003 (<cite doc="D.C. Law 15-27">D.C. Law 15-27</cite>, September 23, 2003, law notification  50 DCR 8350).</annotation>
+          <annotation>For temporary (225 day) amendment of section, see § 2 of Honoraria Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-183">D.C. Law 15-183</cite>, September 8, 2004, law notification  51 DCR 9225).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) amendment of section, see §§ 2 and 3 of Honoraria Emergency Amendment Act of 2002 (D.C. Act 14-401, June 26, 2002,  49 DCR 6529).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 2 of Honoraria Emergency Act of 2003 (D.C. Act 15-86, May 19, 2003,  50 DCR 4323).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 2 of Honoraria Congressional Review Emergency Amendment Act of 2003 (D.C. Act 15-130, July 29, 2003,  50 DCR 6843).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 2 of Honoraria Emergency Act of 2004 (D.C. Act 15-413, April 21, 2004,  51 DCR 4686).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 2 of Honoraria Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-524, August 2, 2004,  51 DCR 9136).</annotation>
+          <annotation>For temporary (90 day) repeal of section, see § 401(d) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
 </document>

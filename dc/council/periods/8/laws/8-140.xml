@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 8-140">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 8-140">
   <num type="law">8-140</num>
   <heading type="short">Liability Coverage for Child Development Homes Insurance Act of 1990</heading>
   <meta>
@@ -12,4 +12,108 @@
       <narrative>Law 8-140, the “Liability Coverage for Child Development Homes Insurance Act of 1990,” was introduced in Council and assigned Bill No. 8-160, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on March 13, 1990, and March 27, 1990, respectively. Signed by the Mayor on April 17, 1990, it was assigned Act No. 8-196 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|40"/>
+    <num codify:value="31-4001">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Insurer” means any individual, partnership, corporation, company, organization, professional association, or other business entity that issues, amends, or renews motor vehicle liability or homeowner’s liability insurance policies or contracts in the District of Columbia (“District”).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Child development home” means a child development program provided in a private residence for up to a total of 5 children and infants, with no more than 2 infants in the group. The total of 5 children and infants shall not include the children of the child development home caregiver who are 6 years of age or older if the total number of children of the child development home caregiver between the ages of 6 and 15 years of age does not exceed 3 children, and of those 3 children, no more than 2 are 10 years old or younger.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Child development program” means a program responsive to the stages of physical, emotional, social, and intellectual growth and behavior of infants or children.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Caregiver” means a person whose duties include direct care, supervision, and guidance of infants or children in a child development home.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Infant” means an individual between the ages of birth and 2 years.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Child” means an individual between the ages of 2 and 15 years.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Commissioner” means the Commissioner of the Department of Insurance, Securities, and Banking.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Person” means any individual, firm, partnership, company, corporation, trustee, or association.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-140">June 13, 1990, D.C. Law 8-140, § 2, 37 DCR 2651</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(x), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 4(y), 51 DCR 2817</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-2501.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite>, in par. (7), substituted “Commissioner of the Department of Insurance, Securities, and Banking” for “Commissioner of Insurance and Securities”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 4(y) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|40"/>
+    <num codify:value="31-4002">3</num>
+    <heading>General provisions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An insurer shall offer to any person who is a licensed caregiver pursuant to 29 DCMR 301, optional liability and comprehensive coverage for up to a total of 5 children and infants. The optional protection shall provide liability coverage for a child or infant who is injured while attending the child development home and comprehensive coverage for property damage to the child development home.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An insurer who offers motor vehicle liability insurance in the District, pursuant to Chapter 24 of this title, may offer to any policyholder who is licensed pursuant to 29 DCMR 301 as a child development home caregiver, optional personal injury protection to cover a child or infant who suffers an injury while a passenger in an automobile operated out of the insured’s activities as a child development home caregiver. The coverage required pursuant to this subsection shall be in an amount approved by the Commissioner.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Nothing in this chapter shall prohibit an insurer from denying a child development home caregiver’s application for optional insurance or denying liability coverage to an insured for an injury that results from abuse or neglect.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-140">June 13, 1990, D.C. Law 8-140, § 3, 37 DCR 2651</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(x), 44 DCR 1730</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-2502.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|40"/>
+    <num codify:value="31-4003">4</num>
+    <heading>Commissioner to establish liability coverage levels.</heading>
+    <text>For purposes of this chapter, the Commissioner shall establish liability coverage levels in rulemaking pursuant to the provisions of subchapter I of Chapter 5 of Title 2.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-140">June 13, 1990, D.C. Law 8-140, § 4, 37 DCR 2651</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10, 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 34, 45 DCR 745</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-2503.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,10 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 45-2-ch12">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 45-2-ch12">
+  <heading/>
   <meta>
     <effective>1878-02-04</effective>
     <cites>
-        <law congress="45" session="2" chapter="12"/>
+      <law congress="45" session="2" chapter="12"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§1-107" path="|1|1|I"/>
+    <num codify:value="1-106">3</num>
+    <heading>Records of former corporations and of levy court made property of District of Columbia.</heading>
+    <text>All records, books, files, maps, plats, surveys, drawings, writings, and other papers, of the late corporations of Washington and Georgetown, or of the levy court of the District of Columbia, or made by persons in the employment or service of either of them, or of the District of Columbia, in the course of such employment or service, or which shall be so made after February 4, 1878, are, and shall be, the property of the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Feb. 4, 1878, 20 Stat. 23, ch. 12, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-106.</annotation>
+        <annotation>1973 Ed., § 1-106.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

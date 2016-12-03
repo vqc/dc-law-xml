@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 94-306">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 94-306">
   <num>94-306</num>
   <meta>
     <effective>1976-06-04</effective>
@@ -7,4 +7,21 @@
       <law session="94" lawId="306"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§9-1107.04" path="|9|11|IV"/>
+    <num codify:value="9-1107.02">4</num>
+    <heading>Authority of Council to enact acts adopting Compact amendments.</heading>
+    <text>The Council of the District of Columbia shall have authority to enact any act adopting on behalf of the District of Columbia amendments to the Washington Metropolitan Area Transit Regulation Compact, but in no case shall any such amendment become effective until after it has been approved by Congress.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 94-306">June 4, 1976, 90 Stat. 675, Pub. L. 94-306, § 4</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2432.</annotation>
+        <annotation>1973 Ed., § 1-1431-1.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 91-452">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 91-452">
   <num>91-452</num>
   <meta>
     <effective>1970-10-15</effective>
@@ -10,5 +10,22 @@
   <container>
     <prefix>Title</prefix>
     <num>II</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§22-2722" path="|22|27|I"/>
+      <reason>Repealed</reason>
+      <num codify:value="22-2721">256</num>
+      <heading>Granting immunity to witnesses.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 15, 1970, 84 Stat. 931, Pub. L. 91-452, title II, § 256</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 22-2721.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
 </document>

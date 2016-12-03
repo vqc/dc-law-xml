@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 5-187">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 5-187">
   <num type="law">5-187</num>
   <heading type="short">District of Columbia Comprehensive Plan Act of 1984 Land Use Element Amendment Act of 1984</heading>
   <meta>
@@ -12,4 +12,247 @@
       <narrative>Law 5-187, the “District of Columbia Comprehensive Plan Act of 1984 Land Use Element Amendment Act of 1984,” was introduced in Council and assigned Bill No. 5-507, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on December 4, 1984 and December 18, 1984, respectively. Signed by the Mayor on January 11, 1985, it was assigned Act No. 5-252 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§1-306.04" path="|1|3|III-A|A"/>
+    <num codify:value="1-306.03">4</num>
+    <heading>Mayor to propose ward plans; updated plans; public hearing; transmission to Council for adoption.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor shall prepare proposed small area action plans for selected geographical areas that require more specific land use analysis to incorporate the broadest range of planning techniques and solutions practical to achieve the District’s goals and objectives. The proposed small area action plans may include specific zoning recommendations, capital improvements requirements, financing strategies, special tax, design, or other regulatory recommendations, and implementation techniques necessary for the realization of objectives and policies of the Comprehensive Plan.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Mayor shall make copies of each proposed small area action plan available to each affected Advisory Neighborhood Commission and make ample copies of each proposed small area plan available to the Council and the public. Each proposed small area action plan shall include small area maps that depict land use policies at the small area level that are not inconsistent with the adopted generalized District-wide land use maps or approved ward plans.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Mayor shall hold a public hearing on each proposed small area action plan in the appropriate area, not less than 30 days after the publication of the proposed small area action plan and not more than 90 days after the publication of the proposed small area action plan.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Not more than 60 days after the completion of the public hearing required by this subsection, the Mayor shall transmit the revised small area action plan to the Council, with a proposed resolution, for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. The transmission shall include copies of the Mayor’s public hearing records, and an executive summary that identifies the differences, and the rationale for the differences, between the revised small area action plan and the proposed small area action plan that had been the subject of a public hearing. If the Council does not approve or disapprove the revised small area action plan, in whole or in part, by resolution within this 45-day review period, the revised small area plan shall be deemed approved. Once approved, the small area action plan shall provide supplemental guidance to the Zoning Commission and other District agencies in carrying out the policies of the Comprehensive Plan.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Small area action plans shall be prepared for selected geographical areas, including, but not limited to, the following areas:</text>
+        <para>
+          <num>(A)</num>
+          <text>Each of the special treatment areas, housing opportunity areas, and development opportunity areas that are designated on the enacted District-wide generalized land use maps to implement the policies established for these areas in the Land Use Element of the Comprehensive Plan;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Mount Pleasant area, after studying the following proposed policies for this area:</text>
+          <para>
+            <num>(i)</num>
+            <text>Support creative and multicultural expression through displays, performances, and festivals;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Maintain and enhance the character of the neighborhood by encouraging creative cultural design (including special-merit design) while protecting historical landmarks;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Promote additional low-income and moderate-income housing;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Encourage small-business incubators and plazas for licensed market vendors in order to increase business opportunities for residents; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Support low-impact mixed-use of residential space for multicultural arts, crafts, and other professional and consulting services;</text>
+          </para>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The Southwest Urban Renewal Area and other urban renewal areas to ensure that appropriate zoning plans for these areas continue to be developed in consultation with affected citizens, which shall be implemented in phases immediately upon the termination of the various sections of the urban renewal plans; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The Capitol Hill business district, the Eastern Market metrorail station area, and the Potomac Avenue metrorail station area, to implement policies for these areas set forth in the Ward 6 Plan.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-187">Mar. 16, 1985, D.C. Law 5-187, § 4, 32 DCR 873</annotation>
+        <annotation doc="D.C. Law 8-129">May 23, 1990, D.C. Law 8-129, § 3(b)(1), 37 DCR 55</annotation>
+        <annotation doc="D.C. Law 10-193">Oct. 6, 1994, D.C. Law 10-193, § 3(b)(1), 41 DCR 5536</annotation>
+        <annotation doc="D.C. Law 11-110">Apr. 18, 1996, D.C. Law 11-110, § 2(b), 43 DCR 530</annotation>
+        <annotation doc="D.C. Law 12-275">Apr. 27, 1999, D.C. Law 12-275, § 3(a), (b), 46 DCR 1441</annotation>
+        <annotation doc="D.C. Law 13-91">Apr. 12, 2000, D.C. Law 13-91, § 101, 47 DCR 520</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>National capital planning commission, see § <cite path="§2-1002">2-1002</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-301.64">1-301.64</cite>.</annotation>
+        <annotation>1981 Ed., § 1-247.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite>, in the first sentence of subsec. (c)(1), substituted “shall” for “may”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Extension of Review Period for the Rhode Island Avenue Small Area Action Plan Emergency Amendment Act of 2011 (D.C. Act 19-15, February 15, 2011,  58 DCR 1532).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2 of the Extension of Review Period for the Southwest Small Area Plan Emergency Amendment Act of 2015 (D.C. Act 21-75, June 16, 2015,  62 DCR 8533, 21 DCSTAT 1465).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of District elements of Comprehensive Plan for the National Capital, see Historical and Statutory Notes following § <cite path="§1-306.02">1-306.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Resolutions</heading>
+        <text>Resolution 14-460, the “Takoma Central District Plan Approval Resolution of 2002”, was approved effective June 21, 2002.</text>
+        <text>Resolution 15-244, the “Southwest Waterfront Plan Approval Resolution of 2003”, was approved effective October 7, 2003.</text>
+        <text>Resolution 15-460, the “H Street NE Strategic Development Plan Approval Resolution of 2004”, was approved effective February 17, 2004.</text>
+        <text>Resolution 16-685, the “Anacostia Transit Area Strategic Investment and Development Plan Approval Resolution of 2006”, was approved effective July 20, 2006.</text>
+        <text>Resolution 16-686, the “Georgia Avenue-Petworth Metro Station Area and Corridor Plan Approval Resolution of 2006”, was approved effective July 20, 2006.</text>
+        <text>Resolution 16-687, the “Convention Center Area Strategic Development Plan Approval Resolution of 2006”, was approved effective July 20, 2006.</text>
+        <text>Resolution 16-922, the “Barry Farm/Park Chester Nade Road Redevelopment Plan Approval Resolution of 2006”, was approved effective December 19, 2006.</text>
+        <text>Resolution 16-923, the “Lincoln Heights Richardson Dwellings New Communities Initiative Revitalization Plan Approval Resolution of 2006”, was approved effective December 19, 2006.</text>
+        <text>Resolution 17-538, the “Park Morton Redevelopment Initiative Plan Approval Resolution of 2008”, was approved effective February 19, 2008.</text>
+        <text>Resolution 18-336, the “Chinatown Cultural Development Small Area Action Plan Approval Resolution of 2009”, was approved effective December 15, 2009.</text>
+        <text>Resolution 18-424, the “Bellevue Small Area Action Plan Approval Resolution of 2010”, was approved effective March 16, 2010.</text>
+        <text>Resolution 18-679, the “Mount Pleasant Street Small Area Action Plan Approval Resolution of 2010”, was approved effective December 7, 2010.</text>
+        <text>Resolution 19-96, the “Rhode Island Avenue Small Area Action Plan Approval Resolution of 2011”, was approved effective May 3, 2011.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Extension of statutory deadline for preparation of draft ward plans: Pursuant to Resolution 6-580, the “Draft Ward Plans Emergency Declaration Resolution of 1986,” effective March 11, 1986, the Council determined that emergency circumstances made it necessary that the Draft Ward Plans Emergency Amendment Act of 1986 be adopted after a single reading to extend by 3 months the statutory deadline by which the Mayor is required to prepare draft ward plans.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|III-A|A"/>
+    <num codify:value="1-306.06">6</num>
+    <heading>Review of building, construction, or public space permits.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall, in the course of the interagency review of a development project that is subject to the Large Tract Review Procedures of the Office of Planning (10 DCMR § 2300 et seq.), consider whether the issuance of a building or construction permit is inconsistent with the Land Use Element of the Comprehensive Plan. If the Mayor finds that the issuance of a permit is inconsistent with the Land Use Element of the Comprehensive Plan, but consistent with zoning, the Mayor shall defer issuance of the permit, and within 60 days, propose amendments to the zoning regulations or maps to eliminate the inconsistency of the zoning regulations with the Land Use Element of the Comprehensive Plan. Nothing in this subsection shall be construed to permit the issuance of a building or construction permit that is inconsistent with zoning. The government issuance of public space permits shall also not be inconsistent with the Comprehensive Plan.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If the Mayor finds that the issuance of any building or construction permit, which is not subject to subsection (a) of this section solely because of insufficient commercial square footage, would be inconsistent with the Land Use Element of the Plan, but consistent with zoning, the Mayor may defer the decision to issue the requested permit and, if he defers he shall propose, within 60 days, amendments to the zoning regulations or maps to eliminate any inconsistency of the zoning regulations with the Land Use Element of the Plan. This subsection shall apply only to the construction of new commercial buildings that are not low density commercial buildings.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>When a major new building proposed for a college or university campus, and included in its campus plan, is instead moved off campus, the college or university must submit the plans for the review and approval of the Board of Zoning Adjustment as a specific amendment to its campus plan, limited to review of the change affecting that specific site, before the college or university may substitute another major new building for that campus plan site. For purposes of this subsection, a major new building is defined as one specifically identified in the campus plan. Further, in order for the community to know as quickly as possible the substitute plans for the site, the review and approval of the new plans are to be done on an expedited basis. If the campus plan site is to remain vacant, or if the existing uses on that site are to remain, then the college or university is required to provide each affected Advisory Neighborhood Commission with written notice of that decision within 30 days of the college’s or university’s decision for movement. In such event, no further review by the Board of Zoning and Adjustment is required.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-187">Mar. 16, 1985, D.C. Law 5-187, § 6</annotation>
+        <annotation doc="D.C. Law 8-129">as added May 23, 1990, D.C. Law 8-129, § 3(b)(3), 37 DCR 55</annotation>
+        <annotation doc="D.C. Law 10-193">Oct. 6, 1994, D.C. Law 10-193, § 3(b)(2), 41 DCR 5536</annotation>
+        <annotation doc="D.C. Law 10-235">Mar. 21, 1995, D.C. Law 10-235, § 2, 42 DCR 30</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-301.67">1-301.67</cite>.</annotation>
+        <annotation>1981 Ed., § 1-249.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of District elements of Comprehensive Plan for the National Capital, see Historical and Statutory Notes following § <cite path="§1-306.02">1-306.02</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|III-A|A"/>
+    <num codify:value="1-306.07">7</num>
+    <heading>Zoning conformity.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided in paragraphs (2), (3), and (4) of this subsection, the government shall be subject to zoning.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any governmental land uses that were either existent or substantially planned, documented, and invested in prior to May 23, 1990, shall not be subject to zoning.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The use of government-owned property on Lot 276 in Square 1282, which is located at 3050 R Street, N.W., as a residential treatment and special education facility for not more than 24 emotionally disturbed children, ages 6 to 12 years, and as a treatment and special education facility for not more than 15 emotionally disturbed children, ages 6-12, who do not reside at the facility, shall not be subject to zoning.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The government’s use of property on the former site of the United States Naval Air Station communications facility located in the northeast corner of the east campus of Saint Elizabeths Hospital as a facility to send and receive 911 or other governmental emergency communications shall not be subject to zoning.  Any governmental use of this property for other purposes or any non-governmental use of this property shall be subject to zoning or review and approval by the Council.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall within 16 months of April 8, 2011, propose amendments to the zoning regulations or maps to eliminate any inconsistency of the zoning regulations with the Land Use Element of the Comprehensive Plan.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-187">Mar. 16, 1985, D.C. Law 5-187, § 7</annotation>
+        <annotation doc="D.C. Law 8-129">as added May 23, 1990, D.C. Law 8-129, § 3(b)(3), 37 DCR 55</annotation>
+        <annotation doc="D.C. Law 10-193">Oct. 6, 1994, D.C. Law 10-193, § 3(b)(3), 41 DCR 5536</annotation>
+        <annotation doc="D.C. Law 10-235">Mar. 21, 1995, D.C. Law 10-235, §§ 2(l), 4(b), 42 DCR 30</annotation>
+        <annotation doc="D.C. Law 12-275">Apr. 27, 1999, D.C. Law 12-275, § 3(c), 46 DCR 1441</annotation>
+        <annotation doc="D.C. Law 16-300">Mar. 8, 2007, D.C. Law 16-300, § 4, 54 DCR 924</annotation>
+        <annotation doc="D.C. Law 17-23">Oct. 18, 2007, D.C. Law 17-23, § 2, 54 DCR 8009</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 171, 56 DCR 1117</annotation>
+        <annotation doc="D.C. Law 18-361">Apr. 8, 2011, D.C. Law 18-361, § 202, 58 DCR 908</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 8, 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-301.68">1-301.68</cite>.</annotation>
+        <annotation>1981 Ed., § 1-250.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-300">D.C. Law 16-300</cite>, in subsec. (b), substituted “March 8, 2007” for “April 27, 1999”.</annotation>
+        <annotation><cite doc="D.C. Law 17-23">D.C. Law 17-23</cite>, in subsec. (a)(1), substituted “(4), and (5)” for “and (4)”; and added subsec. (a)(5), which read as follows: “(5) The government’s use of the parking structures that will provide approximately 1,325 parking spaces on areas commonly known as ‘parcel A’ (adjacent to South Capitol Street and N Street, S.E.), ‘parcel B’ (adjacent to N Street and First Street, S.E.), and ‘parcel C’ (adjacent to Potomac Avenue and South Capitol Street, S.E.) within the ballpark site, as defined under § <cite path="§10-1601.05">10-1601.05</cite>(a)(2), or ballpark, as defined under § <cite path="§47-2002.05">47-2002.05</cite>(a)(1)(A), shall not be subject to zoning.”</annotation>
+        <annotation>The amendments to this section made by <cite doc="D.C. Law 17-23">D.C. Law 17-23</cite> expired on December 31, 2008, pursuant to section 3 of <cite doc="D.C. Law 17-23">D.C. Law 17-23</cite>.</annotation>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in subsec. (b).</annotation>
+        <annotation><cite doc="D.C. Law 18-361">D.C. Law 18-361</cite>, in subsec. (b), substituted “April 8, 2011” for “March 8, 2007”.</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> validated the date change made by <cite doc="D.C. Law 18-361">D.C. Law 18-361</cite> in (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Comprehensive Plan Land Use Antenna Exemption Temporary Amendment Act of 1998 (<cite doc="D.C. Law 12-218">D.C. Law 12-218</cite>, April 13, 1999, law notification  46 DCR 3840).</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 16-251">D.C. Law 16-251</cite>, in subsec. (a), in par. (1), substituted “(4), and (5)” for “and (4)”, and added par. (5) to read as follows: “(5) The government’s use of the parking structures that will provide approximately 1,225 parking spaces on areas commonly known as ‘parcel A’ (adjacent to South Capitol Street and N Street, S.E.), ‘parcel B’ (adjacent to N Street and First Street, S.E.), and ‘parcel C’ (adjacent to Potomac Avenue and South Capitol Street, S.E.) within the Ballpark Site, as defined under section 105(a)(2) of the Ballpark Omnibus Financing and Revenue Act of 2004, effective April 8, 2005 (<cite doc="D.C. Law 15-320">D.C. Law 15-320</cite>; D.C. Official Code § <cite path="§10-1601.05">10-1601.05</cite>(a)(2)), or Ballpark as defined under D.C. Official Code § <cite path="§47-2002.05">47-2002.05</cite>(a)(1)(A), shall not be subject to zoning.”</annotation>
+        <annotation>Section 3 of <cite doc="D.C. Law 16-251">D.C. Law 16-251</cite> provided: “This act shall expire on the earlier of the completion of the construction in 2006 through 2008 of the parking structures on the Ballpark Site or December 31, 2008.”</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 16-251">D.C. Law 16-251</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2 of the Comprehensive Plan Land Use Antenna Exemption Emergency Amendment Act of 1998 (D.C. Act 12-514, December 9, 1998,  46 DCR 1).</annotation>
+        <annotation>For temporary (90-day) amendment of section, see § 2 of the Comprehensive Plan Land Use Georgetown Flea Market Exemption Emergency Amendment Act of 1999 (D.C. Act 13-253, January 27, 2000,  47 DCR 827).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Ballpark Parking Completion Emergency Amendment Act of 2006 (D.C. Act 16-535, December 4, 2006,  53 DCR 9850).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of District elements of Comprehensive Plan for the National Capital, see Historical and Statutory Notes following § <cite path="§1-306.02">1-306.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 17-23</text>
+        <text>Section 3 of <cite doc="D.C. Law 17-23">D.C. Law 17-23</cite> provided:</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>“This act shall expire on the earlier of the completion of the construction in 2006 through 2008 of the parking structures, including the issuance of a certificate of occupancy for such structures, on the Ballpark Site or December 31, 2008.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

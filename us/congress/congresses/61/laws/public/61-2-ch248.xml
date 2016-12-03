@@ -1,10 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 61-2-ch248">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 61-2-ch248">
+  <heading/>
   <meta>
     <effective>1910-05-18</effective>
     <cites>
-        <law congress="61" session="2" chapter="248"/>
+      <law congress="61" session="2" chapter="248"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§31-208" path="|31|2"/>
+    <num codify:value="31-207">1</num>
+    <heading>Required annual reports of Commissioner — Publication and distribution.</heading>
+    <text>After May 18, 1910, the annual reports of the Commissioner of Insurance and Securities [Commissioner of the Department of Insurance, Securities, and Banking] shall be printed and bound in 1 volume, and shall be ready for distribution not later than the 1st day of the next regular session of Congress thereafter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 18, 1910, 36 Stat. 379, ch. 248, § 1</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(e), 44 DCR 1730</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Hospital and medical services corporations, applicability of this section, see § <cite path="§31-3503">31-3503</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-3503">31-3503</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-107.</annotation>
+        <annotation>1973 Ed., § 35-107.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-201">31-201</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§1-323.03" path="|1|3|X"/>
+    <num codify:value="1-323.02">1</num>
+    <heading>Illustrations in annual reports prohibited unless authorized by Mayor.</heading>
+    <text>Hereafter no department, board, office, or agency of the government of the District of Columbia shall include any illustration in any annual report prepared by it unless such illustration be authorized under order or regulation approved by the Mayor of the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 18, 1910, 36 Stat. 381, ch. 248, § 1</annotation>
+        <annotation doc="Pub. L. 86-101">July 21, 1959, 73 Stat. 223, Pub. L. 86-101, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-333.</annotation>
+        <annotation>1973 Ed., § 1-239.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§9-401.13" path="|9|4|I"/>
+    <num codify:value="9-401.12">1</num>
+    <heading>Minor changes in roadway width.</heading>
+    <text>The Mayor of the District of Columbia is authorized to change any roadway width by an amount not in excess of 1 foot whenever hereafter he considers the same necessary and advisable in connection with the resurfacing or other improvement of the street.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 18, 1910, 36 Stat. 387, ch. 248, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Highway plans, width restrictions, see § <cite path="§9-103.01">9-103.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-619.</annotation>
+        <annotation>1973 Ed., § 7-613a.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

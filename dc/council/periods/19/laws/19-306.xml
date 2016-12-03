@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 19-306">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 19-306">
   <num type="law">19-306</num>
   <heading type="short">Portable Electronics Insurance Amendment Act of 2012</heading>
   <meta>
@@ -12,4 +12,344 @@
       <narrative>Law 19-306, the “Portable Electronics Insurance Amendment Act of 2012,” was introduced in Council and assigned Bill No. 19-986. The Bill was adopted on first and second readings on December 4, 2012, and December 18, 2012, respectively. Signed by the Mayor on February 5, 2013, it was assigned Act No. 19-673 and transmitted to Congress for its review. D.C. Law 19-306 became effective on May 1, 2013.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|50C"/>
+    <num codify:value="31-5051.01">101</num>
+    <heading>Definitions.</heading>
+    <text>For purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Commissioner” means the Commissioner of the Department of Insurance, Securities, and Banking.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Customer” means a person who purchases portable electronics or services.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“District” means the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Enrolled customer” means a customer who elects coverage under a portable electronics insurance policy issued to a vendor of portable electronics.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Location” means any physical location in the District or any website, call center site, or similar location directed to residents of the District.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Portable electronics” means electronic devices that are portable in nature, their accessories and services related to the use of the device.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <para>
+        <num>(A)</num>
+        <text>“Portable electronics insurance” means insurance providing coverage for the repair or replacement of portable electronics, which may provide coverage for portable electronics against any one or more of the following causes of loss:</text>
+        <para>
+          <num>(i)</num>
+          <text>Loss;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Theft;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Inoperability due to mechanical failure;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Malfunction; or</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Damage or other similar causes of loss.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The term “portable electronics insurance” does not include:</text>
+        <para>
+          <num>(i)</num>
+          <text>A service contract or extended warranty providing coverage limited to the repair, replacement, or maintenance of property for the operational or structural failure of property due to a defect in materials, workmanship, accidental damage from handling, power surges, or normal wear and tear;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>A policy of insurance covering a seller’s or a manufacturer’s obligations under a warranty; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>A homeowner’s, renter’s, private passenger automobile, commercial, multi-peril, or similar policy.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Portable electronics transaction” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>The sale or lease of portable electronics by a vendor to a customer; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The sale of a service related to the use of portable electronics by a vendor to a customer.</text>
+      </para>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Supervising entity” means a business entity that is a licensed insurer or insurance producer that is appointed by an insurer to supervise the administration of a portable electronics insurance program.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Vendor” means a person in the business of engaging in portable electronics transactions directly or indirectly.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-306">May 1, 2013, D.C. Law 19-306, § 101, 60 DCR 2746</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|50C"/>
+    <num codify:value="31-5051.02">102</num>
+    <heading>License requirements; training; sale of plans.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A vendor is required to hold a limited-lines license to sell or offer coverage under a policy of portable electronics insurance.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>A limited-lines license issued under this section shall authorize any employee or authorized representative of the vendor to sell or offer coverage under a policy of portable electronics insurance to a customer at each location at which the vendor engages in portable electronics transactions and such employee or authorized representative shall not be subject to licensure as an insurance producer; provided, that the insurer issuing the portable electronics insurance either directly supervises or appoints a supervising entity to supervise the administration of the training program, including development of a training program, for employees and authorized representatives of the vendors.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>The training required by this subsection shall comply with the following requirements:</text>
+          <para>
+            <num>(i)</num>
+            <text>The training shall be provided to employees and authorized representatives of vendors who are directly engaged in the activity of selling or offering portable electronics insurance;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The training may be provided in electronic form; provided, that, if conducted in an electronic form, the supervising entity shall implement a supplemental education program regarding the portable electronics insurance product that is conducted and overseen by licensed employees of the supervising entity; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Each employee and authorized representative shall receive basic instruction about the portable electronics insurance offered to customers and the disclosures required under subsection (d) of this section.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The training provided pursuant to this subsection shall not be subject to the prior approval requirement of § <cite path="§31-1131.05a">31-1131.05a</cite>(b).</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No employee or authorized representative of a vendor of portable electronics shall advertise, represent, or otherwise hold himself or herself out as a non-limited lines licensed insurance producer.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>At every location where portable electronics insurance is offered to customers, brochures or other written materials must be made available to a prospective customer that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Disclose that portable electronics insurance may provide a duplication of coverage already provided by a customer’s homeowner’s insurance policy, renter’s insurance policy, or other source of coverage;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>State that the enrollment by the customer in a portable electronics insurance program is not required in order to purchase or lease portable electronics or services;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Summarize the material terms of the insurance coverage, including:</text>
+        <para>
+          <num>(A)</num>
+          <text>The identity of the insurer;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The identity of the supervising entity;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The amount of any applicable deductible and how it is to be paid;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Benefits of the coverage; and</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Key terms and conditions of coverage, such as whether portable electronics may be repaired or replaced with similar make and model reconditioned or non-original manufacturer parts or equipment;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Summarize the process for filing a claim, including a description of how to return portable electronics and the maximum fee applicable in the event the customer fails to comply with any equipment return requirements; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>State that an enrolled customer may cancel enrollment for coverage under a portable electronics insurance policy at any time and the person paying the premium shall receive a refund of any applicable unearned premium.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Notwithstanding any other provision of law, employees or authorized representatives of a vendor of portable electronics shall not be compensated based primarily on the number of customers enrolled for portable electronics insurance coverage but may receive compensation for activities under the limited-lines license that is incidental to their overall compensation.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The supervising entity appointed to supervise a vendor’s portable electronics insurance program shall maintain a registry of vendor locations that are authorized to sell or solicit portable electronics insurance coverage in the District. Upon request by the Commissioner and with 10 days notice to the supervising entity, the registry shall be open to inspection and examination by the Commissioner during regular business hours of the supervising entity.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Applications for licensure under this section shall be made by a vendor in accordance with § <cite path="§31-1131.06">31-1131.06</cite> for residents of the District and § <cite path="§31-1131.08">31-1131.08</cite> for non-residents. Information regarding a vendor’s officers, directors, or shareholders submitted in connection with a vendor’s application for licensure shall be limited to an employee or officer of the vendor that is designated by the applicant as the person responsible for the vendor’s compliance with the requirements of this section; provided, that if the vendor derives more than 50% of its revenue from the sale of portable electronics insurance, the information shall be provided for all officers, directors, and shareholders of record having beneficial ownership of 10% or more of any class of securities registered under the federal securities law.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-306">May 1, 2013, D.C. Law 19-306, § 102, 60 DCR 2746</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|50C"/>
+    <num codify:value="31-5051.03">103</num>
+    <heading>Billing and collection of premiums.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Charges for portable electronics insurance coverage may be billed and collected by the vendor of portable electronics. Any charge to the enrolled customer for coverage that is not included in the cost associated with the purchase or lease of portable electronics or related services shall be separately itemized on the enrolled customer’s bill. If the portable electronics insurance coverage is included with the purchase or lease of portable electronics or related services, the vendor shall clearly and conspicuously disclose to the enrolled customer that the portable electronics insurance coverage is included with the portable electronics or related services.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Vendors billing and collecting charges for portable electronics insurance coverage shall not be required to maintain funds collected in a segregated account; provided, that the vendor is authorized by the insurer to hold the funds in an alternative manner and remits the amounts to the supervising entity within 60 days of receipt. All funds received by a vendor from an enrolled customer for the sale of portable electronics insurance shall be considered funds held in trust by the vendor in a fiduciary capacity for the benefit of the insurer.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Vendors may receive compensation for billing and collection services.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-306">May 1, 2013, D.C. Law 19-306, § 103, 60 DCR 2746</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|50C"/>
+    <num codify:value="31-5051.04">104</num>
+    <heading>Termination and modification of coverage.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Notwithstanding any other provision of law:</text>
+      <para>
+        <num>(1)</num>
+        <text>An insurer may terminate or otherwise change the terms and conditions of a policy of portable electronics insurance only upon providing the policyholder and enrolled customers with at least 30 days notice.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the insurer changes the terms and conditions, then the insurer shall provide the vendor policyholder with a revised policy or endorsement and each enrolled customer with a revised certificate, endorsement, updated brochure, or other evidence indicating that a change in the terms and conditions has occurred and a summary of material changes.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Notwithstanding paragraph (1) of this subsection, an insurer may terminate an enrolled customer’s enrollment under a portable electronics insurance policy upon 15 days notice for discovery of fraud or material misrepresentation in obtaining coverage or in the presentation of a claim under the policy.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Notwithstanding paragraph (1) of this subsection, an insurer may immediately terminate an enrolled customer’s enrollment under a portable electronics insurance policy:</text>
+        <para>
+          <num>(A)</num>
+          <text>For nonpayment of premium;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>If the enrolled customer ceases to have an active service with the vendor of portable electronics; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>If an enrolled customer exhausts the aggregate limit of liability, if any, under the terms of the portable electronics insurance policy and the insurer sends notice of termination to the enrolled customer within 30 days after exhaustion of the limit; provided, that if notice is not timely sent, enrollment shall continue notwithstanding the aggregate limit of liability until the insurer sends notice of termination to the enrolled customer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Where a portable electronics insurance policy is terminated by a policyholder, the policyholder shall mail or deliver written notice to each enrolled customer advising the enrolled customer of the termination of the policy and the effective date of termination. The written notice shall be mailed or delivered to the enrolled customer at least 30 days before the termination.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>Whenever notice or correspondence with respect to a policy of portable electronics insurance is required pursuant to this section or is otherwise required by law, it shall be in writing and sent within the notice period, if any, specified within the statute or regulation requiring the notice or correspondence. Notwithstanding any other provision of law, notices and correspondence may be sent either by mail or by electronic means as set forth in this subsection.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the notice or correspondence is mailed, it shall be sent to the vendor of portable electronics at the vendor’s mailing address specified for such purpose and to its affected enrolled customer’s last known mailing address on file with the insurer. The insurer or vendor of portable electronics, as the case may be, shall maintain proof of mailing in a form authorized or accepted by the United States Postal Service or other commercial mail delivery service.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the notice or correspondence is sent by electronic means, it shall be sent to the vendor of portable electronics at the vendor’s electronic mail address specified for such purpose and to its affected enrolled customer’s last known electronic mail address as provided by each enrolled customer to the insurer or vendor of portable electronics, as the case may be. For purposes of this subsection, an enrolled customer’s provision of an electronic mail address to the insurer or vendor of portable electronics, as the case may be, shall be deemed consent to receive notices and correspondence by electronic means as long as disclosure to that effect is provided to the customer. The insurer or vendor of portable electronics, as the case may be, shall maintain proof that the notice or correspondence was sent.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Notice or correspondence required by this section or otherwise required by law may be sent on behalf of an insurer or vendor, as the case may be, by the supervising entity appointed by the insurer.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-306">May 1, 2013, D.C. Law 19-306, § 104, 60 DCR 2746</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|50C"/>
+    <num codify:value="31-5051.05">105</num>
+    <heading>Penalties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A vendor shall report any violation of this chapter to the Commissioner within 30 days of discovery of the violation by the vendor.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If a vendor of portable electronics or its employee or authorized representative violates any provision of this chapter, the Commissioner may:</text>
+      <para>
+        <num>(1)</num>
+        <text>After notice and hearing, impose fines not to exceed $2,500 per violation or a $10,000 maximum fine in the aggregate for such conduct; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>After notice and hearing, impose other penalties that the Commissioner considers necessary and reasonable to carry out the purpose of this chapter, including:</text>
+        <para>
+          <num>(A)</num>
+          <text>Suspending the privilege of transacting portable electronics insurance pursuant to this section at specific business locations where violations have occurred; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Suspending or revoking the ability of individual employees or authorized representatives to act under the limited lines license.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-306">May 1, 2013, D.C. Law 19-306, § 105, 60 DCR 2746</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|50C"/>
+    <num codify:value="31-5051.06">106</num>
+    <heading>Rules.</heading>
+    <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], may issue rules to implement the provisions of this chapter. The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 45-day review period, the proposed rules shall be deemed disapproved.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-306">May 1, 2013, D.C. Law 19-306, § 106, 60 DCR 2746</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 14-50">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 14-50">
   <num type="law">14-50</num>
   <heading type="short">American Sign Language Recognition Act of 2001</heading>
   <meta>
@@ -12,4 +12,126 @@
       <narrative>Law 14-50, the “American Sign Language Recognition Act of 2001”, was introduced in Council and assigned Bill No. 14-38, which was referred to the Committee on Education, Libraries and Recreation. The Bill was adopted on first and second readings on June 26, 2001, and July 10, 2001, respectively. Signed by the Mayor on July 26, 2001, it was assigned Act No. 14-129 and transmitted to both Houses of Congress for its review. D.C. Law 14-50 became effective on October 26, 2001.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24A"/>
+    <num codify:value="38-2431">2</num>
+    <heading>Findings.</heading>
+    <para>
+      <num>(a)</num>
+      <text>American Sign Language (“ASL”) is one of the top 4 widely used languages in the United States and Canada.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The District of Columbia has over 20,000 deaf and hard of hearing residents, many of whom use ASL as their primary language.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>ASL has met the accepted linguistic criteria to qualify as a legitimate language in that it has a system of arbitrary symbols, grammatical signals, syntax, has a community of users, and it has undergone historical changes.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Two-thirds of state legislatures in the United States recognize and accept ASL as a bona fide language.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-50">Oct. 26, 2001, D.C. Law 14-50, § 2, 48 DCR 7952</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24A"/>
+    <num codify:value="38-2432">3</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“American Sign Language” or “ASL” means a visual language that is separate and distinct from English and other languages, and uses the hands, arms, facial markers, and body movements to convey grammatical information.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“ASLTA” means the American Sign Language Teachers Association.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Deaf” means the inability to hear or understand oral communication, with or without the assistance of amplification devices.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Deaf people” means persons who use ASL as their primary language to communicate.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Hard of hearing” means permanent hearing loss which is severe enough to necessitate the use of amplification devices to hear oral communication.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Professional certification” means a teacher has met the ASLTA professional level certification requirements specified in the standards section of the ASLTA Certification Procedures and Standards.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Provisional certification” means a teacher has met the minimum ASLTA provisional level certification requirements specified in the standards section of the ASLTA Certification Procedures and Standards.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Qualified certification” means a teacher has met the ASLTA qualified level certification requirements specified in the standards section of the ASLTA Certification Procedures and Standards.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-50">Oct. 26, 2001, D.C. Law 14-50, § 3, 48 DCR 7952</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24A"/>
+    <num codify:value="38-2433">4</num>
+    <heading>American Sign Language instruction.</heading>
+    <para>
+      <num>(a)</num>
+      <text>American Sign Language may be offered in elementary and secondary public schools, community colleges, and 4-year universities and colleges, as a modern foreign language for which credit may be given. In secondary public schools, where offered for credit, ASL courses may be taken to satisfy a foreign language requirement.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The minimal requirement of ASL teachers in K-12 schools and 4-year universities and colleges shall be at least a college degree in teaching ASL or a degree in a field related to deaf people with an ASLTA professional level certification. The teacher shall have demonstrated the highest level of knowledge and skills in teaching ASL, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Knowledge of curriculum development;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Evaluation;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Linguistics; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Theoretical and contemporary issues in the field of ASL.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The minimal requirement of ASL teachers in community colleges or other educational programs shall be at least an ASLTA qualified level certification. The teacher shall have demonstrated proficiency knowledge of second-language teaching methodology, language activities, evaluation, and knowledge of ASL linguistics.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The minimal requirement of ASL teachers in state service providers or agencies shall be at least a ASLTA provisional level certification. The teacher shall have demonstrated proficiency in ASL and basic knowledge about ASL teaching, including developing course outlines and lesson plans.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The requirements of ASLTA certification shall be effective on January 17, 2002.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The ASL curriculum for K-12, L1 users and L2 learners, shall be approved by the ASLTA effective January 1, 2003.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-50">Oct. 26, 2001, D.C. Law 14-50, § 4, 48 DCR 7952</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

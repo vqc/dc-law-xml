@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 8-197" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 8-197" flag="true">
   <num type="law">8-197</num>
   <heading type="short">District of Columbia Emergency Overnight Shelter Amendment Act of 1990</heading>
   <meta>
@@ -12,4 +12,25 @@
       <narrative>Law 8-197, the “District of Columbia Emergency Overnight Shelter Amendment Act of 1990,” was introduced in Council and assigned Bill No. 8-156, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on June 12, 1990, and June 26, 1990, respectively. Signed by the Mayor on July 12, 1990, it was assigned Act No. 8-228 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section>
+    <num>2</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" before="§4-702.01" path="|4|7|I"/>
+      <reason>Repealed</reason>
+      <num codify:value="4-702">(b)</num>
+      <heading>Declaration of policy.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 8-197">Mar. 6, 1991, D.C. Law 8-197, § 2(b), 37 DCR 4815</annotation>
+          <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 3-602.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

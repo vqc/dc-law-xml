@@ -1,10 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 49-1-ch145">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 49-1-ch145">
+  <heading/>
   <meta>
     <effective>1885-02-25</effective>
     <cites>
-        <law congress="49" session="1" chapter="145"/>
+      <law congress="49" session="1" chapter="145"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|7|I"/>
+    <num codify:value="44-713">1</num>
+    <heading>Compensation of physicians to the poor.</heading>
+    <text>The compensation of the physicians to the poor shall not exceed $40 per month each.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Feb. 25, 1885, 23 Stat. 314, ch. 145, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1205.</annotation>
+        <annotation>1973 Ed., § 32-1005.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

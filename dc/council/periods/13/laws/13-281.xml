@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 13-281">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 13-281">
   <num type="law">13-281</num>
   <heading type="short">Abatement and Condemnation of Nuisance Properties Omnibus Amendment Act of 2000</heading>
   <meta>
@@ -12,4 +12,1362 @@
       <narrative>Law 13-281, the “Abatement and Condemnation of Nuisance Properties Omnibus Amendment Act of 2000”, was introduced in Council and assigned Bill No. 13-646, which was referred to the Committee on Consumer Affairs and Regulatory Affairs. The Bill was adopted on first and second readings on December 5, 2000, and December 19, 2000, respectively. Signed by the Mayor on January 22, 2001, it was assigned Act No. 13-646 and transmitted to Both Houses of Congress for its review. D.C. Law 13-281 became effective on April 27, 2001.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|I"/>
+    <num codify:value="42-3171.01">431</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Abandoned property” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>A structure:</text>
+        <para>
+          <num>(i)</num>
+          <text>That is unoccupied by an owner or a tenant; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>On which the real property tax imposed by § <cite path="§47-811">47-811</cite> has not been paid in 18 months;</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A vacant lot on which the real property tax imposed by § <cite path="§47-811">47-811</cite> has not been paid in 18 months;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A structure:</text>
+        <para>
+          <num>(i)</num>
+          <text>That is unoccupied by an owner or tenant;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>That the Mayor has determined is structurally unsafe; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Regarding which the Mayor has issued to the owner a notice requiring that the owner cause the structure to conform with any provision of the fire code, building code, or housing code, or to demolish the structure for safety reasons, and the owner has failed to act in response to the Mayor’s notice within the period of time established by statute, regulation, or the notice; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A vacant lot on which a building has been demolished.</text>
+      </para>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>“Blighted Area” shall have the meaning as set forth in § <cite path="§2-1219.01">2-1219.01</cite>(6) [repealed].</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Deteriorated property” means real property:</text>
+      <para>
+        <num>(A)</num>
+        <text>The Mayor has determined constitutes a threat to the public health, safety, or welfare;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Mayor has determined contributes to the blight or dilapidation of the area immediately surrounding the property; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>As to which, if the real property contains a structure, the Mayor has issued to the owner a notice requiring the owner to conform the structure to any provision of the fire code, building code, or housing code, or to demolish the structure for safety reasons, and the owner has failed to act in response to the Mayor’s notice within the period of time established by statute, regulation, or the notice.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Owner” means a person who holds legal title to an interest in real property as reflected in the records of the Recorder of Deeds.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Slum and blight” means one or more parcels of land, whether vacant or improved that are in a blighted area, or exhibit one or more characteristics of a blighted area.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Tenant” shall have the meaning set forth in § <cite path="§42-3501.03">42-3501.03</cite>(36).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 431</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1002(a), 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 29(a), 49 DCR 8140</annotation>
+        <annotation doc="D.C. Law 16-119">June 8, 2006, D.C. Law 16-119, § 2, 53 DCR 2609</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, §§ 115, 182, 56 DCR 1117</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-831">10-831</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> made nonsubstantive changes in par. (2)(B).</annotation>
+        <annotation><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in par. (4), validated a previously made technical correction.</annotation>
+        <annotation><cite doc="D.C. Law 16-119">D.C. Law 16-119</cite> added par. (1A); and rewrote par. (4), which had read as follows: “(4) ‘Slum and blight’ means properties in a blighted area, as that term is defined in § <cite path="§2-1219.01">2-1219.01</cite>(6).”</annotation>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated previously made technical corrections in pars. (1A), (2)(C), and (4).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 1002(a) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of title X of Law 14-190: Section 1001 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> provided that title X of the act may be cited as the Quick Acquisition of Abandoned and Nuisance Property Amendment Act of 2002.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority Under <cite doc="D.C. Law 13-281">D.C. Law 13-281</cite>, the “Abatement and Condemnation of Nuisance Property Omnibus Amendment Act of 2002”, see Mayor’s Order 2002-33, March 1, 2002 ( 49 DCR 1875).</annotation>
+        <annotation>Delegation of Authority to the Director of the Department of Housing and Community Development, see Mayor’s Order 2007-209, September 27, 2007 ( 55 DCR 133).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 1101 of <cite doc="D.C. Law 14-114">D.C. Law 14-114</cite> provided: “The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), shall promulgate rules to implement this act.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|I"/>
+    <num codify:value="42-3171.02">432</num>
+    <heading>Acquisition and redevelopment of abandoned or deteriorated property.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor may acquire abandoned property or deteriorated property for the public purpose of eliminating slum and blight:</text>
+      <para>
+        <num>(1)</num>
+        <text>Pursuant to §§ <cite path="§16-1311">16-1311</cite> through <cite path="§16-1321">16-1321</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Through gift or donation;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>By assignment; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Through voluntary sale by the owner.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor may develop or redevelop abandoned or deteriorated property acquired under this section, may demolish structures on the property, and may take any other lawful action to eliminate blight or unsafe conditions on the property.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall not acquire deteriorated property which is occupied and from which tenants shall, or will likely, be displaced unless the Mayor has first made available for public review and comment, for a period of at least 30 days, a plan for the relocation of the displaced tenants.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Before the acquisition of a property under this subchapter, the Mayor shall issue a memorandum describing the Mayor’s plan for the development or disposition of the property, describing any potential displacement of tenants and plans for the relocation of displaced tenants, and setting forth a timetable for the development or disposition of the property.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 432</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-801">10-801</cite> and § <cite path="§42-3171.03">42-3171.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority to the Deputy Mayor for Planning and Economic Development to Acquire Abandoned or Deteriorated Properties for the Purpose of Eliminating Slum and Blight, see Mayor’s Order 2002-110, July 19, 2002 ( 49 DCR 6873).</annotation>
+        <annotation>Delegation of Authority to Approve or to Disapprove the Acquisition and Disposition of Real Estate, by Sale, Lease or Otherwise, see Mayor’s Order 2003-161, November 17, 2003 ( 50 DCR 10197).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|I"/>
+    <num codify:value="42-3171.03">433</num>
+    <heading>Disposal of abandoned or deteriorated property.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor may dispose of abandoned or deteriorated property acquired under § <cite path="§42-3171.02">42-3171.02</cite>, or acquired by any other means, including property the Mayor has altered or improved, through a competitive process or through a negotiated sale; provided, that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Before disposition of the property, there shall be a public hearing on the proposed terms and conditions of the disposition after at least 30 days public notice; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Mayor shall transmit to the Council for a 60-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess, a proposed resolution providing for the disposition of the property. The proposed resolution shall contain a description of the property to be disposed of and the proposed method and terms and conditions of the disposition. If the Council does not approve or disapprove the proposed resolution within the 60-day period, the proposed resolution shall be deemed approved.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor may dispose of property acquired under § <cite path="§42-3171.02">42-3171.02</cite> through a request for offers from adjacent property owners. Before accepting an offer under this subsection, the Mayor shall notify adjacent property owners:</text>
+        <para>
+          <num>(A)</num>
+          <text>That they may make an offer to the Mayor to purchase the property within a time period established by the Mayor;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Of the minimum acceptable purchase price and any mandatory terms or conditions of an acceptable offer; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>That the offer shall be in writing and contain such information as the Mayor may by regulation prescribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If only one adjoining property owner offers to purchase the property at or above the minimum acceptable purchase price and the offer meets all mandatory terms and conditions of an acceptable offer, the Mayor shall accept the offer.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If more than one adjoining property owner offers to purchase the real property at or above the minimum acceptable purchase price and the offers meet all mandatory terms and conditions of an acceptable offer, the Mayor shall accept the offer with the highest purchase price.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In transferring a property, the Mayor may forgive up to 50% of the amount of any outstanding taxes owed on the property, and may forgive in full any penalties or interest accrued on the taxes owed, if the property is transferred to a low-income household or to a nonprofit housing entity providing housing opportunities to low-income households; provided, that:</text>
+      <para>
+        <num>(1)</num>
+        <text>The transferee, if a low-income household, shall maintain the property as his or her principal place of residence for at least 5 years;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The transferee, if a nonprofit housing entity, shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>If the property is developed for homeownership opportunities, require that each homeowner maintain the property as his or her principal place of residence for at least 5 years;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>If the property is developed for rental opportunities, maintain the rental units as units affordable to, and occupied by, low-income, very low-income, or extremely low-income households for not less than 20 years; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The transferee shall complete rehabilitation of the property within 18 months after the property is transferred.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 433</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1002(b), 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 29(b), 49 DCR 8140</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 2012, 55 DCR 7598</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-831">10-831</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> made nonsubstantive changes in subsec. (a)(1).</annotation>
+        <annotation><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite> redesignated subsec. (d) as subsec. (c).</annotation>
+        <annotation><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite>, in subsec. (a), inserted “, or acquired by any other means,” following “acquired under § <cite path="§42-3171.02">42-3171.02</cite>”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 1002(b) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 2011 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided that subtitle E of title II of the act may be cited as the “Disposition of Abandoned and Deteriorated Property Amendment Act of 2008”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Resolutions</heading>
+        <annotation>Resolution 17-220, the “Blighted Real Property Disposition Emergency Approval Resolution of 2007”, was approved effective July 5, 2007.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|I"/>
+    <num codify:value="42-3171.04">434</num>
+    <heading>Assistance to displaced persons.</heading>
+    <text>If an occupant or tenant is displaced by the acquisition, development, redevelopment, or disposition of an abandoned or deteriorated property under this subchapter, the Mayor shall offer to the owner or tenant assistance under § <cite path="§6-331.01">6-331.01</cite>; § <cite path="§6-333.01">6-333.01</cite>; or § <cite path="§6-333.02">6-333.02</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 434</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|II"/>
+    <num codify:value="42-3173.01">441</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Department” means the Department of Housing and Community Development.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Deteriorated structure” means a structure that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Is unoccupied;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Mayor has determined:</text>
+        <para>
+          <num>(i)</num>
+          <text>Constitutes a threat to the public health, safety, or welfare; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Contributes to the deterioration or dilapidation of the community in which the structure is located; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Violates one or more provisions of the District of Columbia Construction Codes, as defined in subsection 101.2 of Title 12A of the District of Columbia Municipal Regulations (12A DCMR § 101.2), or the District of Columbia Housing Code, set forth in Title 14 of the District of Columbia Municipal Regulations (14 DCMR § 100 et seq.).</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Enclose” means to use barricades, boards, fences, or other means to preclude access, including access by environmental elements, to a structure or site.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Interested party” means, with respect to a deteriorated structure:</text>
+      <para>
+        <num>(A)</num>
+        <text>An owner, as recorded in the real estate tax assessment records of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A titleholder, as reflected in the records of the Recorder of Deeds; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A lienholder, as reflected in the records of the Recorder of Deeds.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Site” means the deteriorated structure and the lot or lots on which the structure is located.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Sufficient action” means the action specified by the Mayor pursuant to § <cite path="§42-3173.05">42-3173.05</cite>(a)(8).</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Unoccupied” means not occupied by an owner or a tenant, as defined in § <cite path="§42-3501.03">42-3501.03</cite>(36).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 441</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 29(c), 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in par. (6), substituted “§ <cite path="§42-3173.05">42-3173.05</cite>(a)(7)” for “§ <cite path="§42-3173.05">42-3173.05</cite>(a)(8)”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority Pursuant to <cite doc="D.C. Law 14-114">D.C. Law 14-114</cite>, the “Housing Act of 2002”, see Mayor’s Order 2003-39, March 21, 2003 ( 50 DCR 2508).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|II"/>
+    <num codify:value="42-3173.02">442</num>
+    <heading>Authority of the Mayor to demolish or enclose deteriorated structures.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor may determine whether any structure in the District of Columbia is a deteriorated structure.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor may demolish or enclose a deteriorated structure if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor takes the actions required by §§ <cite path="§42-3173.03">42-3173.03</cite> and <cite path="§42-3173.04">42-3173.04</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A notice of initial determination is prepared and posted under § <cite path="§42-3173.05">42-3173.05</cite>;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An interested party does not take sufficient action by the latest of:</text>
+        <para>
+          <num>(A)</num>
+          <text>Thirty days after the notice of initial determination is mailed;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Thirty days after the notice of initial determination is published; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A date specified by the Mayor which is not earlier than the date specified in subparagraph (A) or (B) of this paragraph;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A notice of final determination is prepared and posted under § <cite path="§42-3173.07">42-3173.07</cite>; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <para>
+          <num>(A)</num>
+          <text>A petition for review challenging the final determination has not been filed under § <cite path="§42-3173.09">42-3173.09</cite> within the time period specified by § <cite path="§42-3173.09">42-3173.09</cite>; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A petition for review challenging the final determination has been filed under § <cite path="§42-3173.09">42-3173.09</cite> within the time period specified by § <cite path="§42-3173.09">42-3173.09</cite>, and the Superior Court of the District of Columbia, the District of Columbia Court of Appeals, or other court of competent jurisdiction has issued an order authorizing the Mayor to act, enters final judgment against the petitioner, or dismisses the petition.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 442</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|II"/>
+    <num codify:value="42-3173.03">443</num>
+    <heading>Redevelopment feasibility analysis.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Prior to posting, mailing, publishing, or filing a notice of initial determination of a deteriorated structure under § <cite path="§42-3173.05">42-3173.05</cite>(b), the Mayor shall request from the Department an analysis of the cost of rehabilitating the structure and the feasibility and likelihood that the site will be redeveloped without demolition of the structure. Upon requesting the analysis, the Mayor shall cause notice of the request to be published in the District of Columbia Register. The Mayor shall consider the analysis provided by the Department in determining whether to issue a notice of initial determination under § <cite path="§42-3173.05">42-3173.05</cite>.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If the Department does not provide an analysis to the Mayor within 60 days after the Mayor requests an analysis under subsection (a) of this section, the Mayor may post, mail, publish, or file the notice of initial determination under § <cite path="§42-3173.05">42-3173.05</cite>(b).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 443</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3173.02">42-3173.02</cite> and § <cite path="§42-3173.05">42-3173.05</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|II"/>
+    <num codify:value="42-3173.04">444</num>
+    <heading>Designation of potential historic structure.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Prior to posting, mailing, publishing, or filing a notice of initial determination under § <cite path="§42-3173.05">42-3173.05</cite>(b), the Mayor shall file with the Historic Preservation Review Board a notice which shall include the following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>The address of the deteriorated structure or, if the address is not available or does not adequately describe the location of the structure, a description of the location of the structure that is sufficient for its identification;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A photograph of the structure clearly documenting the appearance of the structure and its immediate surroundings; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A statement that the Mayor intends to make a determination that the structure is a deteriorated structure.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Within 60 days after receiving the notice from the Mayor, the Historic Preservation Review Board shall make a preliminary determination whether or not there is a substantial possibility that the structure is eligible for designation as a historic landmark or a contributing building in a historic district.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall not issue a notice of initial determination under § <cite path="§42-3173.05">42-3173.05</cite> and shall not demolish a structure under this subchapter unless:</text>
+      <para>
+        <num>(1)</num>
+        <text>The structure is not a historic landmark, a contributing building in a historic district, or a structure for which the Historic Preservation Review Board has made a preliminary determination that there is a substantial possibility that the structure is eligible for designation as a historic landmark or a contributing building in a historic district;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The structure is a historic landmark or a contributing building in a historic district, or the Historic Preservation Review Board makes a preliminary determination that there is a substantial possibility that the structure is eligible for designation as a historic landmark or a contributing building in a historic district, and:</text>
+        <para>
+          <num>(A)</num>
+          <text>The Mayor determines, pursuant to the procedures and standards of subchapter I of Chapter 11 of Title 6, that demolition of the structure is necessary in the public interest, as provided in § <cite path="§6-1104">6-1104</cite>(e); or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Mayor intends to enclose, but not demolish, the structure; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Historic Preservation Review Board does not make a determination under subsection (b) of this section within 60 days after receiving the notice filed by the Mayor under subsection (a) of this section, and the structure is not a historic landmark or a contributing structure in a historic district.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 444</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3173.02">42-3173.02</cite>, § <cite path="§42-3173.05">42-3173.05</cite>, and § <cite path="§42-3173.07">42-3173.07</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|II"/>
+    <num codify:value="42-3173.05">445</num>
+    <heading>Initial determination of deteriorated structure.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If the Mayor determines that a structure is a deteriorated structure, the Mayor shall prepare a notice of initial determination which shall include the following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>The address of the deteriorated structure or, if the address is not available or does not adequately identify the location of the structure, a description of the location of the structure that is sufficient for its identification;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A statement that the Mayor has determined that the structure is a deteriorated structure and the basis for the Mayor’s determination;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A description of the analysis of the Department under § <cite path="§42-3173.03">42-3173.03</cite> and a statement regarding the Mayor’s consideration of the analysis or, if no analysis was provided, a summary of the Mayor’s reason for issuing the notice of initial determination absent the analysis;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <para>
+          <num>(A)</num>
+          <text>A statement that the structure is not a historic landmark, a contributing building in a historic district, or a structure for which the Historic Preservation Review Board has made a preliminary determination that there is a substantial possibility that the structure is eligible for designation as a historic landmark or a contributing building in a historic district; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A statement that the structure is a historic landmark or a contributing building in a historic district or the Historic Preservation Review Board has made a preliminary determination under § <cite path="§42-3173.04">42-3173.04</cite> that there is a substantial possibility that the structure is eligible for designation as a historic landmark or a contributing building in a historic district, and a statement that:</text>
+          <para>
+            <num>(i)</num>
+            <text>The Mayor has determined, pursuant to the procedures and standards of subchapter I of Chapter 11 of Title 6, that demolition of the structure is necessary in the public interest, as provided in § <cite path="§6-1104">6-1104</cite>(e); or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The Mayor intends to enclose, but not demolish, the structure;</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A statement that the Mayor intends to demolish or enclose the deteriorated structure if an interested party does not take sufficient action within 30 days after the mailing or publication of the notice, whichever is later;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>If the Mayor intends to demolish the structure, a statement describing why the Mayor intends to demolish, rather than enclose, the structure;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A statement that the Mayor shall not demolish or enclose the structure if sufficient action is taken within 30 days after the mailing or publication of the notice, whichever is later;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A description of the action which, if taken, shall be considered sufficient action; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>A summary statement of the final determination procedure and judicial review provided by this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>After the notice is prepared under subsection (a) of this section, the Mayor shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Post the notice on the deteriorated structure;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Mail the notice to all interested parties by certified mail, return receipt requested;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Publish the notice once in a newspaper of general circulation in the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Publish the notice in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Transmit the notice to the advisory neighborhood commission in which the structure is located; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>File the notice with the Recorder of Deeds.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 445</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3173.01">42-3173.01</cite>, § <cite path="§42-3173.02">42-3173.02</cite>, § <cite path="§42-3173.03">42-3173.03</cite>, § <cite path="§42-3173.04">42-3173.04</cite>, § <cite path="§42-3173.06">42-3173.06</cite>, and § <cite path="§42-3173.07">42-3173.07</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|II"/>
+    <num codify:value="42-3173.06">446</num>
+    <heading>Action by interested parties.</heading>
+    <text>Interested parties shall have 30 days after the mailing or publication of the notice under § <cite path="§42-3173.05">42-3173.05</cite>, whichever is later, to take sufficient action.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 446</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3173.07">42-3173.07</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|II"/>
+    <num codify:value="42-3173.07">447</num>
+    <heading>Final determination of deteriorated structure.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>If sufficient action has not been taken within the 30-day period of § <cite path="§42-3173.06">42-3173.06</cite>, the Mayor shall prepare a notice of final determination.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notwithstanding paragraph (1) of this subsection, the Mayor may revoke the notice of initial determination or hold in abeyance further action under this subchapter if, prior to the end of the 30-day period, an interested party:</text>
+        <para>
+          <num>(A)</num>
+          <para>
+            <num>(i)</num>
+            <text>Submits to the Mayor a written plan for the prompt completion of the sufficient action; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The Mayor approves the plan with or without conditions; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Submits to the Mayor written reasons why the Mayor should not take the action specified in § <cite path="§42-3173.05">42-3173.05</cite>(a)(5); provided, that, in such case, the Mayor may also amend the notice of initial determination.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Mayor may extend the 30-day period for 30 days or less upon the written request of an interested party and for good cause shown.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The notice of final determination shall be prepared within 30 days after the end of the 30-day period or within 30 days after the end of any extension of the 30-day period.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The notice of final determination required by subsection (a) and (b) of this section shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>The address of the deteriorated structure or, if the address is not available or does not adequately identify the location of the structure, a description of the location of the deteriorated structure that is sufficient for its identification;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A statement that the Mayor has determined that the structure is a deteriorated structure and the basis for the Mayor’s determination that the structure is a deteriorated structure;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The date or dates on which the notice of initial determination under § <cite path="§42-3173.04">42-3173.04</cite> was posted, mailed, published, and filed;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A statement that sufficient action was not taken within the specified time period;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A statement that the Mayor intends to demolish or enclose the deteriorated structure; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A statement that interested parties have 30 days from the date of the mailing of the notice of final determination to file a petition for review in the Superior Court of the District of Columbia seeking judicial review of the Mayor’s final determination and that the filing of the petition shall stay final action by the Mayor to demolish or enclose the deteriorated structure until a judicial order is entered.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>After the notice of final determination is prepared, the Mayor shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Post the notice on the deteriorated structure;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Mail the notice to all interested parties by certified mail, return receipt requested; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>File the notice with the Recorder of Deeds.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 447</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 29(d), 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3173.02">42-3173.02</cite> and § <cite path="§42-3173.09">42-3173.09</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsec. (a)(2)(B), substituted “§ <cite path="§42-3173.05">42-3173.05</cite>(a)(5)” for “§ <cite path="§42-3173.05">42-3173.05</cite>(a)(4)”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|II"/>
+    <num codify:value="42-3173.08">448</num>
+    <heading>Duty of Mayor to demolish or enclose deteriorated structure.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If a petition for review is not filed under § <cite path="§42-3173.09">42-3173.09</cite> within the time period specified in § <cite path="§42-3173.09">42-3173.09</cite>, the Mayor shall demolish or enclose the deteriorated structure within 120 days after the notice of final determination has been mailed or filed, whichever is earlier.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If a petition for review is filed under § <cite path="§42-3173.09">42-3173.09</cite> within the time period specified in § <cite path="§42-3173.09">42-3173.09</cite>, the Mayor shall demolish or enclose the deteriorated structure within 120 days after the court issues an order authorizing the Mayor to act, enters final judgment against the petitioner, or dismisses the petition.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 448</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|II"/>
+    <num codify:value="42-3173.09">449</num>
+    <heading>Judicial review of final determination.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 30 days after the date of the mailing of the notice of final determination under § <cite path="§42-3173.07">42-3173.07</cite>, an interested party may file a petition for review in the Superior Court of the District of Columbia challenging the final determination.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If a petition has been filed under subsection (a) of this section and the Mayor has been served with the petition, the Mayor shall not demolish or enclose the deteriorated structure under the authority of this subchapter until the court issues an order authorizing the Mayor to act, enters final judgment against the petitioner, or dismisses the petition.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 449</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3173.02">42-3173.02</cite> and § <cite path="§42-3173.08">42-3173.08</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|II"/>
+    <num codify:value="42-3173.10">450</num>
+    <heading>Recovery of costs by the District of Columbia.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 120 days after a deteriorated structure is enclosed or demolished under this subchapter, the Mayor shall determine the total costs incurred by the District to bring about the demolition or enclosure. The total costs shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Include all reasonable costs, including administrative costs;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Include the cost of repairing damage to adjoining premises; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be reduced by the amount, if any, received from the sale of old material.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor shall assess the total costs determined under subsection (a) of this section as a tax on the lot on which the deteriorated structure stands or stood.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A tax assessed under this section may be paid without interest within 60 days after the date the tax is assessed. Interest of 18% per annum shall be charged on the unpaid portion of the tax, if any, and interest on the unpaid portion of the tax shall accrue from the date the tax was assessed.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a portion of the tax assessed under this section remains unpaid one year after the date the tax was assessed, the property against which the tax was assessed may be sold for the tax or unpaid portion of the tax, with interest and penalties thereon, at the next tax sale in the same manner and under the same conditions as property sold for delinquent general taxes.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In selling a property tax lien under paragraph (3) of this subsection, the Mayor may forgive up to 50% of the amount of any outstanding taxes owed on the property, and may forgive in full any penalties or interest accrued on the taxes owed, if the property is transferred to a low-income household, as defined in § <cite path="§42-2851.02">42-2851.02</cite>(10), or a nonprofit housing entity providing housing opportunities to low-income households; provided, that:</text>
+        <para>
+          <num>(A)</num>
+          <text>The transferee, if a low-income household, shall maintain the property as his or her principal place of residence for at least 5 years;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The transferee, if a nonprofit housing entity, shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>If the property is developed for homeownership opportunities, require that the homeowner maintain the property as his or her principal place of residence for at least 5 years;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If the property is developed for rental opportunities, maintain the rental units as units affordable to, and occupied by, low-income, very low-income, or extremely low-income households for not less than 20 years; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The transferee shall complete rehabilitation of the property within 18 months after the property is transferred.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 450</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|II"/>
+    <num codify:value="42-3173.11">451</num>
+    <heading>Use of funds; deposit of funds.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Amounts collected by the District of Columbia under this subchapter shall be deposited into the fund established by § <cite path="§42-3131.01">42-3131.01</cite>(b)(1).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Amounts in the fund established by § <cite path="§42-3131.01">42-3131.01</cite>(b)(1), may be used to pay the costs incurred by the District to demolish or enclose a structure under this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 451</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31C|II"/>
+    <num codify:value="42-3173.12">452</num>
+    <heading>Nature of remedies.</heading>
+    <text>The remedies set forth in this subchapter shall be cumulative and not exclusive.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 452</annotation>
+        <annotation doc="D.C. Law 14-114">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36A"/>
+    <num codify:value="42-3651.01">501</num>
+    <heading>Purpose of the appointment of a receiver.</heading>
+    <text>The purpose of the appointment of a receiver under this chapter shall be to safeguard the health, safety, and security of the tenants of a rental housing accommodation if there exists a violation of District of Columbia or federal law which seriously threatens the tenant’s health, safety, or security. The receiver shall not take actions inconsistent with this purpose or take actions other than those necessary and proper to the maintenance and repair of the rental housing accommodation. Nothing in this chapter shall be construed to limit or abrogate any other common law or statutory right to petition for receivership.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 501, 48 DCR 1888</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority Under <cite doc="D.C. Law 13-281">D.C. Law 13-281</cite>, the “Abatement and Condemnation of Nuisance Property Omnibus Amendment Act of 2002”, see Mayor’s Order 2002-33, March 1, 2002 ( 49 DCR 1875).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 601 of <cite doc="D.C. Law 13-281">D.C. Law 13-281</cite> provided: “The Mayor may issue rules to implement the Abatement and Condemnation of Nuisance Properties Omnibus Amendment Act of 2000 in accordance with the District of Columbia Administrative Procedure Act.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36A"/>
+    <num codify:value="42-3651.02">502</num>
+    <heading>Grounds for appointment of a receiver.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>A receiver may be appointed if a rental housing accommodation has been cited by the Department of Consumer and Regulatory Affairs for a violation of chapters 1 through 16 of Title 14 of the District of Columbia Municipal Regulations or Title 12 of the District of Columbia Municipal Regulations, or its equivalent, which violation poses a serious threat to the health, safety, or security of the tenants; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The owner, agent, lessor, or manager has been properly notified of the violation but has failed timely to abate the violations; provided, that proper notification shall be deemed to have been effected if a copy of the notice has been served pursuant to applicable law or rule, or as follows:</text>
+        <para>
+          <num>(A)</num>
+          <text>By personal service on the property owner, lessor, or manager or the agent thereof;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>By delivering the notice to the last known home or business address of the property owner, lessor, manager, or agent as identified by the tax records, business license records, or business entity registration records, and leaving it with a person over 16 years of age residing or employed therein;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>By mailing the notice, via first-class mail postage prepaid, to the last known home or business address of the property owner, lessor, manager, or agent as identified by the tax records, business license records, or business entity registration records; or</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>If the notice is returned as undeliverable by the post office authorities, or if no address is known or can be ascertained from the District’s tax, business license, or business entity registration records, by posting a copy of the notice in a conspicuous place in or about the structure affected by such notice.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A receiver may also be appointed if a rental housing accommodation has been operated in a manner that demonstrates a pattern of neglect for the property for a period of 30 consecutive days and such neglect poses a serious threat to the health, safety, or security of the tenants. For purposes of this subsection, the term “pattern of neglect” includes all evidence that the owner, agent, lessor, or manager of the rental housing accommodation has maintained the premises in a serious state of disrepair, including vermin or rat infestation, filth or contamination, inadequate ventilation, illumination, sanitary, heating or life safety facilities, inoperative fire suppression or warning equipment, or any other condition that constitutes a hazard to its occupants or to the public.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 502, 48 DCR 1888</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 32(c), 49 DCR 8140</annotation>
+        <annotation doc="D.C. Law 17-319">Mar. 21, 2009, D.C. Law 17-319, § 5(a), 56 DCR 214</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3651.03">42-3651.03</cite>, § <cite path="§42-3651.04">42-3651.04</cite>, and § <cite path="§42-3651.05">42-3651.05</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in par. (1), validated a previously made technical correction.</annotation>
+        <annotation><cite doc="D.C. Law 17-319">D.C. Law 17-319</cite> rewrote the section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>Section 5(a) of <cite doc="D.C. Law 17-237">D.C. Law 17-237</cite> amended this section to read as follows:</annotation>
+        <annotation>“Sec. 502. Grounds for appointment of a receiver.</annotation>
+        <annotation>“(a)(1) A receiver may be appointed if a rental housing accommodation has been cited by the Department of Consumer and Regulatory Affairs for a violation of chapters 1 through 16 of Title 14 of the District of Columbia Municipal Regulations or Title 12 of the District of Columbia Municipal Regulations, or its equivalent, which violation poses a serious threat to the health, safety, or security of the tenants; and</annotation>
+        <annotation>“(2) The owner, agent, lessor, or manager has been properly notified of the violation but has failed timely to abate the violations; provided, that proper notification shall be deemed to have been effected if a copy of the notice has been served pursuant to applicable law or rule, or as follows:</annotation>
+        <annotation>“(A) By personal service on the property owner, lessor, or manager or the agent thereof; or</annotation>
+        <annotation>“(B) By delivering the notice to the last known home or business address of the property owner, lessor, manager, or agent as identified by the tax records, business license records, or business entity registration records, and leaving it with a person over 16 years of age residing or employed therein; or</annotation>
+        <annotation>“(C) By mailing the notice, via first-class mail postage prepaid, to the last known home or business address of the property owner, lessor, manager, or agent as identified by the tax records, business license records, or business entity registration records; or</annotation>
+        <annotation>“(D) If the notice is returned as undeliverable by the post office authorities, or if no address is known or can be ascertained from the District’s tax, business license, or business entity registration records, by posting a copy of the notice in a conspicuous place in or about the structure affected by the notice.</annotation>
+        <annotation>“(b) A receiver may also be appointed if a rental housing accommodation has been operated in a manner that demonstrates a pattern of neglect for the property for a period of 30 consecutive days and such neglect poses a serious threat to the health, safety, or security of the tenants. For the purposes of this subsection, the term ”pattern of neglect“ includes all evidence that the owner, agent, lessor, or manager of the rental housing accommodation has maintained the premises in a serious state of disrepair including, vermin or rat infestation, filth or contamination, inadequate ventilation, illumination, sanitary, heating or life safety facilities, inoperative fire suppression or warning equipment, or any other condition that constitutes a hazard to its occupants or to the public.”.</annotation>
+        <annotation>Section 8(b) of <cite doc="D.C. Law 17-237">D.C. Law 17-237</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment, see § 5(a) of Abatement of Nuisance Properties and Tenant Receivership Emergency Amendment Act of 2008 (D.C. Act 17-420, July 8, 2008,  55 DCR 7703).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5(a) of Abatement of Nuisance Properties and Tenant Receivership Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-563, October 27, 2008,  55 DCR 12019).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36A"/>
+    <num codify:value="42-3651.03">503</num>
+    <heading>Petition for receivership.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Notwithstanding the availability of any other remedy, the Corporation Counsel may, in the name of the District of Columbia and based on the grounds set forth in § <cite path="§42-3651.02">42-3651.02</cite>, petition the Superior Court of the District of Columbia (“Court”) to appoint a receiver of the rents or payments for use and occupancy for the affected rental housing accommodation.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Notwithstanding the availability of any other remedy, a majority of the tenants in the rental housing accommodation may, based on the grounds set forth in § <cite path="§42-3651.02">42-3651.02</cite>, submit a written request asking the Corporation Counsel to petition the Court to appoint a receiver of the rents or payments for use and occupancy of the affected rental housing accommodation. If the Corporation Counsel denies the request or does not file a petition within 5 days, excluding Saturdays, Sundays, and legal holidays, after receiving a request, the requestor may file with the Court a petition for the appointment of a receiver.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Except as provided in § <cite path="§42-3651.04">42-3651.04</cite>(b), the Court shall set a date for a hearing on the petition no later than 30 days after the filing of the petition.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 503, 48 DCR 1888</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3651.04">42-3651.04</cite>, § <cite path="§42-3651.05">42-3651.05</cite>, and § <cite path="§42-3651.07">42-3651.07</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36A"/>
+    <num codify:value="42-3651.04">504</num>
+    <heading>Notice and hearing requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>After a petition has been filed under § <cite path="§42-3651.03">42-3651.03</cite>, the Chief Judge of the Superior Court, or the Judge’s designee, shall immediately issue an order requiring the owner, agent, lessor, or manager, as respondent, to show cause why a receiver should not be appointed. The order shall include a notice that the Court will consider, in addition to the grounds for receivership set forth in § <cite path="§42-3651.02">42-3651.02</cite>, a plan submitted by the respondent to abate the conditions alleged in the petition.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The order of the Court, along with the notice and a copy of the petition, shall be served on the owner of record, and the agent, lessor, or manager, at his or her last known address or by such other method as the Court may direct and shall be posted in a conspicuous place upon the rental housing accommodation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <para>
+          <num>(A)</num>
+          <text>If the petition is not filed by the Office of the Corporation Counsel, the order of the Court, along with a copy of the petition, shall be served on the Corporation Counsel.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>No later than 5 days, excluding Saturdays, Sundays, and legal holidays, after receiving a copy of the petition under subparagraph (A) of this paragraph, the Department of Consumer and Regulatory Affairs shall make available to the petitioner for its use in the proceedings certified copies of all licensure and housing inspection reports in the custody of the District government that document conditions in the rental housing accommodation within the previous 3 years.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>If, upon filing of a petition, the Court finds probable cause to believe a condition or practice in the affected rental housing accommodation poses an immediate danger to the health, safety, or security of the tenants, it may, ex parte, issue an order of not more than 14 days duration appointing a receiver and direct that the order be served along with the notice required by this section; provided, that a hearing be commenced before the expiration of the order.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>In the event of an ex parte appointment under paragraph (1) of this subsection, the petitioner shall ensure that the owner, agent, lessor, or manager of the rental housing accommodation is served with notice and a copy of the petition, any supporting affidavits, and the order of appointment:</text>
+          <para>
+            <num>(i)</num>
+            <text>By personal service within 72 hours after the appointment; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>By notice conspicuously posted inside or on the front door of the rental housing accommodation within 96 hours of the appointment, if the petitioner files with the Court a sworn statement setting forth in detail his diligent effort to serve notice under sub-subparagraph (i) of this subparagraph.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>In addition, the petitioner shall serve the order of the Court, along with a copy of the petition, on the owner of record at his or her last known address and his or her agent, lessor, or manager at his or her last known address.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A receiver appointed under subsection (b) of this section may immediately collect all rents or payments for use and occupancy of the affected rental housing accommodation and alleviate the conditions cited by the Court in the order appointing the receiver.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 504, 48 DCR 1888</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3651.03">42-3651.03</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36A"/>
+    <num codify:value="42-3651.05">505</num>
+    <heading>Appointment of a receiver; continuation of ex parte appointment.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>After a hearing, the Court may appoint a receiver for a rental housing accommodation or continue the appointment of a receiver made ex parte if it finds that the petitioner has proven, by a preponderance of the evidence, the existence of the grounds for receivership as set forth in § <cite path="§42-3651.02">42-3651.02</cite> and finds that the respondent has not provided the Court with a sufficient plan for abatement of the conditions alleged in the petition.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon acceptance of a respondent’s plan, the Court may dismiss the petition or retain the case for purposes of monitoring respondent’s execution of the plan. The monitoring shall continue until the Court, on its own motion or that of any party:</text>
+        <para>
+          <num>(A)</num>
+          <text>Dismisses the petition on grounds that the respondent has completed the plan; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Finds the respondent has not made sufficient progress to complete the plan, in which event it may order appointment of a receiver under this section.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Except as provided in subsection (c) of this section, the Court may appoint as a receiver any person or entity who has demonstrated to the Court the capacity and expertise to develop and supervise a viable financial and construction plan for the satisfactory rehabilitation of the rental housing accommodation.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Court shall not appoint as a receiver:</text>
+      <para>
+        <num>(1)</num>
+        <text>An employee of a District of Columbia government agency that licenses or provides a financial payment to the type of housing accommodation being placed in receivership;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person who has a financial interest in any other real property in common with the owner of the property being placed under receivership; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A parent, child, grandchild, spouse, or domestic partner as defined in § <cite path="§32-701">32-701</cite>(3), sibling, first cousin, aunt, or uncle of the owner of the property being placed under receivership or a tenant of the property being placed under receivership, whether the relationship arises by blood, marriage, or adoption.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>Before a receiver takes charge of a rental housing accommodation, the receiver shall post a bond, the premiums of which may be paid in installments, with the Court, which bond:</text>
+        <para>
+          <num>(A)</num>
+          <text>Does not exceed the value of the rental housing accommodation and its furnishings, records, and other related personal property and goods; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Is held by the Court for the benefit of all persons interested in the faithful performance of the receivership.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Unless the Court directs otherwise, the receiver may pay the premium of the bond from the rental housing accommodation’s income.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The bond requirement of this subsection may be waived by the Court for good cause.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Any person authorized to file a petition under § <cite path="§42-3651.03">42-3651.03</cite> may petition the Court to appoint a substitute if a receiver:</text>
+      <para>
+        <num>(1)</num>
+        <text>Dies;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Has or develops a disability which impedes his or her ability to carry out the receivership;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Has or develops a conflict of interest; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Fails to make reasonable progress in carrying out the receivership.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>As part of any order appointing a receiver, or in any plan for abatement presented by a respondent, the Court may, in appropriate circumstances, order that the respondent contribute funds in excess of the rents collected from the rental housing accommodation for the purposes of abating housing code violations and assuring that any conditions that are a serious threat to the health, safety, or security of the occupants or public are corrected.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 505, 48 DCR 1888</annotation>
+        <annotation doc="D.C. Law 15-176">Sept. 8, 2004, D.C. Law 15-176, § 4, 51 DCR 5707</annotation>
+        <annotation doc="D.C. Law 17-319">Mar. 21, 2009, D.C. Law 17-319, § 5(b), 56 DCR 214</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 106, 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-176">D.C. Law 15-176</cite>, in par. (3) of subsec. (c), substituted “spouse, or domestic partner as defined in § <cite path="§32-701">32-701</cite>(3),” for “spouse”.</annotation>
+        <annotation><cite doc="D.C. Law 17-319">D.C. Law 17-319</cite> added subsec. (f).</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> validated a previously made technical correction in (f).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 5(b) of Abatement of Nuisance Properties and Tenant Receivership Temporary amendment Act of 2008 (<cite doc="D.C. Law 17-237">D.C. Law 17-237</cite>, October 21, 2008, law notification  55 DCR 11700).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment, see § 5(b) of Abatement of Nuisance Properties and Tenant Receivership Emergency Amendment Act of 2008 (D.C. Act 17-420, July 8, 2008,  55 DCR 7703).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5(b) of Abatement of Nuisance Properties and Tenant Receivership Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-563, October 27, 2008,  55 DCR 12019).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 15-176">D.C. Law 15-176</cite>: Section 7 of <cite doc="D.C. Law 15-176">D.C. Law 15-176</cite> provided: “Sections 2 through 6 shall apply as of October 1, 2003.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36A"/>
+    <num codify:value="42-3651.06">506</num>
+    <heading>Powers and duties of a receiver.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A receiver shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Take charge of the operation and management of the rental housing accommodation and assume all rights to possess and use the building, fixtures, furnishings, records, and other related property and goods that the owner or property manager would have if the receiver had not been appointed; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Give notice of the receivership, in accordance with subsection (b) of this section, to the rental housing accommodation’s tenants and employees, all public utility providers whom the owner was responsible for paying before the appointment of the receiver, any mortgage company holding a lien against the property, and any other person whom the Court orders should receive notice;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Have the power to collect all rents and payments for use and occupancy;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <para>
+          <num>(A)</num>
+          <text>Provide the Court, within 30 days following the issuance of the order of appointment, with a plan for the rehabilitation of the rental housing accommodation, including the projected dates when all causes giving rise to the appointment will be abated and a financial forecast indicating how the rehabilitation will be paid for;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Serve a copy of the plan upon the owner of record, the Corporation Counsel, and the tenants of the rental housing accommodation, or their representative;</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <para>
+          <num>(A)</num>
+          <text>Report to the Court every 6 months after the filing of the report required under paragraph (4) of this subsection, describing the progress made in abating the conditions giving rise to the appointment, updating the financial forecast for the rehabilitation, and describing any changes in the condition of the rental housing accommodation that may change the proposed completion dates submitted under paragraph (4) of this subsection;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Serve a copy of the report upon the owner of record, the Corporation Counsel, and the tenants of the rental housing accommodation, or their representative;</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Preserve all property and records with which the receiver has been entrusted;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Assume all rights of the owner to enforce or avoid terms of a lease, mortgage, secured transactions, and other contracts related to the rental housing accommodation and its operation; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Carry out any other duties established by the Court.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The notice required by subsection (a)(2) of this section shall include, at a minimum, the following information in not less than 12-point type in both English and Spanish:</text>
+      <para>
+        <num>(1)</num>
+        <text>The reasons for the receivership;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The identity of the receiver, his or her address and telephone number;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The receiver’s responsibilities and duties;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The anticipated duration of the receivership; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>That no tenant is required to move as a result of the receivership.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The receiver shall, under the plan described in subsection (a)(4) of this section, make payments in accordance with the following priorities:</text>
+      <para>
+        <num>(1)</num>
+        <text>As a first priority, using monthly rental income, to abate housing code violations if abatement is required within 7 days of service of notice, and, after abatement of the conditions, to abate housing code violations if abatement is required within 30 days of service of notice; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>As a second priority, for other purposes reasonably necessary in the ordinary course of business of the property, including maintenance and upkeep of the rental housing accommodation, payment of utility bills, mortgages and other debts, and payment of the receiver’s fee.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The receiver shall not make capital improvements to the property except those necessary to abate housing code violations.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The receiver shall not enter into contracts which affect the ownership of the property.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The receiver shall be personally liable only for his or her acts of gross negligence or intentional wrongdoing in carrying out the receivership.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>A receiver shall be entitled to a reasonable fee established by the Court and payable from the revenues of the rental housing accommodation.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>The receiver may apply for grants and subsidies for the relief of distressed properties to the same extent as the owner of the rental housing accommodation.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>The owner, agent, manager, or lessor shall be enjoined from collecting rents and payments for use and occupancy for the duration of the receivership.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 506, 48 DCR 1888</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 32(d), 49 DCR 8140</annotation>
+        <annotation doc="D.C. Law 17-319">Mar. 21, 2009, D.C. Law 17-319, § 5(c), 56 DCR 214</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsec. (c), validated a previously made technical correction.</annotation>
+        <annotation><cite doc="D.C. Law 17-319">D.C. Law 17-319</cite>, in subsec. (c)(1), deleted “no more than half of” following “using”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 5(c) of Abatement of Nuisance Properties and Tenant Receivership Temporary amendment Act of 2008 (<cite doc="D.C. Law 17-237">D.C. Law 17-237</cite>, October 21, 2008, law notification  55 DCR 11700).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment, see § 5(c) of Abatement of Nuisance Properties and Tenant Receivership Emergency Amendment Act of 2008 (D.C. Act 17-420, July 8, 2008,  55 DCR 7703).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5(c) of Abatement of Nuisance Properties and Tenant Receivership Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-563, October 27, 2008,  55 DCR 12019).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36A"/>
+    <num codify:value="42-3651.07">507</num>
+    <heading>Termination of receivership.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsection (b) of this section, a receivership shall terminate when:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Court determines that the receivership is no longer necessary because the grounds on which the appointment of the receiver was based no longer exist, that the receiver has received proper compensation for the services provided, and that the District of Columbia has been reimbursed for all expenses related to the appointment of the receiver; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Court determines on recommendation from the receiver that the violations giving rise to the appointment of the receiver cannot be abated and serves a copy of the order within 10 days on the Director of the Department of Consumer and Regulatory Affairs.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>Notwithstanding subsection (a) of this section, a receivership of a rental housing accommodation shall not be terminated in favor of any person who was the owner of the rental housing accommodation or his representative at the time the petition was filed under § <cite path="§42-3651.03">42-3651.03</cite>, or, in the discretion of the Court, any person who is or was an affiliate of the owner, agent, lessor, or manager, unless he or she first reimburses the District of Columbia for the expenses incurred in creating the receivership.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Court may in addition require that, before a person specified in paragraph (1) of this subsection resumes control of a rental housing accommodation, he or she post bond in an amount the Court deems appropriate as security against noncompliance with the law. If the receivership is not reinstated under subsection (c) of this section, the bond money shall be returned with all applicable interest.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Should it appear that, within 2 years after a receivership is terminated in favor of a person specified in subsection (b) (1) of this section, that person is not maintaining the affected rental housing accommodation in substantial compliance with all applicable laws, and should the Court so find after granting notice and a hearing to all parties to the earlier receivership proceeding, the previous order appointing a receiver may be reinstated. A receiver thus reappointed may use all or part of any bond posted pursuant to subsection (b) (2) of this section to remedy the deficiencies.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 507, 48 DCR 1888</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36A"/>
+    <num codify:value="42-3651.08">508</num>
+    <heading>Final Accounting.</heading>
+    <text>Within 30 calendar days after termination of a receivership, the receiver shall give the Court a complete accounting of all property with which he or she has been entrusted, all funds collected, and all expenses incurred.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-281">Apr. 27, 2001, D.C. Law 13-281, § 508, 48 DCR 1888</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

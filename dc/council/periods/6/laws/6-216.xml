@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 6-216">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 6-216">
   <num type="law">6-216</num>
   <meta>
     <effective>1987-03-21</effective>
@@ -11,4 +11,1426 @@
       <narrative>Law 6-216 was introduced in Council and assigned Bill No. 6-500, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 18, 1986 and December 16, 1986, respectively. Signed by the Mayor on February 2, 1987, it was assigned Act No. 6-279 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <num codify:value="6-1401">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“ANSI” means the American National Standards Institute, Inc., American National Standard Specifications for Making Buildings and Facilities Accessible to and Useable by Physically Handicapped People (1980).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“BOCA” means the Building Officials and Code Administrators International, Inc.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Building Code” means the BOCA Basic/National Building Code/1984, 9th Edition, the 1985 Supplement to the BOCA Basic/National Building Code, and the District of Columbia Building Code Supplement of 1986 as amended by the provisions of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
+    </para>
+    <para>
+      <num>(3A)</num>
+      <text>“Building Code Official” means the Director of the Department of Consumer and Regulatory Affairs.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Construction Codes” means the consolidation of Model Codes, the Building Rehabilitation Code, the D.C. Supplement, and the provisions of this act, and any future amendments, supplements, or editions authorized by § <cite path="§6-1409">6-1409</cite>.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Council” means the Council of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“D.C. Supplement” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>The District of Columbia Building Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>];</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The District of Columbia Plumbing Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>];</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The District of Columbia Mechanical Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The District of Columbia Fire Prevention Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>];</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>The District of Columbia Existing Structures Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>];</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>The District of Columbia One and Two Family Dwelling Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>]; and</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>The District of Columbia Electrical Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
+      </para>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“District” means the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Electrical Code” means the National Fire Protection Association National Electrical Code 1984, and the District of Columbia Electrical Code Supplement of 1986 as amended by the provisions of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Existing Structures Code” means the BOCA Basic/National Existing Structures Code/1984, 1st Edition, and the District of Columbia Existing Structures Code Supplement of 1986 as amended by the provisions of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Fire Prevention Code” means the BOCA Basic/National Fire Prevention Code/1984, 6th Edition, the 1985 Supplement to the BOCA Basic/National Fire Prevention Code, and the District of Columbia Fire Prevention Code Supplement of 1986 as amended by the provisions of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
+    </para>
+    <para>
+      <num>(10A)</num>
+      <text>“Fire protection systems” means devices, equipment, and systems utilized to detect a fire, activate an alarm, suppress or control a fire, or any combination thereof.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Mechanical Code” means the BOCA Basic/National Mechanical Code/1984, 5th Edition, the 1985 Supplement to the BOCA Basic/National Mechanical Code, and the District of Columbia Mechanical Code Supplement of 1986 as amended by the provisions of this act.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Model Codes” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>The BOCA Basic/National Building Code/1984, 9th Edition;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The BOCA Basic/National Plumbing Code/1984, 6th Edition;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The BOCA Basic/National Mechanical Code/1984, 5th Edition;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The BOCA Basic/National Fire Prevention Code/1984, 6th Edition;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>The BOCA Basic/National Existing Structures Code/1984, 1st Edition;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>The CABO One and Two Family Dwelling Code, 1983 Edition;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>The National Fire Protection Association National Electrical Code 1984; and</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>The 1985 Supplement to the BOCA Basic/National Building Code, Basic/National Fire Prevention Code, Basic/National Mechanical Code, and Basic/National Plumbing Code.</text>
+      </para>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“One and Two Family Dwelling Code” means the CABO One and Two Family Dwelling Code, 1983 Edition, and the District of Columbia One and Two Family Dwelling Code Supplement of 1986 as amended by the provisions of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>“Plumbing Code” means the BOCA Basic/National Plumbing Code/1984, 6th Edition, the 1985 Supplement to the BOCA Basic/National Plumbing Code, and The District of Columbia Plumbing Code of 1986 as amended by the provisions of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 2, 34 DCR 1072</annotation>
+        <annotation doc="D.C. Law 14-162">June 25, 2002, D.C. Law 14-162, §§ 201(a)(1), (2), 49 DCR 4438</annotation>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 302(a), 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-1710">7-1710</cite>, § <cite path="§7-2004">7-2004</cite>, § <cite path="§25-504">25-504</cite>, and § <cite path="§47-2861">47-2861</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1301.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-162">D.C. Law 14-162</cite> added par. (3A); and in par. (4), substituted “Model Codes, the Building Rehabilitation Code,” for “Model Codes,”.</annotation>
+        <annotation><cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> added pars. (3A) and (10A).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 302(a) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+        <annotation>For temporary (90 days) addition of provisions concerning new construction minimum standards of visitability for persons with disabilities, see §§ 2-12 of the Visitability Requirements Emergency Act of 2012 (D.C. Act 19-636, January 25, 2013,  60 DCR 2048).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of title III of Law 14-190: Section 301 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> provided that title III of the act may be cited as the Construction Codes Amendment Act of 2002.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“This act,” referred to in paragraphs (3), (4), (6)(A) through (6)(G), (8) through (11), (13), and (14), is <cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority Pursuant to DC Law 6-100, the “Litter Control Administration Act of 1985;” DC Law 6-42, the “Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985;” DC Law 5-165, the “DC Air Pollution Control Act of 1984;” DC Law 13-172, the “Rodent Control Act of 2000;” and DC Law 6-126, the “Construction Codes Approval and Amendments Act of 1986”, see Mayor’s Order 2002-5, February 1, 2002 ( 49 DCR 911).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Mayor's Orders</heading>
+        <annotation>Establishment of Building Code Advisory Committee: See Mayor’s Order 89-257, November 7, 1989.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 301 of <cite doc="D.C. Law 14-162">D.C. Law 14-162</cite> provided: “Pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), the Mayor may issue rules to implement the provisions of this act.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <num codify:value="6-1402">3</num>
+    <heading>Approval.</heading>
+    <text>The Council approves the Construction Codes.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 3, 34 DCR 1072</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1302.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <num codify:value="6-1403">4</num>
+    <heading>Scope.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Construction Codes shall control:</text>
+      <para>
+        <num>(1)</num>
+        <text>Matters concerning the construction, reconstruction, alteration, addition, repair, removal, demolition, use, location, occupancy, and maintenance of all buildings, structures, signs, advertising devices, and premises in the District and applies to existing or proposed buildings and structures;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The construction, prefabrication, alteration, repair, use, occupancy, and maintenance of detached 1 or 2 family dwellings not more than 3 stories in height, and their accessory structures;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The design, construction, installation, maintenance, alteration, conversion, change, repair, removal, and inspection of electrical conductors, equipment, and systems in buildings or structures and on public space within the District, for the transmission, distribution, and use of electrical energy for power, heat, light, radio, television, signaling, and for other purposes;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The design, installation, maintenance, alteration, and inspection of mechanical systems, including heating systems, ventilating systems, cooling systems, steam and hot water heating systems, water heaters, process piping, boilers and pressure vessels, appliances using gas, liquid, or solid fuel, chimneys and vents, mechanical refrigeration systems, fireplaces, barbecues, incinerators, crematories, and air pollution systems;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The design, installation, repair, or removal of plumbing fixtures intended to receive and discharge water, liquid, or water-carried wastes into the drainage system with which they are connected; the introduction, maintenance, and extension of a supply of water through a pipe or pipes, or any appurtenance thereof, in any building, lot, premises, or establishment; connection or repair of any system of drainage whereby foul, waste, and surplus water, gas, vapor, or other fluid is discharged or proposed to be discharged through a pipe or pipes from any building, lot, premises, or establishment into any public or house sewer, drain, pit, box, filter bed, or other receptacle, or into any natural or artificial watercourse flowing through public or private property; ventilation of any building, sewer, or any fixture or appurtenance connected therewith; excavation of any public or private street, highway, road, court, alley, or space for the purpose of connecting any building, lot, premises, or establishment with any service pipe house sewer, public water main, private water main, public sewer, private sewer, subway, conduit, or other underground structure; the performance of all classes of work usually done by plumbers and drain layers including the removal of plumbing fixtures, pipes, and fittings;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Minimum requirements to safeguard life, property, or public welfare from the hazards of fire and explosion arising from the storage, handling, or use of substances, materials, and devices, and from conditions hazardous to life, property, or public welfare in the use or occupancy of buildings, structures, sheds, tents, lots, or premises;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Minimum maintenance standards for all structures and premises for basic equipment and facilities for light, ventilation, space heating, and sanitation; for safety from fire; for space, use, and location; for safe and sanitary maintenance of all structures and premises now in existence; for minimum requirements for all existing buildings and structures for means of egress, fire protection systems, and other equipment and devices necessary for life safety from fire; for rehabilitation and reuse of existing structures and for allowing differences between the application of the code requirements to new construction and to alterations and repairs and for fixing the responsibilities of owners, operators, and occupants of all structures; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The design and construction of the exterior envelopes and the selection of heating, ventilating, air conditioning, service water heating, electrical distribution and illuminating systems, and equipment required for the effective use of energy.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Construction Codes shall apply to those buildings occupied by or for any foreign government as an embassy or chancery to the extent provided for in § <cite path="§6-1306">6-1306</cite>(g).</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Except for permit requirements for land disturbing activities, the Construction Codes shall not apply to public buildings or premises owned by the United States government, including appurtenant structures and portions of buildings, premises, or structures, that are under the exclusive control of an officer of the United States government in his or her official capacity. If a lessor is responsible for the maintenance and repairs to property leased to the United States government, the property shall not be deemed to be under the exclusive control of an officer of the United States government.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>No permit required under the Construction Codes shall be issued if it is determined by the Mayor that:</text>
+        <para>
+          <num>(A)</num>
+          <text>The permit affects an area in close proximity to the official residence of the President or the Vice President of the United States; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The United States Secret Service has established that the issuance of the permit would adversely impact the safety and security of the President or the Vice President of the United States;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>This subsection shall apply to each permit application that has not been granted by the Mayor by February 27, 1990.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 4, 34 DCR 1072</annotation>
+        <annotation doc="D.C. Law 8-58">Jan. 30, 1990, D.C. Law 8-58, § 2, 36 DCR 7382</annotation>
+        <annotation doc="D.C. Law 8-70">Feb. 27, 1990, D.C. Law 8-70, § 2, 36 DCR 7744</annotation>
+        <annotation doc="D.C. Law 10-68">Feb. 5, 1994, D.C. Law 10-68, § 14, 40 DCR 6311</annotation>
+        <annotation doc="D.C. Law 10-166">Aug. 26, 1994, D.C. Law 10-166, § 2, 41 DCR 4892</annotation>
+        <annotation doc="D.C. Law 19-289">Apr. 27, 2013, D.C. Law 19-289, § 3(a), 60 DCR 2328</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1303.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Section 3(a) of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> amended (a)(1) to read as follows:</annotation>
+        <annotation>“(a) The Construction Codes shall control:</annotation>
+        <annotation>“(1) Matters concerning the construction, reconstruction, alteration, addition, repair, removal, demolition, use, location, occupancy, and maintenance of all buildings, structures, interior signs, advertising devices, and premises in the District and applies to existing or proposed buildings and structures.”</annotation>
+        <annotation>Section 8 of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.</annotation>
+        <annotation>Section 9 of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that sections 3, 4, 5, 6, and 7 of the act shall apply upon the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property pursuant to section 2 of the act.</annotation>
+        <annotation>Section 11(b) of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> substituted “interior signs, advertising devices” for “signs, advertising devices” in (a)(1).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 3(a) of the Sign Regulation Emergency Amendment Act of 2012 (D.C. Act 19-387, July 11, 2012,  59 DCR 8491).</annotation>
+        <annotation>For temporary amendment of (a)(1), see § 3(a) of the Sign Regulation Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-499, October 26, 2012,  59 DCR 12749), applicable after the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property, and with the condition that any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Mayor's Orders</heading>
+        <text>Establishment of Building Code Advisory Committee: See Mayor’s Order 89-257, November 7, 1989.</text>
+        <text>Establishment of a Working Group to Review the District’s Existing Sign Rules and Provide Advice on Proposed Revisions, see Mayor’s Order 2011-181, October 31, 2011 ( 58 DCR 9416).</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 3(a) of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> would have substituted “interior signs, advertising devices” for “signs, advertising devices” in (a)(1).</text>
+        <text>Section 9 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> provided: “Any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.”</text>
+        <text>Applicability of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite>, § 3: Section 10 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> provided that sections 3, 4, 5, 6, 7, and 8 of the act shall not apply until the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property pursuant to section 2 of the act. Section 2 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> rewrote §§ <cite path="§1-303.21">1-303.21</cite> and <cite path="§1-303.23">1-303.23</cite>, and repealed § <cite path="§1-303.22">1-303.22</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <num codify:value="6-1403.01">4a</num>
+    <heading>Construction Codes database.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall establish and maintain a searchable electronic database available through the Internet that, at a minimum, contains the Construction Codes Supplement, set forth in Title 12 of the District of Columbia Municipal Regulations, and any amendments made thereto, to the:</text>
+      <para>
+        <num>(1)</num>
+        <text>BOCA National Building Code/1996;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>International Plumbing Code/1995;</text>
+      </para>
+    </para>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall establish and maintain a searchable electronic database available through the Internet that, at a minimum, contains the Construction Codes Supplement, set forth in Title 12 of the District of Columbia Municipal Regulations, and any amendments made thereto, to the:</text>
+      <para>
+        <num>(3)</num>
+        <text>International Mechanical Code/1996;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>BOCA National Fire Prevention Code/1996;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>BOCA National Property Maintenance Code/1996;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Council of American Building Officials One and Two Family Dwelling Code/1995;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>National Fire Protection Association National Electrical Code/1996; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Building Rehabilitation Code.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Department of Consumer and Regulatory Affairs shall make the information in the database available to any person.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 4a</annotation>
+        <annotation doc="D.C. Law 14-162">as added June 25, 2002, D.C. Law 14-162, § 101, 49 DCR 4438</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1410">6-1410</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Section 3(b) of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> repealed this section.</annotation>
+        <annotation>Section 8 of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.</annotation>
+        <annotation>Section 9 of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that sections 3, 4, 5, 6, and 7 of the act shall apply upon the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property pursuant to section 2 of the act.</annotation>
+        <annotation>Section 11(b) of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal of section, see § 3(b) of the Sign Regulation Emergency Amendment Act of 2012 (D.C. Act 19-387, July 11, 2012,  59 DCR 8491).</annotation>
+        <annotation>For temporary repeal of section, see § 3(b) of the Sign Regulation Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-499, October 26, 2012,  59 DCR 12749), applicable after the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property, and with the condition that any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 301 of <cite doc="D.C. Law 14-162">D.C. Law 14-162</cite> provided: “Pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), the Mayor may issue rules to implement the provisions of this act.”</text>
+        <text>Section 3(b) of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> would have repealed this section.</text>
+        <text>Section 9 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> provided: “Any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.”</text>
+        <text>Section 10 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> provided: “Applicability. Sections 3, 4, 5, 6, 7, and 8 shall not apply until the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property pursuant to section 2.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <num codify:value="6-1404">5</num>
+    <heading>Intent.</heading>
+    <text>The Construction Codes shall be construed to secure their expressed intent, which is to ensure public safety, health, and welfare by building construction, through structured strength, energy and water conservation, accessibility to persons with disabilities, adequate egress facilities, sanitary equipment, light, ventilation, and fire safety; and, in general, to secure safety to life and property from all hazards incident to the design, erection, repair, removal, demolition, or use and occupancy of buildings, structures, or premises.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 5, 34 DCR 1072</annotation>
+        <annotation doc="D.C. Law 16-305">Apr. 24, 2007, D.C. Law 16-305, § 22, 53 DCR 6198</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1304.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite> substituted “persons with disabilities” for “the physically handicapped”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Mayor's Orders</heading>
+        <annotation>Establishment of Building Code Advisory Committee: See Mayor’s Order 89-257, November 7, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <num codify:value="6-1405">6</num>
+    <heading>Conflicts.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If conflict arises between the provisions of this chapter and the D.C. Supplement, the Model Codes, or their reference standards, the provisions of this chapter shall take precedence.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If conflict arises between the D.C. Supplement, the Model Codes, and their reference standards:</text>
+      <para>
+        <num>(1)</num>
+        <text>The provisions of the D.C. Supplement shall take precedence over the Model Codes and their reference standards, except as provided in paragraphs (2) and (3) of this subsection;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The provisions of the BOCA Basic/National Existing Structures Code/1984, 1st Edition, and the CABO One and Two Family Dwelling Code, 1983 Edition, shall take precedence over the D.C. Supplement, other Model Codes, and their reference standards with regard to existing structures and Use Group R-4 buildings;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The most stringent provisions of the BOCA Basic/National Existing Structures Code/1984, 1st Edition or the CABO One and Two Family Dwelling Code, 1983 Edition, shall take precedence when a building is both an existing structure and in Use Group R-4;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The provisions of the 1985 Supplement to the BOCA Basic/National Building Code, Basic/National Fire Prevention Code, Basic/National Mechanical Code, and Basic/National Plumbing Code shall take precedence over the provisions of the other Model Codes that they amend; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The provisions of the Model Codes other than their reference standards shall take precedence over their reference standards.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 6, 34 DCR 1072</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1305.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Mayor's Orders</heading>
+        <annotation>Establishment of Building Code Advisory Committee: See Mayor’s Order 89-257, November 7, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <num codify:value="6-1405.01">6a</num>
+    <heading>Administration of construction regulations.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor or the Mayor’s designee is authorized to administer and enforce the provisions of this chapter, including provisions regarding the Construction Codes, building permits, and certificates of occupancy, and all regulations issued pursuant thereto. In regulating and enforcing building permits and certificates of occupancy, the Director shall require an employer, as that term is defined in § <cite path="§32-1501">32-1501</cite>(10), prior to the issuance of a construction permit to produce proof of Workers’ Compensation insurance coverage. The Director shall seek to assure that all buildings and structures in the District of Columbia are in full compliance with the Construction Codes adopted pursuant to this chapter and all zoning provisions in subchapter IV of Chapter 6 of this title, and regulations issued and enforced under those provisions. The Director shall seek to administer all building permits, certificates of occupancy and other provisions of this chapter, and all regulations issued hereunder, in a manner that is fair, efficient, predictable, readily adaptable to new technologies, consumer-oriented, devoid of unnecessary time delays and other administrative burdens, cost-effective, and directed at enhancing the protection of the public health, welfare, safety and quality of life.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Director may enforce the regulations issued pursuant to this chapter by means of covenants or agreements between the Department of Consumer and Regulatory Affairs and an affected party. All such covenants or agreements shall have the prior approval of the Office of the Corporation Counsel for legal sufficiency and compliance with all District and other laws. Where the Office of the Corporation Counsel determines that, under District law, a covenant or agreement may require the review and approval of other District agencies, it shall so notify such agencies and establish an inter-agency process for review and, if required under District law, approval. The Director shall coordinate with the Office of the Corporation Counsel the time required for the review and recommendations by the Office of the Corporation Counsel of any covenant or agreement proposed pursuant to this chapter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Building Code Official shall have authority over the approval, installation, design, modification, maintenance, testing, and inspection of all new and existing fire protection systems.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>For purposes of this section, the term “Director” means the Director of the Department of Consumer and Regulatory Affairs.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>To the extent not [sic] authorized by § <cite path="§6-661.01">6-661.01</cite>, and notwithstanding § <cite path="§6-1409">6-1409</cite>(a), the Mayor, from time to time, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], may establish and revise fees and additional charges regarding the Construction Codes, building permits, and certificates of occupancy, without submission of the proposed rules to the Council for its prior review and approval.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 6a</annotation>
+        <annotation doc="D.C. Law 12-261">as added Apr. 20, 1999, D.C. Law 12-261, § 3002, 46 DCR 3142</annotation>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 302(b), 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 15-205">Dec. 7, 2004, D.C. Law 15-205, § 1103, 51 DCR 8441</annotation>
+        <annotation doc="D.C. Law 18-223">Sept. 24, 2010, D.C. Law 18-223, § 2023, 57 DCR 6242</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1305.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> added subsecs. (c) and (d).</annotation>
+        <annotation><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, in subsec. (a), substituted “occupancy, the Director shall require an employer, as that term is defined in § <cite path="§32-1501">32-1501</cite>(10), prior to the issuance of a construction permit to produce proof of Workers’ Compensation insurance coverage. The Director”. for “occupancy, the Director”.</annotation>
+        <annotation><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> added subsec. (e).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>Section 203 of <cite doc="D.C. Law 18-222">D.C. Law 18-222</cite> added subsec. (e) to read as follows:</annotation>
+        <annotation>“(e) To the extent not authorized by paragraph 7 of the General Expenses titles of An Act making appropriations to provide for the expenses of the government of the District of Columbia for the fiscal year ending June thirteenth, nineteen hundred and ten, and for other purposes, approved March 3, 1909 (35 Stat. 689; D.C. Official Code § <cite path="§6-661.01">6-661.01</cite>), and notwithstanding section 10(a), the Mayor, from time to time, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), may establish and revise fees and additional charges regarding the Construction Codes, building permits, and certificates of occupancy, without submission of the proposed rules to the Council for its prior review and approval.”.</annotation>
+        <annotation>Section 2002(b) of <cite doc="D.C. Law 18-222">D.C. Law 18-222</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 302(b) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1103 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1103 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 203 of Fiscal Year 2010 Balanced Budget Support Emergency Act of 2010 (D.C. Act 18-450, June 28, 2010,  57 DCR 5635).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 203 of Fiscal Year 2010 Balanced Budget Support Congressional Review Emergency Act of 2010 (D.C. Act 18-531, August 6, 2010,  57 DCR 8109).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2023 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Land Use, Development, and Code Enforcement Amendment Act of 1998: Section 3001 of title III of <cite doc="D.C. Law 12-261">D.C. Law 12-261</cite> provided that this title may be cited as the “Land Use, Development, and Code Enforcement Amendment Act of 1998.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <num codify:value="6-1405.02">6b</num>
+    <heading>Expedited Construction Documents Review Program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For the purposes of this section and § <cite path="§6-1405.03">6-1405.03</cite>, the term:</text>
+      <para>
+        <num>(1)</num>
+        <text>“Construction documents” mean all drawings that, together with the specifications, describe the proposed building construction or renovation in sufficient detail and provide sufficient information to enable the Director to determine whether it complies with the Construction Codes.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Construction permit application” means any application made to the Department for construction in private space.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Department” means the Department of Consumer and Regulatory Affairs.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Director” means the Director of the Department of Consumer and Regulatory Affairs, or his or her designee.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“District” means the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Expedited Construction Documents Review Program” or “Program” means the processing procedure for qualified construction permit applications and construction documents established by subsection (b) of this section.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Peer Reviewer” means a person certified by the Director to conduct a third party review of one or more components of construction documents as described in § <cite path="§6-1405.03">6-1405.03</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall establish an Expedited Construction Documents Review Program to provide a separate processing procedure to expedite the District’s review of qualified construction permit applications and construction documents; provided, that the application and documents meet the requirements of the Construction Codes. The Expedited Construction Documents Review Program shall incorporate by reference any requirements for third party reviews contained in subsection 108.1 of Title 12A of the District of Columbia Municipal Regulations (12A DCMR § 108.1), and incorporate the expedited review procedures of § <cite path="§6-1405.03">6-1405.03</cite>, including pre-submission review by a Peer Reviewer. The Expedited Construction Documents Review Program shall include periodic detailed review by the Director of the documents recommended for submission by the Peer Reviewers.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Director shall appoint Peer Reviewers. Peer Reviewer applicants shall possess a valid license as an architect or professional engineer in the District pursuant to part A or J of subchapter I-B of Chapter 28 of Title 47. The Mayor shall promulgate regulations to establish the requirements for certification of Peer Reviewers, including training and experience requirements, within 180 days of June 25, 2002.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>When appointing a person as a Peer Reviewer, the Director shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Specify the construction permit applications and construction documents which the Peer Reviewer may review and recommend for submission; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Assign a Peer Reviewer number to the person.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To maintain an appointment, a Peer Reviewer shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Maintain the license specified in paragraph (1) of this subsection and provide evidence thereof annually; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Recommend for submission construction permit applications and construction documents which consistently meet the requirements of the Construction Codes.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <para>
+          <num>(A)</num>
+          <text>The Peer Reviewer appointment may be revoked by the Director for failure to comply with the requirements of this section or § <cite path="§6-1405.03">6-1405.03</cite>. The revocation shall be in writing and state the provision of this section or § <cite path="§6-1405.03">6-1405.03</cite> with which the Peer Reviewer has not complied.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Peer Reviewer appointment may be reinstated if the Director determines that the basis for revocation of Peer Reviewer appointment has been remedied and the person possesses the license specified in paragraph (1) of this subsection.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 6b</annotation>
+        <annotation doc="D.C. Law 14-162">as added June 25, 2002, D.C. Law 14-162, § 101, 49 DCR 4438</annotation>
+        <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 43, 51 DCR 881</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1405.03">6-1405.03</cite> and § <cite path="§6-1451.01">6-1451.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (c)(1), validated a previously made technical correction.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 301 of <cite doc="D.C. Law 14-162">D.C. Law 14-162</cite> provided: “Pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), the Mayor may issue rules to implement the provisions of this act.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <num codify:value="6-1405.03">6c</num>
+    <heading>Expedited construction documents review procedures.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>To participate in the Expedited Construction Document Review Program, a property owner or authorized agent shall notify the Department in the manner provided by regulation, stating:</text>
+        <para>
+          <num>(A)</num>
+          <text>The name of the Peer Reviewer or Reviewers;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>That the Peer Reviewer is a certified Peer Reviewer pursuant to requirements set forth in § <cite path="§6-1405.02">6-1405.02</cite>(c)(1); and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The components of the construction documents which will be reviewed, certified for compliance with the Construction Codes, and recommended for submission under the Program.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A property owner or authorized agent may elect to participate in the Program at any time until the Department has completed its review of the construction permit application and construction documents which have been submitted. A property owner or authorized agent who has previously elected not to participate in the Program may amend, in writing, its prior application to notify the Department that the property owner or authorized agent elects to utilize the Expedited Construction Documents Review Program. The property owner or authorized agent may elect either a full or partial review by a Peer Reviewer. The fee, if any, for the amended application shall be nominal.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>Before a property owner or authorized agent may submit construction documents or components of the construction documents to the Director for review and approval under the Expedited Construction Documents Review Program, the construction documents or components of the construction documents shall be reviewed, certified for compliance with the Construction Codes, and recommended for submission by a Peer Reviewer.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The following components of construction documents may be reviewed by a Peer Reviewer before the submission of the construction documents to the Department:</text>
+        <para>
+          <num>(A)</num>
+          <text>Architectural;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Elevators;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Structural;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Mechanical;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Plumbing;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Electrical; and</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>Fire and Life Safety.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A Peer Reviewer shall review only those components of the construction documents for which the Peer Reviewer is authorized by the Director under § <cite path="§6-1405.02">6-1405.02</cite>(c)(2)(A).</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To qualify to work as a Peer Reviewer on a project, the Peer Reviewer shall not be controlled by the owner of the project (including any person or entity with an ownership interest in the project), the general contractor, the subcontractors, or any person or entity responsible for the design, construction, or management of the project. The Peer Reviewer shall not serve or have served on the same project as an advisor or consultant to the owner or the design team in connection with Construction Codes matters for which the Peer Reviewer is providing plan review and certification services, while at the same time providing those consulting services.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A person, or firm with which that person is affiliated as an owner or employee, who has performed any work for a project, including preparing design plans for any construction documents or components of construction documents, including architectural and structural plans, mechanical plans, plumbing plans, and electrical plans, shall not be eligible to serve as a Peer Reviewer for the project.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Peer Reviewer shall not enter into a contract to review a project if he or she determines that there may be a conflict with the qualifications specified in paragraph (4) of this subsection. The Peer Reviewer shall notify the Director, for resolution, cases of doubtful interpretation. The Director may request advice in such cases from the Corporation Counsel or the Ethics Advisor of the Department. The Director shall resolve disputes on these matters and the decision of the Director shall be final.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Peer Reviewer shall disclose any potential conflicts of interest that may arise at any time between the Peer Reviewer and the project or parties connected to the project.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The Peer Reviewer applying for certification shall provide a notarized sworn affidavit to the Director, attesting that the Peer Reviewer will remain independent of conflicts of interest as set forth in this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>Construction documents or the components of the construction documents which have been reviewed, certified for compliance with the Construction Codes, and recommended for submission by a Peer Reviewer shall be reviewed by the Director on a priority basis.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the Director is satisfied that the construction documents or the components of the construction documents conform with the requirements of the Construction Codes and all applicable laws, rules, and regulations, the Director shall approve the construction documents or components of the construction documents within 15 days of submission.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A Peer Reviewer shall review, certify for compliance with the Construction Codes, and recommend each component of the construction documents for submission to the Director.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <para>
+        <num>(1)</num>
+        <para>
+          <num>(A)</num>
+          <text>Construction documents accepted by the Director for review under the Expedited Construction Documents Review Program shall contain a written certification by a Peer Reviewer, in a form promulgated by the Mayor. The certification shall contain:</text>
+          <para>
+            <num>(i)</num>
+            <text>An identification of the components reviewed (such as electrical or structural);</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The lot, square, and address of the project; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>An affirmative statement by the Peer Reviewer that the recommendation for submission is based upon his or her professional knowledge and belief and it is in conformance with the applicable provisions of the Construction Codes.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Mayor shall promulgate, by regulation, the forms that shall be used by Peer Reviewers to comply with the requirements of this section. The Director shall review these completed forms for consistency and thoroughness.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Peer Reviewer number, the District Architect’s or Engineer’s License number, and the Peer Reviewer’s signature shall be included with the certification set forth in paragraph (1) of this subsection.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Director shall maintain a tracking system to monitor the recommendations of the Peer Reviewers and the consistency with which construction documents recommended by them conform to the applicable provisions of the Construction Codes.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>This section shall not relieve a person who prepares and submits construction documents of any obligations or liabilities, otherwise existing under law, and shall not relieve the District of its obligation to review all construction documents in the manner otherwise prescribed by law.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 6c</annotation>
+        <annotation doc="D.C. Law 14-162">as added June 25, 2002, D.C. Law 14-162, § 101, 49 DCR 4438</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1405.02">6-1405.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 301 of <cite doc="D.C. Law 14-162">D.C. Law 14-162</cite> provided: “Pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), the Mayor may issue rules to implement the provisions of this act.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <num codify:value="6-1405.04">6d</num>
+    <heading>Third party inspections.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall allow third party inspectors to certify the work performed pursuant to a building permit.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall promulgate rules to establish the minimum requirements for third party inspectors, including training and experience requirements, within 180 days of June 25, 2002.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A person, or a firm with which that person is affiliated as an owner or employee, who has performed any work for a project for which the property owner or the authorized agent has elected to use third party inspectors, including inspectors of architectural and structural plans, mechanical plans, plumbing plans, and electrical plans, shall not be eligible to serve as a third party inspector for any component on the project.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 6d</annotation>
+        <annotation doc="D.C. Law 14-162">as added June 25, 2002, D.C. Law 14-162, § 101, 49 DCR 4438</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 301 of <cite doc="D.C. Law 14-162">D.C. Law 14-162</cite> provided: “Pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), the Mayor may issue rules to implement the provisions of this act.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <num codify:value="6-1406">7</num>
+    <heading>Penalties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsection (b) of this section, any person who violates any of the provisions of the Construction Codes or orders issued under the authority of the Construction Codes shall, upon conviction, be subject to a fine not to exceed $2000, or imprisonment not to exceed 90 days, or both, for each violation.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any person who violates any of the provisions of the Fire Prevention Code, Articles 14, 15, and 17 of the Building Code, Article 9 of the Existing Structures Code, or orders issued under the authority of these provisions shall, upon conviction, be subject to a fine not to exceed $2000, or imprisonment not to exceed 90 days, or both, for each violation.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Civil fines, penalties, and fees may be imposed, in addition to other available remedies, for any infraction of the provisions of the Construction Codes, including the provisions of the Fire Prevention Code, pursuant to Chapter 18 of Title 2 (“Civil Infractions Act”). Adjudication of any infraction shall be pursuant to the Civil Infractions Act.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Prosecutions pursuant to subsections (a) and (b) of this section shall be brought in the name of the District of Columbia by the Attorney General for the District of Columbia.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 7, 34 DCR 1072</annotation>
+        <annotation doc="D.C. Law 8-237">Mar. 8, 1991, D.C. Law 8-237, § 30, 38 DCR 314</annotation>
+        <annotation doc="D.C. Law 16-24">Oct. 18, 2005, D.C. Law 16-24, § 2(a), 52 DCR 8080</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Smoke detector violations, election of remedies, see § <cite path="§6-751.09">6-751.09</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-751.09">6-751.09</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1306.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-24">D.C. Law 16-24</cite>, in subsec. (a), substituted “$300” for “$2000” and substituted “10 days” for “90 days”; in subsec. (b), substituted “$300” for “$2000”; in subsec. (c), substituted “may be imposed as alternative sanctions for any infraction” for “may be imposed, in addition to other available remedies, for any infraction”; and added subsec. (d).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(a) of Abatement of Nuisance Construction Projects Temporary Amendment Act of 2005 (<cite doc="D.C. Law 16-4">D.C. Law 16-4</cite>, May 14, 2005, law notification  52 DCR 5427).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Abatement of Nuisance Construction Projects Emergency Amendment Act of 2005 (D.C. Act 16-42, February 17, 2005,  52 DCR 3045).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <reason>Repealed</reason>
+    <num codify:value="6-1406.01">7a</num>
+    <heading>Construction and Zoning Compliance Management Fund.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 7a</annotation>
+        <annotation doc="D.C. Law 15-205">as added Dec. 7, 2004, D.C. Law 15-205, § 2042, 51 DCR 8441</annotation>
+        <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 128, 53 DCR 6794</annotation>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 2021(a), 57 DCR 181</annotation>
+        <annotation doc="D.C. Law 19-21">Sept. 14, 2011, D.C. Law 19-21, § 9037, 58 DCR 6226</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2042 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2042 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2021(a) of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2021(a) of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <text>Short title of subtitle D of title II of Law 15-205: Section 2041 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle D of title II of the act may be cited as the Construction and Zoning Compliance Management Fund Amendment Act of 2004.</text>
+        <text>Short title: Section 2020 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle C of title II of the act may be cited as the “Zoning Enhanced Customer Services Amendment Act of 2009”.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 44 of <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> made a technical correction to this section after its repeal by <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <num codify:value="6-1406.02">7b</num>
+    <heading>Compliance letter fees.</heading>
+    <text>The Office of Zoning Administrator administrative fee for the issuance of compliance letters shall be as follows:</text>
+    <para>
+      <num>(1)</num>
+      <text>Zoning compliance letter for a single lot: $25.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Zoning compliance letter for all other requests: $100.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 7b</annotation>
+        <annotation doc="D.C. Law 18-111">as added Mar. 3, 2010, D.C. Law 18-111, § 2021(b), 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2021(b) of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2021(b) of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1407.01" path="|6|14"/>
+    <num codify:value="6-1407">8</num>
+    <heading>Injunctions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Whenever it appears that any person, association, or business entity has engaged, is engaged, or is about to engage in acts or practices constituting a violation or infraction of any provision or orders issued under the Construction Codes, the Office of the Attorney General for the District of Columbia may bring an action in the Superior Court of the District of Columbia for injunctive relief. Injunctive relief shall be granted on a showing that it will prevent illegal construction activity in the District of Columbia. A plaintiff shall not be required to prove irreparable harm to obtain a preliminary injunction.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The injunctive relief shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>Ordering the sealing of structures and locations at which construction activity has occurred or is occurring in violation of the Construction Codes;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Ordering the cessation of all construction and remodeling activity at locations in which, or in structures where, construction activity has occurred or is occurring in violation of the Construction Codes;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Ordering the removal or correction to structures built or altered in violation of the Construction Codes; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any other equitable relief that prevents illegal construction activity in the District of Columbia.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In addition, upon a proper showing, an ex parte, interlocutory, or permanent injunction may be granted without bond. The Superior Court of the District of Columbia may also issue a mandatory injunction commanding compliance with any provision or order issued under the Construction Codes.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 8, 34 DCR 1072</annotation>
+        <annotation doc="D.C. Law 16-24">Oct. 18, 2005, D.C. Law 16-24, § 2(b), 52 DCR 8080</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1307.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-24">D.C. Law 16-24</cite> rewrote the section, which had read as follows: “Whenever it appears that any person, association, or business entity has engaged, is engaged, or is about to engage in acts or practices constituting a violation or infraction of any provision of the Construction Codes or orders issued under the authority of the Construction Codes, the Corporation Counsel may bring an action in the Superior Court of the District of Columbia to enjoin those acts or practices, and upon a proper showing, an ex parte, interlocutory, or permanent injunction may be granted without bond. The Superior Court of the District of Columbia may also issue a mandatory injunction commanding compliance with any provision of or order issued under the authority of the Construction Codes.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(b) of Abatement of Nuisance Construction Projects Temporary Amendment Act of 2005 (<cite doc="D.C. Law 16-4">D.C. Law 16-4</cite>, May 14, 2005, law notification  52 DCR 5427).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Abatement of Nuisance Construction Projects Emergency Amendment Act of 2005 (D.C. Act 16-42, February 17, 2005,  52 DCR 3045).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§6-1408.01" path="|6|14"/>
+    <num codify:value="6-1408">9</num>
+    <heading>Documents Act.</heading>
+    <text>The editorial standards for numbering, grammar, and style required by the District of Columbia Office of Documents Act, § <cite path="§2-612">2-612</cite>(5), shall not apply to the Construction Codes. The Construction Codes shall be consolidated by the District of Columbia Office of Documents into a single new title of the District of Columbia Municipal Regulations to be designated by the District of Columbia Office of Documents. Each component part of the Construction Codes shall be available for sale separately.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 9, 34 DCR 1072</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1308.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14"/>
+    <num codify:value="6-1409">10</num>
+    <heading>Amendments; supplements; editions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All future amendments, supplements, and editions of the Construction Codes shall be adopted only upon authority of the government of the District of Columbia. The Mayor may issue proposed rules to amend the Construction Codes and to adopt new supplements and editions of the Model Codes in whole or in part pursuant to subchapter I of Chapter 5 of Title 2. The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part by resolution within this 45-day review period, the proposed rules shall be deemed approved. The rules shall not take effect until approved or deemed approved by the Council.</text>
+    </para>
+    <para>
+      <num>(a-1)</num>
+      <text>Notwithstanding the provisions of subsection (a) of this subsection, the Mayor may amend the provisions of subsection 3107.18 of Title 12A of the District of Columbia Municipal Regulations (12A DCMR § 3107.18), including the specifications, drawings, limitations, and requirements of the Illustrations, as defined in subsection 3107.18.11 of Title 12A of the District of Columbia Municipal Regulations (12A DCMR § 3107.18.11), by rulemaking pursuant to § <cite path="§2-505">2-505</cite>, without submission of the proposed rules to the Council for its prior review and approval.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Within 180 days after the adoption of the International Building Code, published by the International Building Code Council, Inc. (‘IBC’), and any subsequent amendments thereto, the Mayor shall propose an amendment to the Construction Code in accordance with subsection (a) of this section to adopt the IBC.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 10, 34 DCR 1072</annotation>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 302(c), 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 15-278">Apr. 5, 2005, D.C. Law 15-278, § 3, 52 DCR 835</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1401">6-1401</cite> and § <cite path="§6-1405.01">6-1405.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1309.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> designated subsec. (a); and added subsec. (b).</annotation>
+        <annotation><cite doc="D.C. Law 15-278">D.C. Law 15-278</cite> added subsec. (a-1).</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> repealed (a-1), which read “Notwithstanding the provisions of subsection (a) of this subsection, the Mayor may amend the provisions of  subsection 3107.18 of Title 12A of the District of Columbia Municipal Regulations ( 12A DCMR § 3107.18), including the specifications, drawings, limitations, and requirements of the Illustrations, as defined in subsection 3107.18.11 of Title 12A of the District of Columbia Municipal Regulations ( 12A DCMR § 3107.18.11), by rulemaking pursuant to § <cite path="§2-505">2-505</cite>, without submission of the proposed rules to the Council for its prior review and approval.”; and repealed (b), which read: “Within 180 days after the adoption of the International Building Code, published by the International Building Code Council, Inc. (‘IBC’), and any subsequent amendments thereto, the Mayor shall propose an amendment to the Construction Code in accordance with subsection (a) of this section to adopt the IBC.”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 3 of Gallery Place Project Graphics Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-221">D.C. Law 15-221</cite>, March 16, 2005, law notification  52 DCR 3547).</annotation>
+        <annotation>Section 3(c) of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> repealed (a-1) and (b).</annotation>
+        <annotation>Section 8 of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.</annotation>
+        <annotation>Section 9 of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that sections 3, 4, 5, 6, and 7 of the act shall apply upon the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property pursuant to section 2 of the act.</annotation>
+        <annotation>Section 11(b) of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 302(c) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 3 of Gallery Place Project Graphics Emergency Amendment Act of 2004 (D.C. Act 15-508, August 2, 2004,  51 DCR 8945).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 3 of Gallery Place Project Graphics Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-626, November 30, 2004,  52 DCR 1131).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 3 of Gallery Place Project Graphics Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-38, February 17, 2005,  52 DCR 3031).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 3(c) of the Sign Regulation Emergency Amendment Act of 2012 (D.C. Act 19-387, July 11, 2012,  59 DCR 8491).</annotation>
+        <annotation>For temporary repeal of (a-1) and (b), see § 3(c) of the Sign Regulation Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-499, October 26, 2012,  59 DCR 12749), applicable after the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property, and with the condition that any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to Law 6-216, see Mayor’s Order 87-259, November 13, 1987.</annotation>
+        <annotation>Delegation of Authority to the Director of the Department of Consumer and Regulatory Affairs—Construction Codes, see Mayor’s Order 2009-224, December 18, 2009 ( 56 DCR 9665).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Resolutions</heading>
+        <text>Resolution 13-291, the “Construction Codes Amendments Approval Resolution of 1999”, was approved effective October 5, 1999.</text>
+        <text>Resolution 14-121, the “Construction Codes Amendments Approval Resolution of 2001”, was approved effective June 5, 2001.</text>
+        <text>Resolution 15-338, the “Construction Codes Amendments Approval Resolution of 2003”, was approved effective December 2, 2003.</text>
+        <text>Resolution 17-877, the “Construction Codes Amendment Approval and Disapproval Resolution of 2008”, was approved effective December 2, 2008.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Building and Land Regulation Administration User Fee Approval and Disapproval Resolution of 1994: Pursuant to Resolution 10-370, effective June 7, 1994, the Council approved, in part, and disapproved, in part, rules to adopt a new Building and Land Regulation Administration User Fee Schedule.</text>
+        <text>Building and Land Regulation Administration User Fee Amendment Rulemaking Approval Resolution of 1994: Pursuant to Proposed Resolution 11-16, deemed approved February 18, 1995, Council approved Rules to adopt an amendment to the Building and Land Regulation Administration User Fee Schedule.</text>
+        <text>Section 3(c) of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> would have repealed (a-1)and (b).</text>
+        <text>Section 9 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> provided: “Any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.”</text>
+        <text>Applicability of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite>, § 3: Section 10 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> provided that sections 3, 4, 5, 6, 7, and 8 of the act shall not apply until the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property pursuant to section 2 of the act. Section 2 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> rewrote §§ <cite path="§1-303.21">1-303.21</cite> and <cite path="§1-303.23">1-303.23</cite>, and repealed § <cite path="§1-303.22">1-303.22</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14"/>
+    <num codify:value="6-1410">10a</num>
+    <heading>Building Rehabilitation Code.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For purposes of this section and § <cite path="§6-1411">6-1411</cite>, the term:</text>
+      <para>
+        <num>(1)</num>
+        <text>“Addition” means an increase in:</text>
+        <para>
+          <num>(A)</num>
+          <text>Building area;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Aggregate floor area;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Height; or</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Number of stories of a building or structure.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Alteration” means the:</text>
+        <para>
+          <num>(A)</num>
+          <text>Reconfiguration of any space;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Addition or elimination of any door or window;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Reconfiguration or extension of any system; or</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Installation of any additional equipment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Change of occupancy” means a change in the purpose or level of activity within a structure that involves a change in application of the requirements of the BRC.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Construction permit application” means any application made to DCRA for construction in private space.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“BRC” means the Building Rehabilitation Code.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“DCRA” means the Department of Consumer and Regulatory Affairs.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“District of Columbia Building Rehabilitation Code Advisory Council” or “Rehabilitation Council” means the 19-member board appointed by the Mayor to advise the Mayor on the development, adoption, and revisions to the BRC, as well as other related matters set forth in § <cite path="§6-1411">6-1411</cite>.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Existing building” means any building or structure that was erected and occupied or issued a certificate of occupancy at least one year before a construction permit application for that building or structure was made to DCRA.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Reconstruction” means the:</text>
+        <para>
+          <num>(A)</num>
+          <text>Reconfiguration of a space which affects an exit or element of the egress access shared by more than a single occupant;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Reconfiguration of a space such that the work area is not permitted to be occupied because existing means of egress and fire protection systems, or their equivalent, are not in place or continuously maintained; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Extensive modifications.</text>
+        </para>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Rehabilitation” means any construction work undertaken in an existing building that includes repair, renovation, modification, reconstruction, change of occupancy, or addition.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <para>
+          <num>(A)</num>
+          <text>“Renovation” means the:</text>
+          <para>
+            <num>(i)</num>
+            <text>Change, strengthening, or addition of load bearing elements; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Refinishing, replacing, bracing, strengthening, upgrading, or extensive repair of existing materials, elements, components, equipment, or fixtures.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The term “renovation” shall not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>Reconfiguration of space; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Interior and exterior painting.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Repair” means the patching, restoration, or minor replacement of materials, elements, components, equipment, or fixtures for the purpose of maintaining these materials, elements, components, equipment, or fixtures in good or sound condition.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall issue rules to adopt the BRC, which shall be modeled on the Nationally Applicable Recommended Rehabilitation Provisions developed by the United States Department of Housing and Urban Development or the International Existing Building Code developed by the International Code Council. The Mayor shall submit the proposed rules to the Council for its review within 360 days of June 25, 2002. The Council shall have 90 days, exclusive of Saturdays, Sundays, holidays, and days of Council recess, in which to review and affirmatively approve the BRC. If the Council does not approve the BRC, it shall be deemed disapproved.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The BRC shall, at a minimum:</text>
+      <para>
+        <num>(1)</num>
+        <text>Maintain a level of safety consistent with existing codes and provide for multiple categories of work with multiple compliance standards;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be enforceable by the Mayor using existing enforcement procedures;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Apply to repair, renovation, modification, reconstruction, change of occupancy, and addition to an existing building; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Provide for an expedited review process for proposed amendments to the BRC submitted by the Council or another source.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Within 180 days after the adoption of the BRC and any subsequent amendments thereto, the Mayor shall propose amendments to make the Construction Codes consistent with the BRC.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Mayor, in cooperation with the District of Columbia Building Rehabilitation Code Advisory Council, shall review the BRC and propose amendments at least every 3 years.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>To enable the electronic database established under § <cite path="§6-1403.01">6-1403.01</cite> to remain current, the Rehabilitation Council shall submit an amendment to DCRA at least 15 days before June 25, 2002.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 10a</annotation>
+        <annotation doc="D.C. Law 14-162">as added June 25, 2002, D.C. Law 14-162, § 201(a)(3), 49 DCR 4438</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1451.01">6-1451.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Section 3(d) of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> repealed this section.</annotation>
+        <annotation>Section 8 of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.</annotation>
+        <annotation>Section 9 of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that sections 3, 4, 5, 6, and 7 of the act shall apply upon the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property pursuant to section 2 of the act.</annotation>
+        <annotation>Section 11(b) of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal of section, see § 3(d) of the Sign Regulation Emergency Amendment Act of 2012 (D.C. Act 19-387, July 11, 2012,  59 DCR 8491).</annotation>
+        <annotation>For temporary repeal of section, see § 3(d) of the Sign Regulation Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-499, October 26, 2012,  59 DCR 12749), applicable after the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property, and with the condition that any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 301 of <cite doc="D.C. Law 14-162">D.C. Law 14-162</cite> provided: “Pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), the Mayor may issue rules to implement the provisions of this act.”</text>
+        <text>Section 3(d) of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> would have repealed this section.</text>
+        <text>Section 9 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> provided “Any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.”</text>
+        <text>Applicability of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite>, § 3: Section 10 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> provided that sections 3, 4, 5, 6, 7, and 8 of the act shall not apply until the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property pursuant to section 2 of the act. Section 2 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> rewrote §§ <cite path="§1-303.21">1-303.21</cite> and <cite path="§1-303.23">1-303.23</cite>, and repealed § <cite path="§1-303.22">1-303.22</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14"/>
+    <num codify:value="6-1411">10b</num>
+    <heading>Establishment of the District of Columbia Building Rehabilitation Code Advisory Council.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall establish the District of Columbia Building Rehabilitation Code Advisory Council consisting of the following members from among whom the Mayor shall designate a Chair:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Director of Housing and Community Development, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Director of the DCRA, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Chief of the Fire and Emergency Medical Services Department, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Chair of the Historic Preservation Review Board, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Chair of the Mayor’s Committee on Persons with Disabilities, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Chair of the Building Code Advisory Committee established by Mayor’s Order 89-257, November 7, 1989, who shall serve as an ex-officio member; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Fourteen members appointed by the Mayor, as follows:</text>
+        <para>
+          <num>(A)</num>
+          <text>Four representatives of the building trades who are directly involved or have experience in code setting or enforcement, including plumbers; electricians; heating, ventilation, air-conditioning, and refrigeration contractors; and boiler operators;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Two architects practicing in the District whose practice involves a significant portion of rehabilitation projects;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A professional engineer;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Two contractors specializing in rehabilitation construction;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>A commercial and industrial building owner or developer;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>A multifamily building owner or developer; and</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>Three members of the general public.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The members shall serve a 4-year term; provided, that for the initial appointments under subsection (a)(6) of this section, ½ of the members shall be appointed for 2-year terms.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A member may continue to serve after the expiration of his or her term until a successor is appointed.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A member appointed to fill a vacancy, or after a term has begun, shall serve only for the remainder of the term and until a successor is appointed.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Appointed members shall serve no more than 2 terms.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Members shall serve without compensation and shall be reimbursed for reasonable expenses.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Rehabilitation Council shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Advise the Mayor on the development, adoption, and revisions to the BRC;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Develop, to the extent possible, the BRC to avoid increased costs to the District arising from implementation of the BRC; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide, to the extent District funds are available, training on the BRC for District personnel responsible for administering the BRC and for public and private construction-related professionals.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>DCRA shall provide administrative and staff services to the Rehabilitation Council.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 10b</annotation>
+        <annotation doc="D.C. Law 14-162">as added June 25, 2002, D.C. Law 14-162, § 201(a)(3), 49 DCR 4438</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1410">6-1410</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Section 3(e) of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> repealed this section.</annotation>
+        <annotation>Section 8 of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.</annotation>
+        <annotation>Section 9 of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that sections 3, 4, 5, 6, and 7 of the act shall apply upon the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property pursuant to section 2 of the act.</annotation>
+        <annotation>Section 11(b) of <cite doc="D.C. Law 19-181">D.C. Law 19-181</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal of section, see § 3(e) of the Sign Regulation Emergency Amendment Act of 2012 (D.C. Act 19-387, July 11, 2012,  59 DCR 8491).</annotation>
+        <annotation>For temporary repeal of section, see § 3(e) of the Sign Regulation Congressional Review Emergency Amendment Act of 2012 (D.C. Act 19-499, October 26, 2012,  59 DCR 12749), applicable after the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property, and with the condition that any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 301 of <cite doc="D.C. Law 14-162">D.C. Law 14-162</cite> provided: “Pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), the Mayor may issue rules to implement the provisions of this act.”</text>
+        <text>Section 3(e) of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> would have repealed this section.</text>
+        <text>Section 9 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> provided “Any order, rule, or regulation in effect under a law replaced by this act shall remain in effect until repealed, amended, or superseded.”</text>
+        <text>Applicability of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite>, § 3: Section 10 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> provided that sections 3, 4, 5, 6, 7, and 8 of the act shall not apply until the Mayor’s issuance of a comprehensive final rulemaking governing signs on public space and private property pursuant to section 2 of the act. Section 2 of <cite doc="D.C. Law 19-289">D.C. Law 19-289</cite> rewrote §§ <cite path="§1-303.21">1-303.21</cite> and <cite path="§1-303.23">1-303.23</cite>, and repealed § <cite path="§1-303.22">1-303.22</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14"/>
+    <num codify:value="6-1412">10c</num>
+    <heading>Construction Codes revisions for green building practices.</heading>
+    <para>
+      <num>(a)</num>
+      <text>By June 1, 2013, and at least once every 3 years thereafter, the Mayor, in consultation with the Green Building Advisory Council, shall submit to the Council, for approval, revisions to the Construction Codes that shall incorporate as many significant green building practices as practicable for the District of Columbia urban environment. The Mayor shall include as many green building provisions as practicable from the current versions of codes and standards published by the International Code Council. The Mayor may exclude provisions that are not practicable for the District of Columbia urban environment but shall provide evidence of cost or implementation impracticality for the excluded provisions; provided, that the Mayor is not required to consider codes or standards issued by the International Code Council within one year of the submittal date.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Every 6 months after March 8, 2007, the Mayor shall provide a written report on the progress of the current round of Construction Codes revisions to the chairperson of the committee of the Council that oversees the District agency charged with the building permit function. The report accompanying the final Construction Codes revisions shall include a listing and description of each green building practice considered and why each practice was, or was not included, in the respective Construction Codes revision. By June 1, 2013, and after at least every 3 years by June 1 of the relevant year, the Mayor shall submit to the Council for approval Construction Codes revisions that are consistent with the requirements of this section, and that incorporate green building practices developed since the previous Construction Codes revisions.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-216">Mar. 21, 1987, D.C. Law 6-216, § 10c</annotation>
+        <annotation doc="D.C. Law 16-234">as added Mar. 8, 2007, D.C. Law 16-234, § 13, 54 DCR 377</annotation>
+        <annotation doc="D.C. Law 19-139">June 5, 2012, D.C. Law 19-139, § 3, 59 DCR 2555</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-139">D.C. Law 19-139</cite> rewrote subsec. (a); and, in subsec. (b), substituted “By June 1, 2013” for “On or before By January 1, 2010” and substituted “June 1” for “January 1”. Prior to amendment, subsec. (a) read as follows: “(a) Within 180 days of March 8, 2007, the Mayor shall promulgate rules to implement this chapter. The proposed rules shall be submitted to the Council for a 45 day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 45 day review period, the proposed rules shall be deemed approved.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 8-205" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 8-205" flag="true">
   <num type="law">8-205</num>
   <heading type="short">Uniform Law on Notarial Acts of 1990</heading>
   <meta>
@@ -12,4 +12,463 @@
       <narrative>Law 8-205, the “Uniform Law on Notarial Acts of 1990,” was introduced in Council and assigned Bill No. 8-87, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on November 20, 1990, and December 4, 1990, respectively. Signed by the Mayor on December 14, 1990, it was assigned Act No. 8-280 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|1|II"/>
+    <num codify:value="42-141">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Acknowledgment” means a declaration by a person that states:</text>
+      <para>
+        <num>(A)</num>
+        <text>The person has executed an instrument for the purposes stated in the instrument; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>If the instrument is executed in a representative capacity, that the person signed the instrument with proper authority and executed the instrument as the act of the person or entity represented and identified in the instrument.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“District” means the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“In a representative capacity” means to act as:</text>
+      <para>
+        <num>(A)</num>
+        <text>An authorized officer, agent, partner, trustee, or other representative for and on behalf of a corporation, partnership, trust, or other entity;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A public officer, personal representative, guardian, or other representative, in the capacity recited in the instrument;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>An attorney in fact for a principal; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>An authorized representative of another in any other capacity.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Notarial act” means taking an acknowledgment, administering an oath or affirmation, taking a verification upon oath or affirmation, witnessing or attesting a signature, noting a protest of a negotiable instrument, or any other similar act authorized by law.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Notarial officer” means a notary public or other officer authorized to perform a notarial act.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Verification upon oath or affirmation” means a declaration that a statement made by a person upon oath or affirmation is a true statement.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-205">Mar. 6, 1991, D.C. Law 8-205, § 2, 37 DCR 8444</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-621.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Construction of Law</heading>
+        <text>Construction of Law 8-205</text>
+        <text>Section 11 of <cite doc="D.C. Law 8-205">D.C. Law 8-205</cite> provided that the act shall be applied and construed to effectuate the general purpose to make uniform the law with respect to the subject of the act among jurisdictions enacting it.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Uniform Law: This section is based upon § 1 of the Uniform Law on Notarial Acts.</text>
+        <text>Application of 8-205: Section 10 of <cite doc="D.C. Law 8-205">D.C. Law 8-205</cite> provided that the act shall apply to any notary act performed on or after the effective date of this act.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|1|II"/>
+    <num codify:value="42-142">3</num>
+    <heading>Notarial acts.</heading>
+    <para>
+      <num>(a)</num>
+      <text>In taking an acknowledgment, the notarial officer shall determine from personal knowledge or satisfactory evidence that the person who appears before the officer and makes the acknowledgment is the person whose true signature is on the instrument.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In taking a verification upon oath or affirmation, the notarial officer shall determine from personal knowledge or satisfactory evidence that the person who appears before the officer and makes the verification is the person whose true signature is on the statement verified.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In witnessing or attesting a signature, the notarial officer shall determine from personal knowledge or satisfactory evidence that the signature is the signature of the person who appears before the officer and is named in the instrument.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A notarial officer shall have satisfactory evidence that a person is the person whose true signature is on a document if the person is:</text>
+      <para>
+        <num>(1)</num>
+        <text>Personally known to the notarial officer;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Identified upon the oath or affirmation of a credible witness personally known to the notarial officer; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Identified on the basis of identification documents.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-205">Mar. 6, 1991, D.C. Law 8-205, § 3, 37 DCR 8444</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-147">42-147</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-622.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 2 of the Uniform Law on Notarial Acts.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|1|II"/>
+    <num codify:value="42-143">4</num>
+    <heading>Notarial acts in the District.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A notarial act may be performed within the District by the following persons to the extent authorized by law:</text>
+      <para>
+        <num>(1)</num>
+        <text>A notary public of the District;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A judge, clerk, or deputy clerk of any court of the District; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any other person authorized to perform the specific act.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Notarial acts performed within the District under federal authority as provided in § <cite path="§42-145">42-145</cite> shall have the same effect as if performed by a notarial officer of the District.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The signature and title of a person performing a notarial act are prima facie evidence that the signature is genuine and that the person holds the designated title.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-205">Mar. 6, 1991, D.C. Law 8-205, § 4, 37 DCR 8444</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-623.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 3 of the Uniform Law on Notarial Acts.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|1|II"/>
+    <num codify:value="42-144">5</num>
+    <heading>Notarial acts in other jurisdictions of the United States.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A notarial act shall have the same effect under the law of the District as if the notarial act had been performed by a notarial officer of the District, if the notarial act is performed in another state, commonwealth, territory, district, or possession of the United States by:</text>
+      <para>
+        <num>(1)</num>
+        <text>A notary public of the jurisdiction;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A judge, clerk, or deputy clerk of a court of the jurisdiction; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any other person authorized by the law of the jurisdiction to perform a notarial act.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A notarial act performed in any other jurisdiction of the United States under federal authority as provided in § <cite path="§42-145">42-145</cite> shall have the same effect as if performed by a notarial officer of the District.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The signature and title of a person who performs a notarial act in another jurisdiction are prima facie evidence that the signature is genuine and that the person holds the designated title.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The signature and indicated title of an officer listed in subsection (a)(1) or (2) of this section shall establish conclusively the authority of a holder of that title to perform a notarial act.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-205">Mar. 6, 1991, D.C. Law 8-205, § 5, 37 DCR 8444</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-624.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 4 of the Uniform Law on Notarial Acts.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|1|II"/>
+    <num codify:value="42-145">6</num>
+    <heading>Notarial acts under federal authority.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A notarial act shall have the same effect under the law of the District as if the notarial act had been performed by a notarial officer of the District if the notarial act is performed anywhere under authority granted by the law of the United States by:</text>
+      <para>
+        <num>(1)</num>
+        <text>A judge, clerk, or deputy clerk of a court;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A commissioned officer on active duty in the military service of the United States as provided in 10 U.S.C. § 936;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An officer of the foreign service or consular officer of the United States as provided in §§ 3 and 7 of An Act To provide for the reorganization of the consular service of the United States, approved April 5, 1906 (34 Stat. 101; 22 U.S.C. § 4215 passim); or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any other person authorized by federal law to perform a notarial act.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The signature and title of a person who performs a notarial act under federal authority are prima facie evidence that the signature is genuine and that the person holds the designated title.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The signature and indicated title of an officer listed in subsection (a)(1), (2), or (3) of this section shall establish conclusively the authority of a holder of that title to perform a notarial act.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-205">Mar. 6, 1991, D.C. Law 8-205, § 6, 37 DCR 8444</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-143">42-143</cite> and § <cite path="§42-144">42-144</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-625.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 5 of the Uniform Law on Notarial Acts.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|1|II"/>
+    <num codify:value="42-146">7</num>
+    <heading>Foreign notarial acts.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A notarial act shall have the same effect under the law of the District as if the notarial act had been performed by a notarial officer of the District if the notarial act is performed within the jurisdiction of and under authority of a foreign country or its constituent units or a multi-national or international organization by:</text>
+      <para>
+        <num>(1)</num>
+        <text>A notary public or notary;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A judge, clerk, or deputy clerk of a court of record; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any other person authorized by the law of that jurisdiction to perform notarial acts.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An “Apostille” in the form prescribed by the Convention Abolishing the Requirement of Legalization for Foreign Documents done at the Hague on October 5, 1961 (T.I.A.S. 10073; 527 U.N.T.S. 189), shall conclusively establish that the signature of the notarial officer is genuine and that the officer holds the indicated office.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A certificate by a foreign service or consular officer of the United States stationed in the country under the jurisdiction of which the notarial act was performed, or a certificate by a foreign service or consular officer of a country who is stationed in the United States, shall establish conclusively any matter relating to the authenticity or validity of the notarial act set forth in the certificate.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>An official stamp or seal of the person who performs the notarial act shall be prima facie evidence that the signature is genuine and that the person holds the indicated title.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>An official stamp or seal of an officer listed in subsection (a)(1) or (2) of this section shall be prima facie evidence that a person with the indicated title has the authority to perform a notarial act.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>If the title of office and indication of authority to perform a notarial act appears in a digest of foreign law or in a list customarily used as a source for information for foreign law, the authority of an officer with the title to perform a notarial act shall be established conclusively.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>For purposes of this section, the term “multi-national or international organization” means an organization defined in 22 U.S.C. § 288.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-205">Mar. 6, 1991, D.C. Law 8-205, § 7, 37 DCR 8444</annotation>
+        <annotation doc="D.C. Law 10-68">Feb. 5, 1994, D.C. Law 10-68, § 36, 40 DCR 6311</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-626.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 6 of the Uniform Law on Notarial Acts.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|1|II"/>
+    <num codify:value="42-147">8</num>
+    <heading>Certificate of notarial acts.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A notarial act shall be evidenced by a certificate signed and dated by a notarial officer. The certificate shall include identification of the jurisdiction in which the notarial act is performed and the title of the office of the notarial officer and shall include the official stamp or seal of office. If the officer is a notary public, the certificate shall indicate the expiration date, if any, of the commission of office. Omission of the expiration date information may subsequently be corrected. If the officer is a commissioned officer on active duty in the military service of the United States, as provided in 10 U.S.C. § 936, the certificate shall include the officer’s rank and title of office.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A certificate of a notarial act shall be sufficient if the certificate meets the requirements of subsection (a) of this section and:</text>
+      <para>
+        <num>(1)</num>
+        <text>Is in the short form set forth in § <cite path="§42-148">42-148</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is in a form otherwise prescribed by the law of the District;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Is in a form prescribed by a law or regulation applicable in the place where the notarial act was performed; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Sets forth the actions of the notarial officer and those actions that are sufficient to meet the requirements of the designated notarial act.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>By executing a certificate of a notarial act, the notarial officer certifies that the officer has made the determinations required by § <cite path="§42-142">42-142</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-205">Mar. 6, 1991, D.C. Law 8-205, § 8, 37 DCR 8444</annotation>
+        <annotation doc="D.C. Law 9-52">Dec. 10, 1991, D.C. Law 9-52, § 2(a), 38 DCR 6585</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-148">42-148</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-627.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(a) of Uniform Law on Notarial Acts Temporary Amendment Act of 1991 (<cite doc="D.C. Law 9-9">D.C. Law 9-9</cite>, July 13, 1991, law notification  38 DCR 4812).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Application of 9-52: Section 3 of <cite doc="D.C. Law 9-52">D.C. Law 9-52</cite> provided that the act shall apply as of March 6, 1991.</text>
+        <text>Uniform Law: This section is based upon § 7 of the Uniform Law on Notarial Acts.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|1|II"/>
+    <num codify:value="42-148">9</num>
+    <heading>Short forms.</heading>
+    <text>The following short form certificates of notarial acts shall be sufficient for the purposes indicated, if completed with the information required by § <cite path="§42-147">42-147</cite>(a).</text>
+    <para>
+      <num>(1)</num>
+      <text>For an acknowledgment in an individual capacity:</text>
+      <text>(Seal, if any)</text>
+      <text>____________________</text>
+      <text>Title (and Rank)</text>
+      <text>(My commission expires: ________)</text>
+    </para>
+    <afterText>District of Columbia</afterText>
+    <afterText>This instrument was acknowledged before me on (date) by (name(s) of person(s)).</afterText>
+    <afterText>____________________</afterText>
+    <afterText>(Signature of notarial officer)</afterText>
+    <afterText>(Seal, if any)</afterText>
+    <afterText>____________________</afterText>
+    <afterText>Title (and Rank)</afterText>
+    <afterText>(My commission expires: ________)</afterText>
+    <afterText>For an acknowledgment in a representative capacity:</afterText>
+    <afterText>District of Columbia</afterText>
+    <afterText>This instrument was acknowledged before me on (date) by (name(s) of person(s)) as (type of authority, e.g., officer, trustee, etc.) of (name of party on behalf of whom instrument was executed).</afterText>
+    <afterText>____________________</afterText>
+    <afterText>(Signature of notarial officer)</afterText>
+    <afterText>(Seal, if any)</afterText>
+    <afterText>____________________</afterText>
+    <afterText>Title (and Rank)</afterText>
+    <afterText>(My commission expires: ________)</afterText>
+    <afterText>For a verification upon oath or affirmation:</afterText>
+    <afterText>District of Columbia</afterText>
+    <afterText>Signed and sworn to (or affirmed) before me on (date) by (name(s) of person(s) making statement).</afterText>
+    <afterText>____________________</afterText>
+    <afterText>(Signature of notarial officer)</afterText>
+    <para>
+      <num>(4)</num>
+      <text>For witnessing or attesting a signature:</text>
+      <text>(Seal, if any)</text>
+      <text>____________________</text>
+      <text>Title (and Rank)</text>
+      <text>(My commission expires: ________)</text>
+    </para>
+    <afterText>District of Columbia</afterText>
+    <afterText>Signed or attested before me on (date) by (name(s) of person(s)).</afterText>
+    <afterText>____________________</afterText>
+    <afterText>(Signature of notarial officer)</afterText>
+    <para>
+      <num>(5)</num>
+      <text>Repealed.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-205">Mar. 6, 1991, D.C. Law 8-205, § 9, 37 DCR 8444</annotation>
+        <annotation doc="D.C. Law 9-52">Dec. 10, 1991, D.C. Law 9-52, § 2(b), 38 DCR 6585</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-147">42-147</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-628.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(b) of Uniform Law on Notarial Acts Temporary Amendment Act of 1991 (<cite doc="D.C. Law 9-9">D.C. Law 9-9</cite>, July 13, 1991, law notification  38 DCR 4812).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Application of Law 9-52: Section 3 of <cite doc="D.C. Law 9-52">D.C. Law 9-52</cite> provided that the act shall apply as of March 6, 1991.</text>
+        <text>Uniform Law: This section is based upon § 8 of the Uniform Law on Notarial Acts.</text>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

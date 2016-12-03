@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 16-89">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 16-89">
   <num type="law">16-89</num>
   <heading type="short">Office of Gay, Lesbian, Bisexual and Transgender Affairs Act of 2005</heading>
   <meta>
@@ -12,4 +12,249 @@
       <narrative>Law 16-89, the “Office of Gay, Lesbian, Bisexual and Transgender Affairs Act of 2005”, was introduced in Council and assigned Bill No. 16-235 which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on December 6, 2005, and January 4, 2006, respectively. Signed by the Mayor on January 30, 2006, it was assigned Act No. 16-275 and transmitted to both Houses of Congress for its review. D.C. Law 16-89 became effective on April 4, 2006.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|13B"/>
+    <num codify:value="2-1381">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Advisory Committee” means the Advisory Committee to the Office of Lesbian, Gay, Bisexual, Transgender, and Questioning Affairs.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>“Fund” means the LGBTQ Homeless Youth Training Grant Fund established in § <cite path="§2-1384">2-1384</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Lesbian, gay, bisexual, transgender, and questioning” or “LGBTQ” means individuals who identify themselves as lesbian, gay, bisexual, or transgender or are questioning or exploring their sexuality or sexual identity, or are concerned about applying a social label to themselves related to their sexuality or sexual identity and who are residents of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Office” means the Office of Lesbian, Gay, Bisexual, Transgender, and Questioning Affairs established in § <cite path="§2-1382">2-1382</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-89">Apr. 4, 2006, D.C. Law 16-89, § 2, 53 DCR 1084</annotation>
+        <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 122(a), 53 DCR 6794</annotation>
+        <annotation doc="D.C. Law 20-100">May 3, 2014, D.C. Law 20-100, § 3(a), 61 DCR 1873</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 1022(a), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in subsec. (1), validated a previously made technical correction.</annotation>
+        <annotation>The 2014 amendment by <cite doc="D.C. Law 20-100">D.C. Law 20-100</cite> added (1A).</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “Office of Lesbian, Gay, Bisexual, Transgender, and Questioning Affairs” for “Office of Gay, Lesbian, Bisexual, and Transgender Affairs” in (1) and (3); and rewrote (2).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 1022(a) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|13B"/>
+    <num codify:value="2-1382">3</num>
+    <heading>Establishment of the Office of Lesbian, Gay, Bisexual, Transgender, and Questioning Affairs; Advisory Committee.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established within the Executive Office of the Mayor, the Office of Lesbian, Gay, Bisexual, Transgender, and Questioning Affairs (“Office”). The Office shall administer such programs as shall be delegated to it by the Mayor and the Council to promote the welfare of the lesbian, gay, bisexual, transgender, and questioning community.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall establish an Advisory Committee, consisting of not more than 25 public members, whose members shall be representative of the diversity of people and ideas within the lesbian, gay, bisexual, transgender, and questioning community. The Advisory Committee shall include, at a minimum, representation from the lesbian, gay, bisexual, transgender, and questioning community organizations representing health, social service, religious, and human rights issues and its members shall be representative of the diversity in the community with regard to socioeconomic status, religion, race, ethnicity, gender identification, age, and families. The Advisory Committee shall advise the Director and the Mayor on issues relating to the lesbian, gay, bisexual, transgender, and questioning community and on issues relating to the mission of the Office.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-89">Apr. 4, 2006, D.C. Law 16-89, § 3, 53 DCR 1084</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 1022(b), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-1381">2-1381</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “Office of Lesbian, Gay, Bisexual, Transgender, and Questioning Affairs” for “Office of Gay, Lesbian, Bisexual, and Transgender Affairs” throughout the section; and substituted “lesbian, gay, bisexual, transgender, and questioning community” for “gay, lesbian, bisexual and transgender community” throughout the section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 1022(b) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|13B"/>
+    <num codify:value="2-1383">4</num>
+    <heading>Appointment of Director; compensation; staff.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Office shall be administered by the Director, who shall be appointed by the Mayor. The Director shall devote his or her full time to the duties of the Office. His or her annual compensation shall not be lower than a DS-15, step one, or equivalent compensation pursuant to §§ <cite path="§1-610.51">1-610.51</cite> through <cite path="§1-610.63">1-610.63</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Office shall have sufficient full-time employees to perform the Office’s duties, with a minimum of 2 full-time employees, plus any temporary staff approved by the Office of Budget and Planning.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Director shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Serve as an advocate for the lesbian, gay, bisexual, transgender, and questioning community in the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Assist community organizations in developing and submitting grant applications;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide information and technical assistance with respect to programs and services for the lesbian, gay, bisexual, transgender, and questioning community to the Mayor, the Council, other District of Columbia agencies and departments, and the community;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>File an annual report on the operation of the Office with the Mayor and the Council;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Identify areas of need for service or improvement of services and bring them to the attention of the Mayor, with suggestions for satisfying such needs, including conducting or funding research and demonstration projects to test the suggestions;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Assure necessary control, evaluation, audit, and reporting on programs funded through the Office;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Accept volunteer services and funds from the public and private sectors to supplement the budget in carrying out the planning duties and responsibilities of the Office;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Meet with the lesbian, gay, bisexual, transgender, and questioning services coordinators within each department and agency of the District government as a group, at least once a month to coordinate activities within the government involving the lesbian, gay, bisexual, transgender, and questioning community;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Meet with each department and agency director to establish a lesbian, gay, bisexual, transgender, and questioning services coordinator;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Work with the Department of Health’s lesbian, gay, bisexual, transgender, and questioning services coordinator to ensure that the Department’s annual report on the status of lesbian, gay, bisexual, transgender, and questioning health in the District of Columbia is comprehensive and receives an appropriate response;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Issue grants to organizations that provide services to LGBTQ residents of the District of Columbia or in furtherance of the mission of the Office or the purposes of this chapter; and</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Implement the grant program created by § <cite path="§2-1384">2-1384</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-89">Apr. 4, 2006, D.C. Law 16-89, § 4, 53 DCR 1084</annotation>
+        <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 122(b), 53 DCR 6794</annotation>
+        <annotation doc="D.C. Law 20-100">May 3, 2014, D.C. Law 20-100, § 3(b), 61 DCR 1873</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 1022(c), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in subsec. (b)(9), validated a previously made technical correction.</annotation>
+        <annotation>The 2014 amendment by <cite doc="D.C. Law 20-100">D.C. Law 20-100</cite> substituted “sufficient full-time employees to perform the Office’s duties, with a minimum of 2 full-time employees” for “2 full-time employees” in (a)(2); and added (b)(11) and (b)(12) and made related changes.</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “full time” for “full-time” in (a)(1); substituted “lesbian, gay, bisexual, transgender, and questioning community” for “gay, lesbian, bisexual and transgender community” in (b)(1); substituted “lesbian, gay, bisexual, transgender, and questioning community” for “Gay, Lesbian, Bisexual and Transgender community” in (b)(3); rewrote (b)(8); substituted “lesbian, gay, bisexual, transgender, and questioning services coordinator” for “Gay, Lesbian, Bisexual and Transgender Program Coordinator” in (b)(9); and rewrote (b)(10).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 1022(c) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|13B"/>
+    <num codify:value="2-1384">4a</num>
+    <heading>LGBTQ Homeless Youth Training Grant Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the LGBTQ Homeless Youth Training Grant Fund (“Fund”) which shall be administered by the Office of Lesbian, Gay, Bisexual, Transgender, and Questioning Affairs in accordance with subsection (c) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Fund shall consist of the revenue from the following sources:</text>
+      <para>
+        <num>(1)</num>
+        <text>Appropriated funds; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Funds transferred to the Department of Human Services from other District agencies for the purpose of providing services to homeless LGBTQ youth.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Fund shall be used for the following purposes:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Fund shall be continually available to the Office for the purpose of providing grants to fund trainings on cultural competency for providing services to LGBTQ homeless youth for providers throughout the District. Each grant shall be a 2-year grant.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Office shall establish criteria for eligibility to receive a grant; provided, that the cultural competency training conducted through this grant:</text>
+        <para>
+          <num>(A)</num>
+          <text>Is conducted by community organizations based in the District with demonstrated ability and expertise in this field;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Follows best practices in this field regarding content and delivery;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Includes best practices for data collection pertaining to LGBTQ homeless youth;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Includes evidence-based family acceptance interventions that shall be youth and family driven, culturally diverse, and tailored to meet the different needs of families from different cultural backgrounds and religions;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Includes suicide awareness and prevention training; and</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Is subject to a biannual evaluation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The money deposited into the Fund, and any interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated into the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-89">Apr. 4, 2006, D.C. Law 16-89, § 4a</annotation>
+        <annotation doc="D.C. Law 20-100">as added May 3, 2014, D.C. Law 20-100, § 3(c), 61 DCR 1873</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 1022(d), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2014 amendment by <cite doc="D.C. Law 20-100">D.C. Law 20-100</cite> added this section.</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “Office of Lesbian, Gay, Bisexual, Transgender, and Questioning Affairs” for “Office of Gay, Lesbian, Bisexual, and Transgender Affairs” in (a).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 1022(d) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

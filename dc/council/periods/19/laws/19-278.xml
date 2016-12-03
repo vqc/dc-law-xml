@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 19-278">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 19-278">
   <num type="law">19-278</num>
   <heading type="short">Autonomous Vehicle Act of 2012</heading>
   <meta>
@@ -12,4 +12,87 @@
       <narrative>Law 19-278, the “Autonomous Vehicle Act of 2012,” was introduced in Council and assigned Bill No. 19-931. The Bill was adopted on first and second readings on Dec. 4, 2012 and Dec. 18, 2012, respectively. Signed by the Mayor on Jan. 23, 2013, it was assigned Act No. 19-643 and transmitted to Congress for its review. D.C. Law 19-278 became effective on April 23, 2013.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|23A"/>
+    <num codify:value="50-2351">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Autonomous vehicle” means a vehicle capable of navigating District roadways and interpreting traffic-control devices without a driver actively operating any of the vehicle’s control systems. The term “autonomous vehicle” excludes a motor vehicle enabled with active safety systems or driver- assistance systems, including systems to provide electronic blind-spot assistance, crash avoidance, emergency braking, parking assistance, adaptive cruise control, lane-keep assistance, lane-departure warning, or traffic-jam and queuing assistance, unless the system alone or in combination with other systems enables the vehicle on which the technology is installed to drive without active control or monitoring by a human operator.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Driver” means a human operator of a motor vehicle with a valid driver’s license.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Public roadway” means a street, road, or public thoroughfare that allows motor vehicles.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Traffic control device” means a traffic signal, traffic sign, electronic traffic sign, pavement marking, or other sign, device, or apparatus designed and installed to direct moving traffic.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-278">Apr. 23, 2013, D.C. Law 19-278, § 2, 60 DCR 2119</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|23A"/>
+    <num codify:value="50-2352">3</num>
+    <heading>Autonomous vehicles permitted.</heading>
+    <text>An autonomous vehicle may operate on a public roadway; provided, that the vehicle:</text>
+    <para>
+      <num>(1)</num>
+      <text>Has a manual override feature that allows a driver to assume control of the autonomous vehicle at any time;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Has a driver seated in the control seat of the vehicle while in operation who is prepared to take control of the autonomous vehicle at any moment; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Is capable of operating in compliance with the District’s applicable traffic laws and motor vehicle laws and traffic control devices.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-278">Apr. 23, 2013, D.C. Law 19-278, § 3, 60 DCR 2119</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|23A"/>
+    <num codify:value="50-2353">4</num>
+    <heading>Vehicle conversion; limited liability of original manufacturer.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The original manufacturer of a vehicle converted by a third party into an autonomous vehicle shall not be liable in any action resulting from a vehicle defect caused by the conversion of the vehicle, or by equipment installed by the converter, unless the alleged defect was present in the vehicle as originally manufactured.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The conversion of vehicles to autonomous vehicles shall be limited to model years 2009 or later or vehicles built within 4 years of conversion, whichever vehicle is newer.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-278">Apr. 23, 2013, D.C. Law 19-278, § 4, 60 DCR 2119</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|23A"/>
+    <num codify:value="50-2354">5</num>
+    <heading>Rules.</heading>
+    <text>The Mayor, pursuant to subchapter I of Chapter 2 of Title 5 [§ <cite path="§2-501">2-501</cite> et seq.], shall issue rules on or before December 31, 2013, establishing a class of vehicles for autonomous vehicles and procedures and fees for the registration, titling, and issuance of permits to operate autonomous vehicles.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-278">Apr. 23, 2013, D.C. Law 19-278, § 5, 60 DCR 2119</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 4-143">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 4-143">
   <num type="law">4-143</num>
   <heading type="short">District of Columbia Soil and Water Conservation Act of 1982</heading>
   <meta>
@@ -12,4 +12,412 @@
       <narrative>Law 4-143, the “District of Columbia Soil and Water Conservation Act of 1982,” was introduced in Council and assigned Bill No. 4-82, which was referred to the Committee on Transportation and Environmental Affairs. The Bill was adopted on first and second readings on June 8, 1982 and June 22, 1982, respectively. Signed by the Mayor on July 12, 1982, it was assigned Act No. 4-211 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <num codify:value="8-1701">2</num>
+    <heading>Findings; declaration of policy.</heading>
+    <text>The Council of the District of Columbia finds and declares that:</text>
+    <para>
+      <num>(1)</num>
+      <text>The lands and waters of the District of Columbia are basic assets. The construction of housing, industrial and commercial developments, streets, highways, recreation areas, schools and universities, public utilities and facilities, and other land disturbing activities have accelerated the process of soil erosion and sediment deposition. This results in the pollution of and damage to the waters, the lands, the forests, the recreational areas, and the wildlife of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A soil and water conservation district is an appropriate organization to preserve and enhance natural resources; to control, reduce, and help alleviate soil erosion; to alleviate past and prospective damage caused by wind and water erosion, flood waters, and sediment; to conserve, improve, and enhance water resources and water quality; to protect wildlife; and to protect and promote the health, safety, and general welfare of the people of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Mutual cooperation and assistance among all agencies, departments, or offices of the District of Columbia government whose activities directly affect the conservation of the renewable natural resources of the District of Columbia is necessary to fulfill the requirements of this subchapter. It shall further be the responsibility of the heads of the District of Columbia government agencies, departments, or offices to take the necessary and proper steps to achieve the purposes of this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 2, 29 DCR 3118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Water pollution control, generally, see § <cite path="§8-103.01">8-103.01</cite> et seq.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2801.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 2-23">D.C. Law 2-23</cite> (Act 2-54), the “Soil Erosion and Sedimentation Control Act of 1977”, see Mayor’s Order 99-67, April 28, 1999 ( 46 DCR 4233).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Air quality control regulations enacted: Section 3 of <cite doc="D.C. Law 5-165">D.C. Law 5-165</cite>, as amended by § 15 of <cite doc="D.C. Law 6-192">D.C. Law 6-192</cite>, effective February 24, 1987, enacted air quality control regulations of the District of Columbia as chapters 1 through 9 of Title 20 of the District of Columbia Municipal Regulations, “Environment and Energy.”</text>
+        <text>Section 485 of <cite doc="D.C. Law 6-42">D.C. Law 6-42</cite> amended §§ 100.4 and 105.1 of the air quality control regulations, effective March 15, 1985 (<cite doc="D.C. Law 5-165">D.C. Law 5-165</cite>; 20 DCMR Chapters 1 through 9) to provide for adjudication of infractions pursuant to Chapter 18 of Title 2. Section 501(b) of <cite doc="D.C. Law 6-42">D.C. Law 6-42</cite> provided that the provisions of the act shall apply only to infractions which occur or are discovered by inspection after October 5, 1985.</text>
+        <text>Soil Erosion and Sedimentation Engineering and Geological Analysis: For temporary provisions providing for the study of soil erosion and sedimentation of properties in Square S-5542, see §§ 2-5 of the Soil Erosion and Sedimentation Engineering and Geological Analysis Emergency Act of 1997 (D.C. Act 12-195, November 14, 1997,  44 DCR 7248).</text>
+        <text>Soil Erosion and Sedimentation Control in Square 6126: Title II, §§ 201—205, of <cite doc="D.C. Law 8-229">D.C. Law 8-229</cite> gave the Mayor powers to make an immediate determination of nature and cost of remedial actions for sediment control in Square 6126, power to undertake such actions, power to prohibit activities in Square 6126, power to enter private property to carry out the actions, and power to levy an assessment on the property in Square 6126; however, expenditure of funds for remedial actions or permanent improvements other than in Square 6126 is not authorized, nor is any claim or right of relief for such actions created in any person by Title II.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <num codify:value="8-1702">3</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“District of Columbia government agency” means any agency, department, unit, and instrumentality, corporate or otherwise, of the District of Columbia government.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Renewable natural resources” means the land, the soil, the water, the vegetation, the trees, the fish, and the wildlife of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Conservation” means conservation, improvement, maintenance, preservation, and protection of the renewable natural resources.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Mayor” means the Mayor of the District of Columbia or the Mayor’s designee.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“United States government agency” means any agency, department, unit, or instrumentality of the United States government.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 3, 29 DCR 3118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2802.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <num codify:value="8-1703">4</num>
+    <heading>Established.</heading>
+    <text>There is established the Soil and Water Conservation District as a District of Columbia government agency.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 4, 29 DCR 3118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1721">8-1721</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2803.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 15 of <cite doc="D.C. Law 4-143">D.C. Law 4-143</cite> provided that the Soil and Water Conservation District, established by § <cite path="§8-1703">8-1703</cite>, shall terminate on January 1, 1987, unless it is subsequently reestablished by an act of the Council of the District of Columbia.  Section 8-1721, reestablishing the Soil and Water Conservation District, was enacted July 25, 1987.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <num codify:value="8-1704">5</num>
+    <heading>Composition.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Soil and Water Conservation District, reestablished by § <cite path="§8-1721">8-1721</cite>, shall be governed by 7 members.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Five members, at least 4 of whom shall be directors of appropriate agencies or departments of the District of Columbia government, shall be appointed by and serve at the pleasure of the Mayor. Two members shall be appointed by the Council of the District of Columbia upon the recommendation of the Chairman of the Council of the District of Columbia from among its members.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Each member of the Water and Soil Conservation District may designate a person to serve and act in the absence of the appointed member.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The members shall serve without compensation. Members shall be reimbursed for reasonable and necessary expenses incurred in the performance of their duties in implementing the provisions of this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 5, 29 DCR 3118</annotation>
+        <annotation doc="D.C. Law 6-117">May 23, 1986, D.C. Law 6-117, § 2, 33 DCR 2442</annotation>
+        <annotation doc="D.C. Law 7-39">Oct. 9, 1987, D.C. Law 7-39, § 3(a), 34 DCR 5331</annotation>
+        <annotation doc="D.C. Law 7-104">Apr. 30, 1988, D.C. Law 7-104, § 8(a), 35 DCR 147</annotation>
+        <annotation doc="D.C. Law 13-91">Apr. 12, 2000, D.C. Law 13-91, § 130, 47 DCR 520</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2804.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>D.C. Law 13-91, in subsec. (a), substituted “§ 1-2803.1” for “§ 1-2803” 1981 Ed. .</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <text>The functions of the Department of Transportation were transferred to the Department of Public Works by Reorganization Plan No. 4 of 1983, effective March 1, 1984.</text>
+        <text>The functions of the Department of Environmental Services were transferred to the Department of Public Works by Reorganization Plan No. 4 of 1983, effective March 1, 1984.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <num codify:value="8-1705">6</num>
+    <heading>Chairperson; meetings; employees.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Soil and Water Conservation District shall organize annually and shall select a Chairperson from among its members. The Chairperson shall convene meetings of the Soil and Water Conservation District when necessary to perform the functions of the Soil and Water Conservation District. All meetings of the Soil and Water Conservation District shall be open to the public. A majority of the members shall constitute a quorum and all actions of the Soil and Water Conservation District shall be by a majority vote of the members present and voting at a meeting at which a quorum is present.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Soil and Water Conservation District may employ a secretary, technical experts, and other officers, agents, employees, and advisers, permanent and temporary, as may be permitted by the budget of the District of Columbia government for the Soil and Water Conservation District. The Soil and Water Conservation District may seek legal services from the Corporation Counsel of the District of Columbia. Staff assigned and employed in the member’s office or District of Columbia government agency may provide services for the Soil and Water Conservation District. The Soil and Water Conservation District may delegate the powers and duties enumerated in this subchapter to its Chairman, to 1 or more of its members, or to 1 or more agents or employees of the Soil and Water Conservation District.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 6, 29 DCR 3118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2805.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1706">7</num>
+    <heading>Citizen Advisory Committee.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 7, 29 DCR 3118</annotation>
+        <annotation doc="D.C. Law 13-235">Apr. 3, 2001, D.C. Law 13-235, § 2, 48 DCR 593</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 257, 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2806.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-235">D.C. Law 13-235</cite> substituted “resident” for “Advisory Neighborhood Commissioner”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) repeal of this section, see §  257 of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, Nov. 18, 2014, 61 DCR 12133, 20 STAT 4405).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 257 of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 STAT 807).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <num codify:value="8-1707">8</num>
+    <heading>Powers.</heading>
+    <text>The Soil and Water Conservation District shall discharge its powers and authority on all the lands within the boundaries of the District of Columbia except those lands owned by the United States government. The Soil and Water Conservation District shall have the following powers:</text>
+    <para>
+      <num>(1)</num>
+      <text>To conduct surveys, investigations, and research relating to the conservation of renewable natural resources;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>To conduct demonstration projects within the Soil and Water Conservation District on land owned or controlled by any District of Columbia government agency, with the consent and cooperation of the District of Columbia government agency administering and having jurisdiction thereof, and on any other land located within the Soil and Water Conservation District upon obtaining the consent and cooperation of the owner of the land. The projects will demonstrate the manner and the methods of improvement by which the conservation of renewable natural resources may be implemented;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>To implement preventive, improvement, and control measures within the Soil and Water Conservation District. This shall include, but not be limited to, engineering operations, methods of cultivation, and the growing of vegetation on land owned or controlled by any District of Columbia government agency with the cooperation and consent of the District of Columbia government agency administering and having jurisdiction thereof, and on any other land located within the Soil and Water Conservation District, upon obtaining the consent and cooperation of the owner of the land or the necessary rights or interests in the land;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>To assist in the implementation of the functions of the Mayor with respect to erosion and sediment control pursuant to § <cite path="§42-608">42-608</cite> as may be agreed to by the Mayor and the Soil and Water Conservation District;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>To provide to individuals and organizations agricultural, gardening, and engineering equipment, fertilizer, seeds and seedlings, and other material or equipment as will assist individuals or organizations in the conservation of renewable natural resources on their property located within the Soil and Water Conservation District. The Soil and Water Conservation District shall establish a fee schedule, after notice and comment, to provide for the loan, use, grant, or transfer of any material or equipment of the Soil and Water Conservation District;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>To develop and implement long-range resource conservation programs and annual work plans pursuant to § <cite path="§8-1708">8-1708</cite>;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>To enter into agreement with and to coordinate assistance from a United States government agency; to accept donations, gifts, and contributions in money, personnel, services, materials, equipment, or otherwise, from a United States government agency, or from any other source, and to use or expend the money, services, materials, or other contributions exclusively for the purpose of implementing this subchapter;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>To make and execute contracts, agreements, and other instruments necessary to exercise the powers granted in this subchapter; provided, that the contracts, agreements, and other instruments shall not obligate or require the Water and Soil Conservation District or the District of Columbia government to perform any function, duty, or obligation after January 1, 1987;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>To issue rules to implement this subchapter;</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>To conduct educational programs and activities; and</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>To review, comment, and make recommendations on proposed zoning regulations and amendments, proposed laws and regulations affecting renewable natural resources and their uses, and on the proposed location of highways, schools, housing developments, industries, and other facilities and structures within the District of Columbia.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 8, 29 DCR 3118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2807.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <num codify:value="8-1708">9</num>
+    <heading>Long-range resource conservation program; annual work plan.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Water and Soil Conservation District shall prepare, and revise annually in cooperation with other District of Columbia government agencies, a long-range program for the conservation of renewable natural resources. The program shall be directed toward conservation of resources for their best use and in a manner that will meet the needs of the District of Columbia. The program shall include an inventory of all renewable natural resources in the Soil and Water Conservation District, a compilation of current resource needs, projections of future resource requirements, priorities for various resource activities, projected time tables, descriptions of available alternatives, and provisions for coordination with other programs.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Soil and Water Conservation District shall prepare an annual work plan which shall describe the programs, services, facilities, materials, working arrangements, and estimated funds needed to carry out the parts of the long-range program that are of the highest priority in the coming year.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The long-range program and work plan shall be made available to the Mayor, to the Council of the District of Columbia, to District of Columbia government agencies, to United States government agencies, and to the general public.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 9, 29 DCR 3118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1707">8-1707</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2808.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <num codify:value="8-1709">10</num>
+    <heading>Cooperative agreements; documentary function; public hearings; annual report.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Appropriate United States government agencies and District of Columbia government agencies may designate liaison representatives and assign employees, on a temporary or permanent basis, for the consultation on programs and plans for resource conservation, and in the preparation and coordination of local planning and programming for resource conservation.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Soil and Water Conservation District shall consult, cooperate, and the Mayor, upon the advice and recommendation of the Soil and Water Conservation District, may enter into agreements with adjacent local, state, regional, interstate, and United States government agencies to promote efficient resource conservation policies in implementing the purposes of this subchapter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Soil and Water Conservation District shall fully inform the Mayor, the Council of the District of Columbia, and other appropriate local and regional agencies concerning the status and progress of the preparation of its resource conservation programs and plans and shall, upon request, provide the Mayor, the Council of the District of Columbia, and other appropriate agencies with reports, data, rules, orders, contracts, forms, and other documents.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Soil and Water Conservation District shall hold public hearings in connection with the preparation of the annual work plan and other major programs and shall give careful consideration to the views expressed in the hearings. The Soil and Water Conservation District shall keep the public informed concerning its programs, plans, and activities by hearings and other meetings as it deems appropriate.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Soil and Water Conservation District shall publish an annual report of its plans, programs, activities, budget, receipts, and expenditures and shall include therein descriptions of its official resource conservation program, the current annual program related thereto, and the status of all activities initiated under the program. It shall submit copies of each annual report to the Mayor and to the Council of the District of Columbia, and shall make copies of reports, summaries, and digests available to the appropriate agencies and to the general public.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>All actions of the Soil and Water Conservation District shall be in compliance with subchapter I of Chapter 5 of Title 2.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 10, 29 DCR 3118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2809.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <num codify:value="8-1710">11</num>
+    <heading>Participation in loan or grant.</heading>
+    <text>The Soil and Water Conservation District may obtain a loan or grant of any funds, property, equipment, or services from any United States government agency or District of Columbia government agency for any of the purposes of this subchapter. In connection with any loan or grant, the Soil and Water Conservation District may pledge, encumber, or obligate any property or monies of the Soil and Water Conservation District; provided, that the encumbrance, obligation, or pledge shall not extend beyond January 1, 1987.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 11, 29 DCR 3118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2810.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <num codify:value="8-1711">12</num>
+    <heading>Annual budget.</heading>
+    <text>The Soil and Water Conservation District shall submit to the Mayor of the District of Columbia an annual budget requesting appropriations for the purpose of implementing this subchapter. Such budget shall be submitted in the same manner as are budgets of other District of Columbia government agencies.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 12, 29 DCR 3118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2811.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <num codify:value="8-1712">13</num>
+    <heading>Limitations on authority.</heading>
+    <text>Nothing in this subchapter shall authorize the Soil and Water Conservation District, any of its members, or any of its employees to obligate, encumber, pledge, necessitate, or require the Soil and Water Conservation District or the District of Columbia government to perform, execute, or to take any action subsequent to January 1, 1987. Any property, materials, equipment, land, money, records, or any other asset of the Soil and Water Conservation District shall become the possession of the District of Columbia government on January 2, 1987.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 13, 29 DCR 3118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2812.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1713">15</num>
+    <heading>Termination.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 15, 29 DCR 3118</annotation>
+        <annotation doc="D.C. Law 7-39">Oct. 9, 1987, D.C. Law 7-39, § 5, 34 DCR 5331</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17|I"/>
+    <num codify:value="8-1714">17</num>
+    <heading>Terms.</heading>
+    <text>Each member of the Soil and Water Conservation Board appointed by the Council of the District of Columbia shall serve a 2-year term, which shall expire at the conclusion of the Council period during which the Councilmember was appointed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-143">Sept. 14, 1982, D.C. Law 4-143, § 17</annotation>
+        <annotation doc="D.C. Law 7-39">as added Oct. 9, 1987, D.C. Law 7-39, § 4, 34 DCR 5331</annotation>
+        <annotation doc="D.C. Law 7-104">Apr. 30, 1988, D.C. Law 7-104, § 8(b), 35 DCR 147</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2814.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

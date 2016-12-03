@@ -1,10 +1,173 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 75-2-ch809">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 75-2-ch809">
+  <heading/>
   <meta>
     <effective>1938-06-29</effective>
     <cites>
-        <law congress="75" session="2" chapter="809"/>
+      <law congress="75" session="2" chapter="809"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|35|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="35-401">1</num>
+    <heading>Passenger motor vehicles for hire to carry insurance; exceptions; liability of insurance company absolute.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 29, 1938, 52 Stat. 1233, ch. 809, § 1</annotation>
+        <annotation>Dec. 15, 1942, 56 Stat. 1051, ch. 734</annotation>
+        <annotation doc="Pub. L. 85-792">Aug. 28, 1958, 72 Stat. 952, Pub. L. 85-792, § 2</annotation>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 634, Pub. L. 88-503, § 21</annotation>
+        <annotation doc="D.C. Law 6-97">Mar. 25, 1986, D.C. Law 6-97, § 22(a), 33 DCR 703</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-301.</annotation>
+        <annotation>1973 Ed., § 44-301.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|35|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="35-402">2</num>
+    <heading>Issuance of insurance policies by authorized company; bonds to be secured; reserves for losses, unearned premiums and other liabilities required; rules and regulations; conditions for cancellation of bonds and insurance policies.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 29, 1938, ch. 809, § 2</annotation>
+        <annotation doc="Pub. L. 85-792">Aug. 28, 1958, 72 Stat. 952, Pub. L. 85-792,§ 2</annotation>
+        <annotation doc="D.C. Law 6-97">Mar. 25, 1986, D.C. Law 6-97, § 22(a), 33 DCR 703</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-302.</annotation>
+        <annotation>1973 Ed., § 44-302.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|35|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="35-403">3</num>
+    <heading>Operation of vehicle without approved bond or policy prohibited</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 29, 1938, ch. 809, § 3</annotation>
+        <annotation doc="Pub. L. 85-792">Aug. 28, 1958, 72 Stat. 953, Pub. L. 85-792,§ 2</annotation>
+        <annotation doc="D.C. Law 6-97">Mar. 25, 1986, D.C. Law 6-97, § 22(a), 33 DCR 703</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-303.</annotation>
+        <annotation>1973 Ed., § 44-303.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|35|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="35-404">4</num>
+    <heading>Commission authorized to make rules and regulations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 29, 1938, ch. 809, § 4</annotation>
+        <annotation doc="Pub. L. 85-792">Aug. 28, 1958, 72 Stat. 953, Pub. L. 85-792,§ 2</annotation>
+        <annotation doc="D.C. Law 6-97">Mar. 25, 1986, D.C. Law 6-97, § 22(a), 33 DCR 703</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-304.</annotation>
+        <annotation>1973 Ed., § 44-304.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|35|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="35-405">5</num>
+    <heading>Alternate provisions for insurance coverage; blanket policy for more than one vehicle; sinking fund in lieu of insurance; conditions for creation and maintenance of sinking fund; proof of financial responsibility; admission of liability by owner for tortious acts of drivers of vehicles; sinking fund exempt from attachment or levy for other obligations of depositor.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 29, 1938, ch. 809, § 5</annotation>
+        <annotation doc="Pub. L. 85-792">Aug. 28, 1958, 72 Stat. 953, Pub. L. 85-792,§ 2</annotation>
+        <annotation doc="D.C. Law 6-97">Mar. 25, 1986, D.C. Law 6-97, § 22(a), 33 DCR 703</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-305.</annotation>
+        <annotation>1973 Ed., § 44-305.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|35|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="35-406">6</num>
+    <heading>“Owner” defined.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 29, 1938, ch. 809, § 6</annotation>
+        <annotation doc="Pub. L. 85-792">Aug. 28, 1958, 72 Stat. 954, Pub. L. 85-792,§ 2</annotation>
+        <annotation doc="D.C. Law 6-97">Mar. 25, 1986, D.C. Law 6-97, § 22(a), 33 DCR 703</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-306.</annotation>
+        <annotation>1973 Ed., § 44-306.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|35|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="35-407">7</num>
+    <heading>Penalties for violation of chapter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 29, 1938, ch. 809, § 7</annotation>
+        <annotation doc="Pub. L. 85-792">Aug. 28, 1958, 72 Stat. 954, Pub. L. 85-792,§ 2</annotation>
+        <annotation doc="D.C. Law 6-42">Oct. 5, 1985, D.C. Law 6-42, § 437, 32 DCR 4450</annotation>
+        <annotation doc="D.C. Law 6-97">Mar. 25, 1986, D.C. Law 6-97, § 22(a), 33 DCR 703</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-307.</annotation>
+        <annotation>1973 Ed., § 44-307.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|35|4"/>
+    <reason>Repealed</reason>
+    <num codify:value="35-408">8</num>
+    <heading>Delegation of authority of Council to Superintendent.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 29, 1938, ch. 809, § 8</annotation>
+        <annotation doc="D.C. Law 1-127">Apr. 23, 1977, D.C. Law 1-127, § 2, 23 DCR 9691</annotation>
+        <annotation doc="D.C. Law 6-97">Mar. 25, 1986, D.C. Law 6-97, § 22(a), 33 DCR 703</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-308.</annotation>
+        <annotation>1973 Ed., § 44-308.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

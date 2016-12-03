@@ -1,10 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 78-1-ch98">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 78-1-ch98">
+  <heading/>
   <meta>
     <effective>1943-05-25</effective>
     <cites>
-        <law congress="78" session="1" chapter="98"/>
+      <law congress="78" session="1" chapter="98"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|4|II"/>
+    <num codify:value="9-411.01">1</num>
+    <heading>Special assessments for curbs and gutters levied.</heading>
+    <text>When any curb or gutter is laid, or any curb and gutter are laid, on any street, avenue, or road in the District of Columbia which said curb shall be constructed of concrete, stone, or other permanent type of construction, or which said gutter shall be constructed of concrete, brick, granite block, asphalt on a concrete base, or other permanent type of construction, one-half of the total cost thereof shall be charged against and become a lien upon the property abutting the side of the street, avenue, or road, or portion thereof, so improved, and assessments therefor shall be levied pro rata according to the linear frontage of said property on the side of the street, avenue, or road, or portion thereof, so improved; provided, however, that no assessments shall be levied hereunder on account of the replacement of any curb or gutter or curb and gutter of a permanent type of construction. When any gutter shall be constructed, in whole or in part, as an integral portion of a permanent type of roadway of any street, avenue, or road, so much of said roadway as lies within 2 feet of the curb line shall be considered as a gutter for the purposes of this subchapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 25, 1943, 57 Stat. 83, ch. 98, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-614.</annotation>
+        <annotation>1973 Ed., § 7-612a.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|4|II"/>
+    <num codify:value="9-411.02">2</num>
+    <heading>Special assessments for curbs and gutters levied — Computation.</heading>
+    <text>The total assessment levied hereunder against any abutting property shall not exceed the number of square feet of area of said property multiplied by 1 per centum of the linear front-foot assessment and shall not exceed 10 per centum of the value of the said abutting property, exclusive of improvements thereon, as assessed for the purpose of taxation at the time of the laying of the curb or gutter or curb and gutter for which said assessment is levied. In computing assessments hereunder against unsubdivided land according to the assessed valuation, there shall be excluded from the computation land lying back more than 100 feet from the street, avenue, or road being improved where the depth is even, and where the depth is uneven the average depth shall be taken in computation but not to exceed more than 100 feet.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 25, 1943, 57 Stat. 83, ch. 98, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-615.</annotation>
+        <annotation>1973 Ed., § 7-612b.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|4|II"/>
+    <num codify:value="9-411.03">3</num>
+    <heading>Special assessments for curbs and gutters levied — Property abutting 2 or more streets, avenues, or roads.</heading>
+    <text>When any property abuts 2 or more streets, avenues, or roads, the assessments against said property levied hereunder shall not exceed in the aggregate, together with any legal assessments heretofore levied and paid for paving, curbing, and guttering of or on said streets, avenues, or roads, under the authority of §§ <cite path="§9-401.09">9-401.09</cite>, <cite path="§9-401.10">9-401.10</cite>, relating to assessments for the paving of streets, avenues, and roads, or under § <cite path="§9-401.04">9-401.04</cite>, relating to assessments for laying curbs, or under §§ <cite path="§9-421.01">9-421.01</cite> to 9-421.04, 31/2 cents per square foot of area of said property, or 20 per centum of the value of said property, exclusive of improvements thereon, as assessed for the purpose of taxation at the time of the laying of the curb or gutter or curb and gutter for which said assessment is levied.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 25, 1943, 57 Stat. 83, ch. 98, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-616.</annotation>
+        <annotation>1973 Ed., § 7-612c.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|4|II"/>
+    <num codify:value="9-411.04">4</num>
+    <heading>Roadway improvements and curbs and gutters completed after May 25, 1943.</heading>
+    <text>No assessments shall be levied under §§ <cite path="§9-421.01">9-421.01</cite> to 9-421.04, for any roadway improvement completed subsequent to May 25, 1943, but for curbs or gutters, or curbs and gutters, completed subsequent to May 25, 1943, assessments shall be levied against the abutting property in accordance with the provisions of this subchapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 25, 1943, 57 Stat. 83, ch. 98, § 4</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-617.</annotation>
+        <annotation>1973 Ed., § 7-612d.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

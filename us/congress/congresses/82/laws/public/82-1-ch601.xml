@@ -1,10 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 82-1-ch601">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 82-1-ch601">
+  <heading/>
   <meta>
     <effective>1951-10-29</effective>
     <cites>
-        <law congress="82" session="1" chapter="601"/>
+      <law congress="82" session="1" chapter="601"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-1955" path="|38|19|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1953">4</num>
+    <heading>Credit for cumulative leave on transfer or promotion.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Oct. 29, 1951, 65 Stat. 660, ch. 601, § 4</annotation>
+        <annotation doc="D.C. Law 4-78">Mar. 16, 1982, D.C. Law 4-78,§ 21, 29 DCR 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1021.</annotation>
+        <annotation>1973 Ed., § 31-691a.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-1955" path="|38|19|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1954">5</num>
+    <heading>Reinstatement after leave without pay granted.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Oct. 29, 1951, 65 Stat. 661, ch. 601, § 5</annotation>
+        <annotation doc="D.C. Law 4-78">Mar. 16, 1982, D.C. Law 4-78,§ 21, 29 DCR 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1022.</annotation>
+        <annotation>1973 Ed., § 31-691b.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

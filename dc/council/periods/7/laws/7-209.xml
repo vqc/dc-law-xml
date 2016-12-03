@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 7-209">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 7-209">
   <num type="law">7-209</num>
   <heading type="short">Division of Park Services Act of 1988</heading>
   <meta>
@@ -12,4 +12,141 @@
       <narrative>Law 7-209, the “Division of Park Services Act of 1988,” was introduced in Council and assigned Bill No. 7-300, which was referred to the Committee on Public Works. The Bill was adopted on first and second readings on November 29, 1988 and December 13, 1988, respectively. Signed by the Mayor on January 6, 1989, it was assigned Act No. 7-280 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-167" path="|10|1"/>
+    <num codify:value="10-166">2</num>
+    <heading>Transfers and jurisdiction.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Pursuant to § <cite path="§1-204.04">1-204.04</cite>(b), jurisdiction over all public space park areas, maintained by the Department of Public Works before July 1, 1989, shall be transferred to and become the responsibility of the Department of Parks and Recreation. For purposes of this section, the phrase “all public space park areas” (“parks”) includes all parcels, lots, squares of land, green spaces, and monuments located within and owned or maintained by the District of Columbia government and not owned or maintained by the federal government.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Department of Public Works, Division of Roadside and Parks Maintenance, shall retain jurisdiction over, and responsibility for maintenance, landscaping, beautifying, promoting, and regulation of roadsides, interstate gateways, and cloverleafs.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Facility Maintenance Administration within the Department of Parks and Recreation shall have jurisdiction over, and be responsible for the maintenance, landscaping, beautifying, promotion, and regulation of the parks transferred pursuant to this section.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Funds and existing continuing full-time employees and positions authorized for the Department of Public Works, Division of Roadside and Parks Maintenance (Responsibility Center 4044) within the Public Space Administration (Control Center 40) in the Fiscal Year 1989 Budget for the District of Columbia and allocated for the maintenance, landscaping, beautifying, promotion, and regulation of parks transferred pursuant to this section, shall be transferred to the Department of Recreation, Facility Maintenance Administration (Responsibility Center 2700) within Recreation Operations (Control Center 20).</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Facility Maintenance Administration (Responsibility Center 2700) within Recreation Operations (Control Center 20) is renamed the Parks and Facility Maintenance Administration.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Department of Recreation and Parks is renamed the Department of Parks and Recreation.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-209">Mar. 16, 1989, D.C. Law 7-209, § 2, 36 DCR 476</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 302, 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 8-166.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-271">D.C. Law 20-271</cite> substituted “Department of Parks and Recreation” for “Department of Recreation” in (a) and (c); and substituted “Department of Parks and Recreation” for “Department of Recreation and Parks” in (f).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 302 of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, November 18, 2014, 61 DCR 12133, 20 STAT 4405).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 302 of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 STAT 807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>Pursuant to Mayor’s Order 2000-20, the agency formerly known as the Department of Recreation and Parks shall be known as the Department of Parks and Recreation.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-167" path="|10|1"/>
+    <num codify:value="10-166.01">2a</num>
+    <heading>Park Policy and Programs Division.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established the Park Policy and Programs Division (“Division”) within the Department of Parks and Recreation. The purpose of the Division is to improve the parks and park programs to broaden the use and enjoyment of the parks to enhance the quality-of-life of residents of, and visitors to, the District.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Division shall be administered by a Chief Park Policy and Programs Officer who shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Have authority over its functions and personnel;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Staff, as necessary, the programs and activities of the Division;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Establish a small parks improvement program, which shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Categorize, prioritize, and develop systems, options, and processes for pocket-park improvements and long-term maintenance, including sustainability practices; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>In conjunction with the Partnerships &amp; Development divisions, develop partnerships with community-based organizations and Friends groups to assist in small parks improvements, programming, and maintenance;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Establish a community gardens program, which shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Support the Mayor’s Sustainable DC initiative to provide healthy, affordable food, by:</text>
+          <para>
+            <num>(i)</num>
+            <text>Developing standards for community gardens;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Identifying suitable parcels of land for community gardens; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Assisting community groups to implement community gardens; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Implement Chapter 4 of Title 48 [§ <cite path="§48-401">48-401</cite> et seq.];</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>In conjunction with the Operations Division, prioritize park improvement projects in the capital improvement program;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>In conjunction with the Office of Planning, coordinate the implementation of the District’s responsibilities regarding the park elements of the Capital Space Plan, as adopted by the National Capital Planning Commission on April 1, 2010;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>In conjunction with the Department of General Services, inventory all real property park assets under the control of the District; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Coordinate appropriate government agencies, as needed.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-209">Mar. 16, 1989, D.C. Law 7-209, § 2a</annotation>
+        <annotation doc="D.C. Law 19-168">as added Sept. 20, 2012, D.C. Law 19-168, § 5082, 59 DCR 8025</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> added this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

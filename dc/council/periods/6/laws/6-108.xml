@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 6-108">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 6-108">
   <num type="law">6-108</num>
   <meta>
     <effective>1986-04-18</effective>
@@ -11,4 +11,1427 @@
       <narrative>Law 6-108 was introduced in Council and assigned Bill No. 6-256, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on January 28, 1986, and February 11, 1986, respectively. Signed by the Mayor on February 24, 1986, it was assigned Act No. 6-138 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|I"/>
+    <num codify:value="44-1001.01">101</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Administrator” means the person who is responsible for the day-to-day operation and management of a facility, including, in the case of a community residence facility, the Residence Director of the facility.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Affiliate” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>With respect to a partnership, each partner;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>With respect to a corporation, each officer and director and each stockholder who directly or indirectly owns or controls 10% or more of any class of securities issued by the corporation; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>With respect to an individual:</text>
+        <para>
+          <num>(i)</num>
+          <text>Each parent, child, grandchild, spouse, sibling, first cousin, aunt, and uncle of the individual, whether the relationship arises by blood, marriage, or adoption;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Each partnership in which the individual or an affiliate of the individual is a partner, and each other partner in that partnership; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Each corporation in which the individual or an affiliate of the individual is an officer, director, or stockholder who directly or indirectly owns or controls 10% or more of any class of securities issued by the corporation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(2A)</num>
+      <text>“Assisted Living Residence” shall have the same meaning as given the term in § <cite path="§44-102.01">44-102.01</cite>(4).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Community residence facility” means that term as it is defined in § <cite path="§44-501">44-501</cite>(a)(4).</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Court” means the Superior Court of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“District” means the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Facility” means a nursing home, Assisted Living Residence, or community residence facility operating in the District.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Long-Term Care Ombudsman” means the person designated under 42 U.S.C. § 3027(a)(12) to perform the mandated functions of the Long-Term Care Ombudsman program in the District.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Nursing home” means that term as it is defined in § <cite path="§44-501">44-501</cite>(a)(3).</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Person” means an individual or individuals, an agency, a corporation, a partnership, the District government, or any other organizational entity.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Resident” means a resident of a facility.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Resident’s representative” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>Any person who is knowledgeable about a resident’s circumstances and has been designated by that resident to represent him or her;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Any person other than a facility who has been appointed by a court either to administer a resident’s financial or personal affairs or to protect and advocate for a resident’s rights; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The Long-Term Care Ombudsman or his or her designee, if no person has been designated or appointed in accordance with subparagraphs (A) and (B) of this paragraph.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 101, 33 DCR 1510</annotation>
+        <annotation doc="D.C. Law 7-218">Mar. 16, 1989, D.C. Law 7-218, § 602(a), 36 DCR 534</annotation>
+        <annotation doc="D.C. Law 13-127">June 24, 2000, D.C. Law 13-127, § 1404(a), 47 DCR 2647</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-703.02">7-703.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1401.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-127">D.C. Law 13-127</cite> added a new paragraph (2A) defining “Assisted Living Residence” and in par. (6) added the phrase “, Assisted Living Residence,” after the phrase “nursing home”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to Law 6-108, see Mayor’s Order 87-47, February 17, 1987.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|II"/>
+    <num codify:value="44-1002.01">201</num>
+    <heading>Purpose of receivership.</heading>
+    <text>The purpose of a receivership authorized under this subchapter shall be to safeguard the health, safety, and welfare of a facility’s residents when seriously endangered, to ensure their continuity of care, to safeguard their rights as recognized by District and federal law, and to protect them from the increased stress and risk of trauma often associated with abrupt or unplanned transfer and discharge. A receiver appointed under this subchapter shall not take any actions or assume any responsibilities inconsistent with this purpose. Nothing in this subchapter shall be construed to limit or abrogate any other common-law or statutory right to petition for receivership.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 201, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1411.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|II"/>
+    <num codify:value="44-1002.02">202</num>
+    <heading>Grounds for receivership.</heading>
+    <text>A receiver may be appointed under this subchapter on one or more of the following grounds:</text>
+    <para>
+      <num>(1)</num>
+      <text>The facility is unlawfully operating without a current District license;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The licensee has abandoned the facility;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The facility is closing within 30 calendar days and cannot offer verifiable evidence that adequate arrangements, designed to minimize transfer trauma, have been made to relocate its residents;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A condition or practice in the facility poses a serious, widespread danger, either immediate or recurring, to the health, safety, or welfare of the residents;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Violations of residents’ rights, established pursuant to § <cite path="§44-504">44-504</cite>(a)(4), are chronic, substantial, and widespread;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Insolvency of an owner or the licensee has placed the continued operation of the facility in serious jeopardy; or</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The facility has been issued a restricted or provisional license by the Department of Health.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 202, 33 DCR 1510</annotation>
+        <annotation doc="D.C. Law 18-145">Apr. 29, 2010, D.C. Law 18-145, § 4(a), 57 DCR 1834</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§44-1002.03">44-1002.03</cite>, § <cite path="§44-1002.05">44-1002.05</cite>, and § <cite path="§44-1002.10">44-1002.10</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1412.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-145">D.C. Law 18-145</cite> deleted “or” from the end of par. (5); substituted “; or” for a period at the end of par. (6); and added par. (7).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|II"/>
+    <num codify:value="44-1002.03">203</num>
+    <heading>Petitions for receivership.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Notwithstanding the availability of any other remedy, the Attorney General for the District of Columbia may, in the name of the District and based on one or more of the grounds listed in § <cite path="§44-1002.02">44-1002.02</cite>, petition the court to appoint a receiver for any facility.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Notwithstanding the availability of any other remedy, a resident, a resident’s representative, the Long-Term Care Ombudsman, or any other advocate representing the interests of a facility’s residents may, based on one or more of the grounds listed in § <cite path="§44-1002.02">44-1002.02</cite>(2) through (6), submit a written request asking the Attorney General for the District of Columbia to petition the court to appoint a receiver for any facility. If the Attorney General for the District of Columbia denies the request or does not file a petition within 5 days (excluding Saturdays, Sundays, and legal holidays) after receiving a request, the requestor may file with the court a petition for the appointment of a receiver.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The licensee of any facility may, based on one or more of the grounds listed in § <cite path="§44-1002.02">44-1002.02</cite>, petition the court to appoint a voluntary receiver for that facility.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 203, 33 DCR 1510</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 67, 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§44-1002.04">44-1002.04</cite>, § <cite path="§44-1002.05">44-1002.05</cite>, § <cite path="§44-1002.07">44-1002.07</cite>, and § <cite path="§44-1002.10">44-1002.10</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1413.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite> substituted “Attorney General for the District of Columbia” for “Corporation Counsel”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|II"/>
+    <num codify:value="44-1002.04">204</num>
+    <heading>Notice and hearing requirements; ex parte appointment.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The court shall hold a hearing on a petition filed under § <cite path="§44-1002.03">44-1002.03</cite> within 10 days (excluding Saturdays, Sundays, and legal holidays) after it is filed.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The petitioner (if he or she is not the licensee) shall ensure that the licensee or administrator of the facility is served with notice of the hearing date and a copy of the petition:</text>
+        <para>
+          <num>(A)</num>
+          <text>In accordance with court rules, at least 5 days (excluding Saturdays, Sundays, and legal holidays) before the hearing; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>By a notice conspicuously posted inside or on the front door of the facility at least 3 days (excluding Saturdays, Sundays, and legal holidays) before the hearing, if the petitioner files with the court a sworn statement setting forth in detail his or her diligent but unsuccessful efforts to find the licensee or administrator and serve process.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Upon filing a petition with the court, a petitioner other than the District shall serve notice of the hearing date and a copy of the petition on the Attorney General for the District of Columbia. No later than 5 days (excluding Saturdays, Sundays, and legal holidays) after receiving a copy of the petition, the Attorney General for the District of Columbia shall, to the extent allowable under federal law, make available to the petitioner for his or her use in the proceedings certified copies of all licensure and Medicare/Medicaid certification reports within the custody of the District government that document conditions in the facility within the previous 2 years.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The court may appoint a receiver immediately upon the filing of a petition under § <cite path="§44-1002.03">44-1002.03</cite> if it finds probable cause to believe a condition or practice in a facility poses an immediate danger of death or life-threatening injury to the residents.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the event of an ex parte appointment under paragraph (1) of this subsection, the petitioner (if he or she is not the licensee) shall ensure that the licensee or administrator of the facility is served with notice of the hearing date and copies of the petition, any supporting affidavit(s), and the order of appointment:</text>
+        <para>
+          <num>(A)</num>
+          <text>By personal service within 24 hours after the appointment; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>By a notice conspicuously posted inside or on the front door of the facility within 48 hours after the appointment, if the petitioner files with the court a sworn statement setting forth in detail his or her diligent but unsuccessful efforts to find the licensee or administrator and serve process.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 204, 33 DCR 1510</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 67, 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1414.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite> substituted “Attorney General for the District of Columbia” for “Corporation Counsel”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|II"/>
+    <num codify:value="44-1002.05">205</num>
+    <heading>Appointment of receiver; continuation of ex parte appointment.</heading>
+    <para>
+      <num>(a)</num>
+      <text>After a hearing the court may appoint a receiver for the facility or continue the appointment of a receiver made ex parte if it finds that the petitioner has proven, by clear and convincing evidence, the existence of one or more of the grounds for receivership listed in § <cite path="§44-1002.02">44-1002.02</cite></text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor shall, after consulting with appropriate District government agencies, the Long-Term Ombudsman, and representatives from nursing home, Assisted Living Residence, and community residence facility providers, establish a list of potential receivers with experience in the delivery of health-care or personal care services preferably in the operation of a nursing home, Assisted Living Residence, or community residence facility.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Except as provided in paragraph (3) of this subsection, the court may appoint as a receiver any qualified person with experience in the delivery of health-care or personal care services preferably in the operation of a nursing home, Assisted Living Residence, or community residence facility. In deciding whom to appoint, the court shall give strong consideration to the list of mayoral nominees established pursuant to paragraph (1) of this subsection.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The court shall not appoint as a receiver:</text>
+        <para>
+          <num>(A)</num>
+          <text>An employee of a District government agency that licenses, operates, or provides a financial payment to the type of facility being placed in receivership;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The owner, licensee, or administrator of the facility, or an affiliate of the owner, licensee, or administrator; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A parent, child, grandchild, spouse, domestic partner, sibling, first cousin, aunt, or uncle of one of the facility’s residents, whether the relationship arises by blood, marriage, domestic partnership, or adoption. For the purposes of this subparagraph, the term “domestic partner” shall have the same meaning as provided in § <cite path="§32-701">32-701</cite>(3), and the term “domestic partnership” shall have the same meaning as provided in § <cite path="§32-701">32-701</cite>(4).</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>Before a receiver takes charge of a facility, he or she shall file a bond with the court that:</text>
+        <para>
+          <num>(A)</num>
+          <text>Does not exceed the value of the facility and its assets; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Runs to the District for the benefit of all persons interested in his or her faithful performance of the receivership.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Unless the court directs otherwise, the receiver may pay the premium of the bond from the facility’s income.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Any person authorized to file a petition under § <cite path="§44-1002.03">44-1002.03</cite> may petition the court to appoint a substitute for a receiver who:</text>
+      <para>
+        <num>(1)</num>
+        <text>Dies;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Has or develops a disability that impedes his or her ability to carry out the receivership;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Has or develops a conflict of interest; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Fails to make reasonable progress in carrying out the receivership.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 205, 33 DCR 1510</annotation>
+        <annotation doc="D.C. Law 13-127">June 24, 2000, D.C. Law 13-127, § 1404(b), 47 DCR 2647</annotation>
+        <annotation doc="D.C. Law 17-231">Sept. 12, 2008, D.C. Law 17-231, § 39, 55 DCR 6758</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§44-1002.07">44-1002.07</cite> and § <cite path="§44-1002.10">44-1002.10</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1415.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-127">D.C. Law 13-127</cite> amended subsec. (b)(1) and (2) by adding the phrase “, Assisted Living Residence,” after the phrase “nursing home” wherever it appears and by adding the phrase “or personal care services,” after the word “health-care” wherever it appears.</annotation>
+        <annotation><cite doc="D.C. Law 17-231">D.C. Law 17-231</cite> rewrote subsec. (b)(3)(C), which had read as follows: “(C) A parent, child, grandchild, spouse, sibling, first cousin, aunt, or uncle of one of the facility’s residents, whether the relationship arises by blood, marriage, or adoption.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|II"/>
+    <num codify:value="44-1002.06">206</num>
+    <heading>Powers and duties of receiver.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A receiver shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Take charge of the operation and management of the facility and assume all rights to possess and use the building, fixtures, furnishings, records, and other related property and goods that the owner, licensee, or administrator would have if the receiver had not been appointed;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Give notice of the receivership, in accordance with subsection (b) of this section, to the facility’s residents and employees, each resident’s representative, the Long-Term Care Ombudsman, and any other person whom the court orders should receive notice;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Exercise his or her powers to correct all of the conditions that prompted the need for receivership, to ensure quality care for each resident, and to promote full respect for the rights of residents established by District and federal law;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Unless the facility is closing, take all steps necessary to maintain or restore District licensure and federal Medicare/Medicaid certification;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Preserve all property and records with which he or she is entrusted;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Report to the court in accordance with a schedule established by the court; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Carry out any other duties established by the court.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The notice required by subsection (a)(2) of this section shall include at a minimum the following information in not less than 12-point type:</text>
+      <para>
+        <num>(1)</num>
+        <text>The reasons for and purpose of the receivership;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The identity of the receiver and how he or she may be contacted;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The anticipated duration of the receivership; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Unless the receiver was appointed to facilitate the orderly transfer or discharge of residents, a statement in boldface making clear to the residents that they do not have to move.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Except as otherwise provided by Chapter 13 of Title 7, whenever a resident is to be discharged, transferred, or relocated, a receiver shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Comply with subchapter III of this chapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Explain to the resident and resident’s representative the alternative placements that are available, help them find an appropriate alternative placement, and provide them with information about the alternative placement chosen;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Transport the resident to the alternative placement chosen; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Transfer all property of and records pertaining to the resident, including all necessary health information, to the resident, resident’s representative, or appropriate authority at the alternative placement.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A receiver may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Use in a reasonable and prudent manner all private and third-party payments to the facility, including payments made under Medicare or Medicaid and, with the approval of the court, money from the special fund or account if established under § <cite path="§44-1002.09">44-1002.09</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Enter into contracts and hire agents, consultants, and employees to carry out the powers and duties established by this section;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Direct, manage, and discharge employees of the facility, subject to District law and any contract rights they may have; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Exercise any other powers authorized by the court.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>If the structural, architectural, or environmental conditions of a facility violate District or federal law or otherwise endanger the health, safety, or welfare of the residents, the receiver may correct the violation:</text>
+      <para>
+        <num>(1)</num>
+        <text>Without the consent of the court, if the cost of the correction does not exceed $5,000; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon court approval of a written estimate and plan of correction, if the cost of the correction exceeds $5,000.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided in paragraphs (2) through (6) of this subsection, a receiver shall honor all leases, mortgages, secured transactions, and other contracts related to the facility and its operation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A receiver shall assume all rights to enforce or avoid the terms of a lease, mortgage, secured transaction, or other contract related to the facility and its operation that the owner, licensee, or administrator would have if the receiver had not been appointed.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A receiver shall not be required to honor a lease, mortgage, secured transaction, or other contract related to the facility and its operation if the obligee is, or at the time the obligation was created was, the licensee or administrator of the facility or an affiliate of the licensee or administrator.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A receiver may petition the court to allow him or her to wholly or partially avoid the terms of a lease, mortgage, secured transaction, or other contract that the licensee or administrator of the facility entered into if those terms provide for a rent, interest rate, or other payment substantially in excess of an amount that was reasonable at the time the contract was entered into, or if performance of the contract would substantially impede the receiver’s ability to carry out the purposes of the receivership.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <para>
+          <num>(A)</num>
+          <text>The court shall hold a hearing on a petition filed under paragraph (4) of this subsection within 15 days (excluding Saturdays, Sundays, and legal holidays) after it is filed.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The receiver shall ensure that, at least 10 days (excluding Saturdays, Sundays, and legal holidays) before the hearing, notice of the hearing date and a copy of the petition are served in accordance with court rules on all persons whose legal or beneficial interest in the contract at issue is ascertainable with reasonable diligence.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>If the court finds that the receiver has proven the averments in the petition by clear and convincing evidence, it may, for the duration of the receivership, excuse performance of the contract or adjust the rent, interest rate, or other payment under the contract to an amount that was reasonable at the time the contract was entered into.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Compliance with a court order issued under paragraph (6) of this subsection shall be a defense to any action brought against a receiver alleging breach of contract. The receiver’s compliance with a court order, however, shall not relieve the licensee or administrator of the facility of his or her liability for the difference between the amount paid by the receiver and the amount originally due under the contract.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>A receiver shall be personally liable only for his or her acts of gross negligence or intentional wrongdoing in carrying out the receivership.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>A receiver shall be entitled to a reasonable fee established by the court to be paid from the revenues of the facility.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 206, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§44-1002.07">44-1002.07</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1416.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|II"/>
+    <num codify:value="44-1002.07">207</num>
+    <heading>Termination of receivership.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsection (b) of this section, a receivership shall terminate when:</text>
+      <para>
+        <num>(1)</num>
+        <text>The person who will assume control of the facility has been granted a current license by the Mayor and:</text>
+        <para>
+          <num>(A)</num>
+          <text>The time period specified in the order appointing the receiver elapses and is not extended; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The court determines the receivership is no longer necessary because the grounds on which it was based no longer exist; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The facility is closing and all of its residents have been transferred or discharged.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>Notwithstanding subsection (a) of this section, a receivership of a private facility shall not be terminated in favor of any person who was the licensee or administrator at the time a petition was filed under § <cite path="§44-1002.03">44-1002.03</cite>, or, in the discretion of the court, any person who is or was an affiliate of the licensee or administrator, unless he or she first:</text>
+        <para>
+          <num>(A)</num>
+          <text>Reimburses the District government for any increase in Medicaid expenditures needed to finance the receiver’s bond premium under § <cite path="§44-1002.05">44-1002.05</cite>(c)(2), to pay the receiver’s fee under § <cite path="§44-1002.06">44-1002.06</cite>(h), or to correct deficiencies caused by the licensee’s or administrator’s own negligence; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Reimburses the District government for any amount it loaned the receiver for major repairs or improvements to the facility, or assumes an obligation to repay the loan and provides collateral or other assurance of payment deemed sufficient by the Mayor.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The court may in addition require that, before a person specified in paragraph (1) of this subsection resumes control of a facility, he or she post bond in an amount it deems appropriate as security against future noncompliance with the law. If the receivership is not reinstated under subsection (c) of this section, the bond money shall be returned.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Should it appear that, within 2 years after a receivership is terminated in favor of a person specified in subsection (b)(1) of this section, that person is not maintaining the facility in substantial compliance with all applicable laws, and should the court so find after granting notice and a hearing to all parties to the earlier receivership proceeding, the previous order appointing a receiver may be reinstated. A receiver thus reappointed may use all or part of any bond posted pursuant to subsection (b)(2) of this section to remedy the deficiencies.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 207, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§44-1002.10">44-1002.10</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1417.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|II"/>
+    <num codify:value="44-1002.08">208</num>
+    <heading>Final accounting.</heading>
+    <text>Within 30 calendar days after termination of a receivership, the receiver shall give the court a complete accounting of all property with which he or she has been entrusted, all funds collected, and all expenses incurred.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 208, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1418.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|II"/>
+    <num codify:value="44-1002.09">209</num>
+    <heading>Special fund or account.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor may establish a special revolving fund or a separate allocable revenue account in the General Fund to provide financial support in the form of loans to a receiver of a facility. If established, this fund or account may be supported in accordance with subsection (f) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>For the purposes of this section, the term “fund” means the special revolving fund or separate allocable revenue account referred to in subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If expenses remain unpaid after a receiver uses all private and third-party payments, the receiver may petition the court for money from the fund. Before the court authorizes use of money from the fund, it shall hold a hearing at which the Mayor, the receiver, the licensee, the owner, and the administrator of the facility may offer evidence on whether the court should approve the loan. Notice of the hearing shall be given to the Mayor, the receiver, the licensee, the owner, and the administrator of the facility at least 7 days (excluding Saturdays, Sundays, and legal holidays) before the hearing.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>A loan from the fund shall create an automatic lien on the facility and its assets in the amount of the loan. The receiver shall file with the Mayor a document setting forth:</text>
+        <para>
+          <num>(A)</num>
+          <text>The amount of the loan;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The name of the facility to which the lien attaches; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A description of the assets of the facility that are affected by the lien.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A lien created under this subsection shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Extend to the property of the facility described in the document filed under paragraph (1) of this subsection and to the beneficial interest in that property possessed by the owner; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Have priority over any other lien or interest that attaches after the filing date, except as otherwise provided by federal law.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>In addition to receivership loans, the Mayor may use money from the fund for low-interest loans or grants to facilities to help improve resident care, address the personal needs of residents, and enhance resident safety.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Mayor may support the fund with money received from:</text>
+      <para>
+        <num>(1)</num>
+        <text>The collection of civil fines, penalties, and related costs imposed against a facility;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The sale of properties subject to liens created by this section;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The assessment of facility licensure fees; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The repayment of loans made under this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Any money in the fund in excess of $500,000 shall revert to the General Fund.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 209, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Health-care and community residence facility, hospice, and home care licensure, civil fines, penalties, and costs, see § <cite path="§44-509">44-509</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§44-509">44-509</cite> and § <cite path="§44-1002.06">44-1002.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1419.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to Law 6-108, see Mayor’s Order 87-47, February 17, 1987.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|II"/>
+    <num codify:value="44-1002.10">210</num>
+    <heading>Appointment of court monitor.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any person authorized to file a petition for receivership may, based on one or more of the grounds listed in § <cite path="§44-1002.02">44-1002.02</cite>, petition the court for the appointment of a monitor. In addition, in lieu of appointing a receiver when a petition for receivership has been filed, the court may, on either its own motion or the motion of a party, appoint a monitor instead. The grounds and procedures set forth in §§ <cite path="§44-1002.02">44-1002.02</cite> to 44-1002.05, except for the requirement of a bond in § <cite path="§44-1002.05">44-1002.05</cite>(c), shall apply to the appointment of a monitor. The appointment of a monitor may be terminated by the court for any of the reasons listed in § <cite path="§44-1002.07">44-1002.07</cite>(a) or if the court determines that a receiver should be appointed.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A monitor appointed under this section shall observe the operation of the facility, advise the facility on how to comply with District and federal law, and report periodically to the court. In each report to the court, the monitor shall make a recommendation on whether a receiver should be appointed for the facility.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Whenever a person requests the Attorney General for the District of Columbia to petition for the appointment of a receiver under § <cite path="§44-1002.03">44-1002.03</cite>(b) and the Attorney General for the District of Columbia instead petitions the court for the appointment of a monitor, the request shall be considered denied and the requestor may petition the court for the appointment of a receiver.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 210, 33 DCR 1510</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 67, 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1420.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite> substituted “Attorney General for the District of Columbia” for “Corporation Counsel”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|III"/>
+    <num codify:value="44-1003.01">301</num>
+    <heading>Grounds for involuntary discharge, transfer, or relocation by facility.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Unless a resident and his or her representative consent otherwise, a facility may discharge the resident, transfer the resident to another facility, or relocate the resident from one part or room of the facility to another only:</text>
+      <para>
+        <num>(1)</num>
+        <text>If essential to meet that resident’s documented health-care needs or to be in accordance with his or her prescribed level of care;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If essential to safeguard that resident or one or more other residents from physical or emotional injury;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>On account of nonpayment for his or her maintenance, after reasonable and appropriate notice, except as prohibited by subsection (b) of this section and 42 U.S.C. § 1395 et seq. and 42 U.S.C. § 1396 et seq.;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If essential to meet the facility’s reasonable administrative needs and no practicable alternative is available; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>If the facility is closing or officially reducing its licensed capacity.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No facility that is a District Medicaid provider may discharge, transfer, or relocate a resident on account of his or her conversion from private-pay or Medicare to Medicaid status, or on account of a temporary hospitalization if payment or reimbursement for his or her bed continues to be made available.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 301, 33 DCR 1510</annotation>
+        <annotation doc="D.C. Law 18-145">Apr. 29, 2010, D.C. Law 18-145, § 4(b), 57 DCR 1834</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§44-504">44-504</cite> and § <cite path="§44-1003.03">44-1003.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1431.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-145">D.C. Law 18-145</cite>, in subsec. (a)(3), substituted “maintenance, after reasonable and appropriate notice,” for “maintenance,”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|III"/>
+    <num codify:value="44-1003.02">302</num>
+    <heading>Notice to resident and resident’s representative.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Whenever a resident is to be discharged, transferred, or relocated, a facility representative shall give that resident and his or her representative both oral and written notice of the reasons for, procedures for contesting, and proposed effective date of the discharge, transfer, or relocation. Except as provided in subsection (b) of this section or unless the resident and his or her representative consent to shorter notice, the oral and written notice shall be given at least 21 calendar days before a proposed discharge or transfer from the facility, and at least 7 calendar days before a proposed relocation within the facility.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The time requirements for advance oral and written notice set forth in subsection (a) of this section shall not apply if:</text>
+      <para>
+        <num>(1)</num>
+        <text>A more immediate discharge, transfer, or relocation is necessitated by the resident’s urgent medical needs as explicitly delineated in the signed, written orders of an attending physician; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Long-Term Care Ombudsman determines that emergency or other compelling circumstances necessitate a more immediate discharge, transfer, or relocation, and the basis for that determination is documented in the clinical records of those discharged, transferred, or relocated.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Consent by a resident and his or her representative to a discharge, transfer, relocation, or abbreviated notice under this subchapter shall be valid only if knowingly and voluntarily given at the time the move is proposed.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The written notice required by subsection (a) of this section shall be on a form prescribed by the Mayor and shall at a minimum contain:</text>
+      <para>
+        <num>(1)</num>
+        <text>The specific reason(s), stated in detail and not in conclusory language, for the proposed discharge, transfer, or relocation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The proposed effective date of the discharge, transfer, or relocation;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A statement in not less than 12-point type that reads:</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A hearing request form, together with a postage paid envelope preaddressed to the appropriate District official or agency;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The name, address, and telephone number of the person charged with the responsibility of supervising the discharge, transfer, or relocation;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The names, addresses, and telephone numbers of the Long-Term Care Ombudsman program and local legal services organizations; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The location to which the resident will be transferred.</text>
+      </para>
+      <afterText>“You have a right to challenge this facility’s decision to discharge, transfer, or relocate you. If the decision is to discharge you from the facility or to transfer you to another facility and you think you should not have to leave, you or your representative have 7 days from the day you receive this notice to inform the Administrator [Residence Director, if a community residence facility] or a member of the staff that you are requesting a hearing and to complete the enclosed hearing request form and mail it in the preaddressed envelope provided. If you are mailing the hearing request form from the facility, the day you place it in the facility’s outgoing mail or give it to a member of the staff for mailing shall be considered the date of mailing for purposes of the time limit. In all other cases, the postmark date shall be considered the date of mailing. If, instead, the decision is to relocate you within the facility and you think you should not have to move to another room, you or your representative have only 5 days to do the above.</afterText>
+      <afterText>“If you or your representative request a hearing, it will be held no later than 5 days after the request is received in the mail, and, in the absence of emergency or other compelling circumstances, you will not be moved before a hearing decision is rendered. If the decision is against you, in the absence of an emergency or other compelling circumstances you will have at least 5 days to prepare for your move if you are being discharge or transferred to another facility, and at least 3 days to prepare for your move if you are being relocated to another room within the facility.</afterText>
+      <afterText>“To help you in your move, you will be offered counseling services by the staff, assistance by the District government if you are being discharged or transferred from the facility, and, at your request, additional support from the Long-Term Care Ombudsman program. If you have any questions at all, please do not hesitate to call one of the phone numbers listed below for assistance.”;</afterText>
+    </para>
+    <para>
+      <num>(d-1)</num>
+      <text>Upon oral and written notification of discharge, the nursing facility shall provide to the resident and his or her representative:</text>
+      <para>
+        <num>(1)</num>
+        <text>A current assessment of the resident’s care needs and the kind of service the resident will need upon discharge;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Information about the resident’s right to receive counseling that explains the resident’s options of community-based care and care in the home, including the right to request that the facility arrange a visit to at least one alternative community-based care facility; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A discharge plan that:</text>
+        <para>
+          <num>(A)</num>
+          <text>Links the resident with community resources, including the DC Aging and Disability Resource Center;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Explains the resident’s options of community-based care and care in the home, including the right to request that the facility arrange a visit to at least one alternative community-based care facility; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Sets forth an arrangement for the resident and an immediate family member or legal representative, if any, to visit at least one alternative community-based care facility, at the resident’s request.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Copies of the written notice required by subsection (a) of this section shall be placed in the resident’s clinical record and shall be transmitted to the Mayor’s designee and, if the resident’s care is paid in whole or in part through Medicaid, the Director of the Department of Human Services (“DHS”), and the Long-Term Care Ombudsman.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Whenever nonpayment is the ground for a proposed involuntary discharge or transfer, the resident shall have the right to redeem up to the time that the discharge or transfer is to be effected and, if full payment is made, shall have the right to remain in the facility.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 302, 33 DCR 1510</annotation>
+        <annotation doc="D.C. Law 7-218">Mar. 16, 1989, D.C. Law 7-218, § 602(b), 36 DCR 534</annotation>
+        <annotation doc="D.C. Law 18-145">Apr. 29, 2010, D.C. Law 18-145, § 4(c), 57 DCR 1834</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Long-term care ombudsman program, ombudsman duties, see § <cite path="§7-702.04">7-702.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-702.04">7-702.04</cite>, § <cite path="§44-1003.03">44-1003.03</cite>, and § <cite path="§44-1003.04">44-1003.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1432.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-145">D.C. Law 18-145</cite>, in subsec. (d), deleted “and” from the end of par. (5), substituted “; and” for a period at the end of par. (6), and added par. (7); and added subsec. (d-1).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|III"/>
+    <num codify:value="44-1003.03">303</num>
+    <heading>Hearing.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>Whenever a facility decides to involuntarily discharge, transfer, or relocate a resident, that resident, his or her representative, or the Long-Term Care Ombudsman may contest the decision by mailing a written hearing request to the Mayor and notifying the administrator or facility staff of the request:</text>
+        <para>
+          <num>(A)</num>
+          <text>Within 7 calendar days after receiving notice of a proposed discharge or transfer to another facility; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Within 5 calendar days after receiving notice of a proposed relocation within the facility.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the resident or resident’s representative mails the hearing request from the facility, the day he or she places it in the facility’s outgoing mail or gives it to a member of the facility staff for mailing shall be considered the date of mailing for purposes of the 7-day and 5-day time limits. In all other cases, the postmark date shall be considered the date of mailing.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A timely hearing request shall stay the discharge, transfer, or relocation unless a condition set forth in § <cite path="§44-1003.02">44-1003.02</cite>(b)(1) and (2) develops in the interim.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall hold a hearing at the resident’s facility within 5 calendar days, and shall render a decision within 7 calendar days, after a timely hearing request is received. The facility shall have the burden of proof unless the ground for the proposed discharge, transfer, or relocation is a prescribed change in the resident’s level of care, in which case the person(s) responsible for prescribing that change shall have the burden of proof and the resident shall have the right to challenge the level of care determination at the hearing. A hearing held under this section may not be used by the resident to litigate or relitigate Medicaid eligibility.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If the Mayor finds that the existence of a ground listed in § <cite path="§44-1003.01">44-1003.01</cite>(a) has been proven by clear and convincing evidence, the resident shall not be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Discharged or transferred from the facility before the 22nd calendar day following his or her receipt of the notice required by § <cite path="§44-1003.02">44-1003.02</cite>(a) or the 5th calendar day following his or her notification of the hearing decision, whichever is later, unless a condition set forth in § <cite path="§44-1003.02">44-1003.02</cite>(b)(1) and (2) develops in the interim; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Relocated within the facility before the 8th calendar day following his or her receipt of the notice required by § <cite path="§44-1003.02">44-1003.02</cite>(a) or the 3rd calendar day following his or her notification of the hearing decision, whichever is later, unless a condition set forth in § <cite path="§44-1003.02">44-1003.02</cite>(b)(1) and (2) develops in the interim.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 303, 33 DCR 1510</annotation>
+        <annotation doc="D.C. Law 7-218">Mar. 16, 1989, D.C. Law 7-218, § 602(c), 36 DCR 534</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Long-term care ombudsman program, ombudsman duties, see § <cite path="§7-702.04">7-702.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-702.04">7-702.04</cite> and § <cite path="§44-1003.04">44-1003.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1433.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 6-108">D.C. Law 6-108</cite>, see Mayor’s Order 86-129, August 8, 1986.</annotation>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 6-108">D.C. Law 6-108</cite>, “Nursing Home and Community Residence Facility Residents’ Protection Act of 1985.”, see Mayor’s Order 88-230, October 19, 1988.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|III"/>
+    <num codify:value="44-1003.04">304</num>
+    <heading>Discussion and counseling.</heading>
+    <text>Before a resident is voluntarily or involuntarily discharged, transferred to another facility, or relocated within a facility, a facility representative shall discuss the reasons for the move with the resident and his or her representative and shall answer any questions they must have about the move or the written notice they received pursuant to § <cite path="§44-1003.02">44-1003.02</cite>(a). The contents of this discussion shall be summarized in writing, include the names of the individuals involved in the discussion, and be made a part of the resident’s clinical record. In addition, the facility representative shall strongly recommend and offer to provide counseling services to the resident and his or her representative before the move. If the resident has requested a hearing pursuant to § <cite path="§44-1003.03">44-1003.03</cite>(a), facility staff shall attempt to prepare the resident for the possibility of having to move on 3-day (for an intra-facility relocation) or 5-day (for a discharge or transfer to another facility) notice should the hearing decision not be in his or her favor.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 304, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1434.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|III"/>
+    <num codify:value="44-1003.05">305</num>
+    <heading>Grounds for transfer or discharge by Mayor.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor may transfer or discharge any resident from any facility on 1 or more of the following grounds:</text>
+      <para>
+        <num>(1)</num>
+        <text>The facility is unlawfully operating without a current District license, or is operating in violation of restrictions placed on its license;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Mayor has suspended, revoked, or refused to renew the facility’s license;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The facility is closing or intends to close and adequate arrangements for the relocation of its residents, in a manner designed to keep transfer trauma to a minimum, have not been made at least 30 calendar days before the anticipated closure date;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The facility has requested the Mayor’s assistance in the transfer or discharge, and the Mayor determines that the resident and his or her representative have consented to the transfer or discharge; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Mayor has determined that an emergency exists which poses an immediate danger of death or serious physical injury to the resident.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In deciding whether to transfer or discharge a resident under this section, the Mayor shall consider the likelihood of serious harm that may result if the resident remains in the facility and the availability of other remedies besides transfer or discharge.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 305, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§44-1003.06">44-1003.06</cite>, § <cite path="§44-1003.07">44-1003.07</cite>, § <cite path="§44-1003.08">44-1003.08</cite>, and § <cite path="§44-1003.09">44-1003.09</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1435.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|III"/>
+    <num codify:value="44-1003.06">306</num>
+    <heading>Notice to facility owner or administrator; informal conference.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Before a resident is transferred or discharged under § <cite path="§44-1003.05">44-1003.05</cite>(a)(1) through (3), the Mayor shall provide the licensee or administrator of the facility with a written notice stating the reasons for the intended action and informing the licensee or administrator of his or her right to an informal conference and a subsequent hearing. The licensee or administrator may contest a nonemergency transfer or discharge by submitting to the Mayor a written request for an informal conference within 4 days (excluding Saturdays, Sundays, and legal holidays) after he or she receives notice of the proposed transfer or discharge. A timely request for an informal conference shall stay the nonemergency transfer or discharge pending the Mayor’s decision after the conference.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall hold an informal conference within 4 days (excluding Saturdays, Sundays, and legal holidays) after a timely request for the conference is received. Following the conference, the Mayor shall affirm, modify, or reverse his or her previous decision to transfer or discharge the resident.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 306, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1436.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|III"/>
+    <num codify:value="44-1003.07">307</num>
+    <heading>Notice to resident and resident’s representative; informal conference.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Before a resident is transferred or discharged under § <cite path="§44-1003.05">44-1003.05</cite>(a)(1) through (4), the Mayor shall provide the resident, the representative of a resident, and the Long-Term Care Ombudsman with a written notice stating the reasons for the intended action and informing them of their right to contest the transfer or discharge under § <cite path="§44-1003.09">44-1003.09</cite>.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Before the transfer or discharge, the Mayor shall hold an informal conference with the resident, the representative of a resident, and the Long-Term Care Ombudsman at which they may present objections to the proposed transfer or discharge plan and alternative placement.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 307, 33 DCR 1510</annotation>
+        <annotation doc="D.C. Law 7-218">Mar. 16, 1989, D.C. Law 7-218, § 602(d), 36 DCR 534</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Long-term care ombudsman program, ombudsman duties, see § <cite path="§7-702.04">7-702.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-702.04">7-702.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1437.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|III"/>
+    <num codify:value="44-1003.08">308</num>
+    <heading>Emergency transfer or discharge by Mayor.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Whenever the immediate transfer or discharge of 1 or more residents is required by an emergency pursuant to § <cite path="§44-1003.05">44-1003.05</cite>(a)(5), the Mayor shall notify the licensee or administrator of the facility and any resident(s) to be removed that an emergency has been found to exist and that removal is ordered. In addition, whenever practicable the Mayor shall involve the resident(s) in the removal planning.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Following emergency removal, the Mayor shall provide the licensee or administrator of the facility, each resident removed, and each removed resident’s representative with a written notice stating the basis for the finding of an emergency and informing them of their right to contest the removal under § <cite path="§44-1003.09">44-1003.09</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 308, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1438.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|III"/>
+    <num codify:value="44-1003.09">309</num>
+    <heading>Hearing to review Mayor’s decision to transfer or discharge.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 10 calendar days after a transfer or discharge by the Mayor, the licensee or administrator of the facility, any resident transferred or discharged, and the representative of any resident transferred or discharged may contest the transfer or discharge by submitting to the Mayor a written request for a hearing. The Mayor shall hold a hearing and render a decision within 30 calendar days after a timely hearing request is received. When a hearing request is submitted by a resident, the hearing shall be held at a location convenient to the resident.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A resident who is transferred or discharged from a facility by the Mayor under § <cite path="§44-1003.05">44-1003.05</cite> shall be liable to that facility only for the costs of his or her maintenance incurred before the transfer or discharge.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If as a result of a hearing held under this section a resident is to be returned to a facility, the Mayor shall facilitate that return if the licensee or administrator of the facility, resident, or resident’s representative requests assistance.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 309, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§44-1003.07">44-1003.07</cite> and § <cite path="§44-1003.08">44-1003.08</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1439.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|III"/>
+    <num codify:value="44-1003.10">310</num>
+    <heading>Transfer and discharge planning and assistance.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor shall offer planning and assistance, including information on available alternative placements, to residents who are being voluntarily or involuntarily transferred or discharged from their facilities pursuant to this subchapter. Residents shall be involved in planning their transfer or discharge and shall choose among available alternative placements, except that, when an emergency makes prior resident involvement impracticable, the Mayor may make a temporary placement until a final placement can be arranged. Except when an attending physician determines that it is medically contraindicated or if the need for immediate transfer or discharge requires otherwise, a resident shall be allowed at least 2 visits to a proposed alternative placement before his or her transfer or discharge.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Whenever practicable, residents may choose their final alternative placement. No resident shall be forced to remain in a particular temporary or permanent placement, and, whenever placement alternatives are being compared by either the facility or the Mayor, strong consideration shall be given to the proximity of a resident’s relatives and friends.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall develop a model resident transfer and discharge plan to ensure the safe and orderly removal of residents and to protect their health, safety, welfare, and rights. This plan shall be developed in consultation with appropriate District government agencies, consumers, advocates, and the Long-Term Care Ombudsman. The plan shall conform to the requirements of subsection (a) of this section and shall be followed whenever a resident is transferred or discharged unless alterations in the plan are necessary to meet the individual needs of a particular resident. In addition, the plan shall delineate the facility’s responsibilities in both individual and group transfers and discharges. Each facility shall periodically train its staff in transfer and discharge planning in accordance with the plan developed under this subsection.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>To facilitate implementation of the resident transfer and discharge plan developed pursuant to subsection (b) of this section, the Mayor may place a relocation team in any facility from which residents are to be transferred or discharged.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 310, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1440.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|III"/>
+    <num codify:value="44-1003.11">311</num>
+    <heading>Notice of adverse action or voluntary facility closure.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Whenever a facility receives written notice that its license is being restricted, suspended, revoked, or not renewed or that it is losing its Medicare or Medicaid certification, the licensee or administrator shall within 30 calendar days give written notice of this fact to the residents and employees of the facility, the residents’ representatives, and the Long-Term Care Ombudsman.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>To the extent possible, the licensee or administrator of a facility shall give the Mayor, any resident to be transferred or discharged, the representative of any resident to be transferred or discharged, the facility’s employees, and the Long-Term Care Ombudsman advance written notice of at least 90 calendar days before he or she voluntarily closes the facility or a part of the facility that, when closed, will require the transfer or discharge of more than 10% of the residents. This notice shall include the proposed date of and reasons for closing.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Before all or part of a facility is voluntarily closed under subsection (b) of this section, a facility representative shall advise those residents to be transferred or discharged and their representatives of available alternative placements and shall offer to assist them in securing a placement. Until the date of closing, the facility shall fully comply with this chapter and all other applicable laws and rules.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 311, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1441.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|III"/>
+    <num codify:value="44-1003.12">312</num>
+    <heading>Exemption.</heading>
+    <text>This subchapter shall not apply to individual transfers, discharges, or relocations of residents who are admitted or committed under Chapter 13 of Title 7.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 312, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1442.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|III"/>
+    <num codify:value="44-1003.13">313</num>
+    <heading>Judicial review.</heading>
+    <text>Any person who is aggrieved by the results of a hearing held by the Mayor pursuant to this subchapter shall have a right to judicial review in accordance with § <cite path="§2-510">2-510</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 313, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1443.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|IV"/>
+    <num codify:value="44-1004.01">401</num>
+    <heading>Injunctive relief.</heading>
+    <text>A resident, a resident’s representative, the Long-Term Care Ombudsman, or the Attorney General for the District of Columbia may bring an action in court for a temporary restraining order, preliminary injunction, or permanent injunction to enjoin a facility from violating any provision in subchapter III of this chapter, any rule issued by the Mayor pursuant to that subchapter, or any standard or resident’s right established pursuant to § <cite path="§44-504">44-504</cite>(a)(3) and (4).</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 401, 33 DCR 1510</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 67, 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1451.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite> substituted “Attorney General for the District of Columbia” for “Corporation Counsel”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|IV"/>
+    <num codify:value="44-1004.02">402</num>
+    <heading>Mandamus.</heading>
+    <text>A resident, a resident’s representative, the Long-Term Care Ombudsman, or the licensee or administrator of a facility may bring an action in court for mandamus to order the Mayor or any District government agency to comply with subchapter III of this chapter, any rule issued by the Mayor pursuant to that subchapter, or any other District or federal law relevant to the operation of a facility or the care of its residents. Any person bringing an action under this section shall give the Mayor at least 5 days advance notice (excluding Saturdays, Sundays, and legal holidays) before the action is filed in court.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 402, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1452.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|IV"/>
+    <num codify:value="44-1004.03">403</num>
+    <heading>Civil action for damages.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A resident or resident’s representative may bring an action in court to recover actual and punitive damages for any injury that results from a violation of subsection (b) of this section, subchapter III of this chapter, any rule issued by the Mayor pursuant to subchapter III of this chapter, or any standard or resident’s right established pursuant to § <cite path="§44-504">44-504</cite>(a)(3) and (4). Upon proof of a violation and subject to subsection (c) of this section, the resident shall be awarded 3 times the actual damages or $100, whichever is greater, and may be awarded punitive damages of up to $5,000.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No owner, licensee, administrator, or employee of a facility shall take any action that adversely affects a resident’s rights, privileges, or living arrangement in retaliation for that resident, his or her representative, or the Long-Term Care Ombudsman having exercised a right conferred by District or federal law, court order, or order of the Mayor. In any action brought under subsection (a) of this section alleging retaliation, there shall be a presumption, rebuttable by a showing of clear and convincing evidence, that conduct is retaliatory if an owner, licensee, administrator, or facility employee attempts to discharge, transfer, or relocate a resident within 6 months after that resident or his or her representative:</text>
+      <para>
+        <num>(1)</num>
+        <text>Files an action for relief under this subchapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Files a petition for the appointment of a receiver or monitor under subchapter II of this chapter or otherwise participates in receivership or monitor proceedings against the facility;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Exercises a right to a hearing under subchapter III of this chapter; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Makes an oral or written complaint against the facility or its owner, licensee, administrator, or staff to an agency or official of the District government, a representative from the Long-Term Care Ombudsman program, the owner, licensee, or administrator of the facility, or an employee of the facility.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The defendant in an action brought under this section may plead as an affirmative defense that he, she, or it exercised reasonable care to prevent the injury for which liability is asserted; provided, however, that the adoption of policies and procedures to effect compliance with District law shall not alone be sufficient evidence to show the exercise of reasonable care.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The first $3,000 of a damages award recovered by a resident in any action brought under this section shall be excluded from consideration when determining that resident’s eligibility for Medicaid, the amount of assistance he or she is entitled to under Medicaid, or his or her assets that the District may subject to a lien, setoff, or other legal process for the purpose of satisfying any indebtedness created by the receipt of Medicaid or other public assistance payments.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 403, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1453.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|IV"/>
+    <num codify:value="44-1004.04">404</num>
+    <heading>Court costs and attorney’s fees.</heading>
+    <text>The court shall award costs and a reasonable attorney’s fee to any plaintiff who prevails in an action brought under this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 404, 33 DCR 1510</annotation>
+        <annotation doc="D.C. Law 7-218">Mar. 16, 1989, D.C. Law 7-218, § 602(e), 36 DCR 534</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1454.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|IV"/>
+    <num codify:value="44-1004.05">405</num>
+    <heading>Rights independent and nonwaivable.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Whenever the grounds for a resident’s discharge, transfer, or relocation are being challenged, the remedies created by this subchapter shall not be available in lieu of those established by subchapter III of this chapter. In all other cases, a person authorized to bring an action under this subchapter may do so notwithstanding the availability of other remedies, and prior exhaustion of administrative remedies shall not be required.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any purported waiver of a person’s right to bring an action under this subchapter shall be void.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 405, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1455.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|V"/>
+    <num codify:value="44-1005.01">501</num>
+    <heading>Rules.</heading>
+    <text>The Mayor may issue rules, pursuant to subchapter I of Chapter 5 of Title 2, to carry out the purposes of this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 501, 33 DCR 1510</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1461.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to Law 6-108, see Mayor’s Order 87-47, February 17, 1987.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|10|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1005.02">501a</num>
+    <heading>Privatization contracts, leases, provider agreements, and procedures requirements</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-108">Apr. 18, 1986, D.C. Law 6-108, § 501a</annotation>
+        <annotation doc="D.C. Law 10-79">as added Mar. 19, 1994, D.C. Law 10-79, § 3, 40 DCR 8696</annotation>
+        <annotation doc="D.C. Law 11-98">Mar. 5, 1996, D.C. Law 11-98, § 502, 43 DCR 5</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-1462.</annotation>
+        <annotation>Temporary Repeal of Section For temporary (225 day) repeal of section, see § 702 of Budget Support Temporary Act of 1995 (<cite doc="D.C. Law 11-78">D.C. Law 11-78</cite>, January 26, 1996, law notification 43 DCR ).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

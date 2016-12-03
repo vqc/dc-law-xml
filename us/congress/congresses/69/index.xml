@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <heading>The 69th Congress</heading>
+  <subheading>Public Laws</subheading>
+  <ns0:include href="./laws/public/69-2-ch768.xml"/>
+  <ns0:include href="./laws/public/69-2-ch737.xml"/>
+  <ns0:include href="./laws/public/69-2-ch372.xml"/>
+  <ns0:include href="./laws/public/69-2-ch276.xml"/>
+  <ns0:include href="./laws/public/69-2-ch195.xml"/>
+  <ns0:include href="./laws/public/69-2-ch176.xml"/>
+  <ns0:include href="./laws/public/69-2-ch140.xml"/>
+  <ns0:include href="./laws/public/69-2-ch58.xml"/>
+  <ns0:include href="./laws/public/69-1-ch556.xml"/>
+  <ns0:include href="./laws/public/69-1-ch527.xml"/>
+  <ns0:include href="./laws/public/69-1-ch460.xml"/>
+  <ns0:include href="./laws/public/69-1-ch443.xml"/>
+  <ns0:include href="./laws/public/69-1-ch416.xml"/>
+  <ns0:include href="./laws/public/69-1-ch395.xml"/>
+  <ns0:include href="./laws/public/69-1-ch358.xml"/>
+  <ns0:include href="./laws/public/69-1-ch140.xml"/>
+  <ns0:include href="./laws/public/69-1-ch116.xml"/>
+</collection>

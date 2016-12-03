@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 16-71">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 16-71">
   <num type="law">16-71</num>
   <heading type="short">District of Columbia Health Professional Recruitment Program Act of 2005</heading>
   <meta>
@@ -12,4 +12,755 @@
       <narrative>Law 16-71, the “District of Columbia Health Professional Recruitment Program Act of 2005”, was introduced in Council and assigned Bill No. 16-420 which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on November 1, 2005, and December 6, 2005, respectively. Signed by the Mayor on December 22, 2005, it was assigned Act No. 16-233 and transmitted to both Houses of Congress for its review. D.C. Law 16-71 became effective on March 8, 2006.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.01">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Commercial loans” means loans made by banks, credit unions, savings and loan associations, insurance companies, schools, and either financial or credit institutions that are subject to examination and supervision in their capacity as lenders by an agency of the United States or of the State or District in which the lender has its principal place of business.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Dentist” means a graduate of a an accredited dental school who has completed post-graduate training in specialties of general or pediatric dentistry.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Director” means Director of the Department of Health or his or her designee.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Health Professional Shortage Area” and “HPSA” mean a geographic area, population group, or facility in the District of Columbia designated by the United States Department of Health and Human Services as lacking a sufficient number of primary care, dental, or mental health professionals to provide care for residents of the area or community.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Medically Underserved Area” and “MUA” mean a geographic area in the District of Columbia designated by the United States Department of Health and Human Services as medically underserved.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Other health professional” means a person who has graduated from an accredited program for registered nurses, nurse midwives, certified registered nurse practitioners, dental hygienists, clinical social workers, clinical psychologists, professional counselors, or physician assistants and has completed any required post-graduate training.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Physician” means a graduate of an accredited medical school of allopathic or osteopathic medicine who has completed post-graduate training in specialties of family practice medicine, general internal medicine, general pediatrics, obstetrics/gynecology, psychiatry, osteopathic general practice.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Reasonable educational expenses” means the costs of education, exclusive of tuition, which are considered to be required by the school’s degree program or an eligible program of study, such as fees for room, board, transportation and commuting costs, books, supplies, educational equipment and materials, or clinical travel, which were part of the estimated student budget of the school in which the participant was enrolled.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Service obligation site” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>A nonprofit entity located in a Health Professional Shortage Area or a Medically Underserved Area within the District of Columbia that provides primary care, mental health, or dental services to District of Columbia residents regardless of their ability to pay;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A Department of Health program;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A Department of Mental Health program; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Any other District program designated by the Director as a service obligation site.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 2, 53 DCR 61</annotation>
+        <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 103, 53 DCR 6794</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 5033(a), 55 DCR 7598</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-751.03">7-751.03</cite> and § <cite path="§7-751.04">7-751.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in par. (9), substituted “Shortage” for “Service”.</annotation>
+        <annotation><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite>, in par. (4), substituted “geographic area, population group, or facility” for “geographic area”; and rewrote pars. (6) and (9).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 5032 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided that subtitle N of title V of the act may be cited as the “Health Professional Recruitment Program Amendment Act of 2008”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.02">3</num>
+    <heading>Establishment of Program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is hereby established the District of Columbia Health Professional Recruitment Program (“Program”) to serve as a recruitment tool for health professionals within the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Based on the availability of funds, the Program will pay for the cost of education necessary to obtain a health professional degree. The Program will pay toward the outstanding principal, interest, and related expense of federal, state, or local government loans and commercial loans obtained by the participant for:</text>
+      <para>
+        <num>(1)</num>
+        <text>School tuition and required fees incurred by the participant; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Reasonable educational expenses.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 3, 53 DCR 61</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.03">4</num>
+    <heading>Administration of the Program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Department of Health shall administer the Program and shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Establish an application process;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Certify a list of acceptable service obligation sites on an annual basis and make the list publically available;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Conduct regular surveys to ensure participant compliance with the Program;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Disburse all awarded funds; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Administer any other functions necessary to the Program.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Department of Health reserves the right to conduct regular inspections to ensure that all service obligations sites meet the definition as set forth in § <cite path="§7-751.01">7-751.01</cite>(9).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 4, 53 DCR 61</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.04">5</num>
+    <heading>Eligibility requirements.</heading>
+    <text>Individuals eligible for the Program must:</text>
+    <para>
+      <num>(a)</num>
+      <text>Be a citizen or permanent resident of the United States;</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Be a physician, dentist, or other health professional as defined in § <cite path="§7-751.01">7-751.01</cite>;</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Be licensed or eligible to practice in the District of Columbia;</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Submit a completed application to participate in the Program; and</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Have no other obligation for health professional service to the federal, state, or District government, unless such obligation will be completely satisfied prior to the beginning of service under the Program.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 5, 53 DCR 61</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 5033(b), 55 DCR 7598</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite>, in subsec. (a), inserted “or permanent resident”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.05">6</num>
+    <heading>Release of information.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any applicant to the Program shall agree to execute a release to allow the Department access to loan records, credit information, and information from lenders necessary to verify eligibility and to determine loan repayments. The applicant is required to submit all requested loan documentation prior to approval by the Program.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>It is the responsibility of the participant to negotiate with each lending institution for the terms and conditions of the educational loan repayments. Any penalties associated with early repayment shall be the responsibility of the participant.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 6, 53 DCR 61</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.06">7</num>
+    <heading>Selection criteria.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Applicants shall be competitively reviewed and selected for participation in the Program based upon the following criteria:</text>
+      <para>
+        <num>(1)</num>
+        <text>Professional qualifications and relevant experience, including board eligibility or certification in his or her specialty, professional achievements, and other indicators of competency received from supervisors, department chairs, and program directors; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A demonstrated commitment to serve in a HPSA or MUA.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Preferential consideration will be given to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Residents of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Graduates of accredited District of Columbia health professions schools or program;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Residents of a HPSA or MUA within the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Applicants that are immediately eligible and available for service;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Applicants that commit to longer periods of service;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Applicants whose service obligation site is also a qualified Medical Homes DC provider;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Applicants who are fluent in Spanish, Chinese, Vietnamese, Korean, or Amharic; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Applicants who have experience at a community-based primary care facility or attended a community-based health profession educational institution.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>For applicants practicing at a service obligation site at the time of application to the Program, preferential consideration shall be given to those individuals who have less than 3 years of employment at the facility.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 7, 53 DCR 61</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 5033(c), 55 DCR 7598</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite>, in subsec. (b), deleted “and” from the end of par. (5), substituted a semicolon for a period at the end of par. (6), and added pars. (7) and (8).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.07">8</num>
+    <heading>Program participation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>As a condition of participation in the Program, selected applicants shall enter into a contract with the Director and a representative of the service obligation site agreeing to the following terms and conditions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Participants shall provide a minimum of 2 years with a maximum of 4 years services at a service obligation site. Any service beyond the 2 year minimum requirement is dependent upon the availability of funds for the Program.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Participants shall provide full-time service of at least 1,800 hours per year, with no more than 12 hours of work performed in any 24 hour period. On-call status does not count toward the annual 1,800 hour requirement. Any exceptions to the 1,800 hour annual requirement or the on-call provision of this subsection must be approved by the Director prior to placement.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Participants agree to provide reasonable, usual, and customary health services without discrimination and regardless of a patient’s ability to pay.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>No period of internship, residency, or other advanced clinical training may count toward satisfying a period of obligated service under this Program.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Any participant who is found in breach of contract is deemed to have agreed, as a condition of contract, to all penalties as set forth in § <cite path="§7-751.13">7-751.13</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An existing contract may be renewed for one year at a time up to a maximum of 4 total years of service, as funds become available.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The participant shall begin service no later than 12 months from entering into the contract. The effective start date of the obligated service is the date of employment or the date the Director signs the contract, whichever is later.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Non-compete clauses are prohibited in all contracts for Program participation.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 8, 53 DCR 61</annotation>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 5111, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-751.09">7-751.09</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> rewrote subsec. (a)(2), which had read as follows: “(2) Participants shall provide full-time service of at least 40 hours per week for 45 weeks per year. The minimum 40-hour week must not be performed in less than 4 days per week, with no more than 12 hours of work performed in any 24 hour period. On-call status does not count toward the 40-hour week. Any exceptions to the on-call provision of this subsection must be approved by the Director prior to placement.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 5111 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 5111 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 5110 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle L of title V of the act may be cited as the “Health Professional Recruitment Program Amendment Act of 2009”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.08">9</num>
+    <heading>Loan repayment.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Physicians and dentists shall be eligible to have 100% of their total debt, not to exceed $120,000, repaid by the Program over 4 years of service. For each year of participation, the Program will repay loan amounts according to the following schedule:</text>
+      <para>
+        <num>(1)</num>
+        <text>For the 1st year of service, 18% of their total debt, not to exceed $21,600;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the 2nd year of service, 26% of their total debt, not to exceed $31,200;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For the 3rd year of service, 28% of their total debt, not to exceed $33,600; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>For the 4th year of service, 28% of their total debt, not to exceed $33,600.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Other health professionals shall be eligible to have 100% of their total debt, not to exceed $66,000, repaid by the Program over 4 years of service. For each year of participation, the Program will repay loan amounts according to the following schedule:</text>
+      <para>
+        <num>(1)</num>
+        <text>For the 1st year of service, 18% of their total debt, not to exceed $11,800;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the 2nd year of service, 26% of their total debt, not to exceed $17,200;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For the 3rd year of service, 28% of their total debt, not to exceed $18,500;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>For the 4th year of service, 28% of their total debt, not to exceed $18,500.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Director is permitted to increase the dollar amount of the total loan repayment annually to adjust for inflation. All quarterly disbursements shall be adjusted accordingly.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 9, 53 DCR 61</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.09">10</num>
+    <heading>Disbursement procedure.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Department of Health shall disburse loan repayment funds to a participant in a 2-year lump sum payment for each contract entered into pursuant to § <cite path="§7-751.07">7-751.07</cite> within 90 days of the start of the performance under the contract.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>For each year of participation beyond the original term of the contract, whether by renewal or continuation of a contract longer than 2 years, the Department of Health shall disburse to the participant a one-year lump sum payment within 90 days of the start of each additional year.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 10, 53 DCR 61</annotation>
+        <annotation doc="D.C. Law 19-47">Dec. 2, 2011, D.C. Law 19-47, § 2, 58 DCR 8941</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-47">D.C. Law 19-47</cite> rewrote the section, which formerly read:</annotation>
+        <annotation>“(a) For the 1st year of participation in the Program, the Department shall disburse loan repayment funds to a participant on a quarterly basis, with the first disbursement to occur within 45 days of the start of service obligation.</annotation>
+        <annotation>“(b) For each additional year of participation in the Program, the Department shall disburse loan repayment funds to a participant on a quarterly basis, with the 1st disbursement to occur within 45 days of the start of the next consecutive year of service.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Health Professional Recruitment Program Emergency Amendment Act of 2011 (D.C. Act 19-120, August 1, 2011,  58 DCR 6754).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Health Professional Recruitment Program Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-227, November 15, 2011,  58 DCR 9936).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.10">11</num>
+    <heading>Compensation during service.</heading>
+    <text>Each participant is responsible for negotiating his or her own compensation package directly with the service obligation site.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 11, 53 DCR 61</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.11">12</num>
+    <heading>Tax implications.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>For purposes of the District of Columbia Office of Tax and Revenue, all loan repayment awards shall not be considered income and are therefore not taxable.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 12, 53 DCR 61</annotation>
+        <annotation doc="D.C. Law 18-370">Apr. 8, 2011, D.C. Law 18-370, § 532(a), 58 DCR 1008</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> repealed subsec. (a), which had read as follows: “(a) For purposes of the United Stated Internal Revenue Service, all loan repayment awards are considered income and are therefore taxable. It is the responsibility of each participant to report loan repayment awards received through the Program on all relevant tax and financial documents.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 532(a) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011,  58 DCR 662).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 531 of <cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> provided that subtitle D of title V of the act may be cited as “Health Professional Recruitment Program Amendment Act of 2010”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.12">13</num>
+    <heading>Monitoring during service.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Participants are required to submit service verification forms to the Department of Health at the conclusion of each 6-month period of participation in the Program. Service verification forms shall contain the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A statement attesting to continuous full-time service as required by the Program;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The signature of the participant;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The signature of a representative of the service obligation site; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any additional information required by the terms and conditions of the participant’s service contract.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Department of Health reserves the right to conduct regular participant surveys to ensure compliance with the terms and conditions of the Program.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 13, 53 DCR 61</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.13">14</num>
+    <heading>Breach of contract.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The following shall constitute a breach of contract:</text>
+      <para>
+        <num>(1)</num>
+        <text>The failure to begin or complete the required period of service obligation as set forth in the Program contract;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The falsification or misrepresentation of information on the Program application, service verification forms, or other required documents;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The termination of employment at a service obligation site for good cause, as determined by the employer and confirmed by the Director;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The failure to transfer within 6 months to another approved service obligation site upon termination for reasons beyond the participant’s control, as described in § <cite path="§7-751.14">7-751.14</cite>(b).</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The failure to provide all reasonable, usual, and customary full-time health care service as set forth in the Program contract; or</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The failure to comply with any other terms as set forth by this chapter or the Director.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Within one year of the date of a breach of contract, the participant found in breach of contract shall repay the District the greater of $31,000 or an amount equal to the sum of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The amount of the loan repayments paid to the participant for any period of obligated service not completed;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An amount equal to the product of the number of months of obligated service not completed by the participant multiplied by $7,500; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Interest on the amounts specified in paragraphs (1) and (2) of this subsection at the maximum legal prevailing rate, as determined by the Treasurer of the United States, from the date of the breach.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A participant found in breach of contract shall pay a monetary penalty to the District of Columbia of 50% of funds received as a participant in the Program.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Damages are not dischargeable in bankruptcy. Any financial obligation of a participant for payment of damages may not be released by discharge in bankruptcy under Title 11 of the United States Code.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Department of Health may pursue any additional legal remedies against a participant found to be in breach of contract, including the garnishment of wages and civil penalties.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 14, 53 DCR 61</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 5033(d), 55 DCR 7598</annotation>
+        <annotation doc="D.C. Law 18-370">Apr. 8, 2011, D.C. Law 18-370, § 532(b), 58 DCR 1008</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-751.07">7-751.07</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> rewrote subsec. (b), which had read as follows: “(b) A participant found in breach of contract is liable to pay the District of Columbia the difference between the lump sum payment for the year of obligated service and a prorated amount for the days of service obligation left unfulfilled, beginning on the date the participant caused a breach of contract. This amount shall be repaid within one year of the date of breach of contract, or a longer period as determined by the Director.”</annotation>
+        <annotation><cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> rewrote subsec. (b), which had read as follows: “(b) A participant found in breach of contract shall repay the District of Columbia for each unfulfilled day of service remaining in the participant’s period of service obligation. The amount of such repayment shall be determined by dividing the sum amount previously paid to the participant by the number of days of obligated service required for the payment and multiplying the result by the number of unfulfilled days from the time of the breach of contract. This amount shall be paid within one year of the date of the breach of contract, or a longer period as determined by the Director.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 532(b) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011,  58 DCR 662).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.14">15</num>
+    <heading>Change of practice site.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any change of service obligation site by a Program participant must receive prior authorization from the Director.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If the employment of a participant is terminated for reasons beyond the participant’s control, such as, for example, the closure of a service obligation site, the participant shall transfer to another approved service obligation site within 6 months of termination. The failure to transfer within 6 months shall be considered a breach of the Program contract.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 15, 53 DCR 61</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-751.13">7-751.13</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.15">16</num>
+    <heading>Suspension, waiver, and termination of contract.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The service obligation of a participant may be suspended without penalty, for a limited period of time, if a participant requires leave beyond the allotted 7 weeks, such as, for example, extended illness, family leave, maternity leave, suspension from practice pending an investigation, not to exceed 12 months, or termination of employment requiring job search and relocation to another eligible practice site.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A suspension shall not relieve the participant of the responsibility to complete the remaining portion of the obligation. A suspension shall not be permitted as a matter of course, but may be allowed at the discretion of the Director.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A waiver of Program contract terms and conditions shall be granted in the following situations:</text>
+      <para>
+        <num>(1)</num>
+        <text>If the participant suffers from a physical or mental disability resulting in the total and permanent inability of the participant to perform the obligated service, as determined by the Director; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Repealed.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>An obligation of an individual for service or payment of damages shall be terminated upon the death of the individual.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Director may terminate a contract under the Program with a participant if, not later than August 16 of the year in which the contract became effective, the participant:</text>
+      <para>
+        <num>(1)</num>
+        <text>Submits a signed written request to terminate the contract; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Repays all amounts of loan repayments paid to the participant under the contract.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 16, 53 DCR 61</annotation>
+        <annotation doc="D.C. Law 18-370">Apr. 8, 2011, D.C. Law 18-370, § 532(c), 58 DCR 1008</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> rewrote the section heading which had read as follows: “Suspension and waiver of contract”; repealed subsec. (b)(2); and added subsecs. (c) and (d). Prior to repeal, subsec. (b)(2) read as follows: “(2) Death of the participant.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 532(c) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011,  58 DCR 662).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.15a">16a</num>
+    <heading>Health Professional Recruitment Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a nonlapsing fund the Health Professional Recruitment Fund (“Fund”). All funds deposited into the Fund, and any interest earned on those funds, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the sole purpose of providing loan repayments pursuant to the Program without regard to fiscal year limitation, subject to authorization by Congress.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall deposit in the Fund:</text>
+      <para>
+        <num>(1)</num>
+        <text>All general revenue funds appropriated by a line item in the budget submitted pursuant to § <cite path="§1-204.46">1-204.46</cite>, and authorized by Congress for the purpose of the Program;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All fees and penalties generated pursuant to the Program; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any other funds received on behalf of the Fund for the purpose of the Program.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Department of Health shall administer the Fund from its appropriated operating budget.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 16a</annotation>
+        <annotation doc="D.C. Law 16-192">as added Mar. 2, 2007, D.C. Law 16-192, § 5042, 53 DCR 6899</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 5033(e), 55 DCR 7598</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 244(d), 56 DCR 1117</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> rewrote the section.</annotation>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> redesignated the section amended by <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite>, § 5033(e) from § <cite path="§7-751.16a">7-751.16a</cite> to § <cite path="§7-751.15a">7-751.15a</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 5042 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 5042 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 5042 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <text>Short title: Section 5041 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided that subtitle D of title V of the act may be cited as the “Health Professional Recruitment Program Amendment Act of 2006”.</text>
+        <text>Short title: Section 5017 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided that subtitle I of title V of the act may be cited as the “Reporting Requirements Act of 2008”.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For health professional recruitment program reporting requirements for Fiscal Year 2009, see subtitle I of title V of Law 17-219.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <num codify:value="7-751.16">17</num>
+    <heading>Rulemaking.</heading>
+    <text>The Mayor is authorized to promulgate rules necessary to implement this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 17, 53 DCR 61</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority pursuant to DC Law 16-71, the District of Columbia Health Professional Recruitment Program Act of 2005, see Mayor’s Order 2009-176, October 13, 2009 ( 56 DCR 8480).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B"/>
+    <reason>Repealed</reason>
+    <num codify:value="7-751.17">18</num>
+    <heading>Applicability.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-71">Mar. 8, 2006, D.C. Law 16-71, § 18, 53 DCR 61</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 7073, 55 DCR 7598</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

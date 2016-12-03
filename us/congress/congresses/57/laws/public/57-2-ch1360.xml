@@ -1,10 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 57-2-ch1360">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 57-2-ch1360" codify:tag="section" from-code="true">
   <meta>
     <effective>1902-07-01</effective>
     <cites>
-        <law congress="57" session="2" chapter="1360"/>
+      <law congress="57" session="2" chapter="1360"/>
     </cites>
   </meta>
+  <codify:insert doc="D.C. Code" before="§9-305" path="|9|3"/>
+  <num codify:value="9-304"></num>
+  <heading>Pennsylvania Avenue Bridge.</heading>
+  <text>The East Washington Heights Traction Railroad Company shall bear the cost of maintenance, construction, and repair of the Pennsylvania Avenue Bridge over the Anacostia River in like manner and under the same conditions as are provided by § <cite path="§9-303">9-303</cite>.</text>
+  <annotations>
+    <annoGroup>
+      <heading>History</heading>
+      <annotation>July 1, 1902, 32 Stat. 636, ch. 1360</annotation>
+      <annotation>Jan. 14, 1933, 47 Stat. 759, ch. 10, § 3</annotation>
+    </annoGroup>
+    <annoGroup>
+      <heading>Prior Codifications</heading>
+      <annotation>1981 Ed., § 7-504.</annotation>
+      <annotation>1973 Ed., § 7-504.</annotation>
+    </annoGroup>
+  </annotations>
 </document>

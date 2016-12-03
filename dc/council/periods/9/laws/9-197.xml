@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 9-197">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 9-197">
   <num type="law">9-197</num>
   <heading type="short">DISTRICT OF COLUMBIA HEALTH SERVICES PLANNING PROGRAM ACT OF 1991, BILL 9-43</heading>
   <meta>
@@ -12,4 +12,426 @@
       <narrative>Law 9-197 was introduced in Council and assigned Bill No. 9-43, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on October 6, 1992, and November 4, 1992, respectively. Signed by the Mayor on November 25, 1992, it was assigned Act No. 9-322 and transmitted to both Houses of Congress for its review. D.C. Law 9-197 became effective on March 16, 1993.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2001">2</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 2, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-321.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) repeal of chapter, see § 803 of Multiyear Budget Spending Reduction and Support Temporary Act of 1995 (<cite doc="D.C. Law 10-253">D.C. Law 10-253</cite>, March 23, 1995, law notification 41 DCR ).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary establishment, on an emergency basis due to Congressional review, of a health services planning and certificate of need regulatory program in the District of Columbia, see § 2-22 of the Health Services Planning Program Congressional Review Emergency Act of 1997 (D.C. Act 12-40, March 31, 1997,  44 DCR 2070).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2002">3</num>
+    <heading>Office of Health Systems Development; establishment and functions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 3, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-322.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2003">4</num>
+    <heading>Health Advisory Committee; establishment and responsibilities.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 4, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-323.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2004">5</num>
+    <heading>Health Systems Plan; development, publication, updating, and implementation.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 5, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-324.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2005">6</num>
+    <heading>Reporting, analysis and publication of utilization, financial and other health-related data; regulations, reporting periods, format and forms.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 6, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-325.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2006">7</num>
+    <heading>Certificate of need requirements.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 7, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-326.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2007">8</num>
+    <heading>Activities exempt from certificate of need review.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 8, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-327.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2008">9</num>
+    <heading>Adoption of procedures and criteria for review by the OHSD governing application and review.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 9, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-328.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2009">10</num>
+    <heading>Criteria for review and required findings.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 10, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, §  808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-329.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2010">11</num>
+    <heading>Duration, modification, sale, or transfer of a certificate of need.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 11, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, §  808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-330.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2011">12</num>
+    <heading>Reconsideration of review decisions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 12, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, §  808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-331.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2012">13</num>
+    <heading>Administrative appeal.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 13, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, §  808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-332.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2013">14</num>
+    <heading>Judicial review of certificate of need decisions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 14, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, §  808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-333.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2014">15</num>
+    <heading>Certificate of need mandatory condition precedent.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 15, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, §  808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-334.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2015">16</num>
+    <heading>Violations and penalties for noncompliance.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 16, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, §  808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-335.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2016">17</num>
+    <heading>Immunity from civil liability.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 17, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, §  808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-336.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2017">18</num>
+    <heading>Moratorium on applications.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 18, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, §  808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-337.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2018">19</num>
+    <heading>Annual report.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 19, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, §  808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-338.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2019">20</num>
+    <heading>Rules.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 20, 39 DCR 9195</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, §  808, 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-339.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes following § <cite path="§44-2001">44-2001</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

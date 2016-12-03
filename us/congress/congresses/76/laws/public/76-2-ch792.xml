@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 76-2-ch792">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 76-2-ch792">
   <heading/>
   <meta>
     <effective>1940-10-09</effective>
@@ -10,13 +10,1975 @@
   <container>
     <prefix>Ch</prefix>
     <num>I</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|25|I"/>
+      <num codify:value="31-2501.01">1</num>
+      <heading>Short title.</heading>
+      <text>This chapter shall be known as the “Fire and Casualty Act.”</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1063, ch. 792, ch. I, § 1</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-5031.01">31-5031.01</cite>, § <cite path="§31-5031.02">31-5031.02</cite>, and § <cite path="§31-5031.24">31-5031.24</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1501.</annotation>
+          <annotation>1973 Ed., § 35-1301.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|25|I"/>
+      <num codify:value="31-2501.02">2</num>
+      <heading>Applicability of chapter.</heading>
+      <text>All fire, marine, and casualty insurance companies now or hereafter incorporated or formed in the District or authorized to do business in the District, all brokers and all agents and other representatives of such companies shall, to the extent hereinafter provided, be subject to this chapter; provided, that this chapter shall not affect the business of life and title insurance, and shall not affect the right or authority of any solvent company to make contracts of fidelity or surety, and shall not affect a plan under which any person provides pension benefits to his employees.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1064, ch. 792, ch. I, § 2</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1502.</annotation>
+          <annotation>1973 Ed., § 35-1302.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|25|I"/>
+      <num codify:value="31-2501.03">3</num>
+      <heading>Definitions.</heading>
+      <text>In this chapter, unless the context otherwise requires:</text>
+      <para>
+        <num>(1)</num>
+        <text>“District” means District of Columbia.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Mayor” means the Mayor of the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Commissioner” means the Commissioner of the Department of Insurance, Securities, and Banking or the officer or officers, agency or agencies succeeding to his functions under Reorganization Plan No. 5 of 1952.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Department” means the Department of Insurance of the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Company” means an insurance, surety, or indemnity company, and shall be deemed to include a corporation, company, partnership, association, individual, or aggregation of individuals engaging in or proposing or attempting to engage in any kind of insurance, surety, or indemnity business, including the exchanging of reciprocal or interinsurance contracts between individuals, partnerships, and corporations.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Authorized company” means a company which has authority from the Commissioner to do business in the District as provided under § <cite path="§31-2502.02">31-2502.02</cite>.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Unauthorized company” means a company which does not have authority from the Commissioner to do business in the District as provided under § <cite path="§31-2502.02">31-2502.02</cite>.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Domestic company” means a company incorporated or organized under the laws of the District.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Foreign company” means a company incorporated or organized under the laws of any state of the United States.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Alien company” means a company incorporated or organized under the laws of any country other than the United States.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“Reciprocal” includes interinsurance exchange.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Person” includes individuals, corporations, associations, exchanges, and partnerships.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Personal pronouns include all genders; the singular includes the plural and the plural includes the singular.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Policy” means an insurance policy or contract, including contracts of fidelity and surety, and includes any contract wherein 1 party called the “company,” for a consideration, undertakes to pay money or its equivalent, or to do an act valuable to any other party, upon the happening of the hazard or peril insured against whereby the party insured suffers loss or injury or is subjected to legal liability.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>“Officer,” when used to refer to officer of the company, includes an attorney-in-fact.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>“Policy-writing agent” means any person who is not a salaried employee of a company, and whose residence or principal place of business is located in the District, and who is authorized in writing by any company authorized to transact business in the District to countersign policies and to solicit, negotiate, or effect contracts of insurance, surety, or indemnity for such company in the District.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>“Soliciting agent” means any person who is not a salaried employee of a company and whose residence or principal place of business is located in the District, and who is authorized by a company having authority to transact business in the District, or by a policy-writing agent, to solicit in the District contracts of insurance, surety, or indemnity in behalf of such company or agent.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>“Broker” means any person who for a consideration acts or aids in any manner in the solicitation or negotiation on behalf of the assured of contracts of insurance, surety, or indemnity.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>“Salaried company employee” means any person regularly employed by an authorized company, and who is paid a regular wage or salary to perform certain duties and functions authorized by such company. For the purposes of this chapter the term “salaried company employee” shall not include employees engaged solely in office duties or in the inspection, rating, or classifying of risks or in the supervision of agents, or any employee not engaged in the solicitation or writing of policies, or officers of companies or associations engaged in the performance of their usual and customary executive duties.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>“Surplus” means the excess of admitted assets over liabilities and capital in the case of a company with capital stock, and the excess of admitted assets over liabilities in the case of a company without capital stock.</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>“Liabilities” means all debts due or to become due, contingent or otherwise, of which the company has knowledge, and includes the reserves required by this chapter.</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>“Admitted assets” includes the investments authorized or permitted pursuant to the National Association of Insurance Commissioners Accounting Practices Manual.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1064, ch. 792, ch. I, § 3</annotation>
+          <annotation>June 30, 1953, 67 Stat. 120, ch. 168</annotation>
+          <annotation doc="D.C. Law 11-90">Feb. 27, 1996, D.C. Law 11-90, § 9(a), 42 DCR 7155</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(1), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 47, 52 DCR 2638</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Additional definition of “company,” see § <cite path="§31-2502.39">31-2502.39</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§22-3225.01">22-3225.01</cite> and § <cite path="§31-701">31-701</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1503.</annotation>
+          <annotation>1973 Ed., § 35-1303.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in par. (3), substituted “of the Department of Insurance, Securities, and Banking” for “of Insurance and Securities”.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 9(a) of Insurance Omnibus Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-36">D.C. Law 11-36</cite>, September 8, 1995, law notification  42 DCR 5305).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary amendment of section, see § 10(a) of the Insurance Omnibus Emergency Amendment Act of 1995 (D.C. Act 11-48, May 15, 1995,  42 DCR 2544) and § 9(a) of the Insurance Omnibus Congressional Recess Emergency Amendment Act of 1995 (D.C. Act 11-97, July 19, 1995,  42 DCR 3844).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: The Department of Insurance, including the Superintendent, was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. Reorganization Order No. 43, dated June 23, 1953, as amended, established, under the direction and control of a Commissioner, a Department of Insurance headed by a Superintendent. The Order provided for the organization of the Department, abolished the previously existing Department of Insurance, and provided that all functions and positions of the previous Department would be transferred to the new Department of Insurance, including the duties, powers, and authorities of all officers and employees; and that all personnel, property, records and unexpended balances relating to the functions and positions transferred would also be transferred to the new Department. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. The functions of the Superintendent of Insurance were transferred to the Department of Consumer and Regulatory Affairs by Reorganization Plan No. 1 of 1983, effective March 31, 1983. Pursuant to the provisions of <cite doc="D.C. Law 11-268">D.C. Law 11-268</cite>, the Department of Insurance and Securities Regulation was established and the duties of the Superintendent of Insurance and the Insurance Administration were assumed by the Commissioner of Insurance and Securities and the Insurance Administration in the Department of Consumer and Regulatory Affairs was abolished.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Ch</prefix>
     <num>II</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.05" path="|31|25|II"/>
+      <num codify:value="31-2502.01">1</num>
+      <heading>Records of Commissioner; rules and regulations.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The office of the Commissioner shall be a public office, and the records, books, and papers thereof on file therein shall be public records of the District, except as the Commissioner for good reason may decide otherwise, or except as it may be provided otherwise herein.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Commissioner may, in accordance with § <cite path="§2-505">2-505</cite>, promulgate reasonable rules and regulations as are necessary to implement the provisions of this chapter.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1066, ch. 792, ch. II, § 1</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 15-292">Apr. 5, 2005, D.C. Law 15-292, § 2, 52 DCR 1463</annotation>
+          <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 53, 53 DCR 6794</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1504.</annotation>
+          <annotation>1973 Ed., § 35-1304.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 15-292">D.C. Law 15-292</cite> rewrote subsec. (b) which had read:</annotation>
+          <annotation>“(b) The Council of the District of Columbia shall have authority to make, and the Commissioner shall have the authority to enforce, such reasonable rules and regulations as may be necessary in making effective the provisions of this chapter, but such rules and regulations shall not be contrary to nor inconsistent with the provisions of this chapter.”</annotation>
+          <annotation><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite> validated a previously made technical correction in (b).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(277) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.05" path="|31|25|II"/>
+      <num codify:value="31-2502.02">2</num>
+      <heading>Certificate of authority to do business — Issuance or renewal.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Commissioner shall issue a certificate of authority to a company when it shall have complied with the requirements of the laws of the District so as to be entitled to do business therein. The Commissioner may, however, satisfy himself by such investigation as he may consider proper or necessary that the company is duly qualified under the laws of the District to transact business therein, and may refuse to issue or renew the certificate to a company if the issuance or renewal of the certificate would adversely affect the public interest. In each case, the certificate shall be issued under the seal of the Commissioner authorizing and empowering the company to transact the kind of business specified in the certificate, and the certificate shall expire on the 30th day of April next succeeding the date of its issuance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Repealed.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No company shall transact any business in or from the District until it shall have received a certificate of authority as authorized by this section, and no company shall transact any business not specified in the certificate of authority. No domestic mutual company shall transact any business in the District until it has bona fide applications for insurance covering not less than 200 separate risks in not less than 20 policies to be issued to not less than 20 members, and has received the cash premium therefor, and has a surplus of not less than the amount provided under §§ <cite path="§31-2502.12">31-2502.12</cite> and <cite path="§31-2502.13">31-2502.13</cite>.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1066, ch. 792, ch. II, § 2</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 13-190">Oct. 21, 2000, D.C. Law 13-190, § 3(a), 47 DCR 7261</annotation>
+          <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 603(a), 49 DCR 6968</annotation>
+          <annotation doc="D.C. Law 16-232">Mar. 8, 2007, D.C. Law 16-232, § 202(a), 54 DCR 368</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Authority of Council to regulate, modify, or eliminate license requirements and to promulgate regulations, see §§ <cite path="§47-2842">47-2842</cite>, <cite path="§47-2844">47-2844</cite>.</annotation>
+          <annotation>Issuance of certificate, see § <cite path="§31-2502.15">31-2502.15</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-301">31-301</cite>, § <cite path="§31-1501">31-1501</cite>, § <cite path="§31-2501.03">31-2501.03</cite>, § <cite path="§31-2502.15">31-2502.15</cite>, and § <cite path="§31-2502.20">31-2502.20</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1505.</annotation>
+          <annotation>1973 Ed., § 35-1305.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 13-190">D.C. Law 13-190</cite> inserted after the third sentence the new fourth and fifth sentences.</annotation>
+          <annotation><cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> rewrote the section which had read as follows: “It shall be the duty of the Commissioner to issue a certificate of authority to a company when it shall have complied with the requirements of the laws of the District so as to be entitled to do business therein. The Commissioner may, however, satisfy himself by such investigation as he may deem proper or necessary that such company is duly qualified under the laws of the District to transact business therein, and may refuse to issue or renew any such certificate to a company if the issuance or renewal of such certificate would adversely affect the public interest. In each case the certificate shall be issued under the seal of the Commissioner authorizing and empowering the company to transact the kind or kinds of business specified in the certificate, and each such certificate shall be made to expire on the 30th day of April next succeeding the date of its issuance. A company may, at its own option and expense, submit a statement from an independent organization acceptable to the Commissioner, attesting that it meets all the requirements of the laws and regulations of the District and is qualified to transact the business for which it seeks a certificate of authority. The statement shall be signed, under oath, by an officer or principal of the independent organization and shall be considered prima facie evidence by the Commissioner that the company is entitled to do business in the District, subject to (1) an investigation and review, and (2) the Commissioner’s authority to revoke or suspend a certificate of authority as provided in this chapter. No company shall transact any business in or from the District until it shall have received a certificate of authority as authorized by this section, and no company shall transact any business not specified in such certificate of authority. No domestic mutual company shall transact any business in the District until it has bona fide applications for insurance covering not less than 200 separate risks in not less than 20 policies to be issued to not less than 20 members, and has received the cash premium therefor, and has a surplus of not less than the amount provided under §§ <cite path="§31-2502.12">31-2502.12</cite> and <cite path="§31-2502.13">31-2502.13</cite>.”</annotation>
+          <annotation><cite doc="D.C. Law 16-232">D.C. Law 16-232</cite> repealed (b), which formerly read: “(b) The Commissioner may, in accordance with § <cite path="§2-505">2-505</cite>, promulgate reasonable rules and regulations as are necessary to implement  the provisions of this chapter.”</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) amendment of section, see § 603(a) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.05" path="|31|25|II"/>
+      <num codify:value="31-2502.03">3</num>
+      <heading>Certificate of authority to do business — Revocation or suspension.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Commissioner shall have power to revoke or suspend the certificate of authority to transact business in the District of any company which has failed or refused to comply with any provision or requirement of this chapter, or which:</text>
+        <para>
+          <num>(1)</num>
+          <text>Is impaired in capital or surplus;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Is insolvent;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Is determined, pursuant to Chapter 21 of this title, to be in such condition that further transaction of business by the company will be hazardous to its policyholders, creditors, or the general public;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Has refused or neglected to pay a valid final judgment against such company within 30 days after such judgment shall have become final either by expiration without appeal within the time when such appeal might have been perfected, or by final affirmance on appeal;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Has violated any law of the District or has in the District violated its charter or exceeded its corporate powers;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Has refused to submit its books, papers, accounts, records, or affairs to the reasonable inspection or examination of the Commissioner, his deputies, or duly appointed examiners;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Has an officer who has refused upon reasonable demand to be examined under oath touching its affairs;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Fails to file with the Commissioner a copy of an amendment to its charter or articles of association within 30 days after the effective date of such amendment;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Has had its corporate existence dissolved or its certificate of authority revoked in the state in which it was organized;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Has had all its risks reinsured in their entirety in another company, without prior approval of the Commissioner;</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Has made, issued, circulated, or caused to be issued or circulated any estimate, illustration, circular, or statement of any sort misrepresenting either its status or the terms of any policy issued or to be issued by it, or the benefits or advantages promised thereby, or the dividends or shares of the surplus to be received thereon, or has used any name or title of any policy or class of policies misrepresenting the true nature thereof;</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Has filed, caused to be filed, or failed to prevent the filing of, a statement on its behalf from an independent organization attesting to its qualifications to transact business in the District for which it sought and received a certificate of authority if it knew, or should have known, that the statement was based on false, misleading, or incomplete information; or</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>Has filed, caused to be filed, or failed to prevent the filing of a statement on its behalf from a corporate officer attesting to its qualifications to transact business in the District for which it sought and received a certificate of authority if it knew, or should have known, that the statement was based on false, misleading, or incomplete information.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Commissioner shall not revoke or suspend the certificate of authority of any company until he has given the company not less than 30 days notice of the proposed revocation or suspension and of the grounds alleged therefor, and has afforded the company an opportunity for a full hearing; provided, that if the Commissioner shall find upon examination that the further transaction of business by the company would be hazardous to the public or to the policyholders or creditors of the company in the District, he may suspend such authority without giving notice as herein required; provided further, that in lieu of revoking or suspending the certificate of authority of any company for causes enumerated in this section after hearing as herein provided, the Commissioner may subject such company to a penalty of not more than $10,000 for any violation, or not more than $25,000 for intentional violations, when in his judgment he finds that public interest would be best served by the continued operation of the company. The amount of any such penalty shall be paid by the company through the office of the Commissioner to the Collector of Taxes, District of Columbia. At any hearing provided by this section, the Commissioner shall have authority to administer oaths to witnesses. Anyone testifying falsely after having been administered such an oath shall be subject to the penalties of perjury. Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this chapter, or any rules or regulations issued under the authority of this chapter, pursuant to Chapter 18 of Title 2. Adjudication of any infraction of this chapter shall be pursuant to Chapter 18 of Title 2.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1066, ch. 792, ch. II, § 3</annotation>
+          <annotation>Apr. 22, 1944, 58 Stat. 192, ch. 173, § 1</annotation>
+          <annotation doc="Pub. L. 85-334">Feb. 22, 1958, 72 Stat. 21, Pub. L. 85-334, § 4</annotation>
+          <annotation doc="D.C. Law 5-160">Mar. 14, 1985, D.C. Law 5-160, § 2(a), 32 DCR 39</annotation>
+          <annotation doc="D.C. Law 6-42">Oct. 5, 1985, D.C. Law 6-42, § 447(a), 32 DCR 4450</annotation>
+          <annotation doc="D.C. Law 8-237">Mar. 8, 1991, D.C. Law 8-237, § 2(r)(1), 38 DCR 314</annotation>
+          <annotation doc="D.C. Law 10-103">Apr. 26, 1994, D.C. Law 10-103, § 7(b), 41 DCR 1005</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 13-190">Oct. 21, 2000, D.C. Law 13-190, § 3(b), 47 DCR 7261</annotation>
+          <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 603(b), 49 DCR 6968</annotation>
+          <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 65, 51 DCR 881</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Administrative procedure, see § <cite path="§2-501">2-501</cite> et seq.</annotation>
+          <annotation>Annual audited financial reports, qualified independent certified public accountants, proceedings to determine qualification, see § <cite path="§31-305">31-305</cite>.</annotation>
+          <annotation>Credit life, accident, and health insurance violations, proceedings, see § <cite path="§31-5111">31-5111</cite>.</annotation>
+          <annotation>Examinations, violations, conduct of proceedings, see § <cite path="§31-1403">31-1403</cite>.</annotation>
+          <annotation>General penalties for violation of insurance laws, see § <cite path="§31-2502.42">31-2502.42</cite>.</annotation>
+          <annotation>Regulation of casualty and other insurance rates, violations, see § <cite path="§31-2709">31-2709</cite>.</annotation>
+          <annotation>Violation of provisions applicable to more than one kind of insurance, suspension or revocation of license or certificate, see § <cite path="§31-1608">31-1608</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-305">31-305</cite>, § <cite path="§31-1403">31-1403</cite>, § <cite path="§31-1608">31-1608</cite>, § <cite path="§31-2231.17">31-2231.17</cite>, § <cite path="§31-2709">31-2709</cite>, and § <cite path="§31-5111">31-5111</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1506.</annotation>
+          <annotation>1973 Ed., § 35-1306.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 13-190">D.C. Law 13-190</cite> added par. (12) to subsec. (a).</annotation>
+          <annotation><cite doc="D.C. Law 14-190">D.C. Law 14-190</cite>, in subsec. (a), made nonsubstantive changes to pars. (11) and (12), and added par. (13).</annotation>
+          <annotation><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in par. (12) of subsec. (a), validated a previously made technical correction.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 7(b) of Insurance Omnibus Temporary Amendment Act of 1993 (<cite doc="D.C. Law 10-76">D.C. Law 10-76</cite>, March 17, 1994, law notification  41 DCR 1626).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) amendment of section, see § 603(b) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <text>Office of Collector of Taxes abolished: The Office of the Collector of Taxes was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. All functions of the Office of the Collector of Taxes including the functions of all officers, employees, and subordinate agencies were transferred to the Director, Department of General Administration by Reorganization Order No. 3, dated August 28, 1952. Reorganization Order No. 20, dated November 10, 1952, transferred the functions of the Collector of Taxes to the Finance Office. The same Order provided for the Office of the Collector of Taxes headed by a Collector in the Finance Office, and abolished the previously existing Office of the Collector of Taxes. Reorganization Order No. 20 was superseded and replaced by Organization Order No. 121, dated December 12, 1957, which provided that the Finance Office (consisting of the Office of the Finance Officer, Property Tax Division, Revenue Division, Treasury Division, Accounting Division, and Data Processing Division) would continue under the direction and control of the Director of General Administration, and that the Treasury Division would perform the function of collecting revenues of the District of Columbia and depositing the same with the Treasurer of the United States. Organization Order No. 121, was revoked by Organization Order No. 3, dated December 13, 1967, Part IVC of which prescribed the functions of the Finance Office within a newly established Department of General Administration. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. Functions of the Finance Office as stated in Part IVC of Organization Order No. 3 were transferred to the Director of the Department of Finance and Revenue by Commissioner’s Order No. 69-96, dated March 7, 1969. The collection functions of the Director of the Department of Finance and Revenue were transferred to the District of Columbia Treasurer by § <cite path="§47-316">47-316</cite> on March 5, 1981.</text>
+          <text>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</text>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.05" path="|31|25|II"/>
+      <num codify:value="31-2502.04">4</num>
+      <heading>Cessation of business.</heading>
+      <text>If a company shall cease to do business in the District, it shall thereupon make report to the Commissioner of the taxable premiums collected which have not been reported prior to the date of the cessation of business, and shall forthwith pay to the Collector of Taxes of the District, through the Commissioner, a tax thereon computed according to law. If a company fails or refuses to make such a report or to pay the tax imposed upon it as required by law, it shall be liable to the District for the amount of such taxes, plus a penalty of 8 per centum per month for each month or part thereof during which such taxes remain unpaid.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1067, ch. 792, ch. II, § 4</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Exemption of marine insurance from operation of general tax laws, see § <cite path="§47-2608">47-2608</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1507.</annotation>
+          <annotation>1973 Ed., § 35-1307.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <text>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</text>
+          <text>Office of Collector of Taxes abolished: See Historical and Statutory Notes following § <cite path="§31-2502.03">31-2502.03</cite>.</text>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <num codify:value="31-2502.09">9</num>
+      <heading>Making or publishing material false statements.</heading>
+      <text>Any director, officer, agent, or employee of any company who subscribes to, makes or concurs in making or publishing any annual or other statement required by law, knowing the same to contain any material statement which is false, shall be fined not more than $5,000 or imprisoned for not more than 5 years, or both.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1069, ch. 792, ch. II, § 9</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1512.</annotation>
+          <annotation>1973 Ed., § 35-1312.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <num codify:value="31-2502.11">11</num>
+      <heading>Kinds of insurance authorized.</heading>
+      <text>Any company authorized to do business in the District may, when empowered by its charter, make all or any 1 or more of the kinds of insurance and reinsurance comprised in either or both of the following classes, subject to and in accordance with the provisions of this chapter:</text>
+      <para>
+        <num>(1)</num>
+        <heading>Fire and marine. —</heading>
+        <text>On houses, buildings, and all other kinds of property against loss, damage, or damages by fire, lightning, or storm; to insure against loss or damage by water to any goods or premises arising from the breakage or leakage of sprinklers or water pipes; and to make all kinds of insurance against loss of or damage to goods, merchandise, or other property caused by fire, risks of transportation, or navigation, the action of the elements or adverse manifestations of nature, as well as all and every risk or peril to which the subject of insurance may be exposed, against which it is not contrary to public policy to insure, including every insurable interest therein or in the use thereof, or profit or income therefrom, or legal liability therefor, but not to include injury to the person nor loss caused by breach of trust; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Casualty. —</heading>
+        <para>
+          <num>(A)</num>
+          <text>Upon the health of persons, or against injury, disablement, or death of persons resulting from traveling or general accidents by land or water, and against liability of the assured for injuries to employees or other persons;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Against liability of the assured for loss or destruction of or damage to property;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Upon the lives of domestic animals;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Against loss of or damage to glass and its appurtenances;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Against loss of or damage to any property resulting from the explosion of or injury to any boiler, heater, unfired pressure vessel, pipes, or containers connected therewith, any engine, turbine, compressor, pump, or wheel or any apparatus generating, transmitting or using electricity, or any other machine or apparatus connected with or operated by any of the previously named boilers, vessels, or machines; and including the incidental power to make inspections of and to issue certificates of inspection upon, any such boilers, apparatus, and machinery, whether insured or otherwise;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Against loss by burglary or theft, or both, and against loss of or damage to moneys and securities;</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>To guarantee and indemnify merchants, traders, and those engaged in business and giving credit, from loss and damage by reason of giving and extending credit to their customers and those dealing with them;</text>
+        </para>
+        <para>
+          <num>(H)</num>
+          <text>Against loss or damage by water or other fluid or substance to any property resulting from the breakage or leakage of sprinklers or water pipes; and</text>
+        </para>
+        <para>
+          <num>(I)</num>
+          <text>To insure against any other casualty risk which may lawfully be the subject of insurance, and which it is not contrary to public policy to insure; provided, that this section shall not be construed as having any effect whatever upon the right or authority of any solvent company to make contracts of fidelity or surety.</text>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1069, ch. 792, ch. II, § 11</annotation>
+          <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 29(a), 45 DCR 745</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Employees’ Compensation Act, insurance under, see § <cite path="§31-5205">31-5205</cite>.</annotation>
+          <annotation>Prohibition against wagering policies, see § <cite path="§31-2601.01">31-2601.01</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1514.</annotation>
+          <annotation>1973 Ed., § 35-1314.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <num codify:value="31-2502.12">12</num>
+      <heading>Limitations on exposure to risks or hazards.</heading>
+      <text>No company other than a mutual or reciprocal company doing business in the District shall expose itself to any loss on any one risk or hazard, whether located in the District or outside of the District, to an amount exceeding 10% of the sum of its capital stock and surplus. No mutual or reciprocal company shall expose itself to any loss on any one risk or hazard, whether located in the District or outside of the District, to an amount exceeding 10% of its surplus. No portion of any such risk or hazard which shall have been reinsured in a company authorized to do business in the District shall be included in determining limitation of risk; provided, that the provisions of this section shall not apply to the insurance of workmen’s compensation, employers’ liability, marine, or inland marine risks.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1070, ch. 792, ch. II, § 12</annotation>
+          <annotation doc="D.C. Law 10-103">Apr. 26, 1994, D.C. Law 10-103, § 3, 41 DCR 1005</annotation>
+          <annotation doc="D.C. Law 16-232">Mar. 8, 2007, D.C. Law 16-232, § 202(b), 54 DCR 368</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Capital and surplus requirements for foreign and alien companies, see § <cite path="§31-2502.22">31-2502.22</cite>.</annotation>
+          <annotation>Limitation of risk for companies operating on Lloyd’s plan, see § <cite path="§31-2502.20a">31-2502.20a</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-2502.02">31-2502.02</cite> and § <cite path="§31-3931.06">31-3931.06</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1515.</annotation>
+          <annotation>1973 Ed., § 35-1315.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 16-232">D.C. Law 16-232</cite> substituted “any one risk or hazard, whether located in the District or outside of the District” for “any 1 risk or hazard in the District”.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 3 of Insurance Omnibus Temporary Amendment Act of 1993 (<cite doc="D.C. Law 10-76">D.C. Law 10-76</cite>, March 17, 1994, law notification  41 DCR 1626).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <num codify:value="31-2502.13">13</num>
+      <heading>Minimum capital and surplus requirements.</heading>
+      <text>Every stock company authorized to do business in the District shall have and shall at all times maintain a paid-up capital stock of not less than $300,000, and a surplus of not less than $300,000. Every domestic mutual company and every domestic reciprocal company shall have and shall at all times maintain a surplus of not less than $300,000 and every foreign or alien mutual company and every foreign or alien reciprocal company shall have and shall at all times maintain a surplus of not less than $400,000.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1070, ch. 792, ch. II, § 13</annotation>
+          <annotation doc="Pub. L. 89-399">Apr. 16, 1966, 80 Stat. 121, Pub. L. 89-399, § 1(b)</annotation>
+          <annotation doc="Pub. L. 93-89">Aug. 14, 1973, 87 Stat. 304, Pub. L. 93-89, title IV, § 401</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Independent certified public accountant, report demonstrating minimum capital and surplus requirement, see § <cite path="§31-308">31-308</cite>.</annotation>
+          <annotation>Security, guarantee, indemnity, loan, and mortgage business, capital stock, see § <cite path="§26-1301">26-1301</cite>.</annotation>
+          <annotation>Surplus required for operation under Lloyd’s plan, see § <cite path="§31-2502.20a">31-2502.20a</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§26-1301">26-1301</cite>, § <cite path="§31-308">31-308</cite>, and § <cite path="§31-2502.02">31-2502.02</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1516.</annotation>
+          <annotation>1973 Ed., § 35-1316.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <num codify:value="31-2502.14">14</num>
+      <heading>Applicability of provisions to existing companies.</heading>
+      <text>No company shall be exempt from the provisions of this chapter by reason of its having been incorporated in the District or elsewhere prior to the effective date of this chapter, except that, in the case of companies authorized in the District on October 9, 1940, and continuously thereafter without any increase of authority, the minimum capital and surplus required of a stock company, and the minimum surplus required of a mutual or reciprocal company, or of a Lloyd’s organization, by the laws of the District heretofore applicable shall not be increased by this chapter, and provided also that in the case of such continuously authorized companies the provisions of § <cite path="§31-2502.24">31-2502.24</cite> relating to the names of companies, and the provisions of § <cite path="§31-2502.25">31-2502.25</cite> relating to the amount of surplus necessary to the issuance of policies having no provision for contingent liability, shall not be applicable.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1070, ch. 792, ch. II, § 14</annotation>
+          <annotation doc="Pub. L. 93-89">Aug. 14, 1973, 87 Stat. 304, Pub. L. 93-89, title IV, § 401</annotation>
+          <annotation doc="D.C. Law 3-52">Feb. 23, 1980, D.C. Law 3-52, § 4, 27 DCR 26</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-2502.24">31-2502.24</cite> and § <cite path="§31-2502.25">31-2502.25</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1517.</annotation>
+          <annotation>1973 Ed., § 35-1317.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>References in Text</heading>
+          <annotation>“The effective date of this chapter,” referred to near the beginning of the section, means the effective date of the Act of October 9, 1940. Section 48 of such Act provided that the Act would become effective 30 days after October 9, 1940.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <num codify:value="31-2502.15">15</num>
+      <heading>Formation of domestic companies.</heading>
+      <text>Any domestic stock, mutual, or reciprocal company desiring to transact business in the District shall, after complying with the general laws of the District governing the formation of companies or corporations, file with the Commissioner copies of its articles of incorporation, bylaws, charter, proposed forms of policies, and such other information as may be necessary to manifest and explain the organization, objects, and purposes of the company, and to satisfy the Commissioner that such company has complied with the laws of the District regarding the formation of companies. Thereafter, upon application made to the Commissioner upon such forms as the Commissioner shall prescribe, the Commissioner, subject to the provisions of § <cite path="§31-2502.02">31-2502.02</cite>, shall issue to the company a certificate of authority to transact business in the District.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1071, ch. 792, ch. II, § 15</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1518.</annotation>
+          <annotation>1973 Ed., § 35-1318.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2502.16">16</num>
+      <heading>Acquisition, use and disposition of real estate by domestic companies.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1071, ch. 792, ch. II, § 16</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10, 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 29(b), 45 DCR 745</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(a), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1519.</annotation>
+          <annotation>1973 Ed., § 35-1319.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <num codify:value="31-2502.17">17</num>
+      <heading>Power of domestic mutual companies to borrow or assume liability.</heading>
+      <text>A domestic mutual company may borrow or assume liability for the repayment of a sum of money sufficient to defray the reasonable expenses of its organization or to enable it to comply with any requirement of law or as a surplus fund upon agreement which shall first be submitted to and approved by the Commissioner that such loan or advance with interest at a rate not exceeding 6% per annum shall be repaid only with the approval of the Commissioner whenever in his judgment the company shall be in possession of sufficient surplus in excess of a surplus equal to the amount required by this chapter. Any such loan or advance shall not form a part of the legal liabilities of the company, but until such loan or advance has been repaid all statements published by such company or filed with the Commissioner shall show the amount thereof then remaining unpaid.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1071, ch. 792, ch. II, § 17</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1520.</annotation>
+          <annotation>1973 Ed., § 35-1320.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2502.18">18</num>
+      <heading>Investment of funds by domestic companies.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1072, ch. 792, ch. II, § 18</annotation>
+          <annotation>July 19, 1954, 68 Stat. 494, ch. 546, § 1</annotation>
+          <annotation doc="Pub. L. 87-739">Oct. 3, 1962, 76 Stat. 715, Pub. L. 87-739, § 2</annotation>
+          <annotation doc="D.C. Law 4-50">Oct. 30, 1981, D.C. Law 4-50, § 3, 28 DCR 4258</annotation>
+          <annotation doc="D.C. Law 4-174">Mar. 9, 1983, D.C. Law 4-174, § 3, 29 DCR 5753</annotation>
+          <annotation doc="D.C. Law 8-141">June 13, 1990, D.C. Law 8-141, § 3, 37 DCR 2654</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(a), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1521.</annotation>
+          <annotation>1973 Ed., § 35-1321.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Home Owners’ Loan Corporation abolished: The Home Owners’ Loan Corporation, referred to in paragraph (9) of subsection (a), was dissolved by order of the Secretary of the Home Loan Bank Board, effective February 3, 1954, pursuant to the Act of June 30, 1953, 67 Stat. 121.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <num codify:value="31-2502.19">19</num>
+      <heading>Exclusive agency contracts of domestic companies.</heading>
+      <text>No domestic company authorized to do an insurance business in the District shall have or make any contract with any person whereby such person is granted the exclusive right or privilege to solicit, procure, write, produce, or manage the entire insurance business of such company, or to collect premiums therefor, unless such contract is filed with and approved in writing by the Commissioner. The Commissioner shall not approve any such contract which:</text>
+      <para>
+        <num>(1)</num>
+        <text>Subjects the company to excessive charges for expenses or commissions; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Gives to such person the right to manage any of the affairs of such company or the exclusive right to solicit, procure, write, or produce the entire insurance business for such company, or to collect the premiums therefor for such unreasonable period as may jeopardize the interests or security of the company’s policyholders.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1073, ch. 792, ch. II, § 19</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1522.</annotation>
+          <annotation>1973 Ed., § 35-1322.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <num codify:value="31-2502.20">20</num>
+      <heading>Authority to transact business — Foreign or alien companies.</heading>
+      <text>Upon complying with the provisions of this chapter, a foreign or alien company organized as a stock, mutual, or reciprocal company, or as a Lloyd’s organization, but not otherwise, may be authorized by certificate of authority to transact in the District the kind or kinds of business which a domestic company similarly organized may be authorized to transact under this chapter. Such certificate of authority shall be issued as provided under § <cite path="§31-2502.02">31-2502.02</cite>. The issuance of a certificate of authority to a Lloyd’s organization shall be subject to the provisions of § <cite path="§31-2502.20a">31-2502.20a</cite>. Any company chartered by special act of the legislature of its state of domicile prior to the effective date of this chapter, as provided in § 48 of this act, as a company without capital stock but doing business exclusively on the stock plan and maintaining at all times a surplus of not less than $300,000 shall, in the administration of this chapter, be considered as a stock company.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1073, ch. 792, ch. II, § 20</annotation>
+          <annotation doc="Pub. L. 85-526">June 27, 1960, 74 Stat. 222, Pub. L. 85-526, § 1</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1523.</annotation>
+          <annotation>1973 Ed., § 35-1323.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>References in Text</heading>
+          <annotation>“Section 48 of this act,” referred to in the last sentence of this section, means § 48 of the Act of October 9, 1940, which provided that such Act would be effective 30 days after October 9, 1940.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <num codify:value="31-2502.20a">20a</num>
+      <heading>Authority to transact business — Lloyd’s organizations.</heading>
+      <text>Individuals and aggregations of individuals transacting an insurance business upon the plan known as Lloyd’s whereby the individual underwriters become liable severally for specified proportions of the whole amount insured by a policy, heretofore organized under the laws of a state of the United States, or of a foreign government, may be authorized to transact business in the District, upon the following conditions:</text>
+      <para>
+        <num>(1)</num>
+        <text>They shall comply with and be subject to the same terms, conditions, and provisions as are imposed by this chapter upon foreign stock insurance companies, except as provided in the next succeeding paragraph and except that the maximum amount of insurance to be assumed by an individual underwriter upon any single risk for each kind of insurance shall not exceed 10% of the value of the cash and securities deposited in trust by such underwriter, plus the share of admitted assets other than underwriter’s deposits of such Lloyd’s belonging to such underwriter, less the share of liabilities and reserves of such Lloyd’s allocable to such underwriter, but in no event shall it exceed 10 per centum of the value of cash or securities deposited in trust by such underwriter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>They shall have and shall at all times maintain surpluses of not less than $300,000 in the aggregate and shall at all times have on deposit with an insurance department of a state of the United States, or with a bank or trust company designated by such insurance department, for the benefit of all policyholders within the United States the sum of at least $350,000 in cash or in securities such as are required for the investment of the assets of insurance companies authorized to do business in the District: Provided, that they shall not be required to establish or maintain such a deposit if they have on deposit in the hands of a bank or trust company in the United States as trustee cash deposits or securities issued by the United States worth not less than $2,000,000 in the aggregate and held in trust for the benefit of all policyholders in the United States;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>They shall file with the Commissioner an authenticated copy of their powers of attorney and an authenticated copy of the trust agreement, or other agreement under which deposits made by underwriters are held;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>They shall notify the Commissioner forthwith of any amendments to their powers of attorney, deposit agreement, or other documents underlying their organization, by filing with the Commissioner an authenticated copy of such document as amended;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>They shall notify the Commissioner forthwith of any change in their names or change of attorney-in-fact, or change of address of their attorney-in-fact;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>In the case of an alien Lloyd’s, their annual statement shall embrace only their condition and transactions in the United States, and may be verified by the oath of their resident manager or other person or persons having proper authority; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>There shall be filed with the Commissioner by the attorney-in-fact at the time of filing the annual statement, or more often if the Commissioner requires, a statement verified by the appropriate official of such Lloyd’s, setting forth:</text>
+        <para>
+          <num>(A)</num>
+          <text>The names and addresses of all the underwriters of such Lloyd’s;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A description of the cash and securities deposited in trust by each underwriter;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The maximum amount of insurance assumed by each underwriter upon any single risk or each kind of insurance; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>That the maximum amount of insurance assumed upon any single risk for each kind of insurance by any individual underwriter does not exceed the limitation provided for in paragraph (1) of this section.</text>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1073, ch. 792, ch. II, § 20a</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-2502.20">31-2502.20</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1524.</annotation>
+          <annotation>1973 Ed., § 35-1324.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <num codify:value="31-2502.21">21</num>
+      <heading>Procurement of certificate of authority by foreign or alien companies — Application forms.</heading>
+      <text>A foreign or alien company, in order to procure a certificate of authority to transact business in the District, shall make application therefor to the Commissioner on forms prescribed and furnished by the Commissioner. Such forms shall be executed for the company, by its president or vice-president, or executive officer corresponding thereto, and verified by such officer, and if a corporation the corporate seal shall be thereto affixed, attested by its secretary or other proper officer.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1074, ch. 792, ch. II, § 21</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Foreign or alien fraternal benefit society, admission, see § <cite path="§31-5326">31-5326</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-5326">31-5326</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1525.</annotation>
+          <annotation>1973 Ed., § 35-1325.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.23" path="|31|25|II"/>
+      <num codify:value="31-2502.22">22</num>
+      <heading>Procurement of certificate of authority by foreign or alien companies — Delivery of certain documents to Commissioner; required showings; authorized examinations.</heading>
+      <text>A foreign or alien company shall deliver to the Commissioner: (1) an application of the company for a certificate of authority: (2) a copy of its articles of incorporation or articles of association and amendments thereto, duly certified by the proper officer of the state or country under whose laws the company is organized or incorporated, or if reciprocal, the power of attorney of the attorney-in-fact; (3) if an alien company, a copy of the appointment and authority of its United States manager, certified by a proper officer of the company; (4) a copy of its bylaws and regulations; (5) forms of contracts and policies it proposes to issue in the District, and forms of the applications therefor, if any; (6) proof of compliance with the service of process provisions of § <cite path="§31-202">31-202</cite>; (7) a statement of its financial condition and business as of the end of the preceding calendar year, complying as to form and verification with the requirements of this chapter for annual statements, or financial statement as of such later date as the Commissioner may require; (8) a copy of the last report of examination, certified to by an insurance commissioner or other proper supervisory official; and (9) a certificate from the proper official of the state or country wherein it is incorporated or organized, that it is duly incorporated or organized and is authorized to write the kind or kinds of insurance which it proposes to write in the District. Before a certificate of authority to transact business in the District is issued to a foreign or alien company, such company shall satisfy the Commissioner that: (1) the company is duly organized under the laws of the state or country under whose laws it professes to be organized and is authorized to do the business it is transacting or proposes to transact; (2) its name is not the same as, or so deceptively similar to, the name of any domestic company, or the name of any department of the federal government or existing corporation authorized to transact business in the District as to mislead the public or cause confusion; (3) if a stock company, it has a paid-up capital and surplus at least equal to the capital and surplus required by this chapter or if a mutual company or reciprocal, it has a surplus and provision for contingent liability of policyholders at least equal to the surplus and provision for contingent liability of policyholders required by this chapter; and (4) its funds are invested in accordance with the laws of its domicil, and in securities or property which afford a degree of financial security substantially equal to that required for similar domestic companies. Before issuing a certificate of authority to a foreign or alien company, the Commissioner may cause an examination to be made of the condition and affairs of such company.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1074, ch. 792, ch. II, § 22</annotation>
+          <annotation doc="D.C. Law 10-233">Mar. 21, 1995, D.C. Law 10-233, § 6, 42 DCR 24</annotation>
+          <annotation doc="D.C. Law 11-110">Apr. 18, 1996, D.C. Law 11-110, § 38, 43 DCR 530</annotation>
+          <annotation doc="D.C. Law 11-255">Apr. 9, 1997, D.C. Law 11-255, § 39, 44 DCR 1271</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1526.</annotation>
+          <annotation>1973 Ed., § 35-1326.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.30" path="|31|25|II"/>
+      <num codify:value="31-2502.24">24</num>
+      <heading>Names or designations used by mutual companies and reciprocal or interinsurance exchanges.</heading>
+      <text>Except as otherwise provided in § <cite path="§31-2502.14">31-2502.14</cite>, no mutual company shall be authorized to transact business in the District unless the name of such company shall include the word “mutual,” and no reciprocal or interinsurance exchange shall be authorized to transact business in the District unless the name or designation under which reciprocal or interinsurance contracts are to be exchanged shall include the words “reciprocal” or “interinsurance exchange,” or be supplemented by the following words immediately below the name or designation under which such contracts are exchanged: “A reciprocal” or “an interinsurance exchange.”</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1076, ch. 792, ch. II, § 24</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-2502.14">31-2502.14</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1528.</annotation>
+          <annotation>1973 Ed., § 35-1328.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.30" path="|31|25|II"/>
+      <num codify:value="31-2502.25">25</num>
+      <heading>Premiums of mutual companies.</heading>
+      <text>The maximum premium shall be expressed in the policy of a mutual company, and it may be solely a cash premium, or may be a cash premium and an additional contingent premium, which contingent premium shall be not less than the cash premium, but no mutual company, except as otherwise provided in § <cite path="§31-2502.14">31-2502.14</cite>, shall issue any policy for a cash premium without an additional contingent premium until and unless it possesses a surplus of not less than $600,000.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1076, ch. 792, ch. II, § 25</annotation>
+          <annotation doc="Pub. L. 93-89">Aug. 14, 1973, 87 Stat. 305, Pub. L. 93-89, title IV, § 401</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-2502.14">31-2502.14</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1529.</annotation>
+          <annotation>1973 Ed., § 35-1329.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.30" path="|31|25|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2502.26">26</num>
+      <heading>Company reserves.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1076, ch. 792, ch. II, § 26</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(a), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1530.</annotation>
+          <annotation>1973 Ed., § 35-1330.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.30" path="|31|25|II"/>
+      <num codify:value="31-2502.26a">26a</num>
+      <heading>Actuarial opinion of reserves.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every property and casualty insurance company doing business in the District, unless otherwise exempted by the Commissioner, shall annually submit the opinion of an actuary appointed by the company entitled “Statement of Actuarial Opinion.” The opinion shall be prepared and filed in accordance with the appropriate National Association of Insurance Commissioners Property and Casualty Annual Statement Instructions.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <para>
+          <num>(1)</num>
+          <text>Every property and casualty insurance company domiciled in the District that is required to submit a Statement of Actuarial Opinion shall annually submit a summary entitled “Actuarial Opinion Summary,” written by the actuary appointed by the company. The Actuarial Opinion Summary shall be prepared and filed in accordance with the appropriate National Association of Insurance Commissioners Property and Casualty Annual Statement Instructions and shall be a document supporting the Statement of Actuarial Opinion required by subsection (a) of this section.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A company licensed but not domiciled in the District shall provide the Actuarial Opinion Summary upon request.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <para>
+          <num>(1)</num>
+          <text>A report entitled “Actuarial Report” and underlying workpapers as required by the appropriate National Association of Insurance Commissioners Property and Casualty Annual Statement Instructions shall be prepared to support each Statement of Actuarial Opinion.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the company fails to provide a supporting Actuarial Report or workpapers at the request of the Commissioner or the Commissioner determines that the supporting Actuarial Report or workpapers provided by the company have been improperly prepared or are otherwise unacceptable, the Commissioner may engage a qualified actuary at the expense of the company to review the Statement of Actuarial Opinion and the basis for the opinion and prepare the supporting Actuarial Report or workpapers.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The actuary appointed by the company shall not be liable for damages to any person other than the insurance company and the Commissioner for any act, error, omission, decision, or conduct with respect to the actuary’s opinion, except in cases of fraud, willful misconduct, or gross negligence on the part of the actuary.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1076, ch. 792, ch. II, § 26a</annotation>
+          <annotation doc="D.C. Law 17-289">as added Mar. 20, 2009, D.C. Law 17-289, § 2, 55 DCR 12619</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-3931.13">31-3931.13</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.30" path="|31|25|II"/>
+      <num codify:value="31-2502.26b">26b</num>
+      <heading>Confidentiality of actuarial opinions, summaries, reports, and workpapers.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Statement of Actuarial Opinion shall be provided with the annual financial statement required by § <cite path="§31-1901">31-1901</cite>, in accordance with the appropriate National Association of Insurance Commissioners Property and Casualty Annual Statement Instructions and shall be a public document.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <para>
+          <num>(1)</num>
+          <text>An Actuarial Report, underlying workpapers, or Actuarial Opinion Summary in the possession or control of the Commissioner, and any other material provided by the company to the Commissioner in connection with the Actuarial Report, workpapers, or Actuarial Opinion Summary, shall not be subject to subchapter II of Chapter 5 of Title 2, except a subpoena issued pursuant to:</text>
+          <para>
+            <num>(A)</num>
+            <text>A civil action or an administrative proceeding in which insurance premium rates are an issue; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Oversight by the Council or the federal government.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>This section shall not limit the Commissioner’s authority to:</text>
+          <para>
+            <num>(A)</num>
+            <text>Release the documents to the Actuarial Board for Counseling and Discipline if the material is required for the purpose of professional disciplinary proceedings and the Actuarial Board for Counseling and Discipline establishes procedures satisfactory to the Commissioner for preserving the confidentiality of the documents; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Use the documents, materials, or other information in furtherance of any regulatory or legal action brought as part of the Commissioner’s official duties.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Commissioner or any person who received documents, materials, or other information while acting under the authority of the Commissioner shall not be permitted or required to testify in any private civil action concerning any confidential documents, materials, or information subject to subsection (b) of this section.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>To assist in the performance of the Commissioner’s duties, the Commissioner may:</text>
+        <para>
+          <num>(1)</num>
+          <text>Share documents, materials, or other information, including the confidential and privileged documents, materials, or information subject to subsection (b) of this section with other state, federal, and international regulatory agencies, with the National Association of Insurance Commissioners and its affiliates and subsidiaries, and with state, federal, and international law enforcement authorities; provided, that the recipient agrees to maintain the confidentiality and privileged status of the document, material, or other information and has the authority to maintain confidentiality;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Receive documents, materials, or information, including otherwise confidential and privileged documents, materials, or information, from the National Association of Insurance Commissioners and its affiliates and subsidiaries, and from regulatory and law enforcement officials of other foreign or domestic jurisdictions, and shall maintain as confidential or privileged any document, material, or information received with notice or the understanding that it is confidential or privileged under the laws of the jurisdiction that is the source of the document, material, or information; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Enter into agreements governing sharing and use of information consistent with subsections (b) through (d) of this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>No waiver of any applicable privilege or claim of confidentiality in the documents, materials, or information shall occur as a result of disclosure to the Commissioner under this section or as a result of sharing as authorized in subsection (d) of this section.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1076, ch. 792, ch. II, § 26b</annotation>
+          <annotation doc="D.C. Law 17-289">as added Mar. 20, 2009, D.C. Law 17-289, § 2, 55 DCR 12619</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-3931.13">31-3931.13</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.30" path="|31|25|II"/>
+      <num codify:value="31-2502.27">27</num>
+      <heading>Filing and approval of policy forms.</heading>
+      <text>The Commissioner may require that all policy forms used by every company covering risks in the District be filed with the Commissioner. The Commissioner shall have authority to disapprove, within 60 days after the date of the receipt of a filing, the use in the District of any policy form which is inequitable, or does not comply with the requirement of the law of the District. If a policy form is not disapproved for use within the 60-day period described above, the Commissioner may not disapprove it for use unless it does not comply with the requirements of the law of the District.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1076, ch. 792, ch. II, § 27</annotation>
+          <annotation doc="D.C. Law 11-90">Feb. 27, 1996, D.C. Law 11-90, § 9(b), 42 DCR 7155</annotation>
+          <annotation doc="D.C. Law 11-160">Sept. 20, 1996, D.C. Law 11-160, § 3, 43 DCR 3722</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1531.</annotation>
+          <annotation>1973 Ed., § 35-1331.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 9(b) of Insurance Omnibus Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-36">D.C. Law 11-36</cite>, September 8, 1995, law notification  42 DCR 5305).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary amendment of section, see § 10(b) of the Insurance Omnibus Emergency Amendment Act of 1995 (D.C. Act 11-48, May 15, 1995,  42 DCR 2544) and § 9(b) of the Insurance Omnibus Congressional Recess Emergency Amendment Act of 1995 (D.C. Act 11-97, July 19, 1995,  42 DCR 3844).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <text>Report by Commissioner of Insurance and Securities: Section 5 of <cite doc="D.C. Law 11-160">D.C. Law 11-160</cite> provided that “Within two years of September 20, 1996, the Commissioner of Insurance and Securities shall prepare and submit to the Council of the District of Columbia for its review a report on the impact of this act on the private passenger motor vehicle insurance market or any part thereof, the funding for the Office of Insurance, the District of Columbia insurance premium tax, the number of insurers doing business in the District, and the number of insurers domiciled in the District of Columbia. In preparing such report, the Commissioner may request from specific private passenger motor vehicle insurers doing business in the District, or from all such insurers, reasonable and pertinent information. Information which is proprietary to any affected insurer shall be treated as confidential by the Commissioner, but may be used in the aggregate with other information from other affected insurers for statistical or other reporting purposes.”</text>
+          <text>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</text>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.30" path="|31|25|II"/>
+      <num codify:value="31-2502.28">28</num>
+      <heading>Rate and form filing requirements for accident and health policies.</heading>
+      <text>The Commissioner may require that the provisions and conditions contained in any policy of insurance against loss or damage from sickness or bodily injury or death of the insured by accident issued by, and the rate-making and filing obligations of, any company authorized by this chapter to transact business in the District be made to conform to the requirements prescribed under § <cite path="§31-4712">31-4712</cite>.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1076, ch. 792, ch. II, § 28</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 18-360">Apr. 8, 2011, D.C. Law 18-360, § 501, 58 DCR 896</annotation>
+          <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 87, 59 DCR 6190</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1532.</annotation>
+          <annotation>1973 Ed., § 35-1332.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 18-360">D.C. Law 18-360</cite>, in the section heading, substituted “Rate and form filing requirements for” for “Required provisions in”; and substituted “issued by, and the rate-making and filing obligations of,” for “issued by”.</annotation>
+          <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> made a technical correction to <cite doc="D.C. Law 18-360">D.C. Law 18-360</cite> which did not affect this section as codified.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.30" path="|31|25|II"/>
+      <num codify:value="31-2502.28a">28a</num>
+      <heading>Flood insurance notice requirements for the provision of homeowner’s and renter’s insurance.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Within 90 days of September 19, 2013, a company authorized to sell or negotiate homeowner’s or renter’s insurance in the District of Columbia shall provide a written notice that states that a standard homeowner’s or renter’s insurance policy does not cover losses from flood to:</text>
+        <para>
+          <num>(1)</num>
+          <text>An applicant at the time of application for a homeowner’s or renter’s insurance policy;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A policyholder at the time of each renewal of a homeowner’s or renter’s insurance policy, to accompany the renewal notice; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>On a one-time basis, a policyholder of a homeowner’s or renter’s insurance policy; provided, that a company shall not be required to provide the one-time notice to an existing policyholder if the renewal of that policyholder’s policy comes due within 90 days of the date the company began issuing the notices required by this subsection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The statement shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Be on a separate form;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Be titled, in at least 12-point type, “Flood Coverage Not Included in the Standard Homeowner’s or Renter’s Insurance Policy”; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Contain, at a minimum, the following information in at least 12 point type:</text>
+          <para>
+            <num>(A)</num>
+            <text>Advise the applicant that flood insurance may be available for an additional premium and that a claim under a flood insurance policy may be adjusted and paid on a different basis than a claim under a homeowner’s or renter’s insurance policy;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Advise the applicant that a separate application must be completed to purchase flood insurance;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>State that flood insurance may be available through the National Flood Insurance Program or other sources;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Provide the applicant with the contact information for the National Flood Insurance Program;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Advise the applicant to consult with the National Flood Insurance Program, the District Department of the Environment, the District Department of Insurance, Securities, and Banking, or the applicant’s mortgage lender about the risks of flooding and the potential costs and benefits of flood insurance; and</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Advise the applicant that the statement shall not be considered a replacement for the terms of the insurance policy, shall not have the effect of altering the coverage afforded by the policy, shall not confer new or additional rights beyond those expressly provided for in the policy, and is only provided as guidance to the homeowner in understanding the terms of the insurance policy.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If an application is made by telephone, the insurer is deemed to be in compliance with this section if, within 7 calendar days after the date of application, the insurer sends by mail the notice to the insured.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If an application is made using the Internet, the insurer is deemed to be in compliance with this section if the insurer provides the notice to the applicant in a stand-alone format, similar to the notice requirements in subsection (b)(1), (2), and (3) of this section, before the submission of the application.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The insurer’s failure to provide notice as required under this section does not create a private right of action.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1066, ch. 792, ch. II, § 28a</annotation>
+          <annotation doc="D.C. Law 20-18">as added Sept. 19, 2013, D.C. Law 20-18, § 2, 60 DCR 9843</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>The 2013 amendment by <cite doc="D.C. Law 20-18">D.C. Law 20-18</cite> added this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.30" path="|31|25|II"/>
+      <num codify:value="31-2502.28b">28b</num>
+      <heading>Sewer-line backup insurance notice requirements for the provision of homeowner’s and renter’s insurance.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Within 90 days of September 19, 2013, a company authorized to sell or negotiate homeowner’s or renter’s insurance in the District of Columbia shall provide a written notice that states that a standard homeowner’s or renter’s insurance policy does not cover losses from sewer-line back up to:</text>
+        <para>
+          <num>(1)</num>
+          <text>An applicant at the time of application for a homeowner’s or renter’s insurance policy;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A policyholder at the time of each renewal of a homeowner’s or renter’s insurance policy, to accompany the renewal notice; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>On a one-time basis, a policyholder of a homeowner’s or renter’s insurance policy; provided, that a company shall not be required to provide the one-time notice to an existing policyholder if the renewal of that policyholder’s policy comes due within 90 days of the date the company began issuing the notices required by this subsection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The statement shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Be on a separate form;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Be titled, in at least 12-point type, “Sewer-line Backup Coverage Not Included in the Standard Homeowner’s or Renter’s Insurance Policy”; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Contain, at a minimum, the following information, in at least 12-point type:</text>
+          <para>
+            <num>(A)</num>
+            <text>Advise the applicant that sewer-line backup insurance may be available for an additional premium and that a claim under a sewer-line backup insurance policy may be adjusted and paid on a different basis than a claim under a homeowner’s or renter’s insurance policy;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Advise the applicant that a separate application must be completed to purchase sewer-line backup insurance;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Advise the applicant to consult with the District Department of Insurance, Securities, and Banking or the applicant’s mortgage lender about the risks of sewer- line backup and the potential costs and benefits of sewer-line backup insurance; and</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Advise the applicant that the statement shall not be considered a replacement for the terms of the insurance policy, shall not have the effect of altering the coverage afforded by the policy, shall not confer new or additional rights beyond those expressly provided for in the policy, and is only provided as guidance to the homeowner in understanding the terms of the insurance policy.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If an application is made by telephone, the insurer is deemed to be in compliance with this section if, within 7 calendar days after the date of application, the insurer sends by mail the notice to the insured.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If an application is made using the Internet, the insurer is deemed to be in compliance with this section if the insurer provides the notice to the applicant in a stand-alone format, similar to the notice requirements in subsection (b)(1), (2), and (3) of this section, before the submission of the application.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The insurer’s failure to provide notice as required under this section does not create a private right of action.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1066, ch. 792, ch. II, § 28b</annotation>
+          <annotation doc="D.C. Law 20-18">as added Sept. 19, 2013, D.C. Law 20-18, § 2, 60 DCR 9843</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>The 2013 amendment by <cite doc="D.C. Law 20-18">D.C. Law 20-18</cite> added this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.30" path="|31|25|II"/>
+      <num codify:value="31-2502.29">29</num>
+      <heading>Discriminations prohibited.</heading>
+      <text>Discrimination between individual risks of the same class or hazard in the amount of premiums or rates charged for any policy, or in the benefits or amount of insurance payable thereon, or in any of the terms or conditions of such policy, or in any other manner whatsoever, is prohibited, and the Commissioner is empowered after investigation to order removed at such time and in such manner as he shall specify any such discrimination which his investigation may reveal.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1077, ch. 792, ch. II, § 29</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1533.</annotation>
+          <annotation>1973 Ed., § 35-1333.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.32" path="|31|25|II"/>
+      <num codify:value="31-2502.31">31</num>
+      <heading>Compensation of unlicensed persons prohibited.</heading>
+      <text>No company, policy-writing agent, soliciting agent, broker, or salaried employee shall pay any money or commission or brokerage or give or allow any valuable consideration to any person for or because of service in the District in negotiating or effecting a policy on any person, property, business activity, or insurable interest in the District, unless said person is duly licensed in conformity with this chapter as a broker or as an agent or salaried employee of the company issuing the policy. This section shall not apply to contracts of reinsurance, and shall not apply to persons and kinds of insurance exempted under § <cite path="§31-2502.38">31-2502.38</cite>.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1077, ch. 792, ch. II, § 31</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1535.</annotation>
+          <annotation>1973 Ed., § 35-1335.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.43" path="|31|25|II"/>
+      <num codify:value="31-2502.38">38</num>
+      <heading>Exceptions to licensing provisions.</heading>
+      <text>The provisions of this chapter relating to the licensing of policy-writing agents, soliciting agents, salaried company employees, and brokers shall not apply to the sale of personal accident insurance in the ticket offices of railroad companies or other common carriers, or in the offices of travel bureaus, nor to the business of ocean marine insurance, nor to insurance covering the property of railroad companies and other common carriers engaged in interstate commerce.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1080, ch. 792, ch. II, § 38</annotation>
+          <annotation doc="Pub. L. 85-334">Feb. 22, 1958, 72 Stat. 26, Pub. L. 85-334, § 9</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-2502.31">31-2502.31</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1542.</annotation>
+          <annotation>1973 Ed., § 35-1342.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.43" path="|31|25|II"/>
+      <num codify:value="31-2502.39">39</num>
+      <heading>Persons not to act for unauthorized companies.</heading>
+      <text>Except as provided in § <cite path="§31-2502.40">31-2502.40</cite>, no person shall act as agent in the District for any company which is not authorized to do business in the District, nor shall any person directly or indirectly negotiate for or solicit applications for policies of, or for membership in, any company which is not authorized to do business in the District. The term “company” as used in this section shall include any association, society, company, corporation, joint-stock company, individual, partnership, trustee, or receiver engaged in the business of assuming risks of insurance, surety, or indemnity, and any Lloyd’s organization, assessment, or cooperative fire company, or any reciprocal or interinsurance exchange and any company, association, or society, whether organized for profit or not, conducting a business, including any of the principles or features of insurance, surety, or indemnity. Any person who violates any provision of this section upon conviction shall be fined not less than $100 nor more than $1,000 for each offense, or be imprisoned for not more than 12 months, or both, and any such person shall be personally liable to any resident of the District having claim against any such unauthorized company under any policy which said person has solicited or negotiated, or has aided in soliciting or negotiating; provided, that the provisions of this section shall not apply to any person who negotiates with an unauthorized company for policies covering his own property or interests, nor shall the provisions of this section apply to the officers, agents, or representatives of any company which is in process of organization under the laws of the District, and which is authorized temporarily to solicit or secure memberships or applications for policies for the purpose of completing such organization. Prosecutions for violations of this section shall be upon information filed in the Superior Court of the District of Columbia by the Corporation Counsel or any of his assistants.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1080, ch. 792, ch. II, § 39</annotation>
+          <annotation doc="Pub. L. 85-334">Feb. 22, 1958, 72 Stat. 26, Pub. L. 85-334, § 10</annotation>
+          <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+          <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-231">31-231</cite> and § <cite path="§31-1131.08">31-1131.08</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1543.</annotation>
+          <annotation>1973 Ed., § 35-1343.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.43" path="|31|25|II"/>
+      <num codify:value="31-2502.40">40</num>
+      <heading>License to procure policies from unauthorized companies.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person may be licensed as a surplus lines insurance producer under Chapter 11A of this title to procure policies from companies which are not authorized to do business in the District where such person is, after diligent effort, unable to procure policies to cover the kind or kinds of business required from companies duly authorized to transact business in the District. Each agent or broker so licensed shall pay to the Collector of Taxes, through the Commissioner, on February 1st and August 1st of each year, a sum equal to 2 per centum of the amount of the gross premiums upon all kinds of policies procured by him during the immediately preceding 6 months’ period ending December 31st and June 30th, respectively, and, in default of such payment, the Commissioner, through the Corporation Counsel, may bring suit to recover the same. Each agent or broker so licensed to procure policies from unauthorized companies shall execute and file with the Department on or before the 10th day of each month an affidavit covering the transactions of the previous calendar month, setting forth:</text>
+        <para>
+          <num>(1)</num>
+          <text>The description and location of the insured property or risk, and the name of the assured;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The amount insured in the policy or contract;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The gross premiums charged thereon;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The name of the company whose policy or contract is issued, and the kind or kinds of business effected; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>That said agent or broker after diligent effort was unable to procure the policies or contracts required to protect the property or risk described in the affidavit from companies duly authorized to transact business in the District.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Each agent or broker so licensed to procure policies from unauthorized companies shall keep a separate account of the business transacted thereunder, which shall be open at all times to the inspection of the Commissioner. The license provided for in this section may be revoked or renewal thereof refused for failure to pay the tax or to file the affidavit specified herein, or if the agent or broker procured policies from unauthorized companies without exercising diligent effort to secure the required business in duly authorized companies, or if the agent or broker procured policies from unauthorized companies whose standards of solvency and management do not meet the requirements necessary for the protection of the policyholders, or if the agent or broker has placed with any unauthorized company any risk which could be placed with an authorized company except for abnormal provisions of the policy, or if the agent or broker has procured from an unauthorized company any policy which covers a risk of a class generally covered in the District by authorized companies and which authorized companies would cover at a rate not higher than that charged by authorized companies on other District risks of the same class.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1080, ch. 792, ch. II, § 40</annotation>
+          <annotation>Apr. 22, 1944, 58 Stat. 192, ch. 173, § 4</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 17-155">May 13, 2008, D.C. Law 17-155, § 3, 55 DCR 3683</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-231">31-231</cite>, § <cite path="§31-1131.07">31-1131.07</cite>, § <cite path="§31-1131.08">31-1131.08</cite>, and § <cite path="§31-2502.39">31-2502.39</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1544.</annotation>
+          <annotation>1973 Ed., § 35-1344.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 17-155">D.C. Law 17-155</cite>, in subsec. (a), substituted “A person may be licensed as a surplus lines insurance producer under Chapter 11A of this title,” for “Any agent or broker licensed in the District may, upon payment of a license fee, as provided under § <cite path="§31-2502.41">31-2502.41</cite>, be licensed”.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <text>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</text>
+          <text>Office of Collector of Taxes abolished: See Historical and Statutory Notes following § <cite path="§31-2502.03">31-2502.03</cite>.</text>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.43" path="|31|25|II"/>
+      <num codify:value="31-2502.41">41</num>
+      <heading>License fees.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Annual fees to be paid through the Commissioner to the District of Columbia for licenses issued under this chapter shall include a $250 annual renewal fee for registration and certification for Risk Retention and Purchasing Groups and any other fee established pursuant to subsection (e) of this section.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Repealed.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Repealed.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Repealed.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Commissioner may promulgate rules to establish and amend all producer and license fees.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1081, ch. 792, ch. II, § 41</annotation>
+          <annotation doc="D.C. Law 3-52">Feb. 23, 1980, D.C. Law 3-52, § 6, 27 DCR 26</annotation>
+          <annotation doc="D.C. Law 10-128">June 14, 1994, D.C. Law 10-128, § 403(a), 41 DCR 2096</annotation>
+          <annotation doc="D.C. Law 11-110">Apr. 18, 1996, D.C. Law 11-110, § 61(a), 43 DCR 530</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 29(c), 45 DCR 745</annotation>
+          <annotation doc="D.C. Law 16-232">Mar. 8, 2007, D.C. Law 16-232, § 202(c), 54 DCR 368</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Refund of fees when license refused, see § <cite path="§47-1318">47-1318</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1545.</annotation>
+          <annotation>1973 Ed., § 35-1345.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 16-232">D.C. Law 16-232</cite> rewrote subsecs. (a) and (e), and repealed subsec. (b) to (d).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2502.43" path="|31|25|II"/>
+      <num codify:value="31-2502.42">43</num>
+      <heading>Violations of provisions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person who violates any of the provisions of this chapter, or fails to comply with any duty imposed upon such person by any of the provisions of this chapter, for which violation or failure no penalty is elsewhere provided by this chapter, or by the laws of the District, shall, upon conviction thereof, be fined for each offense not exceeding $1,000 or be imprisoned for not more than 12 months, or both. Prosecutions authorized by this section shall be upon information filed in the Superior Court of the District of Columbia by the Corporation Counsel or any of his assistants.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this chapter, or any rules or regulations issued under the authority of this chapter, pursuant to Chapter 18 of Title 2. Adjudication of any infraction of this chapter shall be pursuant to Chapter 18 of Title 2.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, 54 Stat. 1082, ch. 792, ch. II, § 43</annotation>
+          <annotation>Apr. 1, 1942, 56 Stat. 190, ch. 207, § 1</annotation>
+          <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+          <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+          <annotation doc="D.C. Law 6-42">Oct. 5, 1985, D.C. Law 6-42, § 447(c), 32 DCR 4450</annotation>
+          <annotation doc="D.C. Law 8-237">Mar. 8, 1991, D.C. Law 8-237, § 2(r)(3), 38 DCR 314</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Violation of credit life, accident, and health insurance provisions, penalties, see § <cite path="§31-5111">31-5111</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-1103">31-1103</cite> and § <cite path="§31-5111">31-5111</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1546.</annotation>
+          <annotation>1973 Ed., § 35-1347.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Ch</prefix>
     <num>III</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|11"/>
+      <num codify:value="31-1101">51</num>
+      <heading>Applicability of provisions.</heading>
+      <text>The provisions of this chapter shall not apply with respect to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Any insurance company licensed to do business in the District;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any banking institution, trust, loan, mortgage, safe deposit, or title company, building association, credit union, moneylenders, or common trust fund authorized to do business in the District;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The inclusion of a charge for insurance in connection with an installment sale of a motor vehicle make in accordance with Chapter 6 of Title 50; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The financing of insurance premiums in the District in accordance with the provisions of §§ <cite path="§28-3301">28-3301</cite> and <cite path="§28-3302">28-3302</cite> relating to rates of interest.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, ch. 792, ch. III, § 51</annotation>
+          <annotation doc="Pub. L. 89-403">Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1551.</annotation>
+          <annotation>1973 Ed., § 35-1361.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|11"/>
+      <num codify:value="31-1102">52</num>
+      <heading>Definitions.</heading>
+      <text>For the purposes of this chapter:</text>
+      <para>
+        <num>(1)</num>
+        <text>The term “insurance premium finance company” means a person engaged in the business of entering into insurance premium finance agreements.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The term “premium finance agreement” means an agreement by which an insured or prospective insured promises to pay to a premium finance company the amount advanced or to be advanced under the agreement to an insurer or to an insurance agent or broker in payment of premiums on an insurance contract together with a service charge as authorized and limited by this chapter.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The term “licensee” means a premium finance company holding a license issued by the Commissioner under this chapter.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, ch. 792, ch. III, § 52</annotation>
+          <annotation doc="Pub. L. 89-403">Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10, 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 29(d), 45 DCR 745</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1552.</annotation>
+          <annotation>1973 Ed., § 35-1362.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|11"/>
+      <num codify:value="31-1103">53</num>
+      <heading>Licenses — Persons required to obtain; fees; other requirements.</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall engage in the business of financing insurance premiums in the District without first having obtained a license as a premium finance company from the Commissioner. Any person who shall engage in the business of financing insurance premiums in the District without obtaining a license as provided hereunder shall, upon conviction in the Superior Court of the District of Columbia, be guilty of a misdemeanor and shall be subject to the penalties in § <cite path="§31-2502.42">31-2502.42</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The annual license fee shall be $150. Licenses may be renewed from year to year as of the 1st day of May of each year upon payment of the fee of $150. The fee for said license shall be paid through the Commissioner to the District of Columbia Treasurer.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The person to whom the license or the renewal thereof may be issued shall file sworn answers, subject to the penalties of perjury, to such interrogatories as the Commissioner may require. The Commissioner shall have authority, at any time, to require the applicant fully to disclose the identity of all stockholders, partners, officers, and employees and he may, in his discretion, refuse to issue or renew a license in the name of any firm, partnership, or corporation if he is not satisfied that any officer, employee, stockholder, or partner thereof who may materially influence the applicant’s conduct meets the standards of this chapter.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any license issued pursuant to this section shall be issued as a Financial Services endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of Chapter 28 of Title 47.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, ch. 792, ch. III, § 53</annotation>
+          <annotation doc="Pub. L. 89-403">Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1</annotation>
+          <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+          <annotation doc="D.C. Law 10-128">June 14, 1994, D.C. Law 10-128, § 403(b), 41 DCR 2096</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(3), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 2003(ii), 46 DCR 3142</annotation>
+          <annotation doc="D.C. Law 15-38">Oct. 28, 2003, D.C. Law 15-38, § 3(v), 50 DCR 6913</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1553.</annotation>
+          <annotation>1973 Ed., § 35-1363.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 15-38">D.C. Law 15-38</cite>, in subsec. (d), substituted “Financial Services endorsement to a basic business license under the basic” for “Class A Financial Services endorsement to a master business license under the master”.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) amendment of section, see § 3(v) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003,  50 DCR 6896).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|11"/>
+      <num codify:value="31-1104">54</num>
+      <heading>Licenses — Issuance or renewal.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Upon the filing of an application and the payment of the license fee the Commissioner shall make an investigation of each applicant and shall issue a license if the applicant is qualified in accordance with this chapter. If the Commissioner does not so find, he shall, within 30 days after he has received such application, at the request of the applicant, give the applicant a full hearing.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Commissioner shall issue or renew a license as may be applied for when he is satisfied that the person to be licensed:</text>
+        <para>
+          <num>(1)</num>
+          <text>Is competent and trustworthy and intends to act in good faith in the capacity involved by the license applied for;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Has a good business reputation and has had experience, training, or education so as to be qualified in the business for which the license is applied for; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If a corporation, is a corporation incorporated under the laws of the District or a foreign corporation authorized to transact business in the District.</text>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, ch. 792, ch. III, § 54</annotation>
+          <annotation doc="Pub. L. 89-403">Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10, 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 29(e), 45 DCR 745</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1554.</annotation>
+          <annotation>1973 Ed., § 35-1554.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|11"/>
+      <num codify:value="31-1105">55</num>
+      <heading>Licenses — Revocation, suspension or refusal to renew; penalty in lieu of revocation or suspension; right of applicant or licensee to administrative or judicial hearing.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Commissioner may revoke or suspend the license of any premium finance company when and if after investigation it appears to the Commissioner that:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any license issued to such company was obtained by fraud;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>There was any misrepresentation in the application for the license;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The holder of such license has otherwise shown himself untrustworthy or incompetent to act as a premium finance company;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Such company has violated any of the provisions of this chapter; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Such company has been rebating part of the service charge as allowed and permitted herein to any insurance agent or any employee of an insurance agent or to any other person as an inducement to the financing of any insurance policy with the premium finance company.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Before the Commissioner shall revoke, suspend, or refuse to renew the license of any premium finance company, he shall give to such person an opportunity to be fully heard and to introduce evidence in his behalf. In lieu of revoking or suspending the license for any of the causes enumerated in this section, after hearing as herein provided, the Commissioner may subject such company to a penalty of not more than $200 for each offense when in his judgment he finds that the public interest would not be harmed by the continued operation of such company. The amount of any such penalty shall be paid by such company through the office of the Commissioner to the District of Columbia Treasurer. At any hearing provided by this section, the Commissioner shall have authority to administer oaths to witnesses. Anyone testifying falsely, after having been administered such oath, shall be subject to the penalty of perjury.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the Commissioner refuses to issue or renew any license or if any applicant or licensee is aggrieved by any action of the Commissioner, said applicant or licensee shall have the right to a hearing and court proceeding as provided for in §§ <cite path="§31-2502.35">31-2502.35</cite> [repealed], 31-2502.43 [repealed] and 31-2502.44 [repealed].</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, ch. 792, ch. III, § 55</annotation>
+          <annotation doc="Pub. L. 89-403">Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(3), 44 DCR 1730</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Administrative procedure, see § <cite path="§2-501">2-501</cite> et seq.</annotation>
+          <annotation>Judicial review, see §§ <cite path="§2-510">2-510</cite> and <cite path="§11-722">11-722</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§31-2231.17">31-2231.17</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1555.</annotation>
+          <annotation>1973 Ed., § 35-1365.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|11"/>
+      <num codify:value="31-1106">56</num>
+      <heading>Records.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every licensee shall maintain records of its premium finance transactions and the said records shall be open to examination and investigation by the Commissioner. The Commissioner may at any time require any licensee to bring such records as he may direct to the Commissioner’s office for examination.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Every licensee shall preserve its records of such premium finance transactions, including cards used in a card system, for at least 3 years after making the final entry in respect to any premium finance agreement. The preservation of records in photographic form shall constitute compliance with this requirement.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, ch. 792, ch. III, § 56</annotation>
+          <annotation doc="Pub. L. 89-403">Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(3), 44 DCR 1730</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1556.</annotation>
+          <annotation>1973 Ed., § 35-1366.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|11"/>
+      <num codify:value="31-1107">57</num>
+      <heading>Rules and regulations.</heading>
+      <text>The Commissioner shall have authority to make and enforce such reasonable rules and regulations as may be necessary in making effective the provisions of this chapter, but such rules and regulations shall not be contrary to nor inconsistent with the provisions of this chapter.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, ch. 792, ch. III, § 57</annotation>
+          <annotation doc="Pub. L. 89-403">Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(r)(3), 44 DCR 1730</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1557.</annotation>
+          <annotation>1973 Ed., § 35-1367.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2501.03">31-2501.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|11"/>
+      <num codify:value="31-1108">58</num>
+      <heading>Form and contents of agreements.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A premium finance agreement shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Be dated, signed by or on behalf of the insured, and the printed portion thereof shall be in at least 8-point type;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Contain the name and place of business of the insurance agent negotiating the related insurance contract, the name and residence or the place of business of the premium finance company to which payments are to be made, a description of the insurance contracts involved and the amount of the premium therefor; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Set forth the following items where applicable:</text>
+          <para>
+            <num>(A)</num>
+            <text>The total amount of the premiums;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The amount of the downpayment;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The principal balance (the difference between subparagraphs (A) and (B) of this paragraph);</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The amount of the service charge;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The balance payable by the insured (sum of subparagraphs (C) and (D) of this paragraph); and</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>The number of installments required, the amount of each installment expressed in dollars, and the due date or period thereof.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The items set out in subsection (a)(3) of this section need not be stated in the sequence or order in which they appear in such paragraph, and additional items may be included to explain the computations made in determining the amount to be paid by the insured.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, ch. 792, ch. III, § 58</annotation>
+          <annotation doc="Pub. L. 89-403">Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1558.</annotation>
+          <annotation>1973 Ed., § 35-1368.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|11"/>
+      <num codify:value="31-1109">59</num>
+      <heading>Service charges.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A premium finance company shall not charge, contract for, receive, or collect a service charge other than as permitted by this chapter.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The service charge is to be computed on the balance of the premiums due (after subtracting the downpayment made by the insured in accordance with the premium finance agreement) from the effective date of the insurance coverage, for which the premiums are being advanced, to and including the date when the final installment of the premium finance agreement is payable.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The service charge shall be a maximum of $10 per $100 per year plus an additional charge of $20 per premium finance contract which need not be refunded upon cancellation or prepayment.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, ch. 792, ch. III, § 59</annotation>
+          <annotation doc="Pub. L. 89-403">Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1</annotation>
+          <annotation doc="D.C. Law 5-40">Nov. 15, 1983, D.C. Law 5-40, § 2(a), 30 DCR 4994</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1559.</annotation>
+          <annotation>1973 Ed., § 35-1369.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|11"/>
+      <num codify:value="31-1110">60</num>
+      <heading>Delinquency charges.</heading>
+      <text>A premium finance agreement may provide for the payment by the insured of a delinquency charge of $1 to a maximum of 5% of the delinquent installment which is in default for a period of 5 days or more.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, ch. 792, ch. III, § 60</annotation>
+          <annotation doc="Pub. L. 89-403">Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1</annotation>
+          <annotation doc="D.C. Law 5-40">Nov. 15, 1983, D.C. Law 5-40, § 2(b), 30 DCR 4994</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1560.</annotation>
+          <annotation>1973 Ed., § 35-1370.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|11"/>
+      <num codify:value="31-1111">61</num>
+      <heading>Cancellation of insurance contracts.</heading>
+      <para>
+        <num>(a)</num>
+        <text>When a premium finance agreement contains a power of attorney enabling the premium finance company to cancel any insurance contract or contracts listed in the agreement, the insurance contract or contracts shall not be canceled by the premium finance company unless such cancellation is effectuated in accordance with this section.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Not less than 10 days written notice shall be mailed to the insured of the intent of the premium finance company to cancel the insurance contract unless the default is cured within such 10-day period.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>After expiration of such 10-day period, the premium finance company may thereafter request, in the name of the insured, cancellation of such insurance contract or contracts by mailing to the insurer a notice of cancellation, and the insurance contract shall be canceled as if such notice of cancellation had been submitted by the insured himself, but without requiring the return of the insurance contract or contracts. The premium finance company shall also mail a notice of cancellation to the insured at his last known address.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All statutory, regulatory, and contractual restrictions providing that the insurance contract may not be canceled unless notice is given to a governmental agency, mortgagee, or other third party shall apply where cancellation is effected under the provisions of this section. The insurer shall give the prescribed notice in behalf of itself or the insured to any governmental agency, mortgagee, or other third party on or before the 2nd business day after the day it receives the notice of cancellation from the premium finance company and shall determine the effective date of cancellation taking into consideration the number of days notice required to complete the cancellation.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Whenever an insurance contract is cancelled in accordance with this section, the insurer shall return whatever gross unearned premiums are due under the insurance contract to the premium finance company affecting the cancellation for the account of the insured or insureds.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>In the event that the crediting of return premiums to the account of the insured results in a surplus over the amount due from the insured, the premium finance company shall refund such excess to the insured provided that no such refund shall be required if it amounts to less than $1.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>When a default results in the cancellation of an insurance contract listed in the premium finance agreement, the premium finance agreement may provide for the payment by the insured of a cancellation charge equal to the difference between any delinquent charge imposed in respect of the installment or installments in default and $10; provided, however, that should the cancellation notice be withdrawn prior to its effective date and the insurance coverage reinstated, the agreement may provide for payment by the insured of a reinstatement charge equal to the cancellation charge herein provided.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, ch. 792, ch. III, § 61</annotation>
+          <annotation doc="Pub. L. 89-403">Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1</annotation>
+          <annotation doc="D.C. Law 5-40">Nov. 15, 1983, D.C. Law 5-40, § 2(c), 30 DCR 4994</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1561.</annotation>
+          <annotation>1973 Ed., § 35-1371.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|11"/>
+      <num codify:value="31-1112">62</num>
+      <heading>Validity of agreements as secured transactions.</heading>
+      <text>No filing of the premium finance agreement shall be necessary to perfect the validity of such agreement as a secured transaction as against creditors, subsequent purchasers, pledges, and encumbrances, successors, or assigns.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 9, 1940, ch. 792, ch. III, § 62</annotation>
+          <annotation doc="Pub. L. 89-403">Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1562.</annotation>
+          <annotation>1973 Ed., § 35-1372.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
 </document>

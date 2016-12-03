@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 15-39">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 15-39">
   <num type="law">15-39</num>
   <heading type="short">Fiscal Year 2004 Budget Support Act of 2003</heading>
   <meta>
@@ -12,4 +12,604 @@
       <narrative>Law 15-39, the “Fiscal Year 2004 Budget Support Act of 2003”, was introduced in Council and assigned Bill No. 15-218, which was referred to Committee on Whole. The Bill was adopted on first and second readings on May 6, 2003, and June 3, 2003, respectively. Signed by the Mayor on June 20, 2003, it was assigned Act No. 15-106 and transmitted to both Houses of Congress for its review. D.C. Law 15-39 became effective on November 13, 2003.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|10A"/>
+    <num codify:value="10-1031">1402</num>
+    <heading>District Facilities Planning Advisory Committee.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a District Facilities Planning Advisory Committee (“Committee”), whose purpose shall be to provide advice, comments, and recommendations to the Council pursuant to subsection (c) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Committee shall be composed of 7 members. Three members shall be appointed by the Chairman of the Council, one of whom the Chairman shall designate to serve as chair; one member shall be appointed by the Chair of the Council committee with jurisdiction over the Department of Real Estate Services; one member shall be appointed by the Chair of the Council committee with jurisdiction over the Deputy Mayor for Planning and Economic Development; and 2 members shall be appointed by the Mayor. The Committee may act with a quorum of 4 appointed members. Each member shall be a resident of the District and have demonstrated experience in facility management or program activities in at least one of the fields of real estate, policy and planning, community development, or other field deemed suitable for the purposes of the work of the Committee. The term of an appointment shall be 3 years from the date of appointment. The Chairman of the Council shall have sole and exclusive authority at his or her discretion to remove members of the Committee. The Committee shall annually provide its conclusions and findings to the Council.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Committee shall perform the following duties:</text>
+      <para>
+        <num>(1)</num>
+        <text>Review the inventory to be promptly provided by the Department of Real Estate Services of all facilities owned and operated by the District government pursuant to § <cite path="§10-1011">10-1011</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Review the audit of leased properties to be promptly provided by the Department of Real Estate Services pursuant to § <cite path="§10-1012">10-1012</cite>;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Review data and provide advice and comments on the District Facilities Plan, including benchmarks for the District and comparable jurisdictions regarding the number of public facilities maintained by the District government using demand and usage metrics, including facilities per capita and per square mile, and long-term agency facilities needs;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Review and provide advice and comments on a 10-year projected annual average cost for maintaining the current inventory of properties (and other information as may reasonably [be] required for the committee to perform its duties) to be prepared by the Mayor;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Provide advice and comments on standards developed by the Mayor for the location of public facilities, including population density, public needs, accessibility, frequency of use, proximity to similar facilities, opportunity for multiple uses, the long-term cost effectiveness of facility maintenance, and program integration plans;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Provide advice and comments on conclusions prepared by the Mayor on the number of facilities that the District should maintain based on:</text>
+        <para>
+          <num>(A)</num>
+          <text>Benchmark comparisons;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Available and possible sources of funding;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Program integration plans;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The long-term facilities needs of District agencies; and</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Other measures which the Committee considers appropriate;</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Provide advice and comments on recommendations prepared by the Mayor for renovation, construction, consolidation, and closure of selected facilities based on an analysis conducted;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Provide advice and comments on the appropriate relationship between the District Facilities Plan and other existing planning documents;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Provide advice and comments on Mayoral plans for program integration regarding the impact of the neighborhood places and wraparound schools initiative on facility co-location and investment; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Provide for broad community input and comment on the District Facilities Plan, any other existing plan, and related inter-program coordination.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>No member of the Advisory Committee shall be compensated for time expended in the performance of duties, except to the extent that the member is a District government employee serving as part of his or her existing responsibilities, but members shall be entitled to reimbursement for actual and necessary expenses incurred in the performance of the Advisory Committee’s duties pursuant to applicable District government rules and regulations.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 1402, 50 DCR 5668</annotation>
+        <annotation doc="D.C. Law 18-115">Mar. 11, 2010, D.C. Law 18-115, § 4, 57 DCR 886</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-115">D.C. Law 18-115</cite> rewrote subsecs. (a), (b), and (c).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1402 of Fiscal Year 2004 Budget Support Emergency Amendment Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1402 of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of title XIV of Law 15-39: Section 1401 of <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> provided that title XIV of the act may be cited as the Master Facilities Planning and Program Coordination Advisory Committee Act of 2003.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|10A"/>
+    <num codify:value="10-1032">1403</num>
+    <heading>Funding.</heading>
+    <text>The functions of this chapter are to be funded in the amounts of $1.8 million in Fiscal Year 2004 and $1.1 million in Fiscal Year 2005 from the Public Planning Capital Project Fund established in § <cite path="§1-325.11">1-325.11</cite>. Of this total amount, not less than $1.2 million shall be made available to the Department of General Services (“Department”), in consultation with the Office of Planning, for the development of a facility inventory and conditions assessment.  Other amounts as required shall be transferred to the Department and other District agencies for the fulfillment of the provisions of this chapter.  In all cases, this work shall be performed without the use of contractors, except where specialized expertise or expedited effort is required.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 1403, 50 DCR 5668</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 71, 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “Department of General Services (’Department’)” for “Office of Property Management (’OPM’)” in the second sentence; and substituted “the Department” for “OPM” in the third sentence.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1403 of Fiscal Year 2004 Budget Support Emergency Amendment Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2 of the Office of Property Management Reform Emergency Amendment Act of 2002 (D.C. Act 15-121, July 29, 2003,  50 DCR 6616).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1403 of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-161" path="|38|1|III"/>
+    <num codify:value="38-160">362</num>
+    <heading>Public schools Schedule A submission.</heading>
+    <text>The District of Columbia Public Schools shall submit to the Board of Education by January 1st and July 1st of each year a Schedule A showing all the current funded positions of the District of Columbia Public Schools, their compensation levels, and indicating whether the positions are encumbered. The Board of Education shall approve or disapprove each Schedule A within 30 days of its submission and provide the Council of the District of Columbia a copy of the Schedule A within 5 days of its approval.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 362, 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 362 of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle G of title III of Law 15-39: Section 361 of <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> provided that subtitle G of title III of the act may be cited as the Public Schools Schedule A Submission Act of 2003.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25A"/>
+    <num codify:value="38-2551">372</num>
+    <heading>Establishment.</heading>
+    <text>There is established a Special Education Task Force (“Task Force”) with the purpose of serving as a collaborative body of District agencies that will monitor, support, and implement special education reform within the District of Columbia Public Schools.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 372, 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-192">38-192</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2 of Special Education Task Force Establishment Second Congressional Review Emergency Act of 2003 (D.C. Act 15-232, November 25, 2003,  50 DCR 10729).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle H of title III of Law 15-39: Section 371 of <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> provided that subtitle H of title III of the act may be cited as the Special Education Task Force Establishment Act of 2003.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25A"/>
+    <num codify:value="38-2552">373</num>
+    <heading>Functions.</heading>
+    <text>Specific functions of the Task Force shall include the following:</text>
+    <para>
+      <num>(1)</num>
+      <text>Within 60 days of the approval of the Board of Education, adopt, by a majority vote, the Special Education Reform Plan developed pursuant to § <cite path="§38-2553">38-2553</cite>;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Convene monthly, or more frequently as deemed necessary and appropriate, to report on the implementation of the Special Education Reform Plan and identify obstacles and recommend amendments to the Special Education Reform Plan;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Identify ways to better coordinate and improve special education service delivery;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Monitor the Special Education Reform to ensure that the Reform Plan is executed in an appropriate and timely manner; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Determine specific savings targets for Fiscal Year 2004 and beyond, including those associated with the Tobacco Settlement funds provided to the District of Columbia Public Schools in Fiscal Year 2003.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 373, 50 DCR 5668</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 84(b), 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in par. (1), validated a previously made technical correction.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 3 of Special Education Task Force Establishment Second Congressional Review Emergency Act of 2003 (D.C. Act 15-232, November 25, 2003,  50 DCR 10729).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25A"/>
+    <num codify:value="38-2553">374</num>
+    <heading>Special Education Reform Plan.</heading>
+    <text>The Superintendent of Schools shall develop a Special Education Reform Plan (“Reform Plan”) which shall include the following:</text>
+    <para>
+      <num>(1)</num>
+      <text>Measurable goals;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Timelines for deliverables;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Roles and responsibilities of all District agencies that provide special education related services;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Proposed legislative initiatives;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Targeted savings activities for fiscal years 2003 through 2005; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Continued review and input from Task Force members.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 374, 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-2552">38-2552</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4 of Special Education Task Force Establishment Second Congressional Review Emergency Act of 2003 (D.C. Act 15-232, November 25, 2003,  50 DCR 10729).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25A"/>
+    <num codify:value="38-2554">375</num>
+    <heading>Composition of the Task Force.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Task Force shall be comprised of the following 9 voting members, or designees thereof:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Chair of the Committee on Education, Libraries and Recreation for the Council of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Chair of the Committee of Finance and Revenue for the Council of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The President of the Board of Education;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Superintendent of the District of Columbia Public Schools;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The State Education Officer of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Deputy Mayor for Children, Youth, Families and Elders;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The Chief Financial Officer for the District of Columbia; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The Chief Financial Officer for the District of Columbia Public Schools.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The following shall serve as advisory, nonvoting members of the Task Force:</text>
+      <para>
+        <num>(1)</num>
+        <text>The members of the Council’s Committee on Education, Libraries and Recreation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The department head or designee of the Office of Special Education;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The department head or designee of the Committee on Special Education and Student Services for the Board of Education;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Corporation Counsel for the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The department head or designee of the Department of Mental Health;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The department head or designee of the Child and Family Service Agency;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The department head or designee of the Medical Assistance Administration;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The department head or designee of the Office of Medicaid Public Provider Operation Reform;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The representative of the State Advisory Panel on Special Education in the District of Columbia; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Two parents of District of Columbia Special Education students.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Task Force shall be co-chaired by the Mayor and the Chair of the Committee on Education, Libraries and Recreation for the Council of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Director of the State Education Office shall provide staffing for the Task Force.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 375, 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 5 of Special Education Task Force Establishment Second Congressional Review Emergency Act of 2003 (D.C. Act 15-232, November 25, 2003,  50 DCR 10729).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|25A"/>
+    <num codify:value="38-2555">376</num>
+    <heading>Memorandum of Understanding.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The voting members of the Task Force shall adopt and sign a Memorandum of Understanding regarding the implementation of the Reform Plan, which shall be submitted to the Council.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This chapter shall expire upon the submission of the Memorandum of Understanding to the Council pursuant to subsection (a) of this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 376, 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 6 of Special Education Task Force Establishment Second Congressional Review Emergency Act of 2003 (D.C. Act 15-232, November 25, 2003,  50 DCR 10729).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|B"/>
+    <num codify:value="1-325.11">1302</num>
+    <heading>Establishment of Public Planning Capital Project Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Public Planning Capital Project Fund is hereby established.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>With each annual capital budget request submitted by the Mayor to the Council in accordance with § <cite path="§1-204.42">1-204.42</cite>, the Mayor shall include as a discrete capital project a public planning fund for which the Mayor shall propose any amount he considers necessary for the uses and purposes set forth in subsection (c) of this section.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Subject to authorization by Congress in an appropriations act, the monies designated for the public planning capital project fund shall be used by the District of Columbia Office of Planning, or its successor, to fund the preparation and development of public planning studies and recommendations for proposed capital projects that will be funded or guaranteed, in part or in whole, by the District government.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Nothing in this section shall be construed to prohibit or limit the appropriation of additional funds from the revenues of the District for the uses and purposes set forth in this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 1302, 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-1032">10-1032</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90-day) addition, see § 1302 of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1302 of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of title XIII of Law 15-39: Section 1301 of <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> provided that title XIII of the act may be cited as the Public Planning Capital Project Act of 2003.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|4|IV"/>
+    <num codify:value="2-431">2004</num>
+    <heading>Report by the Office of the City Administrator to the Council on risk management activities.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For the purposes of this section, the term:</text>
+      <para>
+        <num>(1)</num>
+        <text>“Actual losses sustained” means actual claims, judgements, or settlements paid by the District of Columbia government.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Administrative costs of risk management” means the actual cost of operating a risk management program.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Cost of funding losses” means the total cost incurred by the District of Columbia government on an annual basis for funding losses.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Cost of risk” means the costs of actual losses sustained, administrative costs of the risk management program, costs of funding losses, cost of risk control efforts and other outside service costs.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Outside service costs” means all funds expended by the District of Columbia government to external entities involved in risk management activities.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Risk management” means the process of making and implementing decisions to systematically preserve the physical, human, and financial resources of organizations, with the goals of minimizing the adverse effects of accidental losses on organizations and clarifying an organization’s understanding of its exposure to risks, including loss of, or damage to, property; liability loss; interrupted revenue; and loss of personnel resources.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>On or before February 1 of each year, the Office of the City Administrator, or any successor agency which shall perform its risk management functions, shall provide a report to the Council delineating the savings realized by the District of Columbia as a result of implementing risk management plans and strategies. The report shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be prepared on an agency-by-agency basis;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>State the itemized cost of risk in the prior fiscal year;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>State the changes in the total cost of risk realized in the prior fiscal year resulting from implementing risk management plans compared to the cost of risk in both the next preceding fiscal year and the baseline fiscal year 2004 (comparative cost of risk information for fiscal years 2002 and 2003 shall be used to the extent that is available); and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Include all data, on an agency-by-agency basis, reported to the City Administrator by agencies on the Risk Management Council addressing risk within agencies and plans implemented to control those risks.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 2004, 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see §§ 4 and 5 of Disability Compensation Program Transfer and Risk Management Emergency Amendment Act of 2003 (D.C. Act 15-88, May 19, 2003,  50 DCR 4330).</annotation>
+        <annotation>For temporary (90 day) addition, see §§ 4 and 5 of Disability Compensation Program Transfer and Risk Management Congressional Review Emergency Amendment Act of 2003 (D.C. Act 15-128, July 29, 2003,  50 DCR 6836).</annotation>
+        <annotation>For temporary (90 day) addition, see §§ 4 and 5 of Disability Compensation Program Transfer and Risk Management Second Congressional Review Emergency Amendment Act of 2003 (D.C. Act 15-172, October 6, 2003,  50 DCR 9173).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 2005 of Law 15-39 provided: “Limitation on number of full-time equivalent employees in fiscal year 2004. ”In the performance of its risk management functions, the Office of the City Administrator, or any successor agency, which shall perform such functions shall not employ more than 23 full-time equivalent employees during fiscal year 2004; provided, that if funds become available, new positions created shall be filled first in the Disability Compensation Claims Bureau Unit (3 positions) and Risk Identification and Analysis Division (one position) as funds become available. For the purpose of this section, the term ‘risk management’ shall have the same meaning as in section 2004(a)(2).”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|4|II|A"/>
+    <num codify:value="5-431">702</num>
+    <heading>Fire and Emergency Medical Services training for non-District of Columbia personnel.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor may provide training to non-District of Columbia government agencies, organizations, and individuals through the Fire and Emergency Medical Services Department (“Department”), including hazardous materials training, firefighting training, emergency medical technician training, fire extinguisher safety training, and cardiopulmonary resuscitation training.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor may impose fees to cover the costs of any training provided under subsection (a) of this section. The fees shall be established in accordance with Chapter 5 of Title 2.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 702, 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§5-432">5-432</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 702 of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) addition, see § 702 of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of title VII of Law 15-39: Section 701 of <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> provided that title VII of the act may be cited as the Fire and Emergency Medical Services Training Act of 2003.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority Pursuant to Title VII of the Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003, effective September 22, 2003 (D.C. Act 15-149;  50 DCR 8389), see Mayor’s Order 2004-7, January 14, 2004 ( 51 DCR 873).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|4|II|A"/>
+    <num codify:value="5-432">703</num>
+    <heading>Establishment of Fire and Emergency Medical Services Training Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a lapsing Fire and Emergency Medical Services Training Fund (“Fund”), which shall be separate from the General Fund of the District of Columbia. All fees generated under § <cite path="§5-431">5-431</cite>(b) shall be deposited into the Fund, and any interest earned on these deposits shall be credited to the Fund.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The monies in the Fund shall be expended solely and exclusively to cover the costs directly associated with operating the Department’s training programs, and shall be used to acquire improved technology and equipment, to hire, train, and certify staff, and to otherwise improve the quality of the training programs offered by the Department.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Nothing in this section shall be construed as prohibiting or limiting the allocation of additional funds from the revenues of the District of Columbia for the purposes designated in subsection (b) of this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 703, 50 DCR 5668</annotation>
+        <annotation doc="D.C. Law 19-21">Sept. 14, 2011, D.C. Law 19-21, § 9046, 58 DCR 6226</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (a), substituted “lapsing” for “nonlapsing, revolving”; and repealed subsec. (c), which had read as follows: “(c) All monies deposited in the Fund shall be appropriated without fiscal year limitation pursuant to an act of Congress. Excluding monies collected in the current year, any money deposited in the Fund in the year prior to the current year and the interest earned on that money remaining in the Fund after the payment of the costs accrued in the prior year, less 10% of the remainder amount that shall be retained as a reserve operating balance, shall be transferred or revert to the General Fund of the District of Columbia.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 703 of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) addition, see § 703 of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|1|VIII|B"/>
+    <num codify:value="9-115.11">2402</num>
+    <heading>Re-opening of Klingle Road.</heading>
+    <text>Notwithstanding any other law, the portion of Klingle Road, N.W., between Porter Street, N.W., on the east, to Cortland Place, N.W., on the west, which portion is currently closed to motor vehicle traffic, shall not be re-opened to the public for motor vehicle traffic. No funding, District, federal, or otherwise, shall be expended or accepted for the planning, design, construction, or reconstruction of this portion of Klingle Road for motor vehicle traffic.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 2402, 50 DCR 5668</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 6017, 55 DCR 7598</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>District of Columbia administration, employment practices of contractors, First Source requirements, “beneficiary” and “government-assisted project” defined, see § <cite path="§2-219.01">2-219.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> rewrote the section which had read as follows: “The portion of Klingle Road, N.W., between Porter Street, N.W., on the east to Cortland Place, N.W., on the west shall be re-opened to the public for motor vehicle traffic, with the repair and reconstruction of Klingle Road, which shall include the establishment of a District Department of Transportation storm water management plan, to commence no later than 180 days following November 13, 2003.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2302 of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2302 of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <text>Short title of title XXIV of Law 15-39: Section 2401 of <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> provided that title XXIV of the act may be cited as the Klingle Road Restoration Act of 2003.</text>
+        <text>Short title: Section 6016 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided that subtitle F of title VI of the act may be cited as the “Klingle Road Sustainable Development Amendment Act of 2008”.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For specified funding for Klingle Road, see sections 6018 and 6019 of Law 17-219.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

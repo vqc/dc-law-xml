@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 6-210">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 6-210">
   <num type="law">6-210</num>
   <heading type="short">Food Production and Urban Gardens Program Act of 1986</heading>
   <meta>
@@ -12,4 +12,267 @@
       <narrative>Law 6-210, the “Food Production and Urban Gardens Program Act of 1986,” was introduced in Council and assigned Bill No. 6-228, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 25, 1986, and December 16, 1986, respectively. Signed by the Mayor on January 8, 1987, it was assigned Act No. 6-270 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|4"/>
+    <num codify:value="48-401">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Community garden” means an area managed and maintained by a group of individuals to grow and harvest food crops or non-food crops for personal or group consumption, donation, or fundraising that is incidental in nature, and that may:</text>
+      <para>
+        <num>(A)</num>
+        <text>Include individuals working their own portions of a larger garden, or tending a communal garden together;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Be located in the ground, on a roof, or within a building; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Include common areas such as tool storage sheds.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Farm cooperative” means a type of urban farm or farms where production resources for farming such as land and machinery are pooled and jointly held by members.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Food” means any substance produced for human consumption and nourishment using horticultural techniques, such as vegetables, fruits, grains, mushrooms, honey, herbs, nuts, seeds, and rootstock.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Horticultural techniques” means the scientific, artistic, and technological methods used to cultivate and manage an agricultural space, such as growing from the ground, hydroponics, container farming, vertical farming, or growing in greenhouses or raised beds.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Urban agriculture” or “urban farming” means the practice of growing, cultivating, processing, and distributing vegetables, fruits, grains, mushrooms, honey, herbs, nuts, seeds, flowers, and rootstock within the District, including for profit, not for profit, and for educational purposes.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Urban farm” means any property used for the growing, cultivating, processing, and distributing of vegetables, fruits, grains, mushrooms, honey, herbs, nuts, seeds, flowers, and rootstock within the District, including for profit, not for profit, and for educational purposes.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Vacant lot” means any lot in the District on which there is no lawful structure.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-210">Feb. 28, 1987, D.C. Law 6-210, § 2, 34 DCR 699</annotation>
+        <annotation doc="D.C. Law 20-248">Apr. 30, 2015, D.C. Law 20-248, § 101(a), 62 DCR 1504</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-166.01">10-166.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-901.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-248">D.C. Law 20-248</cite> rewrote this section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of <cite doc="D.C. Law 20-248">D.C. Law 20-248</cite>, § 302, see § 6183 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 301 of <cite doc="D.C. Law 20-248">D.C. Law 20-248</cite> provided that nothing in the act shall be construed to create a governmental liability or cause of action against the District related to the safety of food purchased on District lands by non-governmental entities.</text>
+        <text>Applicability of <cite doc="D.C. Law 20-248">D.C. Law 20-248</cite>: Section 6183 of <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> removed the funding requirement and other applicability restrictions in <cite doc="D.C. Law 20-248">D.C. Law 20-248</cite>, § 302, as enacted.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|4"/>
+    <num codify:value="48-402">3</num>
+    <heading>Urban Farming and Gardens Program established.</heading>
+    <text>The Mayor shall establish an Urban Farming and Gardens Program, which shall include the development, implementation, and promotion of policies that encourage the donation and cultivation of public and private vacant lots for use as urban farms or community gardens, including:</text>
+    <para>
+      <num>(1)</num>
+      <text>The development of a land leasing initiative for publicly-owned vacant lots;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The inclusion of community gardening projects in the summer employment programs operated by the District government;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The provision by the Cooperative Extension Service of the University of the District of Columbia of technical assistance and research in the form of educational materials and programs for community gardening, urban farming, and other self-help food production efforts;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Coordination with the Office of the State Superintendent of Education, both on the use of suitable portions of buildings and grounds for community gardens or urban farming, and on the development of instructional programs in science and gardening that prepare students for related career opportunities such as restaurant produce supply, landscaping, and floral design;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The encouragement of food buying clubs and produce markets throughout the District to increase the supply of and demand for urban farms; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The development of incentives and community outreach efforts to promote the availability of public and private vacant lots for participation in the Urban Farming and Gardens Program.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-210">Feb. 28, 1987, D.C. Law 6-210, § 3, 34 DCR 699</annotation>
+        <annotation doc="D.C. Law 18-209">July 27, 2010, D.C. Law 18-209, § 505, 57 DCR 4779</annotation>
+        <annotation doc="D.C. Law 20-248">Apr. 30, 2015, D.C. Law 20-248, § 101(b), 62 DCR 1504</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-825.03">38-825.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-902.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-209">D.C. Law 18-209</cite>, in par. (3)(D), substituted “Office of the State Superintendent of Education” for “Board of Education of the District of Columbia”.</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-248">D.C. Law 20-248</cite> rewrote this section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“Section 419 of the District of Columbia Comprehensive Plan Act of 1984,” referred to in the introductory language, is found in § 3 of <cite doc="D.C. Law 5-76">D.C. Law 5-76</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 301 of <cite doc="D.C. Law 20-248">D.C. Law 20-248</cite> provided that nothing in the act shall be construed to create a governmental liability or cause of action against the District related to the safety of food purchased on District lands by non-governmental entities.</text>
+        <text>Applicability of <cite doc="D.C. Law 20-248">D.C. Law 20-248</cite>: Section 6183 of <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> removed the funding requirement and other applicability restrictions in <cite doc="D.C. Law 20-248">D.C. Law 20-248</cite>, § 302, as enacted.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|4"/>
+    <num codify:value="48-402.01">3a</num>
+    <heading>Urban Farming Land Leasing Initiative.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>By February 1, 2015, the Mayor shall identify at least 25 District-owned vacant lots for potential use for urban farming.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>These lots shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Be a minimum of 2,500 square feet; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Have no pending agreements for development or sale.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>By February 1, 2015, the Mayor shall establish a land leasing initiative whereby qualified District applicants will be selected to develop certain District-owned vacant lots identified in subsection (a) of this section for urban farming, pursuant to a lease agreement with the District.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>All lease agreements entered into pursuant to subsection (b) of this section shall be for a term of at least 3 years.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>In order to be considered for the land leasing initiative established pursuant to subsection (b) of this section, an applicant shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be a resident of the District for at least one year before application;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Have at least one year of experience in agricultural production, as the sole farmer, an employee, a volunteer, or a significant partner of a farmer;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Not be ineligible for a license or permit pursuant to § <cite path="§47-2862">47-2862</cite>; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Have no outstanding violations of District law or regulations on property owned by the applicant.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A lease agreement pursuant to subsection (b) of this section with an urban farm may permit the sale of the urban farm's products of urban agriculture on or off the leased land.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Property leased pursuant to subsection (b) of this section shall be exempt from real property taxation and possessory interest taxation.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Before the sale or consumption of food grown on property leased pursuant to subsection (b) of this section, the soil shall be tested for contamination.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>By February 1st of each year, the Mayor shall submit an annual report to the Council on the status of the land leasing initiative pursuant to this section which shall include, at a minimum:</text>
+      <para>
+        <num>(1)</num>
+        <text>The number of active urban farms;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The names of the participants in the land leasing initiative;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any educational or community programming or events hosted on the leased lots during the preceding calendar year; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The amount of produce harvested by the participants during the preceding calendar year.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-210">Feb. 28, 1987, D.C. Law 6-210, §  3a</annotation>
+        <annotation doc="D.C. Law 20-248">as added Apr. 30, 2015, D.C. Law 20-248, § 101(c), 62 DCR 1504</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 301 of <cite doc="D.C. Law 20-248">D.C. Law 20-248</cite> provided that nothing in the act shall be construed to create a governmental liability or cause of action against the District related to the safety of food purchased on District lands by non-governmental entities.</text>
+        <text>Applicability of <cite doc="D.C. Law 20-248">D.C. Law 20-248</cite>: Section 6183 of <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> removed the funding requirement and other applicability restrictions in <cite doc="D.C. Law 20-248">D.C. Law 20-248</cite>, § 302, as enacted.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|4"/>
+    <num codify:value="48-402.02">3b</num>
+    <heading>Limitation on expenditures.</heading>
+    <text>No more than $400,000 in Fiscal Year 2016 and $350,000 in each fiscal year thereafter shall be used by the Mayor to implement the Urban Farming and Gardens Program pursuant to § <cite path="§48-402">48-402</cite>, the Urban Farming Land Leasing Initiative pursuant to § <cite path="§48-402.01">48-402.01</cite>, the real property tax abatement for urban agricultural uses pursuant to § <cite path="§47-868">47-868</cite>, the maintenance of tax-exempt status pursuant to § <cite path="§47-1005">47-1005</cite>(c), and the tax credits for food donations pursuant to §§ <cite path="§47-1806.14">47-1806.14</cite>, <cite path="§47-1807.12">47-1807.12</cite>, and <cite path="§47-1808.12">47-1808.12</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-210">Feb. 28, 1987, D.C. Law 6-210, § 3b</annotation>
+        <annotation doc="D.C. Law 21-36">as added Oct. 22, 2015, D.C. Law 21-36, § 6182, 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 6182 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|4"/>
+    <num codify:value="48-403">4</num>
+    <heading>Mayor to propose rules; submission to Council; approval.</heading>
+    <text>Within 90 days of February 28, 1987, the Mayor shall develop proposed rules to implement the provisions of this chapter. The proposed rules shall be submitted to the Council of the District of Columbia (“Council”) for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 45-day review period, the proposed rules shall be deemed approved.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-210">Feb. 28, 1987, D.C. Law 6-210, § 4, 34 DCR 699</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-903.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

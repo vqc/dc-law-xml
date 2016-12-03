@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 105-33">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 105-33">
   <num>105-33</num>
   <meta>
     <effective>1997-08-05</effective>
@@ -7,4 +7,3092 @@
       <law session="105" lawId="33"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|VII"/>
+    <num codify:value="10-513.01">11715</num>
+    <heading>Prior notice for federal activities affecting district property.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 784, Pub. L. 105-33, § 11715</annotation>
+        <annotation doc="Pub. L. 105-100">Nov. 19, 1997, 111 Stat. 2186, Pub. L. 105-100, § 157(f)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-1001.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Pub. L. 105-33, title XI, § 11715, Aug. 5, 1997, 111 Stat. 784, added this section.</text>
+        <text>Pub. L. 105-100, title I, § 157(f), Nov. 19, 1997, 111 Stat. 2186, provided:</text>
+        <text>“(f) Repeal of prior notice requirement for Federal activities affecting real property in District of Columbia. Effective October 1, 1997, the Balanced Budget Act of 1997 (Public Law 105-33) is amended by striking section 11715.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§24-104" path="|24|1|I"/>
+    <num codify:value="24-102">11202</num>
+    <heading>Corrections Trustee.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Appointment and removal of trustee. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>Appointment. —</heading>
+        <text>Pursuant to the Federal Government’s assumption of responsibility for persons convicted of a felony offense under the District of Columbia Official Code, the Attorney General, in consultation with the Chairman of the District of Columbia Financial Responsibility and Management Assistance Authority (hereafter in this chapter referred to as the “D.C. Control Board”), the Mayor of the District of Columbia, the District of Columbia Council, and the District of Columbia judiciary, shall select a Corrections Trustee, who shall be an independent officer of the government of the District of Columbia, to oversee financial operations of the District of Columbia Department of Corrections until the Bureau of Prisons has designated all felony offenders sentenced under the District of Columbia Official Code to a penal or correctional facility operated or contracted for by the Bureau of Prisons under § <cite path="§24-101">24-101</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Removal. —</heading>
+        <text>The Corrections Trustee may be removed by the Mayor with the concurrence of the Attorney General. The Attorney General shall have the authority to remove the Corrections Trustee for misfeasance or malfeasance in office. At the request of the Corrections Trustee, the District of Columbia Financial Responsibility and Management Assistance Authority may exercise any of its powers and authorities on behalf of the Corrections Trustee.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Duties of trustee. —</heading>
+      <text>Beginning on the date of appointment and continuing until the felony population sentenced pursuant to the District of Columbia Official Code residing at the Lorton Correctional Complex is transferred to a penal or correctional facility operated or contracted for by the Bureau of Prisons, the Corrections Trustee shall carry out the following responsibilities (notwithstanding any law of the District of Columbia to the contrary):</text>
+      <para>
+        <num>(1)</num>
+        <text>Exercise financial oversight over the District of Columbia Department of Corrections and allocate funds as enacted in law or as otherwise allocated, including funds for short term improvements which are necessary for the safety and security of staff, inmates and the community.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Purchase any necessary goods or services on behalf of the District of Columbia Department of Corrections consistent with Federal procurement regulations as they apply to the Bureau of Prisons.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Funding. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>In general. —</heading>
+        <text>Funds available for the Corrections Trustee, staff and all necessary and appropriate operations shall be made available to the extent provided in appropriations acts to the Corrections Trustee. Funding requests shall be proposed by the Corrections Trustee to the President and Congress for each Fiscal Year.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Reimbursement to Bureau of Prison. —</heading>
+        <text>Upon receipt of Federal funds, the Corrections Trustee shall immediately provide an advance reimbursement to the Bureau of Prisons of all funds identified by the Congress for construction of new prisons and major renovations, which shall remain available until expended. The Bureau of Prisons shall be responsible and accountable for determining how these funds shall be used for renovation and construction, including type, security level, and location of new facilities.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Accountability and reports. —</heading>
+        <text>The District of Columbia Department of Corrections and the Bureau of Prisons shall maintain accountability for funds reimbursed from the Corrections Trustee, and shall provide expense reports by project at the request of the Corrections Trustee.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Compensation and detailees. —</heading>
+      <text>The Corrections Trustee shall be compensated at a rate not to exceed the basic pay payable for Level IV of the Executive Schedule. The Corrections Trustee may appoint and fix the pay of additional staff without regard to the provisions of the District of Columbia Code governing appointments and salaries, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification and General Schedule pay rates. Upon request of the Corrections Trustee, the head of any Federal department or agency may, on a reimbursable or non reimbursable basis, provide services and detail any personnel of that department or agency to the Corrections Trustee to assist in carrying out his duties.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Procurement and judicial review. —</heading>
+      <text>The provisions of the District of Columbia Official Code governing procurement shall not apply to the Corrections Trustee. The Corrections Trustee may seek judicial enforcement of his authority to carry out his duties.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <heading>Preservation of retirement and certain other rights of federal employees who become employed by the Corrections Trustee. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>In general. —</heading>
+        <text>A Federal employee who, within 3 days after separating from the  Federal Government, is appointed Corrections Trustee or becomes employed by the Corrections Trustee.</text>
+        <para>
+          <num>(A)</num>
+          <text>shall be treated as an employee of the Federal Government for purposes of chapters 83, 84, 87, and 89 of title 5 of the United States Code; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>if, after serving with the Trustee, such employee becomes reemployed by the Federal Government, shall be entitled to credit for the full period of such individual’s service with the Trustee, for purposes of determining the applicable leave accrual rate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Regulations. —</heading>
+        <text>The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out this subsection.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 737, Pub. L. 105-33, § 11202</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§24-141">24-141</cite> and § <cite path="§24-142">24-142</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-1202.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Sick Leave Buyout for Department of Corrections Employees: Section 8 of Pub. L. 105-274, 112 Stat. 2428, the District of Columbia Courts and Justice Technical Corrections Act of 1998, provided that notwithstanding any provision of District of Columbia law, the Corrections Trustee appointed pursuant to section 11202 of the Balanced Budget Act of 1997 may set conditions and may provide that an employee of the District of Columbia Department of Corrections who meets such conditions will receive a lump-sum payment for his or her accumulated and accrued sick leave, if the employee is separated involuntarily and is not subsequently employed, without a break in service of more than 3 days, by the Bureau of Prisons or another Federal agency. The lump sum payment for sick leave shall be calculated by multiplying 50 percent of the employee’s rate of basic pay, exclusive of additional payments of any kind, by the number of hours of accumulated sick leave to the employee’s credit at the time of separation. The lump-sum payment shall be considered pay for taxation purposes only and shall not be used to confer any other benefit to the employee.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§24-104" path="|24|1|I"/>
+    <num codify:value="24-103">11203</num>
+    <heading>Priority consideration for employees of the District of Columbia.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Establishment. —</heading>
+      <text>As soon as practicable after appointment, the Bureau of Prisons, working with the Corrections Trustee, shall establish a priority consideration program to facilitate employment placement for employees of the District of Columbia Department of Corrections who are scheduled to be separated from service as a result of closing the Lorton Correctional Complex.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Provisions. —</heading>
+      <text>The priority consideration program shall include provisions under which a vacant federal correctional institution position established as a result of this Act and identified for external hiring shall not be filled by the appointment of any individual from outside of the District of Columbia Department of Corrections if there is available any interested applicant within the District of Columbia Department of Corrections who meets all qualification and suitability requirements for Bureau of Prisons law enforcement positions, including those related to criminal history, educational experience and level of functions, drug use, and work-related misconduct. The priority consideration program shall also include provisions under which an employee described in subsection (a) of this section who has not been appointed to a Federal Bureau of Prisons law enforcement position and who applies for another Federal position in the competitive service shall receive priority consideration and may be given a competitive service appointment noncompetitively to such a competitive service position. The Director of the Bureau of Prisons may provide a relocation allowance to any individual who is hired by the Director under the program established under this section for a position outside of the Washington Metropolitan Area. Such program shall terminate one year after the closing of the Lorton Correctional Complex.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 738, Pub. L. 105-33, § 11203</annotation>
+        <annotation doc="Pub. L. 105-274">Oct. 21, 1998, 112 Stat. 2424, Pub. L. 105-274, §§ 5(a), (b)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-1203.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 5(c) of Pub. L. 105-274, 112 Stat. 2424, provided:</annotation>
+        <annotation>“(1) The amendment made by subsection (a) shall take effect on the date of the enactment of this Act.</annotation>
+        <annotation>“(2) Individuals who have been appointed with excepted service appointments under section 11203(b) of the Balanced Budget Act of 1997 prior to the date of the enactment of this Act shall be converted noncompetitively to competitive service appointments in their current positions.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“This Act,” referred to in (b), is the National Capital Revitalization and Self-Government Improvement Act of 1997, title XI of Pub. L. 105-33, 111 Stat. 712.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|1|I"/>
+    <num codify:value="24-105">11205</num>
+    <heading>Liability for and litigation authority of corrections trustee.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Liability. —</heading>
+      <text>The District of Columbia shall defend any civil action or proceeding brought in any court or other official Federal, state, or municipal forum against the Corrections Trustee, or against the District of Columbia or it [sic] officers, employees, or agents, and shall assume any liability resulting from such an action or proceeding, if the action or proceeding arises from:</text>
+      <para>
+        <num>(1)</num>
+        <text>An inmate’s confinement with the District of Columbia Department of Corrections;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The District of Columbia’s operation or management of the buildings, facilities, or lands comprising the Lorton property; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The District of Columbia’s operations or activities occurring on any property not specifically transferred to the administrative control of the Federal Government pursuant to this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Litigation. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>Corporation Counsel. —</heading>
+        <text>Subject to paragraph (2) of this subsection, the Corporation Counsel of the District of Columbia shall provide litigation services to the Corrections Trustee, except that the Trustee may instead elect, either generally or in relation to particular cases or classes of cases, to hire necessary staff and personnel or enter into contracts for the provision of litigation services at the Trustee’s expense.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Attorney General. —</heading>
+        <para>
+          <num>(A)</num>
+          <heading>In general. —</heading>
+          <text>Notwithstanding paragraph (1) of this subsection, with respect to any litigation involving the Corrections Trustee, the Attorney General may:</text>
+          <para>
+            <num>(i)</num>
+            <text>Direct the litigation of the Trustee, and of the District of Columbia on behalf of the Trustee; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Provide on a reimbursable or non-reimbursable basis litigation   services for the Trustee at the Trustee’s request or on the Attorney General’s own initiative.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Approval of settlement. —</heading>
+          <text>With respect to any litigation involving the Corrections Trustee, the Trustee may not agree to any settlement involving any form of equitable relief without the approval of the Attorney General. The Trustee shall provide to the Attorney General such notice and reports concerning litigation as the Attorney General may direct.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Discretion. —</heading>
+          <text>Any decision to exercise any authority of the Attorney General under this subsection shall be in the sole discretion of the Attorney General and shall not be reviewable in any court.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Limitation. —</heading>
+      <text>Nothing in this section shall be construed:</text>
+      <para>
+        <num>(1)</num>
+        <text>As a waiver of sovereign immunity, or as limiting any other defense or immunity that would otherwise be available to the United States, the District of Columbia, their agencies, officers, employees, or agents; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To obligate the District of Columbia to represent or indemnify the Corrections Trustee or any officer, employee, or agent where the Trustee (or any person employed by or acting under the authority of the Trustee) acts beyond the scope of his authority.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 739, Pub. L. 105-33, § 11205</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-1205.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|1|I"/>
+    <num codify:value="24-106">11206</num>
+    <heading>Permitting expenditure of funds to carry out certain sewer agreement.</heading>
+    <text>Notwithstanding the fourth sentence of § <cite path="§1-204.46">1-204.46</cite>, the District of Columbia is authorized to obligate or expend such funds as may be necessary during a fiscal year (beginning with fiscal year 1997) to carry out the Sewage Delivery System and Capacity Purchase Agreement between Fairfax County and the District of Columbia with respect to Project Number K00301, without regard to the amount appropriated for such purpose in the budget of the District of Columbia for the fiscal year.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 740, Pub. L. 105-33, § 11206</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-1206.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|1|II"/>
+    <num codify:value="24-111">11211</num>
+    <heading>Truth in sentencing commission.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Establishment. —</heading>
+      <text>There is established as an independent agency of the District of Columbia a District of Columbia Truth in Sentencing Commission (hereafter in this chapter referred to as “the Commission”), which shall consist of 7 voting members. The Attorney General, or the Attorney General’s designee, shall be the chairperson of the Commission and shall have the duty to convene meetings of the Commission to ensure that it fulfills its responsibilities under this Act. The members shall serve for the life of the Commission and shall be subject to removal only for neglect of duty, malfeasance in office, or other good cause shown.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Membership. —</heading>
+      <text>The members of the Commission shall have knowledge and responsibility with respect to criminal justice matters. Two members of the Commission shall be judges of the Superior Court of the District of Columbia, and shall be appointed by the chief judge of that court; one member shall be a representative of the District of Columbia Council and shall be appointed by the chairperson or chairperson pro temp of the Council; one member shall be a representative of the executive branch of the District of Columbia government with official responsibilities for criminal justice matters in the District of Columbia and shall be appointed by the Mayor of the District of Columbia; one member shall be a representative of the District of Columbia Public Defender Service and shall be appointed by the Director of such Service; and one member shall be a representative of the United States Attorney for the District of Columbia and shall be appointed by the United States Attorney. A representative of the Federal Bureau of Prisons and a representative of the office of Corporation Counsel of the District of Columbia shall each serve as a nonvoting, ex officio member.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Vacancy. —</heading>
+      <text>Any vacancy in the Commission shall be filled in the same manner as the original appointment. Members of the Commission shall receive no compensation for their services, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of duties vested in the Commission, but not in excess of the maximum amounts authorized under section 456 of title 28, United States Code.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 740, Pub. L. 105-33, § 11211</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§24-101">24-101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-1211.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“This Act,” referred to in (a), is the National Capital Revitalization and Self-Government Improvement Act of 1997, title XI of Pub. L. 105-33, 111 Stat. 712.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|1|II"/>
+    <num codify:value="24-112">11212</num>
+    <heading>General duties, powers, and goals of Commission.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Recommendations. —</heading>
+      <text>The Commission shall, within 180 days after August 5, 1997, make recommendations to the District of Columbia Council for amendments to the District of Columbia Official Code with respect to the sentences to be imposed for all felonies committed on or after 3 years after August 5, 1997.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Contents of recommendations. —</heading>
+      <text>Such recommendations shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>As to all felonies described in subsection (h) of this section, meet the truth in sentencing standards of 20104(a)(1) of the Violent Crime Control and Law Enforcement Act of 1994 [42 U.S.C. § 13704(a)(1)];</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>As to all felonies ensure that;</text>
+        <para>
+          <num>(A)</num>
+          <text>An offender will have a sentence imposed that:</text>
+          <para>
+            <num>(i)</num>
+            <text>Reflects the seriousness of the offense and the criminal history of the offender; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Provides for just punishment, affords adequate deterrence to potential future criminal conduct of the offender and others, and provides the offender with needed educational or vocational training, medical care, and other correctional treatment;</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Good time shall be calculated pursuant to section 3624 of title 18, United States Code; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>An adequate period of supervision will be imposed to follow release from the imprisonment.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Death penalty. —</heading>
+      <text>The Commission shall not have the power to recommend a sentence of death for any offense nor for any offense a term of imprisonment less than that prescribed by the D.C. Official Code as a mandatory minimum sentence.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Other features of recommendations. —</heading>
+      <text>The Commission shall ensure that its recommendations:</text>
+      <para>
+        <num>(1)</num>
+        <text>Will be neutral as to the race, sex, marital status, ethnic origin, religious affiliation, national origin, creed, socioeconomic status, sexual orientation, and gender identity or expression (as defined in § <cite path="§2-1401.02">2-1401.02</cite>(12A)) of offenders;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Will include provisions designed to maximize the effectiveness of the drug court of the Superior Court of the District of Columbia; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Will be fully consistent with all other provisions of this act, including provisions relating to the administration of probation, parole, and supervised release for District of Columbia Official Code offenders.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Vote; termination. —</heading>
+      <text>The recommendations of the Commission required under subsections (a) through (d) of this section shall be adopted by a vote of not less than 6 of the members and when made shall be transmitted forthwith to the District of Columbia Council. The Commission shall cease to exist 90 days after the transmittal of recommendations to the Council or on the last date on which timely recommendations may be made if the Commission is unable to agree on such recommendations.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <heading>Recommendations for implementation. —</heading>
+      <text>In fulfilling its responsibilities, the Commission may adopt by a vote of not less than 6 of the members and transmit to the  Superior Court of the District of Columbia recommended rules and principles for determining the sentence to be imposed, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Whether to impose a sentence of probation, a term of imprisonment and/or a fine, and the amount or length thereof, and including intermediate sanctions in appropriate cases; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Whether multiple sentences of terms of imprisonment should run concurrently or consecutively.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <heading>Powers. —</heading>
+      <text>The Commission is authorized:</text>
+      <para>
+        <num>(1)</num>
+        <text>To hold hearings and call witnesses that might assist the Commission in the exercise of its powers;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To perform such other functions as may be necessary to carry out the purposes of this section; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Except as otherwise provided, to conduct business, exercise powers, and fulfill duties by the vote of a majority of the members present at any meeting.</text>
+      </para>
+    </para>
+    <para>
+      <num>(h)</num>
+      <heading>Felonies described. —</heading>
+      <text>The felonies described in this subsection are violations of any of the following provisions of law:</text>
+      <para>
+        <num>(1)</num>
+        <text>The following provisions relating to arson:</text>
+        <para>
+          <num>(A)</num>
+          <text>Section 22-301.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Section 22-302.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The following provisions relating to felony assault:</text>
+        <para>
+          <num>(A)</num>
+          <text>Section 22-401.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Section 22-402.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Section 22-403.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Section 22-404.01.</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Section 22-405.</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Section 22-406.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Section 22-722 (relating to obstruction of justice).</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Section 22-1101 (relating to cruelty to children).</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Section 22-801 (relating to first degree burglary).</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Section 22-2001 (relating to kidnapping).</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The following provisions relating to murder and manslaughter:</text>
+        <para>
+          <num>(A)</num>
+          <text>Section 22-2101.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Section 22-2102.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Section 22-2103.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Section 22-2104.</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Section 22-2105.</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Section 22-2106.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Section 22-2601 (relating to prison breach).</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Section 22-2603 [see now § <cite path="§22-2632">22-2632</cite>].</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Section 22-2801 (relating to robbery).</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Section 22-2803 (relating to carjacking).</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Chapter 45 of Title 22.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>The following provisions relating to sex offenses:</text>
+        <para>
+          <num>(A)</num>
+          <text>Section 22-3002.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Section 22-3003.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Section 22-3004.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Section 22-3005.</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Section 22-3008.</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Section 22-3009.</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>Section 22-3010.</text>
+        </para>
+        <para>
+          <num>(H)</num>
+          <text>Section 22-3013.</text>
+        </para>
+        <para>
+          <num>(I)</num>
+          <text>Section 22-3014.</text>
+        </para>
+        <para>
+          <num>(J)</num>
+          <text>Section 22-3015.</text>
+        </para>
+        <para>
+          <num>(K)</num>
+          <text>Section 22-3016.</text>
+        </para>
+        <para>
+          <num>(L)</num>
+          <text>Section 22-3018.</text>
+        </para>
+        <para>
+          <num>(M)</num>
+          <text>Section 22-3020.</text>
+        </para>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Section 48-904.01 (relating to recidivist drug offenders), but only in the case of a second or subsequent violation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 741, Pub. L. 105-33, § 11212</annotation>
+        <annotation doc="D.C. Law 17-177">June 25, 2008, D.C. Law 17-177, § 13, 55 DCR 3696</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§3-104">3-104</cite>, § <cite path="§24-114">24-114</cite>, and § <cite path="§24-906">24-906</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-1212.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-177">D.C. Law 17-177</cite>, in subsec. (d)(1), substituted “sexual orientation, and gender identity or expression (as defined in § <cite path="§2-1401.02">2-1401.02</cite>(12A))” for “and sexual orientation”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“This Act,” referred to in this section, is the National Capital Revitalization and Self-Government Improvement Act of 1997, title XI of Pub. L. 105-33, 111 Stat. 712.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|1|II"/>
+    <num codify:value="24-113">11213</num>
+    <heading>Data collection.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Data for Attorney General. —</heading>
+      <text>The Commission, the Superior Court of the District of Columbia, the District of Columbia Department of Corrections, and other agencies as necessary shall provide to the Attorney General such data as are requested in furtherance of this Act.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Superior Court. —</heading>
+      <text>The Superior Court of the District of Columbia, in connection with defendants sentenced in such Court, shall provide to the Commission and the Attorney General such data as are requested for planning, statistical analysis or projecting future prison population levels.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 744, Pub. L. 105-33, § 11213</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-1213.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“This Act,” referred to in (a), is the National Capital Revitalization and Self-Government Improvement Act of 1997, title XI of Pub. L. 105-33, 111 Stat. 712.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|1|II"/>
+    <num codify:value="24-114">11214</num>
+    <heading>Enactment of amendments to District of Columbia Official Code.</heading>
+    <text>If, within 270 days after August 5, 1997, the Council of the District of Columbia has failed to amend the District of Columbia Official Code to enact in whole the recommendations of the Commission under this chapter, or if the Commission fails to make such recommendations within the deadline established under such section, the Attorney General (after consultation with the Commission) shall promulgate within 90 days amendments to the District of Columbia Official Code with respect to the sentences to be imposed for all offenses committed on or after 3 years after August 5, 1997. Such amendments shall be consistent with the standards of subsections (a) through (d) of § <cite path="§24-112">24-112</cite>. Such amendments shall take effect 30 days after the Attorney General transmits the recommendations to Congress.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 744, Pub. L. 105-33, § 11214</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-1214.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|1|III"/>
+    <num codify:value="24-131">11231</num>
+    <heading>Parole.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Paroling jurisdiction. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>Jurisdiction of Parole Commission to grant or deny parole and to impose conditions. —</heading>
+        <text>Not later than one year after August 5, 1997, the United States Parole Commission shall assume the jurisdiction and authority of the Board of Parole of the District of Columbia to grant and deny parole, and to impose conditions upon an order of parole, in the case of any imprisoned felon who is eligible for parole or reparole under the District of Columbia Code. The Parole Commission shall have exclusive authority to amend or supplement any regulation interpreting or implementing the parole laws of the District of Columbia with respect to felons, provided that the Commission adheres to the rulemaking procedures set forth in § 4218 [repealed] of title 18, United States Code.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Jurisdiction of Parole Commission to revoke parole or modify conditions. —</heading>
+        <text>On the date in which the Court Services and Offender Supervision Agency for the District of Columbia is established under § <cite path="§24-133">24-133</cite>, the United States Parole Commission shall assume any remaining powers, duties, and jurisdiction of the Board of Parole of the District of Columbia, including jurisdiction to revoke parole and to modify the conditions of parole, with respect to felons.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Jurisdiction of Superior Court. —</heading>
+        <text>On the date on which the Court Services and Offender Supervision Agency for the District of Columbia is established under § <cite path="§24-133">24-133</cite>, the Superior Court of the District of Columbia shall assume the jurisdiction and authority of the Board of Parole of the District of Columbia to grant, deny, and revoke parole, and to impose and modify conditions of parole, with respect to misdemeanants.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Abolition of the Board of Parole. —</heading>
+      <text>On the date on which the Court Services and Offender Supervision Agency for the District of Columbia is established under § <cite path="§24-133">24-133</cite>, the Board of Parole established in the District of Columbia Board of Parole Amendment Act of 1987 shall be abolished.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Rulemaking and legislative responsibility for parole matter. —</heading>
+      <text>The Parole Commission shall exercise the authority vested in it by this section pursuant to the parole laws and regulations of the District of Columbia, except that the Council of the District of Columbia and the Board of Parole of the District of Columbia may not revise any such laws or regulations (as in effect on August 5, 1997) without the concurrence of the Attorney General.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 745, Pub. L. 105-33, § 11231</annotation>
+        <annotation doc="Pub. L. 105-274">Oct. 21, 1998, 112 Stat. 2426, Pub. L. 105-274, § 7(c)(2)(A)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-1231.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>The “District of Columbia Board of Parole Amendment Act of 1987,” referred to in (b), is <cite doc="D.C. Law 7-103">D.C. Law 7-103</cite>,  34 DCR 8279, effective April 8, 1988.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|1|III"/>
+    <num codify:value="24-132">11232</num>
+    <heading>Pretrial services, parole, adult probation and offender supervision trustee.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Appointment and removal. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>Appointment. —</heading>
+        <text>The Attorney General, in consultation with the Chairman of the District of Columbia Financial Responsibility and Management Assistance Authority (hereafter in this section referred to as the “D.C. Control Board”) and the Mayor of the District of Columbia, shall appoint a Pretrial Services, Parole, Adult Probation and Offender Supervision Trustee, who shall be an independent officer of the government of the District of Columbia, to effectuate the reorganization and transition of functions and funding relating to pretrial services, defense services, parole, adult probation and offender supervision.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Removal. —</heading>
+        <text>The Trustee may be removed by the Mayor with the concurrence of the Attorney General. The Attorney General shall have the authority to remove the Trustee for misfeasance or malfeasance in office. At the request of the Trustee, the District of Columbia Financial Responsibility and Management Assistance Authority may exercise any of its powers and authorities on behalf of the Trustee.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Authority. —</heading>
+      <text>Beginning on the date of appointment, and continuing until the Court Services and Offender Supervision Agency for the District of Columbia is established under § <cite path="§24-133">24-133</cite>, the Trustee shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Have the authority to exercise all powers and functions authorized for the Director of the Court Services and Offender Supervision Agency for the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Have the authority to direct the actions of all agencies of the District of Columbia whose functions will be assumed by or within the Court Services and Offender Supervision Agency for the District of Columbia, and of the Board of Parole of the District of Columbia, including the authority to discharge or replace any officers or employees of these agencies;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Exercise financial oversight over all agencies of the District of Columbia whose functions will be assumed by or within the Court Services and Offender Supervision Agency for the District of Columbia, and over the Board of Parole of the District of Columbia, and allocate funds to these agencies as appropriated by Congress and allocated by the President;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Receive and transmit to the District of Columbia Pretrial Services Agency all funds appropriated for such agency; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Receive and transmit to the District of Columbia Public Defender Service all funds appropriated for such agency.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Compensation. —</heading>
+      <text>The Trustee shall be compensated at a rate not to exceed the basic pay payable for Level IV of the Executive Schedule. The Trustee may appoint and fix the pay of additional staff without regard to the provisions of the District of Columbia Official Code governing appointments and salaries, without regard to the provisions of Title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of Chapter 51 and subchapter III of Chapter 53 of Title 5, United States Code, relating to classification and General Schedule pay rates. Upon request of the Trustee, the head of any Federal department or agency may, on a reimbursable or nonreimbursable basis, provide services and/or detail any personnel of that department or agency to the Trusteeship to assist in carrying out its duties.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Procurement and judicial review. —</heading>
+      <text>The provisions of the District of Columbia Official Code governing procurement shall not apply to the Trustee. The Trustee may enter into such contracts as the Trustee considers appropriate to carry out the Trustee’s duties. The Trustee may seek judicial enforcement of the Trustee’s authority to carry out the Trustee’s duties.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Preservation of retirement and certain other rights of federal employee who becomes the Trustee or federal employees who become employed by the Trustee. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>In general. —</heading>
+        <text>A Federal employee who, within 3 days after separating from the  Federal Government, is appointed Trustee or becomes employed by the Trustee:</text>
+        <para>
+          <num>(A)</num>
+          <text>Shall be treated as an employee of the Federal Government for purposes of chapters 83, 84, 87, and 89 of Title 5 of the United States Code; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>If, after serving with the Trustee, such employee becomes reemployed by the Federal Government, shall be entitled to credit for the full period of such individual’s service with the Trustee, for purposes of determining the applicable leave accrual rate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Regulations. —</heading>
+        <text>The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out this subsection.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <heading>Treatment as Federal Employees. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>In general. —</heading>
+        <text>The Trustee and employees of the Trustee who are not  covered under subsection (e) of this section shall be treated as employees of  the Federal Government solely for purposes of the following provisions of   title 5, United States Code:</text>
+        <para>
+          <num>(A)</num>
+          <text>Chapter 83 (relating to retirement).</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Chapter 84 (relating to the Federal Employees’ Retirement System).</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Chapter 87 (relating to life insurance).</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Chapter 89 (relating to health insurance).</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Effective dates of coverage. —</heading>
+        <text>The effective dates of coverage of the  provisions of paragraph (1) of this subsection are as follows:</text>
+        <para>
+          <num>(A)</num>
+          <text>In the case of the Trustee and employees of the Office of the Trustee   and the Office of Adult Probation, August 5, 1997, or the date of   appointment, whichever is later.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>In the case of employees of the Office of Parole, October 11, 1998, or   the date of appointment, whichever is later.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>In the case of employees of the Pretrial Services Agency, January 3,   1999, or the date of appointment, whichever is later.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Rate of contributions. —</heading>
+        <text>The Trustee shall make contributions under the  provisions referred to in paragraph (1) of this subsection at the same rates  applicable to agencies of the Federal Government.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Regulations. —</heading>
+        <text>The Office of Personnel Management shall issue such regulations as are necessary to carry out this subsection.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <heading>Funding. —</heading>
+      <text>Funds available for operations of the Trustee shall be made available to the extent provided in appropriations acts to the Trustee, through the State Justice Institute. Funding requests shall be proposed by the Trustee to the President and Congress for each Fiscal Year.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <heading>Liability and litigation authority. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>Liability. —</heading>
+        <text>The District of Columbia shall defend any civil action or proceeding brought in any court or other official Federal, state, or municipal forum against the Trustee, or against the District of Columbia or its officers, employees, or agents, and shall assume any liability resulting from such an action or proceeding, if the action or proceeding arises from the:</text>
+        <para>
+          <num>(A)</num>
+          <text>Supervision of offenders on probation, parole, or supervised release;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Provision of pretrial services by the District of Columbia; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Activities of the District of Columbia Board of Parole.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Litigation. —</heading>
+        <para>
+          <num>(A)</num>
+          <heading>D.C. Attorney General. —</heading>
+          <text>Subject to subparagraph (B) of this paragraph, the Corporation Counsel of the District of Columbia shall provide litigation services to the Trustee, except that the Trustee may instead elect, either generally or in relation to particular cases or classes of cases, to hire necessary staff and personnel or enter into contracts for the provision of litigation services at the Trustee’s expense.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>U.S. Attorney General. —</heading>
+          <para>
+            <num>(i)</num>
+            <heading>In general. —</heading>
+            <text>Notwithstanding subparagraph (A) of this paragraph, with respect to any litigation involving the Trustee, the Attorney General may:</text>
+            <para>
+              <num>(I)</num>
+              <text>Direct the litigation of the Trustee, and of the District of Columbia on behalf of the Trustee; and</text>
+            </para>
+            <para>
+              <num>(II)</num>
+              <text>Provide on a reimbursable or nonreimbursable basis litigation services for the Trustee at the Trustee’s request or on the Attorney General’s own initiative.</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <heading>Approval of settlement. —</heading>
+            <text>With respect to any litigation involving the Trustee, the Trustee may not agree to any settlement involving any form of equitable relief without the approval of the Attorney General. The Trustee shall provide to the Attorney General such notice and reports concerning litigation as the Attorney General may direct.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <heading>Discretion. —</heading>
+            <text>Any decision to exercise any authority of the Attorney General under this paragraph shall be in the sole discretion of the Attorney General and shall not be reviewable in any court.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Limitations. —</heading>
+        <text>Nothing in this section shall be construed:</text>
+        <para>
+          <num>(A)</num>
+          <text>As a waiver of sovereign immunity, or as limiting any other defense or immunity that would otherwise be available to the United States, the District of Columbia, their agencies, officers, employees, or agents; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>To obligate the District of Columbia to represent or indemnify the Corrections Trustee or any officer, employee, or agent where the Trustee (or any person employed by or acting under the authority of the Trustee) acts beyond the scope of his authority.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(i)</num>
+      <heading>Certification. —</heading>
+      <text>The Court Services and Offender Supervision Agency for the District of Columbia shall assume its duties pursuant to § <cite path="§24-133">24-133</cite> when, within the period beginning one year after August 5, 1997 and ending three years after August 5, 1997, the Trustee certifies to the Attorney General and the Attorney General concurs that the Agency can carry out the functions described in § <cite path="§24-133">24-133</cite> and the United States Parole Commission can carry out the functions described in § <cite path="§24-133">24-133</cite>.</text>
+    </para>
+    <para>
+      <num>(j)</num>
+      <heading>Exercise of authority on behalf of Public Defender Service. —</heading>
+      <text>At the request of the Director of the District of Columbia Public Defender Service, the Trustee may exercise any of the powers and authorities of the Trustee on behalf of such Service in the same manner and to the same extent as the Trustee may exercise such powers and authorities in relation to any agency described in subsection (b) of this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 746, Pub. L. 105-33, § 11232</annotation>
+        <annotation doc="Pub. L. 105-274">Oct. 21, 1998, 112 Stat. 2425, Pub. L. 105-274, § 7(a)(1), (a)(4), (b), (c)(2)(B)</annotation>
+        <annotation doc="Pub. L. 106-522">Nov. 22, 2000, 114 Stat. 2440, Pub. L. 106-522, § 145(a)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-4001">22-4001</cite>, § <cite path="§24-134">24-134</cite>, § <cite path="§24-141">24-141</cite>, and § <cite path="§24-142">24-142</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-1232.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>Section 145(a) of Public Law 106-522 redesignated subsecs. (f) through (i) as subsecs. (g) through (j), respectively, and added subsec. (f), relating to the treatment of certain persons as federal employees.</annotation>
+        <annotation>Section 145(b) of Public Law 106-522 provided: “The amendment made by subsection (a) shall take effect as if included in the enactment of title XI of the Balanced Budget Act of 1997.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 166(b) of Public Law 106-113 provided:</text>
+        <text>AUTHORITY DURING TRANSITION TO FULL OPERATION OF AGENCY.—</text>
+        <text>“(1) AUTHORITY OF PRETRIAL SERVICES, PAROLE, ADULT PROBATION AND OFFENDER SUPERVISION TRUSTEE.— Notwithstanding section 11232(b)(1) of the National Capital Revitalization and Self-Government Improvement Act of 1997 ( D.C. Code, sec. 24-1232(b)(1)), the Pretrial Services, Parole, Adult Probation and Offender Supervision Trustee appointed under section 11232(a) of such Act (hereafter referred to as the ‘Trustee’) shall, in accordance with section 11232 of such Act, exercise the powers and functions of the Court Services and Offender Supervision Agency for the District of Columbia (hereafter referred to as the ‘Agency’) relating to sex offender registration (as granted to the Agency under any District of Columbia law) only upon the Trustee’s certification that the Trustee is able to assume such powers and functions.</text>
+        <text>“(2) AUTHORITY OF METROPOLITAN POLICE DEPARTMENT.— During the period that begins on the date of the enactment of the Sex Offender Registration Emergency Act of 1999 and ends on the date the Trustee makes the certification described in paragraph (1), the Metropolitan Police Department of the District of Columbia shall have the authority to carry out any powers and functions relating to sex offender registration that are granted to the Agency or to the Trustee under any District of Columbia law.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|1|III"/>
+    <num codify:value="24-133">11233</num>
+    <heading>Court Services and Offender Supervision Agency.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Establishment. —</heading>
+      <text>There is established within the executive branch of the Federal Government the Court Services and Offender Supervision Agency for the District of Columbia (hereafter in this section referred to as the “Agency”) which shall assumes [assume] its duties not less than one year or more than three years after August 5, 1997.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Director. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>Appointment and compensation. —</heading>
+        <text>The Agency shall be headed by a Director appointed by the President, by and with the advice and consent of the Senate, for a term of six years. The Director shall be compensated at the rate prescribed for Level IV of the Executive Schedule, and may be removed from office prior to the expiration of term only for neglect of duty, malfeasance in office, or other good cause shown.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Powers and duties of Director. —</heading>
+        <text>The Director shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Submit annual appropriation requests for the Agency to the Office of Management and Budget;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Determine, in consultation with the Chief Judge of the United States District Court for the District of Columbia, the Chief Judge of the Superior Court of the District of Columbia, and the Chairman of the United States Parole Commission, uniform supervision and reporting practices for the Agency;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Hire and supervise supervision officers and support staff for the Agency;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Direct the use of funds made available to the Agency;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Enter into such contracts, leases, and cooperative agreements as may be necessary for the performance of the Agency’s functions, including contracts for substance abuse and other treatment and rehabilitative programs;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Develop and operate intermediate sanctions and incentives programs for sentenced offenders;</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>Arrange for the supervision of District of Columbia offenders on parole, probation, and supervised release who seek to reside in jurisdictions outside the District of Columbia;</text>
+        </para>
+        <para>
+          <num>(H)</num>
+          <text>Carry out all functions which have heretofore been carried out by the Social Services Division of the Superior Court relating to supervision of adults subject to protection orders or provision of services for or related to such persons;</text>
+        </para>
+        <para>
+          <num>(I)</num>
+          <text>Arrange for the supervision of offenders on parole, probation, and supervised release from jurisdictions outside the District of Columbia who seek to reside in the District of Columbia; and</text>
+        </para>
+        <para>
+          <num>(J)</num>
+          <text>Have the authority to enter into agreements, including the Interstate Compact for Adult Offender Supervision, with any State or group of States in accordance with the Agency’s responsibilities under subparagraphs (G) and (I) of this paragraph.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Acceptance of gifts. —</heading>
+        <para>
+          <num>(A)</num>
+          <heading>Authority to accept gifts. —</heading>
+          <text>The Director may accept, solicit, and use on behalf of the Agency any monetary or nonmonetary gift, donation, bequest, or use of facilities, property, or services for the purpose of aiding or facilitating the work of the Agency.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Records. —</heading>
+          <text>The Director shall keep accurate and detailed records of the acceptance and use of any gifts under subparagraph (A) of this paragraph, and shall make such records available for audit and public inspection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Reimbursement from District government. —</heading>
+        <text>The Director may accept and use reimbursement from the District government for space and services provided, on a cost reimbursable basis.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Functions. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>In general. —</heading>
+        <text>The Agency shall provide supervision, through qualified supervision officers, for offenders on probation, parole, and supervised release pursuant to the District of Columbia Official Code. The Agency shall carry out its responsibilities on behalf of the court or agency having jurisdiction over the offender being supervised.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Supervision of released offenders. —</heading>
+        <text>The Agency shall supervise any offender who is released from imprisonment for any term of supervised release imposed by the Superior Court of the District of Columbia. Such offender shall be subject to the authority of the United States Parole Commission until completion of the term of supervised release. The United States Parole Commission shall have and exercise the same authority as is vested in the United States district courts by paragraphs (d) through (i) of § 3583 of title 18, United States Code, except that:</text>
+        <para>
+          <num>(A)</num>
+          <text>The procedures followed by the Commission in exercising such authority shall be those set forth in chapter 311 [repealed] of title 18, United States Code; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>An extension of a term of supervised release under subsection (e)(2) of § 3583 may only be ordered by the Superior Court upon motion from the Commission.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Supervision of probationers. —</heading>
+        <text>Subject to appropriations and program availability, the Agency shall supervise all offenders placed on probation by the Superior Court of the District of Columbia. The Agency shall carry out the conditions of release imposed by the Superior Court (including conditions that probationers undergo training, education, therapy, counseling, drug testing, or drug treatment), and shall make such reports to the Superior Court with respect to an individual on probation as the Superior Court may require.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Supervision of District of Columbia parolees. —</heading>
+        <text>The Agency shall supervise all individuals on parole pursuant to the District of Columbia Official Code. The Agency shall carry out the conditions of release imposed by the United States Parole Commission or, with respect to a misdemeanant, by the Superior Court of the District of Columbia, and shall make such reports to the Commission or Court with respect to an individual on parole supervision as the Commission or Court may require.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <heading>Sex offender registration. —</heading>
+        <text>The Agency shall carry out sex offender registration functions in the District of Columbia, and shall have the authority to exercise all powers and functions relating to sex offender registration that are granted to the Agency under any District of Columbia law.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Authority of officers. —</heading>
+      <text>The supervision officers of the Agency shall have and exercise the same powers and authority as are granted by law to United States Probation and Pretrial Officers.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Pretrial Services Agency. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>Independent entity. —</heading>
+        <text>The District of Columbia Pretrial Services Agency established by subchapter I of Chapter 13 of Title 23, District of Columbia Official Code, shall function as an independent entity within the Agency.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Submission on behalf of Pretrial Services. —</heading>
+        <text>The Director of the Agency shall submit, on behalf of the District of Columbia Pretrial Services Agency and with the approval of the Director of the Pretrial Services Agency, an annual appropriation request to the Office of Management and Budget. Such request shall be separate from the request submitted for the Agency.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Liability of District of Columbia. —</heading>
+        <text>The District of Columbia shall defend any civil action or proceeding brought in any court or other official Federal, state, or municipal forum against the District of Columbia Pretrial Services Agency or the District of Columbia or its officers, employees, or agents, and shall assume any liability resulting from such an action or proceeding, if the action or proceeding arises from the activities of the District of Columbia Pretrial Services Agency prior to the date on which the Offender Supervision, Defender and Courts Services Agency assumes its duties.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Litigation. —</heading>
+        <para>
+          <num>(A)</num>
+          <heading>Attorney General for the District of Columbia. —</heading>
+          <text>Subject to subparagraph (B) of this paragraph, the Attorney General for the District of Columbia shall provide litigation services to the District of Columbia Pretrial Services Agency, except that the District of Columbia Pretrial Services Agency may instead elect, either generally or in relation to particular cases or classes of cases, to hire necessary staff and personnel or enter into contracts for the provision of litigation services at such agency’s expense.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Attorney General. —</heading>
+          <para>
+            <num>(i)</num>
+            <heading>In general. —</heading>
+            <text>Notwithstanding subparagraph (A) of this paragraph, with respect to any litigation involving the District of Columbia Pretrial Services Agency, the Attorney General may:</text>
+            <para>
+              <num>(I)</num>
+              <text>Direct the litigation of the agency, and of the District of Columbia on behalf of the agency; and</text>
+            </para>
+            <para>
+              <num>(II)</num>
+              <text>Provide on a reimbursable or non-reimbursable basis litigation services for the agency at the agency’s request or on the Attorney General’s own initiative.</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <heading>Approval of settlement. —</heading>
+            <text>With respect to any litigation involving the District of Columbia Pretrial Services Agency, the agency may not agree to any settlement involving any form of equitable relief without the approval of the Attorney General. The agency shall provide to the Attorney General such notice and reports concerning litigation as the Attorney General may direct.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <heading>Discretion. —</heading>
+            <text>Any decision to exercise any authority of the Attorney General under this paragraph shall be in the sole discretion of the Attorney General and shall not be reviewable in any court.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <heading>Authority to use services of volunteers. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>In general. —</heading>
+        <text>The Agency (including any independent entity within the Agency) may accept the services of volunteers and provide for their incidental expenses to carry out any activity of the Agency except policy-making.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Applicability of worker’s compensation rules to volunteers. —</heading>
+        <text>Any volunteer whose services are accepted pursuant to this subsection shall be considered an employee of the United States Government in providing the services for purposes of chapter 81 of title 5, United States Code (relating to compensation for work injuries) and chapter 11 of title 18, United States Code, relating to corruption and conflicts of interest.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 748, Pub. L. 105-33, § 11233</annotation>
+        <annotation doc="Pub. L. 105-274">Oct. 21, 1998, 112 Stat. 2425, Pub. L. 105-274, § 7(a)(2), (c)(1), (e)(2)(C)</annotation>
+        <annotation doc="Pub. L. 105-277">Oct. 21, 1998, 112 Stat. 2681-147, Pub. L. 105-277, § 158(a)</annotation>
+        <annotation doc="Pub. L. 106-113">Nov. 29, 1999, 113 Stat. 1530, Pub. L. 106-113, § 166(a)</annotation>
+        <annotation doc="Pub. L. 107-302">Nov. 26, 2002, 116 Stat. 2353, Pub. L. 107-302, § 2</annotation>
+        <annotation doc="Pub. L. 109-356">Oct. 16, 2006, 120 Stat. 2026, 2039, Pub. L. 109-356, §§ 115, 301(a)</annotation>
+        <annotation doc="Pub. L. 110-161">Dec. 26, 2007, 121 Stat. 2042, Pub. L. 110-161, § 825(b)</annotation>
+        <annotation doc="Pub. L. 114-118">Jan. 28, 2016, 130 Stat. 13, Pub. L. 114-118, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-527.01">1-527.01</cite>, § <cite path="§11-1722">11-1722</cite>, § <cite path="§22-4001">22-4001</cite>, § <cite path="§24-131">24-131</cite>, and § <cite path="§24-132">24-132</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-1233.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>Section 166(a) of Public Law 106-113 added par. (c)(5) relating to sex offender registration.</annotation>
+        <annotation>Public Law 107-302 rewrote subpar. (G) of subsec. (b)(2); made nonsubstantive changes in subpar. (H) of subsec. (b)(2); and added subpars. (I) and (J) to subsec. (b)(2). Prior to amendment, subpar. (G) of subsec. (b)(2) had read as follows: “G) Arrange for the supervision of District of Columbia paroled offenders in jurisdictions outside the District of Columbia; and”.</annotation>
+        <annotation>Pub. L. 109-356 added subsecs. (b)(3), (b)(4), and (g).</annotation>
+        <annotation>Pub. L. 110-161 repealed subsec. (f) which had read as follows: “(f) Receipt and transmittal of appropriations for Public Defender Service.—The Director of the Agency shall receive and transmit to the District of Columbia Public Defender Service all funds appropriated for such agency.”</annotation>
+        <annotation>The 2016 amendment by Pub. L. 114-118 added “and incentives” in (b)(2)(F); rewrote (b)(3)(A); and deleted “During fiscal years 2006 through 2008” from the beginning of (b)(4).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 825(c) of Pub. L. 110-161 provided that amendments made by this section shall apply with respect to fiscal year 2008 and each succeeding fiscal year.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Retirement election for certain former employees of the District of Columbia: Section 3 of Pub. L. 105-274, 112 Stat. 2423, provided:</text>
+        <text>(a) In general—Notwithstanding any provision of the District of Columbia Code, or of chapter 83 or chapter 84 of title 5, United States Code, a former employee of the District of Columbia who is hired by the Department of Justice, or by the agency established by section 11233(a) of the Balanced Budget Act of 1997 (hereafter in this section referred to as the “Agency”), on or after August 5, 1997, may elect, within 60 days after the issuance of regulations pursuant to subsection (c), or within 60 days of being hired, if later, to be covered by the retirement system of the District of Columbia under which the person was most recently covered. No election under this subsection may be made by a person who is hired more than one year after the date on which the Lorton Correctional Complex is closed, or more than one year after the date on which the Agency assumes its duties, whichever is later.</text>
+        <text>(b) Period of election—The election authorized by subsection (a) shall remain in force until the employee is no longer employed by the agency in which her or she was employed at the time the election was made.</text>
+        <text>(c) Regulations—The election authorized by subsection (a) shall be in accordance with regulations issued by the Office of Personnel Management after consulting with the Department of Justice, the Agency, and the government of the District of Columbia. The government of the District of Columbia shall administer the retirement coverage for any employee making such an election.</text>
+        <text>Leave for certain former employees of the District of Columbia: Section 4 of Pub. L. 105-274, 112 Stat. 2423, provide: (a) In general—Notwithstanding any provision of law, a former employee of the District of Columbia who is hired by the Department of Justice, or by the agency established by section 11233(a) of the Balanced Budget Act of 1997 (hereafter in this section referred to as the “Agency”), on or after August 5, 1997, shall — (1) in determining the rate of accrual of annual leave under  section 6303 of title 5, United States Code, be entitled to credit for service as an employee of the District of Columbia; (2) to the extent that the employee has not used or otherwise been compensated for annual leave accrued as an employee of the District of Columbia, have all such accrued annual leave transferred, in accordance with the procedures established under  section 6308 of title 5, United States Code, to the credit of the employee in the new employing agency; and. (3) to the extent the employee has not used or otherwise been compensated for sick leave accrued as an employee of the District of Columbia, have all such accrued sick leave transferred, in accordance with the procedures established under  section 6308 of title 5, United States Code, to the credit of the employee in the new employing agency. (b) Termination—Subsection (a) is not applicable to any former employee of the District of Columbia who is hired by the Department of Justice or the Agency more than one year after the date on which the Lorton Correctional Complex is closed, or more than one year after the date on which the Agency assumes its duties, whichever is later.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|1|III"/>
+    <num codify:value="24-134">11234</num>
+    <heading>Authorization of appropriations.</heading>
+    <text>There are authorized to be appropriated in each fiscal year such sums as may be necessary for the following:</text>
+    <para>
+      <num>(1)</num>
+      <text>District of Columbia Pretrial Services Agency.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Supervision of offenders on probation, parole, or supervised release for offenses under the District of Columbia Official Code.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Operation of the parole system for offenders convicted of offenses under the District of Columbia Official Code.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Operation of the Trusteeship described in § <cite path="§24-132">24-132</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 751, Pub. L. 105-33, § 11234</annotation>
+        <annotation doc="Pub. L. 105-274">Oct. 21, 1998, 112 Stat. 2425, Pub. L. 105-274, §§ 6(b)(2), 7(a)(3)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-1234.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|1|IV"/>
+    <num codify:value="24-142">11282</num>
+    <heading>Exemption from personnel and budget ceilings for Trustees and related agencies.</heading>
+    <text>The Trustees described in §§ <cite path="§24-102">24-102</cite> and <cite path="§24-132">24-132</cite> and the activities and personnel of, and the funds allocated or otherwise available to, the Trustees and the agencies over which the Trustees exercise financial oversight pursuant to those sections, shall not be subject to any general personnel or budget limitations which otherwise apply to the District of Columbia government or its agencies in any appropriations act.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 763, Pub. L. 105-33, § 11282</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-1242.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 11721 of title XI of Pub. L. 105-33, 111 Stat. 786, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that except as otherwise provided in this title, the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995, as amended by this title.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|I"/>
+    <num codify:value="1-109">11723</num>
+    <heading>Liability.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>District of Columbia. —</heading>
+      <text>The District of Columbia shall defend any civil action or proceeding pending on August 5, 1997 in any court or other official municipal, state, or federal forum against the District of Columbia or its officers, employees, or agents, and shall assume any liability resulting from such an action or proceeding.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>State Justice Institute. —</heading>
+      <text>The State Justice Institute shall not be liable for damages or equitable relief on the basis of the activities or operations of any federal or District of Columbia agency which receives funds through the State Justice Institute pursuant to this title.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>United States. —</heading>
+      <text>The United States, its officers, employees, and agents, and its  agencies shall not:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be responsible for the payment of any judgments, liabilities or costs resulting from any action or proceeding against the District of Columbia or its agencies, officers, employees, or agents;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be subject to liability in any case on the basis of the activities of the District of Columbia or its agencies, officers, employees, or agents; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be subject to liability in any case under section 1979 of the Revised Statutes (42 U.S.C. § 1983).</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Limitations. —</heading>
+      <text>Nothing in this section shall be construed as a waiver of sovereign immunity, or as limiting any other defense or immunity that would otherwise be available to the United States, the District of Columbia, their agencies, officers, employees, or agents.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 786, Pub. L. 105-33, § 11723</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-109.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 11721 of Title XI of Pub. L. 105-33, 111 Stat. 786, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that except as otherwise provided in this title, the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995, as amended by this title.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“This title”, referred to in subsection (b) of this section, is Title XI of Public Law 105-33.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|5|I"/>
+    <reason>Expired</reason>
+    <num codify:value="1-508">11722</num>
+    <heading>Technical assistance.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 786, Pub. L. 105-33, § 11722</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Merit system, effective date provisions, see § <cite path="§1-636.02">1-636.02</cite></annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-517.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 11721 of Title XI of Pub. L. 105-33, 111 Stat. 786, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that except as otherwise provided in this title, the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995, as amended by this title.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Pursuant to § 11722 of Pub. L. 105-33, this section expired effective August 6, 2000.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|I"/>
+    <num codify:value="1-801.01">11002</num>
+    <heading>Findings and declaration of policy.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Findings. —</heading>
+      <text>The Congress finds that:</text>
+      <para>
+        <num>(1)</num>
+        <text>State and municipal retirement programs should be funded on an actuarially sound basis;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The retirement programs for the police officers and firefighters, teachers and judges of the District of Columbia had significant unfunded liabilities totaling approximately $1,900,000,000 when the Federal government transferred those programs to the District of Columbia, and those liabilities have since increased to nearly $4,800,000,000, an increase which is almost entirely attributable to the accumulation of interest on the value which existed at the time of transfer;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The District of Columbia has fully met its financial obligations under the District of Columbia Retirement Reform Act of 1979 (Public Law 96-122);</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The growth of the unfunded liabilities of the three pension funds listed above did not occur because of any action taken or any failure to act that lay within the power of the District of Columbia government or the District of Columbia Retirement Board;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The presence of the unfunded pension liability is having and will continue to have a negative impact on the District of Columbia’s credit rating as it is a legal obligation and the total unfunded liability exceeds the total General Obligation debt of the District, and the costs associated with this liability are a contributing cause of the District’s ongoing financial crisis;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The obligations of the District associated with these pension programs in fiscal year 1997 represents nearly 10 percent of the District’s revenue;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The annual Federal contribution toward these costs under the District of Columbia Retirement Reform Act has remained $52,000,000;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>If the unfunded pension liability situation is not resolved, in 2004 the District of Columbia would be responsible for annual costs exceeding $800,000,000, a figure which would be impossible to meet without catastrophic impact on the District government’s resources and programs;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The financial resources of the District of Columbia are not adequate to discharge the unfunded liabilities of the retirement programs; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>The level of benefits and funding of the current retirement programs were authorized by various Acts of Congress.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Policy. —</heading>
+      <text>It is the policy of this chapter:</text>
+      <para>
+        <num>(1)</num>
+        <text>To relieve the District of Columbia government of the responsibility for the unfunded pension liabilities transferred to it by the Federal government;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the Federal government to assume the legal responsibility for paying certain pension benefits (including certain unfunded pension liabilities which existed as of the day prior to introduction of this legislation) for the retirement plans of teachers, police, and firefighters;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To provide for a responsible Federal system for payment of benefits accrued prior to the date of introduction of this legislation; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To require the establishment of replacement plans by the District of Columbia government for the current retirement plans for teachers, and police and firefighters.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 715, Pub. L. 105-33, § 11002</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Retirement Board and funds, establishment, Board to continue duties under retirement program after enactment of this chapter, see § <cite path="§1-711">1-711</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-761.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>District of Columbia Retirement Protection Act of 1997: Section 11001 of subtitle A of Title XI of Pub. L. 105-33, 111 Stat. 715, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that subtitle A may be cited as the “District of Columbia Retirement Protection Act of 1997.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 11721 of Title XI of Pub. L. 105-33, 111 Stat. 786, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that except as otherwise provided in this title, the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995, as amended by this title.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|I"/>
+    <num codify:value="1-801.02">11003</num>
+    <heading>Definitions.</heading>
+    <text>For purposes of this chapter, the following definitions shall apply:</text>
+    <para>
+      <num>(1)</num>
+      <text>The term “contract” means the contract under § <cite path="§1-807.05">1-807.05</cite> between the Secretary and the Trustee, and includes any agreement with a department, agency, or instrumentality of the United States entered into under that section.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The term “covered District employee” means a teacher of the District of Columbia public schools, or a member of the Metropolitan Police Force or the Fire Department of the District of Columbia, as defined under the District Retirement Program.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The term “D.C. Federal Pension Fund” means the District of Columbia Teachers, Police Officers, and Firefighters Federal Pension Fund established under § <cite path="§1-817.01">1-817.01</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The term “District Government” means any entity treated as part of the District government under § <cite path="§47-393">47-393</cite>(5), including the District of Columbia Retirement Board (as defined in § <cite path="§1-702">1-702</cite>(5)).</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The term “District Retirement Fund” means the District of Columbia Police Officers and Fire Fighters Retirement Fund and the District of Columbia Teachers Retirement Fund, as defined in the Reform Act.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The term “District Retirement Program” means any of the retirement programs for teachers and members of the Metropolitan Police Force and Fire Department, as described in § <cite path="§1-702">1-702</cite>(7)  as in effect on the day before the freeze date (except as provided under § <cite path="§1-803.02">1-803.02</cite>(e) and (f) and as amended by § 11013 of the District of Columbia Retirement Protection Act of 1997).</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The term “enrolled actuary” means the enrolled actuary engaged by the Trustee under § <cite path="§1-813.01">1-813.01</cite>(a).</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>The term “Federal benefit payment” means a payment described in § <cite path="§1-803.02">1-803.02</cite>.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>The term “Federal Supplemental Fund” means the Federal Supplemental District of Columbia Pension Fund created under § <cite path="§1-811.01">1-811.01</cite>.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>The term “freeze date” means June 30, 1997.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>The term “person” means an individual; partnership; joint venture; corporation; mutual company; joint-stock company; trust; estate; unincorporated organization; association; employee organization; or department, agency, or instrumentality of the United States.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>The term “Reform Act” means the District of Columbia Retirement Reform Act (Public Law 96-122).</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>The term “replacement plan” means the plan described in § <cite path="§1-809.02">1-809.02</cite>.</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>The term “replacement plan adoption date” means the date upon which the legislation establishing the replacement plan becomes effective, or the first day after the expiration of the 1-year period which begins on August 5, 1997, whichever occurs first.</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>The term “Trust Fund” means the District of Columbia Federal Pension Liability Trust Fund established under § <cite path="§1-807.01">1-807.01</cite>.</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>The term “Secretary” means the Secretary of the Treasury or the Secretary’s designee.</text>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>The term “Trustee” means the person or persons selected by the Secretary under § <cite path="§1-807.05">1-807.05</cite>, or, beginning October 1, 2004, the Pension Fund Trustee selected by the Secretary under § <cite path="§1-817.05">1-817.05</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 716, Pub. L. 105-33, § 11003</annotation>
+        <annotation doc="Pub. L. 105-277">Oct. 21, 1998, 112 Stat. 2681-530, Pub. L. 105-277, § 801(a)</annotation>
+        <annotation doc="Pub. L. 106-554">Dec. 21, 2000, 114 Stat. 2763, Pub. L. 106-554, § 1(a)(4), H.R. 5666 § 908(b)</annotation>
+        <annotation doc="Pub. L. 108-133">Nov. 22, 2003, 117 Stat. 1387, Pub. L. 108-133, § 3(b)</annotation>
+        <annotation doc="Pub. L. 108-489">Dec. 23, 2004, 118 Stat. 3969, Pub. L. 108-489, § 2(c)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-761.2.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>Pub. L. 106-554, in par. (5), inserted “provided under § <cite path="§1-803.02">1-803.02</cite>(e) and as” following “(except as”.</annotation>
+        <annotation>Pub. L. 108-113, in par. (5), inserted “and (f)” following “§ <cite path="§1-803.02">1-803.02</cite>(e)”.</annotation>
+        <annotation>Pub. L. 108-489, in par. (16), inserted “, or, beginning October 1, 2004, the Pension Fund Trustee selected by the Secretary under § <cite path="§1-817.05">1-817.05</cite>” before the period; redesignated pars. (3) through (16) as pars. (4) through (17); and inserted a new par.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 908(c) of Title IX of H.R. 5666, incorporated by reference by Public Law 106-554 stated that the amendments made by section 908 shall apply with respect to federal benefit payments made after December 21, 2000.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|II"/>
+    <num codify:value="1-803.01">11011</num>
+    <heading>Obligation of federal government to make benefit payments.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>In accordance with the provisions of this chapter, the Federal Government shall make Federal benefit payments associated with the pension plans for police officers, firefighters, and teachers of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>No reversion of federal responsibility to District. —</heading>
+      <text>At no point after the effective date of this chapter may the responsibility or any part thereof assigned to the federal Government under subsection (a) of this section for making Federal benefit payments revert to the District of Columbia.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 717, Pub. L. 105-33, § 11011</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Police Officers, Fire Fighters, and Teachers Retirement Benefit Replacement Plan, trust assets transfer by the Police Officers and Fire Fighters’ Retirement Fund, the Teachers’ Retirement Fund, and the Judges’ Retirement Fund, interim federal benefit payments, see § <cite path="§1-903.05">1-903.05</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-903.05">1-903.05</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-762.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Reference to New Federal Program for Retirement of Judges of D.C. Courts: Sees 11085 of Title XI of Pub. L. 105-33, 111 Stat. 730,.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|II"/>
+    <num codify:value="1-803.02">11012</num>
+    <heading>Federal benefit payments described.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>Subject to the succeeding provisions of this chapter, a “Federal benefit payment” is any benefit payment to which an individual is entitled under a District Retirement Program, in such amount and under such terms and conditions as may apply under such Program.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Treatment of service occurring after freeze date. —</heading>
+      <text>Service after the freeze date shall not be credited for purposes of determining the amount of any Federal benefit payment. Nothing in this subsection shall be construed to affect the crediting of such service for any other purpose under the District Retirement Program.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Special rule regarding disability benefits. —</heading>
+      <text>To the extent that any portion of a benefit payment to which an individual is entitled under a District Retirement Program is based on a determination of disability made by the District Government or the Trustee after the freeze date, the Federal benefit payment determined with respect to the individual shall be an amount equal to the deferred retirement benefit or normal retirement benefit the individual would receive if the individual left service on the day before the commencement of disability retirement benefits.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Special rule regarding certain death benefits. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>In general. —</heading>
+        <text>In the case of a benefit payment to which an individual is entitled under a District Retirement Program which is payable on the death of a covered District employee or former covered District employee and which is not determined by the length of service of the employee or former employee, the Federal benefit payment determined with respect to the individual shall be equal to the pre-freeze date percentage of the amount otherwise payable.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Pre-freeze date percentage defined. —</heading>
+        <text>In paragraph (1) of this subsection, the “pre-freeze date percentage” with respect to a covered District employee or former covered District employee is the amount (expressed as a percentage) equal to the quotient of:</text>
+        <para>
+          <num>(A)</num>
+          <text>The number of months of the covered District employee’s or former covered District employee’s service prior to the freeze date; divided by</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The total number of months of the covered District employee’s or former covered District employee’s service.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Treatment of increases in certain police service longevity payments. —</heading>
+      <text>For purposes of subsection (a) of this section, in determining the amount of a Federal benefit payment made to an officer or member of the Metropolitan Police Department, the benefit payment to which the officer or member is entitled under the District Retirement Program shall include any amounts which would have been included in the benefit payment under such Program if the amendments made by the Police Recruiting and Retention Enhancement Amendment Act of 1999 (<cite doc="D.C. Law 13-101">D.C. Law 13-101</cite>) had taken effect prior to the freeze date. The Secretary of the Treasury is authorized to estimate the additional compensation for service longevity for purposes of determining the amount of a federal benefit payment for annuitants who retire on or after August 29, 1972, and on or before December 31, 2001, and to make federal benefit payments based upon such estimates.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <heading>Treatment of military service credit purchased by certain police and fire retirees. —</heading>
+      <text>For purposes of subsection (a) of this section, in determining the amount of a Federal benefit payment made to an officer or member, the benefit payment to which the officer or member is entitled under the District Retirement Program shall include any amounts which would have been included in the benefit payment under such Program if the amendments made by the District of Columbia Military Retirement Equity Act of 2003 had taken effect prior to the freeze date.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 718, Pub. L. 105-33, § 11012</annotation>
+        <annotation doc="Pub. L. 105-277">Oct. 21, 1998, 112 Stat. 2681-531, Pub. L. 105-277, § 801(g)(1)</annotation>
+        <annotation doc="Pub. L. 106-554">Dec. 21, 2000, 114 Stat. 2763, Pub. L. 106-554, § 1(a)(4) H.R. 5666 § 908(a)</annotation>
+        <annotation doc="Pub. L. 107-290">Nov. 7, 2002, 116 Stat. 2051, Pub. L. 107-290, § 1</annotation>
+        <annotation doc="Pub. L. 108-133">Nov. 22, 2003, 117 Stat. 1387, Pub. L. 108-133, § 3(a)</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 6, 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-801.02">1-801.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-762.2.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>Pub. L. 106-554 added subsec. (e).</annotation>
+        <annotation>Pub. L. 107-290, in subsec. (e), added the last sentence.</annotation>
+        <annotation>Pub. L. 108-133 added subsec. (f)</annotation>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in subsec. (f), validated a previously made technical correction.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 908(c) of Title IX of H.R. 5666, incorporated by reference by Public Law 106-554 stated that the amendments made by section 908 shall apply with respect to federal benefit payments made after December 21, 2000.</annotation>
+        <annotation>Section 2 of Public Law 107-290 stated that the amendment made by section 1 shall take effect as if included in the enactment of title IX of division A of the Miscellaneous Appropriations Act, 2001 (as enacted by reference in section 1(a)(4) of the Consolidated Appropriations Act, 2001) (Public Law 106-554).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>The District of Columbia Military Retirement Equity Act of 2003, referred to in subsec. (f), is Pub. L. 108-133, 117 Stat. 1386.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|III"/>
+    <num codify:value="1-805.01">11021</num>
+    <heading>Determination of eligibility for and amount of Federal benefit payments made by Trustee.</heading>
+    <text>Notwithstanding any provision of a District Retirement Program or any other law, rule, or regulation, the Trustee:</text>
+    <para>
+      <num>(1)</num>
+      <text>Shall determine whether an individual is eligible to receive a Federal benefit payment under this chapter;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Shall determine the amount and form of an individual’s Federal benefit payment under this chapter; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>May recoup or recover, or waive recoupment or recovery of, any amounts paid under this chapter as a result of errors or omissions by the Trustee, the District Government, or any other person.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 720, Pub. L. 105-33, § 11021</annotation>
+        <annotation doc="Pub. L. 105-277">Oct. 21, 1998, 112 Stat. 2681-531, Pub. L. 105-277, § 801(b)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-763.1.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|III"/>
+    <num codify:value="1-805.02">11022</num>
+    <heading>Procedures for resolving claims arising from denied benefit payments.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Requiring notice and opportunity for review. —</heading>
+      <text>In accordance with procedures approved by the Secretary, the Trustee shall provide to any individual whose claim for a Federal benefit payment under this chapter has been denied in whole or in part:</text>
+      <para>
+        <num>(1)</num>
+        <text>Adequate written notice of such denial, setting forth the specific reasons for the denial in a manner calculated to be understood by the average participant in the District Retirement Program; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A reasonable opportunity for a full and fair review of the decision denying such claim.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Standard for review. —</heading>
+      <text>Any factual determination made by the Trustee shall be presumed correct unless rebutted by clear and convincing evidence. The Trustee’s interpretation and construction of the benefit provisions of the District Retirement Program and this chapter shall be entitled to great deference.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 720, Pub. L. 105-33, § 11022</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-763.2.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|III"/>
+    <num codify:value="1-805.03">11023</num>
+    <heading>Transfer of and access to records of District Government.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>Within 30 days after the Secretary or the Trustee requests, the District Government shall furnish copies of all records, documents, information, or data the Secretary or the Trustee deems necessary to carry out responsibilities under this chapter and the contract. Upon request, the District Government shall grant the Secretary or the Trustee direct access to such information systems, records, documents, information or data as the Secretary or Trustee requires to carry out responsibilities under this chapter or the contract.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Repayment by District Government. —</heading>
+      <text>The District Government shall reimburse the Trust Fund for all costs, including benefit costs, that are attributable to errors or omissions in the transferred records that are identified within 3 years after such records are transferred.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 721, Pub. L. 105-33, § 11023</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-817.06">1-817.06</cite> and § <cite path="§1-821.01">1-821.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-763.3.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|III"/>
+    <num codify:value="1-805.04">11024</num>
+    <heading>Federal information sharing for verification of benefit determinations.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>Except with respect to taxpayer returns and return information subject to § 6103 of the Internal Revenue Code of 1986, the Secretary may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Secure directly from any department or agency of the United States information necessary to enable the Secretary to verify or confirm benefit determinations under this chapter; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>By regulation authorize the Trustee to review such information for purposes of administering this chapter and the contract.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Omitted.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Confidentiality. —</heading>
+      <text>The Secretary may issue regulations governing the confidentiality of the information obtained pursuant to subsection (a) of this section and the provisions of law amended by § 11024(b) of the District of Columbia Retirement Protection Act of 1997.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 721, Pub. L. 105-33, § 11024</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-763.4.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <text>Section 6103 of the Internal Revenue Code of 1986, referred to in the introductory paragraph of (a), is  26 U.S.C § 6103.</text>
+        <text>Section 11024(b) of the District of Columbia Retirement Protection Act of 1997, referred to in (c), is § 11024(b) of subtitle A of Title XI of Pub. L. 105-33, 111 Stat. 715.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Amendments to Internal Revenue Code: For amendments to the Internal Revenue Code related to District of Columbia Retirement Programs, see § 11024(b) of Title XI of Pub. L. 105-33, 111 Stat. 721, the National Capital Revitalization and Self-Government Improvement Act of 1997.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|IV"/>
+    <num codify:value="1-807.01">11031</num>
+    <heading>Creation of Trust Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Establishment. —</heading>
+      <text>There is established on the books of the Treasury the District of Columbia Federal Pension Liability Trust Fund, consisting of the assets transferred pursuant to § <cite path="§1-807.03">1-807.03</cite> and any income earned on the investment of such assets pursuant to subsection (b) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Investment of assets. —</heading>
+      <text>The Trustee may invest the assets of the Trust Fund in private securities and any other form of investment deemed appropriate by the Secretary.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 723, Pub. L. 105-33, § 11031</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-801.02">1-801.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-764.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Payment of attorney fees: Section 130 of Pub. L. 105-277, 112 Stat. 2681-138, provided that “none of the funds contained in this Act may be made available to pay the fees of an attorney who represents a party who prevails in an action, including an administrative proceeding, brought against the District of Columbia Public Schools under the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.) if: (1) the hourly rate of compensation of the attorney exceeds the hourly rate of compensation under § <cite path="§11-2604">11-2604</cite>(a), or (2) the maximum amount of compensation of the attorney exceeds the maximum amount of compensation under § <cite path="§11-2604">11-2604</cite>(b)(1), except that compensation and reimbursement in excess of such maximum may be approved for extended or complex representation in accordance with § <cite path="§11-2604">11-2604</cite>(c).”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|IV"/>
+    <num codify:value="1-807.02">11032</num>
+    <heading>Uses of amounts in Trust Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>Amounts in the Trust Fund shall be used:</text>
+      <para>
+        <num>(1)</num>
+        <text>To make Federal benefit payments under this chapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to subsection (b)(1) of this section, to cover the reasonable and necessary expenses of administering the Trust Fund under the contract entered into pursuant to § <cite path="§1-807.05">1-807.05</cite>(b);</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To cover the reasonable and necessary administrative expenses incurred by the Secretary in carrying out the Secretary’s responsibilities under this chapter; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>For such other purposes as are specified in this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Special rules regarding administrative expenses. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>Budgeting; certification and approval. —</heading>
+        <text>The administrative expenses of the Trust Fund shall be paid in accordance with an annual budget set forth by the Trustee which shall be subject to certification and approval by the Secretary.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Use of District Retirement Fund for interim administration. —</heading>
+        <text>The Secretary is authorized to requisition from the District Retirement Fund such sums as are necessary to administer the Trust Fund (including expenses described in § <cite path="§1-809.01">1-809.01</cite>(b)) until assets are transferred to the Trust Fund pursuant to § <cite path="§1-807.03">1-807.03</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 723, Pub. L. 105-33, § 11032</annotation>
+        <annotation doc="Pub. L. 105-277">Oct. 21, 1998, 112 Stat. 2681-531, Pub. L. 105-277, § 801(c)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-821.01">1-821.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-764.2.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|IV"/>
+    <num codify:value="1-807.03">11033</num>
+    <heading>Transfer of assets and obligations of District Retirement Funds.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>As of the replacement plan adoption date, all obligations to make Federal benefit payments and all assets of the District Retirement Fund as of the replacement plan adoption date (except as provided in subsections (b) and (c) of this section) shall be transferred to the Trust Fund.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Designation of assets to be retained by District Retirement Fund. —</heading>
+      <text>The Secretary shall designate assets with a value of $1.275 billion that shall not be transferred from the District Retirement Fund under subsection (a) of this section. The Secretary’s designation and valuation of the assets shall be final and binding.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Exception for certain employee contributions. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>In general. —</heading>
+        <text>Subsection (a) of this section shall not apply to assets of the District Retirement Fund consisting of any employee contributions deducted and withheld after the freeze date or any interest thereon (computed at a rate and in a manner determined by the Secretary).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Employee contributions defined. —</heading>
+        <text>In paragraph (1) of this subsection, the term “employee contributions” means amounts deducted and withheld from the salaries of covered District employees and paid to the District Retirement Fund (and, in the case of teachers, amounts of additional deposits paid to the District Retirement Fund), pursuant to the District Retirement Program.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Responsibilities of District Government. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>In general. —</heading>
+        <text>The transfer of assets from the District Retirement Fund under   this section shall be made in accordance with the direction of the Secretary. The District Government shall promptly take all steps, and execute all documents, that the Secretary deems necessary to effect the transfer.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Final reconciliation of accounts. —</heading>
+        <text>As soon as practicable after the replacement plan adoption date, the District Government shall furnish the Trustee a final reconciliation of accounts in connection with the transfer of assets and obligations to the Trust Fund. The allocation of assets under this section shall be adjusted in accordance with this reconciliation.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Methodology for designating assets. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>In general. —</heading>
+        <text>In carrying out subsection (b), the Secretary may develop and implement a methodology for designating assets after the replacement plan adoption date that takes into account the value of the District Retirement Fund as of the replacement plan adoption date and the proportion of such value represented by $1.275 billion, together with the income (including returns on investments) earned on the assets of and withdrawals from and deposits to the Fund during the period between such date and the date on which the Secretary designates assets under subsection (b). In implementing a methodology under the previous sentence, the Secretary shall not be required to determine the value of designated assets as of the replacement plan adoption date. Nothing in this paragraph may be deemed to effect the entitlement of the District Retirement Fund to income (including returns on investments) earned after the replacement plan adoption date on assets designated for retention by the Fund.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Employee contributions; Judicial Retirement and Survivors Annuity Fund. —</heading>
+        <text>The Secretary may develop and implement a methodology comparable to the methodology described in paragraph (1) in carrying out the requirements of subsection (c) and in designating assets to be transferred to the District of Columbia Judicial Retirement and Survivors Annuity Fund pursuant to § <cite path="§1-714">1-714</cite>(c)(1).</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Discretion of the Secretary. —</heading>
+        <text>The Secretary’s development and implementation of methodologies for designating assets under this subsection shall be final and binding.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 723, Pub. L. 105-33, § 11033</annotation>
+        <annotation doc="Pub. L. 105-277">Oct. 21, 1998, 112 Stat. 2681-532, Pub. L. 105-277, §§ 801(g)(2), 803</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Police Officers and Fire Fighters’ Retirement Fund, funding from assets designated under this section, see § <cite path="§1-903.01">1-903.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-807.01">1-807.01</cite>, § <cite path="§1-807.02">1-807.02</cite>, § <cite path="§1-821.01">1-821.01</cite>, and § <cite path="§1-903.01">1-903.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-764.3.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|IV"/>
+    <num codify:value="1-807.04">11034</num>
+    <heading>Treatment of Trust Fund under certain laws.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Internal Revenue Code. —</heading>
+      <text>For purposes of the Internal Revenue Code of 1986:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Trust Fund shall be treated as a trust described in § 401(a) of the Code which is exempt from taxation under § 501(a) of the Code;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any transfer to or distribution from the Trust Fund shall be treated in the same manner as a transfer to or distribution from a trust described in § 401(a) of the Code; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The benefits provided by the Trust Fund shall be treated as benefits provided under a governmental plan maintained by the District of Columbia.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>ERISA. —</heading>
+      <text>For purposes of the Employee Retirement Income Security Act of 1974, the benefits provided by the Trust Fund shall be treated as benefits provided under a governmental plan maintained by the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Application of certain future amendments to Internal Revenue Code. —</heading>
+      <text>To the extent that any provision of subpart A of part I of subchapter D of chapter 1 of the Internal Revenue Code of 1986 (26 U.S.C. § 401 et seq.) is amended August 5, 1997, such provision as amended shall apply to the Trust Fund only to the extent the Secretary determines that application of the provision as amended is consistent with the administration of this chapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 724, Pub. L. 105-33, § 11034</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-817.06">1-817.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-764.4.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <text>Sections 401 and  501 of the Internal Revenue Code, referred to in (a), are codified as  26 U.S.C. §§ 401 and  501, respectively.</text>
+        <text>The “Employee Retirement Income Security Act of 1974,” referred to in (b), is codified as  29 U.S.C. § 1001 et seq.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|IV"/>
+    <num codify:value="1-807.05">11035</num>
+    <heading>Administration through Trustee.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>As soon as practicable after the enactment of this chapter, the Secretary shall select a Trustee to administer the Trust Fund and otherwise carry out the responsibilities and duties specified in this chapter in accordance with the contract described in subsection (b) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Contract. —</heading>
+      <text>The Secretary shall enter into a contract with the Trustee to provide for the management, investment, control and auditing of Trust Fund assets, the making of Federal benefit payments under this chapter from the Trust Fund, and such other matters as the Secretary deems appropriate. The Secretary shall enforce the provisions of the contract and otherwise monitor the administration of the Trust Fund.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Subcontracts. —</heading>
+      <text>Notwithstanding any provision of a District Retirement Program or any other law, rule, or regulation, the Trustee may, with the approval of the Secretary, enter into one or more subcontracts with the District Government or any person to provide services to the Trustee in connection with its performance of the contract. The Trustee shall monitor the performance of any such subcontract and enforce its provisions.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Determination by the Secretary. —</heading>
+      <text>Notwithstanding subsection (b) or any other provision of this chapter, the Secretary may determine, with respect to any function otherwise to be performed by the Trustee, that in the interest of economy and efficiency such function shall be performed by the Secretary rather than the Trustee.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Reports. —</heading>
+      <text>The Trustee shall report to the Secretary, in a form and manner and at such intervals as the Secretary may prescribe, on any matters or transactions relating to the Trust Fund, including financial matters, as the Secretary may require.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 724, Pub. L. 105-33, § 11035</annotation>
+        <annotation doc="Pub. L. 105-277">Oct. 21, 1998, 112 Stat. 2681-531, Pub. L. 105-277, § 801(d)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-801.02">1-801.02</cite> and § <cite path="§1-807.02">1-807.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-764.5.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|IV"/>
+    <num codify:value="1-807.06">11036</num>
+    <heading>Termination of Trust Fund.</heading>
+    <text>Effective upon the transfer of the obligations and assets of the Trust Fund to the D.C. Federal Pension Fund under § <cite path="§1-817.03">1-817.03</cite>:</text>
+    <para>
+      <num>(1)</num>
+      <text>The Trust Fund shall terminate; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The obligation to make Federal benefit payments from the Trust Fund, and any duty imposed on any person with respect to the Trust Fund, shall terminate.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 724, Pub. L. 105-33, § 11036</annotation>
+        <annotation doc="Pub. L. 108-489">as added Dec. 23, 2004, 118 Stat. 3969, Pub. L. 108-489, § 2(b)(1)</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|V"/>
+    <num codify:value="1-809.01">11041</num>
+    <heading>Interim administration.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Administration of benefits until appointment of trustee. —</heading>
+      <text>Notwithstanding subchapter II of this chapter, after the enactment of this chapter the District Government shall continue to discharge its duties and responsibilities under the District Retirement Program and the District Retirement Fund (as such duties and responsibilities are modified by this chapter), including the responsibility for Federal benefit payments, until such time as the Secretary notifies the District Government that the Secretary has directed the Trustee to carry out the duties and responsibilities required under the contract.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Reimbursement. —</heading>
+      <text>The Secretary or the Trustee shall, at such times during or after the period of interim administration described in subsection (a) of this section as are deemed appropriate by the Secretary or the Trustee, reimburse the District Government for any administrative expenses incurred by the District Government in carrying out subsection (a) of this section:</text>
+      <para>
+        <num>(1)</num>
+        <text>If the Secretary or the Trustee finds such expenses to be reasonable and necessary; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To the extent that the District Government is not reimbursed for such expenses from other sources.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Making District Retirement Fund whole. —</heading>
+      <text>The District Government shall reimburse the District Retirement Fund for any benefits paid inconsistent with this chapter from the District Retirement Fund between the freeze date and such time as the Secretary notifies the District government that the Secretary has directed the Trustee to carry out the duties and responsibilities required under the contract.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 725, Pub. L. 105-33, § 11041</annotation>
+        <annotation doc="Pub. L. 105-277">Oct. 21, 1998, 112 Stat. 2681-531, Pub. L. 105-277, § 801(e)</annotation>
+        <annotation doc="D.C. Law 13-91">Apr. 12, 2000, D.C. Law 13-91,§ 112, 47 DCR 520</annotation>
+        <annotation doc="Pub. L. 108-489">Dec. 23, 2004, 118 Stat. 3969, Pub. L. 108-489, § 2(d)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Retirement program management, District of Columbia Retirement Board, see § <cite path="§1-711">1-711</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-711">1-711</cite>, § <cite path="§1-807.02">1-807.02</cite>, and § <cite path="§1-821.01">1-821.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-765.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite> validated a previously made technical amendment in subsec. (b).</annotation>
+        <annotation>Pub. L. 108-489, in subsec. (b), deleted “from Trust Fund” from the heading.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|V"/>
+    <num codify:value="1-809.02">11042</num>
+    <heading>Replacement plan.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Adoption by District Government. —</heading>
+      <text>Not later than one year after August 5, 1997, the District Government shall adopt a replacement plan for pension benefits for covered District employees, effective as of the freeze date.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Replacement plan imposed if District Government fails to adopt plan. —</heading>
+      <text>If the District Government fails to adopt a replacement plan within the period prescribed in subsection (a) of this section, the retirement program applicable to police, firefighters, and teachers under the laws of the District of Columbia in effect as of June 1, 1997 (except as otherwise amended by this act), including all requirements of the program regarding benefits, contributions, and cost-of-living adjustments, shall be treated as the replacement plan for purposes of this chapter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>No payment of amounts paid as Federal benefit payment. —</heading>
+      <text>Notwithstanding any provision of the Reform Act or any other law, rule, or regulation, the District Government is not required to pay any amount under any replacement plan under this chapter if the amount is paid as a Federal benefit payment under this chapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 725, Pub. L. 105-33, § 11042</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-801.02">1-801.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-765.2.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|VI"/>
+    <num codify:value="1-811.01">11051</num>
+    <heading>Creation of Federal Supplemental Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Establishment. —</heading>
+      <text>There is established on the books of the Treasury the Federal Supplemental District of Columbia Pension Fund, which shall be administered by the Secretary and shall consist of the following assets:</text>
+      <para>
+        <num>(1)</num>
+        <text>Amounts deposited into such Fund under the provisions of this chapter.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any amount otherwise appropriated to such Fund.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any income earned on the investment of the assets of such Fund pursuant to subsection (b) of this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Investment of assets. —</heading>
+      <text>The Secretary shall invest such portion of the Federal Supplemental Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Federal Supplemental Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Recordkeeping for actuarial status. —</heading>
+      <text>The Secretary shall provide for the keeping of such records as are necessary for determining the actuarial status of the Federal Supplemental Fund.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 725, Pub. L. 105-33, § 11051</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-801.02">1-801.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-766.1.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|VI"/>
+    <num codify:value="1-811.02">11052</num>
+    <heading>Uses of amounts in Fund.</heading>
+    <text>Amounts in the Federal Supplemental Fund shall be used for the accumulation of funds in order to finance obligations of the Federal Government for benefits and necessary administrative expenses under the provisions of this chapter, in accordance with the methodology selected by the Secretary under § <cite path="§1-811.04">1-811.04</cite>(b), except that payments from the Fund for administrative expenses may be made only to the extent and in such amounts as are provided in advance in appropriations acts.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 726, Pub. L. 105-33, § 11052</annotation>
+        <annotation doc="Pub. L. 105-277">Oct. 21, 1998, 112 Stat. 2681-532, Pub. L. 105-277, § 801(g)(3)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-766.2.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|VI"/>
+    <num codify:value="1-811.03">11053</num>
+    <heading>Determination of annual payment into Federal Supplemental Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Annual amortization amount. —</heading>
+      <text>At the end of each applicable fiscal year the Secretary shall promptly pay into the Federal Supplemental Fund from the General Fund of the Treasury an amount equal to the annual amortization amount for the year (which may not be less than zero).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Administrative expenses. —</heading>
+      <text>During each applicable fiscal year, the Secretary shall pay into the Federal Supplemental Fund from the General Fund of the Treasury amounts not to exceed the covered administrative expenses for the year.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Determination of amounts. —</heading>
+      <text>For purposes of this section:</text>
+      <para>
+        <num>(1)</num>
+        <text>The “original unfunded liability” is the amount that is the present value as of October 21, 1998 of future benefits payable from the Federal Supplemental Fund.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The “annual amortization amount” is the amount determined by the enrolled actuary to be necessary to amortize in equal annual installments (until fully amortized):</text>
+        <para>
+          <num>(A)</num>
+          <text>The original unfunded liability over a 30-year period;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A net experience gain or loss over a 10-year period; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Any other changes in actuarial liability over a 20-year period.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The “covered administrative expenses” are the expenses determined by the Secretary (on an annual basis) to be necessary to administer the Federal Supplemental Fund.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Timing. —</heading>
+      <text>The first applicable fiscal year under subsection (a) of this section is the first fiscal year that ends more than six months after the replacement plan adoption date.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 726, Pub. L. 105-33, § 11053</annotation>
+        <annotation doc="Pub. L. 105-277">Oct. 21, 1998, 112 Stat. 2681-532, Pub. L. 105-277, § 801(f)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-813.01">1-813.01</cite> and § <cite path="§1-817.04">1-817.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-766.3.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|VI"/>
+    <num codify:value="1-811.04">11054</num>
+    <heading>Determination of methodology for making payments.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Notice to President and Congress. —</heading>
+      <text>Not later than 18 months before the time that assets remaining in the Trust Fund are projected to be insufficient for making Federal benefit payments and covering necessary administrative expenses when due, the Secretary shall so advise the President and the Congress.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Selection of methodology. —</heading>
+      <text>Before all available assets of the Trust Fund have been depleted, the Secretary shall determine whether Federal benefit payments and necessary administrative expenses under this chapter shall be made by one of the following methods:</text>
+      <para>
+        <num>(1)</num>
+        <text>Continuation of the Trust Fund using payments from the Federal Supplemental Fund.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Discontinuation of the Trust Fund, with payments made:</text>
+        <para>
+          <num>(A)</num>
+          <text>By direct payment by the Secretary from the Federal Supplemental Fund; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>From the Federal Supplemental Fund through another department or agency of the United States.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Arrangements by Secretary. —</heading>
+      <text>The Secretary shall make appropriate arrangements to implement the determinations made in this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 727, Pub. L. 105-33, § 11054</annotation>
+        <annotation doc="D.C. Law 12-264">Apr. 20, 1999, D.C. Law 12-264, § 6(a), 46 DCR 2118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-811.02">1-811.02</cite> and § <cite path="§1-811.05">1-811.05</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-766.4.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|VI"/>
+    <num codify:value="1-811.05">11055</num>
+    <heading>Special requirements upon discontinuation of Trust Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Successor to Trustee. —</heading>
+      <text>If the Secretary determines that the Trust Fund shall be discontinued after it has been depleted of assets, the Secretary shall appoint a successor to the Trustee to administer the requirements of this chapter, with the same powers and subject  to the same conditions as were applicable to the Trustee.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Continuing application of terms and conditions. —</heading>
+      <text>The methodology selected by the Secretary under § <cite path="§1-811.04">1-811.04</cite>(b), and the payment of benefits pursuant to such methodology, shall be subject to the same arrangements, terms, and conditions as were applicable under this chapter to the Trust Fund and the benefits paid under the Trust Fund (including provisions relating to the treatment of the Trust Fund under certain laws).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 727, Pub. L. 105-33, § 11055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-766.5.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|VI"/>
+    <num codify:value="1-811.06">11056</num>
+    <heading>Termination of Federal Supplemental Fund.</heading>
+    <text>Effective upon the transfer of the assets of the Federal Supplemental Fund to the D.C. Federal Pension Fund under § <cite path="§1-817.03">1-817.03</cite>:</text>
+    <para>
+      <num>(1)</num>
+      <text>The Federal Supplemental Fund shall terminate; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Any duty imposed on any person with respect to the Federal Supplemental fund shall terminate.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 724, Pub. L. 105-33, § 11056</annotation>
+        <annotation doc="Pub. L. 108-489">as added Dec. 23, 2004, 118 Stat. 3969, Pub. L. 108-489, § 2(b)(2)</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|VII"/>
+    <num codify:value="1-813.01">11061</num>
+    <heading>Annual valuations and reports by enrolled actuary.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Determination of actuarial valuations. —</heading>
+      <text>The Trustee shall engage an enrolled actuary (as defined in § 7701(a)(35) of the Internal Revenue Code of 1986 [26 U.S.C. § 7701(a)(35)]) who is a member of the American Academy of Actuaries to perform an annual actuarial valuation (in a manner and form determined by the Secretary) of the Trust Fund and the Federal Supplemental Fund for obligations assumed by the Federal Government under this chapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Annual report on status of Funds. —</heading>
+      <text>The enrolled actuary shall prepare and submit to the Secretary and the Trustee an annual report on the actuarial status of the Trust Fund and the Federal Supplemental Fund, and shall include in the report:</text>
+      <para>
+        <num>(1)</num>
+        <text>A projection of when assets in the Trust Fund will be insufficient to pay benefits and necessary administrative expenses when due; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A determination of the annual payment to the Federal Supplemental Fund under § <cite path="§1-811.03">1-811.03</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 727, Pub. L. 105-33, § 11061</annotation>
+        <annotation doc="D.C. Law 12-264">Apr. 20, 1999, D.C. Law 12-264, § 6(b), 46 DCR 2118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-801.02">1-801.02</cite> and § <cite path="§1-817.06">1-817.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-767.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“ Section 7701(a)(35) of the Internal Revenue Code of 1986,” referred to in (a), is codified as  26 U.S.C. § 7701(a)(35).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|VII"/>
+    <num codify:value="1-813.02">11062</num>
+    <heading>Reports by Comptroller General.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>The Comptroller General is authorized to conduct evaluations of the administration of this chapter to ensure that the Trust Fund and Federal Supplemental Fund are being properly administered and shall report the findings of such evaluations to the Secretary and the Congress.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Access to information. —</heading>
+      <text>For the purpose of evaluations under subsection (a) of this section the Comptroller General, subject to § 6103 of the Internal Revenue Code of 1986 [26 U.S.C. § 6103], shall have access to and the right to copy any books, accounts, records, correspondence or other pertinent documents that are in the possession of the Secretary or the Trustee, or any contractor or subcontractor of the Secretary or the Trustee.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 728, Pub. L. 105-33, § 11062</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-817.06">1-817.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-767.2.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“ Section 6103 of the Internal Revenue Code of 1986,” referred to in (b), is codified as  26 U.S.C. § 6103.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|VIII"/>
+    <num codify:value="1-815.01">11071</num>
+    <heading>Judicial review.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>A civil action may be brought:</text>
+      <para>
+        <num>(1)</num>
+        <text>By a participant or beneficiary to enforce or clarify rights to benefits from the Trust Fund or Federal Supplemental Fund under this chapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>By the Trustee:</text>
+        <para>
+          <num>(A)</num>
+          <text>To enforce any claim arising (in whole or in part) under this chapter or the contract; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>To recover benefits improperly paid from the Trust Fund or Federal Supplemental Fund or to clarify a participant’s or beneficiary’s rights to benefits from the Trust Fund or Federal Supplemental Fund; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>By the Secretary to enforce any provision of this chapter or the contract.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Treatment of Trust Fund. —</heading>
+      <text>The Trust Fund may sue and be sued as an entity.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Exclusive remedy. —</heading>
+      <text>This subchapter shall be the exclusive means for bringing actions   against the Trust Fund, the Trustee, or the Secretary under this chapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 728, Pub. L. 105-33, § 11071</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-817.06">1-817.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-768.1.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|VIII"/>
+    <num codify:value="1-815.02">11072</num>
+    <heading>Jurisdiction and venue.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>The United States District Court for the District of Columbia shall have exclusive jurisdiction and venue, regardless of the amount in controversy, of:</text>
+      <para>
+        <num>(1)</num>
+        <text>Civil actions brought by participants or beneficiaries pursuant to this chapter, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any other action otherwise arising (in whole or part) under this chapter or the contract.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Review by Court of Appeals. —</heading>
+      <text>Notwithstanding any other provision of law, any order of the United States District Court for the District of Columbia issued pursuant to an action described in subsection (a) of this section that concerns the validity or enforceability of any provision of this chapter or seeks injunctive relief against the Secretary or Trustee under this chapter shall be reviewable only pursuant to a notice of appeal to the United States Court of Appeals for the District of Columbia Circuit.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Review by Supreme Court. —</heading>
+      <text>Notwithstanding any other provision of law, review by the Supreme Court of the United States of a decision of the Court of Appeals that is issued pursuant to subsection (b) of this section may be had only if the petition for relief is filed within 20 calendar days after the entry of such decision.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Restrictions on declaratory or injunctive relief. —</heading>
+      <text>No order of any court granting declaratory or injunctive relief against the Secretary or the Trustee shall take effect during the pendency of the action before such court, during the time an appeal may be taken, or (if an appeal is taken or petition for certiorari filed) during the period before the court has entered its final order disposing of the action.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 728, Pub. L. 105-33, § 11072</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-768.2.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|VIII"/>
+    <num codify:value="1-815.03">11073</num>
+    <heading>Statute of limitations.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Action for benefits. —</heading>
+      <text>Any civil action by an individual with respect to a Federal benefit payment under this chapter shall be commenced within 180 days of a final benefit determination.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Action for breach of contract or other violations. —</heading>
+      <text>Except as provided in subsection (c) of this section, any civil action for breach of the contract or any other violation of this chapter shall be commenced within the later of:</text>
+      <para>
+        <num>(1)</num>
+        <text>Six years after the last act that constituted the alleged breach or violation or, in the case of an omission, six years after the last date on which the alleged breach or violation could have been cured; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Three years after the earliest date on which the plaintiff knew or could have reasonably been expected to have known of the act or omission on which the action is based.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Special rule for actions against Secretary. —</heading>
+      <text>Notwithstanding subsection (b) of this section, any action against the Secretary arising (in whole or part) under this chapter or the contract shall be commenced within one year of the events giving rise to the cause of action.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 105-33">Aug. 5, 1997, 111 Stat. 729, Pub. L. 105-33, § 11073</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-768.3.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|VIII"/>
+    <num codify:value="1-815.04">11074</num>
+    <heading>Treatment of misappropriation of fund amounts as Federal crime.</heading>
+    <text>The provisions of § 664 of Title 18, United States Code   (relating to theft or embezzlement from employee benefit plans), shall apply to the Trust Fund and the Federal Supplemental Fund.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 729, Pub. L. 105-33, § 11074</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-817.06">1-817.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-768.4.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|IX"/>
+    <num codify:value="1-817.01">11081</num>
+    <heading>Creation of Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Establishment. —</heading>
+      <text>There is established on the books of the Treasury the District of Columbia Teachers, Police Officers, and Firefighters Federal Pension Fund (hereafter referred to as the “D.C. Federal Pension Fund”), consisting of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The assets transferred pursuant to § <cite path="§1-817.03">1-817.03</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The annual Federal payments deposited pursuant to § <cite path="§1-817.04">1-817.04</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any amounts otherwise appropriated to such Fund.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any income earned on the investment of the assets of such Fund pursuant to subsection (b) of this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Investment of assets. —</heading>
+      <text>The Secretary shall invest such portion of the assets of the D.C. Federal Pension Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the D.C. Federal Pension Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Recordkeeping for actuarial status. —</heading>
+      <text>The Secretary shall provide for the keeping of such records as are necessary for determining the actuarial status of the D.C. Federal Pension Fund.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 729, Pub. L. 105-33, § 11081</annotation>
+        <annotation doc="Pub. L. 108-489">as added Dec. 23, 2004, 118 Stat. 3966, Pub. L. 108-489, § 2(a)(3)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-801.02">1-801.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Former § <cite path="§1-817.01">1-817.01</cite> has been recodified to § <cite path="§1-819.01">1-819.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|IX"/>
+    <num codify:value="1-817.02">11082</num>
+    <heading>Uses of amounts in Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>Amounts in the D.C. Federal Pension Fund shall be used:</text>
+      <para>
+        <num>(1)</num>
+        <text>To make Federal benefit payments under this chapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to subsection (b) of this section, to cover the reasonable and necessary administrative expenses incurred by any person in administering the D.C. Federal Pension Fund and carrying out this subchapter;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For the accumulation of funds in order to finance obligations of the Federal Government for future benefits; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>For such other purposes as are specified in this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Budgeting, certification, and approval of administrative expenses. —</heading>
+      <text>The administrative expenses of the D.C. Federal Pension Fund shall be paid in accordance with an annual budget set forth by the Pension Fund Trustee which shall be subject to certification and approval by the Secretary.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 729, Pub. L. 105-33, § 11082</annotation>
+        <annotation doc="Pub. L. 108-489">as added Dec. 23, 2004, 118 Stat. 3967, Pub. L. 108-489, § 2(a)(3)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-817.04">1-817.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Former § <cite path="§1-817.02">1-817.02</cite> has been recodified to § <cite path="§1-819.02">1-819.02</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|IX"/>
+    <num codify:value="1-817.03">11083</num>
+    <heading>Transfer of assets and obligations of Trust Fund and Federal Supplemental Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Transfer of obligations. —</heading>
+      <text>Effective October 1, 2004, all obligations to make Federal benefit payments shall be transferred from the Trust Fund to the D.C. Federal Pension Fund.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Transfer of assets. —</heading>
+      <text>Effective October 1, 2004, all assets of the Trust Fund and all assets of the Federal Supplemental Fund as of such date shall be transferred to the D.C. Federal Pension Fund.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 729, Pub. L. 105-33, § 11083</annotation>
+        <annotation doc="Pub. L. 108-489">as added Dec. 23, 2004, 118 Stat. 3967, Pub. L. 108-489, § 2(a)(3)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-807.06">1-807.06</cite>, § <cite path="§1-811.06">1-811.06</cite>, and § <cite path="§1-817.01">1-817.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Former § <cite path="§1-817.03">1-817.03</cite> has been recodified to § <cite path="§1-819.03">1-819.03</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|IX"/>
+    <num codify:value="1-817.04">11084</num>
+    <heading>Determination of annual federal payments into D.C. Federal Pension Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Annual amortization amount. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>In general. —</heading>
+        <text>At the end of each fiscal year (beginning with fiscal year 2005), the Secretary shall promptly pay into the D.C. Federal Pension Fund from the general fund of the Treasury an amount equal to the annual amortization amount for the year (which may not be less than zero).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Determination of amount. —</heading>
+        <text>For purposes of paragraph (1) of this paragraph:</text>
+        <para>
+          <num>(A)</num>
+          <text>The “original unfunded liability” is the present value, as of December 23, 2004, of expected future benefits payable from the Federal Supplemental Fund; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The “annual amortization amount” means the amount determined by the enrolled actuary to be necessary to amortize in equal annual installments (until fully amortized):</text>
+          <para>
+            <num>(i)</num>
+            <text>The original unfunded liability over a 30-year period;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A net experience gain or loss over a 10-year period; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Any other changes in actuarial liability over a 20-year period.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Schedule for amortization. —</heading>
+        <text>In determining the annual amortization amount under paragraph (2)(B) of this subsection, the enrolled actuary shall include amounts necessary to complete the amortization schedules used for determining the annual amortization amount for payments into the Federal Supplemental Fund under § <cite path="§1-811.03">1-811.03</cite> (as in effect prior to the enactment of this subchapter).</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Administrative expense. —</heading>
+      <text>During each fiscal year (beginning with fiscal year 2009), the Secretary shall pay into the D.C. Federal Pension Fund from the general fund of the Treasury the amounts necessary to pay the reasonable and necessary administrative expenses described in 1-817.02(a)(2) for the year.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 729, Pub. L. 105-33, § 11084</annotation>
+        <annotation doc="Pub. L. 108-489">as added Dec. 23, 2004, 118 Stat. 3967, Pub. L. 108-489, § 2(a)(3)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-817.01">1-817.01</cite> and § <cite path="§1-817.06">1-817.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Former § <cite path="§1-817.04">1-817.04</cite> has been recodified to § <cite path="§1-819.04">1-819.04</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|IX"/>
+    <num codify:value="1-817.05">11085</num>
+    <heading>Administration through Pension Fund Trustee.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>The Secretary shall select a Pension Fund Trustee to carry out the responsibilities and duties specified in this subchapter in accordance with the contract described in subsection (b) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Contract. —</heading>
+      <text>The Secretary shall enter into a contract with the Pension Fund Trustee to provide for the auditing of D.C. Federal Pension Fund assets, the making of Federal benefit payments under this chapter from the D.C. Federal Pension Fund, and such other matters as the Secretary deems appropriate. The Secretary shall enforce the provisions of the contract and otherwise monitor the administration of the D.C. Federal Pension Fund.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Subcontracts. —</heading>
+      <text>Notwithstanding any provision of a District Retirement Program or any other law, rule, or regulation, the Pension Fund Trustee may, with the approval of the Secretary, enter into one or more subcontracts with the District Government or any person to provide services to the Pension Fund Trustee in connection with its performance of the contract. The Pension Fund Trustee shall monitor the performance of any such subcontract and enforce its provisions.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Determination by the Secretary. —</heading>
+      <text>Notwithstanding subsection (b) of this section or any other provision of this chapter, the Secretary may determine, with respect to any function otherwise to be performed by the Pension Fund Trustee, that in the interest of economy and efficiency such function shall be performed by the Secretary rather than the Pension Fund Trustee.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Reports. —</heading>
+      <text>The Pension Fund Trustee shall report to the Secretary, in a form and manner and at such intervals as the Secretary may prescribe, on any matters under the responsibility of the Pension Fund Trustee as the Secretary may prescribe.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 729, Pub. L. 105-33, § 11085</annotation>
+        <annotation doc="Pub. L. 108-489">as added Dec. 23, 2004, 118 Stat. 3968, Pub. L. 108-489, § 2(a)(3)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-801.02">1-801.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Former § <cite path="§1-817.05">1-817.05</cite> has been recodified to § <cite path="§1-819.05">1-819.05</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|IX"/>
+    <num codify:value="1-817.06">11086</num>
+    <heading>Applicability of other provisions to D.C. Federal Pension Fund.</heading>
+    <text>The following provisions of this chapter shall apply with respect to the D.C. Federal Pension Fund in the same manner as such provisions applied with respect to the Trust Fund prior to October 1, 2004:</text>
+    <para>
+      <num>(1)</num>
+      <text>Section 1-805.03(b) (relating to the repayment by the District Government of costs attributable to errors or omissions in transferred records).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Section 1-807.04 (relating to the treatment of the Trust Fund under certain laws).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Section 1-813.01 (relating to annual valuations and reports by the enrolled actuary), except that in applying § <cite path="§1-813.01">1-813.01</cite>(b) to the D.C. Federal Pension Fund, the annual report required under such section shall include a determination of the annual payment to the D.C. Federal Pension Fund under § <cite path="§1-817.04">1-817.04</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Section 1-813.02 (relating to reports by the Comptroller General).</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Section 1-815.01 (relating to judicial review).</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Section 1-815.04 (relating to the treatment of misappropriation of Trust Fund amounts as a Federal crime).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 729, Pub. L. 105-33, § 11086</annotation>
+        <annotation doc="Pub. L. 108-489">as added Dec. 23, 2004, 118 Stat. 3968, Pub. L. 108-489, § 2(a)(3)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Former § <cite path="§1-817.06">1-817.06</cite> has been recodified to § <cite path="§1-819.06">1-819.06</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§1-819.05" path="|1|8|X"/>
+    <num codify:value="1-819.01">11091</num>
+    <heading>Coordination between Secretary, Trustee, and District Government.</heading>
+    <text>The Secretary, Trustee, and District Government shall carry out responsibilities under this chapter and under the contract in a manner which promotes the cost-effective and efficient administration of benefit payments under the District Retirement Programs, and in a manner which avoids unnecessary interruptions and delays in paying individuals the full benefits to which they are entitled under such Programs.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 729, Pub. L. 105-33, § 11091</annotation>
+        <annotation doc="Pub. L. 108-489">renumbered as § 11081, Dec. 23, 2004, 118 Stat. 3966, Pub. L. 108-489, § 2(a)(1), (2)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-817.01">1-817.01</cite>.</annotation>
+        <annotation>1981 Ed., § 1-769.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Former 1-819.01 has been recodified as § <cite path="§1-821.01">1-821.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§1-819.05" path="|1|8|X"/>
+    <num codify:value="1-819.02">11092</num>
+    <heading>Study of alternatives for financing Federal obligations.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>As soon as practicable after the date of the enactment of this chapter, the Secretary shall enter into a contract with an independent consultant to conduct a study of actuarial alternatives for financing the federal obligations assumed under this chapter, together with an analysis of the impact of each alternative on the federal budget. The Secretary and the District Government shall cooperate with the consultant and shall provide direct access to such information systems, records, documents, information, or data as will enable the consultant to conduct the study.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Deadline. —</heading>
+      <text>The contract entered into under subsection (a) of this section shall require the consultant to report the results of the study not later than 12 months after the date of enactment of this act.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>No effect on Federal obligations. —</heading>
+      <text>Nothing in this section may be construed to affect any obligation of the Federal Government to make payments under this chapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 729, Pub. L. 105-33, § 11092</annotation>
+        <annotation doc="Pub. L. 108-489">renumbered as § 11082, Dec. 23, 2004, 118 Stat. 3966, Pub. L. 108-489, § 2(a)(1), (2)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-817.02">1-817.02</cite>.</annotation>
+        <annotation>1981 Ed., § 1-769.2.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <text>“This act,” referred to in (b), is the National Capital Revitalization and Self-Government Improvement Act of 1997, Title XI of Pub. L. 105-33, 111 Stat. 712.</text>
+        <text>“The date of enactment of this chapter” and “the date of enactment of this Act,” referred to in this section, is the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District of Columbia government for fiscal year 1998 meet the requirements of § 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§1-819.05" path="|1|8|X"/>
+    <num codify:value="1-819.03">11093</num>
+    <heading>Issuance of regulations by Secretary.</heading>
+    <text>The Secretary is authorized to issue regulations to implement, interpret, administer and carry out the purposes of this chapter, and, in the Secretary’s discretion, those regulations may have retroactive effect.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 730, Pub. L. 105-33, § 11093</annotation>
+        <annotation doc="Pub. L. 108-489">renumbered as § 11083, Dec. 23, 2004, 118 Stat. 3966, Pub. L. 108-489, § 2(a)(1), (2)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-817.03">1-817.03</cite>.</annotation>
+        <annotation>1981 Ed., § 1-769.3.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§1-819.05" path="|1|8|X"/>
+    <num codify:value="1-819.04">11094</num>
+    <heading>Effect on Reform Act and other laws.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Reform Act. —</heading>
+      <text>This chapter supersedes any provision of the Reform Act inconsistent with this chapter and the regulations thereunder.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>No effect on tax treatment of benefits. —</heading>
+      <text>Except as otherwise specifically provided, nothing in this chapter may be construed to affect the application of any provision of the Internal Revenue Code of 1986 to any annuity or other benefit provided to or on behalf of any individual, including any disability benefit or any portion of a retirement benefit attributable to an individual’s disability status.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>No effect on benefits for Park Police and Secret Service. —</heading>
+      <text>Nothing in this chapter shall be deemed to alter or amend in any way the provisions of existing law (including the Reform Act) relating to the program of annuities, other retirement benefits, or medical benefits for members and officers, retired members and officers, and survivors thereof, of the United States Park Police force, the United States Secret Service, or the United States Secret Service Uniformed Division.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 730, Pub. L. 105-33, § 11094(a)(1), (b), (c)</annotation>
+        <annotation doc="Pub. L. 108-489">renumbered as § 11084(a)(1), (b), (c), Dec. 23, 2004, 118 Stat. 3966, Pub. L. 108-489, § 2(a)(1), (2)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-817.04">1-817.04</cite>.</annotation>
+        <annotation>1981 Ed., § 1-769.4.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>The “Internal Revenue Code of 1986,” referred to in (b), is codified as Title 26 of the United States Code.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|X"/>
+    <num codify:value="1-819.06">11096</num>
+    <heading>Full faith and credit.</heading>
+    <text>Federal obligations for benefits under this chapter are backed by the full faith and credit of the United States.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 730, Pub. L. 105-33, § 11096</annotation>
+        <annotation doc="Pub. L. 108-489">renumbered as § 11086, Dec. 23, 2004, 118 Stat. 3966, Pub. L. 108-489, § 2(a)(1), (2)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-817.06">1-817.06</cite>.</annotation>
+        <annotation>1981 Ed., § 1-769.6.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|8|X"/>
+    <num codify:value="1-819.07">11097</num>
+    <heading>Severability of provisions.</heading>
+    <text>If any provision of this chapter, or the application of such provision to any person or circumstances, shall be held invalid, the remainder of this chapter, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 730, Pub. L. 105-33, § 11097</annotation>
+        <annotation doc="Pub. L. 108-489">renumbered as § 11087, Dec. 23, 2004, 118 Stat. 3966, Pub. L. 108-489, § 2(a)(1), (2)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-817.07">1-817.07</cite>.</annotation>
+        <annotation>1981 Ed., § 1-769.7.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section>
+    <num>11712</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|22|13"/>
+      <num codify:value="22-1323">(e)</num>
+      <heading>Obstructing bridges connecting D.C. and Virginia.</heading>
+      <text>Effective with respect to conduct occurring on or after August 5, 1997, whoever in the District of Columbia knowingly and willfully obstructs any bridge connecting the District of Columbia and the Commonwealth of Virginia:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall be fined not less than $1,000 and not more than $5,000, and in addition may be imprisoned not more than 30 days; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If applicable, shall be subject to prosecution by the District of Columbia under the provisions of District law and regulation amended by the Safe Streets Anti-Prostitution Amendment Act of 1996.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The fine set forth in this section shall not be limited by § <cite path="§22-3571.01">22-3571.01</cite>.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Aug. 5, 1997, 111 Stat. 782, Pub. L. 105-33, § 11712(e)</annotation>
+          <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 112(b), 60 DCR 2064</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§5-133.17">5-133.17</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 22-1123.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> added (3).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 days) amendment of this section, see § 112(b) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effective Dates</heading>
+          <annotation>Section 11721 of title XI of Pub. L. 105-33, 111 Stat. 786, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that except as otherwise provided in this title, the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995, as amended by this title.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>References in Text</heading>
+          <annotation>The “regulation amended by the Safe Streets Anti-Prostitution Amendment Act of 1996,” referred to in (2), is § 5 of <cite doc="D.C. Law 11-130">D.C. Law 11-130</cite>, effective May 24, 1996, and found at  43 DCR 1570.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|42"/>
+    <num codify:value="22-4201">11281</num>
+    <heading>Technical assistance and research.</heading>
+    <text>There are authorized to be appropriated to the National Institute of Justice in each fiscal year (beginning with fiscal year 1998) such sums as may be necessary for the following activities:</text>
+    <para>
+      <num>(1)</num>
+      <text>Research and demonstration projects, evaluations, and technical assistance to assess and analyze the crime problem in the District of Columbia, and to improve the ability of the criminal justice and other systems and entities in the District of Columbia to prevent, solve, and punish crimes.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The establishment of a locally-based corporation or institute in the District of Columbia supporting research and demonstration projects relating to the prevention, solution, or punishment of crimes in the District of Columbia, including the provision of related technical assistance.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 5, 1997, 111 Stat. 763, Pub. L. 105-33, § 11281</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-4201.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 11721 of title XI of Pub. L. 105-33, 111 Stat. 786, the National Capital Revitalization and Self-Government Improvement Act of 1997, provided that except as otherwise provided in this title, the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995, as amended by this title.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

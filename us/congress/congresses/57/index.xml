@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <heading>The 57th Congress</heading>
+  <subheading>Public Laws</subheading>
+  <ns0:include href="./laws/public/57-2-ch1360.xml"/>
+  <ns0:include href="./laws/public/57-2-ch1352.xml"/>
+  <ns0:include href="./laws/public/57-2-ch1329.xml"/>
+  <ns0:include href="./laws/public/57-2-ch1136.xml"/>
+  <ns0:include href="./laws/public/57-2-ch638.xml"/>
+  <ns0:include href="./laws/public/57-2-ch594.xml"/>
+  <ns0:include href="./laws/public/57-2-ch273.xml"/>
+  <ns0:include href="./laws/public/57-1-ch854.xml"/>
+  <ns0:include href="./laws/public/57-1-ch847.xml"/>
+  <ns0:include href="./laws/public/57-1-ch623.xml"/>
+  <ns0:include href="./laws/public/57-1-ch354.xml"/>
+  <ns0:include href="./laws/public/57-1-ch353.xml"/>
+</collection>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 20-121">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 20-121">
   <num type="law">20-121</num>
   <heading type="short">Breastmilk Bank and Lactation Support Act of 2013</heading>
   <meta>
@@ -12,4 +12,136 @@
       <narrative>Law 20-121, the “Breastmilk Bank and Lactation Support Act of 2013,” was introduced in Council and assigned Bill No. 20-410. The Bill was adopted on first and second readings on April 8, 2014, and May 6, 2014, respectively. Signed by the Mayor on May 28, 2014, it was assigned Act No. 20-340 and transmitted to Congress for its review. D.C. Law 20-121 became effective on July 15, 2014.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8F"/>
+    <num codify:value="7-881.01">2</num>
+    <heading>Definitions.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-121">July 15, 2014, D.C. Law 20-121, § 2, 61 DCR 5680</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8F"/>
+    <num codify:value="7-881.02">3</num>
+    <heading>Establishment of the Breastmilk Bank and Lactation Support Center.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-121">July 15, 2014, D.C. Law 20-121, § 3, 61 DCR 5680</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8F"/>
+    <num codify:value="7-881.03">4</num>
+    <heading>Education and outreach campaign.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-121">July 15, 2014, D.C. Law 20-121, § 4, 61 DCR 5680</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8F"/>
+    <num codify:value="7-881.04">5</num>
+    <heading>Comprehensive plan.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-121">July 15, 2014, D.C. Law 20-121, § 5, 61 DCR 5680</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8F"/>
+    <num codify:value="7-881.05">6</num>
+    <heading>Establishment of the Lactation Commission.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-121">July 15, 2014, D.C. Law 20-121, § 6, 61 DCR 5680</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8F"/>
+    <num codify:value="7-881.06">7</num>
+    <heading>Lactation Commission members, procedures, and meetings.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-121">July 15, 2014, D.C. Law 20-121, § 7, 61 DCR 5680</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8F"/>
+    <num codify:value="7-881.07">8</num>
+    <heading>Regulation of milk banks.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-121">July 15, 2014, D.C. Law 20-121, § 8, 61 DCR 5680</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8F"/>
+    <num codify:value="7-881.08">9</num>
+    <heading>Application.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-121">July 15, 2014, D.C. Law 20-121, § 9, 61 DCR 5680</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8F"/>
+    <num codify:value="7-881.09">10</num>
+    <heading>Prohibition and penalties.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-121">July 15, 2014, D.C. Law 20-121, § 10, 61 DCR 5680</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8F"/>
+    <num codify:value="7-881.10">11</num>
+    <heading>Rules.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-121">July 15, 2014, D.C. Law 20-121, § 11, 61 DCR 5680</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8F"/>
+    <num codify:value="7-881.11">13</num>
+    <heading>Applicability of chapter.</heading>
+    <text>This chapter shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-121">July 15, 2014, D.C. Law 20-121, § 13, 61 DCR 5680</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

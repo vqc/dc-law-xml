@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 13-265">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 13-265">
   <num type="law">13-265</num>
   <heading type="short">Insurance Trade and Economic Development Amendment Act of 2000</heading>
   <meta>
@@ -12,4 +12,941 @@
       <narrative>Law 13-265, the “Insurance Trade and Economic Development Amendment Act of 2000”, was introduced in Council and assigned Bill No. 13-806, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 8, 2000, and December 5, 2000, respectively. Signed by the Mayor on January 2, 2001, it was assigned Act No. 13-555 and transmitted to both Houses of Congress for its review. D.C. Law 13-265 became effective on April 3, 2001.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.01">101</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Agent” or “Broker” means a person who solicits, negotiates, effects, procures, delivers, renews, continues, or binds policies of insurance for persons or risks residing, located, or to be performed in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Annuity contract” means an agreement to make periodic payments in fixed dollar amounts under the terms of a contract for a stated period of time or for the life of the person specified in the contract.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Commissioner” means the Commissioner of the Department of Insurance and Securities Regulation.</text>
+    </para>
+    <para>
+      <num>(3A)</num>
+      <text>“Gender identity or expression” shall have the same meaning as provided in § <cite path="§2-1401.02">2-1401.02</cite>(12A).</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Insurance business” means the transaction of all matters pertaining to a contract of insurance, both before and after the effectuation of the contract, and all matters arising out of the contract or a claim thereunder.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Insurance policy” or “insurance contract” means a contract of insurance, indemnity, medical, health, or hospital service; a health maintenance organization plan or coverage; a suretyship; or an annuity that is issued, proposed for issuance, or intended for issuance.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Insured” means the party named on a policy or contract as the individual with legal rights to the benefits provided by the policy or contract.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Insurer” means a person, interinsurer, Lloyd’s insurer, fraternal benefit society, health maintenance organization, or any other legal entity engaged in the business of insurance, including agents, brokers, and third-party administrators. Insurer shall also mean medical service plans and hospital service plans.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Person” means any natural or artificial entity, including individuals, partnerships, associations, trusts, or corporations.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Unfair trade practices” means the commission of any one or more of the acts prohibited by §§ <cite path="§31-2231.02">31-2231.02</cite> through <cite path="§31-2231.21">31-2231.21</cite>, or regulations promulgated hereunder, with such frequency to indicate a general business practice to engage in the proscribed conduct.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 101, 48 DCR 1225</annotation>
+        <annotation doc="D.C. Law 17-177">June 25, 2008, D.C. Law 17-177, § 16(a), 55 DCR 3696</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-3311.02">31-3311.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-177">D.C. Law 17-177</cite> added par. (3A).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.02">102</num>
+    <heading>General prohibition.</heading>
+    <para>
+      <num>(a)</num>
+      <text>This chapter shall be construed to permit an administrative remedy only, and nothing in this chapter shall be construed to create or imply a private cause of action for a violation of this chapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This chapter shall not be construed to extinguish, limit, or otherwise impair any existing right in law or equity for conduct that is otherwise actionable.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 102, 48 DCR 1225</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-2231.01">31-2231.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.03">103</num>
+    <heading>Misrepresentations and false advertising of insurance policies.</heading>
+    <text>No person shall make, issue, circulate, or cause to be made, issued or circulated, an estimate, illustration, circular or statement, sales presentation, omission, or comparison that:</text>
+    <para>
+      <num>(1)</num>
+      <text>Misrepresents the benefits, advantages, conditions, or terms of a policy;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Misrepresents the dividends or share of the surplus to be received on a policy;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Makes a false or misleading statement as to the dividends or share of surplus previously paid on a policy;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Is misleading or is a misrepresentation as to the financial condition of an insurer or as to the legal reserve system upon which a life insurer operates;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Uses a name or title of a policy or class of policies misrepresenting the true nature thereof;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Is a misrepresentation, including an intentional erroneous quotation of a premium rate for the purpose of inducing, or tending to induce, the purchase, lapse, forfeiture, exchange, conversion, or surrender of a policy;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Is a misrepresentation for the purpose of effecting a pledge or assignment of, or effecting a loan against, a policy;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Misrepresents a policy as being shares of stock; or</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>Uses a name which deceptively infers or suggests that it is an insurer if it is not an insurer.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 103, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.04">104</num>
+    <heading>False information and advertising generally.</heading>
+    <text>No person shall make, publish, disseminate, circulate, or place before the public, or cause, directly or indirectly, to be made, published, disseminated, circulated, or placed before the public, in a newspaper, magazine, or other publication, or in a notice, circular, pamphlet, letter, or poster, or over a radio or television station, or in any other way, an advertisement, announcement, or statement containing an assertion, representation, or statement with respect to the business of insurance or with respect to an insurer in the conduct of its insurance business which is untrue, deceptive, or misleading.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 104, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.05">105</num>
+    <heading>Defamation.</heading>
+    <text>No person shall make, publish, disseminate, or circulate, directly or indirectly, or aid, abet, or encourage the making, publishing, disseminating or circulating, of an oral or written statement or a pamphlet, circular, article, or literature, which is false with respect to, maliciously critical of, or derogatory to, the financial condition of an insurer and which is calculated to injure the insurer.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 105, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.06">106</num>
+    <heading>Boycott, coercion, and intimidation.</heading>
+    <text>No person shall enter into an agreement to commit, or by a concerted action commit, an act of boycott, coercion, or intimidation resulting in, or tending to result in, unreasonable restraint of, or monopoly in, the business of insurance.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 106, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.07">107</num>
+    <heading>Illegal dealing in premiums; excess charges for insurance.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Subject to the acceptance of the risk by the insurer, no person shall willfully collect a premium or charge for insurance which is not then provided, or is not in due course to be provided, by an insurance policy issued by an insurer.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No person shall willfully collect as a premium or charge for insurance a sum in excess of the premium or charge specified in the policy and applicable to such insurance in accordance with the classifications and rates as filed with and approved by the Commissioner. In a case where the classifications, premiums, or rates are not required to be filed and approved, the premium or charge shall not be in excess of that specified in the policy and fixed by the insurer. This subsection shall not prohibit a reasonable fee or charge for insurance premium payment plans, regardless of the number of installment payments involved.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 107, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.08">108</num>
+    <heading>False statements and entries.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person shall knowingly file with an insurance regulatory or other public official, knowingly make, publish, disseminate, circulate, or deliver to a person, or place before the public, or knowingly cause directly or indirectly to be made, published, disseminated, circulated, delivered to a person, or placed before the public, a false material statement of fact as to the financial condition of an insurer.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No person shall knowingly:</text>
+      <para>
+        <num>(1)</num>
+        <text>Make a false entry of a material fact in a book, report, or statement of an insurer;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>With intent to deceive an agent of the Commissioner lawfully appointed to examine the insurer’s condition or any of its affairs, fail to make a true entry of any material fact pertaining to the business of an insurer in a book, report, or statement of the insurer; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Make a false material statement to an insurance department official.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 108, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.09">109</num>
+    <heading>Stock operations and advisory board contracts.</heading>
+    <text>No person, as an inducement to purchase insurance, shall issue or deliver, or permit its agents, officers, or employees to issue or deliver:</text>
+    <para>
+      <num>(1)</num>
+      <text>Agency company stock or other capital stock, benefit certificates, or shares in a common law corporation;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Securities; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A special or advisory board contract or other contracts of any kind promising returns and profits.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 109, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.10">110</num>
+    <heading>Failure to maintain marketing and performance records.</heading>
+    <text>No person shall fail to maintain its books, records, documents, and other business records in such order that data regarding complaints, claims, rating, underwriting, and marketing are not accessible and retrievable for examination by the Commissioner. Data for at least the current calendar year and the 2 preceding years shall be maintained.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 110, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.11">111</num>
+    <heading>Unfair discrimination.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person shall commit or permit any unfair discrimination between individuals of the same class and equal expectation of life in the rates charged for a life insurance policy or contract, in the dividends or other benefits payable thereon, or in any other of the terms and conditions of the policy or contract.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No person shall commit or permit any unfair discrimination between individuals of the same class and of essentially the same hazard in the amount of premium, fees, or rates charged for a policy or contract of accident or health insurance; in the benefits payable under a policy or contract of accident or health insurance; in any of the terms or conditions of the policy or contract of accident or health insurance; or in any other manner. This section shall not prohibit a fee or charge for insurance premium payment plans, regardless of the number of installments involved.</text>
+    </para>
+    <para>
+      <num>(b-1)</num>
+      <text>For the purposes of subsections (a) and (b) of this section, no person shall inquire, directly or indirectly, as to whether an insured or applicant is, or has been, the victim of an intrafamily offense, sexual assault, dating violence, or stalking, or make use of information as to an insured or applicant’s status as a victim of an intrafamily offense, sexual assault, dating violence, or stalking; provided, that this subsection shall not prohibit a person from asking about a medical condition or from using medical information to underwrite or to carry out its duties under a policy, even if the medical information is related to a medical condition that the person knows or has reason to know is related to an intrafamily offense, sexual assault, dating violence, or stalking, to the extent otherwise permitted under this chapter or applicable law. For purposes of this subsection, the term “intrafamily offense” shall have the same meaning as provided in § <cite path="§16-1001">16-1001</cite>(8).</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No person shall refuse to insure, refuse to continue to insure, or limit the amount of coverage available to an individual because of marital status, race, color, personal appearance, sexual orientation, gender identity or expression, matriculation, political affiliation, or an individual’s status as a victim of an intrafamily offense, sexual assault, dating violence, or stalking. Nothing in this subsection shall prohibit an insurer from taking marital status into account for the purpose of defining persons eligible for dependent benefits or prohibit or limit the operation of fraternal benefit societies. For the purposes of this subsection, the term “matriculation” shall have the same meaning as in § <cite path="§2-1401.02">2-1401.02</cite>(18).</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>No person shall terminate or modify coverage, or refuse to issue or refuse to renew, a property and casualty policy or a life, health, or annuity policy, solely because the applicant or insured, or an employee of either, is mentally or physically impaired. A termination, modification, or refusal shall be based on sound actuarial principles or related to actual or reasonably anticipated experience. This subsection shall not be interpreted to modify any other provision of law relating to the termination, modification, issuance, or renewal of an insurance policy or contract.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>No person shall refuse to insure an individual solely because another insurer has refused to write a policy or has cancelled or has refused to renew an existing policy in which the individual was named an insured. This subsection shall not prevent the termination of an excess insurance policy on account of the failure of the insured to maintain any required underlying insurance.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 111, 48 DCR 1225</annotation>
+        <annotation doc="D.C. Law 14-28">Oct. 3, 2001, D.C. Law 14-28, § 2702(a), 48 DCR 6981</annotation>
+        <annotation doc="D.C. Law 17-177">June 25, 2008, D.C. Law 17-177, § 16(b), 55 DCR 3696</annotation>
+        <annotation doc="D.C. Law 18-360">Apr. 8, 2011, D.C. Law 18-360, § 202(a), 58 DCR 896</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 86, 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-2231.12">31-2231.12</cite> and § <cite path="§31-2231.24">31-2231.24</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-28">D.C. Law 14-28</cite> rewrote subsec. (c) which had read as follows: “(c) No person shall refuse to insure, refuse to continue to insure, or limit the amount of coverage available to an individual because of the sex, marital status, race, religion, or national origin of the individual. Nothing in this subsection shall prohibit an insurer from taking marital status into account for the purpose of defining persons eligible for dependent benefits. Nothing in this section shall prohibit or limit the operation of fraternal benefit societies.”</annotation>
+        <annotation><cite doc="D.C. Law 17-177">D.C. Law 17-177</cite>, in subsec. (c), substituted “sexual orientation, gender identity or expression” for “sexual orientation”.</annotation>
+        <annotation><cite doc="D.C. Law 18-360">D.C. Law 18-360</cite>, in subsec. (b), substituted “health insurance” for “health insurance policy”, “policy or contract of accident or health insurance ” for “contract or policy”, and “policy or contract of health insurance” for “policy or contract”; added subsec. (b-1); and, in subsec. (c), substituted “political affiliation, or an individual’s status as a victim of an intrafamily offense, sexual assault, dating violence, or stalking” for “or political affiliation”.</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “accident or health insurance” for the third occurrence of “health insurance” in (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2502(a) of Fiscal Year 2002 Budget Support Emergency Act of 2001 (D.C. Act 14-124, August 3, 2001,  48 DCR 7861).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 203 of <cite doc="D.C. Law 18-360">D.C. Law 18-360</cite> provided: “Sec. 203. Application. This title shall apply to policies and certificates of insurance that are health benefit plans as defined under section 2(4) of the Health Insurance Coverage for Habilitative Services for Children Act of 2006, effective March 2, 2007 (<cite doc="D.C. Law 16-198">D.C. Law 16-198</cite>; D.C. Official Code § <cite path="§31-3271">31-3271</cite>(4)), that are issued 90 days after the effective date of this title. This title shall not apply to short-term limited duration health benefit plans.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.12">112</num>
+    <heading>Rebates: life, health, and annuities.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person shall knowingly:</text>
+      <para>
+        <num>(1)</num>
+        <text>Permit, or offer to make, a policy or contract of life insurance, annuity, or accident and health insurance, or agreement as to such policy or contract, other than as plainly expressed in the policy or contract issued thereon; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Pay, allow, give, or offer to pay, allow, or give, directly or indirectly as inducement to such policy or contract:</text>
+        <para>
+          <num>(A)</num>
+          <text>A rebate of premiums payable on the policy or contract;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A special favor or advantage in the dividends or other benefits thereon; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A valuable consideration or inducement not specified in the contract.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No person shall directly or indirectly give, sell, purchase, or offer, or agree to give, sell, purchase, or offer as inducement to the policy or contract specified in subsection (a) of this section, or in connection therewith:</text>
+      <para>
+        <num>(1)</num>
+        <text>Stocks, bonds, or other securities of an insurance company or other corporation, association, or partnership;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Dividends or profits accrued or to accrue thereon; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Anything of value not specified in the contract.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No person shall receive or accept as inducement to a policy or contract:</text>
+      <para>
+        <num>(1)</num>
+        <text>A rebate of premium payable on the policy or contract;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A special favor or advantage in the dividends or other benefits to accrue on the policy or contract; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A valuable consideration or inducement not specified in the contract.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Section 31-2231.11 or this section shall not be construed to include within the definition of discrimination or rebates any of the following practices:</text>
+      <para>
+        <num>(1)</num>
+        <text>In the case of a contract of life insurance or life annuity, paying bonuses to policyholders or otherwise abating their premiums in whole or in part out of surplus accumulated from nonparticipating insurance; provided, that the bonuses or abatement of premiums shall be fair and equitable to policyholders and for the best interests of the company and its policyholders;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the case of life insurance policies issued on the industrial debit, preauthorized check, bank draft, or similar plans, making allowance to policyholders who have continuously for a specified period made premium payments directly to an office of the insurer in an amount which fairly represents the saving in collection expenses;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Readjustment of the rate of premium for a group insurance policy based on the loss or expense experience thereunder at the end of the first or a subsequent policy year of insurance thereunder, which may be made retroactive only for the policy year;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Reduction of premium rates for policies of large amounts, but not exceeding savings in issuance and administration expenses reasonably attributable to the policies as compared with policies of similar plans issued in smaller amounts;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Issuing life or health insurance policies or annuity contracts on a salary savings or payroll deduction plan, or other distribution plan, at reduced rates reasonably commensurate with the savings made by the use of the plan; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Issuance of health insurance policies which provide for increases in benefits to policyholders who maintain their policies continuously in force without lapse for specified periods.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Section 31-2231.11 or this section shall not be construed to include within the definition of securities an inducement to purchase insurance, the selling or offering for sale, contemporaneously with life insurance, mutual fund shares or face amount certificates of regulated investment companies under offerings registered with the United States Securities and Exchange Commission where the shares, the face amount certificates, or the insurance may be purchased independently of, and not contingent upon, purchase of the other, at the same price and upon similar terms and conditions as where purchased independently.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>For the purposes of § <cite path="§31-2231.11">31-2231.11</cite> or this section, the term “valuable consideration” shall not include any educational materials, promotional materials, or articles of merchandise that cost less than $10, regardless of whether a policy or contract is purchased.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 112, 48 DCR 1225</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-2231.13">31-2231.13</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.13">113</num>
+    <heading>Unfair discrimination and rebates prohibited; property, casualty, and surety insurance.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person offering property, casualty, or surety insurance, or an employee or representative thereof, shall pay, allow, or give, or offer to pay, allow, or give, directly or indirectly, as an inducement to insure, or after insurance has been effected, a rebate, discount, abatement, credit, or reduction of the premium named in a policy of insurance, or a special favor or advantage in the dividends or other benefits to accrue thereon, or a valuable consideration or inducement whatsoever, not specified or provided for in the policy, except to the extent provided for in an applicable filing with the Commissioner as allowed by law.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An insured named in a policy, or an employee of the insured, shall not knowingly receive, offer, or accept, directly or indirectly, a rebate, discount, abatement, credit, or reduction of premium, or a special favor or advantage or valuable consideration or inducement, as proscribed by subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No insurer shall make or permit an unfair discrimination between insured property having like insuring or risk characteristics, in the premium or rates charged for insurance, in the dividends or other benefits payable thereon, or in any other of the terms and conditions of the insurance.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Notwithstanding any other provision in this section, an insurer shall not make or permit a differential in ratings, premium payments, or dividends based on the marital status, race, color, personal appearance, sexual orientation, gender identity or expression, matriculation, or political affiliation of an applicant or policy holder unless there is actuarial justification for the differential. For the purposes of this subsection, the term “matriculation” shall have the same meaning as in § <cite path="§2-1401.02">2-1401.02</cite>(18). Nothing in this section shall limit or otherwise restrict any discount, rating, or credit program filed with the Commissioner.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Nothing in this section shall be construed as prohibiting the payment of commissions or other compensation to duly licensed agents or brokers or as prohibiting any insurer from allowing or returning to its participating policyholders, members or subscribers, lawful dividends, savings, or unabsorbed premium deposits.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>No person shall commit or permit an unfair discrimination between individuals or risks of the same class and of essentially the same hazard by refusing to insure, refusing to renew, canceling, or limiting the amount of insurance coverage on a property or casualty risk solely because of the geographic location of the individual or risk, unless the action is for a sound business purpose that is not a mere pretext for unfair discrimination, or unless the refusal, cancellation, or limitation is required by law or regulatory mandate.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>No person shall commit or permit an unfair discrimination between individuals or risks of the same class and of essentially the same hazard by refusing to insure, refusing to renew, canceling, or limiting the amount of insurance coverage on the residential property risk, or the personal property contained in a residential property risk, solely because of the age of the residential property.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <para>
+        <num>(1)</num>
+        <text>For purposes of § <cite path="§31-2231.12">31-2231.12</cite> or this section, the term “valuable consideration” shall not include any educational materials, promotional materials, or articles of merchandise that cost less than $10, regardless of whether a policy or contract is purchased.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the purposes of this section, the term “insurance” shall include suretyship and the term “policy” shall include a bond.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>This section shall not apply to wet marine and transportation insurance.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 113, 48 DCR 1225</annotation>
+        <annotation doc="D.C. Law 14-28">Oct. 3, 2001, D.C. Law 14-28, § 2702(b), 48 DCR 6981</annotation>
+        <annotation doc="D.C. Law 17-177">June 25, 2008, D.C. Law 17-177, § 16(c), 55 DCR 3696</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-28">D.C. Law 14-28</cite> rewrote subsec. (d) which had read:</annotation>
+        <annotation>“(d) Notwithstanding any other provision in this section, an insurer shall not make or permit a differential in ratings, premium payments, or dividends based on the sex, physical handicap, or disability of an applicant or policyholder unless there is actuarial justification for the differential.”</annotation>
+        <annotation><cite doc="D.C. Law 17-177">D.C. Law 17-177</cite>, in subsec. (d), substituted “sexual orientation, gender identity or expression” for “sexual orientation”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment section, see § 2502(b) of Fiscal Year 2002 Budget Support Emergency Act of 2001 (D.C. Act 14-124, August 3, 2001,  48 DCR 7861).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.14">114</num>
+    <heading>Interlocking ownerships, management.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An insurer may retain, invest in, or acquire the whole or any part of the capital stock of any other insurer, or have a common management with another insurer, unless the retention, investment, acquisition, or common management is inconsistent with another provision of law, or, by reason thereof, the business of the insurers with the public is conducted in a manner which substantially lessens competition generally in the insurance business or tends to create a monopoly.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A person otherwise qualified may be a director of 2 or more insurers which are competitors unless the effect is to lessen substantially competition between insurers generally or tends materially to create a monopoly.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 114, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.15">115</num>
+    <heading>Unfair financial planning practices; an insurance agent or broker.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person shall hold himself or herself out, directly or indirectly, to the public as a financial planner, investment adviser, consultant, financial counselor, or any other specialist engaged in the business of giving financial planning or advice relating to investments, insurance, real estate, tax matters, or trust and estate matters if the person is in fact engaged only in the sale of insurance policies or contracts.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>No person shall engage in the business of financial planning without disclosing to the client before the execution of the agreement provided for in subsection (c) of this section or the solicitation of the sale of a product or service that:</text>
+        <para>
+          <num>(A)</num>
+          <text>He or she is also an insurance salesperson; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A commission for the sale of an insurance product will be received in addition to a fee for financial planning, if it is the case.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The disclosure under this subsection may be made by including it in a disclosure document required by federal or state securities law.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>All fees, other than commissions for financial planning by an insurance producer, shall be based upon a written agreement signed by the party to be charged in advance of the performance of the services under the agreement. A copy of the agreement shall be provided to the party to be charged at the time the agreement is signed by the party. The agreement shall specifically state:</text>
+      <para>
+        <num>(1)</num>
+        <text>The services for which the fee is to be charged;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The amount of the fee to be charged or the manner in which it will be determined; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The client shall not be required to purchase an insurance product through the person furnishing the agreement.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The person furnishing the agreement shall retain a copy for at least 3 years after completion of services. A copy shall be available to the Commissioner upon request.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 115, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.16">116</num>
+    <heading>Failure to provide claims history.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A property and casualty insurer shall provide the following loss information for the 3 previous policy years to the first named insured within 30 days of receipt of the first named insured’s written request:</text>
+      <para>
+        <num>(1)</num>
+        <text>On all claims, the date and description of occurrence, and the total amount of payments; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For any occurrence not included in paragraph (1) of this subsection, the date and description of the occurrence.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If the first named insured is requested by a prospective insurer to provide detailed loss information other than that required under subsection (a) of this section, the first named insured may mail or deliver a written request to the insurer for the additional information. No prospective insurer shall request more detailed loss information than is reasonably required to underwrite the same line or class of insurance. The insurer shall provide the information under subsection (a) of this section to the first named insured as soon as possible, but not later than 20 days after the receipt of the written request. Notwithstanding any other provision of this section, no insurer shall be required to provide loss reserve information, and no prospective insurer may refuse to insure an applicant, solely because the prospective insurer is unable to obtain loss reserve information.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commissioner may promulgate regulations to exclude the provision of the loss information as set forth in subsection (a) of this section for any line or class of insurance if it can be shown that the information is not needed for that line or class of insurance or if the provision of loss information is otherwise required by law.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Information provided under subsection (a) of this section shall not be subject to discovery by a party other than the insured, the insurer, and the prospective insurer.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 116, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.17">117</num>
+    <heading>Unfair claim settlement practices.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person shall commit or perform with such frequency as to indicate a general business practice any of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Knowingly misrepresent pertinent facts or insurance policy provisions relating to the claim at issue;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Refuse to pay a claim for a reason that is arbitrary or capricious based on all available information;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Attempt to settle a claim on the basis of an application which is altered without notice to, or the knowledge or consent of, the insured;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Fail to include with a claim paid to an insured or beneficiary a statement setting forth the coverage under which payment is being made;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Fail to settle a claim promptly whenever liability is reasonably clear under one portion of a policy in order to influence settlements under other portions of the policy; or</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Fail promptly upon request to provide a reasonable explanation of the basis for a denial of a claim.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No person shall commit or perform with such frequency as to indicate a general business practice any of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Knowingly misrepresent pertinent facts or insurance policy provisions relating to coverage at issue;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Fail to acknowledge and act reasonably promptly upon communication with respect to claims arising under insurance policies;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Fail to adopt and implement reasonable standards for the prompt investigation of claims arising under insurance policies;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Refuse to pay claims without conducting a reasonable investigation;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Fail to affirm or deny coverage of claims within a reasonable time after proof of loss statements have been completed or after having completed its investigation related to the claims;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Not attempt in good faith to effectuate prompt, fair, and equitable settlement of claims submitted in which liability has become reasonably clear;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Compel insureds or beneficiaries to institute suits to recover amounts due under its policies by offering substantially less than the amounts ultimately recovered in actions brought by the insureds or beneficiaries;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Attempt to settle a claim for less than the amount to which a reasonable person would believe the insured or beneficiary was entitled by reference to written or printed advertising material accompanying or made part of an application or policy;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Attempt to settle claims on the basis of an application which was materially altered without notice to or knowledge or consent of the insured;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Make claims payments to an insured or beneficiary without indicating the coverage under which each payment is being made;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Make known to insureds or claimants of a policy of appealing from arbitration awards in favor of insureds or claimants for the purpose of compelling them to accept settlements or compromises of less than the amount awarded in arbitration;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Unreasonably delay the investigation or payment of claims by requiring both a formal proof of loss form and subsequent verification that would result in duplication of information and verification appearing in the formal proof of loss form;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Fail, in the case of claims denials or offers of compromise settlement, to promptly provide a reasonable and accurate explanation of the basis for such action; or</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Make false or fraudulent statements or representations on, or relative to an application for, a policy, for the purpose of obtaining a fee, commission, money, or other benefit from a provider or individual person.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commissioner may impose a penalty of up to $1,000 for each violation of subsection (a) of this section or of a regulation promulgated under subsection (a) of this section. The Commissioner may impose a penalty for violations of subsection (b) of this section as provided in § <cite path="§31-4305">31-4305</cite>, § <cite path="§31-2602.24">31-2602.24</cite> [repealed], § <cite path="§31-2502.03">31-2502.03</cite>, and § <cite path="§31-1105">31-1105</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 117, 48 DCR 1225</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 20(a), 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsec. (c), validated a previously made technical correction.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.18">118</num>
+    <heading>Failure to maintain complaint handling procedures.</heading>
+    <text>An insurer shall maintain a complete record of all complaints which it has received since the date of its last examination as otherwise required in this chapter. The record shall indicate the total number of complaints, their classification by line of insurance, the nature of each complaint, the disposition of each complaint, and the time to process each complaint. For purposes of the section, the term “complaint” shall mean a written communication from a policyholder, subscriber, claimant, or insurance department primarily expressing a grievance.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 118, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.19">119</num>
+    <heading>Misrepresentation in insurance application.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person shall make false or fraudulent statements or representations on, or relative to, an application for an insurance policy for the purpose of obtaining a fee, commission, money, or other benefit from a provider or individual person.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No person shall cause to be presented a false or fraudulent claim, or proof in support of a claim, for the payment of the loss upon a contract of insurance or prepare, make, or subscribe a false or fraudulent account, certificate, affidavit, proof of loss, or other document or writing with the intent that it may be presented or used in support of a false or fraudulent claim.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 119, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.20">120</num>
+    <heading>Favored agent or insurer; coercion of debtors.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person shall require, as a condition to the lending of money or extension of credit, or a renewal thereof, that the person to whom the money or credit is extended, or whose obligation a creditor is to acquire or finance, negotiate an insurance policy or renewal thereof through a particular insurer or group of insurers or agent, broker, or group of agents or brokers.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No person who lends money or extends credit shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Solicit insurance for the protection of real property after a person indicates interest in securing a first mortgage credit extension until the person has received a commitment in writing from the lender as to a loan or credit extension;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Unreasonably reject an insurance policy provided by a borrower for the protection of property securing a credit or lien. A rejection shall not be unreasonable if it is based on reasonable standards and uniformly applied relating to the extent of coverage required and the financial soundness and the services of an insurer. The standards shall not discriminate against a particular type of insurer or reject a policy because it contains coverage in addition to that required in the credit transaction;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Require, directly or indirectly, that a debtor, borrower, mortgagor, purchaser, insurer, broker, or agent pay a separate charge or consideration in connection with the handling of an insurance policy required as security for a loan on real estate or pay a separate charge or consideration of any kind for substituting the insurance policy of one insurer for that of another. This prohibition shall not include the interest which may be charged on premium loans or premium advancements in accordance with the terms of the security instrument;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Use or disclose, without the prior written consent of the borrower, mortgagor, or purchaser taken at a time other than the making of the loan or extension of credit, information relative to an insurance policy which is required by the credit transaction for the purpose of replacing the insurance; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Require a procedure or condition of duly licensed agents, brokers, or insurers not customarily required of agents, brokers, or insurers affiliated, or in any way connected, with the person who lends money or extends credit.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A person who lends money or extends credit and who solicits insurance on real and personal property shall explain to the borrower in writing that the insurance related to the credit extension may be purchased from an insurer or agent of the borrower’s choice, subject only to the lender’s right to reject a given insurer or agent as provided in subsection (b)(2) of this section. Compliance with disclosures as to insurance required by truth-in-lending laws or comparable state laws shall constitute compliance with this subsection.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Commissioner may examine and investigate those insurance-related activities of a person or insurer that the Commissioner believes may be in violation of this section. A affected person may submit to the Commissioner a complaint or material pertinent to the enforcement of this section.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Nothing herein shall prevent a person who lends money or extends credit from placing insurance on real or personal property if the mortgagor, borrower, or purchaser has failed to provide required insurance in accordance with the terms of the loan or credit document.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Nothing contained in this section shall apply to credit life or credit accident and health insurance.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 120, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.21">121</num>
+    <heading>“Twisting” prohibited.</heading>
+    <text>No person shall make or issue, or cause to be made or issued, a written or oral statement misrepresenting or making incomplete comparisons as to the terms, conditions, or benefits contained in a policy for the purpose of inducing or attempting or tending to induce the policyholder to lapse, forfeit, surrender, retain, exchange, or convert an insurance policy.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 121, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.22">122</num>
+    <heading>Powers of the Commissioner; cease and desist orders.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commissioner may examine and investigate the affairs of a person engaged in the business of insurance in the District of Columbia to determine whether the person has been or is engaged in an unfair trade practice, an unfair method of competition, or an unfair or deceptive action practice under this chapter. The Commissioner may suspend or revoke the license or certificate of authority for a person that violates this chapter or a rule or regulation adopted under this chapter, or fails to comply with an order of the Commissioner.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Commissioner may enforce this chapter, or any rules and regulations adopted under this chapter, by issuing an order:</text>
+        <para>
+          <num>(A)</num>
+          <text>To cease and desist from the violation and further similar violations; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Requiring the violator to correct the violation, including the restitution of money or property to a person aggrieved by the violation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a violator fails to comply with an order issued under paragraph (1) of this subsection, the Commissioner may impose a civil penalty of up to $1,000 for each violation from which the violator failed to cease and desist or which the violator failed to correct.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commissioner may request the Corporation Counsel of the District of Columbia (“Corporation Counsel”) take appropriate action in the Superior Court of the District of Columbia (“Superior Court”) for the enforcement of an order issued under this section. The Corporation Counsel may also seek, and the Superior Court may order or decree, damages and other relief allowed by law, including restitution. In an action brought by the Corporation Counsel under this section, the Corporation Counsel may be awarded attorney’s fees and costs.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>In determining the amount of financial penalty to be imposed under subsection (b) of this section, the Commissioner shall consider the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The seriousness of the violation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The good faith of the violator;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The violator’s history of previous violations;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The deleterious effect of the violation on the public and the insurance industry;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The assets of the violator; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Any other factor relevant to the determination of the financial penalty.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 122, 48 DCR 1225</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-2231.23">31-2231.23</cite> and § <cite path="§31-2231.24">31-2231.24</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.23">123</num>
+    <heading>Hearings.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Before the Commissioner takes an action under § <cite path="§31-2231.22">31-2231.22</cite>, the Commissioner shall provide the person alleged to have violated this chapter an opportunity for a hearing.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Notice of the hearing shall be given, and the hearing shall be held, in accordance with §§ <cite path="§2-509">2-509</cite> and <cite path="§2-510">2-510</cite>.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The hearing notice shall be served at the person’s principal place of business by certified mail, return receipt requested, at least 30 days before the hearing.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Commissioner may administer oaths or affirmations, examine and cross-examine witnesses, receive oral and documentary evidence, and shall have the power to subpoena witnesses, compel their attendance, and require the production of books, papers, records, correspondence, or other documents deemed relevant to the matter at issue.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>In the case of a refusal of a person to comply with any subpoena issued or to testify with respect to any matter upon which the person may be lawfully interrogated, the Superior Court, on application of the Commissioner, may issue an order requiring the person to comply with the subpoena or to testify.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 123, 48 DCR 1225</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-2231.24">31-2231.24</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.24">124</num>
+    <heading>Judicial review.</heading>
+    <text>If, after any hearing under § <cite path="§31-2231.23">31-2231.23</cite>, the Commissioner does not find a violation of this chapter, an aggrieved person may, within 60 days after the decision has been issued, or later in connection with § <cite path="§31-2231.11">31-2231.11</cite>(a), (b), or (b-1) upon a showing of good cause by a victim of an intrafamily offense, sexual assault, dating violence, or stalking, appeal the decision of the Commissioner to the District of Columbia Court of Appeals. In addition, any person subject to an order of the Commissioner under § <cite path="§31-2231.22">31-2231.22</cite> may obtain a review of the order by filing in the District of Columbia Court of Appeals, within 60 days after the order has been issued, a written petition requesting that the order of the Commissioner be set aside. Except as provided above for the time for filing an appeal, appeals shall be made in accordance with § <cite path="§2-510">2-510</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 124, 48 DCR 1225</annotation>
+        <annotation doc="D.C. Law 18-360">Apr. 8, 2011, D.C. Law 18-360, § 202(b), 58 DCR 896</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-360">D.C. Law 18-360</cite> substituted “issued, or later in connection with § <cite path="§31-2231.11">31-2231.11</cite>(a), (b), or (b-1) upon a showing of good cause by a victim of an intrafamily offense, sexual assault, dating violence, or stalking, appeal” for “issued, appeal”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 203 of <cite doc="D.C. Law 18-360">D.C. Law 18-360</cite> provided: “Sec. 203. Application. This title shall apply to policies and certificates of insurance that are health benefit plans as defined under section 2(4) of the Health Insurance Coverage for Habilitative Services for Children Act of 2006, effective March 2, 2007 (<cite doc="D.C. Law 16-198">D.C. Law 16-198</cite>; D.C. Official Code § <cite path="§31-3271">31-3271</cite>(4)), that are issued 90 days after the effective date of this title. This title shall not apply to short-term limited duration health benefit plans.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|22A"/>
+    <num codify:value="31-2231.25">125</num>
+    <heading>Regulations.</heading>
+    <text>The Commissioner may, in accordance with § <cite path="§2-505">2-505</cite>, promulgate reasonable rules, regulations, or orders as are necessary or appropriate to carry out and effectuate the provisions of this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-265">Apr. 3, 2001, D.C. Law 13-265, § 125, 48 DCR 1225</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

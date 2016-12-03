@@ -1,10 +1,102 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 52-2-ch65">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 52-2-ch65">
+  <heading/>
   <meta>
     <effective>1892-05-11</effective>
     <cites>
-        <law congress="52" session="2" chapter="65"/>
+      <law congress="52" session="2" chapter="65"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|10|I"/>
+    <num codify:value="5-1001">1</num>
+    <heading>Attendance of witnesses — Issuance of subpoenas; fees.</heading>
+    <text>Any trial board of the Metropolitan Police force or the Fire Department of the District of Columbia shall have the power to issue subpoenas in the name of the Chief Judge of the Superior Court of the District of Columbia to compel witnesses to appear and testify and/or to produce all books, records, papers or documents before said trial board; provided, that witnesses other than those employed by the District of Columbia subpoenaed to appear before said trial board shall be entitled to the same fees as are paid witnesses for attendance before the Superior Court of the District of Columbia, but said fees need not be tendered said witnesses in advance of their appearing and testifying and/or producing books, records, papers or documents before said trial board.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 11, 1892, 27 Stat. 29, ch. 65, § 1</annotation>
+        <annotation>Feb. 20, 1896, 29 Stat. 10, ch. 25, § 1</annotation>
+        <annotation>Apr. 16, 1932, 47 Stat. 86, ch. 118, § 1</annotation>
+        <annotation>June 25, 1936, 49 Stat. 1921, ch. 804</annotation>
+        <annotation>June 25, 1948, 62 Stat. 991, ch. 646, § 32(a), (b)</annotation>
+        <annotation>May 24, 1949, 63 Stat. 107, ch. 139, § 127</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 571, Pub. L. 91-358, title I, § 155(c)(14)(A)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Insanitary buildings, condemnation, condemnation review board, see § <cite path="§6-902">6-902</cite>.</annotation>
+        <annotation>Merit system, Application to police officers and firefighters, see § <cite path="§1-632.03">1-632.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-632.03">1-632.03</cite>, § <cite path="§5-1002">5-1002</cite>, § <cite path="§5-1003">5-1003</cite>, and § <cite path="§6-902">6-902</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-801.</annotation>
+        <annotation>1973 Ed., § 4-601.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|10|I"/>
+    <num codify:value="5-1002">2</num>
+    <heading>Attendance of witnesses — Wilful false swearing.</heading>
+    <text>Any wilful false swearing on the part of any witness before any trial board mentioned in § <cite path="§5-1001">5-1001</cite> as to any material fact shall be deemed perjury and shall be punished in the manner prescribed by law for such offense.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 11, 1892, 27 Stat. 29, ch. 65, § 2</annotation>
+        <annotation>Feb. 20, 1896, 29 Stat. 10, ch. 25, § 2</annotation>
+        <annotation>Apr. 16, 1932, 47 Stat. 87, ch. 118, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Insanitary buildings, condemnation, condemnation review board, see § <cite path="§6-902">6-902</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-902">6-902</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-802.</annotation>
+        <annotation>1973 Ed., § 4-602.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|10|I"/>
+    <num codify:value="5-1003">3</num>
+    <heading>Attendance of witnesses — Neglect or refusal to obey subpoena.</heading>
+    <text>If any witness, having been personally summoned, shall neglect or refuse to obey the subpoena issued in § <cite path="§5-1001">5-1001</cite>, then in that event the chairman of the trial board may report that fact to the Superior Court of the District of Columbia or 1 of the judges thereof and said Court, or any judge thereof, is empowered to compel obedience to said subpoena to the same extent as witnesses may be compelled to obey the subpoenas of that Court.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 11, 1892, 27 Stat. 29, ch. 65, § 3</annotation>
+        <annotation>Feb. 20, 1896, 29 Stat. 10, ch. 25, § 3</annotation>
+        <annotation>Apr. 16, 1932, 47 Stat. 87, ch. 118, § 2</annotation>
+        <annotation>June 25, 1936, 49 Stat. 1921, ch. 804</annotation>
+        <annotation>June 25, 1948, 62 Stat. 991, ch. 646, § 32(a), (b)</annotation>
+        <annotation>May 24, 1949, 63 Stat. 107, ch. 139, § 127</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 571, Pub. L. 91-358, title I, § 155(c)(14)(B)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Insanitary buildings, condemnation, condemnation review board, see § <cite path="§6-902">6-902</cite>.</annotation>
+        <annotation>Investigations and examinations, see § <cite path="§5-1021">5-1021</cite>.</annotation>
+        <annotation>Merit system, application to police officers and firefighters, see § <cite path="§1-632.03">1-632.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-902">6-902</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-803.</annotation>
+        <annotation>1973 Ed., § 4-603.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

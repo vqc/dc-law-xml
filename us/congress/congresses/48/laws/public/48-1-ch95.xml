@@ -1,10 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 48-1-ch95">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 48-1-ch95">
+  <heading/>
   <meta>
     <effective>1883-03-03</effective>
     <cites>
-        <law congress="48" session="1" chapter="95"/>
+      <law congress="48" session="1" chapter="95"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§2-225.15" path="|2|2|XIII|A"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-225.14">1</num>
+    <heading>Auction of property unfit for service; proceeds.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1883, 22 Stat. 470, ch. 95, § 1</annotation>
+        <annotation doc="D.C. Law 11-259">April 12, 1997, D.C. Law 11-259,§ 408, 44 DCR 1423</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-1123.</annotation>
+        <annotation>1973 Ed., § 1-818.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

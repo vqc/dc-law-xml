@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 11-180">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 11-180">
   <num type="law">11-180</num>
   <heading type="short">John A. Wilson Building Foundation Act</heading>
   <meta>
@@ -12,4 +12,286 @@
       <narrative>Law 11-180, the “John A. Wilson Building Foundation Act,” was introduced in Council and assigned Bill No. 11-503, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 4, 1996, and July 3, 1996, respectively. Signed by the Mayor on July 22, 1996, it was assigned Act No. 11-331 and transmitted to both Houses of Congress for its review. D.C. Law 11-180 became effective on April 9, 1997.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|13|II"/>
+    <num codify:value="10-1331">2</num>
+    <heading>Findings.</heading>
+    <text>The Council of the District of Columbia finds that:</text>
+    <para>
+      <num>(1)</num>
+      <text>Pursuant to § <cite path="§10-1301">10-1301</cite>, the Council has the exclusive authority to determine the use, management, maintenance, operation, repair, renovation, security, lease, and sale or other disposition of the building located at 1350 Pennsylvania Avenue, N.W., known as the John A. Wilson Building (“Wilson Building”).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Wilson Building is the traditional seat of local government located on Pennsylvania Avenue, the “Main Street” of the Nation’s Capital, and a source of pride and hope for our District residents.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Wilson Building is in need of renovation and restoration and contains environmental conditions which should be eliminated to provide a safe and healthy working environment and to ensure compliance with all federal and local building regulations.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Because of the current fiscal state of the District government, funds are not available to make expenditures estimated at $47.1 million to $60 million to renovate and restore the Wilson Building.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-180">Apr. 9, 1997, D.C. Law 11-180, § 2, 43 DCR 4246</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-731.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of subchapter, see §§ 2 through 8 of the Establishment of the John A. Wilson Building Foundation Emergency Act of 1995 (D.C. Act 11-161, November 27, 1995,  42 DCR 6781), §§ 2 through 8 of the Establishment of the John A. Wilson Building Foundation Congressional Review Emergency Act of 1996 (D.C. Act 11-209, February 14, 1996,  43 DCR 798), § 2 through 7 of the John A. Wilson Building Foundation Congressional Review Emergency Act of 1996 (D.C. Act 11-406, October 24, 1996,  43 DCR 5814), and § 2 through 7 of the Establishment of the John A. Wilson Building Foundation Congressional Adjournment Emergency Act of 1997 (D.C. Act 12-8, March 3, 1997,  44 DCR 1625).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|13|II"/>
+    <num codify:value="10-1332">3</num>
+    <heading>Establishment of the Wilson Building Foundation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established in the District of Columbia the John A. Wilson Building Foundation (“Foundation”), a private-public nonprofit corporation.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The purposes of the Foundation are:</text>
+      <para>
+        <num>(1)</num>
+        <text>To develop a long-range plan for the use of the Wilson Building by the District government and by the public; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To develop and implement a fundraising plan to pay for the renovation and restoration of the Wilson Building.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-180">Apr. 9, 1997, D.C. Law 11-180, § 3, 43 DCR 4246</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-732.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§10-1331">10-1331</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|13|II"/>
+    <num codify:value="10-1333">4</num>
+    <heading>Renovation Development Trust Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a special trust fund to be known as the Renovation Development Trust Fund (“Fund”).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Foundation shall be responsible for administering the Fund.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The monies deposited into the Fund shall not be a part of, nor lapse into, the General Fund of the District.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Monies in the Fund may derive from any of the following sources:</text>
+      <para>
+        <num>(1)</num>
+        <text>Private donations;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Federal grants;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Other funds received by the Foundation; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Interest or other investment earnings on monies deposited in the Fund.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Foundation shall ensure that monies deposited in the Fund earn the highest and safest rate of return as practicable.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Fund shall be used for the following purposes:</text>
+      <para>
+        <num>(1)</num>
+        <text>As collateral or direct financing for the complete renovation and restoration of the Wilson Building; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To buy out the remaining balance of any loan negotiated between Washington Development Group, Inc., and any financial institution for the renovation and restoration of the Wilson Building, as the Council may direct pursuant to the Endorsement of the Establishment of the John A. Wilson Building Foundation and Washington Development Group, Inc., Development Plan Conditional Approval Resolution of 1995 (Resolution 11-172; 42 DCR 6428), effective November 24, 1995.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>No more than 15% of the monies deposited in the Fund may be used by the Foundation for operating expenses of the Foundation, including the cost of maintaining the Fund.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>If within one year of April 9, 1997, the Foundation has not raised over $1 million in funds, all funds remaining in the Fund at that time shall be returned to the donors or grantors on a pro rata basis minus the administrative costs limited by subsection (g) of this section associated with returning the monies.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-180">Apr. 9, 1997, D.C. Law 11-180, § 4, 43 DCR 4246</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-1336">10-1336</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-733.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§10-1331">10-1331</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|13|II"/>
+    <num codify:value="10-1334">5</num>
+    <heading>Establishment of Board of Directors.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A Board of Directors (“Board”) is established to meet the objectives of the Foundation and to administer the Fund.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Board shall be composed of residents of the District of Columbia who are collectively representative of the geographical, ethnic, economic, and social diversity of the District of Columbia. Advisory committees and subcommittees that may be established by the Foundation may be composed of residents and nonresidents of the District.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Board shall be composed of the following members:</text>
+      <para>
+        <num>(1)</num>
+        <text>One member appointed by each member of the Council, with the chairperson of the Board appointed by the Chairman of the Council;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Secretary to the Council;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Archivist of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A representative of the Historical Society of Washington, D.C.;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A representative of the D.C. Preservation League;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A representative of the National Trust for Historic Preservation;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A representative designated by the Mayor of the District of Columbia; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A representative designated by the John A. Wilson family.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Board shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Have the power to adopt, amend, or repeal by-laws for operation of the Foundation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Meet not less than quarterly at times to be determined;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Prepare and submit to the Council quarterly reports on the progress on the Foundation’s fundraising;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Be authorized to hire staff; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Be authorized to exercise all powers conferred upon a nonprofit corporation pursuant to Chapters 1, 2, and 4 of Title 29.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-180">Apr. 9, 1997, D.C. Law 11-180, § 5, 43 DCR 4246</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(d), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-734.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-378">D.C. Law 18-378</cite>, in subsec. (d)(5), substituted “Chapters 1, 2, and 4 of Title 29” for “Chapter 3 of Title 29”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§10-1331">10-1331</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|13|II"/>
+    <num codify:value="10-1335">6</num>
+    <heading>Administration of the Foundation.</heading>
+    <text>The Secretary to the Council is responsible for the administration of the Foundation. No more than 15% of the total funds raised in any given year can be used for the administrative support, including staff, supplies, and promotional activities of the Foundation.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-180">Apr. 9, 1997, D.C. Law 11-180, § 6, 43 DCR 4246</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-735.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§10-1331">10-1331</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|13|II"/>
+    <num codify:value="10-1336">7</num>
+    <heading>Sunset provision.</heading>
+    <text>If the Foundation has returned monies deposited in the Fund pursuant to § <cite path="§10-1333">10-1333</cite>(h), the Foundation shall cease all operations.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-180">Apr. 9, 1997, D.C. Law 11-180, § 7, 43 DCR 4246</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-736.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§10-1331">10-1331</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

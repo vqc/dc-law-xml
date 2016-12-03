@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 14-194">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 14-194">
   <num type="law">14-194</num>
   <heading type="short">Omnibus Anti-Terrorism Act of 2002</heading>
   <meta>
@@ -12,4 +12,730 @@
       <narrative>Law 14-194, the “Omnibus Anti-Terrorism Act of 2002”, was introduced in Council and assigned Bill No. 14-373, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on April 9, 2002, and May 7, 2002, respectively. Signed by the Mayor on June 3, 2002, it was assigned Act No. 14-380 and transmitted to both Houses of Congress for its review. D.C. Law 14-194 became effective on October 17, 2002.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23A"/>
+    <num codify:value="7-2331">602</num>
+    <heading>Findings.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The terrorist attacks on September 11, 2001 in New York, Virginia, and Pennsylvania, resulting in grievous loss of life and the concomitant disruption of our national regional services, highlight the need for, and value of, intergovernmental planning and programming at the state level, including the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Mutual assistance between the states entering into this compact and the District of Columbia is also needed for the management of any emergency or disaster that is duly declared by the governor of a state, or the Mayor of the District of Columbia, whether arising from natural disaster, technological hazard, man-made disaster, civil emergency aspects of resources shortages, community disorders, insurgency, or enemy attack.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>There is also a need for mutual assistance between the states and the District of Columbia fostering cooperation in emergency-related exercises, testing, or other training activities using equipment and personnel simulating performance of any aspect of the giving and receiving of aid by party states or subdivisions thereof during emergencies, such actions occurring outside actual declared emergency periods.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The United States Congress issued the Emergency Management Assistance Compact (EMAC) Joint Resolution (Pub. L. No. 104-321) on October 19, 1996, authorizing states, including the District of Columbia, to join in the EMAC.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-194">Oct. 17, 2002, D.C. Law 14-194, § 602, 49 DCR 5306</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|23A"/>
+    <num codify:value="7-2332">603</num>
+    <heading>Authority to execute Compact.</heading>
+    <text>The Mayor is hereby authorized to execute, on behalf of the District of Columbia, the Emergency Management Assistance Compact in the form substantially as follows:</text>
+    <para>
+      <heading>Emergency Management Assistance Compact</heading>
+    </para>
+    <para>
+      <heading>Article I</heading>
+    </para>
+    <para>
+      <heading>Purpose and Authorities</heading>
+      <para>
+        <num>(a)</num>
+        <text>This compact is made and entered into by and between the participating member states that enact this compact, hereinafter called party states. For the purposes of this compact, the term “states” is taken to mean the several states, the Commonwealth of Puerto Rico, the District of Columbia, and all U.S. territorial possessions.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The purpose of this compact is to provide for mutual assistance between the states entering into this compact in managing any emergency or disaster that is duly declared by the Governor (Mayor) of the affected state(s), whether arising from natural disaster, technological hazard, man-made disaster, civil emergency aspects of resources shortages, community disorders, insurgency, or enemy attack.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>This compact shall also provide for mutual cooperation in emergency-related exercises, testing, or other training activities using equipment and personnel simulating performance of any aspect of the giving and receiving of aid by party states or subdivision of party states during emergencies, such actions occurring outside actual declared emergency period. Mutual assistance in this compact may include the use of the states’ National Guard forces, either in accordance with the National Guard Mutual Assistance Compact or by mutual agreement between states.</text>
+      </para>
+    </para>
+    <para>
+      <heading>Article II</heading>
+    </para>
+    <para>
+      <heading>General Implementation</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each party state entering into this compact recognizes that many emergencies transcend political jurisdictional boundaries and that intergovernmental coordination is essential in managing these and other emergencies under this compact. Each state further recognizes that there will be emergencies which require immediate access and present procedures to apply outside resources to make a prompt and effective response to such an emergency. This is because few, if any, individual states have all the resources they may need in all types of emergencies of delivering resources to areas where emergencies exist.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The prompt, full, and effective utilization of resources of the participating states, including any resources on hand or available from the federal government or any other source, that are essential to the safety, care, and welfare of the people in the event of any emergency or disaster declared by a party state, shall be the underlying principle on which all articles of this compact shall be understood.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>On behalf of the Governor (Mayor) of each state participating in the compact, the legally designated state official who is assigned responsibility for emergency management will be responsible for formulation of the appropriate interstate mutual aid plans and procedures necessary to implement this compact.</text>
+      </para>
+    </para>
+    <para>
+      <heading>Article III</heading>
+    </para>
+    <para>
+      <heading>Party State Responsibilities</heading>
+      <para>
+        <num>(a)</num>
+        <text>It shall be the responsibility of each party state to formulate procedural plans and programs for interstate cooperation in the performance of the responsibilities listed in this article. In formulating such plans, and in carrying them out, the party states, insofar as practical, shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Review individual state hazards analyses and, to the extent reasonably possible, determine all those potential emergencies the party states might jointly suffer, whether due to natural disaster, technological hazard, man-made disaster, emergency aspects of resources shortages, civil disorders, insurgency, or enemy attack.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Review party states’ individual emergency plans and develop a plan that will determine the mechanism for the interstate management and provision of assistance concerning any potential emergency.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Develop interstate procedures to fill any identified gaps and to resolve any identified inconsistencies or overlaps in existing or developed plans.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Assist in warning communities adjacent to or crossing the state boundaries.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Protect and assure uninterrupted delivery of services, medicines, water, food, energy and fuel, search and rescue, and critical lifeline equipment, services, and resources, both human and material.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Inventory and set procedures for the interstate loan and deliver [sic] of human and material resources, together with procedures for reimbursement or forgiveness.</text>
+          <text>
+            <em>sic</em>
+          </text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Provide, to the extent authorized by law, for temporary suspension of any statutes or ordinances that restrict the implementation of the above responsibilities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The authorized representative of a party state may request assistance of another party state by contacting the authorized representative of that state. The provisions of this compact shall apply only to requests for assistance made by and to authorized representatives. Requests may be verbal or in writing. If verbal, the request shall be confirmed in writing within 30 days of the verbal request. Requests shall provide the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>A description of the emergency service function for which assistance is needed, including, but not limited to, fire services, law enforcement, emergency medical, transportation, communications, public works and engineering, building inspection, planning and information assistance, mass care, resource support, health and medical services, and search and rescue.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The amount and type of personnel, equipment, materials and supplies needed, and a reasonable estimate of the length of time they will be needed.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The specific place and time for staging of the assisting party’s response and a point of contact at that location.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>There shall be frequent consultation between state officials who have assigned emergency management responsibilities and other appropriate representatives of the party states with affected jurisdictions and the United States Government, with free exchange of information, plans, and resource records relating to emergency capabilities.</text>
+      </para>
+    </para>
+    <para>
+      <heading>Article IV</heading>
+    </para>
+    <para>
+      <heading>Limitations</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any party state requested to render mutual aid or conduct exercises and training for mutual aid shall take such action as is necessary to provide and make available the resources covered by this compact in accordance with the terms hereof; provided, that it is understood that the state rendering aid may withhold resources to the extent necessary to provide reasonable protection for such state.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Each party state shall afford to the emergency forces of any party state, while operating within its state limits under the terms and conditions of this compact, the same powers, except that of arrest unless specifically authorized by the receiving state, duties, rights, and privileges as are afforded forces of the state in which they are performing emergency services. Emergency forces will continue under the command and control of their regular leaders, but the organizational units will come under the operational control of the emergency services authorities of the state receiving assistance. These conditions may be activated, as needed, only subsequent to a declaration of a state of emergency or disaster by the Governor of the party state, or the Mayor of the District of Columbia, that is to receive assistance or upon commencement of exercises or training for mutual aid and shall continue so long as the exercises or training for mutual aid are in progress, the state of emergency or disaster remains in effect, or loaned resources remain in the receiving state(s), whichever is longer.</text>
+      </para>
+    </para>
+    <para>
+      <heading>Article V</heading>
+    </para>
+    <para>
+      <heading>Licenses and Permits</heading>
+      <text>Whenever any person holds a license, certificate, or other permit issued by any state party to the compact evidencing the meeting of qualifications for professional, mechanical, or other skills, and when such assistance is requested by the receiving party state, such person shall be deemed licensed, certified, or permitted by the state requesting assistance to render aid involving such skill to meet a declared emergency or disaster, subject to such limitations and conditions as the Governor of the requesting state, or Mayor of the District of Columbia, may prescribe by executive order or otherwise.</text>
+    </para>
+    <para>
+      <heading>Article VI</heading>
+    </para>
+    <para>
+      <heading>Liability</heading>
+      <text>Officers or employees of a party state rendering aid in another state pursuant to this compact shall be considered agents of the requesting state for tort liability and immunity purposes. No party state or its officers or employees rendering aid in another state pursuant to this compact shall be liable on account of any act or omission in good faith on the part of such forces while so engaged or on account of the maintenance or use of any equipment or supplies in connection therewith. Good faith in this article shall not include willful misconduct, gross negligence, or recklessness.</text>
+    </para>
+    <para>
+      <heading>Article VII</heading>
+    </para>
+    <para>
+      <heading>Supplementary Agreements</heading>
+      <text>Inasmuch as it is probable that the pattern and detail of the machinery for mutual aid among two or more states may differ from that among the states that are party hereto, this compact contains elements of a broad base common to all states, and nothing herein contained shall preclude any state from entering into supplementary agreements with another state or affect any other agreements already in force between states. Supplementary agreements may comprehend, but shall not be limited to, provisions for evacuation and reception of injured and other persons and the exchange of medical, fire, police, public utility, reconnaissance, welfare, transportation and communications personnel, and equipment and supplies.</text>
+    </para>
+    <para>
+      <heading>Article VIII</heading>
+    </para>
+    <para>
+      <heading>Compensation</heading>
+      <text>Each party state shall provide for the payment of compensation and death benefits to injured members of the emergency forces of that state and representatives of deceased members of such forces in case such members sustain injuries or are killed while rendering aid pursuant to this compact, in the same manner and on the same terms as if the injury or death were sustained within their own state.</text>
+    </para>
+    <para>
+      <heading>Article IX</heading>
+    </para>
+    <para>
+      <heading>Reimbursement</heading>
+      <text>Any party state rendering aid in another state pursuant to this compact shall be reimbursed by the party state receiving such aid for any loss or damage to or expense incurred in the operation of any equipment and the provisions of any service in answering a request for aid and for the costs incurred in connection with such requests; provided, that any aiding party state may assume in whole or in part such loss, damage, expense, or other cost, or may loan such equipment or donate such services to the receiving party state without charge or cost; and provided further, that any two or more party states may enter into supplementary agreements establishing a different allocation of costs among those states. Article VII expenses shall not be reimbursable under this article.</text>
+    </para>
+    <para>
+      <heading>Article X</heading>
+    </para>
+    <para>
+      <heading>Evacuation</heading>
+      <text>Plans for the orderly evacuation and interstate reception of portions of the civilian population as the result of any emergency or disaster of sufficient proportions to so warrant, shall be worked out and maintained between the party states and the emergency management/services directors of the various jurisdictions where any type of incident requiring evacuations might occur. Such plans shall be put into effect by request of the state from which evacuees come and shall include the manner of transporting such evacuees, the number of evacuees to be received in different areas, the manner in which food, clothing, housing, and medical care will be provided, the registration of evacuees, the providing of facilities for the notification of relatives or friends, and the forwarding of such evacuees to other areas or the bringing in of additional materials, supplies, and all other relevant factors. Such plans shall provide that the party state receiving evacuees and the party state from which the evacuees come shall mutually agree as to reimbursement of out-of-pocket expenses incurred in receiving and caring for such evacuees, for expenditures for transportation, food, clothing, medicines and medical care, and the like items. Such expenditures shall be reimbursed as agreed by the party state from which the evacuees come. After the termination of the emergency or disaster, the party state from which the evacuees come shall assume the responsibility for the ultimate support of repatriation of such evacuees.</text>
+    </para>
+    <para>
+      <heading>Article XI</heading>
+    </para>
+    <para>
+      <heading>Implementation</heading>
+      <para>
+        <num>(a)</num>
+        <text>This compact shall become effective with respect to the District of Columbia immediately upon its enactment into law.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any party state may withdraw from this compact by enacting a statute repealing the same, but such withdrawal shall not take effect until 30 days after the Governor of the withdrawing state, or the Mayor of the District of Columbia, has given notice in writing of such withdrawal to the Governors of all other party states (or to the Mayor of the District of Columbia). Such action shall not relieve the withdrawing state from obligations assumed hereunder prior to the effective date of withdrawal.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Duly authenticated copies of this compact and of such supplementary agreements as may be entered into shall, at the time of their approval, be deposited with each party state and with the Federal Emergency Management Agency and other appropriate agencies of the United States Government.</text>
+      </para>
+    </para>
+    <para>
+      <heading>Article XII</heading>
+    </para>
+    <para>
+      <heading>Validity</heading>
+      <text>This compact shall be construed to effectuate the purposes stated in Article I hereof. If any provisions of this compact is declared unconstitutional, or the applicability thereof to any person or circumstances is held invalid, the constitutionality of the remainder of this compact and the applicability thereof to other persons and circumstances shall not be affected thereby.</text>
+    </para>
+    <para>
+      <heading>Article XIII</heading>
+    </para>
+    <para>
+      <heading>Additional Provisions</heading>
+      <text>Nothing in this compact shall authorize or permit the use of military force by the National Guard of a state at any place outside that state in any emergency for which the President is authorized by law to call into federal service the militia, of [<em>sic</em>  ] for any purpose for which the use of the Army or the Air Force would in the absence of express statutory authorization be prohibited under § 1385 of Title 18 of the United States Code  .</text>
+    </para>
+    <para>
+      <heading>Article XIV</heading>
+    </para>
+    <para>
+      <heading>District of Columbia Provisions</heading>
+      <para>
+        <num>(a)</num>
+        <text>Absent congressional authority to the contrary, with respect to the District of Columbia, no provision of this contract shall supercede the requirements of 31 U.S.C. § 1341(a)(1)(A) or of D.C. Official Code § <cite path="§1-204.46">1-204.46</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The District of Columbia may purchase liability insurance to ensure against debts and obligations that may be incurred as a result of its participation in any mutual aid agreement authorized by, and entered into, pursuant to this compact.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-194">Oct. 17, 2002, D.C. Law 14-194, § 603, 49 DCR 5306</annotation>
+        <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 49, 51 DCR 881</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-2361.01">7-2361.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (b) of Article XIV, validated a previously made technical correction.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|14"/>
+    <num codify:value="22-1409">702</num>
+    <heading>Use of official insignia; penalty for unauthorized use.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Metropolitan Police Department and the Fire and Emergency Medical Services Department shall have the sole and exclusive rights to have and use, in carrying out their respective missions, the official badges, patches, emblems, copyrights, descriptive or designating marks, and other official insignia displayed upon their current and future uniforms.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any person who, for any reason, makes or attempts to make unauthorized use of, or aids or attempts to aid another person in the unauthorized use or attempted unauthorized use of the official badges, patches, emblems, copyrights, descriptive or designated marks, or other official insignia of the Metropolitan Police Department or the Fire and Emergency Medical Services Department shall, upon conviction, be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, imprisoned for not more than one year, or both.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-194">Oct. 17, 2002, D.C. Law 14-194, § 702, 49 DCR 5306</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 220, 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $1,000” in (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 220 of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|31B"/>
+    <num codify:value="22-3151">101</num>
+    <heading>Short title.</heading>
+    <text>This chapter may be cited as the “Anti-Terrorism Act of 2002”.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-194">Oct. 17, 2002, D.C. Law 14-194, § 101, 49 DCR 5306</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|31B"/>
+    <num codify:value="22-3152">102</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Act of terrorism” means an act or acts that constitute a specified offense as defined in paragraph (8) of this section and that are intended to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Intimidate or coerce a significant portion of the civilian population of:</text>
+        <para>
+          <num>(i)</num>
+          <text>The District of Columbia; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The United States; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Influence the policy or conduct of a unit of government by intimidation or coercion.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Biological agent” means any microorganism, virus, infectious substance, or biological product that may be engineered as a result of biotechnology, or any naturally occurring or bioengineered component of any such microorganism, virus, infectious substance, or biological product, capable of causing:</text>
+      <para>
+        <num>(A)</num>
+        <text>Death, disease, or other biological malfunction in a human, an animal, a plant, or another living organism;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Deterioration of food, water, equipment, supplies, or material of any kind; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Deleterious alteration of the environment.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Hoax weapon of mass destruction” means any device or object that by its design, construction, content, or characteristics, appears to be or to contain, or is represented to be or to contain a weapon of mass destruction, even if it is, in fact, an inoperative facsimile or imitation of a weapon of mass destruction, or contains no weapon of mass destruction.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Material support or resources” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>Expert services or assistance;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Currency, financial securities or other monetary instruments, financial services, lodging, training, false documentation or identification, equipment, facilities, weapons, lethal substances, explosives, personnel, transportation, and other physical assets; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A weapon of mass destruction.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Nuclear material” means material containing any:</text>
+      <para>
+        <num>(A)</num>
+        <text>Plutonium;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Uranium not in the form of ore or ore residue that contains the mixture of isotopes as occurring in nature;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Enriched uranium, defined as uranium that contains the isotope 233 or 235 or both in such amount that the abundance ratio of the sum of those isotopes to the isotope 238 is greater than the ratio of the isotope 235 to the isotope 238 occurring in nature; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Uranium 233.</text>
+      </para>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Provision of material support or resources for an act of terrorism” means the act of providing material support or resources to a person or an organization with the purpose or knowledge that the material support or resources will be used, in whole or in part, to plan, prepare, or carry out an act of terrorism, or to flee after committing an act of terrorism.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Solicitation of material support or resources to commit an act of terrorism” means the act of raising, soliciting, or collecting material support or resources with the purpose or knowledge that such material support or resources will be used, in whole or in part, to plan, prepare, or carry out an act of terrorism, or to flee after committing an act of terrorism.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Specified offense” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>Section 22-2101 (Murder in the first degree);</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Section 22-2102 (Murder in the first degree — placing obstructions upon or displacement of railroads);</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Section 22-2106 (Murder of law enforcement officer or public safety employee);</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Section 22-2103 (Murder in the second degree);</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Section 22-2105 (Manslaughter);</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Section 22-2001 (Kidnapping and conspiracy to kidnap);</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Section 22-401 (Assault with intent to kill only);</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Section 22-406 (Mayhem or maliciously disfiguring);</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>Section 22-301 (Arson);</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>Section 22-303 (Malicious burning, destruction, or injury of another’s property, if the property is valued at $500,000 or more); or</text>
+      </para>
+      <para>
+        <num>(K)</num>
+        <text>An attempt or conspiracy to commit any of the offenses listed in subparagraphs (A) through (J) of this paragraph.</text>
+      </para>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Toxic or poisonous chemical” means any chemical which, through its chemical action on life processes, can cause death, permanent incapacitation, or permanent harm to humans.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Toxin” means the toxic material of plants, animals, microorganisms, viruses, fungi, or infectious substances, or a recombinant molecule, whatever its origin or method of production, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>Any poisonous substance or biological product that may be engineered as a result of biotechnology produced by a living organism; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Any poisonous isomer or biological product, homolog, or derivative of such a substance;</text>
+      </para>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Unit of government” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>The office of the President of the United States;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The United States Congress;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Any federal executive department or agency;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The office of the Mayor of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Any executive department or agency of the District of Columbia, including any independent agency, board, or commission;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>The Council of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>The Superior Court of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>The District of Columbia Court of Appeals;</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>The United States Court of Appeals for the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>The United States District Court for the District of Columbia; or</text>
+      </para>
+      <para>
+        <num>(K)</num>
+        <text>The Supreme Court of the United States.</text>
+      </para>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Weapon of mass destruction” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>Any destructive device that is designed, intended, or otherwise used to cause death or serious bodily injury, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>An explosive, incendiary, or poison gas:</text>
+          <para>
+            <num>(I)</num>
+            <text>Bomb;</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>Grenade;</text>
+          </para>
+          <para>
+            <num>(III)</num>
+            <text>Rocket;</text>
+          </para>
+          <para>
+            <num>(IV)</num>
+            <text>Missile;</text>
+          </para>
+          <para>
+            <num>(V)</num>
+            <text>Mine; or</text>
+          </para>
+          <para>
+            <num>(VI)</num>
+            <text>Device similar to any of the devices described in the preceding clauses;</text>
+          </para>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>A mortar, cannon, or artillery piece; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Any combination of parts either designed or intended for use in converting any device into a device described in sub-subparagraphs (i) through (iii) of this paragraph and from which such device may be readily assembled;</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>An object similar to or used to achieve the same destructive effect of any of the devices described in subparagraph (A) of this paragraph;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Any weapon that is designed, intended, or otherwise used to cause death or serious bodily injury through the release, dissemination, or impact of a toxic or poisonous chemical;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Any weapon that is designed, intended, or otherwise used to cause death or serious bodily injury through the release, dissemination, or impact of a biological agent or toxin; or</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Any weapon that is designed, intended, or otherwise used to cause death or serious bodily injury through the release, dissemination, or impact of radiation or radioactivity, or that contains nuclear material.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-194">Oct. 17, 2002, D.C. Law 14-194, § 102, 49 DCR 5306</annotation>
+        <annotation doc="D.C. Law 16-91">Apr. 7, 2006, D.C. Law 16-91, § 141, 52 DCR 10637</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-307.81">1-307.81</cite>, § <cite path="§2-534">2-534</cite>, § <cite path="§7-2302">7-2302</cite>, and § <cite path="§22-1319">22-1319</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-91">D.C. Law 16-91</cite>, in subpar. (12)(A)(iii), substituted “any device” for “any device described”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|31B"/>
+    <num codify:value="22-3153">103</num>
+    <heading>Acts of terrorism; penalties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A person who commits first degree murder that constitutes an act of terrorism shall, upon conviction, be punished by imprisonment for life without the possibility of release.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A person who commits murder of a law enforcement officer or public safety employee that constitutes an act of terrorism shall, upon conviction, be punished by imprisonment for life without the possibility of release.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A person who commits murder in the second degree that constitutes an act of terrorism may, upon conviction, be punished by imprisonment for life.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A person who commits manslaughter that constitutes an act of terrorism may, upon conviction, be punished by imprisonment for life.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A person who commits kidnapping that constitutes an act of terrorism may, upon conviction, be punished by imprisonment for life.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>A person who commits any assault with intent to kill that constitutes an act of terrorism may, upon conviction, be punished by imprisonment for not more than 30 years.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>A person who commits mayhem or maliciously disfiguring another that constitutes an act of terrorism may, upon conviction, be punished by imprisonment for not more than 20 years.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>A person who commits arson that constitutes an act of terrorism may, upon conviction, be punished by imprisonment for not more than 20 years.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>A person who commits malicious burning, destruction, or injury of another’s property, if such property is valued at $500,000 or more, that constitutes an act of terrorism may, upon conviction, be punished by imprisonment for not more than 20 years.</text>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>A person who attempts or conspires to commit first degree murder, murder of a law enforcement officer or public safety employee, murder in the second degree, manslaughter, or kidnapping that constitutes an act of terrorism may be punished by imprisonment for not more than 30 years.</text>
+    </para>
+    <para>
+      <num>(k)</num>
+      <text>A person who attempts or conspires to commit any assault with intent to kill that constitutes an act of terrorism may, upon conviction, be punished by imprisonment for not more than 20 years.</text>
+    </para>
+    <para>
+      <num>(l)</num>
+      <text>A person who attempts or conspires to commit mayhem or maliciously disfiguring another, arson, or malicious burning, destruction, or injury of another’s property, if such property is valued at $500,000 or more, that constitutes an act of terrorism may, upon conviction, be punished by imprisonment of not more than 15 years.</text>
+    </para>
+    <para>
+      <num>(m)</num>
+      <text>A person who provides material support or resources for an act of terrorism may, upon conviction, be punished by imprisonment for not more than 20 years.</text>
+    </para>
+    <para>
+      <num>(n)</num>
+      <text>A person who solicits material support or resources to commit an act of terrorism may, upon conviction, be punished by imprisonment for not more than 20 years.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-194">Oct. 17, 2002, D.C. Law 14-194, § 103, 49 DCR 5306</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§23-113">23-113</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|31B"/>
+    <num codify:value="22-3154">104</num>
+    <heading>Manufacture or possession of a weapon of mass destruction.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A person who manufactures or possesses a weapon of mass destruction capable of causing multiple deaths, serious bodily injuries to multiple persons, or massive destruction of property may, upon conviction, be punished by imprisonment for life.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A person who attempts or conspires to manufacture or possess a weapon of mass destruction capable of causing multiple deaths, serious bodily injuries to multiple persons, or massive destruction of property may, upon conviction, be punished by imprisonment for not more than 30 years.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In addition to any other penalty provided under this section, a person may be fined an amount not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-194">Oct. 17, 2002, D.C. Law 14-194, § 104, 49 DCR 5306</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 307(a), 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> added (c).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 307(a) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|31B"/>
+    <num codify:value="22-3155">105</num>
+    <heading>Use, dissemination, or detonation of a weapon of mass destruction.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A person who uses, disseminates, or detonates a weapon of mass destruction capable of causing multiple deaths, serious bodily injuries to multiple persons, or massive destruction of property may, upon conviction, be punished by imprisonment for life.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A person who attempts or conspires to use, disseminate, or detonate a weapon of mass destruction capable of causing multiple deaths, serious bodily injuries to multiple persons, or massive destruction of property may, upon conviction, be punished by imprisonment for not more than 30 years.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In addition to any other penalty provided under this section, a person may be fined an amount not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-194">Oct. 17, 2002, D.C. Law 14-194, § 105, 49 DCR 5306</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 307(b), 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> added (c).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 307(b) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|31B"/>
+    <num codify:value="22-3156">106</num>
+    <heading>Jurisdiction.</heading>
+    <text>There is jurisdiction to prosecute any person who participates in the commission of any offense described in this chapter if any act in furtherance of the offense occurs in the District of Columbia or where the effect of any act in furtherance of the offense occurs in the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-194">Oct. 17, 2002, D.C. Law 14-194, § 106, 49 DCR 5306</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

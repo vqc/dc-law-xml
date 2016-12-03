@@ -1,10 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 46-1-ch182">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 46-1-ch182">
+  <heading/>
   <meta>
     <effective>1879-03-03</effective>
     <cites>
-        <law congress="46" session="1" chapter="182"/>
+      <law congress="46" session="1" chapter="182"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§44-2105" path="|44|21"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-2102">1</num>
+    <heading>Expenses of indigent patients — Payment by Treasury Department</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1879, 20 Stat. 395, ch. 182, § 1</annotation>
+        <annotation>July 1, 1916, 39 Stat. 309, ch. 209, § 1</annotation>
+        <annotation doc="Pub. L. 98-621">Nov. 8, 1984, 98 Stat. 3369, Pub. L. 98-621, § 10(v)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-602.</annotation>
+        <annotation>1973 Ed., § 32-402.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 11(b) of Pub. L. 98-621 makes § 10 of that act effective on October 1, 1987.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

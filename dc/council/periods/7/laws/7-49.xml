@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 7-49">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 7-49">
   <num type="law">7-49</num>
   <heading type="short">Uniform Limited Partnership Act of 1987</heading>
   <meta>
@@ -12,4 +12,1259 @@
       <narrative>Law 7-49, “Uniform Limited Partnership Act of 1987,” was introduced in Council and assigned Bill No. 7-227, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on July 14, 1987 and September 29, 1987, respectively. Signed by the Mayor on October 16, 1987, it was assigned Act No. 7-82 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-201.01">101</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 101, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-401.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Applicability date of <cite doc="D.C. Law 18-378">D.C. Law 18-378</cite>: Section 5 of <cite doc="D.C. Law 18-378">D.C. Law 18-378</cite>, as amended by section 7082 of <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, provided: “Sec. 5. Applicability. This act shall apply as of January 1, 2012.”.</text>
+        <text>Section 89(a) of <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> corrected the law reference in <cite doc="D.C. Law 18-378">D.C. Law 18-378</cite>, § 3(y).</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-201.02">102</num>
+    <heading>Name.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 102, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-402.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-201.03">103</num>
+    <heading>Reservation of name.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 103, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-403.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-201.04">104</num>
+    <heading>Principal office and registered agent.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 104, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-404.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-201.05">105</num>
+    <heading>Records to be kept.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 105, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-405.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-201.06">106</num>
+    <heading>Nature of business.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 106, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-406.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-201.07">107</num>
+    <heading>Business transactions of partner with partnership.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 107, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-407.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-201.08">108</num>
+    <heading>Applicability.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 108, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 13-313">June 19, 2001, D.C. Law 13-313, § 15, 48 DCR 1873</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-408.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-201.09">109</num>
+    <heading>Indemnification.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 109, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-409.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-202.01">201</num>
+    <heading>Certificate of limited partnership.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 201, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-421.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-202.02">202</num>
+    <heading>Amendment to certificate of limited partnership.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 202, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-422.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-202.03">203</num>
+    <heading>Cancellation of certificate of limited partnership.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 203, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-423.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-202.04">204</num>
+    <heading>Execution of certificate.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 204, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-424.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-202.05">205</num>
+    <heading>Amendment or cancellation by judicial act.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 205, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-425.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-202.06">206</num>
+    <heading>Filing with the Department.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 206, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-426.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-202.07">207</num>
+    <heading>Liability for false statement in certificate.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 207, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-427.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-202.08">208</num>
+    <heading>Merger and consolidation.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 208, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 9-144">Sept. 10, 1992, D.C. Law 9-144, § 5, 39 DCR 4863</annotation>
+        <annotation doc="D.C. Law 10-138">July 23, 1994, D.C. Law 10-138, § 79, 41 DCR 3010</annotation>
+        <annotation doc="D.C. Law 11-234">Apr. 9, 1997, D.C. Law 11-234, § 1205(1), 44 DCR 777</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-428.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-203.01">301</num>
+    <heading>Admission of limited partners.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 301, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-431.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-203.02">302</num>
+    <heading>Voting.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 302, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-432.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-203.03">303</num>
+    <heading>Liability to third parties.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 303, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 11-30">July 25, 1995, D.C. Law 11-30, § 9, 42 DCR 1547</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-433.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-203.04">304</num>
+    <heading>Person erroneously believing himself or herself a limited partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 304, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-434.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-203.05">305</num>
+    <heading>Information.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 305, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-435.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-204.01">401</num>
+    <heading>Admission of additional general partners.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 401, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-441.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-204.02">402</num>
+    <heading>Ceasing to be a general partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 402, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-442.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-204.03">403</num>
+    <heading>Powers and liabilities.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 403, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-443.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-204.04">404</num>
+    <heading>Contributions by general partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 404, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-444.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-204.05">405</num>
+    <heading>Voting.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 405, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-445.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-205.01">501</num>
+    <heading>Form of contribution.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 501, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-451.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-205.02">502</num>
+    <heading>Liability for contribution.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 502, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-452.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-205.03">503</num>
+    <heading>Sharing of profits and losses.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 503, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-453.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|V"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-205.04">504</num>
+    <heading>Sharing of distributions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 504, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-454.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-206.01">601</num>
+    <heading>Interim distributions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 601, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-461.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-206.02">602</num>
+    <heading>Withdrawal of general partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 602, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-462.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-206.03">603</num>
+    <heading>Withdrawal of limited partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 603, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-463.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-206.04">604</num>
+    <heading>Distribution upon withdrawal.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 604, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-464.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-206.05">605</num>
+    <heading>Distribution in kind.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 605, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-465.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-206.06">606</num>
+    <heading>Status as creditor.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 606, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-466.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-206.07">607</num>
+    <heading>Limitations on return of contributions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 607, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-467.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-206.08">608</num>
+    <heading>Liability upon return of contribution.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 608, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Partnerships, additional limited partners, assignment of a partnership interest, see § <cite path="§33-207.03">33-207.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-468.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VII"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-207.01">701</num>
+    <heading>Nature of partnership interest.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 701, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-471.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VII"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-207.02">702</num>
+    <heading>Assignment of partnership interest.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 702, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-472.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VII"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-207.03">703</num>
+    <heading>Right of assignee to become limited partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 703, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-473.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VII"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-207.04">704</num>
+    <heading>Death, incompetency, insolvency, or termination of a general partner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 704, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-474.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VII"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-207.05">705</num>
+    <heading>Rights of creditor.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 705, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-475.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VIII"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-208.01">801</num>
+    <heading>Events of dissolution.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 801, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-481.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VIII"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-208.02">802</num>
+    <heading>Judicial dissolution.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 802, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-482.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VIII"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-208.03">803</num>
+    <heading>Winding up.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 803, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-483.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|VIII"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-208.04">804</num>
+    <heading>Distribution of assets.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 804, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-484.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IX"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-209.01">901</num>
+    <heading>Law governing foreign limited partnerships.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 901, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-491.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IX"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-209.02">902</num>
+    <heading>Certificate of authority.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 902, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-492.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IX"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-209.03">903</num>
+    <heading>Issuance of certificate of authority.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 903, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-493.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IX"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-209.04">904</num>
+    <heading>Name.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 904, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-494.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IX"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-209.05">905</num>
+    <heading>Changes and amendments.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 905, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-495.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IX"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-209.06">906</num>
+    <heading>Cancellation of certificate of authority.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 906, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-496.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IX"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-209.07">907</num>
+    <heading>Doing business without a certificate of authority.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 907, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-497.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IX"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-209.08">908</num>
+    <heading>Doing business.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 908, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-498.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IX"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-209.09">909</num>
+    <heading>Assent to laws of the District.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 909, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-499.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|IX"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-209.10">910</num>
+    <heading>Compliance with subchapter is not consent to suit.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 910, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-499.1.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|X"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-210.01">1001</num>
+    <heading>Right of action.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 1001, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-499.11.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|X"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-210.02">1002</num>
+    <heading>Proper plaintiff.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 1002, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-499.12.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|X"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-210.03">1003</num>
+    <heading>Pleading.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 1003, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-499.13.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|X"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-210.04">1004</num>
+    <heading>Expenses.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 1004, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-499.14.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§33-211.05" path="|33|2|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-211.01">1101</num>
+    <heading>Construction and application.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 1101, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-499.21.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§33-211.05" path="|33|2|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-211.02">1102</num>
+    <heading>Rules; fees; notice.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 1102, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 2047, 57 DCR 181</annotation>
+        <annotation doc="D.C. Law 18-223">Sept. 24, 2010, D.C. Law 18-223, § 2029, 57 DCR 6242</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-499.22.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>Section 209 of <cite doc="D.C. Law 18-222">D.C. Law 18-222</cite> rewrote subsec. (b) to read as follows:</annotation>
+        <annotation>“(b) The Mayor, pursuant to Title 1 of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), may establish fees and additional charges as necessary for the implementation of this act.”.</annotation>
+        <annotation>Section 2002(b) of <cite doc="D.C. Law 18-222">D.C. Law 18-222</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2047 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2047 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 209 of Fiscal Year 2010 Balanced Budget Support Emergency Act of 2010 (D.C. Act 18-450, June 28, 2010,  57 DCR 5635).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 209 of Fiscal Year 2010 Balanced Budget Support Congressional Review Emergency Act of 2010 (D.C. Act 18-531, August 6, 2010,  57 DCR 8109).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2029 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§33-211.05" path="|33|2|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-211.03">1103</num>
+    <heading>Penalties.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 1103, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-499.23.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§33-211.05" path="|33|2|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-211.04">1104</num>
+    <heading>Action by Attorney General.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 1104, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-499.24.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-211.06">1106</num>
+    <heading>Transition.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 1106, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-499.25.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|33|2|XI"/>
+    <reason>Repealed</reason>
+    <num codify:value="33-211.07">1107</num>
+    <heading>Conversion of limited partnership to limited liability partnership.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-49">Dec. 10, 1987, D.C. Law 7-49, § 1107, 34 DCR 6856</annotation>
+        <annotation doc="D.C. Law 11-234">as added Apr. 9, 1997, D.C. Law 11-234, § 1205(2), 44 DCR 777</annotation>
+        <annotation doc="D.C. Law 18-378">July 2, 2011, D.C. Law 18-378, § 3(y), 58 DCR 1720</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 41-499.26.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

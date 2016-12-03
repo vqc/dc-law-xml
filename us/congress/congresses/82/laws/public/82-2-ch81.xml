@@ -1,10 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 82-2-ch81">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 82-2-ch81">
+  <heading/>
   <meta>
     <effective>1952-03-05</effective>
     <cites>
-        <law congress="82" session="2" chapter="81"/>
+      <law congress="82" session="2" chapter="81"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-1964" path="|38|19|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1961">1</num>
+    <heading>Regulation of vacation periods and annual leave.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 5, 1952, 66 Stat. 14, ch. 81, § 1</annotation>
+        <annotation doc="D.C. Law 4-78">Mar. 16, 1982, D.C. Law 4-78, § 20, 29 DCR 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1031.</annotation>
+        <annotation>1973 Ed., § 31-698.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-1964" path="|38|19|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1962">2</num>
+    <heading>Prior leave; promulgation of rules.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 5, 1952, ch. 81, § 2</annotation>
+        <annotation>Aug. 5, 1953, 67 Stat. 362, ch. 320, § 1</annotation>
+        <annotation doc="D.C. Law 4-78">Mar. 16, 1982, D.C. Law 4-78, § 20, 29 DCR 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1032.</annotation>
+        <annotation>1973 Ed., § 31-698a.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

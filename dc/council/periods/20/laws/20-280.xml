@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 20-280">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 20-280">
   <num type="law">20-280</num>
   <heading type="short">Limitations on the Use of Restraints Amendment Act of 2014," originally known as the "Anti-Shackling of Incarcerated Pregnant Women Act of 2013</heading>
   <meta>
@@ -12,4 +12,172 @@
       <narrative>Law 20-280, the “Limitations on the Use of Restraints Amendment Act of 2014,” originally known as the “Anti-Shackling of Incarcerated Pregnant Women Act of 2013,” was introduced in Council and assigned Bill No. 20-468. The Bill was adopted on first and second readings on December 2, 2014, and December 17, 2014, respectively. Signed by the Mayor on January 26, 2015, it was assigned Act No. 20-596 and transmitted to Congress for its review on April 22, 2015. D.C. Law 20-279 became effective July 25, 2015.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|VIII-A"/>
+    <num codify:value="24-276.01">201</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Administrator” means the warden of the penal institution, the director of a facility under the control of the Department of Corrections, or any designees thereof, including medical and correctional staff.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Confined” means housed, detained, or serving a sentence in a penal institution or other facility under the control of the Department of Corrections.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Labor” means the period of time before a birth during which contractions are of sufficient frequency, intensity, and duration to bring about effacement and progressive dilation of the cervix and shall include any medical condition in which a woman is sent or brought to a medical facility for the purpose of delivering her baby.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Medical facility” shall include a hospital, birthing center, or clinic.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Penal institution” shall have the same meaning as provided in § <cite path="§22-2603.01">22-2603.01</cite>(6).</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Postpartum recovery” means a period of recovery following childbirth or miscarriage or termination of a pregnancy as determined by a physician to be medically necessary for healing.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Restraints” means any device used to control or bind the movement of a person’s body or limbs.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-280">July 25, 2015, D.C. Law 20-280, §  201, 62 DCR 1495</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|VIII-A"/>
+    <num codify:value="24-276.02">202</num>
+    <heading>Use of restraints by places of confinement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>In any instance that restraints are used on a confined woman who is known to be pregnant, the restraints used must be the least restrictive available and the most reasonable under the circumstances.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In any instance that the restraints used on a confined woman who is known to be pregnant require restraints more restrictive than the least restrictive available, the use of such restraints shall be subject to the reporting requirements of § <cite path="§24-276.03">24-276.03</cite>.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Except as provided in subsection (d) of this section, no confined woman who is in the third trimester of pregnancy or in postpartum recovery shall be put in restraints at any time, including during transport to a medical facility or while receiving treatment at a medical facility.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Administrator may authorize the use of restraints on a confined woman in the third trimester of pregnancy or in postpartum recovery after making an individualized determination, at the time that the use of restraints is considered, that extraordinary circumstances apply and restraints are necessary to prevent the confined woman from injuring herself or others, including medical or correctional personnel.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notwithstanding the authorization by the Administrator under paragraph (1) of this subsection, if the doctor, nurse, or other health professional treating the confined woman determines that the removal of the restraints is medically necessary to protect the health or safety of the woman, or her baby, the restraints shall be removed immediately.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Administrator shall not authorize the use of restraints on a confined woman who is in labor.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-280">July 25, 2015, D.C. Law 20-280, §  202, 62 DCR 1495</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|VIII-A"/>
+    <num codify:value="24-276.03">203</num>
+    <heading>Reporting requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>Within 10 days after the Administrator authorizes the use of restraints pursuant to § <cite path="§24-276.02">24-276.02</cite>(b), § <cite path="§24-276.02">24-276.02</cite>(c), or § <cite path="§24-276.02">24-276.02</cite>(d), the Administrator shall submit a written statement to the Director of the Department of Corrections in the case of confined women explaining the extraordinary circumstances and the reasons the use of restraints were necessary.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The written statement must not include personal identifying information of the confined woman on whom restraints were used.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Beginning January 1, 2016, and on an annual basis thereafter, the Department of Corrections shall provide the following information to the Council:</text>
+      <para>
+        <num>(1)</num>
+        <text>The number of pregnant women in the custody of the Department of Corrections during the reporting period;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The number of pregnant women on whom restraints that were not the least restrictive means necessary were used;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The number of times restraints were used on each pregnant woman;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>For each use of restraints on a pregnant woman, the duration of time that restraints were used; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>For each use of restraints on a pregnant woman, whether restraints were used because of:</text>
+        <para>
+          <num>(A)</num>
+          <text>Risk of flight;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Risk of injury to the pregnant woman; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Risk of injury to other persons.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-280">July 25, 2015, D.C. Law 20-280, §  203, 62 DCR 1495</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|VIII-A"/>
+    <num codify:value="24-276.04">204</num>
+    <heading>Notice requirements.</heading>
+    <text>The Administrator shall provide notice of the requirements of this subchapter to:</text>
+    <para>
+      <num>(1)</num>
+      <text>The relevant staff at the place of confinement, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>All medical staff;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Staff and contractors who are involved in the transport of confined women of child-bearing age; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Other staff as the Administrator deems appropriate; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>All women who are in their third trimester of pregnancy at the time the place of confinement takes custody of the person.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-280">July 25, 2015, D.C. Law 20-280, §  204, 62 DCR 1495</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

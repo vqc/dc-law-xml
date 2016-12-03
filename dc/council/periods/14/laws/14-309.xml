@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 14-309">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 14-309">
   <num type="law">14-309</num>
   <heading type="short">Urban Forest Preservation Act of 2002</heading>
   <meta>
@@ -12,4 +12,277 @@
       <narrative>Law 14-309, the “Urban Forest Preservation Act of 2002”, was introduced in Council and assigned Bill No. 14-307, which was referred to the Committee on Public Works and the Environment. The Bill was adopted on first and second readings on December 3, 2002, and December 17, 2002, respectively. Signed by the Mayor on January 22, 2003, it was assigned Act No. 14-614 and transmitted to both Houses of Congress for its review. D.C. Law 14-309 became effective on June 12, 2003.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|6B"/>
+    <num codify:value="8-651.01">101</num>
+    <heading>Findings.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The urban forest of the District of Columbia, growing on both public and private land, is one of the District’s great natural resources.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A healthy, vibrant urban forest provides numerous environmental benefits, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Heat island effect mitigation and reduced energy use;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Better air quality and reduced water pollution; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Quieter and more beautiful neighborhoods.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The trees comprising the urban forest have significant aesthetic value, which enhances property values and the quality of life in neighborhoods throughout the District.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-309">June 12, 2003, D.C. Law 14-309, § 101, 50 DCR 888</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority to the Urban Forest Preservation Act of 2002 and the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, see Mayor’s Order 2003-173, December 1, 2003 ( 50 DCR 10619).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|6B"/>
+    <num codify:value="8-651.02">102</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Circumference” means the linear distance around the trunk of a tree, when measured at a height of 4 1/2 feet.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Director” means the Director of the Department of Transportation.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Hazardous tree” means a tree that, in the opinion of a certified arborist, is defective, diseased, dying, or dead and should be removed; poses a high risk of failure or fracture with the potential to cause injury to people or damage to property and should be removed; or is causing damage to property or structures that cannot be mitigated in any manner other than removal of the tree. In any case, the Mayor shall have the authority to determine that a tree is not hazardous.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Public parking” means that area of public space devoted to open space, greenery, parks, or parking that lies between the property line, which may or may not coincide with the building restriction line, and the edge of the actual or planned sidewalk that is nearer to the property line, as the property line and sidewalk are shown on the records of the District.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Special Tree” means a tree with a circumference of 55 inches or more.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Top” means, as defined by the latest edition of the ANSI-A300 pruning standards, the unacceptable act of tree pruning resulting in the indiscriminate reduction of the tree’s crown leading to disfigurement or death of the tree.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Tree Fund” means the Tree Fund established pursuant to § <cite path="§8-651.07">8-651.07</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-309">June 12, 2003, D.C. Law 14-309, § 102, 50 DCR 888</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|6B"/>
+    <num codify:value="8-651.03">103</num>
+    <heading>Urban Forest Preservation Program.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>There is hereby established an Urban Forest Preservation Program for the District of Columbia which shall be administered by the Mayor. The Mayor, pursuant to subchapter I of Chapter 5 of Title 2, shall promulgate standards and regulations governing the administration of this program and the protection of trees.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The regulations shall allow public utility companies regulated by the Public Service Commission to conduct utility construction, line maintenance, and emergency work within the District’s rights-of-way without a Special Tree removal permit otherwise required by this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall transmit the regulations prescribed in subsection (a) of this section to the Council no later than 270 calendar days following June 12, 2003 for approval or disapproval, by resolution. These regulations and each revision of these regulations shall be transmitted to the Council for a 45-day review period, excluding Saturdays, Sundays, holidays and periods of Council recess, and deemed disapproved in the absence of Council action within the 45-day review period.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall be responsible for preparing and annually updating a 5-year urban forest report and master plan.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-309">June 12, 2003, D.C. Law 14-309, § 103, 50 DCR 888</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-651.05">8-651.05</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Resolutions</heading>
+        <annotation>Resolution 18-140, the “Urban Forest Preservation Regulations Approval Resolution of 2009”, was approved effective June 2, 2009.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|6B"/>
+    <num codify:value="8-651.04">104</num>
+    <heading>Preservation of Special Trees; permits; penalties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>It shall be unlawful for any person or nongovernmental entity, without a Special Tree removal permit issued by the Mayor, to top, cut down, remove, girdle, break, or destroy any Special Tree.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall issue a Special Tree removal permit under this section where the applicant has:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shown that the Special Tree in question is a Hazardous Tree;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Shown that the Special Tree in question is of a species that has been identified, by regulation, as appropriate for removal; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Paid into the Tree Fund an amount equal to $35 for each inch of the circumference of the Special Tree in question.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Repealed.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A violation of subsection (a) of this section, or a failure to comply with the conditions contained in a Special Tree removal permit, shall constitute a violation subject to a fine of not less than $100 per each inch of the circumference of the Special Tree in question.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-309">June 12, 2003, D.C. Law 14-309, § 104, 50 DCR 888</annotation>
+        <annotation doc="D.C. Law 20-142">Dec. 17, 2014, D.C. Law 20-142, § 421, 61 DCR 8045</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2014 amendment by <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> repealed (b)(4) and (c) and made related changes.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite>: Section 502(h) of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> provided that § 421 of the act shall apply as of December 17, 2014.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|6B"/>
+    <num codify:value="8-651.05">105</num>
+    <heading>Notification requirements for removal of trees on public space.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Unless the tree is a Hazardous Tree, before removing a tree on public space, the Director shall provide not less than 15 days written notice to the affected Advisory Neighborhood Commission, and shall set forth the reason for the proposed removal.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Public utility companies shall provide not less than 20 days written notice to the Director or his or her designee prior to performing any work which affects trees on public space, except for permitted utility construction or emergency work conducted by a public utility company regulated by the Public Service Commission, as provided in § <cite path="§8-651.03">8-651.03</cite>(a).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-309">June 12, 2003, D.C. Law 14-309, § 105, 50 DCR 888</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|6B"/>
+    <num codify:value="8-651.06">106</num>
+    <heading>Hazardous Trees.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Nothing in this chapter shall prohibit the Mayor or a property owner from immediately removing a Hazardous Tree.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No property owner shall permit a tree or tree part, dead or alive, to stand on his or her property, including the public parking area associated with that property if it is a hazard to the public at-large, or endangers any public improvement or other public facility.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If the Mayor identifies a tree hazard as described in subsection (b) of this section, the Mayor shall notify the property owner of the hazardous situation, and shall give the property owner not less than 10 days written notice, excluding Saturdays, Sundays, and legal holidays, to eliminate the hazard.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Where the District has notified a property owner of a hazard and no action is taken by the property owner to eliminate the hazard, the Mayor may take corrective action to abate the hazard. The Mayor shall then send the property owner a bill for the cost of the abatement action including any administrative costs incurred by the District. If the bill remains unpaid after [60 days], it shall become a tax lien against the property.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-309">June 12, 2003, D.C. Law 14-309, § 106, 50 DCR 888</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|6B"/>
+    <num codify:value="8-651.07">107</num>
+    <heading>Tree Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There shall be established a fund designated as the Tree Fund, which shall be a sub-fund of the Local Road Construction and Maintenance Fund and separate from the General Fund of the District of Columbia. Monies deposited into the Tree Fund shall not revert to the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall be continually available for the uses and purposes set forth in subsection (b) of this section pursuant to an act of Congress. Donations, fees and penalties collected pursuant to this chapter or any rules established to implement this chapter shall be deposited into the Tree Fund. All receipts shall be deposited as soon as practicable. The Director shall maintain the fund in coordination with the Chief Financial Officer of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Fund shall be used to plant trees and for any associated costs incurred by the District in administering this chapter, and shall include providing income-contingent subsidies to assist District residents with the removal costs of hazardous trees in accordance with regulations submitted for Council approval within 60 days of September 18, 2007. The Fund may include income-contingent subsidies for the replacement of trees when owners are required to remove hazardous trees.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Chief Financial Officer shall submit to the Mayor and to the Council an annual statement of all receipts and disbursements for the Fund.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Private voluntary donations to the Fund shall be tax deductible for purposes of District income and franchise taxes.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-309">June 12, 2003, D.C. Law 14-309, § 107, 50 DCR 888</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 21(a), 52 DCR 2638</annotation>
+        <annotation doc="D.C. Law 17-20">Sept. 18, 2007, D.C. Law 17-20, § 6102, 54 DCR 7052</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-651.02">8-651.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in subsec. (a), validated a previously made technical correction.</annotation>
+        <annotation><cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> rewrote subsec. (b), which had read as follows: “(b) The Fund shall be used to plant trees and for any associated costs incurred by the District in administering this chapter, and may include providing income contingent subsidies that assist District residents with the removal costs of hazardous trees in accordance with regulations provided for in § <cite path="§8-651.03">8-651.03</cite>.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 6102 of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007,  54 DCR 7549).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 6101 of <cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> provided that subtitle K of title VI of the act may be cited as the “Hazardous Tree Removal Subsidies for Low-Income Homeowners Amendment Act of 2007”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|6B"/>
+    <num codify:value="8-651.08">108</num>
+    <heading>Enforcement.</heading>
+    <text>Civil fines, penalties, and fees may be imposed as sanctions for any infraction of the provisions of this chapter, or any regulations issued under the authority of this chapter, pursuant to Chapter 18 of Title 2.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-309">June 12, 2003, D.C. Law 14-309, § 108, 50 DCR 888</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

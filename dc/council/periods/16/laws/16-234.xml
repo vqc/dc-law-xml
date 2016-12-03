@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 16-234">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 16-234">
   <num type="law">16-234</num>
   <heading type="short">Green Building Act of 2006</heading>
   <meta>
@@ -12,4 +12,1296 @@
       <narrative>Law 16-234, the “Green Building Act of 2006”, was introduced in Council and assigned Bill No. 16-515, which was referred to Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 14, 2006, and December 5, 2006, respectively. Signed by the Mayor on December 28, 2006, it was assigned Act No. 16-590 and transmitted to both Houses of Congress for its review. D.C. Law 16-234 became effective on March 8, 2007.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14A"/>
+    <num codify:value="6-1451.01">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Addition” has the same meaning as in § <cite path="§6-1410">6-1410</cite>(a)(1).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Applicant” means any individual, firm, limited liability company, association, partnership, government agency, public or private corporation, or other entity that submits construction documents for a building permit or verification.</text>
+    </para>
+    <para>
+      <num>(2A)</num>
+      <text>“Bond” means a financial instrument posted by an applicant, the proceeds of which shall be paid to the District in its entirety or in part, and deposited in the Green Building Fund, if the project fails to meet the standards required by §§ <cite path="§6-1451.03">6-1451.03</cite> and <cite path="§6-1451.06">6-1451.06</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Building” means any structure used or intended for supporting or sheltering any use or occupancy.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Building systems monitoring method” means the specifications for a methodology of collecting information and providing feedback about installed equipment that provide data for the comparison, management, and optimization of actual, as compared to estimated, energy performance.</text>
+    </para>
+    <para>
+      <num>(5A)</num>
+      <text>“Certificate of occupancy” means the first certificate of occupancy issued for a usable, habitable space at grade or above grade.</text>
+    </para>
+    <para>
+      <num>(5B)</num>
+      <text>“Common space” means gross floor area within a project shared or available for common use by various occupancies within a project that includes both residential and nonresidential occupancies, including lobbies, corridors, stairways, amenity areas, laundry rooms, boiler rooms, furnace rooms, generator rooms, elevator hoistways, mechanical duct shafts, elevator machine rooms, off-street loading facilities, and off-street parking facilities at or above grade.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Construction Codes” means the standards and requirements adopted pursuant to Chapter 14 of this title.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Construction documents” has the same meaning as in § <cite path="§6-1405.02">6-1405.02</cite>(a)(1).</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Construction permit application” has the same meaning as in § <cite path="§6-1410">6-1410</cite>(a)(4).</text>
+    </para>
+    <para>
+      <num>(8A)</num>
+      <text>“Current edition” means the most recent and currently operative edition of a green building standard approved under § <cite path="§6-1451.11">6-1451.11</cite>(b).</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“DCRA” means the Department of Consumer and Regulatory Affairs.</text>
+    </para>
+    <para>
+      <num>(9A)</num>
+      <text>“DDOE” means the District Department of the Environment.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Director” means the Director of the Department of Consumer and Regulatory Affairs.</text>
+    </para>
+    <para>
+      <num>(10A)</num>
+      <text>“District-financed” or “District instrumentality-financed” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>Financing of a project or contract where funds or resources to be used for construction and development costs, excluding ongoing operational costs, are received from the District, or funds or resources which, in accordance with a federal grant or otherwise, the District administers, including a contract, grant, loan, tax abatement or exemption, land transfer, land disposition and development agreement, or tax increment financing, or any combination thereof; provided, that federal funds may be applied to the financing percentage only if permitted by federal law and grant conditions; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Financing whose stated purpose is, in whole or in part, to provide for the new construction or substantial rehabilitation of affordable housing.</text>
+      </para>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Educational facility” means any building that has the provision of education as its primary use.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“ENERGY STAR Portfolio Manager” means the tool developed by EPA ENERGY STAR that rates the performance of a qualifying building, relative to similar buildings nationwide, accounting for the impacts of year-to-year weather variations, building size, location, and several operating characteristics, using the Environmental Protection Agency’s national energy performance rating system.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“ENERGY STAR Target Finder” means the tool developed by EPA ENERGY STAR that helps set performance goals and energy ratings for building projects during their design phase.</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>“Existing building” has the same meaning as in § <cite path="§6-1410">6-1410</cite>(a)(8).</text>
+    </para>
+    <para>
+      <num>(14A)</num>
+      <text>“First building permit” means the first permit intended to cover the primary scope of work for a project; provided, that this shall not include permit applications for raze, sheeting and shoring, foundation, or specialty, miscellaneous, or supplemental permits.</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>“Full-building commissioning” means the process of verification that a building’s energy related systems are installed, calibrated, and perform according to project requirements, design basis, and construction documents. The systems that require commissioning include mechanical and passive heating, ventilation, air conditioning, and refrigeration systems, and associated controls such as lighting, domestic hot water systems, and renewable energy systems.</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>“GBAC” means the Green Building Advisory Council established by § <cite path="§6-1451.09">6-1451.09</cite>.</text>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>“Green building” means an integrated, whole-building approach to the planning, design, construction, operation, and maintenance of buildings and their surrounding landscapes that help mitigate the environmental, economic, and social impacts of buildings, so that they are energy efficient, sustainable, safe, cost-effective, accessible, healthy, and productive.</text>
+    </para>
+    <para>
+      <num>(18)</num>
+      <text>“Green building checklist” means a scorecard developed by the USGBC for the purpose of calculating a score on the appropriate LEED rating system.</text>
+    </para>
+    <para>
+      <num>(19)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(20)</num>
+      <text>“Green Building Fund” or “Fund” means the Green Building Fund established by § <cite path="§6-1451.07">6-1451.07</cite>.</text>
+    </para>
+    <para>
+      <num>(21)</num>
+      <text>“Green Communities” means the national green building program designed by Enterprise Community Partners that provides criteria for the design, development, and operation of affordable housing.</text>
+    </para>
+    <para>
+      <num>(22)</num>
+      <text>“Gross floor area” has the same definition as found in section 199.1 of Title 11 of the District of Columbia Municipal Regulations (11 DCMR § 199.1).</text>
+    </para>
+    <para>
+      <num>(23)</num>
+      <text>“HVAC&amp;R” means mechanical and passive heating, ventilation, air conditioning, and refrigeration systems.</text>
+    </para>
+    <para>
+      <num>(24)</num>
+      <text>“ICC” means the International Code Council, a nonprofit organization.</text>
+    </para>
+    <para>
+      <num>(25)</num>
+      <text>“IECC” means the International Energy Conservation Code developed by the ICC.</text>
+    </para>
+    <para>
+      <num>(26)</num>
+      <text>“LEED” means the series of Leadership in Energy and Environmental Design green building rating systems designed by the USGBC.</text>
+    </para>
+    <para>
+      <num>(27)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(28)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(29)</num>
+      <text>“LEED-H” means the LEED for New Homes (LEED-H) green building rating system being designed by the USGBC.</text>
+    </para>
+    <para>
+      <num>(30)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(31)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(31A)</num>
+      <text>“LEED standard for commercial and institutional buildings” means the green building rating system designed by the USGBC for Core &amp; Shell, New Construction, Schools, and Retail: New Construction &amp; Major Renovations.</text>
+    </para>
+    <para>
+      <num>(32)</num>
+      <text>“Maintenance accountability method” means a system for maintaining building performance standards, including annual building performance reporting that publicly compares actual energy consumption to benchmarks using the ENERGY STAR Portfolio Manager tool for all building types for which it is available; the description of changes to operations and maintenance arrangements and procedures for major energy-consuming equipment; the maintenance of manuals, manufacturer’s literature, model numbers, methods of operation, and maintenance practices for installed building systems; the records of metering systems and mechanisms for the monitoring and control of energy consumption; and the collection of complete “as-built” drawing sets and information on best practices for building maintenance, housekeeping, pest management, and mold prevention.</text>
+    </para>
+    <para>
+      <num>(32A)</num>
+      <text>“Mixed-use space” means demised space in any residential project that contains at least 50,000 contiguous square feet of gross floor area, exclusive of common space, that is or would be occupied for a nonresidential use.</text>
+    </para>
+    <para>
+      <num>(33)</num>
+      <text>“New construction” means the construction of any building whether as a stand-alone building or an addition to an existing building. The term “new construction” includes new buildings and additions or enlargements of existing buildings, exclusive of any alterations or repairs to any existing portion of a building.</text>
+    </para>
+    <para>
+      <num>(33A)</num>
+      <text>“Nonresidential” means any project in which at least 50% of the gross floor area of the project, subject to allocation of area for common space, has nonresidential purposes.</text>
+    </para>
+    <para>
+      <num>(34)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(35)</num>
+      <text>“Project” means the construction of single or multiple buildings that are part of one development scheme, built at one time or in phases.</text>
+    </para>
+    <para>
+      <num>(36)</num>
+      <text>“Property disposition by lease” means a lease, inclusive of options, of real property, as defined in § <cite path="§10-801.01">10-801.01</cite>, for a period of greater than 20 years.</text>
+    </para>
+    <para>
+      <num>(37)</num>
+      <text>“Property disposition by sale” means a sale of real property, as defined in § <cite path="§10-801.01">10-801.01</cite>, in whole or in part, to the highest bidder for real property 10,000 square feet or more.</text>
+    </para>
+    <para>
+      <num>(38)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(39)</num>
+      <text>“Public school” means schools owned, operated, or maintained by the District of Columbia Public Schools (“DCPS”), or a public charter school, and those schools’ educational facilities.</text>
+    </para>
+    <para>
+      <num>(39A)</num>
+      <text>“Residential” means any project in which more than 50% of the gross floor area of the project, subject to allocation for common space, is used for residential purposes.</text>
+    </para>
+    <para>
+      <num>(40)</num>
+      <text>“Substantial improvement” means any repair, alteration, addition, or improvement of a building or structure, the cost of which equals or exceeds 50% of the market value of the structure before the improvement or repair is started.</text>
+    </para>
+    <para>
+      <num>(41)</num>
+      <text>“Total project cost” means the total of:</text>
+      <para>
+        <num>(A)</num>
+        <text>Hard construction costs;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Site acquisition costs; provided, that a site was acquired within 2 years of first building permit application; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Soft costs; provided, that the soft costs shall not exceed 25% of the hard construction costs.</text>
+      </para>
+    </para>
+    <para>
+      <num>(42)</num>
+      <text>“USGBC” means the United States Green Building Council.</text>
+    </para>
+    <para>
+      <num>(43)</num>
+      <text>“Verification” or “verified” means confirmation by an entity described in § <cite path="§6-1451.04">6-1451.04</cite> that the green building requirements of this chapter have been fulfilled.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-234">Mar. 8, 2007, D.C. Law 16-234, § 2, 54 DCR 377</annotation>
+        <annotation doc="D.C. Law 18-349">Mar. 31, 2011, D.C. Law 18-349, § 2(a), 58 DCR 724</annotation>
+        <annotation doc="D.C. Law 19-139">June 5, 2012, D.C. Law 19-139, § 2(a), 59 DCR 2555</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-301.181">1-301.181</cite>, § <cite path="§2-1212.24">2-1212.24</cite>, § <cite path="§2-1226.32">2-1226.32</cite>, and § <cite path="§10-551.06">10-551.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-349">D.C. Law 18-349</cite> added pars. (2A), (9A), and (31A); in par. (4), substituted “DCRA” for “the Department’; and rewrote par. (9) and repealed pars. (27), (28), (30), (31), and (34).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>Section 2(a) of <cite doc="D.C. Law 19-99">D.C. Law 19-99</cite> amended par. (40) to read as follows:</annotation>
+        <annotation>“(40) ‘Substantial improvement’ means any repair, alteration, addition, or improvement of a building or structure, the cost of which equals or exceeds 50% of the market value of the structure before the improvement or repair is started.”.</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 19-99">D.C. Law 19-99</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Green Building Compliance Emergency Amendment Act of 2011 (D.C. Act 19-257, December 21, 2011,  58 DCR 11222).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority-Green Building Act of 2006, see Mayor’s Order 2007-206, September 21, 2007 ( 55 DCR 125).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 7075 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> repealed section 15 of <cite doc="D.C. Law 16-234">D.C. Law 16-234</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14A"/>
+    <num codify:value="6-1451.02">3</num>
+    <heading>Publicly-owned, leased, and financed buildings and projects.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>This subsection shall apply to all new construction and substantial improvement of:</text>
+        <para>
+          <num>(A)</num>
+          <text>Projects that are District-owned or District instrumentality-owned; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Projects where at least 15% of the total cost is District-financed or District instrumentality-financed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A nonresidential project shall:</text>
+        <para>
+          <num>(A)</num>
+          <para>
+            <num>(i)</num>
+            <text>Within 2 years after the receipt of a certificate of occupancy, be verified as having fulfilled or exceeded the current edition of the LEED standard for commercial and institutional buildings, at the silver level;  provided, that a public school shall be verified as having fulfilled or exceeded the current edition of the LEED standard for commercial and institutional buildings, at the certification level;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Notwithstanding sub-subparagraph (i) of this subparagraph, a public school shall be verified as having fulfilled or exceeded the current edition of the LEED standard for commercial and institutional buildings at the gold level or higher if sufficient funding for the construction or renovation is provided.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>If the project is new construction of 10,000 square feet or more of gross floor area, and is a building type for which Energy Star® tools are available:</text>
+          <para>
+            <num>(i)</num>
+            <text>Be designed to achieve 75 points on the EPA national energy performance rating system, as determined by the Energy Star® Target Finder Tool;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Be annually benchmarked using the Energy Star®Portfolio Manager benchmarking tool; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <para>
+              <num>(I)</num>
+              <text>Make benchmark and Energy Star® statements of energy performance available to DDOE within 60 days of being generated.</text>
+            </para>
+            <para>
+              <num>(II)</num>
+              <text>Upon receipt, DDOE shall make the benchmark and Energy Star® statements available to the public via an online database accessible through the DDOE website; and</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Institute building systems monitoring and maintenance accountability methods upon receipt of a certificate of occupancy.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a residential project includes 10,000 square feet of gross floor area or more, the residential project shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Fulfill or exceed the current edition of the Green Communities standard, or a substantially similar standard; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Submit to DCRA a copy of the standard’s self-certification checklist and a verification of meeting the standard’s requirements for energy efficiency, as part of the application for a certificate of occupancy.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The requirements of this subsection shall apply:</text>
+        <para>
+          <num>(A)</num>
+          <text>On or after October 1, 2007, for a District-owned or District instrumentality-owned project that was initially funded in the Fiscal Year 2008 District budget or later;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>On or after October 1, 2008, for a project on District-owned or District instrumentality-owned property, leased by a private entity as a result of a property disposition by lease, in Fiscal Year 2009 or later; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>On or after October 1, 2008, for a privately-owned project if 15% or more of a project’s total project cost was financed by the District or a District instrumentality in Fiscal Year 2009 or later.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Mayor shall, as a condition of the financing of a District-financed or District instrumentality-financed project governed by this subsection, include a penalty that will be levied upon an applicant for failure to fulfill the requirements of this chapter. The penalties may include:</text>
+        <para>
+          <num>(A)</num>
+          <text>Prohibiting the applicant from receiving additional District or District instrumentality financing for a period of up to 5 years;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Assessing a fine as set forth in § <cite path="§6-1451.05">6-1451.05</cite>(f); or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Imposing an alternative penalty commensurate with the seriousness of the applicant’s failure to fulfill requirements of this chapter, as determined by the Mayor.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>An applicant for new construction or substantial improvement of a mixed-use space shall fulfill or exceed the current edition of the LEED standard for commercial and institutional buildings at the certified level for the mixed-use space of the project. Any requirements of § <cite path="§6-1451.05">6-1451.05</cite> shall apply to the mixed-use space of the project. For the purposes of mixed-use space in this paragraph, the term:</text>
+        <para>
+          <num>(A)</num>
+          <text>“LEED” also includes LEED for Commercial Interiors and LEED for Retail: Commercial Interiors; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>“Certificate of occupancy” refers to the first certificate of occupancy issued for a usable, habitable space at grade or above grade for the mixed-use space of the project.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>This subsection shall apply to all tenant improvements of District-owned or District instrumentality-owned buildings.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>On or after October 1, 2008, all tenants of District-owned or District instrumentality-owned building space shall obtain verification that the improved building space fulfills or exceeds the current edition of the LEED standard for commercial and institutional buildings, LEED for Commercial Interiors, or LEED for Retail: Commercial Interiors, at the certification level, if:</text>
+        <para>
+          <num>(A)</num>
+          <text>The tenant improves at least 30,000 square feet gross floor area or more;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The improvements involve a comprehensive construction or alteration of partitions, electrical systems, and finishes; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The building space has a certificate of occupancy for a commercial use.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>This subsection shall apply to all District, and District instrumentality, owned or operated buildings.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Beginning January 20, 2009, the District shall benchmark 10 buildings owned or operated by the District using the Energy Star®Portfolio Manager benchmarking tool.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Beginning October 22, 2009, the District shall annually benchmark all District, and District instrumentality, owned or operated buildings, using the Energy Star® Portfolio Manager benchmarking tool, if the building:</text>
+        <para>
+          <num>(A)</num>
+          <text>Has at least 10,000 square feet of gross floor area; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Is a building type for which Energy Star® benchmarking tools are available.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Benchmark and Energy Star® statements of energy performance for each building shall be made available to DDOE within 60 days of being generated. Upon receipt, DDOE shall make the benchmark and Energy Star® statements available to the public via an online database accessible through the DDOE website.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-234">Mar. 8, 2007, D.C. Law 16-234, § 3, 54 DCR 377</annotation>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 501(a), 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 18-209">July 27, 2010, D.C. Law 18-209, § 504(a), 57 DCR 4779</annotation>
+        <annotation doc="D.C. Law 18-349">Mar. 31, 2011, D.C. Law 18-349, § 2(b), 58 DCR 724</annotation>
+        <annotation doc="D.C. Law 19-139">June 5, 2012, D.C. Law 19-139, § 2(b), 59 DCR 2555</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1451.04">6-1451.04</cite>, § <cite path="§6-1451.05">6-1451.05</cite>, and § <cite path="§6-1451.10">6-1451.10</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> added subsec. (a-1).</annotation>
+        <annotation><cite doc="D.C. Law 18-209">D.C. Law 18-209</cite>, in subsec. (b)(1)(C)(iii), inserted “Notwithstanding the foregoing sentence, the District shall meet LEED for Schools certification at the Gold level or higher if sufficient funding for the construction or renovation is provided.”</annotation>
+        <annotation><cite doc="D.C. Law 18-349">D.C. Law 18-349</cite> rewrote the section.</annotation>
+        <annotation><cite doc="D.C. Law 19-139">D.C. Law 19-139</cite> rewrote subsec. (a)(1); in subsec. (a)(2)(A), designated the existing text as sub-subpar. (i) and added sub-subpar. (ii); added subsecs. (a)(5) and (6); and, in subsec. (b)(2), substituted “institutional buildings, LEED for Commercial Interiors, or LEED for Retail: Commercial Interiors” for “institutional buildings”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Section 2(a) of <cite doc="D.C. Law 19-71">D.C. Law 19-71</cite> added subsec. (a)(2)(A-i) to read as follows:</annotation>
+        <annotation>“(A-i) Notwithstanding subparagraph (A) of this paragraph, a public school shall be verified as having fulfilled or exceeded the current edition of the LEED standard for commercial and institutional buildings at the gold level or higher, if sufficient funding for the construction or renovation is provided.”.</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 19-71">D.C. Law 19-71</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 501(a) of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(1) of Green Building Technical Corrections Emergency Amendment Act of 2011 (D.C. Act 19-164, October 11, 2011,  58 DCR 8894).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Green Building Compliance Emergency Amendment Act of 2011 (D.C. Act 19-257, December 21, 2011,  58 DCR 11222).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority—Green Building Act of 2006, see Mayor’s Order 2010-1, January 15, 2010 ( 57 DCR 641).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14A"/>
+    <num codify:value="6-1451.03">4</num>
+    <heading>Privately-owned buildings and projects.</heading>
+    <para>
+      <num>(a)</num>
+      <text>This section shall apply to all privately-owned buildings and projects with at least 50,000 square feet of gross floor area.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>All new construction and substantial improvement of nonresidential projects, including projects involving real property acquired by a real property disposition by sale from the District or a District instrumentality to a private entity, and projects if less than 15% [of] the project’s total project cost was financed by the District or a District instrumentality, shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Beginning January 1, 2009, as part of any building permit application, submit to DCRA a green building checklist documenting the green building elements to be pursued in the respective building’s permit; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Be verified by an entity described in § <cite path="§6-1451.04">6-1451.04</cite> as having fulfilled or exceeded the current edition of the LEED standard for commercial and institutional buildings at the certification level within 2 years of the receipt of a certificate of occupancy; provided, that a public school shall be verified as having fulfilled or exceeded the current edition of the LEED standard for commercial and institutional buildings at the gold level or higher if sufficient funding for the construction or renovation is provided.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>This subsection shall apply as of:</text>
+        <para>
+          <num>(A)</num>
+          <text>January 1, 2010, for a project involving real property acquired by a real property disposition by sale, from the District or a District instrumentality to a private entity, that has submitted an application for the first building permit on or after January 1, 2010; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>January 1, 2012, for a project that has submitted an application for the first building permit on or after January 1, 2012.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The area of common space in a project shall be allocated to either residential or nonresidential square footage of a project based upon the percentage of gross floor area of the project occupied by each of the residential and nonresidential occupancies calculated after excluding the area of common space.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An applicant for new construction or substantial improvement of a mixed- use space shall fulfill or exceed the current edition of the LEED standard for commercial and institutional buildings at the certified level for the nonresidential portion of the project. Any requirements set forth in § <cite path="§6-1451.05">6-1451.05</cite> shall apply to the mixed-use space of the project. For the purposes of mixed-use space in this paragraph, the term:</text>
+        <para>
+          <num>(A)</num>
+          <text>“LEED” also includes LEED for Commercial Interiors and LEED for Retail: Commercial Interiors; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>“Certificate of occupancy” refers to the first certificate of occupancy issued for a usable, habitable space at grade or above grade for the mixed-use space of the project.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>This subsection shall apply to all buildings and projects that are of a building type for which Energy Star® tools are available.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>The requirements for existing privately-owned buildings shall be as follows:</text>
+          <para>
+            <num>(i)</num>
+            <text>The owner or a designee of the owner shall annually benchmark the building using the Energy Star® Portfolio Manager benchmarking tool; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <para>
+              <num>(I)</num>
+              <text>Benchmark and Energy Star® statements of energy performance for each building shall be made available to DDOE by April 1 of the respective following year. In 2011 only, the scores and statements shall be made available to DDOE no later than July 1.</text>
+            </para>
+            <para>
+              <num>(II)</num>
+              <text>Upon receipt, DDOE shall make the benchmark and Energy Star® statements available to the public via an online database accessible through the DDOE website, beginning with the 2nd annual benchmarking data for each building.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>This paragraph shall apply as of:</text>
+          <para>
+            <num>(i)</num>
+            <text>January 1, 2010, for a building with over 200,000 square feet of gross floor area;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>January 1, 2011, for a building with over 150,000 square feet of gross floor area;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>January 1, 2012, for a building with over 100,000 square feet of gross floor area; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>January 1, 2013, for a building with over 50,000 square feet of gross floor area, or more.</text>
+          </para>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Benchmarking data required in this paragraph shall include water consumption data as incorporated in the Portfolio Manager Benchmarking Tool.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>A building owner or tenant who fails to timely, accurately, and completely submit the benchmarking information required by this paragraph to DDOE or to the building owner shall be assessed a penalty by DDOE of no more than $100 for each day during which the required submission has not been made. Civil infraction fines, penalties, and fees may be imposed as alternative sanctions for such failure, pursuant to Chapter 18 of Title 2. Adjudication of an infraction shall be pursuant to Chapter 18 of Title 2.</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>If ownership of a building covered by this paragraph is transferred, the seller shall provide the buyer with information necessary for the buyer to timely report benchmarking data for the full reporting year in which the transfer occurred. The buyer shall submit the benchmarking data to DDOE by April 1 of the year after the building is transferred.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An applicant for new construction or substantial improvement of a project who submits the first building permit after January 1, 2012, shall, prior to construction, estimate the project’s energy performance using the Energy Star® Target Finder Tool.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-234">Mar. 8, 2007, D.C. Law 16-234, § 4, 54 DCR 377</annotation>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 501(b), 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 18-209">July 27, 2010, D.C. Law 18-209, § 504(b), 57 DCR 4779</annotation>
+        <annotation doc="D.C. Law 18-331">Mar. 31, 2011, D.C. Law 18-331, § 2, 58 DCR 22</annotation>
+        <annotation doc="D.C. Law 18-349">Mar. 31, 2011, D.C. Law 18-349, § 2(c), 58 DCR 724</annotation>
+        <annotation doc="D.C. Law 19-139">June 5, 2012, D.C. Law 19-139, § 2(c), 59 DCR 2555</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 45(b), 59 DCR 6190</annotation>
+        <annotation doc="D.C. Law 20-142">Dec. 17, 2014, D.C. Law 20-142, § 111, 61 DCR 8045</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1451.01">6-1451.01</cite>, § <cite path="§6-1451.04">6-1451.04</cite>, § <cite path="§6-1451.05">6-1451.05</cite>, § <cite path="§6-1451.10">6-1451.10</cite>, and § <cite path="§8-1774.10">8-1774.10</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> added subsecs. (a-1) and (b-1).</annotation>
+        <annotation><cite doc="D.C. Law 18-209">D.C. Law 18-209</cite>, in subsec. (b)(2)(B), inserted “Schools shall aspire to meet LEED for Schools certification at the Gold level or higher.”</annotation>
+        <annotation><cite doc="D.C. Law 18-331">D.C. Law 18-331</cite>, in subsec. (a-1)(1), substituted “April 1 of the following year, be made available to DDOE. In 2011 only, the scores and statements shall be made available to DDOE no later than July 1” for “January 1 of the following year, be made available to DDOE”; and added subsecs. (a-1)(3) and (c).</annotation>
+        <annotation><cite doc="D.C. Law 18-349">D.C. Law 18-349</cite> rewrote the section.</annotation>
+        <annotation><cite doc="D.C. Law 19-139">D.C. Law 19-139</cite>, in subsec. (b)(1)(A), substituted “permit” for “construction permit”; in subsec. (b)(1)(B), inserted “; provided, that a public school shall be verified as having fulfilled or exceeded the current edition of the LEED standard for commercial and institutional buildings at the gold level or higher if sufficient funding for the construction or renovation is provided.”; in subsecs. (b)(2)(A), (B), and (c)(3), substituted “first building permit” for “1st building construction permit”; added subsecs. (b)(3), (4), and (c)(2)(C), (D); and, in subsec. (c)(2)(A)(ii)(I), substituted “April 1 of the respective following year. In 2011 only, the scores and statements shall be made available to DDOE no later than July 1.” for “January 1 of the respective following year.”</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> redesignated (b-1) as (c) in the version of the section as it existed before its revision by <cite doc="D.C. Law 18-349">D.C. Law 18-349</cite>.</annotation>
+        <annotation>The 2014 amendment by <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> added (c)(2)(E).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Section 2(b) of <cite doc="D.C. Law 19-71">D.C. Law 19-71</cite>, in subsec. (b)(1)(B), added a new sentence at the end to read as follows: “Schools shall aspire to meet LEED for Schools certification at the gold level or higher.”; in subsec. (c)(2)(A)(ii)(I), substituted “April 1 of the respective following year. In 2011 only, the scores and statements shall be made available to DDOE no later than July 1” for “January 1 of the respective following year”; and added subsecs. (c)(2)(C) and (D) to read as follows:</annotation>
+        <annotation>“(C) Benchmarking data required in this paragraph shall include water consumption data as incorporated in the Portfolio Manager Benchmarking Tool.</annotation>
+        <annotation>“(D) A building owner or tenant who fails to timely, accurately, and completely submit the benchmarking information required by this paragraph to DDOE or to the building owner shall be assessed a penalty by DDOE of not more than $100 for each day during which the required submission has not been made. Civil infraction fines, penalties, and fees may be imposed as alternative sanctions for such failure, pursuant to the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, effective October 5, 1985 (<cite doc="D.C. Law 6-42">D.C. Law 6-42</cite>; D.C. Official Code § <cite path="§2-1801.01">2-1801.01</cite> et seq. (‘Civil Infractions Act’). Adjudication of an infraction shall be pursuant to the Civil Infractions Act.”</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 19-71">D.C. Law 19-71</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2(b) of <cite doc="D.C. Law 19-99">D.C. Law 19-99</cite> added subsec. (b)(3) to read as follows:</annotation>
+        <annotation>“(b)(3) For the purposes of this section, the term ‘LEED’ means LEED for New Construction, Core &amp; Shell, Schools, or Retail.”.</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 19-99">D.C. Law 19-99</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 501(b) of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Green Building Technical Corrections Emergency Amendment Act of 2011 (D.C. Act 19-164, October 11, 2011,  58 DCR 8894).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(c) of Green Building Compliance Emergency Amendment Act of 2011 (D.C. Act 19-257, December 21, 2011,  58 DCR 11222).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite>: Section 502(a) of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> provided that Title I of the act, §§ 1<cite path="§01-111">01-111</cite>, shall apply as of January 1, 2015.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14A"/>
+    <num codify:value="6-1451.04">5</num>
+    <heading>Compliance review.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall verify compliance with the requirements of this chapter as specified in §§ <cite path="§6-1451.02">6-1451.02</cite> and <cite path="§6-1451.03">6-1451.03</cite> through:</text>
+      <para>
+        <num>(1)</num>
+        <text>An agency of the District government; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Third-party entities which meet criteria to be established by the Mayor by rulemaking within 180 days of March 8, 2007.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall review the qualifications of each third-party entity approved under subsection (a)(2) of this section at least every 2 years to determine if the entity shall remain eligible to conduct the verifications required in §§ <cite path="§6-1451.02">6-1451.02</cite> and <cite path="§6-1451.03">6-1451.03</cite>.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Notwithstanding Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], for the purposes of establishing compliance with §§ <cite path="§6-1451.02">6-1451.02</cite> and <cite path="§6-1451.03">6-1451.03</cite>, verification of a project shall be based upon the standards in effect one year prior to the applicant’s first of the following interactions with the District:</text>
+      <para>
+        <num>(A)</num>
+        <text>The approval of a land disposition agreement;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The submission of an application to the Board of Zoning Adjustment for a variance or special exception relief;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The submission of an application to the Zoning Commission for a planned unit development or other approval requiring Zoning Commission action;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The submission of an application to the Historic Preservation Review Board or the Mayor’s Agent for the Historic Preservation Review Board; or</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Other substantial land-use interactions with the District as defined through rulemaking by the Mayor.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Verification that a project has complied with the requirements of this chapter shall not relieve an applicant of any obligations or liabilities otherwise existing under law and shall not relieve the District of its obligation to review all construction documents in the manner otherwise prescribed by law.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>An applicant may apply for verification of a project by the Mayor at any time.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Verification decisions by the Mayor shall be considered official interpretations of the requirements of this chapter and may be appealed by an applicant pursuant to subsection 112.1 of Title 12 of the District of Columbia Municipal Regulations (12 DCMR § 112.1) [CDCR 12A-112].</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-234">Mar. 8, 2007, D.C. Law 16-234, § 5, 54 DCR 377</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 154, 56 DCR 1117</annotation>
+        <annotation doc="D.C. Law 19-139">June 5, 2012, D.C. Law 19-139, § 2(d), 59 DCR 2555</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1451.01">6-1451.01</cite> and § <cite path="§6-1451.03">6-1451.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in subsec. (f).</annotation>
+        <annotation><cite doc="D.C. Law 19-139">D.C. Law 19-139</cite> rewrote subsec. (c), which formerly read:</annotation>
+        <annotation>“(c) Notwithstanding Chapter 5 of Title 2, for the purposes of establishing compliance with standards in §§ <cite path="§6-1451.02">6-1451.02</cite> and <cite path="§6-1451.03">6-1451.03</cite>, verification of a project shall be based upon the standards in effect 6 months prior to the submission of the first construction permit application.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14A"/>
+    <num codify:value="6-1451.05">6</num>
+    <heading>Financial security.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Beginning January 1, 2012, an applicant governed by § <cite path="§6-1451.03">6-1451.03</cite>(a) shall provide a financial security, which shall be due prior to receipt of a certificate of occupancy.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The financial security requirement of subsection (a) of this section may be fulfilled by:</text>
+        <para>
+          <num>(A)</num>
+          <text>Evidence of cash deposited in an escrow account in a financial institution in the District in the name of the licensee and the District;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>An irrevocable letter of credit from a financial institution authorized to do business in the District;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A bond secured by the applicant to ensure compliance with this section; or</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>A binding pledge that within 2 years of receipt of the certificate of occupancy the applicant will fulfill or exceed the current edition of the LEED standard for commercial and institutional buildings at the certified level.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>A binding pledge pursuant to paragraph (1)(D) of this subsection shall be recorded as a covenant in the land records of the District between the applicant and the District in a form that is satisfactory to the District’s Attorney General or the Attorney General’s delegate.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The covenant shall bind the applicant and any successors in title to pay any fines levied pursuant to this section.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If, within 2 years of receipt of the certificate of occupancy, the project provides evidence that it has fulfilled or exceeded the current edition of the LEED standard for commercial and institutional buildings at the certified level, a financial security previously provided by the applicant in the form of cash, an irrevocable letter of credit, or a bond shall be returned to the applicant.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>If, within 2 years of receipt of the certificate of occupancy, the project does not provide evidence that it has fulfilled or exceeded the current edition of the LEED standard for commercial and institutional buildings at the certified level, the Mayor shall, as applicable, either:</text>
+      <para>
+        <num>(1)</num>
+        <text>Draw down on a financial security provided in the form of cash, an irrevocable letter of credit, or a bond, in whole, or in part; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Levy a fine against an applicant that provided a financial security in the form of a binding pledge as set forth in subsection (f) of this subsection.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A financial security in the form of cash, an irrevocable letter of credit, or a bond shall be calculated by square foot as set forth in subsection (f) of this section but shall be discounted by 20% of the amount of the fine described in subsection (f) of this section.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>A fine issued pursuant to subsection (d)(2) of this section shall be calculated as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>In the amount of $7.50 per square foot of gross floor space if the project is less than 100,000 square feet of gross floor space.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the amount of $10 per square foot, if the project is at least 100,000 square feet of gross floor space.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Beginning 4 years after receipt of the certificate of occupancy, the applicant shall pay a monthly fine of $0.02 per square foot to the District for failure to provide evidence that it has fulfilled or exceeded either the current edition of the LEED standard for commercial and institutional buildings at the certified level or the current edition of the LEED standard for Existing Buildings: Operations &amp; Maintenance at the certified level. The monthly fines shall accumulate but shall be assessed annually.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The fine described in paragraphs (1) and (2) of this subsection shall not exceed $3 million; provided, that an annual fine issued pursuant to paragraph (3) of this subsection shall not count toward the $3 million limit.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Mayor, for good cause, may issue time extensions to a project; provided, that the Mayor shall not grant more than 3, one-year extensions.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>Fines issued under this section shall be civil penalties.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>Substantial improvements shall be subject to the requirements of this section; provided, that only square feet included in a substantial improvement project shall be calculated for the purposes of a fine.</text>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>The financial security option provided in subsection (b)(1)(C) of this section shall become effective upon the issuance of rules by the Mayor.</text>
+    </para>
+    <para>
+      <num>(k)</num>
+      <text>Any payment made to the District for failure to meet the standards required by §§ <cite path="§6-1451.02">6-1451.02</cite> and <cite path="§6-1451.03">6-1451.03</cite> shall be deposited in the Green Building Fund.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-234">Mar. 8, 2007, D.C. Law 16-234, § 6, 54 DCR 377</annotation>
+        <annotation doc="D.C. Law 18-349">Mar. 31, 2011, D.C. Law 18-349, § 2(d), 58 DCR 724</annotation>
+        <annotation doc="D.C. Law 19-139">June 5, 2012, D.C. Law 19-139, § 2(e), 59 DCR 2555</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1451.02">6-1451.02</cite> and § <cite path="§6-1451.07">6-1451.07</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-349">D.C. Law 18-349</cite> substituted “bond” for “performance bond” throughout the section; in the section heading, substituted “Bond requirements” for “Performance bond”; rewrote subsec. (b); in subsec. (g), substituted “standards required by §§ <cite path="§6-1451.03">6-1451.03</cite> and <cite path="§6-1451.06">6-1451.06</cite>” for “verification requirements described in §§ <cite path="§6-1451.02">6-1451.02</cite> and <cite path="§6-1451.03">6-1451.03</cite>”. Prior to amendment, subsec. (b) read as follows: “(b) On or before January 1, 2012, all applicants for construction governed by § <cite path="§6-1451.03">6-1451.03</cite> shall provide a performance bond, which shall be due and payable prior to receipt of a certificate of occupancy.”</annotation>
+        <annotation><cite doc="D.C. Law 19-139">D.C. Law 19-139</cite> rewrote the section, which formerly read:</annotation>
+        <annotation>“(a) A commercial applicant who applies for an incentive described in § <cite path="§6-1451.06">6-1451.06</cite> shall provide a bond which shall be due and payable upon approval of the first building construction permit application.</annotation>
+        <annotation>“(b) All applicants governed by § <cite path="§6-1451.03">6-1451.03</cite> shall provide a bond, which shall be due and payable prior to receipt of a certificate of occupancy, according to the following schedule:</annotation>
+        <annotation>“(1) On or after January 1, 2010, for an applicant governed by § <cite path="§6-1451.03">6-1451.03</cite>(b)(2)(A); and</annotation>
+        <annotation>“(2) On or after January 1, 2012, for an applicant governed by § <cite path="§6-1451.03">6-1451.03</cite>(b)(2)(B).</annotation>
+        <annotation>“(c) For the purpose of compliance with subsections (a) and (b) of this section, in lieu of the bond required by this section, the Mayor may accept an irrevocable letter of credit from a financial institution authorized to do business in the District or evidence of cash deposited in an escrow account in a financial institution in the District in the name of the licensee and the District. The letter of credit or escrow account shall be in the amounts required by subsection (d) of this section.</annotation>
+        <annotation>“(d) The amount of the required bond under subsection (a) of this section shall be 1% of the incentive provided.</annotation>
+        <annotation>“(e) The amount of the required bond under subsection (b) of this section shall be:</annotation>
+        <annotation>“(1) For a project not exceeding 150,000 square feet of gross floor area, 2% of the total cost of the building;</annotation>
+        <annotation>“(2) For a project from 150,001 to 250,000 square feet of gross floor area, 3% of the total cost of the building; and.</annotation>
+        <annotation>“(3) For a project exceeding 250,000 square feet building of gross floor area, 4% of the total cost of the building.</annotation>
+        <annotation>“(f) The maximum amount of a bond shall be $3 million.</annotation>
+        <annotation>“(g) All or part of the bond shall be forfeited to the District and deposited in the Green Building Fund if the building fails to meet the standards required by §§ <cite path="§6-1451.03">6-1451.03</cite> and <cite path="§6-1451.06">6-1451.06</cite>.</annotation>
+        <annotation>“(h) The District shall draw down on the bond funds if the required green building verification is not provided within 2 years after receiving the first certificate of occupancy.</annotation>
+        <annotation>“(i) The Mayor shall promulgate rules to establish additional requirements for the drawing down or return of the bond.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>Section 2(c) of <cite doc="D.C. Law 19-99">D.C. Law 19-99</cite> rewrote the section to read as follows:</annotation>
+        <annotation>“Sec. 6. Financial security.</annotation>
+        <annotation>“(a) Beginning January 1, 2012, an applicant governed by section 4(a) shall provide a financial security, which shall be due and payable prior to receipt of a certificate of occupancy.</annotation>
+        <annotation>“(b)(1) The financial security requirement of subsection (a) of this section may be fulfilled by:</annotation>
+        <annotation>“(A) Evidence of cash deposited in an escrow account in a financial institution in the District in the name of the licensee and the District;</annotation>
+        <annotation>“(B) An irrevocable letter of credit from a financial institution authorized to do business in the District;</annotation>
+        <annotation>“(C) A bond secured by the applicant to ensure compliance with this section; or</annotation>
+        <annotation>“(D) A binding pledge that within 2 years of receipt of the certificate of occupancy the applicant will fulfill or exceed the current edition of the LEED standard for commercial and institutional buildings at the certified level.</annotation>
+        <annotation>“(2)(A) The binding pledge described in paragraph (1)(D) of this subsection shall be recorded as a covenant in the land records of the District between the applicant and the District in a form that is satisfactory to the District’s Attorney General or his or her delegate.</annotation>
+        <annotation>“(B) The covenant shall bind the applicant and any successors in title to pay any fines levied pursuant to this section.</annotation>
+        <annotation>“(c) If within 2 years of receipt of the certificate of occupancy the project provides evidence that it has fulfilled or exceeded the current edition of the LEED standard for commercial and institutional buildings at the certified level, a financial security previously provided by the applicant in the form of cash, an irrevocable letter of credit, or a bond shall be returned to the applicant.</annotation>
+        <annotation>“(d) If within 2 years of receipt of the certificate of occupancy, the project does not provide evidence that it has fulfilled or exceeded the current edition of the LEED standard for commercial and institutional buildings at the certified level, the Mayor shall:</annotation>
+        <annotation>“(1) Draw down on a financial security provided in the form of cash, an irrevocable letter of credit, or a bond, in whole, or in part, as determined by rulemaking; or</annotation>
+        <annotation>“(2) Levy a fine against an applicant that provided a financial security in the form of a binding pledge as set forth in subsection (f) of this section.</annotation>
+        <annotation>“(e) A financial security in the form of cash, an irrevocable letter of credit, or a bond shall be calculated by square foot as set forth in subsection (f) but shall be discounted by 20% of the amount of the fine described in subsection (f) of this section.</annotation>
+        <annotation>“(f) A fine issued pursuant to subsection (d)(2) of this section shall be calculated as follows:</annotation>
+        <annotation>“(1) In the amount of $7.50 per square foot of gross floor space if the project is less than 100,000 square feet of gross floor space.</annotation>
+        <annotation>“(2) In the amount of $10 per square foot, if the project is at least 100,000 square feet of gross floor space.</annotation>
+        <annotation>“(3) Beginning 4 years after receipt of the certificate of occupancy, the applicant shall pay a monthly fine of $0.02 per square foot to the District for failure to provide evidence that it has fulfilled or exceeded either the current edition of the LEED standard for commercial and institutional buildings at the certified level or the current edition of the LEED standard for existing commercial and institutional buildings at the certified level. The monthly fines shall accumulate but shall be assessed annually.</annotation>
+        <annotation>“(4) The fine described in paragraphs (1) and (2) of this subsection shall not exceed $3 million; provided, that an annual fine issued pursuant to subsection (f)(3) of this section shall not count toward the $3 million limit.</annotation>
+        <annotation>“(5) The Mayor may reduce any or all of the fines for good cause.</annotation>
+        <annotation>“(g) The Mayor may, for good cause, issue time extensions to a project; provided, that the Mayor shall not grant more than 3, one-year extensions.</annotation>
+        <annotation>“(h) Fines issued under this section shall be civil penalties.</annotation>
+        <annotation>“(i) Substantial improvements shall be subject to the requirements of this section; provided, that only square feet included in a substantial improvement project shall be calculated for the purposes of a fine.</annotation>
+        <annotation>“(j) The financial security option provided in subsection (b)(1)(C) of this section shall become effective upon the issuance of rules by the Mayor.</annotation>
+        <annotation>“(k) Any payment made to the District for failure to meet the standards required by sections 4 and 7 shall be deposited in the Green Building Fund.</annotation>
+        <annotation>“(l) For purposes of this section, ’LEED standard for commercial and institutional buildings` means LEED for New Construction, Core &amp; Shell, Schools, or Retail.”.</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 19-99">D.C. Law 19-99</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(d) of Green Building Compliance Emergency Amendment Act of 2011 (D.C. Act 19-257, December 21, 2011,  58 DCR 11222).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14A"/>
+    <reason>Repealed</reason>
+    <num codify:value="6-1451.06">7</num>
+    <heading>Incentives.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-234">Mar. 8, 2007, D.C. Law 16-234, § 7, 54 DCR 377</annotation>
+        <annotation doc="D.C. Law 18-349">Mar. 31, 2011, D.C. Law 18-349, § 2(e), 58 DCR 724</annotation>
+        <annotation doc="D.C. Law 19-139">June 5, 2012, D.C. Law 19-139, § 2(e), 59 DCR 2555</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-1212.24">2-1212.24</cite> and § <cite path="§6-1451.01">6-1451.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14A"/>
+    <num codify:value="6-1451.07">8</num>
+    <heading>Green Building Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a fund designated as the Green Building Fund, which shall be separate from the General Fund of the District of Columbia. All additional monies obtained pursuant to §§ <cite path="§6-1451.05">6-1451.05</cite> and <cite path="§6-1451.08">6-1451.08</cite>, and all interest earned on those funds, shall be deposited into the Fund without regard to fiscal year limitation pursuant to an act of Congress, and used solely to pay the costs of operating and maintaining the Fund and for the purposes stated in subsection (c) of this section. All funds, interest, and other amounts deposited into the Fund shall not be transferred or revert to the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall continually be available for the uses and purposes set forth in this section, subject to authorization by Congress in an appropriations act.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall administer the monies deposited in the Fund.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The purpose of the Fund is to streamline administrative green building processes, improve sustainability performance outcomes, build capacity of development and administrative oversight professionals in green building skills and knowledge, institutionalize innovation, overcome barriers to achieving high-performance buildings, and continuously promote the sustainability of green building practices in the District.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>[The] Fund shall be used for the following:</text>
+        <para>
+          <num>(A)</num>
+          <text>costs for at least 3 full-time employees at DCRA, or elsewhere as assigned by the Mayor, whose primary job duties are devoted to technical assistance, plan review, and inspections and monitoring of green buildings;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Additional staff and operating costs to provide training, technical assistance, plan review, inspections and monitoring of green buildings, and green codes development;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Research and development of green building practices;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Education, training, outreach, and other market transformation initiatives; and</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Seed support for demonstration projects, their evaluation, and when successful, their institutionalization.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Mayor may receive and administer grants for the purpose of carrying out the goals of this chapter.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-234">Mar. 8, 2007, D.C. Law 16-234, § 8, 54 DCR 377</annotation>
+        <annotation doc="D.C. Law 19-139">June 5, 2012, D.C. Law 19-139, § 2(f), 59 DCR 2555</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1451.01">6-1451.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-139">D.C. Law 19-139</cite> rewrote subsec. (c), which formerly read:</annotation>
+        <annotation>“(c) The Fund shall be used as follows:”</annotation>
+        <annotation>“(1) Staffing and operating costs to provide technical assistance, plan review, and inspections and monitoring of green buildings;</annotation>
+        <annotation>“(2) Education, training and outreach to the public and private sectors on green building practices; and</annotation>
+        <annotation>“(3) Incentive funding for private buildings as provided for in § <cite path="§6-1451.06">6-1451.06</cite>.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14A"/>
+    <num codify:value="6-1451.07a">8a</num>
+    <heading>Benchmarking Enforcement Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the Benchmarking Enforcement Fund (“Fund”), which shall be administered by the Mayor in accordance with subsection (c) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Penalties collected pursuant to § <cite path="§6-1451.03">6-1451.03</cite>(c)(2)(D) shall be deposited in the Fund.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Money in the Fund shall be used to support and improve the administration and practices of the benchmarking program established by this chapter.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to authorization in an approved budget and fiscal plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-234">Mar. 8, 2007, D.C. Law 16-234, § 8a</annotation>
+        <annotation doc="D.C. Law 21-36">as added Oct. 22, 2015, D.C. Law 21-36, § 6062, 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 6062 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14A"/>
+    <num codify:value="6-1451.08">9</num>
+    <heading>Green building fee.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A green building fee is established to fund the implementation of this chapter and the Green Building Fund.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Upon March 8, 2007, the green building fee shall be established by increasing the building permit fees in effect at the time in accordance with the following schedule of additional fees:</text>
+      <para>
+        <num>(1)</num>
+        <text>New construction — an additional $0.0020 per square foot.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Alterations and repairs exceeding $1,000 but not exceeding $1 million — an additional 0.13% of construction value; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Alterations and repairs exceeding $1 million — an additional 0.065% of construction value.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-234">Mar. 8, 2007, D.C. Law 16-234, § 9, 54 DCR 377</annotation>
+        <annotation doc="D.C. Law 19-139">June 5, 2012, D.C. Law 19-139, § 2(g), 59 DCR 2555</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1451.07">6-1451.07</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-139">D.C. Law 19-139</cite>, in subsec. (b), substituted “building permit” for “building construction permit”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14A"/>
+    <num codify:value="6-1451.09">10</num>
+    <heading>Establishment of the Green Building Advisory Council.</heading>
+    <para>
+      <num>(a)</num>
+      <text>DDOE shall provide the central coordination and technical assistance to District agencies and instrumentalities in the implementation of the provisions of this chapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Within 90 days after March 8, 2007, the Mayor shall establish a Green Building Advisory Council to monitor the District’s compliance with the requirements of this chapter and to make policy recommendations designed to continually improve and update the chapter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The GBAC shall consist of the following 13 members:</text>
+        <para>
+          <num>(A)</num>
+          <text>The Director of DDOE, or the Director’s designee;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Director of the Office of Planning, or the Director’s designee;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The Director of the Department of General Services, or the Director’s designee;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The Director of the Department of Consumer and Regulatory Affairs, or the Director’s designee;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>The Director of the Department of Housing and Community Development, or the Director’s designee;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Six members appointed by the Mayor comprised in equal number of representatives from the private and nonprofit sectors;</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>One member appointed by the chairperson of the committee of the Council that oversees the building permit function in the District of Columbia; and</text>
+        </para>
+        <para>
+          <num>(H)</num>
+          <text>One member appointed by the chairperson of the Committee of the Council that oversees DDOE.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Members of the GBAC who are not ex officio members shall have expertise in building construction, development, engineering, natural resources conservation, energy conservation, green building practices, environmental protection, environmental law, or other similar green building expertise.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Chairperson of the GBAC shall be the Director of DDOE.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All members of the GBAC shall either work in, or be residents of the District, and shall serve without compensation.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The members shall serve a 2-year term.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A member appointed to fill a vacancy or after a term has begun, shall serve only for the remainder of the term or until a successor is appointed.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The GBAC shall advise the Mayor on:</text>
+      <para>
+        <num>(1)</num>
+        <text>The development, adoption, and revisions of this chapter, including suggestions for additional incentives to promote green building practices;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The evaluation of the effectiveness of the District’s green building policies and their impact on the District’s environmental health, including the relation of the development of the District’s green building policies to the specific environmental challenges facing the District;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The green building practices to be included in the triennial revisions of the Construction Codes; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The promotion of green building education, including educating relevant District employees, the building community, and the public regarding the benefits and techniques of high-performance building standards.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The GBAC shall meet at least 6 times each year.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>GBAC shall issue an annual report of its recommendations. The report shall include recommended updates of green building standards, building systems monitoring and data compiled from District-owned or District instrumentality-owned and operated buildings, and an analysis of the building projects exempted by the Mayor under § <cite path="§6-1451.10">6-1451.10</cite>. The report shall be distributed to all members of the Council and the Mayor and made available to the general public within 30 days after its issuance.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Mayor shall provide GBAC with the following to be included in the annual report required by subsection (f) of this section:</text>
+      <para>
+        <num>(1)</num>
+        <text>An accounting of funds deposited into the Green Building Fund during the past fiscal year, separated by category;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An accounting of funds spent from the Green Building Fund during the past fiscal year, referencing that year’s annual green plan’s goals; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A 2-year District Green Building Plan updated annually, with goals and associated projections of expenditures for the upcoming fiscal year, produced in consultation with the GBAC.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-234">Mar. 8, 2007, D.C. Law 16-234, § 10, 54 DCR 377</annotation>
+        <annotation doc="D.C. Law 18-349">Mar. 31, 2011, D.C. Law 18-349, § 2(f), 58 DCR 724</annotation>
+        <annotation doc="D.C. Law 19-139">June 5, 2012, D.C. Law 19-139, § 2(h), 59 DCR 2555</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 46, 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1451.01">6-1451.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-349">D.C. Law 18-349</cite> substituted “DDOE” for “The Department of the Environment” or “the Department of the Environment ”.</annotation>
+        <annotation><cite doc="D.C. Law 19-139">D.C. Law 19-139</cite>, in subsec. (c)(1)(C), substituted “Department of General Services” for “Office of Property Management”; in subsec. (c)(1)(G), substituted “building permit” for “building construction permit”; and added subsec. (g).</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “Department of General Services” for “Office of Property Management” in (c)(1)(C).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14A"/>
+    <num codify:value="6-1451.10">11</num>
+    <heading>Exemptions and extensions.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor may, in unusual circumstances and only upon a showing of good cause, grant an exemption from any of the requirements of this chapter based on:</text>
+        <para>
+          <num>(A)</num>
+          <text>Substantial evidence of a practical infeasibility or hardship of meeting a required green building standard;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A determination that the public interest would not be served by complying with such requirements; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Other compelling circumstances as determined by the Mayor by rulemaking.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The burden shall be on the applicant to show circumstances to establish hardship or infeasibility under this section.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the Mayor determines that the required verification requirement is not practicable for a project, the Mayor shall determine if another green building standard is practicable before exempting the project from all green building requirements.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Mayor shall promulgate rules to establish requirements for the exemption process within 180 days of March 8, 2007.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Notwithstanding any other provision of this chapter, construction encompassed by building permits applied for within 6 months of March 8, 2007, shall be exempt from the verification requirements of this chapter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Notwithstanding any other provision of this chapter, construction encompassed by a contract for a disposition agreement with the District or an instrumentality of the District for a property disposition for which a request for proposals was released prior to March 8, 2007, shall be exempt from the relevant current edition of the LEED standard for commercial and institutional buildings verification requirements, unless the disposition agreement is executed more than 12 months after March 8, 2007.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Notwithstanding any other provision of this chapter, the Mayor, upon a finding of reasonable grounds, may extend the period for green building verifications required in §§ <cite path="§6-1451.02">6-1451.02</cite> and <cite path="§6-1451.03">6-1451.03</cite>, for 3 successive 4-month periods.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-234">Mar. 8, 2007, D.C. Law 16-234, § 11, 54 DCR 377</annotation>
+        <annotation doc="D.C. Law 18-349">Mar. 31, 2011, D.C. Law 18-349, § 2(g), 58 DCR 724</annotation>
+        <annotation doc="D.C. Law 19-139">June 5, 2012, D.C. Law 19-139, § 2(i), 59 DCR 2555</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1451.09">6-1451.09</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-349">D.C. Law 18-349</cite>, in subsec. (c), substituted “current edition of the LEED standard for commercial and institutional buildings” for “LEED-NC 2.2, LEED-CI 2.0, or LEED-CS 2.0”.</annotation>
+        <annotation><cite doc="D.C. Law 19-139">D.C. Law 19-139</cite>, in subsec. (b), substituted “building permit” for “building construction permit”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|14A"/>
+    <num codify:value="6-1451.11">12</num>
+    <heading>Rules.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], may issue rules to implement the provisions of this chapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor may issue proposed rules to adopt another rating system, in whole or in part. Proposed rules to adopt another rating system shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve the proposed rules, in whole or in part, by resolution within this 45-day review period, the proposed rules shall be deemed disapproved.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Notwithstanding the requirements of § <cite path="§2-552">2-552</cite>(c), where the Mayor chooses to adopt a LEED or Green Communities standard as the District’s standard under this chapter, DDOE may do so by incorporating the LEED or Green Communities standard by reference in a Notice of Intent to take rulemaking action. When incorporating the LEED or Green Communities standard by reference, the notice shall include a specific indication of how and where a paper or electronic copy of such document may be inspected or obtained. Any amendments, supplements, or future editions to the LEED or Green Communities Standard shall be deemed to be included in the District’s standard; provided, that DDOE shall annually issue a Notice of Intent to adopt any amendments, supplements, or future editions to the LEED or Green Communities, in whole, or in part, or announce an intent to adopt a different standard.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-234">Mar. 8, 2007, D.C. Law 16-234, § 12, 54 DCR 377</annotation>
+        <annotation doc="D.C. Law 19-139">June 5, 2012, D.C. Law 19-139, § 2(j), 59 DCR 2555</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1451.01">6-1451.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-139">D.C. Law 19-139</cite> rewrote the section, which formerly read:</annotation>
+        <annotation>“(a) Within 180 days of March 8, 2007, the Mayor shall promulgate rules to implement this chapter. The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 45-day review period, the proposed rules shall be deemed approved.</annotation>
+        <annotation>“(b) The Mayor may issue proposed rules to adopt future amendments, supplements, and editions of the LEED rating system, or any other rating system, in whole or in part. The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 45-day review period, the proposed rules shall be deemed approved.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority—Green Building Act of 2006, see Mayor’s Order 2010-1, January 15, 2010 ( 57 DCR 641).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,10 +1,164 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 83-2-ch324">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 83-2-ch324">
+  <heading/>
   <meta>
     <effective>1954-06-18</effective>
     <cites>
-        <law congress="83" session="2" chapter="324"/>
+      <law congress="83" session="2" chapter="324"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2305">1</num>
+    <heading>Successor to Columbia Institution for the Deaf.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 18, 1954, 68 Stat. 265, ch. 324, § 1</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1805.</annotation>
+        <annotation>1973 Ed., § 31-1025.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2306">2</num>
+    <heading>Purposes.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 18, 1954, 68 Stat. 265, ch. 324, § 2</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1806.</annotation>
+        <annotation>1973 Ed., § 31-1026.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2307">3</num>
+    <heading>Property rights; outstanding obligations; conveyances.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 18, 1954, 68 Stat. 265, ch. 324, § 3</annotation>
+        <annotation doc="Pub. L. 86-776">Sept. 13, 1960, 74 Stat. 917, Pub. L. 86-776, § 4</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1807.</annotation>
+        <annotation>1973 Ed., § 31-1027.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2308">4</num>
+    <heading>Gifts of property.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 18, 1954, 68 Stat. 265, ch. 324, § 4</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1808.</annotation>
+        <annotation>1973 Ed., § 31-1028.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2309">5</num>
+    <heading>Board of Directors — Appointment; composition; terms; removal.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 18, 1954, 68 Stat. 265, ch. 324, § 5</annotation>
+        <annotation doc="Pub. L. 90-415">July 23, 1968, 82 Stat. 397, Pub. L. 90-415, §§ 1,2</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1809.</annotation>
+        <annotation>1973 Ed., § 31-1029.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2310">6</num>
+    <heading>Board of Directors — Powers.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 18, 1954, 68 Stat. 266, ch. 324, § 6</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1810.</annotation>
+        <annotation>1973 Ed., § 31-1030.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2311">7</num>
+    <heading>Financial transactions and accounts; annual report to the Secretary of Education.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 18, 1954, 68 Stat. 266, ch. 324, § 7</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1811.</annotation>
+        <annotation>1973 Ed., § 31-1031.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2312">8</num>
+    <heading>Appropriations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 18, 1954, 68 Stat. 266, ch. 324, § 8</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1812.</annotation>
+        <annotation>1973 Ed., § 31-1032.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

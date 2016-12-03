@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 18-111" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 18-111" flag="true">
   <num type="law">18-111</num>
   <heading type="short">Fiscal Year 2010 Budget Support Act of 2009</heading>
   <meta>
@@ -12,4 +12,1191 @@
       <narrative>Law 18-111, the “Fiscal Year 2010 Budget Support Act of 2009”, was introduced in Council and assigned Bill No. 18-203, which was referred to the Committee on the Whole. The bill was adopted on first and second readings on May 12, 2009, and September 22, 2009, respectively. Signed by the Mayor on December 18, 2009, it was assigned Act No. 18-255 and transmitted to both Houses of Congress for its review. D.C. Law 18-111 became effective on March 3, 2010.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|4A|II"/>
+    <num codify:value="38-471">4151</num>
+    <heading>Transfer of Public Schools Realty Office to the Office of Public Education Facilities.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All functions, authority, programs, positions, personnel, property, records, and unexpended balances of appropriations, allocations, and other funds available or to be made available to the District of Columbia Public Schools Realty Office shall be transferred to the Office of Public Education Facilities Modernization by March 3, 2010.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All rules, orders, obligations, determinations, grants, contracts, licenses, and agreements of the District of Columbia Public Schools Realty Office transferred to the Office of Public Education Facilities Modernization under subsection (a) of this section shall continue in effect according to their terms until lawfully amended, repealed, or modified.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 4151, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4151 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4151 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 4150 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle P of title IV of the act may be cited as the “District of Columbia Public Schools Realty Office Transfer Act of 2009”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|10A"/>
+    <num codify:value="38-1011.01">2171</num>
+    <heading>Establishment of evening, weekend, and summer adult technical career training program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall establish an evening, weekend, and summer adult technical career training program (“Program”) for District residents in partnership with existing technical career training programs within 8 months of March 3, 2010. The Program shall provide technical career training opportunities for adults during evening hours, weekends, and summer months. The Program shall be conducted at the following locations:</text>
+      <para>
+        <num>(1)</num>
+        <text>Phelps Architecture, Construction and Engineering High School;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Academy for Construction and Design at Cardozo Senior High School; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Hospitality Public Charter High School at Roosevelt High School.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Part of the funding directed to support adult technical career training should be applied to cover the cost of operating these facilities beyond traditional school hours.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 2171, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2171 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2171 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 2170 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle R of title II of the act may be cited as the “Get DC Residents Training for Jobs Now Act of 2009”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|10A"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1011.02">2172</num>
+    <heading>Targeted Program areas.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 2172, 57 DCR 181</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 9017(d), 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2172 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2172 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see §§ 9017(d) and 9029 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 9017(d) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 9017(d) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 9029 of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> provided that the repeal by § 9017(d) of the act shall apply as of September 30, 2014.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|10A"/>
+    <num codify:value="38-1011.03">2173</num>
+    <heading>Instructional expertise in implementation of the Program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall select certain entities to provide technical instruction and expertise to the Program. The entities shall include trade associations, professional groups, unions, nonprofit organizations, and other groups certified to provide adult technical career training.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The University of the District of Columbia shall work in conjunction with the Hospitality Public Charter High School at Roosevelt High School, and in partnership with existing adult technical career training programs, to open the Hospitality Public Charter High School at Roosevelt High School for night, weekend, and summer classes and training as one component of the Program.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 2173, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2173 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2173 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|10A"/>
+    <num codify:value="38-1011.04">2174</num>
+    <heading>Sources of funding.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall apply for grants and additional federal funding that may be available as part of the Workforce Investment Act of 1998, approved August 7, 1998 (112 Stat. 936; 29 U.S.C. § 9201 et seq.) (“the Act”), to support the Program and may administer funds pursuant to the Act.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>To qualify for funding made available pursuant to the Act, agencies, organizations, and other groups that will offer adult technical career training as part of the Program shall be required to create and submit competitive proposals that match current and future employment needs within the District as identified by the Mayor.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Entities that have been previously certified by the Mayor for adult technical career training and who have an established success rate, as determined by the Mayor, shall be exempt from the requirements of paragraph (1) of this subsection.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall apply for grants and additional federal funding that may be available as part of the Carl D. Perkins Career and Technical Education Improvement Act of 2006, approved August 12, 2006 (120 Stat. 683; 20 U.S.C. § 2301 et seq.).</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor shall apply for additional federal funding that may be available for technical career training in the form of competitive grants under the American Recovery and Reinvestment Act of 2009, approved February 17, 2009 (123 Stat. 115; 26 U.S.C. § 1, note).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 2174, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2174 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2174 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|10A"/>
+    <num codify:value="38-1011.05">2175</num>
+    <heading>Rules.</heading>
+    <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], may issue rules to implement the provisions of this chapter. The proposed rules shall be submitted to the Council for a 30-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 30-day review period, the proposed rules shall be deemed approved.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 2175, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2175 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2175 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|12"/>
+    <num codify:value="38-1241.01">4141</num>
+    <heading>Transfer of capital budget authority and funding to the University of the District of Columbia.</heading>
+    <text>Beginning October 1, 2009, all University of the District of Columbia (“UDC”) capital projects shall be the responsibility of UDC to implement. The budget authority and any unexpended balances of appropriations, allocations, income, and other funds for all UDC capital projects shall be transferred from the Department of Real Estate Services (formerly, the Office of Property Management) to UDC upon October 15, 2009.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 4141, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4141 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4141 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 4140 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle O of title IV of the act may be cited as the “Transfer of Capital Budget Authority and Funding to the University of the District of Columbia Act of 2009”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18A|IV"/>
+    <num codify:value="38-1837.01">4021</num>
+    <heading>Establishment.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a Public Charter School Facilities Allotment Task Force (“Task Force”). The Task Force shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Consult with:</text>
+        <para>
+          <num>(A)</num>
+          <text>Public charter schools;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Council;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Relevant District government agencies; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Banking, or other financial, professionals to determine the financial implications of any changes to the current uniform per student formula for the public charter schools facilities allotment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Conduct a comprehensive analysis of facilities expenditures among public charter schools, including the allowable facilities expenditures recommended by the Mayor, and identify additional factors bearing on expenditures, if any, for consideration;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Develop recommendations for a cost-based allocation formula for the public charter schools facilities allotment; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Identify cost-saving strategies and measures to ensure that public charter schools facilities allotment funds are used exclusively on public charter school facilities.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Task Force shall submit to the Council its analysis and recommendations, including its recommendation for a cost-based allocation formula for the public charter schools facilities allotment, by November 30, 2009.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Task Force shall be disbanded by no later than December 31, 2009.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 4021, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4021 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009,  56 DCR 7374).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4021 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4021 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 4020 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle C of title IV of the act may be cited as the “Public Charter School Facilities Allotment Task Force Establishment Act of 2009”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18A|IV"/>
+    <num codify:value="38-1837.02">4022</num>
+    <heading>Oversight and composition of the Task Force.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Public Charter School Board shall oversee the Task Force, which shall be comprised of the following members, or their designees:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Chairman of the Council;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Deputy Mayor for Education;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The State Superintendent of Education;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Chairperson of the Public Charter School Board;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Executive Director of the Public Charter School Board; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Chief Financial Officer for the District of Columbia.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The following shall serve as advisory members of the Task Force;</text>
+      <para>
+        <num>(1)</num>
+        <text>The chief financial officers, or their designees, of at least 6 public charter schools, representing a range of enrollment, grade levels, and geographic location;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Professionals in the field of public charter school financing;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Representatives from public charter school advocacy groups; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Other individuals considered necessary or beneficial by the Public Charter School Board.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 4022, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4022 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009,  56 DCR 7374).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4022 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4022 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|16|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="32-1671">2261</num>
+    <heading>Use of local funds designated for adult training.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 2261, 57 DCR 181</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  9015, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2261 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see §§ 9015 and 9029 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 9015 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 9015 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 2260 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle BB of title II of the act may be cited as the “Adult Training Funding Act of 2009”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 9029 of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> provided that the repeal by § 9015 of the act shall apply as of September 30, 2014.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|P"/>
+    <num codify:value="1-325.151">1261</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this part, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Alley Rehabilitation Project” means the capital project designated as District Department of Transportation capital project CEL21C in the District’s capital improvement program.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Buyer agency” means a District department, office, or agency that places an order for goods or services using funds appropriated for a capital project pursuant to a memorandum of understanding.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Capital project” shall have the same meaning as provided in § <cite path="§1-201.03">1-201.03</cite>(8).</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Chief Financial Officer” means the Chief Financial Officer of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Fund” means the Capital Project Support Fund established by § <cite path="§1-325.152">1-325.152</cite>.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Memorandum of understanding” means an agreement between District departments, offices, or agencies authorized pursuant to § <cite path="§1-301.01">1-301.01</cite>(k)(1) to provide goods or services for the benefit of a capital project with payment to be made with funds appropriated for that capital project.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“OCFO” means the Office of the Chief Financial Officer of the District of Columbia established by § <cite path="§1-204.24a">1-204.24a</cite>(a).</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Seller agency” means a District department, office, or agency that receives a transfer of funds appropriated for a capital project to provide goods or services related to that project pursuant to a memorandum of understanding.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Surplus capital funds” means unexpended funds appropriated for a capital project that have been identified by the OCFO as available for transfer pursuant to § <cite path="§1-325.153a">1-325.153a</cite> or § <cite path="§1-325.153b">1-325.153b</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1261, 57 DCR 181</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 8042(a), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-325.154">1-325.154</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> rewrote the section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1041 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009,  56 DCR 7374).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1261 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1261 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 8042(a) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <text>Short title: Section 1260 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle AA of title I of the act may be cited as the “Capital Project Support Fund Establishment Act of 2009”.</text>
+        <text>Short title: Section 1290 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle DD of title I of the act may be cited as the “DCPL Capital Project Fund Designation Act of 2009”.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 1291 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided:</text>
+        <text>“Sec.1291. District of Columbia Public Library capital funds. All capital funds for the District of Columbia Public Library shall be separated by individual library project with available balances for each project and funding priority shall be given to wards where no renovation project exceeding $2.5 million in value has been undertaken since fiscal year 2006.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|P"/>
+    <num codify:value="1-325.152">1262</num>
+    <heading>Capital Project Support Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the Capital Project Support Fund, which shall be administered by the Chief Financial Officer in accordance with this part.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All surplus capital funds identified by the Chief Financial Officer pursuant to §§  <cite path="§1-325.153a">1-325.153a</cite> and <cite path="§1-325.153b">1-325.153b</cite> shall be deposited into the Fund.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1262, 57 DCR 181</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 8042(b), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> rewrote the section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1042 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009,  56 DCR 7374).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1262 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1262 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 8042(b) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|P"/>
+    <num codify:value="1-325.153">1263</num>
+    <heading>Expenditures from Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Funding for an approved capital project may be provided through redirection in an approved budget and financial plan or through a reprogramming, pursuant to Chapter 3 of Title 47.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Within 30 days of a request by the Mayor to reprogram the money in the Fund to an approved capital project, the Chief Financial Officer shall certify that the funds are available and the expenditure to support the project is in compliance with this part.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1263, 57 DCR 181</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 8042(c), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> deleted the former second sentence in (b), which read “If a project is to receive funds from both the Bond Account and the Non-Bond Account, the Chief Financial Officer shall also certify the amount to be funded from each account.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1043 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009,  56 DCR 7374).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1263 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1263 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 8042(c) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|P"/>
+    <num codify:value="1-325.153a">1263a</num>
+    <heading>Closure of capital budget memoranda of understanding; transfer of surplus capital funds.</heading>
+    <para>
+      <num>(a)</num>
+      <text>After the termination date of a memorandum of understanding, the buyer agency shall have 60 days to reconcile the accounting and budget data and close the funding line for the memorandum of understanding associated with the capital project in the system of accounting and reporting.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>After the closing date of the memorandum of understanding, the Office of Budget and Planning within the OCFO shall notify the buyer agency and the seller agency of any issues that must be resolved to close the funding line for the memorandum of understanding in the project management system, including:</text>
+        <para>
+          <num>(A)</num>
+          <text>Any outstanding issues related to removal of any encumbrances and pre-encumbrances:</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The need for reconciliation of the capital project budget and expenditures between the buyer agency and the seller agency related to the memorandum of understanding; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Needed accounting entries necessary to zero out the budget balance for the memorandum of understanding.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>After the 60-day reconciliation period required by subsection (a) of this section, the OCFO, through its Director of Capital Improvements, shall adjust entries to ensure the close of the funding line for a memorandum of understanding associated with a capital project, with no outstanding balances remaining.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Any surplus capital funds that the Director of Capital Improvements identifies following the 60-day reconciliation period shall be deposited in the Capital Project Support Fund.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">March 3, 2010, D.C. Law 18-111, §  1263a</annotation>
+        <annotation doc="D.C. Law 21-36">as added Oct. 22, 2015, D.C. Law 21-36, § 8042(d),62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 8042(d) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|P"/>
+    <num codify:value="1-325.153b">1263b</num>
+    <heading>Transfer of other surplus capital funds.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If a department, office, or agency has a capital project with an unexpended balance of more than $250,000 for which no funds have been expended or encumbered for 3 consecutive years, the OCFO shall provide 30 days written notice to the department, office, or agency of the CFO’s intent to transfer the surplus capital funds to the Capital Project Support Fund. The CFO shall make this transfer unless the department, office, or agency to which the funds have been budgeted or allotted:</text>
+      <para>
+        <num>(1)</num>
+        <text>Certifies to the Mayor, Council, and CFO, within the 30-day notice period that it intends to use the funds to implement the capital project within 18 months of the certification; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Submits a satisfactory activity report to the OCFO describing the status of the implementation within 180 days from the date of certification.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The OCFO shall have sole and complete discretion to determine whether the activity report required by subsection (a) of this section is satisfactory. If the OCFO determines that an activity report is unsatisfactory, the OCFO shall transfer the surplus capital funds to the Capital Project Support Fund after providing 10 days written notice to the agency.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The OCFO shall transfer to the Capital Project Support Fund surplus capital funds from a capital project with an unexpended balance of $250,000 or less for which no funds have been expended or encumbered for 3 consecutive years upon the OCFO’s identification of such funds.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">March 3, 2010, D.C. Law 18-111, §  1263b</annotation>
+        <annotation doc="D.C. Law 21-36">as added Oct. 22, 2015, D.C. Law 21-36, § 8042(d),62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 8042(e) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|P"/>
+    <num codify:value="1-325.154">1264</num>
+    <heading>Reporting requirements.</heading>
+    <text>The Chief Financial Officer shall submit a written report to the Mayor and the Council on a quarterly basis on the status of the Fund, including the current balance of the Fund and a list of the projects supported by the Fund.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1264, 57 DCR 181</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 8042(e), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> rewrote the section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1044 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009,  56 DCR 7374).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1264 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1264 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 8042(e) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|P"/>
+    <num codify:value="1-325.155">1265</num>
+    <heading>Washington Metropolitan Area Transit Authority project.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in § <cite path="§1-325.156">1-325.156</cite> and notwithstanding any other provision of this part, the budget authority for an approved capital project shall be reprogrammed, pursuant to Chapter 3 of Title 47 [§  47-301 et seq.], for use pursuant to subchapter IV-A of Chapter 11 of Title 9 [§ <cite path="§9-1108.01">9-1108.01</cite> et seq.]; provided, that:</text>
+      <para>
+        <num>(1)</num>
+        <text>The capital project has been completed or the funds no longer considered necessary and budget authority remain available;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For a capital project with a balance of more than $250,000, no funds have been expended or encumbered for 3 consecutive years, and the agency has not notified the Chief Financial Officer within 30 days of the end of the 3-year period that the agency intends to use the funds to implement the project within 18 months; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For a capital project with a remaining budget authority of $250,000 or less, the capital project has not been funded for 3 consecutive years.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If at any time the Chief Financial Officer determines that certain funds are not needed to meet the requirements of the WMATA project, those funds may be reprogrammed, pursuant to Chapter 3 of Title 47, to any capital project that the Chief Financial Officer certifies a funding need.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1265, 57 DCR 181</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 8042(f), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> added “Except as provided in § <cite path="§1-325.155">1-325.155</cite> and” in (a).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1045 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009,  56 DCR 7374).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1265 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1265 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+        <annotation>For temporary (90 day) addition of section, see § 603 of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011,  58 DCR 662).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 8042(f) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|P"/>
+    <num codify:value="1-325.156">1266</num>
+    <heading>Alley Rehabilitation Project.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Notwithstanding any other provision of this part, the Chief Financial Officer shall transfer to and retain in the Alley Rehabilitation Project the first $6 million of surplus capital funds identified pursuant to § <cite path="§1-325.153a">1-325.153a</cite> or § <cite path="§1-325.153b">1-325.153b</cite>, to be made available for purposes of the Alley Rehabilitation Project through a reprograming pursuant to Chapter 3 of Title 47 [§ <cite path="§47-301">47-301</cite> et seq.].</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This section shall expire on September 30, 2016.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">March 3, 2010, D.C. Law 18-111, § 1266</annotation>
+        <annotation doc="D.C. Law 21-36">as added Oct. 22, 2015, D.C. Law 21-36, § 8042(g), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 days) amendment of this section, see § 2(c) of the Fiscal Year 2016 Budget Support Clarification Temporary Amendment Act of 2015 (<cite doc="D.C. Law 21-76">D.C. Law 21-76</cite>, Feb. 27, 2016,  63 DCR 264).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 8042(g) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XII|D"/>
+    <num codify:value="1-327.71">1002</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this part, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“DC One Card” means a credential issued by the District government as a single credential for purposes of accessing multiple District facilities, programs, and benefits, including public libraries, facilities of the Department of Parks and Recreation, and public schools.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Electronic chip” means a smart chip, radio frequency identification chip, or other contact or contact-less electronic media, including a Washington Metropolitan Area Transit Authority Smartrip chip, embedded in a DC One Card, to be read by participating agencies and programs for identification of the cardholder.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1002, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1002 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1002 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 1001 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle A of title I of the act may be cited as the “Technology Services Support Act of 2009”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XII|D"/>
+    <num codify:value="1-327.72">1003</num>
+    <heading>Replacement fee.</heading>
+    <text>A nonrefundable fee of $5 for replacement of any DC One Card that contains an electronic chip shall be collected by the agency issuing the replacement card at the point of issuance of the replacement card.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1003, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1003 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1003 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XII|D"/>
+    <num codify:value="1-327.73">1004</num>
+    <heading>Rules.</heading>
+    <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], shall issue rules to implement the provisions of this part.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1004, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1004 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1004 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17P"/>
+    <num codify:value="8-1776.01">1041</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term “DDOE” means the District Department of the Environment.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1041, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1041 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1041 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 1040 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle E of title I of the act may be cited as the “Smart Lighting Study Act of 2009”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17P"/>
+    <num codify:value="8-1776.02">1042</num>
+    <heading>Smart lighting study.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 270 days after March 3, 2010, DDOE shall submit a report to the Council recommending strategies and standards for optimal lighting methods and levels in the District. The report shall address:</text>
+      <para>
+        <num>(1)</num>
+        <text>Public safety;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Energy efficiency;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Cost efficiency;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Effects on environmental health; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Aesthetics.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In producing the report required by subsection (a) of this section, DDOE shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Consult with civil servants who have technical expertise and work for the Office of Planning, the Department of General Services, the Department of Housing and Community Development, the District Department of Transportation, the Metropolitan Police Department, the Fire and Emergency Medical Services Department, and appropriate federal authorities, including the General Services Administration, the Architect of the Capitol, and the National Capital Planning Commission;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Solicit input from the public; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Evaluate recognized lighting standards, including standards promulgated by the Illuminating Engineering Society and the International Dark Sky Association.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1042, 57 DCR 181</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 63, 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “Department of General Services” for “Office of Property Management” in (b)(1).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1042 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1042 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17Q"/>
+    <num codify:value="8-1777.01">1111</num>
+    <heading>Energy reduction.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall develop a plan that results in a 15% reduction in energy use by each District agency and instrumentality.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The plan shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Include specific recommendations on implementation, including the resources and the time period required to implement the plan;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be submitted to the Council on or before December 31, 2009; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Consider all sources of energy.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1111, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1111 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1111 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 1110 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle L of title I of the act may be cited as the “Energy Reduction Planning Act of 2009”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|15B"/>
+    <num codify:value="34-1561">2161</num>
+    <heading>Definitions.</heading>
+    <text>For purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Advanced Metering Infrastructure” or “AMI” means a system capable of providing 2-way communication with metering equipment to gather at least hourly energy consumption data on a daily basis for all customers.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“ARRA” means the American Recovery and Reinvestment Act of 2009, approved February 17, 2009 (123 Stat. 115; 26 U.S.C. § 1, note).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Commission” means the Public Service Commission.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Customer” shall have the same meaning as set forth in § <cite path="§34-1501">34-1501</cite>(12).</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Electric company” shall have the same meaning as set forth in § <cite path="§34-207">34-207</cite>.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Meter Data Management System” means a system that provides a single data repository which can gather data from multiple metering systems and then supply that data to multiple applications such as billing, forecasting, customer service, system operation and maintenance.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Regulatory asset” means specific costs that a public utility may defer to its balance sheet and accrue earnings thereon at its authorized rate of return.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Smart Grid” means the installation of advanced technology to enhance the operation of the electric distribution and transmission system.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 2161, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2 of Advanced Metering Infrastructure Implementation and Cost Recovery Authorization Emergency Act of 2009 (D.C. Act 18-107, June 18, 2009,  56 DCR 4929).</annotation>
+        <annotation>For temporary (90 day) additions, see §§ 2001, 2002 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009,  56 DCR 7374).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2161 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2161 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 2160 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle Q of title II of the act may be cited as the “Advanced Metering Infrastructure Implementation and Cost Recovery Authorization Act of 2009”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|15B"/>
+    <num codify:value="34-1562">2162</num>
+    <heading>Authorization of Advanced Metering Infrastructure implementation (Smart Grid) and cost recovery.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The electric company may implement an Advanced Metering Infrastructure for all consumers, provided, that the electric company obtains a sufficient amount of federal funds for AMI implementation under the ARRA. The sufficiency of the amount of the federal funds obtained shall be determined by the Commission. The Commission shall make a determination of the sufficiency of federal funds obtained within no more than 60 days after the receipt of notice from the electric company of the amount of federal funds awarded.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The electric company may establish a regulatory asset for the costs, net of the amount of the ARRA funds received, including depreciation and amortization expense, incurred by the electric company between base rate cases for the implementation of Advanced Metering Infrastructure, including the amortization expense of the Meter Data Management System, the depreciation expense on the AMI meters, and the undepreciated net book costs of the meters replaced by the AMI meters. The regulatory asset shall accrue a return at the electric company’s authorized rate of return on the balance in the regulatory asset.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The creation of a regulatory asset for Advanced Metering Infrastructure shall not affect the authority of the Commission to review the prudence of costs associated with implementation of AMI. In any Commission proceeding reviewing the costs, the electric company shall have the burden to prove that all of the costs have been prudently incurred.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The electric company shall net any utility cost savings resulting from AMI deployment from the regulatory asset.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 2162, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 3 of Advanced Metering Infrastructure Implementation and Cost Recovery Authorization Emergency Act of 2009 (D.C. Act 18-107, June 18, 2009,  56 DCR 4929).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2003 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009,  56 DCR 7374).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2162 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2162 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2B|I"/>
+    <num codify:value="4-261.01">5081</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Categorical eligibility” means the automatic eligibility for the food stamps program as determined by the enrollment in a separate TANF funded program.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Food stamp program” means the federally funded Supplemental Nutrition Assistance Program.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“LIHEAP” means the Low Income Home Energy Assistance program.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Maximum standard utility allowance” means the maximum level of accepted utility-based income deductions used in determining benefits under the food stamp program.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“TANF” means the Temporary Assistance for Needy Families program.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 5081, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 5081 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 5081 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 5080 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle I of title V of the act may be cited as the “Food Stamp Expansion Act of 2009”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2B|I"/>
+    <num codify:value="4-261.02">5082</num>
+    <heading>Categorical eligibility for food stamps.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall establish a TANF funded program or service for the purpose of establishing categorical eligibility.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Categorical eligibility shall be granted to all applicants with a gross income at or below 200% of the federal poverty level.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 5082, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 5082 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 5082 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2B|I"/>
+    <num codify:value="4-261.03">5083</num>
+    <heading>LIHEAP Heat and Eat initiative.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall establish a LIHEAP Heat and Eat initiative for the purpose of providing the maximum standard utility allowance to all participants.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All food stamp program recipients shall be automatically enrolled in the LIHEAP Heat and Eat initiative.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>All LIHEAP Heat and Eat participants shall receive a minimum annual benefit of $ 20.01.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Participation in the LIHEAP Heat and Eat initiative shall not preclude any recipient from receiving standard LIHEAP benefits for which he or she is eligible.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 5083, 57 DCR 181</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 5052, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> substituted “$ 20.01” for “$ 1” in (c).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 5083 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 5083 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 5052 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 5052 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 5052 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2B|I"/>
+    <num codify:value="4-261.04">5084</num>
+    <heading>Locally funded minimum benefit.</heading>
+    <text>Beginning on or after January 1, 2015, but beginning no later than October 1, 2015, a family participating in the food stamp program whose federally funded household benefit is less than $30 per month shall receive locally funded benefits to bring the household’s total benefit to $30 per month.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 5084</annotation>
+        <annotation doc="D.C. Law 20-155">as added Feb. 26, 2015, D.C. Law 20-155, §  2062, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, § 5084, see § 2062 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, § 5084, see § 2062 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, § 5084, see § 2062 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|15A"/>
+    <num codify:value="50-1531">6101</num>
+    <heading>Establishment of a domestic tour bus program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>By December 30, 2009, the Mayor shall establish a new program to encourage domestic sightseeing tour bus operations, which shall include setting a yearly fee schedule for tour bus operators to encourage operators to register their vehicles in the District.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All funds raised from the fee schedule shall be transferred to the Department of Parks and Recreation for environmental recreation programs.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 6101, 57 DCR 181</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 6101 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 6101 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 6100 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle K of title VI of the act may be cited as the “Tour Bus Act of 2009”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|19A"/>
+    <num codify:value="50-1931">6061</num>
+    <heading>Pedestrian Advisory Council.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a Pedestrian Advisory Council (“PAC”).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The PAC shall be composed of 18 members appointed as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Director of the District Department of Transportation, or designee;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Chief of the Metropolitan Police Department, or designee;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Director of the Office of Planning, or designee;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Director of the Department of Parks and Recreation, or designee;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Chancellor of the District of Columbia Public Schools, or designee; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Thirteen community representatives who are District of Columbia residents with a demonstrated interest in pedestrian safety, with each member of the Council of the District of Columbia appointing one representative.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A chairperson shall be elected from among the 13 community representatives at the first meeting of the PAC, who shall serve for a term of 2 years.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The community members shall be appointed for a term of 3 years, with initial staggered appointments of 4 members appointed for one year, 5 members appointed for 2 years, and 4 members appointed for 3 years. The members to serve the one-year term, the members to serve the 2-year term, and the members to serve the 3-year term shall be determined by lot at the first meeting of the PAC.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Vacancies shall be filled in the same manner as the original appointment to the position that became vacant. Community members who are appointed to fill vacancies that occur before the expiration of a community member’s full term shall serve only the unexpired portion of the community member’s term.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The District Department of Transportation shall provide the PAC with an annual operating budget, which shall include funds to maintain a website where the PAC shall provide a public listing of members, meeting notices, and meeting minutes.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The purpose of the PAC shall be to serve as the advisory body to the Mayor, the Council of the District of Columbia, and the District agencies on matters pertaining to the improvement of pedestrian safety and accessibility.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 6061, 57 DCR 181</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 6073, 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Commissioner of Insurance and Securities, powers and duties, see § <cite path="§31-103">31-103</cite>.</annotation>
+        <annotation>Compulsory/no-fault motor vehicle insurance, availability and coverage, see § <cite path="§31-2401">31-2401</cite> et seq.</annotation>
+        <annotation>Motor vehicle safety, administration and enforcement, see § <cite path="§50-1301.03">50-1301.03</cite>.</annotation>
+        <annotation>Regulation of traffic, power to promulgate regulations, see § <cite path="§50-2201.03">50-2201.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> designated the existing text of (d) as (d)(1); and added (d)(2).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 6061 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) addition, see § 6061 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §  6073 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015, 62 DCR 10201).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 6060 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle G of title VI of the act may be cited as the “Pedestrian Advisory Council Establishment Act of 2009”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

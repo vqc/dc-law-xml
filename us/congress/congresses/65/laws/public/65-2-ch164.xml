@@ -1,10 +1,52 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 65-2-ch164">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 65-2-ch164">
+  <heading/>
   <meta>
     <effective>1918-08-31</effective>
     <cites>
-        <law congress="65" session="2" chapter="164"/>
+      <law congress="65" session="2" chapter="164"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-127" path="|10|1"/>
+    <num codify:value="10-126">1</num>
+    <heading>Part of Washington Aqueduct may be transferred for playground purposes.</heading>
+    <text>The Chief of Engineers is authorized to transfer for playground purposes the possession, use, and control of all that portion of the land of the Washington Aqueduct adjacent to the Champlain Avenue pumping station and lying outside of the fence around said pumping station existing on August 31, 1918, to the control and jurisdiction of the Mayor of the District of Columbia. Nothing herein shall be construed as affecting the superintendence and control of the Secretary of the Army over the Washington Aqueduct, its rights, appurtenances, and fixtures connected with the same and over appropriations and expenditures therefor as now provided by law.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 31, 1918, 40 Stat. 951, ch. 164, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 8-126.</annotation>
+        <annotation>1973 Ed., § 8-130.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Government Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-162" path="|10|1"/>
+    <num codify:value="10-155">1</num>
+    <heading>Anacostia Park.</heading>
+    <text>The entire area of the Anacostia River and Flats reclaimed and to be reclaimed from the mouth of the river to the District line is made and declared a part of the park system of the District of Columbia and designated Anacostia Park.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 31, 1918, 40 Stat. 950, ch. 164, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 8-155.</annotation>
+        <annotation>1973 Ed., § 8-161.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Tree nursery: Act of May 7, 1926, 44 Stat. 405, ch. 251, transferred to the jurisdiction of the District of Columbia a certain portion of Anacostia Park for use as a tree nursery.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

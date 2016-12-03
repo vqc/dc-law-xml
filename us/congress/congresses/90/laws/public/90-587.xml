@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 90-587">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 90-587">
   <num>90-587</num>
   <meta>
     <effective>1968-10-17</effective>
@@ -7,4 +7,89 @@
       <law session="90" lawId="587"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2|V"/>
+    <num codify:value="2-209.01">1</num>
+    <heading>Reciprocal police mutual aid agreements — Authorized.</heading>
+    <text>The Mayor of the District of Columbia is hereby authorized in his discretion to enter into and renew reciprocal agreements, for such period as he deems advisable, with any county, municipality, or other governmental unit in the States of Maryland and Virginia, in order to establish and carry into effect a plan to provide mutual aid, through the furnishing of policemen and other agents and employees, together with all necessary equipment.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 90-587">Oct. 17, 1968, 82 Stat. 1150, Pub. L. 90-587, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 667, Pub. L. 91-358, title VIII, § 801</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-1125.</annotation>
+        <annotation>1973 Ed., § 1-820.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to the District of Columbia Council and to a Commissioner of the District of Columbia. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2|V"/>
+    <num codify:value="2-209.02">2</num>
+    <heading>Reciprocal police mutual aid agreements — Required provisions.</heading>
+    <text>The District of Columbia shall not enter into any such agreement unless the agreement provides that each of the parties to such agreement shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Waive any and all claims against all the other parties thereto which may arise out of their activities outside their respective jurisdictions under such agreement;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Indemnify and save harmless the other parties to such agreement from all claims by third parties for property damage or personal injury which may arise out of the activities of the other parties to such agreement outside their respective jurisdictions under such agreement.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 90-587">Oct. 17, 1968, 82 Stat. 1150, Pub. L. 90-587, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-1126.</annotation>
+        <annotation>1973 Ed., § 1-821.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2|V"/>
+    <num codify:value="2-209.03">3</num>
+    <heading>Reciprocal police mutual aid agreements — Personnel benefits.</heading>
+    <text>The policemen and other officers, agents, and employees of the District, when acting hereunder or under other lawful authority beyond the territorial limits of the District, shall have all of the pension, relief, disability, workmen’s compensation, and other benefits enjoyed by them while performing their respective duties within the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 90-587">Oct. 17, 1968, 82 Stat. 1150, Pub. L. 90-587, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-1127.</annotation>
+        <annotation>1973 Ed., § 1-822.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2|V"/>
+    <num codify:value="2-209.04">4</num>
+    <heading>Reciprocal police mutual aid agreements — Supervision of non-District police in District; enforcement of District laws by non-District police.</heading>
+    <text>The Mayor of the District of Columbia shall be responsible for directing the activities of all policemen and other officers and agents coming into the District pursuant to any such reciprocal agreement, and the Mayor is empowered to authorize all policemen and other officers and agents from outside the District to enforce the laws applicable in the District to the same extent as if they were duly authorized officers and members of the Metropolitan Police force of the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 90-587">Oct. 17, 1968, 82 Stat. 1150, Pub. L. 90-587, § 4</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-1128.</annotation>
+        <annotation>1973 Ed., § 1-823.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to the District of Columbia Council and to a Commissioner of the District of Columbia. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

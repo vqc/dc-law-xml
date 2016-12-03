@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 14-190">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 14-190">
   <num type="law">14-190</num>
   <heading type="short">Fiscal Year 2003 Budget Support Act of 2002</heading>
   <meta>
@@ -12,4 +12,1307 @@
       <narrative>Law 14-190, the “Fiscal Year 2003 Budget Support Act of 2002”, was introduced in Council and assigned Bill No. 14-609, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 7, 2002, and June 4, 2002, respectively. Signed by the Mayor on July 3, 2002, it was assigned Act No. 14-403 and transmitted to both Houses of Congress for its review. D.C. Law 14-190 became effective on October 1, 2002.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|I|C"/>
+    <num codify:value="24-201.61">3102</num>
+    <heading>Cap on sentenced persons housed at District of Columbia Jail.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsection (b) of this section, the number of sentenced persons housed at the District of Columbia Jail (Central Detention Facility) by the Department of Corrections shall not exceed 2,050 at any time.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If the Department of Corrections requires an exemption to the cap on the number of sentenced persons established by subsection (a) of this section, the Mayor shall transmit a resolution requesting an exemption to the Council for a 30-day period of review. The transmitted resolution requesting an exemption shall include the reasons for the exemption, the consequences if the exemption is not approved, and the time the exemption shall be in force. If the Council has not approved or disapproved the resolution requesting an exemption within the 30-day review period, the resolution requesting an exemption shall be deemed disapproved.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 3102, 49 DCR 6968</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|II|D"/>
+    <num codify:value="24-211.61">3002</num>
+    <heading>Limitation on Department of Corrections’ use of facilities on D.C. General Hospital Campus.</heading>
+    <text>The Department of Corrections shall not house any misdemeanants, felons, ex-offenders, or persons awaiting trial or sentencing for offenses committed in the District of Columbia in any facility on the D.C. General Hospital Campus (Reservation 13) other than the District of Columbia Jail or the Correctional Treatment Facility. This limitation shall not prohibit the Department of Corrections from relocating its headquarters to any facility on Reservation 13 or using any Reservation 13 facility for the housing of records or training purposes.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 3002, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Mayor's Orders</heading>
+        <annotation>Establishment — Steering Committee for the Planning and Development of Hill East Waterfront, see Mayor’s Order 2002-157, September 13, 2002 ( 49 DCR 8627).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8D"/>
+    <num codify:value="7-871.01">2001</num>
+    <heading>Short title.</heading>
+    <text>This chapter may be cited as the “Childhood Lead Poisoning Screening and Reporting Act of 2002”.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 2001, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§7-1031">7-1031</cite>.</annotation>
+        <annotation>For temporary (90 day) addition of sections, see §§ 2 to 6 of Childhood Lead Poisoning Screening and Reporting Emergency Act of 2002 (D.C. Act 14-379, June 3, 2002,  49 DCR 5301).</annotation>
+        <annotation>For temporary (90 day) addition of sections, see §§ 2 to 6 of Childhood Lead Poisoning Screening and Reporting Legislative Review Emergency Act of 2002 (D.C. Act 14-417, July 17, 2002,  49 DCR 7387).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8D"/>
+    <num codify:value="7-871.02">2002</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Child” or “Children” means an individual or individuals under the age of 6 years.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Elevated blood lead level” means an excessive absorption of lead concentration in whole blood of 10 mg/dL (micrograms of lead per deciliter) or greater.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Health care facility” means any institution providing individual care or treatment of diseases or other medical, physiological, or psychological conditions, including, but not limited to, hospitals, clinics, laboratories, nursing homes, or homes for the aged or chronically ill, but excluding private medical offices.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Health care provider” means a physician, clinic, hospital, or neighborhood health center, licensed by the District of Columbia, that is responsible for providing primary care and coordinating referrals, when necessary, to other health care providers.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Lead-poisoned child” means a child with a confirmed blood lead level equal to or greater than 15 micrograms of lead per deciliter of blood, or such other lower threshold as the United States Centers for Disease Control and Prevention may establish.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Person” means an individual, a corporation, a partnership, firm, conservator, receiver, trustee, executor, or legal representative.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 2002, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§7-1032">7-1032</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8D"/>
+    <num codify:value="7-871.03">2003</num>
+    <heading>Childhood lead screening and reporting requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Each health care provider or facility shall inform the parent or guardian of every child under the age of 6 years in the District of Columbia, served by the provider or facility, of the requirement for periodic blood tests for lead poisoning as provided in this chapter and rules implementing this chapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A health care provider or facility shall, unless parental consent is withheld or an identical test has already been performed within the last 12 months, perform a blood test for lead poisoning on every child who resides in the District of Columbia as part of a well-child care visit, once between ages 6 months and 14 months, and a second time between ages 22 months and 26 months. If a child’s age exceeds 26 months, and a blood lead screening has not been performed, the child shall be screened twice prior to the age of 6 years.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The laboratory that performed the tests pursuant to subsection (b) of this section shall forward all test results to the health care provider or facility where the blood sample was taken, and to the Mayor.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The health care provider or facility shall forward all elevated blood lead level results immediately to the child’s parent or guardian. Upon request of the child’s parent or guardian, the health care provider or facility shall provide written evidence of testing for lead poisoning that includes the date of the test and the test results.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Mayor, pursuant to § <cite path="§7-871.06">7-871.06</cite>, shall issue rules governing the conditions under which a health care provider or facility shall administer additional lead screening tests exceeding the requirements of subsection (b) of this section, and the process for reporting lead screening results.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Any agreement or contract entered into by the Medical Assistance Administration to provide its services through a health insuring or a managed care organization shall include a requirement for the organization to provide screening and reporting services pursuant to the provisions of this section and the rules implementing this section, or to provide reimbursement for those services.</text>
+      <para>
+        <num>(1)</num>
+        <text>The agreement or contract shall explicitly include the provision of medical case management and other follow-up treatment of a Medicaid-enrolled, lead-exposed child as may be required to protect the child’s health, or reimbursement for that management and treatment.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Medical Assistance Administration shall provide for coverage and reimbursement of an environmental investigation and source control measures necessary to eliminate any lead-based paint hazard to which a Medicaid-enrolled, lead-poisoned child is exposed in the child’s home environment, including, but not limited to, paint stabilization and cleanup of any dust-lead hazard.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Mayor shall issue an annual report to the Council summarizing and analyzing the lead screening results obtained pursuant to this chapter. The report shall include recommendations based on or pertaining at a minimum to:</text>
+      <para>
+        <num>(1)</num>
+        <text>The extent of compliance with the requirements of this section; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The incidence and prevalence rates of childhood lead poisoning in the District of Columbia.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 2003, 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 16-265">Mar. 14, 2007, D.C. Law 16-265, § 2, 54 DCR 827</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 159, 56 DCR 1117</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§7-1033">7-1033</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-265">D.C. Law 16-265</cite>, in subsec. (b), substituted “between 6 months and 14 months” for “between 6 months and 9 months”.</annotation>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in subsec. (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority pursuant to <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite>, the “Fiscal Year 2003 Budget Support Act of 2002”, Title XX, the “Childhood Lead Poisoning Screening and Reporting Act of 2002”, see Mayor’s Order 2005-23, January 25, 2005 ( 52 DCR 2843).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8D"/>
+    <num codify:value="7-871.04">2004</num>
+    <heading>Enforcement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If the Mayor has reason to believe that there has been a violation of this chapter or of the regulations issued pursuant to this chapter, the Mayor may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Give written notice of the alleged violation, which shall include the provision of the law or regulation alleged to be violated, the facts alleged to constitute a violation, and an order that necessary corrective action be taken within a specified time set forth in the notice; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Impose civil or criminal fines and penalties in accordance with § <cite path="§7-871.05">7-871.05</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any party adversely affected by an action taken pursuant to subsection (a) of this section is entitled to a hearing before the Mayor upon filing with the Mayor, within 15 days from the date of the action, a written request for a hearing. The hearing shall be held in accordance with the requirements of subchapter I of Chapter 5 of Title 2.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 2004, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§7-1034">7-1034</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8D"/>
+    <num codify:value="7-871.05">2005</num>
+    <heading>Penalties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any person who fails to comply with any of the provisions of this chapter shall be subject to a fine not to exceed $5,000 for each violation. Each and every day of the violation shall constitute a separate violation and the penalties prescribed shall be applicable to each separate violation unless otherwise indicated.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this chapter or the rules issued under authority of this chapter pursuant to Chapter 18 of Title 2.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Any person who knowingly or willfully violates this chapter shall, in addition to or in lieu of any civil penalty which may be imposed for the violation, be subject, upon conviction, to a fine of not more than $5,000 for each day of violation, or to imprisonment of not more than one year, or both.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 2005, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-871.04">7-871.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§7-1035">7-1035</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8D"/>
+    <num codify:value="7-871.06">2006</num>
+    <heading>Rules.</heading>
+    <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of this chapter. The Mayor is authorized to adopt, in whole or in part, guidelines issued by the Centers for Disease Control and Prevention and may consider such other materials relating to lead poisoning prevention, testing, and treatment, as deemed appropriate.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 2006, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-871.03">7-871.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§7-1036">7-1036</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18A|I"/>
+    <num codify:value="38-1831.01">3422</num>
+    <heading>Utilization of space in District of Columbia public schools by public charter schools.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The District of Columbia Public School (“DCPS”) system shall allow existing public charter schools that are chartered by the District of Columbia Board of Education or the Public Charter School Board prior to September 30, 2002, to utilize space in DCPS facilities, where such facilities are currently or projected to be underutilized because of decreased or stagnant student enrollment.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>As payment for the space allocation, the public charter school shall pay, from its facility allowance, a portion of all funding amounts dealing with capital and maintenance costs or an amount agreeable to the charter school and DCPS.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>This amount of payment shall be agreed upon by DCPS and the Charter School before relocation of any public charter school into a public school facility. The fee charged shall be added to the individual school’s budget.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Superintendent of Schools, in cooperation with the Board of Education, shall provide a plan for the co-location of public schools chartered after October 1, 2002, to the Council, by March 1, 2003.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Board of Education shall promulgate rules to implement the provision of this chapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 3422, 49 DCR 6968</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|29|II"/>
+    <num codify:value="38-2931">3472</num>
+    <heading>After-school programs.</heading>
+    <text>The District of Columbia Public Schools (“DCPS”) shall distribute any TANF or Health and Human Services funds that it receives that are designated for after-school programs, on an equitable basis, to DCPS and Public Charter Schools serving students with after-school programs, that receive funding based on the Uniformed Per Pupil Funding Formula.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 3472, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§38-2951">38-2951</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|H"/>
+    <num codify:value="1-301.141">1132</num>
+    <heading>Chief Financial Officer for the Department of Housing and Community Development.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Chief Financial Officer shall appoint a chief financial officer for the Department of Housing and Community Development (“Department”), with the approval of the Director of the Department, to provide services solely to the Department. The chief financial officer for the Department shall not be the chief financial officer for any other executive branch office or agency. The chief financial officer for the Department shall have significant knowledge of, and experience with, programs the Department administers in conjunction with the United States Department of Housing and Urban Development.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall make the appointment under subsection (a) of this section at the earlier of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>When the Chief Financial Officer conducts the reorganization of the Office of Chief Financial Officer; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>December 1, 2002.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1132, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle C of title XI of Law 14-190: Section 1131 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> provided that subtitle C of title XI of the act may be cited as the Chief Financial Officer for the Department of Housing and Community Development Act of 2002.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|I"/>
+    <num codify:value="1-301.151">3202</num>
+    <heading>Analysis of health care costs at Department of Corrections; plan to create Public Safety Overtime Bank.</heading>
+    <text>In Fiscal Year 2003, the Chief Financial Officer shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Analyze health care costs at the Department of Corrections and recommend alternatives based on the analysis; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Develop a plan to create a Public Safety Overtime Bank that would fund and oversee overtime expenditures by the Metropolitan Police Department, Fire and Emergency Medical Services Department, and the Department of Corrections.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 3202, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <text>Short title of title XXXII of Law 14-190: Section 3201 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> provided that title XXXII of the act may be cited as the Chief Financial Officer Fiscal Year 2003 Duties Act of 2002.</text>
+        <text>Section 7231 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle W of Title VII of the act may be cited as the “Contingency Cash Reserve Notification Act of 2013”.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XII|B"/>
+    <num codify:value="1-327.31">1201</num>
+    <heading>Short title.</heading>
+    <text>This part may be cited as the “Customer Service Operations Establishment Act of 2002”.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1201, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-328.01">1-328.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XII|B"/>
+    <num codify:value="1-327.32">1202</num>
+    <heading>Establishment of the Customer Service Operations Unit; Duties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is hereby established the Customer Service Operations Unit within the Executive Office of the Mayor.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Customer Service Operations Unit shall be the District of Columbia’s primary point of entry for citizens and customers attempting to access nonemergency services, solicit information, or register a complaint or comment about an agency. The calls to the Customer Service Operations Unit shall be tracked, monitored, and reported to all necessary agencies. The information collected from the calls to the Customer Service Center Operations Unit shall be used in determining where additional services are required, where specific services need improvement, and which current services are effective.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1202, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-327.33">1-327.33</cite> and § <cite path="§1-327.51">1-327.51</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-328.02">1-328.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see §§ 3202 to 3208 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) addition, see §§ 3202 to 3208 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section>
+    <num>1203</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|1|3|XII|B"/>
+      <num codify:value="1-327.33">(a)</num>
+      <heading>Transfers; abolishment.</heading>
+      <text>All personnel, property, records, functions, and unexpended balances of funds from the following agencies, offices, or units are transferred to the Customer Service Operations Unit, established pursuant to § <cite path="§1-327.32">1-327.32</cite>:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Citywide Call Center established in § <cite path="§1-327.01">1-327.01</cite> [repealed];</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Mayor’s Correspondence Unit, established in Mayor’s Order 73-172, issued November 5, 1973; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Tester Program in the Executive Office of the Mayor.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1203(a), 49 DCR 6968</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>2001 Ed., § <cite path="§1-328.03">1-328.03</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XII|B"/>
+    <num codify:value="1-327.34">1204</num>
+    <heading>Applicability.</heading>
+    <text>This part shall apply as of October 1, 2002.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1204, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§1-328.04">1-328.04</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|5|VII"/>
+    <num codify:value="1-531.01">3802</num>
+    <heading>Reimbursement for representation by Office of Labor Relations and Collective Bargaining.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any agency that is represented by the Office of Labor Relations and Collective Bargaining (“OLRCB”) in third-party cases, grievances, and dispute resolution shall pay the cost of representation established through an intradistrict agreement with the OLRCB.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Beginning in Fiscal Year 2003, the OLRCB shall calculate and assess the costs for representing agencies under the direct personnel authority of the Mayor in third-party cases, grievances, and dispute resolution. The OLRCB shall negotiate the cost of representing an independent agency in third-party cases, grievances, and dispute resolution with the independent agency.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 3802, 49 DCR 6968</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|5|VII"/>
+    <num codify:value="1-531.02">3803</num>
+    <heading>Budget for Office of Labor Relations and Collective Bargaining.</heading>
+    <text>Beginning with the proposed budget for Fiscal Year 2004, the Mayor shall provide in the budget funding for the Office of Labor Relations and Collective Bargaining (“OLRCB”) represented as a separate line or responsibility center. The Mayor shall include in the budget request submitted to the Council historical spending information for the OLRCB so that an accurate, complete comparison can be made of the fiscal costs for the OLRCB.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 3803, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Administration, “employee” defined, see § <cite path="§2-223.01">2-223.01</cite>.</annotation>
+        <annotation>D.C. Housing Authority, executive director, duties, see § <cite path="§6-255">6-255</cite>.</annotation>
+        <annotation>Department of Corrections, employees, mandatory drug and alcohol testing, grounds for termination, see §§ <cite path="§24-211.23">24-211.23</cite> and <cite path="§24-211.24">24-211.24</cite>.</annotation>
+        <annotation>Department of public health, director, see § <cite path="§7-153">7-153</cite>.</annotation>
+        <annotation>Education Licensure Commission, personnel, appointment and compensation, see § <cite path="§38-1305">38-1305</cite>.</annotation>
+        <annotation>Election campaigns, conflict of interest, disclosure, see § <cite path="§1-1106.02">1-1106.02</cite>.</annotation>
+        <annotation>Equal opportunity employment, veterans’ preference, see § <cite path="§1-607.03">1-607.03</cite>.</annotation>
+        <annotation>Health occupation boards, compensation of staff set by Mayor, see § <cite path="§3-1204.07">3-1204.07</cite>.</annotation>
+        <annotation>Licensure, non-health related occupations and professions, compensation of boards’ support personnel, see § <cite path="§47-2853.10">47-2853.10</cite>.</annotation>
+        <annotation>Management supervisory service, composition, see § <cite path="§1-609.52">1-609.52</cite>.</annotation>
+        <annotation>Merit system, educational employees, coverage, see § <cite path="§1-602.03">1-602.03</cite>.</annotation>
+        <annotation>Merit system, effective date provisions, see § <cite path="§1-636.02">1-636.02</cite>.</annotation>
+        <annotation>Merit system, equal employment opportunity, physically handicapped and developmentally disabled persons, see § <cite path="§1-607.02">1-607.02</cite>.</annotation>
+        <annotation>Merit system, personnel system, transition, rights and benefits, see § <cite path="§1-602.04">1-602.04</cite>.</annotation>
+        <annotation>Office of Police Complaints, executive director, duties, application of this chapter, see § <cite path="§5-1106">5-1106</cite>.</annotation>
+        <annotation>Public libraries, board of trustees, selection and appointment of professional librarian, see § <cite path="§39-105">39-105</cite>.</annotation>
+        <annotation>Public Parking Authority, Board of Directors, compensation, see § <cite path="§50-2504">50-2504</cite>.</annotation>
+        <annotation>Sports and Entertainment Commission, employees not District employees, exempted from coverage, see § <cite path="§3-1417">3-1417</cite>.</annotation>
+        <annotation>University of the District of Columbia, Board of Trustees, powers and duties, selecting CEO and staff, approving academic and legal counsel appointments, see § <cite path="§38-1202.06">38-1202.06</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|1|XVII"/>
+    <num codify:value="5-133.19">2702</num>
+    <heading>Regulations for use of video surveillance by Metropolitan Police Department.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Chief of Police, pursuant to subchapter I of Chapter 5 of Title 2, shall issue regulations pertaining to the Metropolitan Police Department’s use of video surveillance cameras and technology in the operation of its Joint Operations Command Center/Synchronized Operations Command Center.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The proposed regulations shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If the Council does not approve or disapprove the proposed regulations, in whole or in part, by resolution, within this 45-day review period, the proposed regulations shall be deemed disapproved.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 2702, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 2 of Metropolitan Police Department Video Surveillance Regulations Temporary Act of 2002 (<cite doc="D.C. Law 14-158">D.C. Law 14-158</cite>, June 25, 2002, law notification  49 DCR 6494).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition of § <cite path="§5-133.19">5-133.19</cite>, see § 2 of Metropolitan Police Department Video Surveillance Regulations Emergency Act of 2002 (D.C. Act 14-302, March 25, 2002,  49 DCR 3393).</annotation>
+        <annotation>For temporary (90 day) addition of § <cite path="§5-133.19">5-133.19</cite>, see § 2602 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle A of title XXVII of Law 14-190: Section 2701 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> provided that subtitle A of title XXVII of the act may be cited as the Metropolitan Police Department Video Surveillance Regulations Act of 2002.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Resolutions</heading>
+        <text>Resolution 14-609, the “Metropolitan Police Department Closed Circuit Television System Regulations Approval Resolution of 2002”, was approved effective November 22, 2002.</text>
+        <text>Resolution 16-699, the “Metropolitan Police Department Closed Circuit Television System Regulations Amendment Disapproval</text>
+        <text>Resolution of 2006“, was approved effective July 7, 2006.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|1|VIII|A"/>
+    <num codify:value="9-115.01">3502</num>
+    <heading>Plan for future use of Klingle Road.</heading>
+    <text>No later than December 31, 2002, the Mayor shall transmit to the Council, by resolution, a plan for the future use of Klingle Road, N.W.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 3502, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition of section, see §§ 3402 and 3403 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|1|VIII|A"/>
+    <num codify:value="9-115.02">3503</num>
+    <heading>Expenditure of funds for Klingle Road.</heading>
+    <text>Notwithstanding any other provision of law, no capital program of federal highway aid projects, federal-aid highway contract, or funds from any source may be expended for Klingle Road, N.W., for any purpose except to facilitate the movement of motor vehicle traffic until a resolution has been transmitted to and approved by the Council authorizing the proposed use. This section shall not preclude critically needed remediation work including, but not limited to, repair to the storm sewer system and protections against further erosion of the roadbed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 3503, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition of section, see §§ 3402 and 3403 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2|IV|B"/>
+    <num codify:value="4-204.11">1501</num>
+    <heading>Short title.</heading>
+    <text>This part may be cited as the “Office of Medicaid Operations Reform Establishment Act of 2002”.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1501, 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 1502(a), 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> deleted “Public Provider” following “Medicaid”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) approval of proposed amendments to the District of Columbia State Plan for Medical Assistance, see § 1902 of Fiscal Year 2003 Budget Support Amendment Emergency Act of 2002 (D.C. Act 14-544, December 4, 2002,  49 DCR 11700).</annotation>
+        <annotation>For the temporary (90 day) Medicaid State Plan Amendment Approval provisions, see § 1902 of the Fiscal Year 2003 Budget Support Amendment Congressional Review Emergency Act of 2003 (D.C. Act 15-27, February 24, 2003,  50 DCR 2151).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1502(a) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1502(a) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+        <annotation>For the temporary (90 day) Medicaid State Plan Amendment Approval provisions, see § 1902 of the Fiscal Year 2003 Budget Support Amendment Second Congressional Review Emergency Act of 2003 (D.C. Act 15-103, June 20, 2003,  50 DCR 5499).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of title XV of Law 15-39: Section 1501 of <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> provided that title XV of the act may be cited as the Medicaid and Tobacco Funding Amendment Act of 2003.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 1902 of <cite doc="D.C. Law 14-307">D.C. Law 14-307</cite> provided: “Pursuant to section 1(a)(2) of An Act To enable the District of Columbia to receive Federal financial assistance under Title XIX of the Social Security Act for a medical assistance program, and for other purposes, approved December 27, 1967 (81 Stat. 744; D.C. Official Code § <cite path="§1-307.02">1-307.02</cite>(a)(2)), the Council of the District of Columbia approves the proposed amendments to the District of Columbia State Plan for Medical Assistance to authorize the Medicaid Program to remove the requirement that requires that rates paid to hospitals, nursing facilities, and intermediate care facilities for persons with mental retardation be adjusted annually for inflation; to add provisions that require that payments made to hospitals, nursing facilities, and intermediate care facilities for persons with mental retardation for inflation adjustments in subsequent fiscal years be contingent upon the availability of funds; to increase the pharmacy dispensing fee effective April 1, 2003; and to remove provisions authorizing payment exceptions to the cost ceilings applicable to nursing facilities; and to approve a waiver to the District of Columbia State Plan for Medical Assistance to expand coverage of its Medicaid Program to childless adults 50 to 64 years of age.” Establishment of the Office of Medicaid Public Provider Operations Reform, see Mayor’s Order 2002-101, June 28, 2002 ( 49 DCR 5997).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2|IV|B"/>
+    <num codify:value="4-204.12">1502</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this part, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Director” means the Director of the Office of Medicaid Operations Reform.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>“Foster Care and Adoption Assistance” means the programs authorized by Part E of Title IV of the Social Security Act, approved June 17, 1980 (94 Stat. 501; 42 U.S.C. § 670 et seq.).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Medicaid” means the medical assistance programs authorized by title XIX of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.), or by § <cite path="§1-307.02">1-307.02</cite>, and administered by the Department of Health.</text>
+    </para>
+    <para>
+      <num>(2A)</num>
+      <text>“Medicare” means the health insurance programs authorized by Title XVIII of the Social Security Act, approved July 30, 1965 (79 Stat. 290; 42 U.S.C. § 1395 et seq.).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Office” means the Office of Medicaid Operations Reform.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1502, 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 1502(b), 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite>, in pars. (1) and (3), deleted “Public Provider” following “Medicaid”; added pars. (1A) and (2A); and in par. (2), substituted “or by” for “and by”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 1502(b) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1502(b) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2|IV|B"/>
+    <num codify:value="4-204.13">1503</num>
+    <heading>Establishment of the Office of Medicaid Operations Reform.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established an Office of Medicaid Operations Reform.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall appoint a Director of the Office who shall be responsible for the management and operations of the Office and serve at the pleasure of the Mayor.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall establish an External Medicaid Task Force to advise the Director.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor shall fix the compensation of the Director pursuant to subchapter IX of Chapter 6 of Title 1.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Director is authorized to hire staff in the Career Service, consistent with budgetary authorization, as he or she deems necessary to perform the functions of the Office. The Director may engage qualified volunteers in accordance with District of Columbia law.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>If spending pressures generated by the Medicaid, Medicare, and Foster Care and Adoption Assistance programs make it necessary that funds from the Medicaid and Special Education Reform Fund be made available for expenditure by the Department of Human Services, the Child and Family Services Agency, the Department of Mental Health, or the Department of Health, the Director, in accordance with § <cite path="§4-204.55">4-204.55</cite>(a)(2)(A), shall submit to the Mayor either a plan to generate savings comparable to the funds allocated or a performance plan to ensure future reduction of costs and maximization of third-party revenues.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Director shall have the authority to delegate to other employees of the Office any of the Director’s powers and duties.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1503, 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 1502(c), 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite>, in subsec. (a), deleted “Public Provider” following “Medicaid”; rewrote subsec. (f) which had read as follows: “(f) If spending pressures generated by the Medicaid program make it necessary that funds from the Tobacco Settlement Trust Fund be made available for expenditure by the Department of Human Services or the Child and Family Services Agency, the Director shall submit to the Mayor a plan to generate savings comparable to the funds allocated in accordance with § <cite path="§7-1811.03">7-1811.03</cite>(b)(5)(A)(i).”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 1502(c) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1502(c) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2|IV|B"/>
+    <num codify:value="4-204.14">1504</num>
+    <heading>Purposes, powers, and duties of the Office.</heading>
+    <text>The primary purpose of the Office is to redesign the District of Columbia’s Medicaid, Medicare, and Foster Care and Adoption Assistance infrastructure to improve the operational management of Medicaid, Medicare, and Foster Care and Adoption Assistance programs on an agency level. The Office shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Provide technical assistance and support to District of Columbia agencies for the purpose of documenting and processing Medicaid, Medicare, and Foster Care and Adoption Assistance claims, and maximizing Medicaid, Medicare, and Foster Care and Adoption Assistance reimbursements, where not duplicative of assistance already provided to District of Columbia agencies by the State Medicaid Office;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Manage Medicaid, Medicare, and Foster Care and Adoption Assistance costs and project revenues in liaison with the State Medicaid, Medicare, and Foster Care and Adoption Assistance Office and the Chief Financial Officer;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Review and support legislation ensuring service expansion for all entitled residents in collaboration with the Mayor and the State Medicaid Office;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Oversee the implementation of Medicaid, Medicare, and Foster Care and Adoption Assistance reforms within District of Columbia agencies to fulfill statutory requirements;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Prepare an annual report for the Mayor and the Council on the Office’s activities and recommendations; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Engage in other activities as needed to carry out the purposes of this part.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1504, 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 1502(d), 50 DCR 5668</annotation>
+        <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 30(a), 51 DCR 881</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite>, in the introductory paragraph, substituted “Medicaid, Medicare, and Foster Care and Adoption Assistance infrastructure” for “Medicaid infrastructure” and substituted “Medicaid, Medicare, and Foster Care and Adoption Assistance Programs” for “Medicaid programs”; in par. (1), substituted “Medicaid, Medicare, and Foster Care and Adoption Assistance claims, and maximizing Medicaid, Medicare, and Foster Care and Adoption Assistance reimbursements,” for “Medicaid claims, and maximizing Medicaid reimbursements,”; and in pars. (2) and (4), substituted “Medicaid, Medicare, and Foster Care and Adoption Assistance” for Medicaid“.</annotation>
+        <annotation><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in par. (6), validated a previously made technical correction.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 1502(d) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1502(d) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2|IV|B"/>
+    <num codify:value="4-204.15">1505</num>
+    <heading>Rules.</heading>
+    <text>The Mayor, pursuant to Chapter 5 of Title 2, may issue rules to implement the provisions of this part.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1505, 49 DCR 6968</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2|IV|B"/>
+    <num codify:value="4-204.16">1506</num>
+    <heading>Applicability.</heading>
+    <text>This part shall apply as of October 1, 2002.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1506, 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 30(b), 51 DCR 881</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite> validated a previously made technical correction.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2|IV|C"/>
+    <num codify:value="4-204.51">1551</num>
+    <heading>Short title.</heading>
+    <text>This part may be cited as the “Medicaid and Special Education Reform Fund Establishment Act of 2002”.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1551, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 1506 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> provided that this part shall apply as of October 1, 2002.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2|IV|C"/>
+    <num codify:value="4-204.52">1552</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this part, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“District” shall mean the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>“Foster care and adoption assistance” means the programs authorized by Part E of Title IV of the Social Security Act, approved June 17, 1980 (94 Stat. 501; 42 U.S.C. § 670 et seq.).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Fund” shall mean the Medicaid and Special Education Reform Fund established by § <cite path="§4-204.53">4-204.53</cite></text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Medicaid” means the medical assistance programs authorized by title XIX of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.), or by § <cite path="§1-307.02">1-307.02</cite>, and administered by the Department of Health.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Medicare” means the health insurance programs authorized by title XVIII of the Social Security Act, approved July 30, 1965 (79 Stat. 290; 42 U.S.C. § 1395 et seq.).</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Special Education” means services provided under § <cite path="§38-2501">38-2501</cite> to students who are classified as having a disability, as defined in section 101(a)(1) of the Individuals with Disabilities Education Act, approved April 13, 1970 (84 Stat. 175; 20 U.S.C. § 1401(a)(1)), or in section 7(8) of the Rehabilitation Act of 1973, approved September 26, 1973 (87 Stat. 359; 29 U. S.C. § 706(8)).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1552, 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 1503(a), 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite>, added pars. (1A), (4), and (5); and in par. (3), substituted “or by” for “and by”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 1503(a) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1503(a) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2|IV|C"/>
+    <num codify:value="4-204.53">1553</num>
+    <heading>Establishment of the Medicaid and Special Education Reform Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a nonlapsing, revolving fund the Medicaid and Special Education Reform Fund into which shall be deposited funds made available for the purposes of Medicaid, Medicare, Foster Care and Adoption Assistance, and Special Education reform described in § <cite path="§4-204.54">4-204.54</cite>. The Fund shall be administered by the Chief Financial Officer.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All amounts deposited in the Fund shall be appropriated without fiscal year limitation pursuant to an act of Congress. All amounts deposited in the Fund shall not revert to the General Fund at the end of any fiscal year or at any other time, but shall be continually available for the purposes of Medicaid, Medicare, Foster Care and Adoption Assistance, and Special Education reform described in § <cite path="§4-204.54">4-204.54</cite>, subject to authorization by Congress in an appropriations act.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1553, 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 1503(b), 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-204.52">4-204.52</cite> and § <cite path="§7-1811.03">7-1811.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite>, in subsecs. (a) and (b), substituted “Medicaid, Medicare, Foster Care and Adoption Assistance, and Special Education reform” for “Medicaid and Special Education reform”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 1503(b) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1503(b) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+        <annotation>For temporary (90 day) addition of section, see § 5142 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012,  59 DCR 7764).</annotation>
+        <annotation>For temporary (90 day) addition of section, see § 5142 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012,  59 DCR 9290).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 5142 of <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> provided:</text>
+        <text>“(a) Beginning on June 1, 2012, unspent funds from Medicaid underenrollment, calculated on a fiscal year basis, shall be set aside in a fund to offset the costs to implement the South Capitol Street Memorial Amendment Act of 2012 effective June 7, 2012 (<cite doc="D.C. Law 19-141">D.C. Law 19-141</cite>;  59 DCR 3083) (‘South Capitol Street Memorial Amendment Act’).</text>
+        <text>“(b) This section shall not apply if the South Capitol Street Memorial Amendment Act is fully funded, as certified by the Chief Financial Officer, either by the terms of this section or pursuant to section 10002(3) of the Revised Revenue Estimate Contingency Priority List Act of 2012, passed on 2nd reading on June 5, 2012 (Enrolled version of Bill 19-743).”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2|IV|C"/>
+    <num codify:value="4-204.54">1554</num>
+    <heading>Purposes of the Fund.</heading>
+    <text>The Fund shall be used for the following purposes:</text>
+    <para>
+      <num>(1)</num>
+      <text>Ensuring adequate resources are available to support District-wide Medicaid costs and revenue shortfalls;</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>Ensuring adequate resources are available to support District-wide Medicare costs and revenue shortfalls;</text>
+    </para>
+    <para>
+      <num>(1B)</num>
+      <text>Ensuring adequate resources are available to support District-wide Foster Care and Adoption Assistance costs and revenue shortfalls;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Ensuring adequate resources are available to support District-wide Special Education costs and revenue shortfalls;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Supporting Medicaid, Medicare, and Foster Care and Adoption Assistance reform activities designed to establish cost-effective, agency-based Medicaid, Medicare, and Foster Care and Adoption Assistance operations; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Optimizing Medicaid, Medicare, Foster Care and Adoption Assistance and other third-party revenues.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1554, 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 1503(c), 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-204.53">4-204.53</cite> and § <cite path="§4-204.55">4-204.55</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite>, in the introductory language, substituted “The Fund shall be used for the following purposes:” for “The purposes of the Fund shall include:”; added pars. (1A) and (1B); in par. (3), substituted “Medicaid, Medicare, and Foster Care and Adoption Assistance” for “Medicaid” in two places; and in par. (4), substituted “Medicaid, Medicare, Foster Care and Adoption Assistance” for “Medicaid”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 1503(c) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1503(c) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+        <annotation>For temporary (90 day) addition of section, see § 5142 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012,  59 DCR 7764).</annotation>
+        <annotation>For temporary (90 day) addition of section, see § 5142 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012,  59 DCR 9290).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2|IV|C"/>
+    <num codify:value="4-204.55">1555</num>
+    <heading>Distribution of funds.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Chief Financial Officer shall distribute funds from the Fund only after:</text>
+      <para>
+        <num>(1)</num>
+        <text>Certifying that the funds are needed by the District of Columbia Public Schools, the Child and Family Services Agency, the Department of Human Services, the Department of Mental Health, or the Department of Health for the purposes described in § <cite path="§4-204.54">4-204.54</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>Certifying either that:</text>
+          <para>
+            <num>(i)</num>
+            <text>A savings plan to be submitted by the Director of the Office of Medicaid Operations Reform to the Mayor will generate savings for the Child and Family Services Agency, the Department of Human Services, the Department of Mental Health, or the Department of Health, respectively, comparable to the funds to be allocated to the agency during Fiscal Year 2003 or Fiscal Year 2004; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If a savings plan that will generate savings comparable to the funds allocated is not possible, a performance plan to be submitted by the Director of the Office of Medicaid Operations Reform to the Mayor will ensure that the agency to which the requested funds are to be allocated will implement policies and procedures and develop the infrastructure necessary to enable the agency to reduce costs and maximize third-party revenues by no later than October 1, 2004; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Certifying that a savings plan to be submitted by the District of Columbia Public Schools will generate savings comparable to the funds allocated to the agency during Fiscal Year 2003 or Fiscal Year 2004; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Providing notification of the distribution to the Mayor and Council.</text>
+      </para>
+    </para>
+    <para>
+      <num>(a-1)</num>
+      <text>A savings plan required under subsection (a)(2)(A)(i) of this section that pertains to the allocation of funds to an agency in Fiscal Year 2003 shall be submitted no later than December 31, 2002. The plan shall commence no later than October 1, 2003, and shall generate savings comparable to the funds allocated to the agency from the Fund in Fiscal Year 2003.</text>
+    </para>
+    <para>
+      <num>(a-2)</num>
+      <text>A savings plan required under subsection (a)(2)(A)(i) of this section that pertains to the allocation of funds to an agency in Fiscal Year 2004 shall be submitted no later than December 31, 2003. The plan shall commence no later than October 1, 2004, and shall generate savings comparable to the funds allocated to the agency from the Fund in Fiscal Year 2004.</text>
+    </para>
+    <para>
+      <num>(a-3)</num>
+      <text>A performance plan required under subsection (a)(2)(A)(ii) of this section shall be submitted no later than December 31, 2003, and shall commence no later than October 1, 2004.</text>
+    </para>
+    <para>
+      <num>(a-4)</num>
+      <text>The savings plan required under subsection (a)(2)(B) of this section that pertains to the allocation of funds to the District of Columbia Public Schools in Fiscal Year 2003 shall be submitted, no later than December 31, 2002, by the District of Columbia Public Schools to the Special Education Task Force established by Chapter 25A of Title 38. The plan shall commence no later than October 1, 2003, and generate savings comparable to the funds allocated to the agency from the Fund in Fiscal Year 2003.</text>
+    </para>
+    <para>
+      <num>(a-5)</num>
+      <text>The savings plan required under subsection (a)(2)(B) of this section that pertains to the allocation of funds to the District of Columbia Public Schools in Fiscal Year 2004 shall be submitted, no later than December 31, 2003, by the District of Columbia Public Schools to the Special Education Task Force established by Chapter 25A of Title 38. The plan shall commence no later than October 1, 2004, and generate savings comparable to the funds allocated to the agency from the Fund in Fiscal Year 2004.</text>
+    </para>
+    <para>
+      <num>(a-6)</num>
+      <text>Beginning 3 months following the commencement of any plan submitted pursuant to subsection (a)(2) of this section, or no later than January 2, 2004, the Mayor and the Special Education Task Force shall provide the Council with quarterly reports on the progress made by the Department of Human Services, the Child and Family Services Agency, the Department of Mental Health, the Department of Health, and the District of Columbia Public Schools, in reducing costs associated with the Medicaid, Medicare, Foster Care and Adoption Assistance, and Special Education programs.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Total distribution of funds from the Fund to the District of Columbia Public Schools, the Child and Family Services Agency, the Department of Human Services, the Department of Mental Health, or the Department of Health in any given fiscal year shall not exceed the amount appropriated for that agency in that fiscal year for the purposes of § <cite path="§7-1811.03">7-1811.03</cite>(b).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1555, 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 1503(d), 50 DCR 5668</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, §§ 12, 84(g), 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-204.13">4-204.13</cite> and § <cite path="§7-1811.03">7-1811.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite>, in subsec. (a), substituted “the Department of Human Services, the Department of Mental Health, or the Department of Health” for “or the Department of Human Services” in par. (1), and rewrote par. (2); added subsecs. (a-1), (a-2), (a-3), (a-4), (a-5), and (a-6); and in subsec. (b), substituted “the Department of Human Services, the Department of Mental Health, or the Department of Health” for “or the Department of Human Services”. Prior to amendment, par. (2) of subsec. (a) had read as follows: “(2) Certifying that a savings plan to be submitted by the Director of the Office of Medicaid Public Provider Operations Reform to the Mayor in accordance with § <cite path="§7-1811.03">7-1811.03</cite>(b)(5)(A)(i), will generate savings comparable to the funds allocated; and”</annotation>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in subsecs. (a-4) and (a-5), validated previously made technical corrections.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 1503(d) of Fiscal Year 2004 Budget Support Emergency Act of 2003 (D.C. Act 15-105, June 20, 2003,  50 DCR 5613).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1503(d) of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|2|IV|C"/>
+    <num codify:value="4-204.56">1556</num>
+    <heading>Annual report.</heading>
+    <text>The Mayor shall report annually to the Council on the revenues and activities of the Fund.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1556, 49 DCR 6968</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II"/>
+    <num codify:value="6-1031">1141</num>
+    <heading>Short title.</heading>
+    <text>This subchapter may be cited as the “Housing and Community Development Reform Advisory Commission Act of 2002”.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1141, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition of §§ <cite path="§6-1031">6-1031</cite> to 6-1037, see §§ 1141 to 1147 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II"/>
+    <num codify:value="6-1032">1142</num>
+    <heading>Establishment of the Housing and Community Development Reform Advisory Commission; membership; chairperson.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a Housing and Community Development Reform Advisory Commission (“Commission”).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission shall consist of the following 7 members:</text>
+      <para>
+        <num>(1)</num>
+        <text>Three ex officio members, as follows:</text>
+        <para>
+          <num>(A)</num>
+          <text>The Chairman of the Council of the District of Columbia (“Council”), or a designee of the Chairman;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The chairperson of the Council’s Committee on Economic Development, or a designee of the chairperson; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The Director of the Department of Housing and Community Development (“Director”), or a designee of the Director;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Four public members, appointed by the Mayor, subject to the advice and consent of the Council under § <cite path="§1-523.01">1-523.01</cite>(f). The public members shall be nominated as follows:</text>
+        <para>
+          <num>(A)</num>
+          <text>Two members shall have expertise in government regulations related to grants managed by the U.S. Department of Housing and Urban Development; provided, that the member shall not be a current or former officer, employee, agent, or other affiliate of an organization that has received funding from the Department of Housing and Community Development within the prior 5 years; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>One member shall have expertise in human resources and organizational management; provided, that the member shall not be a current or former officer, employee, agent, or other affiliate of an organization which has received funding from the Department of Housing and Community Development within the prior 5 years; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>One member shall have expertise in financial systems and information technology; provided, that the member shall not be a current or former officer, employee, agent, or other affiliate of an organization which has received funding from the Department of Housing and Community Development within the prior 5 years.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall nominate the public members of the Commission within 45 days after October 1, 2002.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Chairperson of the Commission shall be designated by the Mayor in consultation with the chairperson of the Council Committee on Economic Development.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1142, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-523.01">1-523.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Housing and Community Development Reform Advisory Commission Temporary Amendment Act of 2003 (<cite doc="D.C. Law 15-91">D.C. Law 15-91</cite>, March 10, 2004, law notification  51 DCR 3611).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Housing and Community Development Reform Advisory Commission Emergency Amendment Act of 2003 (D.C. Act 15-223, November 25, 2003,  50 DCR 10700).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II"/>
+    <num codify:value="6-1033">1143</num>
+    <heading>Responsibilities of the Commission; report.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission shall review the operations and administration of the Department of Housing and Community Development (“Department”) and recommend to the Council and the Mayor legislative, regulatory, and administrative changes to improve the operation and administration of the Department.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Before the first meeting of the Commission, the Director shall provide to the members of the Commission copies of all relevant studies, reports, correspondence, memoranda, and strategic plans maintained by the Department and completed within the previous 3 years which are related to matters within the purview of the Commission. The documents provided shall include notifications, correspondence, and reports from or to the Department of Housing and Urban Development, reports of the Inspector General, Department spending plans; Department strategic plans, Department policies and manuals, and correspondence with the Council, Council committees, and members of the Council. The Commission may request additional documents pursuant to § <cite path="§6-1034">6-1034</cite>(b).</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commission shall provide an assessment or recommendations on the following issues:</text>
+      <para>
+        <num>(1)</num>
+        <text>Whether reforms announced by the Department since October 1, 2001, are being undertaken;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The effectiveness and results of reforms initiated by the Department since October 1, 2001;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Necessary or useful reforms that are not occurring or are occurring too slowly;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Legislative, administrative, or operational impediments to the implementation of reforms which are being, or should be, undertaken by the Department;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Procedures to ensure that the Department expends federal grants funds in a timely and efficient manner and in conformity with federal regulations;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Procedures to ensure that each grant of funds from the Department is tied to specific, measurable, and verifiable performance goals;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Procedures to improve the Department’s monitoring of the use of its funds in order to ensure that:</text>
+        <para>
+          <num>(A)</num>
+          <text>The funds are used only for the intended purposes;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The funds are used efficiently; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The use of the funds brings about the intended results, as set forth in the performance goals;</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Procedures to ensure grantee compliance with performance goals; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The impact of personnel procedures on the operations of the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>In making recommendations under subsections (a) and (c) of this section, the Commission shall review best practices in other jurisdictions.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Commission shall not supersede the Consolidated Plan review and development process or the provisions of subchapter I of this chapter.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Within 150 days after the first meeting of the Commission, the Commission shall issue a final report setting forth its recommendations pursuant to this section. The Commission may issue interim reports at the discretion of the Commission. The Commission shall transmit a copy of each report to the Mayor, the Chairman of the Council, and the chairperson of the Council Committee on Economic Development, and the Director.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1143, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1037">6-1037</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Housing and Community Development Reform Advisory Commission Extension Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-236">D.C. Law 15-236</cite>, March 16, 2005, law notification  52 DCR 3562).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Housing and Community Development Reform Advisory Commission Extension Emergency Amendment Act of 2004 (D.C. Act 15-542, October 12, 2004,  51 DCR 9833).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Housing and Community Development Reform Advisory Commission Extension Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-5, January 19, 2005,  52 DCR 2681).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II"/>
+    <num codify:value="6-1034">1144</num>
+    <heading>Authorities and resources of the Commission.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall provide reasonable administrative and technical support, meeting space, and office supplies requested by the Commission to carry out its responsibilities under this subchapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission may request from any department, agency, or instrumentality of the District government any information necessary to carry out its responsibilities under this subchapter. Every department, agency, and instrumentality shall cooperate with the Commission and provide, in a timely and complete manner, any information that the Commission requests pursuant to this subsection.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commission may enter into a contract with a government entity, private entity, or other organization or individual to conduct research or surveys, prepare reports, or perform other activities useful to the discharge of the responsibilities of the Commission under this subchapter.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Commission may establish any advisory groups, committees, or subcommittees, consisting of members or nonmembers of this Commission, as it deems appropriate to carry out its responsibilities under this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1144, 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1033">6-1033</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority to the Director of the Department of Housing and Community Development pursuant to <cite doc="D.C. Law 14-90">D.C. Law 14-90</cite>, see Mayor’s Order 2003-171, December 1, 2003 ( 50 DCR 10617).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II"/>
+    <num codify:value="6-1035">1145</num>
+    <heading>Procedures of the Commission.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Director of the Department, or the Director’s designee, shall convene the first meeting of the Commission during December 2002; provided, that at least 5 appointments have been made to the Commission.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission shall meet at least once a month, at a time and place to be determined by the Chairperson. The Chairperson may call additional meetings.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A majority of the members shall constitute a quorum.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>An audio or written transcript shall be kept of all meetings at which a vote is taken.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1145, 49 DCR 6968</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II"/>
+    <num codify:value="6-1036">1146</num>
+    <heading>Funding; no compensation for members.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Upon certification of the availability of funds by the Chief Financial Officer, there shall be authorized for expenditure by the Commission, $200,000 from the Industrial Revenue Bond special account. The Commission may expend other funds as appropriated.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No member of the Commission shall be reimbursed for expenses incurred in the performance of his or her duties under this subchapter nor shall any member be compensated for time expended in the performance of duties under this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1146, 49 DCR 6968</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|10|II"/>
+    <num codify:value="6-1037">1147</num>
+    <heading>Dissolution of Commission.</heading>
+    <text>The Commission shall cease to exist 90 days after the final report required by § <cite path="§6-1033">6-1033</cite> is submitted to the Mayor, the Chairman of the Council, the chairperson of the Council Committee on Economic Development, and the Director.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1147, 49 DCR 6968</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,10 +1,711 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 75-2-ch321">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 75-2-ch321">
+  <heading/>
   <meta>
     <effective>1938-06-07</effective>
     <cites>
-        <law congress="75" session="2" chapter="321"/>
+      <law congress="75" session="2" chapter="321"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2001">1</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 611, ch. 321, § 1</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-901.</annotation>
+        <annotation>1973 Ed. § 2-1301.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>Section 1236 of <cite doc="D.C. Law 12-261">D.C. Law 12-261</cite> transfers authority to the Board of Barber and Cosmetology established by § <cite path="§47-2853.6">47-2853.6</cite> [§ <cite path="§47-2853.06">47-2853.06</cite>, 2001 Ed.].</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2002">2</num>
+    <heading>Board of Cosmetology created; composition; qualifications; term of office; oath; vacancies; removal; officers; seal; quorum; meetings; records.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 612, ch. 321, § 2</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-902.</annotation>
+        <annotation>1973 Ed., § 2-1302.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2003">3</num>
+    <heading>Rules and regulations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 613, ch. 321, § 3</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-903.</annotation>
+        <annotation>1973 Ed., § 2-1303.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2004">4</num>
+    <heading>Procedure for refusal, revocation, or suspension of license or certificate; reissuance.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 613, ch. 321, § 4</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-904.</annotation>
+        <annotation>1973 Ed., § 2-1304.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2005">5</num>
+    <heading>Appeal from action of Board.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 613, ch. 321, § 5</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-905.</annotation>
+        <annotation>1973 Ed., § 2-1305.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2006">6</num>
+    <heading>Practice of teaching of cosmetology without certificate of registration prohibited; exception.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 613, ch. 321, § 6</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-906.</annotation>
+        <annotation>1973 Ed., § 2-1306.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2007">7</num>
+    <heading>Requirements to practice or teach.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 614, ch. 321, § 7</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-907.</annotation>
+        <annotation>1973 Ed., § 2-1307.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2008">8</num>
+    <heading>Requirements for examination.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 614, ch. 321, § 8</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-908.</annotation>
+        <annotation>1973 Ed., § 2-1308.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2009">9</num>
+    <heading>Limited certificate of registration.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 614, ch. 321, § 9</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-909.</annotation>
+        <annotation>1973 Ed., § 2-1309.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2010">10</num>
+    <heading>School of cosmetology — Requirements for certificate of registration.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 614, ch. 321, § 10</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-910.</annotation>
+        <annotation>1973 Ed., § 2-1310.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2011">11</num>
+    <heading>Student practice upon public.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 615, ch. 321, § 11</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-911.</annotation>
+        <annotation>1973 Ed., § 2-1311.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2012">12</num>
+    <heading>Practice limited to registered beauty shops; exception; manager required.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 615, ch. 321, § 12</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-912.</annotation>
+        <annotation>1973 Ed., § 2-1312.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2013">13</num>
+    <heading>Exceptions to examination requirements; temporary permits.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 615, ch. 321, § 13</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-913.</annotation>
+        <annotation>1973 Ed., § 2-1313.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2014">14</num>
+    <heading>Apprentices in beauty shops.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 616, ch. 321, § 14</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-914.</annotation>
+        <annotation>1973 Ed., § 2-1314.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2015">15</num>
+    <heading>Demonstrators.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 616, ch. 321, § 15</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-915.</annotation>
+        <annotation>1973 Ed., § 2-1315.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2016">16</num>
+    <heading>Reciprocity.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 616, ch. 321, § 16</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-916.</annotation>
+        <annotation>1973 Ed., § 2-1316.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2017">17</num>
+    <heading>Issuance of certificate or license; display.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 617, ch. 321, § 17</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-917.</annotation>
+        <annotation>1973 Ed., § 2-1317.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2018">18</num>
+    <heading>Conduct of examinations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 617, ch. 321, § 18</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-918.</annotation>
+        <annotation>1973 Ed., § 2-1318.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2019">19</num>
+    <heading>Fees; expenses of Board; unexpended funds.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 617, ch. 321, § 19</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-919.</annotation>
+        <annotation>1973 Ed., § 2-1319.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2020">20</num>
+    <heading>Persons called to aid of Board.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 618, ch. 321, § 20</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-920.</annotation>
+        <annotation>1973 Ed., § 2-1320.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2021">21</num>
+    <heading>Sanitary regulations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 618, ch. 321, § 21</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-921.</annotation>
+        <annotation>1973 Ed., § 2-1321.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2022">22</num>
+    <heading>Hearings.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 618, ch. 321, § 22</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-922.</annotation>
+        <annotation>1973 Ed., § 2-1322.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2023">23</num>
+    <heading>Temporary licenses.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 618, ch. 321, § 23</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-923.</annotation>
+        <annotation>1973 Ed., § 2-1323.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2024">24</num>
+    <heading>Exemptions from chapter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 619, ch. 321, § 24</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-924.</annotation>
+        <annotation>1973 Ed., § 2-1324.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2025">25</num>
+    <heading>Expiration and renewal of certificate of registration.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 619, ch. 321, § 25</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-925.</annotation>
+        <annotation>1973 Ed., § 2-1325.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2026">26</num>
+    <heading>Penalties.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 619, ch. 321, § 26</annotation>
+        <annotation doc="D.C. Law 6-42">Oct. 5, 1985, D.C. Law 6-42, § 452, 32 DCR 4450</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245, § 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-926.</annotation>
+        <annotation>1973 Ed., § 2-1326.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2027">27</num>
+    <heading>Prosecution by Corporation Counsel.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 619, ch. 321, § 27</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-927.</annotation>
+        <annotation>1973 Ed., § 2-1327.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|20"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-2028">28</num>
+    <heading>Severability.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 7, 1938, 52 Stat. 620, ch. 321, § 28</annotation>
+        <annotation doc="D.C. Law 9-245">Mar. 17, 1993, D.C. Law 9-245,§ 38(b), 40 DCR 660</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1236, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-928.</annotation>
+        <annotation>1973 Ed., § 2-1328.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Repeal of Law</heading>
+        <text>Repeal of Law 9-245</text>
+        <text>See note to § <cite path="§3-2001">3-2001</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

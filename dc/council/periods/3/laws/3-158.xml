@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 3-158">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 3-158">
   <num type="law">3-158</num>
   <heading type="short">District of Columbia Civilian Complaint Review Board Act of 1980</heading>
   <meta>
@@ -12,4 +12,270 @@
       <narrative>Law 3-158, the “District of Columbia Civilian Complaint Review Board Act of 1980,” was introduced in Council and assigned Bill No. 3-247, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on October 14, 1980, and October 28, 1980, respectively. Signed by the Mayor on November 10, 1980, it was assigned Act No. 3-285 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|11|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="5-1131">2</num>
+    <heading>Established; purpose; authority to act.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-158">Mar. 5, 1981, D.C. Law 3-158, § 2, 27 DCR 5127</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 803(a), 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-901.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary repeal of chapter upon the effective date of the Omnibus Budget Support Act of 1995, see § 503(a) of the Omnibus Budget Support Emergency Act of 1995 (D.C. Act 11-44, April 28, 1995,  42 DCR 2217) and § 803(a) of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995,  42 DCR 4160).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 803(a) of <cite doc="D.C. Law 11-52">D.C. Law 11-52</cite> repealed §§ <cite path="§5-1131">5-1131</cite> to 5-1140 on the effective Dates of the Omnibus Budget Support Act of 1995. The Omnibus Budget Support Act of 1995, <cite doc="D.C. Law 11-52">D.C. Law 11-52</cite>, was effective September 26, 1995.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority—Secretary of the District of Columbia, see Mayor’s Order 95-26, January 27, 1995.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Transfer of pending cases: For temporary transfer of all cases pending with the Civilian Complaint Review Board to the Internal Affairs Division of the Metropolitan Police Department, see § 503(b) of the Omnibus Budget Support Emergency Act of 1995 (D.C. Act 11-44, April 28, 1995,  42 DCR 2217) and § 803(b) of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995,  42 DCR 4160).</text>
+        <text>Section 803(b) of <cite doc="D.C. Law 11-52">D.C. Law 11-52</cite> provided that all cases pending with the Civilian Complaint Review Board on the effective date of the Omnibus Budget Support Act of 1995 shall be transferred to, and adjudicated according to the procedures of, the Internal Affairs Division of the Metropolitan Police Department.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|11|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="5-1132">3</num>
+    <heading>Recommendations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-158">Mar. 5, 1981, D.C. Law 3-158, § 3, 27 DCR 5127</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 803(a), 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-902.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of repeal of §§ <cite path="§5-1131">5-1131</cite> to 5-1140, see Historical and Statutory Notes following § <cite path="§5-1131">5-1131</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|11|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="5-1133">4</num>
+    <heading>Adjudication of complaints; rules and regulations; action by Chief of Police.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-158">Mar. 5, 1981, D.C. Law 3-158, § 4, 27 DCR 5127</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 803(a), 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-903.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of repeal of §§ <cite path="§5-1131">5-1131</cite> to 5-1140, see Historical and Statutory Notes following § <cite path="§5-1131">5-1131</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|11|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="5-1134">5</num>
+    <heading>Composition; term of office; quorum; removal for cause.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-158">Mar. 5, 1981, D.C. Law 3-158, § 5, 27 DCR 5127</annotation>
+        <annotation doc="D.C. Law 9-179">Mar. 13, 1993, D.C. Law 9-179, § 2(a), 39 DCR 8075</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 803(a), 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-904.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(a) of the Civilian Complaint Review Board Emergency Amendment Act of 1992 (D.C. Act 9-274, July 23, 1992,  39 DCR 5846).</annotation>
+        <annotation>For temporary amendment of section, see § 2(a) of the Civilian Complaint Review Board Congressional Adjournment Emergency Amendment Act of 1992 (D.C. Act 9-292, October 19, 1992,  39 DCR 7934).</annotation>
+        <annotation>For temporary amendment of section, see § 2(a) of the Civilian Complaint Review Board Second Congressional Adjournment Emergency Act of 1992 (D.C. Act 9-379, January 5, 1993,  40 DCR 640).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of repeal of §§ <cite path="§5-1131">5-1131</cite> to 5-1140, see Historical and Statutory Notes following § <cite path="§5-1131">5-1131</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Expiration of § 2(a)(5) of Law 9-179: Section 3(b) of <cite doc="D.C. Law 9-179">D.C. Law 9-179</cite> provided that § 2(a)(5) of the act shall expire 3 years from the effective date of the Civilian Complaint Review Board Amendment Act of 1992.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|11|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="5-1135">6</num>
+    <heading>Hearings.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-158">Mar. 5, 1981, D.C. Law 3-158, § 6, 27 DCR 5127</annotation>
+        <annotation doc="D.C. Law 9-179">Mar. 13, 1993, D.C. Law 9-179, § 2(b), 39 DCR 8075</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 803(a), 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-905.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(b) of the Civilian Complaint Review Board Emergency Amendment Act of 1992 (D.C. Act 9-274, July 23, 1992,  39 DCR 5846).</annotation>
+        <annotation>For temporary amendment of section, see § 2(b) of the Civilian Complaint Review Board Congressional Adjournment Emergency Amendment Act of 1992 (D.C. Act 9-292, October 19, 1992,  39 DCR 7934).</annotation>
+        <annotation>For temporary amendment of section, see § 2(b) of the Civilian Complaint Review Board Second Congressional Adjournment Emergency Amendment Act of 1992 (D.C. Act 9-379, January 5, 1993,  40 DCR 640).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of repeal of §§ <cite path="§5-1131">5-1131</cite> to 5-1140, see Historical and Statutory Notes following § <cite path="§5-1131">5-1131</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|11|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="5-1136">7</num>
+    <heading>Liability of Board members.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-158">Mar. 5, 1981, D.C. Law 3-158, § 7, 27 DCR 5127</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 803(a), 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-906.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of repeal of §§ <cite path="§5-1131">5-1131</cite> to 5-1140, see Historical and Statutory Notes following § <cite path="§5-1131">5-1131</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|11|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="5-1137">8</num>
+    <heading>Executive Director; staff.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-158">Mar. 5, 1981, D.C. Law 3-158, § 8, 27 DCR 5127</annotation>
+        <annotation doc="D.C. Law 9-179">Mar. 13, 1993, D.C. Law 9-179, § 2(c), 39 DCR 8075</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 803(a), 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-907.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(c) of the Civilian Complaint Review Board Emergency Amendment Act of 1992 (D.C. Act 9-274, July 23, 1992,  39 DCR 5846).</annotation>
+        <annotation>For temporary amendment of section, see § 2(c) of the Civilian Complaint Review Board Congressional Adjournment Emergency Amendment Act of 1992 (D.C. Act 9-292, October 19, 1992,  39 DCR 7934).</annotation>
+        <annotation>For temporary amendment of section, see § 2(c) of the Civilian Complaint Review Board Second Congressional Adjournment Emergency Amendment Act of 1992 (D.C. Act 9-379, January 5, 1993,  40 DCR 640).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of repeal of §§ <cite path="§5-1131">5-1131</cite> to 5-1140, see Historical and Statutory Notes following § <cite path="§5-1131">5-1131</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|11|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="5-1138">9</num>
+    <heading>Funding.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-158">Mar. 5, 1981, D.C. Law 3-158, § 9, 27 DCR 5127</annotation>
+        <annotation doc="D.C. Law 9-179">Mar. 13, 1993, D.C. Law 9-179, § 2(d), 39 DCR 8075</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 803(a), 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-908.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(d) of the Civilian Complaint Review Board Emergency Amendment Act of 1992 (D.C. Act 9-274, July 23, 1992,  39 DCR 5846).</annotation>
+        <annotation>For temporary amendment of section, see § 2(d) of the Civilian Complaint Review Board Congressional Adjournment Emergency Amendment Act of 1992 (D.C. Act 9-292, October 19, 1992,  39 DCR 7934).</annotation>
+        <annotation>For temporary amendment of section, see § 2(d) of the Civilian Complaint Review Board Second Congressional Adjournment Emergency Amendment Act of 1992 (D.C. Act 9-379, January 5, 1993,  40 DCR 640).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of repeal of §§ <cite path="§5-1131">5-1131</cite> to 5-1140, see Historical and Statutory Notes following § <cite path="§5-1131">5-1131</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|11|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="5-1139">10</num>
+    <heading>Miscellaneous provisions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-158" path="§10">Mar. 5, 1981, D.C. Law 3-158, § 10(a)-(e), (g), (h), 27 DCR 5127</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 803(a), 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-909.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of repeal of §§ <cite path="§5-1131">5-1131</cite> to 5-1140, see Historical and Statutory Notes following § <cite path="§5-1131">5-1131</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|11|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="5-1140">11</num>
+    <heading>Construction of chapter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-158">Mar. 5, 1981, D.C. Law 3-158, § 11, 27 DCR 5127</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 803(a), 42 DCR 3684</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-910.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 12 of <cite doc="D.C. Law 3-158">D.C. Law 3-158</cite> provided that: “This chapter shall take effect after a 30-day period of Congressional review following approval by the Mayor (or in the event of veto by the Mayor action by the Council of the District of Columbia to override the veto as provided in § <cite path="§1-233">1-233</cite>(c)(1)): Provided, that this chapter shall not take effect prior to October 1, 1981, at which time complaints may be made to the Board.”.</annotation>
+        <annotation>For effective date of repeal of §§ <cite path="§5-1131">5-1131</cite> to 5-1140, see Historical and Statutory Notes following § <cite path="§5-1131">5-1131</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

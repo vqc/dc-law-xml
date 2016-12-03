@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 1-65">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 1-65">
   <num type="law">1-65</num>
   <meta>
     <effective>1976-06-08</effective>
@@ -11,4 +11,66 @@
       <narrative>Law 1-65 was introduced in Council and assigned Bill No. 1-34, which was referred to the Committee on the Judiciary and Criminal Law. The Bill was adopted on first and second readings on January 27, 1976 and February 24, 1976, respectively. Signed by the Mayor on March 22, 1976, it was assigned Act No. 1-97 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§1-301.45" path="|1|3|I|C"/>
+    <num codify:value="1-301.41">2</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>“Council” shall mean the Council of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>“Legislative duties” shall include the responsibilities of each member of the Council in the exercise of such member’s functions as a legislative representative, including but not limited to: Everything said, written or done during legislative sessions, meetings, or investigations of the Council or any committee of the Council, and everything said, written, or done in the process of drafting and publishing legislation and legislative reports.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>“Threatening letter or communication” shall mean any letter or communication which reasonably indicates an earnest intention or determination to inflict injury upon someone or something of value.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-65">June 8, 1976, D.C. Law 1-65, § 2, 22 DCR 7150</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-222.</annotation>
+        <annotation>1973 Ed., § 1-141a.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§1-301.45" path="|1|3|I|C"/>
+    <num codify:value="1-301.42">3</num>
+    <heading>Legislative immunity.</heading>
+    <text>For any speech or debate made in the course of their legislative duties, the members of the Council shall not be questioned in any other place.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-65">June 8, 1976, D.C. Law 1-65, § 3, 22 DCR 7151</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-223.</annotation>
+        <annotation>1973 Ed., § 1-141b.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§1-301.45" path="|1|3|I|C"/>
+    <num codify:value="1-301.43">4</num>
+    <heading>Obstruction of Council proceedings and investigations; penalty.</heading>
+    <text>Whoever, corruptly or by threat or force, or by any threatening letter or communication, endeavors to influence, intimidate, or impede any witness in any proceeding pending before the Council, or in connection with any inquiry or investigation being had by the Council, or any committee of the Council, or any joint committee of the Council; or whoever injures any party or witness in his person or property on account of his attending or having attended such proceeding, inquiry, or investigation, or on account of his testifying or having testified to any matter pending therein; or whoever willfully removes from any place, conceals, destroys, mutilates, alters, or by other means falsifies any documentary material which is the subject of a subpoena lawfully issued by the Council, or any committee of the Council; or whoever, corruptly, or by threats or force, or by any threatening letter or communication, influences, obstructs, or impedes or endeavors to influence, obstruct, or impede the due and proper administration of the law under which such proceeding is being had before the Council, or the due and proper exercise of the power of inquiry under which such inquiry or investigation is being had by the Council, or any committee of the Council, or any joint committee of the Council; shall be fined not more than $2,000 or imprisoned not more than 2 years, or both.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-65">June 8, 1976, D.C. Law 1-65, § 4, 22 DCR 7151</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-224.</annotation>
+        <annotation>1973 Ed., § 1-141c.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

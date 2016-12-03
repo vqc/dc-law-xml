@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 67-2-ch93">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 67-2-ch93">
   <heading/>
   <meta>
     <effective>1922-03-04</effective>
@@ -10,45 +10,722 @@
   <container>
     <prefix>Title</prefix>
     <num>II</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.01">1</num>
+      <heading>Definitions.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 401, ch. 93, title II, § 1</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1401.</annotation>
+          <annotation>1973 Ed., § 35-1101.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) amendment of section, see § 4(o) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <text><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite>, § 4(o), purported to amend this section that was previously repealed by <cite doc="D.C. Law 14-297">D.C. Law 14-297</cite>, therefore, the amendment was ineffective.</text>
+          <text>Department of Insurance abolished: The Department of Insurance, including the Superintendent, was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. Reorganization Order No. 43, dated June 23, 1953, as amended, established, under the direction and control of a Commissioner, a Department of Insurance headed by a Superintendent. The Order provided for the organization of the Department, abolished the previously existing Department of Insurance, and provided that all functions and positions of the previous Department would be transferred to the new Department of Insurance, including the duties, powers, and authorities of all officers and employees; and that all personnel, property, records and unexpended balances relating to the functions and positions transferred would also be transferred to the new Department. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. The functions of the Superintendent of Insurance were transferred to the Department of Consumer and Regulatory Affairs by Reorganization Plan No. 1 of 1983, effective March 31, 1983. Pursuant to the provisions of <cite doc="D.C. Law 11-268">D.C. Law 11-268</cite>, the Department of Insurance and Securities Regulation was established and the duties of the Superintendent of Insurance and the Insurance Administration were assumed by the Commissioner of Insurance and Securities and the Insurance Administration in the Department of Consumer and Regulatory Affairs was abolished.</text>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.02">2</num>
+      <heading>Applicability of District insurance laws.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 402, ch. 93, title II, § 2</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1402.</annotation>
+          <annotation>1973 Ed., § 35-1102.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.03">3</num>
+      <heading>Kinds of insurance authorized; reserves required; requirements for transacting business for stock companies and reinsurance corporations.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 402, ch. 93, title II, § 3</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 28(a), 45 DCR 745</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1403.</annotation>
+          <annotation>1973 Ed., § 35-1103.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.04">4</num>
+      <heading>Organization and licensing requirements for domestic mutual companies.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 404, ch. 93, title II, § 4</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, §  401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1404.</annotation>
+          <annotation>1973 Ed., § 35-1104.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.05">5</num>
+      <heading>Requirements for transacting business for foreign companies.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 404, ch. 93, title II, § 5</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1405.</annotation>
+          <annotation>1973 Ed., § 35-1105.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>IV</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.07">7</num>
+      <heading>Computation of unearned premiums.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 405, ch. 93, title IV, § 7</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, §  401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1407.</annotation>
+          <annotation>1973 Ed., § 35-1107.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>V</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.08">8</num>
+      <heading>Taxation of companies—Tax on underwriting profit—Computation of profit.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 405, ch. 93, title V, § 8</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, §  401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1408.</annotation>
+          <annotation>1973 Ed., § 35-1108.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.09">9</num>
+      <heading>Taxation of companies—Tax on underwriting profit—Computation and payment of tax.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 406, ch. 93, title V, § 9</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1409.</annotation>
+          <annotation>1973 Ed., § 35-1109.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <text>Office of Collector of Taxes abolished: The Office of the Collector of Taxes was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. All functions of the Office of the Collector of Taxes including the functions of all officers, employees, and subordinate agencies were transferred to the Director, Department of General Administration by Reorganization Order No. 3, dated August 28, 1952. Reorganization Order No. 20, dated November 10, 1952, transferred the functions of the Collector of Taxes to the Finance Office. The same Order provided for the Office of the Collector of Taxes headed by a Collector in the Finance Office, and abolished the previously existing Office of the Collector of Taxes. Reorganization Order No. 20 was superseded and replaced by Organization Order No. 121, dated December 12, 1957, which provided that the Finance Office (consisting of the Office of the Finance Officer, Property Tax Division, Revenue Division, Treasury Division, Accounting Division, and Data Processing Division) would continue under the direction and control of the Director of General Administration, and that the Treasury Division would perform the function of collecting revenues of the District of Columbia and depositing the same with the Treasurer of the United States. Organization Order No. 121 was revoked by Organization Order No. 3, December 13, 1967, Part IVC of which prescribed the functions of the Finance Office within a newly established Department of General Administration. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. Functions of the Finance Office as stated in Part IVC of Organization Order No. 3 were transferred to the Director of the Department of Finance and Revenue by Commissioner’s Order No. 69-96, dated March 7, 1969. The collection functions of the Director of the Department of Finance and Revenue were transferred to the District of Columbia Treasurer by § <cite path="§47-316">47-316</cite> on March 5, 1981.</text>
+          <text>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</text>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.10">10</num>
+      <heading>Taxation of companies—Tax on average earnings on reserves for unpaid losses and unexpired premiums.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 407, ch. 93, title V, § 10</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, §  401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1410.</annotation>
+          <annotation>1973 Ed., § 35-1110.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.11">11</num>
+      <heading>Taxation of companies—Tax on investment income from funds representing capital stock and surplus.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 408, ch. 93, title V, § 11</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, §  401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1411.</annotation>
+          <annotation>1973 Ed., § 35-1111.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.12">12</num>
+      <heading>Taxation of companies—Computation and payment of taxes on earnings and investment income.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 408, ch. 93, title V, § 12</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1412.</annotation>
+          <annotation>1973 Ed., § 35-1112.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.13">13</num>
+      <heading>Single annual license fee.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 408, ch. 93, title V, § 13</annotation>
+          <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, §  2003(hh), 46 DCR 3142</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1413.</annotation>
+          <annotation>1973 Ed., § 35-1113.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Office of Collector of Taxes abolished: See Historical and Statutory Notes following § <cite path="§31-2602.09">31-2602.09</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.14">14</num>
+      <heading>Cessation of business.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 408, ch. 93, title V, § 14</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1414.</annotation>
+          <annotation>1973 Ed., § 35-1114.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.15">15</num>
+      <heading>Failure to make reports or pay taxes or fees.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 408, ch. 93, title V, § 15</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, §  401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1415.</annotation>
+          <annotation>1973 Ed., § 35-1115.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.16">16</num>
+      <heading>Exemption from District taxes or fees.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 409, ch. 93, title V, § 16</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, §  401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1416.</annotation>
+          <annotation>1973 Ed., § 35-1116.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>United States Shipping Board abolished: By Executive Order No. 6166, § 12, dated June 10, 1933, the United States Shipping Board was abolished and its functions, including those over and in respect to the United States Shipping Board Merchant Fleet Corporation, were transferred to the Department of Commerce. By §§ 201 and 204 of the Act of June 29, 1936, 49 Stat. 1987, ch. 858, the United States Maritime Commission was created and the functions of the former United States Shipping Board, including those vested in the Department of Commerce by Executive Order No. 6166, were transferred thereto. The functions of the United States Maritime Commission were transferred to the Federal Maritime Board by Part I of Reorganization Plan No. 21 of 1950, 64 Stat. 1273. The functions of the Federal Maritime Board were transferred to the Federal Maritime Commission by § 103 of Reorganization Plan No. 7 of 1961, 75 Stat. 840.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.17">17</num>
+      <heading>Payment of federal income taxes.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 409, ch. 93, title V, § 17</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, §  401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1417.</annotation>
+          <annotation>1973 Ed., § 35-1117.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>VI</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.18">18</num>
+      <heading>Investment of capital, assets and surplus.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 409, ch. 93, title VI, § 18</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1418.</annotation>
+          <annotation>1973 Ed., § 35-1118.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.19">19</num>
+      <heading>Acquisition, use and disposition of real estate by domestic companies.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 410, ch. 93, title VI, § 19</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10, 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 28(b), 45 DCR 745</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1419.</annotation>
+          <annotation>1973 Ed., § 35-1119.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>VII</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.20">20</num>
+      <heading>Mergers or consolidations.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 410, ch. 93, title VII, § 20</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1420.</annotation>
+          <annotation>1973 Ed., § 35-1120.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>VIII</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.21">21</num>
+      <heading>Establishment and maintenance of foreign agencies.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 411, ch. 93, title VIII, § 21</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, §  401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1421.</annotation>
+          <annotation>1973 Ed., § 35-1121.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.22">22</num>
+      <heading>Corporations engaged exclusively in writing insurance in foreign countries.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 411, ch. 93, title VIII, § 22</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1422.</annotation>
+          <annotation>1973 Ed., § 35-1122.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>IX</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.23">23</num>
+      <heading>Unauthorized transaction of insurance business.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 412, ch. 93, title IX, § 23</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1423.</annotation>
+          <annotation>1973 Ed., § 35-1123.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.24">24</num>
+      <heading>License of agent or broker; issuance; revocation.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 412, ch. 93, title IX, § 24</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1424.</annotation>
+          <annotation>1973 Ed., § 35-1124.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.25">25</num>
+      <heading>Licensees to maintain office and keep records; contents, inspection and confidentiality of records; violations.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 412, ch. 93, title IX, § 25</annotation>
+          <annotation doc="D.C. Law 6-42">Oct. 5, 1985, D.C. Law 6-42, § 462, 32 DCR 4450</annotation>
+          <annotation doc="D.C. Law 8-237">Mar. 8, 1991, D.C. Law 8-237, § 2(u), 38 DCR 314</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 28(c), 45 DCR 745</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1425.</annotation>
+          <annotation>1973 Ed., § 35-1125.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.26">26</num>
+      <heading>Licensees to furnish bond.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 413, ch. 93, title IX, § 26</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1426.</annotation>
+          <annotation>1973 Ed., § 35-1126.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>X</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.27">27</num>
+      <heading>Companies to keep classified records; violations.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 413, ch. 93, title X, § 27</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 28(d), 45 DCR 745</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1427.</annotation>
+          <annotation>1973 Ed., § 35-1127.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>XI</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§31-2602.29" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.28">28</num>
+      <heading>Violations of provisions.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 414, ch. 93, title XI, § 28</annotation>
+          <annotation doc="D.C. Law 8-237">Mar. 8, 1991, D.C. Law 8-237, § 2(u), 38 DCR 314</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1428.</annotation>
+          <annotation>1973 Ed., § 35-1128.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>XII</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.30">30</num>
+      <heading>Additional personnel and expenses for Insurance Department.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 414, ch. 93, title XII, § 30</annotation>
+          <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, §  10(q), 44 DCR 1730</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, § 401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1429.</annotation>
+          <annotation>1973 Ed., § 35-1130.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Department of Insurance abolished: See Historical and Statutory Notes following § <cite path="§31-2602.01">31-2602.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>XIII</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.31">31</num>
+      <heading>Severability.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 414, ch. 93, title XIII, § 31</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, §  401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1430.</annotation>
+          <annotation>1973 Ed., § 35-1131.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|31|26|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="31-2602.32">32</num>
+      <heading>Right to amend or repeal chapter.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Mar. 4, 1922, 42 Stat. 414, ch. 93, title XIII, § 32</annotation>
+          <annotation doc="D.C. Law 14-297">Apr. 11, 2003, D.C. Law 14-297, §  401(b), 50 DCR 330</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 35-1431.</annotation>
+          <annotation>1973 Ed., § 35-1132.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
 </document>

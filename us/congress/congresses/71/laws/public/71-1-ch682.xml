@@ -1,10 +1,135 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 71-1-ch682">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 71-1-ch682">
+  <heading/>
   <meta>
     <effective>1929-03-04</effective>
     <cites>
-        <law congress="71" session="1" chapter="682"/>
+      <law congress="71" session="1" chapter="682"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§9-101.18" path="|9|1|I"/>
+    <num codify:value="9-101.15">7</num>
+    <heading>Right-of-way over Michigan Avenue to Washington Railway and Electric Company.</heading>
+    <text>The Mayor of the District of Columbia is hereby authorized, upon the straightening and shortening of Michigan Avenue as provided by §§ <cite path="§9-101.15">9-101.15</cite> and <cite path="§9-105.01">9-105.01</cite> to 9-105.04, to do any and all acts which may be necessary to give the Washington Railway and Electric Company such easement or right-of-way over said Michigan Avenue as is necessary for the proper operation of the railway lines and cars of said company over said avenue as straightened and shortened by the provisions of said sections.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 4, 1929, 45 Stat. 1545, ch. 682, § 7</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§9-105.04">9-105.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-131.</annotation>
+        <annotation>1973 Ed., § 7-131.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Consolidation of transit companies: The Washington Railway and Electric Company and the Capital Traction Company were consolidated under the name of Capital Transit Company by the Act of January 14, 1933, 47 Stat. 752, ch. 10, § 1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia. respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|1|III"/>
+    <num codify:value="9-105.01">1</num>
+    <heading>Relocation of Michigan Avenue authorized.</heading>
+    <text>In order to relocate the line of Michigan Avenue from Franklin Street as laid down on the plan of the permanent system of highways for the District of Columbia to Lincoln Road, bordering the southeast corner of the grounds of the United States Soldiers’ Home, and to straighten and shorten the route of said Avenue, the Mayor of the District of Columbia is authorized to close, vacate, and abandon the portion of Michigan Avenue known and designated as Parcel E on map filed in the Office of the Surveyor of the District of Columbia and numbered as Map 1429, containing 54,380 square feet, said part so closed, vacated, and abandoned to be transferred by said Mayor of the District of Columbia to the United States as part of the grounds of the United States Military Asylum, known as the United States Soldiers’ Home.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 4, 1929, 45 Stat. 1543, ch. 682, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§9-101.15">9-101.15</cite> and § <cite path="§9-105.04">9-105.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-127.</annotation>
+        <annotation>1973 Ed., § 7-127.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Extension and widening of Michigan Avenue: See the Act of April 22, 1932, 47 Stat. 135, ch. 133, §§ 1 to 5.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|1|III"/>
+    <num codify:value="9-105.02">2</num>
+    <heading>Use of part of Soldiers’ Home for street purposes.</heading>
+    <text>The Mayor of the District of Columbia is authorized to use for street purposes all that part of the United States Soldiers’ Home grounds designated as Parcel A, containing 57,613 square feet, and Parcel B containing 11,870 square feet, as shown on map filed in the Office of the Surveyor of the District of Columbia and numbered as Map 1429; and the proper authorities having title, control, or jurisdiction are authorized to make the necessary transfer of said parcels of land to the District of Columbia for street purposes.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 4, 1929, 45 Stat. 1543, ch. 682, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-128.</annotation>
+        <annotation>1973 Ed., § 7-128.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|1|III"/>
+    <num codify:value="9-105.03">3</num>
+    <heading>Portion of Michigan Avenue abandoned.</heading>
+    <text>The Mayor of the District of Columbia is authorized to close, vacate, and abandon the portion of Michigan Avenue known and designated as Parcel D, containing 69,336 square feet, and Parcel H, containing 7,279 square feet, as shown on map filed in the Office of the Surveyor of the District of Columbia and numbered as Map 1429, title to said parcels so closed, vacated, and abandoned to revert in fee simple to the owner or owners of the parcel numbered on the assessment records of the District of Columbia as parcel 120/1, said closing of said street and the transfer of title thereto to be upon the condition and with the express stipulation that the owner or owners of said parcel 120/1 shall dedicate to the District of Columbia for street purposes all of the parcel known and designated as Parcel F, containing 43,161 square feet, as shown on map filed in the Office of the Surveyor of the District of Columbia and numbered as Map 1429 and shall further, in consideration of the increase in area of the property of said owner or owners of said parcel 120/1 by reason of the transfers as provided herein, dedicate to the District of Columbia about 36,000 square feet of land, the location of which shall be mutually agreed upon by the Mayor of the District of Columbia and the owner or owners of parcel 120/1, and that said owner or owners of said parcel 120/1 shall transfer to the United States as part of the grounds of the United States Military Asylum, known as the United States Soldiers’ Home, all of the parcel known and designated as Parcel G, containing 1,543 square feet, as shown on said Map No. 1429 in the Office of the Surveyor of the District of Columbia; provided, however, that the Board of Commissioners of the United States Soldiers’ Home, or the proper authorities having title, control, or jurisdiction, shall transfer to the owner or owners of the parcel designated on the assessment and taxation records of the District of Columbia as parcel 120/1 all the land comprised within the parcel known and designated as Parcel C containing 4,517 square feet, as shown on map filed in the Office of the Surveyor of the District of Columbia and numbered as Map 1429.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 4, 1929, 45 Stat. 1543, ch. 682, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-129.</annotation>
+        <annotation>1973 Ed., § 7-129.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|1|III"/>
+    <num codify:value="9-105.04">4</num>
+    <heading>Plats showing relocation of Michigan Avenue.</heading>
+    <text>The Surveyor of the District of Columbia is hereby authorized to prepare the necessary plat or plats showing all parcels of land to be transferred in accordance with the provisions of §§ <cite path="§9-101.15">9-101.15</cite> and <cite path="§9-105.01">9-105.01</cite> to 9-105.04, with a certificate affixed thereon to be signed by the parties in interest making the necessary transfers; which plat and certificate, after being signed by the various interested parties and approved by the Mayor of the District of Columbia, shall be recorded upon order of said Mayor in the Office of the Surveyor of the District of Columbia; and said plat or plats, when duly recorded in said Office of the Surveyor of the District of Columbia, shall constitute a legal transfer of title of the various parcels to the parties in interest according to the provisions contained in §§ <cite path="§9-101.15">9-101.15</cite> and <cite path="§9-105.01">9-105.01</cite> to 9-105.04.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 4, 1929, 45 Stat. 1544, ch. 682, § 4</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Recordkeeping, maps, charts, and surveys of streets and highways, see § <cite path="§1-1306">1-1306</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-130.</annotation>
+        <annotation>1973 Ed., § 7-130.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 82-1-ch448">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 82-1-ch448">
   <heading/>
   <meta>
     <effective>1951-10-08</effective>
@@ -10,9 +10,262 @@
   <container>
     <prefix>Title</prefix>
     <num>I</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|8"/>
+      <num codify:value="38-801">1</num>
+      <heading>Department of Food Services.</heading>
+      <text>There is hereby created in the public schools of the District of Columbia a Department of Food Services, which Department, under the direction and control of the Board of Education of the District of Columbia, hereinafter referred to as the “Board,” is hereby authorized to conduct a centralized system of public school cafeterias, lunchrooms, and related services, hereinafter referred to as “food services.”</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 8, 1951, 65 Stat. 367, ch. 448, title I, § 1</annotation>
+          <annotation doc="D.C. Law 11-259">Apr. 12, 1997, D.C. Law 11-259, § 313, 44 DCR 1423</annotation>
+          <annotation doc="D.C. Law 13-172">Oct. 19, 2000, D.C. Law 13-172, § 705, 47 DCR 6308</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>School cafeterias and restaurants, applicability of restaurant license law, see § <cite path="§47-2827">47-2827</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§38-806">38-806</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-801.</annotation>
+          <annotation>1973 Ed., § 31-1401.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 13-172">D.C. Law 13-172</cite> deleted the former second sentence providing: “Contracting for services, supplies, or equipment shall be done through the office of Contracting and Procurement”.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90-day) amendment of section, see § 705 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
+          <annotation>For temporary (90-day) amendment of section, see § 705 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000,  47 DCR 8740).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <text>Contracting out of food services and security services by Board of Education: Section 1203 of D.C. law 11-98 required the Board of Education to contract out, beginning in School Year 1995-96 and Fiscal Year 1996, all food services operations and security services for the D.C. Public Schools and to contract out, for no more than a 3-year period, beginning in School Year 1995-96 and Fiscal Year 1996, the development of new management and data systems, as well as training of currently employed personnel to use and manage these systems, in the area of budget, finance, personnel/human resources, management information services, procurement, and supply management.</text>
+          <text>Section 1401 of <cite doc="D.C. Law 11-98">D.C. Law 11-98</cite> provided that §§ 201, 301, 302, and 1203 of the act shall apply upon enactment by Congress of the District of Columbia Appropriations Act, 1996.</text>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|8"/>
+      <num codify:value="38-802">2</num>
+      <heading>Powers of Board.</heading>
+      <text>For carrying out the purposes of this chapter, the Board is empowered:</text>
+      <para>
+        <num>(1)</num>
+        <text>To establish in the Department of Food Services an Office of Central Management consisting of a Director and assistant directors of Food Services, whose compensation shall be fixed in accordance with the District of Columbia Teachers’ Salary Act of 1955, as amended;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To make and enforce such rules and regulations as it deems necessary for the government of the Department of Food Services and for the use and enjoyment of the facilities and services of such department;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Upon the written recommendation of the Superintendent of Schools, to employ such personnel as may be required to manage cafeterias, lunchrooms, and related services and to conduct the Office of Central Management;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Upon the written recommendation of the Superintendent of Schools, to employ on a full-time or part-time basis such personnel as may be required for the operation and maintenance of food services. The Mayor of the District of Columbia shall fix and adjust, from time to time, the rates of pay of such personnel in accordance with the rates of pay of personnel in positions of similar levels of duties, responsibilities, and qualification requirements, as determined by the Mayor, and with respect to part-time employees without regard to prohibitions or limitations relating to dual compensation as contained in any act of Congress. Persons employed under the provisions of this paragraph shall be entitled to compensation for all time when and as they perform service, and, in addition thereto, shall be entitled to compensation for such holidays as fall within a regular tour of duty of not less than 5 days in any established workweek. Persons employed under this paragraph shall not be entitled, by reason of such service, to vacation or annual leave with pay. Notwithstanding the provisions of any other law, such persons shall be entitled to sick leave with pay, to be cumulative at the rate of 1 day a month, September to June, inclusive, of each year, the total cumulation not to exceed 30 days, to be granted under such conditions as the Board may by regulation prescribe; provided, that as to part-time employees such leave shall be prorated on an hourly basis. The days of sick leave with pay provided for in this section shall mean days on which employees would otherwise work and receive pay and shall be exclusive of Saturdays, Sundays, holidays, and vacation periods authorized by the Board; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Upon the written recommendation of the Superintendent of Schools, to accept for the benefit of the program of food services gifts of money and of personal property.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 8, 1951, 65 Stat. 367, ch. 448, title I, § 2</annotation>
+          <annotation doc="Pub. L. 90-640">Oct. 25, 1968, 82 Stat. 1363, Pub. L. 90-640, § 1</annotation>
+          <annotation doc="D.C. Law 2-139">Mar. 3, 1979, D.C. Law 2-139, § 3204(c), 25 DCR 5740</annotation>
+          <annotation doc="D.C. Law 3-70">June 14, 1980, D.C. Law 3-70, § 7(k)(1), 27 DCR 1776</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§1-636.02">1-636.02</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-802.</annotation>
+          <annotation>1973 Ed., § 31-1402.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>References in Text</heading>
+          <annotation>“The District of Columbia Teachers’ Salary Act of 1955 as amended,” referred to in paragraph (1) of this section, refers to the Act of August 5, 1955, 69 Stat. 521, ch. 569.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|8"/>
+      <num codify:value="38-803">3</num>
+      <heading>Service credit for retirement; deposits.</heading>
+      <text>Service rendered by any person for salary or wages as an employee of any cafeteria or lunchroom operated in the public school buildings of the District during any period prior to the date when such cafeteria or lunchroom is placed under the Office of Central Management shall, if and when such person becomes an employee of the Department of Food Services, be deemed to be service rendered for the government of the District of Columbia for purposes of subchapter III of Chapter 83 of Title 5, United States Code, to be computed in accordance with §§ 8332 and 8333 of Title 5, United States Code; provided, that such person shall make deposits covering such service as provided in § 8334 of Title 5, United States Code  ; and provided further, that any such person may elect to make such deposits in installments in accordance with the provisions of § 8334 of Title 5, United States Code  .</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 8, 1951, 65 Stat. 368, ch. 448, title I, § 3</annotation>
+          <annotation>Oct. 25, 1951, 65 Stat. 637, ch. 560, § 3</annotation>
+          <annotation>Aug. 5, 1955, 69 Stat. 536, ch. 575, § 1</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-803.</annotation>
+          <annotation>1973 Ed., § 31-1403.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|8"/>
+      <num codify:value="38-804">5</num>
+      <heading>Deposit of revenues and receipts.</heading>
+      <text>All revenues and receipts of any nature whatever derived from the operation of food services, or as otherwise provided by this chapter shall, under regulations established by the Mayor, be paid to the D.C. Treasurer and deposited in the General Fund, and accounted for within the General Fund as a separate revenue source allocable to provide authorization for such school authority as the Board of Education may approve. Any unexpended balance at the end of the fiscal year shall revert to the unrestricted fund balance of the General Fund of the District of Columbia.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 8, 1951, 65 Stat. 369, ch. 448, title I, § 5</annotation>
+          <annotation doc="Pub. L. 90-640">Oct. 25, 1968, 82 Stat. 1363, Pub. L. 90-640, § 2</annotation>
+          <annotation doc="D.C. Law 3-70">June 14, 1980, D.C. Law 3-70, § 7(k)(2), 27 DCR 1776</annotation>
+          <annotation doc="D.C. Law 19-21">Sept. 14, 2011, D.C. Law 19-21, § 9056, 58 DCR 6226</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§38-806">38-806</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-804.</annotation>
+          <annotation>1973 Ed., § 31-1404.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> substituted “the fiscal year shall revert to the unrestricted fund balance of the General Fund of the District of Columbia” for “the year shall be reserved as a restricted fund balance and used to provide authorization to expend for subsequent years subject to the direction of the Board of Education”.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|8"/>
+      <num codify:value="38-805">6</num>
+      <heading>Equipment appropriations.</heading>
+      <text>Appropriations are authorized for the payment of compensation for all personal services necessary for the operation of the Department of Food Services and for the acquisition, maintenance, and replacement of equipment for use in that operation.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 8, 1951, 65 Stat. 369, ch. 448, title I, § 6</annotation>
+          <annotation doc="Pub. L. 85-901">Sept. 2, 1958, 72 Stat. 1735, Pub. L. 85-901, § 1</annotation>
+          <annotation doc="Pub. L. 90-640">Oct. 25, 1968, 82 Stat. 1363, Pub. L. 90-640,§ 3</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-805.</annotation>
+          <annotation>1973 Ed., § 31-1405.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|8"/>
+      <num codify:value="38-806">8</num>
+      <heading>National School Lunch Act.</heading>
+      <text>Insofar as the Board shall conduct a school lunch program under the authority of §§ <cite path="§38-801">38-801</cite> to 38-807, it shall be considered a “school” within the meaning of the National School Lunch Act (42 U.S.C. § 1751   et seq.), and all funds to which it may thus become entitled as a participating school under the National School Lunch Act shall be deposited in the General Fund as provided in § <cite path="§38-804">38-804</cite>.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 8, 1951, 65 Stat. 370, ch. 448, title I, § 8</annotation>
+          <annotation doc="D.C. Law 3-70">June 14, 1980, D.C. Law 3-70, § 7(k)(4), 27 DCR 1776</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-806.</annotation>
+          <annotation>1973 Ed., § 31-1407.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|8"/>
+      <num codify:value="38-807">9</num>
+      <heading>Audits of accounts.</heading>
+      <text>It shall be the duty of the Auditor of the District of Columbia to audit at least quarterly the accounts of the Department of Food Services and make reports thereof to the Mayor of the District of Columbia.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 8, 1951, 65 Stat. 370, ch. 448, title I, § 9</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-807.</annotation>
+          <annotation>1973 Ed., § 31-1408.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Office of Auditor abolished: The Office of the Auditor of the District of Columbia was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. Reorganization Order No. 3 of the Board of Commissioners, dated August 28, 1952, and effective September 2, 1952, established, under the direction and control of the Board of Commissioners, a Department of General Administration headed by a Director. The Order transferred to the Director of General Administration all of the functions of the Office of Auditor. Reorganization Order No. 19 established the Internal Audit Office headed by an Internal Audit Officer in the Department of General Administration. The function of the quarterly audit and report to the Commissioner of the accounts of the Department of Food Services was transferred to the Internal Audit Office. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. Reorganization Order Nos. 3 and 19 were revoked by Organization Order No. 3 of the Commissioner of the District of Columbia, dated December 13, 1967. Organization Order No. 3 established within the newly created Department of General Administration, an Internal Audit Office and prescribed the functions thereof. These functions were subsequently transferred to the Director of the Department of Finance and Revenue by Commissioner’s Order No. 69-96, dated March 7, 1969. Part IVB of Organization Order No. 3 and that portion of Commissioner’s Order No. 69-96 pertaining to a transfer of audit functions to the Department of Finance and Revenue were revoked by Organization Order No. 33, dated July 14, 1972. The latter Order established an Office of Municipal Audit and Inspection and prescribed the functions thereof. Organization Order No. 50, dated December 31, 1974, established the Office of Budget and Management Systems, and transferred to that Office the functions of the Municipal Audit Office. The Office of Budget and Management Systems was replaced by Mayor’s Order 79-5, dated January 2, 1979, which Order established the Office of Budget and Revenue Development.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>II</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|8"/>
+      <num codify:value="38-808">201</num>
+      <heading>Distribution of commodities.</heading>
+      <text>The State Education Office of the District of Columbia is authorized: (1) to enter into a contract or contracts from time to time with the United States Department of Agriculture for the distribution to schools and to public and charitable institutions of commodities made available by said Department; and (2) to carry out, under regulations of the said Board, a program or programs of furnishing milk to school children in the District, including the purchase and distribution of milk under agreement with the United States Department of Agriculture; provided, that all moneys collected under such program or programs shall be paid to the Director of the Department of Finance and Revenue of the District of Columbia for deposit into the Treasury of the United States to the credit of the District.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 8, 1951, 65 Stat. 370, ch. 448, title II, § 201</annotation>
+          <annotation doc="D.C. Law 13-176">Oct. 21, 2000, D.C. Law 13-176, § 8(b), 47 DCR 6835</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§38-809">38-809</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-808.</annotation>
+          <annotation>1973 Ed., § 31-1409.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 13-176">D.C. Law 13-176</cite> authorized substitution of State Education Office for Board of Education where appearing in this section.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>References in Text</heading>
+          <annotation>Pursuant to the Office of the Chief Financial Officer’s “Notice of Public Interest” published in the April 18, 1997, issue of the District of Columbia Register ( 44 DCR 2345) the Office of Tax and Revenue assumed all of the duties and functions previously performed by the Department of Finance and Revenue, as set forth in Commissioner’s Order 69-96, dated March 7, 1969. This action was made effective January 22, 1997, nunc pro tunc.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Office of Collector of Taxes abolished: The Office of the Collector of Taxes was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. All functions of the Office of the Collector of Taxes including the functions of all officers, employees, and subordinate agencies were transferred to the Director, Department of General Administration by Reorganization Order No. 3, dated August 28, 1952. Reorganization Order No. 20, dated November 10, 1952, transferred the functions of the Collector of Taxes to the Finance Office. The same Order provided for the Office of the Collector of Taxes headed by a Collector in the Finance Office, and abolished the previously existing Office of the Collector of Taxes. Reorganization Order No. 20 was superseded and replaced by Organization Order No. 121, dated December 12, 1957, which provided that the Finance Office consisting of the Office of the Finance Officer, Property Tax Division, Revenue Division, Treasury Division, Accounting Division, and Data Processing Division would continue under the direction and control of the Director of General Administration, and that the Treasury Division would perform the function of collecting revenues of the District of Columbia and depositing the same with the Treasurer of the United States. Organization Order No. 121 was revoked by Organization Order No. 3, dated December 13, 1967, Part IVC of which prescribed the functions of the Finance Office within a newly established Department of General Administration. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. Functions of the Finance Office as stated in Part IVC of Organization Order No. 3 were transferred to the Director of the Department of Finance and Revenue by Commissioner’s Order No. 69-96, dated March 7, 1969.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|8"/>
+      <num codify:value="38-809">202</num>
+      <heading>Appropriations for distribution of commodities.</heading>
+      <text>Appropriations are hereby authorized to enable the Board of Education to carry out the contracts and programs authorized by § <cite path="§38-808">38-808</cite>.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>Oct. 8, 1951, 65 Stat. 370, ch. 448, title II, § 202</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 31-809.</annotation>
+          <annotation>1973 Ed., § 31-1410.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 17-337" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 17-337" flag="true">
   <num type="law">17-337</num>
   <heading type="short">Prohibition of the Investment of Public Funds in Certain Companies Doing Business with the Government of Iran and Sudan Divestment Conformity Act of 2008</heading>
   <meta>
@@ -12,4 +12,261 @@
       <narrative>Law 17-337, the “Prohibition of the Investment of Public Funds in Certain Companies Doing Business with the Government of Iran and Sudan Divestment Conformity Act of 2008”, was introduced in Council and assigned Bill No. 17-657 which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 18, 2008, and December 16, 2008, respectively. Signed by the Mayor on January 6, 2009, it was assigned Act No. 17-655 and transmitted to both Houses of Congress for its review. D.C. Law 17-337 became effective on March 21, 2009.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVI|B"/>
+    <num codify:value="1-336.01">101</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this part, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Company” means any sole proprietorship, organization, association, corporation, partnership, joint venture, limited partnership, limited liability partnership, limited liability company, or other entity or business association that exists for the purpose of making profit.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Direct holdings” in a company means all securities of the company that are held directly by the public fund or in an account or fund in which the public fund owns all shares or interests.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Government of Iran” means the government of Iran, its instrumentalities, and companies owned or controlled by the government of Iran.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Inactive business activities” means the mere continued holding or renewal of rights to property previously operated for the purpose of generating revenues but not presently deployed for such purpose.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Indirect holdings” in a company means all securities of the company that are held in an account or fund, such as a mutual fund, managed by one or more persons not employed by the public fund, in which the public fund owns shares or interests together with other investors not subject to the provisions of this part.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Iran” means the Islamic Republic of Iran.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Petroleum resources” means petroleum or natural gas.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Public fund” means the assets of the District of Columbia Retirement Board.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Scrutinized business activities” means business activities that have resulted in a company becoming a scrutinized company.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Scrutinized company” means any company that, with actual knowledge, on or after August 5, 1996, has made an investment of $20 million or more in Iran’s petroleum sector which directly or significantly contributes to the enhancement of Iran’s ability to develop the petroleum resources of Iran.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Substantial action specific to Iran” means adopting, publicizing, and implementing a formal plan to cease scrutinized business activities within one year and to refrain from any such new business activities.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-337">Mar. 21, 2009, D.C. Law 17-337, § 101, 56 DCR 939</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal of section 301 of <cite doc="D.C. Law 17-337">D.C. Law 17-337</cite>, see § 7026 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+        <annotation>For temporary (90 day) repeal of section 301 of <cite doc="D.C. Law 17-337">D.C. Law 17-337</cite>, see § 7026 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 301 of <cite doc="D.C. Law 17-337">D.C. Law 17-337</cite> provided that this act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan.</text>
+        <text>Section 7026 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> repealed section 301 of <cite doc="D.C. Law 17-337">D.C. Law 17-337</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVI|B"/>
+    <num codify:value="1-336.02">102</num>
+    <heading>Identification of companies.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 90 days after March 21, 2009, the public fund shall make its best efforts to identify all scrutinized companies in which the public fund has direct or indirect holdings. Such efforts shall include reviewing and relying, as appropriate in the public fund’s judgment, on publicly available information regarding companies that have invested more than $20 million in any given year since August 5, 1996, in Iran’s petroleum energy sector, including information provided by nonprofit organizations, research firms, international organizations, and government entities.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>On or before the 1st meeting of the public fund held 90 days after March 21, 2009, the public fund shall compile a list of all scrutinized companies entitled “Scrutinized Companies With Activities in the Iran Petroleum Energy Sector List”.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The public fund shall update and make publicly available annually the Scrutinized Companies with Activities in the Iran Petroleum Energy Sector List.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-337">Mar. 21, 2009, D.C. Law 17-337, § 102, 56 DCR 939</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-336.03">1-336.03</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVI|B"/>
+    <num codify:value="1-336.03">103</num>
+    <heading>Required actions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For each scrutinized company on the Scrutinized Companies with Activities in the Iran Petroleum Energy Sector List:</text>
+      <para>
+        <num>(1)</num>
+        <para>
+          <num>(A)</num>
+          <para>
+            <num>(i)</num>
+            <text>For each company in which the public fund has direct holdings newly identified under § <cite path="§1-336.02">1-336.02</cite>, the public fund shall send a written notice informing the company of its scrutinized company status and that it may become subject to divestment by the public fund.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The notice shall inform the company of the opportunity to clarify its Iran-related activities and encourage the company, within 90 days, to cease its scrutinized business activities or convert such activities to inactive business activities to avoid qualifying for divestment by the public fund. The notice shall be sent no later than 135 days after the company is placed on the list.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>If, within 90 days after the public fund’s notice to a company pursuant to this paragraph, the company announces by public disclosure substantial action specific to Iran, the public fund may maintain its direct holdings, but the company shall remain on the Scrutinized Companies with Activities in the Iran Petroleum Energy Sector List pending completion of its cessation of scrutinized business activities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>If, after 90 days following the public fund’s 1st notice to a company pursuant to paragraph (1) of this subsection, the company has not announced by public disclosure substantial action specific to Iran, or the public fund determines or becomes aware that the company continues to have scrutinized business activities, the public fund, within 8 months after the expiration of such 90-day period, shall sell, redeem, divest, or withdraw all publicly-traded securities of the company from the public fund’s direct holdings.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>If the public fund determines or becomes aware that a company that ceased scrutinized business activities following engagement pursuant to paragraph (1) of this subsection has resumed such activities, the public fund shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>Send a written notice to the company as required under paragraph (1)(A)(ii) of this subsection;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Add the company to the Scrutinized Companies with Activities in the Iran Petroleum Energy Sector List; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Sell, redeem, divest, or withdraw as may be required by subparagraph (A) of this paragraph.</text>
+          </para>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The public fund shall monitor the scrutinized company that has announced by public disclosure substantial action specific to Iran. If, after one year, the public fund determines or becomes aware that the company has not implemented such substantial action, within 3 months after the expiration of such one-year period, the public fund shall sell, redeem, divest, or withdraw all publicly-traded securities of the company from the public fund’s direct holdings, and the company also shall be immediately reintroduced onto the Scrutinized Companies with Activities in the Iran Petroleum Energy Sector List.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The public fund shall not acquire securities of companies on the Scrutinized Companies with Activities in the Iran Petroleum Energy Sector List.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Notwithstanding the provisions of this part, subsection (a)(2) of this section shall not apply to the public fund’s indirect holdings; provided, that the public fund shall submit letters to the managers of any managed investment funds containing companies on the Scrutinized Companies with Activities in the Iran Petroleum Energy Sector List that they consider removing such companies from the fund or create a similar actively-managed fund having indirect holdings devoid of such companies. If the manager creates a similar fund without such securities or if such funds are created elsewhere, the District of Columbia Retirement Board shall determine within 6 months whether to replace all applicable investments with investments in the similar fund in an expedited time period consistent with prudent investing standards. For the purposes of this section, a private equity fund shall be deemed to be an actively-managed investment fund.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The District of Columbia Retirement Board shall comply with the requirements of this part only to the extent consistent with:</text>
+      <para>
+        <num>(1)</num>
+        <text>Its fiduciary duties under Chapters 7 and 9 of this title [§ <cite path="§1-701">1-701</cite> et seq. and § <cite path="§1-901">1-901</cite> et seq.]; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Section 5 of the Sudan Accountability and Divestment Act of 2007, approved December 31, 2007 (121 Stat. 2516; 50 U.S.C. § 1701 note).</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-337">Mar. 21, 2009, D.C. Law 17-337, § 103, 56 DCR 939</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-336.04">1-336.04</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVI|B"/>
+    <num codify:value="1-336.04">104</num>
+    <heading>Reporting.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The public fund shall send a report to each member of the District of Columbia Retirement Board, the Council, and the Mayor that includes the Scrutinized Companies with Activities in the Iran Petroleum Energy Sector List within 30 days after the list is created. The report shall be made available to the public.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Annually thereafter, the public fund shall send a publicly available report to the Council and the Mayor that includes:</text>
+      <para>
+        <num>(1)</num>
+        <text>All investments sold, redeemed, divested, or withdrawn in compliance with § <cite path="§1-336.03">1-336.03</cite>(a);</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All prohibited investments under § <cite path="§1-336.03">1-336.03</cite>(b);</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any progress made under § <cite path="§1-336.03">1-336.03</cite>(e);</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A list of all publicly-traded securities held directly by the public fund; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A list of any investments held by the public fund that would have been divested under § <cite path="§1-336.03">1-336.03</cite>(a), but for § <cite path="§1-336.03">1-336.03</cite>(d), including a statement of the reasons why a sale or transfer of the investments is inconsistent with the fiduciary responsibilities of the District of Columbia Retirement Board, and the circumstances under which the District of Columbia Retirement Board anticipates that it will sell, transfer, or reduce the investments.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-337">Mar. 21, 2009, D.C. Law 17-337, § 104, 56 DCR 939</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVI|B"/>
+    <num codify:value="1-336.05">105</num>
+    <heading>Liability.</heading>
+    <text>Present, future, and former District of Columbia Retirement Board members and employees shall be indemnified by the District of Columbia from all claims and liability, including court costs and attorney’s fees, because of any action taken pursuant to this part.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-337">Mar. 21, 2009, D.C. Law 17-337, § 105, 56 DCR 939</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVI|B"/>
+    <num codify:value="1-336.06">106</num>
+    <heading>Sunset.</heading>
+    <text>This part shall expire upon the occurrence of any of the following:</text>
+    <para>
+      <num>(1)</num>
+      <text>The Congress or President of the United States unambiguously states, by means including legislation, executive order, or written certification from the President to Congress, that the government of Iran has ceased to pursue the capabilities to develop nuclear weapons and support international terrorism;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The United States revokes all sanctions imposed against the government of Iran; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Congress or President of the United States affirmatively and unambiguously declares, by means including legislation, executive order, or written certification from the President to Congress, that mandatory divestment of the type provided for in this part interferes with the conduct of United States foreign policy.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-337">Mar. 21, 2009, D.C. Law 17-337, § 106, 56 DCR 939</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition of sections, see §§ 1042 to 1053 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012,  59 DCR 7764).</annotation>
+        <annotation>For temporary (90 day) addition of sections, see §§ 1042 to 1053 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012,  59 DCR 9290).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

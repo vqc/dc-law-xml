@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 13-307">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 13-307">
   <num type="law">13-307</num>
   <heading type="short">Taxicab Drivers Protection Act of 2000</heading>
   <meta>
@@ -12,4 +12,82 @@
       <narrative>Law 13-307, the “Taxicab Drivers Protection Act of 2000”, was introduced in Council and assigned Bill No. 13-638, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on November 8, 2000, and December 5, 2000, respectively. Signed by the Mayor on December 21, 2000, it was assigned Act No. 13-515 and transmitted to both Houses of Congress for its review. D.C. Law 13-307 became effective on June 9, 2001.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|37A"/>
+    <num codify:value="22-3751">2</num>
+    <heading>Enhanced penalties for offenses committed against taxicab drivers.</heading>
+    <text>Any person who commits an offense listed in § <cite path="§22-3752">22-3752</cite> against a taxicab driver who, at the time of the offense, has a current license to operate a taxicab in the District of Columbia or any United States jurisdiction and is operating a taxicab in the District of Columbia may be punished by a fine of up to one and 1  /2   times the maximum fine otherwise authorized for the offense and may be imprisoned for a term of up to one and 1  /2   times the maximum term of imprisonment otherwise authorized for the offense, or both.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-307">June 9, 2001, D.C. Law 13-307, § 2, 48 DCR 600</annotation>
+        <annotation doc="D.C. Law 17-206">July 23, 2008, D.C. Law 17-206, § 2(a), 55 DCR 5168</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-3752">22-3752</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-206">D.C. Law 17-206</cite>, in the section name line, inserted “for offenses committed against taxicab drivers”; and substituted “operating” for “lawfully operating”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|37A"/>
+    <num codify:value="22-3751.01">2a</num>
+    <heading>Enhanced penalties for offenses committed against transit operators and Metrorail station managers.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any person who commits an offense enumerated in § <cite path="§22-3752">22-3752</cite> against a transit operator, who, at the time of the offense, is authorized to operate and is operating a mass transit vehicle in the District of Columbia, or against Metrorail station manager while on duty in the District of Columbia, may be punished by a fine of up to one and 1/2 times the maximum fine otherwise authorized for the offense and may be imprisoned for a term of up to one and 1/2 times the maximum term of imprisonment otherwise authorized by the offense, or both.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>For the purposes of this section, the term:</text>
+      <para>
+        <num>(1)</num>
+        <text>“Mass transit vehicle” means any publicly or privately owned or operated commercial vehicle for the carriage of 6 or more passengers, including any Metrobus, Metrorail, Metroaccess, or DC Circulator vehicle or other bus, trolley, or van operating within the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Metrorail station manager” means any Washington Metropolitan Area Transit Authority employee who is assigned to supervise a Metrorail station from a kiosk at that station.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Transit operator” means a person who is licensed to operate a mass transit vehicle.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-307">June 9, 2001, D.C. Law 13-307, § 2a</annotation>
+        <annotation doc="D.C. Law 17-206">as added July 23, 2008, D.C. Law 17-206, § 2(b), 55 DCR 5168</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-3752">22-3752</cite> and § <cite path="§35-261">35-261</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|37A"/>
+    <num codify:value="22-3752">3</num>
+    <heading>Enumerated offenses.</heading>
+    <text>The provisions of §§ <cite path="§22-3751">22-3751</cite> and <cite path="§22-3751.01">22-3751.01</cite> shall apply to the following offenses or any attempt or conspiracy to commit any of the following offenses: murder, manslaughter, aggravated assault, assault with a dangerous weapon, mayhem or maliciously disfiguring, threats to do bodily harm, first degree sexual abuse, second degree sexual abuse, third degree sexual abuse, fourth degree sexual abuse, misdemeanor sexual abuse, robbery, carjacking, and kidnapping.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-307">June 9, 2001, D.C. Law 13-307, § 3, 48 DCR 600</annotation>
+        <annotation doc="D.C. Law 17-206">July 23, 2008, D.C. Law 17-206, § 2(c), 55 DCR 5168</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-3751">22-3751</cite> and § <cite path="§22-3751.01">22-3751.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-206">D.C. Law 17-206</cite> rewrote the section which had read as follows: “The provisions of § <cite path="§22-3751">22-3751</cite> shall apply to the following offenses: taking property from another by force or by threat of force, murder, attempted murder, first degree sexual abuse, second degree sexual abuse, attempted rape, carjacking, kidnapping, robbery, attempted robbery, assault with a dangerous weapon, and aggravated assault.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

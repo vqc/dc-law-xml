@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 19-190">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 19-190">
   <num type="law">19-190</num>
   <heading type="short">Block Party Act of 2012</heading>
   <meta>
@@ -12,4 +12,144 @@
       <narrative>Law 19-190, the “Block Party Act of 2012,” was introduced in Council and assigned Bill No. 19-527. The Bill was adopted on first and second readings on June 26, 2012, and July 10, 2012, respectively. Signed by the Mayor on August 9, 2012, it was assigned Act No. 19-445 and transmitted to Congress for its review. D.C. Law 19-190 became effective on Oct. 23, 2012.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|6A"/>
+    <num codify:value="9-631">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Block party” means an activity of a recreational or civic nature sponsored by the residents of a neighborhood, for which the residents seek to close a block of a street in their neighborhood and for which there is no admission or entrance fee.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Department” means the District Department of Transportation.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-190">Oct. 23, 2012, D.C. Law 19-190, § 2, 59 DCR 10163</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§47-2862">47-2862</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|6A"/>
+    <num codify:value="9-632">3</num>
+    <heading>Block party application and requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Department shall create a block party application and make it available for in-person pickup and through a Transportation Online Permitting System.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>A District resident, 21 years or older, may submit a block party application and request a street closing for the purpose of holding a block party. The street closure shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Not be greater than one block;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Not last longer than 12 hours; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>End by 10 p.m.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All activity for a block party shall conclude by 10 p.m.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The block party application shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be completed on the form provided by the Department;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Identify the street name and cross streets of the block to be closed; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Include a list of at least 51% of the residents, owners, or businesses abutting the section of the street requested to be closed who have consented to the block party.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The applicant shall submit a completed block party application to the Department either online or in person.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-190">Oct. 23, 2012, D.C. Law 19-190, § 3, 59 DCR 10163</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|6A"/>
+    <num codify:value="9-633">4</num>
+    <heading>Duties of the Department.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Department shall be responsible for approving block party applications. No fee shall be charged for the application.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Upon receiving a completed application, the Department shall submit a copy to the Metropolitan Police Department, the Fire and Emergency Medical Services Department, the Homeland Security and Emergency Management Agency, and the Washington Metropolitan Area Transit Authority for comments.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Upon approval of the application, the Department shall prepare the applicant’s permit and any parking signs. The approved block party permit shall be made available to the applicant electronically.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-190">Oct. 23, 2012, D.C. Law 19-190, § 4, 59 DCR 10163</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|6A"/>
+    <num codify:value="9-634">5</num>
+    <heading>Criteria for review.</heading>
+    <para>
+      <num>(a)</num>
+      <text>It is the policy of the District to approve block parties.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An application for a block party shall not be denied unless:</text>
+      <para>
+        <num>(1)</num>
+        <text>It fails to meet the requirements of this chapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The event would create a significant public safety concern;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The event would create a significant traffic problem; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>There is substantial neighborhood opposition to the block party.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-190">Oct. 23, 2012, D.C. Law 19-190, § 5, 59 DCR 10163</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

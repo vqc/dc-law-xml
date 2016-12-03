@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 91-143">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 91-143">
   <num>91-143</num>
   <meta>
     <effective>1969-12-09</effective>
@@ -7,4 +7,663 @@
       <law session="91" lawId="143"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <num codify:value="9-1111.01">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter:</text>
+    <para>
+      <num>(1)</num>
+      <text>The term “adopted regional system” means that system described in the Transit Authority’s report entitled “Adopted Regional Rapid Rail Transit Plan and Program, March 1, 1968 (revised February 7, 1969),” as that system may hereafter be altered, revised, or amended in accordance with the Compact.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The term “Compact” means the Washington Metropolitan Area Transit Authority Compact (80 Stat. 1324, Public Law 89-774).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The term “Transit Authority” means the Washington Metropolitan Area Transit Authority established under Article III of the Compact.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The term “Agreement” means the Initial Bond Repayment Participation Agreement executed by the Transit Authority and the United States Department of Transportation on September 18, 1979, and amendments thereto, including the Supplemental Agreement described in § 302 of the Initial Bond Repayment Participation Agreement.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The term “local participating governments” means those governments which comprise the Washington Metropolitan Transit Zone, as defined by paragraph 3 of Article III of Title III of the Washington Metropolitan Area Transit Authority Compact.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, 83 Stat. 320, Pub. L. 91-143, § 2</annotation>
+        <annotation doc="Pub. L. 96-184">Jan. 3, 1980, 93 Stat. 1323, Pub. L. 96-184, § 3(a)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Blind and physically disabled persons, equal access to public conveyances and accommodations, see § <cite path="§7-1002">7-1002</cite>.</annotation>
+        <annotation>Persons displaced by programs of Washington Metropolitan Area Transit Authority, eligibility for relocation payments and assistance, see § <cite path="§6-333.01">6-333.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§9-1105.02">9-1105.02</cite> and § <cite path="§9-1111.15">9-1111.15</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2451.</annotation>
+        <annotation>1973 Ed., § 1-1441.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Appropriations authorized: Public Law 104-194, 110 Stat. 2362, the District of Columbia Appropriations Act, 1997, provided for construction projects an increase of $46,923,000 (including an increase of $34,000,000 for the highway trust fund, reallocations and rescissions for a net rescission of $120,496,000 from local funds appropriated under this heading in prior fiscal years and an additional $133,419,000 in Federal funds), as authorized by §§ <cite path="§34-2405.01">34-2405.01</cite> through <cite path="§34-2405.08">34-2405.08</cite>; §§ <cite path="§34-2413.08">34-2413.08</cite>, <cite path="§34-2413.10">34-2413.10</cite> and <cite path="§34-2304">34-2304</cite>; and §§ <cite path="§10-619">10-619</cite> and <cite path="§47-3404">47-3404</cite>; including acquisition of sites, preparation of plans and specifications, conducting preliminary surveys, erection of structures, including building improvement and alteration and treatment of grounds, to remain available until expended: Provided, That funds for use of each capital project implementing agency shall be managed and controlled in accordance with all procedures and limitations established under the Financial Management System: Provided further, That all funds provided by this appropriation title shall be available only for the specific projects and purposes intended: Provided further, That notwithstanding the foregoing, all authorizations for capital outlay projects, except those projects covered by the first sentence of section 23(a) of the Federal-Aid Highway Act of 1968, approved August 23, 1968 (82 Stat. 827; Public Law 90-495;  D.C. Code, sec. 9-107.01, note), for which funds are provided by this appropriation title, shall expire on September 30, 1998, except authorizations for projects as to which funds have been obligated in whole or in part prior to September 30, 1998: Provided further, That upon expiration of any such project authorization the funds provided herein for the project shall lapse.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <num codify:value="9-1111.02">3</num>
+    <heading>Federal contributions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>To provide the federal share of the cost of the adopted regional system, which system supersedes that heretofore authorized by the Congress in subchapter III of this chapter, the Secretary of Transportation is authorized to make annual contributions to the Transit Authority in amounts sufficient to finance in part the cost of the adopted regional system; except that the aggregate amount of federal contributions for the adopted regional system, including the $100,000,000 authorized to be appropriated by § <cite path="§9-1105.02">9-1105.02</cite>(1), shall not exceed the lower amount of $1,147,044,000 or two thirds of the net project cost of the adopted regional system.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Federal contributions for the adopted regional system shall be subject to the following limitations and conditions:</text>
+      <para>
+        <num>(1)</num>
+        <text>The work for which contributions are authorized shall be subject to the provisions of the Compact and shall be carried out substantially in accordance with the plans and schedules for the adopted regional system; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The aggregate amount of such federal contributions on or prior to the last day of any given fiscal year shall be matched by the local participating governments by payment of the local share of capital contributions required for the period ending with the last day of such year in a total amount not less than 50 per centum of the amount of such federal contributions.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>There is authorized to be appropriated to the Secretary of Transportation, without fiscal year limitation, an amount not to exceed $1,047,044,000 to carry out the purposes of this section. The appropriations authorized by this subsection shall be in addition to the appropriations authorized by § <cite path="§9-1105.02">9-1105.02</cite>(1).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, 83 Stat. 320, Pub. L. 91-143, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§9-1111.10">9-1111.10</cite> and § <cite path="§9-1111.11">9-1111.11</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2452.</annotation>
+        <annotation>1973 Ed., § 1-1442.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Appropriations authorized: Public Law 104-194, 110 Stat. 2362, the District of Columbia Appropriations Act, 1997, provided for construction projects an increase of $46,923,000 (including an increase of $34,000,000 for the highway trust fund, reallocations and rescissions for a net rescission of $120,496,000 from local funds appropriated under this heading in prior fiscal years and an additional $133,419,000 in Federal funds), as authorized by §§ <cite path="§34-2405.01">34-2405.01</cite> through <cite path="§34-2405.08">34-2405.08</cite>; §§ <cite path="§34-2413.08">34-2413.08</cite>, <cite path="§34-2413.10">34-2413.10</cite> and <cite path="§34-2304">34-2304</cite>; and §§ <cite path="§10-619">10-619</cite> and <cite path="§47-3404">47-3404</cite>; including acquisition of sites, preparation of plans and specifications, conducting preliminary surveys, erection of structures, including building improvement and alteration and treatment of grounds, to remain available until expended: Provided, That funds for use of each capital project implementing agency shall be managed and controlled in accordance with all procedures and limitations established under the Financial Management System: Provided further, That all funds provided by this appropriation title shall be available only for the specific projects and purposes intended: Provided further, That notwithstanding the foregoing, all authorizations for capital outlay projects, except those projects covered by the first sentence of section 23(a) of the Federal-Aid Highway Act of 1968, approved August 23, 1968 (82 Stat. 827; Public Law 90-495;  D.C. Code, sec. 9-107.01, note), for which funds are provided by this appropriation title, shall expire on September 30, 1998, except authorizations for projects as to which funds have been obligated in whole or in part prior to September 30, 1998: Provided further, That upon expiration of any such project authorization the funds provided herein for the project shall lapse.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <num codify:value="9-1111.03">4</num>
+    <heading>District of Columbia contributions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>To provide the District of Columbia share of the cost of the adopted regional system, the Mayor of the District of Columbia is authorized to contract with the Transit Authority to make annual capital contributions. To carry out the purposes of this section there is authorized to be appropriated out of the General Fund of the District of Columbia, an amount, without fiscal year limitation, not to exceed such sums as may be necessary.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The appropriations authorized by subsection (a) of this section shall be in addition to the appropriations authorized on behalf of the District of Columbia by § <cite path="§9-1105.02">9-1105.02</cite>(2).</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor of the District of Columbia is further authorized to contract with the Transit Authority and to pay in accordance with the terms thereof for the service to be provided to the District of Columbia by the adopted regional system.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, 83 Stat. 321, Pub. L. 91-143, § 4</annotation>
+        <annotation doc="Pub. L. 92-349">July 13, 1972, 86 Stat. 466, Pub. L. 92-349, title II, § 201(a)</annotation>
+        <annotation doc="Pub. L. 96-57">Aug. 14, 1979, 93 Stat. 388, Pub. L. 96-57</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§9-1111.15">9-1111.15</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2454.</annotation>
+        <annotation>1973 Ed., § 1-1443.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Appropriations authorized: Public Law 104-194, 110 Stat. 2362, the District of Columbia Appropriations Act, 1997, provided for construction projects an increase of $46,923,000 (including an increase of $34,000,000 for the highway trust fund, reallocations and rescissions for a net rescission of $120,496,000 from local funds appropriated under this heading in prior fiscal years and an additional $133,419,000 in Federal funds), as authorized by §§ <cite path="§34-2405.01">34-2405.01</cite> through <cite path="§34-2405.08">34-2405.08</cite>; §§ <cite path="§34-2413.08">34-2413.08</cite>, <cite path="§34-2413.10">34-2413.10</cite> and <cite path="§34-2304">34-2304</cite>; and §§ <cite path="§10-619">10-619</cite> and <cite path="§47-3404">47-3404</cite>; including acquisition of sites, preparation of plans and specifications, conducting preliminary surveys, erection of structures, including building improvement and alteration and treatment of grounds, to remain available until expended: Provided, That funds for use of each capital project implementing agency shall be managed and controlled in accordance with all procedures and limitations established under the Financial Management System: Provided further, That all funds provided by this appropriation title shall be available only for the specific projects and purposes intended: Provided further, That notwithstanding the foregoing, all authorizations for capital outlay projects, except those projects covered by the first sentence of section 23(a) of the Federal-Aid Highway Act of 1968, approved August 23, 1968 (82 Stat. 827; Public Law 90-495;  D.C. Code, sec. 9-107.01, note), for which funds are provided by this appropriation title, shall expire on September 30, 1998, except authorizations for projects as to which funds have been obligated in whole or in part prior to September 30, 1998: Provided further, That upon expiration of any such project authorization the funds provided herein for the project shall lapse.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <num codify:value="9-1111.04">5</num>
+    <heading>Approval for construction required.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No portion of the adopted regional system shall be constructed within the United States Capitol grounds except upon approval of the Commission for Extension of the United States Capitol.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Construction of the adopted regional system in, on, under, or over public space in the District of Columbia under the jurisdiction of the Mayor of the District of Columbia shall, in the interest of public convenience and safety, be performed in accordance with schedules agreed upon between the Transit Authority and the Mayor, to the end that such construction work will be coordinated with other construction work in such public space; and the Mayor shall so exercise his jurisdiction and control over such public space as to facilitate the Transit Authority’s use and occupation thereof for construction of the adopted regional system.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, 83 Stat. 322, Pub. L. 91-143, § 5</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2456.</annotation>
+        <annotation>1973 Ed., § 1-1444.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) Metro Matters funding requirement provisions, see §§ 7012, 7013 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) Metro Matters funding requirement provisions, see §§ 7012, 7013 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle B of Law 15-205: Section 7011 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle B of the act may be cited as the Metro Matters Funding Requirements Act of 2004.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Sections 7012 and 7013 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided:</text>
+        <text>“Sec. 7012. The Council authorizes the Mayor to conclude a funding agreement with the Washington Metropolitan Area Transit Authority (‘WMATA’) by January 1, 2005, for the purposes of funding capital projects identified in Metro Matters, which is a public outreach campaign launched October 23, 2003, to raise awareness about Metro’s financial crisis and urgent need for $1.5 billion in capital funding.</text>
+        <text>“Sec. 7012. By October 1, 2004, WMATA shall have no fewer than 78 rail cars assigned to the Branch Avenue portion of the Green line during morning and afternoon peak periods.”</text>
+        <text>Appropriations authorized: Public Law 104-194, 110 Stat. 2362, the District of Columbia Appropriations Act, 1997, provided for construction projects an increase of $46,923,000 (including an increase of $34,000,000 for the highway trust fund, reallocations and rescissions for a net rescission of $120,496,000 from local funds appropriated under this heading in prior fiscal years and an additional $133,419,000 in Federal funds), as authorized by §§ <cite path="§34-2405.01">34-2405.01</cite> through <cite path="§34-2405.08">34-2405.08</cite>; §§ <cite path="§34-2413.08">34-2413.08</cite>, <cite path="§34-2413.10">34-2413.10</cite> and <cite path="§34-2304">34-2304</cite>; and §§ <cite path="§10-619">10-619</cite> and <cite path="§47-3404">47-3404</cite>; including acquisition of sites, preparation of plans and specifications, conducting preliminary surveys, erection of structures, including building improvement and alteration and treatment of grounds, to remain available until expended: Provided, That funds for use of each capital project implementing agency shall be managed and controlled in accordance with all procedures and limitations established under the Financial Management System: Provided further, That all funds provided by this appropriation title shall be available only for the specific projects and purposes intended: Provided further, That notwithstanding the foregoing, all authorizations for capital outlay projects, except those projects covered by the first sentence of section 23(a) of the Federal-Aid Highway Act of 1968, approved August 23, 1968 (82 Stat. 827; Public Law 90-495;  D.C. Code, sec. 9-107.01, note), for which funds are provided by this appropriation title, shall expire on September 30, 1998, except authorizations for projects as to which funds have been obligated in whole or in part prior to September 30, 1998: Provided further, That upon expiration of any such project authorization the funds provided herein for the project shall lapse.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <num codify:value="9-1111.05">6</num>
+    <heading>Disposal of excess revenues.</heading>
+    <text>To the extent that revenues or other receipts derived from or in connection with the ownership or operation of the adopted regional system (other than service payments under transit service agreements executed between the Transit Authority and local political subdivisions, the proceeds of bonds or other evidences of indebtedness issued by the Transit Authority, and capital contributions received by the Transit Authority) are excess to the amounts necessary to make all payments, including debt service, operating and maintenance expenses, and deposits in reserves required or permitted by the terms of any contract of the Transit Authority with or for the benefit of holders of its bonds, notes, or other evidences of indebtedness issued for any purpose relating to the adopted regional system, other than extensions thereof, two thirds of such excess revenues shall, at the end of each fiscal year, beginning with the fiscal year in which the adopted regional system (exclusive of extensions) is first put into substantially full revenue service, be paid into the Treasury of the United States as miscellaneous receipts.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, 83 Stat. 322, Pub. L. 91-143, § 6</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2457.</annotation>
+        <annotation>1973 Ed., § 1-1445.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) Anacostia Corridor Demonstration Project Funding provisions, see § 7002 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) Anacostia Corridor Demonstration Project Funding provisions, see § 7002 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle A of Law 15-205: Section 7001 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle A of the act may be cited as the Anacostia Corridor Demonstration Project Funding Act of 2004.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 7002 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided: “The Council directs the Washington Metropolitan Area Transit Authority (‘WMATA’) to deposit into a separate account for the funding of the Anacostia Corridor Demonstration Project all presently undedicated funds from the following District accounts:</text>
+        <text>“(1) District of Columbia Statement of Accounts with WMATA Schedule A: Principal and Interest Statement; and</text>
+        <text>“(2) WMATA/District of Columbia Local Funding Agreement Escrow Account.”</text>
+        <text>Appropriations authorized: Public Law 104-194, 110 Stat. 2362, the District of Columbia Appropriations Act, 1997, provided for construction projects an increase of $46,923,000 (including an increase of $34,000,000 for the highway trust fund, reallocations and rescissions for a net rescission of $120,496,000 from local funds appropriated under this heading in prior fiscal years and an additional $133,419,000 in Federal funds), as authorized by §§ <cite path="§34-2405.01">34-2405.01</cite> through <cite path="§34-2405.08">34-2405.08</cite>; §§ <cite path="§34-2413.08">34-2413.08</cite>, <cite path="§34-2413.10">34-2413.10</cite> and <cite path="§34-2304">34-2304</cite>; and §§ <cite path="§10-619">10-619</cite> and <cite path="§47-3404">47-3404</cite>; including acquisition of sites, preparation of plans and specifications, conducting preliminary surveys, erection of structures, including building improvement and alteration and treatment of grounds, to remain available until expended: Provided, That funds for use of each capital project implementing agency shall be managed and controlled in accordance with all procedures and limitations established under the Financial Management System: Provided further, That all funds provided by this appropriation title shall be available only for the specific projects and purposes intended: Provided further, That notwithstanding the foregoing, all authorizations for capital outlay projects, except those projects covered by the first sentence of section 23(a) of the Federal-Aid Highway Act of 1968, approved August 23, 1968 (82 Stat. 827; Public Law 90-495;  D.C. Code, sec. 9-107.01, note), for which funds are provided by this appropriation title, shall expire on September 30, 1998, except authorizations for projects as to which funds have been obligated in whole or in part prior to September 30, 1998: Provided further, That upon expiration of any such project authorization the funds provided herein for the project shall lapse.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <num codify:value="9-1111.06">9</num>
+    <heading>Guarantee of obligations.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Secretary of Transportation is authorized to guarantee, and to enter into commitments to guarantee, upon such terms and conditions as he may prescribe, payment of principal of and interest on bonds and other evidences of indebtedness (including short-term notes) issued with the approval of the Secretary of the Treasury by the Transit Authority under the Compact. No such guarantee or commitment to guarantee shall be made unless the Secretary of Transportation determines and certifies that:</text>
+        <para>
+          <num>(A)</num>
+          <text>The obligation to be guaranteed represents an acceptable financial risk to the United States and the prospective revenues of the Transit Authority furnish reasonable assurance that timely payments of interest on such obligation will be made;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Transit Authority has entered into an agreement with the Secretary of Transportation providing for reasonable and prudent action by the Transit Authority respecting its financial condition if at any time the Secretary, in his discretion, determines that such action would be necessary to protect the interest of the United States;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Unless the obligation is a short-term note (as determined by the Secretary), it will be sold through a process of competitive bidding as prescribed by the Secretary of Transportation; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The rate of interest payable with respect to such obligation is reasonable in light of prevailing market yields.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notwithstanding subparagraph (C) of paragraph (1) of this subsection, the Secretary of Transportation may guarantee an obligation under this section sold through a process of negotiation if he makes a determination that prevailing market conditions would result in a higher net interest cost or would otherwise increase the cost of issuing the obligation if the obligation was sold through the competitive bidding process. The Secretary’s determination shall be in writing and shall contain a detailed explanation of the reasons therefor.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any guarantee of obligations made by the Secretary of Transportation under this section shall be conclusive evidence of the eligibility of the obligations for such guarantee, and the validity of any guarantee so made shall be incontestable, except for fraud or material misrepresentation, in the hands of a holder of the guaranteed obligation.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The aggregate principal amount of obligations which may be guaranteed under this section shall not exceed $1,200,000,000; except that:</text>
+      <para>
+        <num>(1)</num>
+        <text>No obligation may be guaranteed under this section if, taking into account the principal amount of that obligation, the aggregate amount of principal of outstanding obligations guaranteed under this section exceeds $900,000,000 unless the local participating governments:</text>
+        <para>
+          <num>(A)</num>
+          <text>Make, in accordance with agreements entered into with the Transit Authority, capital contributions to the Transit Authority for the adopted regional system in a total amount not less than 50 per centum of the amount by which the principal of such obligation causes such aggregate amount of principal to exceed $900,000,000; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Have entered into enforceable commitments with the Transit Authority to make such contributions by the end of the fiscal year in which such obligation is issued; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Obligations eligible for guarantees under this section which are issued solely for the purpose of refunding existing obligations previously guaranteed under this section may be guaranteed without regard to the $1,200,000,000 limitation.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The interest on any obligation of the Transit Authority guaranteed by the Secretary under the provisions of this section shall be included in gross income for the purposes of Chapter 1 of the Internal Revenue Code of 1954.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, Pub. L. 91-143, § 9</annotation>
+        <annotation doc="Pub. L. 92-349">July 13, 1972, 86 Stat. 464, Pub. L. 92-349, title I, § 101</annotation>
+        <annotation doc="Pub. L. 96-184">Jan. 3, 1980, 93 Stat. 1323, Pub. L. 96-184, § 3(b)</annotation>
+        <annotation doc="D.C. Law 13-91">Apr. 12, 2000, D.C. Law 13-91, § 129, 47 DCR 520</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§9-1111.08">9-1111.08</cite>, § <cite path="§9-1111.09">9-1111.09</cite>, and § <cite path="§9-1111.12">9-1111.12</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2458.</annotation>
+        <annotation>1973 Ed., § 1-1446.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite>, in subpar. (a)(1)(A), deleted “(including payments under § <cite path="§1-2459">1-2459</cite>)” preceding “furnish reasonable assurance”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <reason>Repealed</reason>
+    <num codify:value="9-1111.07">10</num>
+    <heading>Periodic payments to Authority.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, Pub. L. 91-143, § 10</annotation>
+        <annotation doc="Pub. L. 92-349">July 13, 1972, 86 Stat. 465, Pub. L. 92-349, title I, § 101</annotation>
+        <annotation doc="Pub. L. 96-184">Jan. 3, 1980, 93 Stat. 1323, Pub. L. 96-184, § 3(c)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2459.</annotation>
+        <annotation>1973 Ed., § 1-1447.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <num codify:value="9-1111.08">11</num>
+    <heading>Authorization of appropriations.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There are authorized to be appropriated to the Secretary of Transportation such amounts as may be necessary to enable him to discharge his responsibilities under guarantees issued by him under § <cite path="§9-1111.06">9-1111.06</cite> and to make the payments to the Transit Authority in accordance with § <cite path="§9-1111.12">9-1111.12</cite>. Amounts appropriated under this section shall be available without fiscal year limitation.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If at any time the moneys available to the Secretary of Transportation are insufficient to enable him to discharge his responsibilities under guarantees issued by him under § <cite path="§9-1111.06">9-1111.06</cite> or to make payments to the Transit Authority in accordance with § <cite path="§9-1111.12">9-1111.12</cite>, he shall issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions, as may be prescribed by the Secretary of the Treasury. Redemption of such notes or obligations shall be made by the Secretary of Transportation from appropriations available under subsection (a) of this section. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury shall purchase any notes or other obligations issued hereunder and for that purpose he is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under the Second Liberty Bond Act and the purposes for which securities may be issued under that Act are extended to include any purchase of such notes or obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, Pub. L. 91-143, § 11</annotation>
+        <annotation doc="Pub. L. 92-349">July 13, 1972, 86 Stat. 465, Pub. L. 92-349, title I, § 101</annotation>
+        <annotation doc="Pub. L. 96-184">Jan. 3, 1980, 93 Stat. 1323, Pub. L. 96-184, § 3(d)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2460.</annotation>
+        <annotation>1973 Ed., § 1-1448.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of §§ 7062 and 7063 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, see § 2 of Metro Bus Funding Requirement Temporary Amendment Act of 2006 (<cite doc="D.C. Law 16-196">D.C. Law 16-196</cite>, March 2, 2007, law notification  54 DCR 2494).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) Metrorail and Metro Bus provisions, see §§ 7022 to 7062 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) amendment of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, §§ 7062, 7063, see § 2 of Metro Bus Funding Requirement Emergency Amendment Act of 2006 (D.C. Act 16-448, July 21, 2006,  53 DCR 6489).</annotation>
+        <annotation>For temporary (90 day) amendment of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, §§ 7062, 7063, see § 2 of Metro Bus Funding Requirement Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-519, October 27, 2006,  53 DCR 9113).</annotation>
+        <annotation>For temporary (90 day) amendment of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, §§ 7062 and 7063, see § 2 of Metro Bus Funding Requirements Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-4, January 16, 2007,  54 DCR 1445).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <text>Short title of subtitle C of Law 15-205: Section 7021 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle C of the act may be cited as the Metrorail Late-Night Funding Requirement Act of 2004.</text>
+        <text>Short title of subtitle D of Law 15-205: Section 7031 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle D of the act may be cited as the Downtown Circulator Bus Service Funding Act of 2004.</text>
+        <text>Short title of subtitle E of Law 15-205: Section 7041 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle E of the act may be cited as the Cardozo Pre-Apprenticeship Program Act of 2004.</text>
+        <text>Short title of subtitle F of Law 15-205: Section 7051 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle F of the act may be cited as the Tourists Take Metro to DC Neighborhoods Act of 2004.</text>
+        <text>Short title of subtitle G of Law 15-205: Section 7061 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle G of the act may be cited as the Metro Bus Funding Requirement Act of 2004.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“The Second Liberty Bond Act,” referred to in the fourth sentence of subsection (b) of this section, is the Act of September 24, 1917, 40 Stat. 288, ch. 56.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Metrorail Funding: Section 7022 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided:</text>
+        <text>“(a) The Council authorizes the use of $486,000 from any WMATA fare increase implemented after April 30, 2004, to be made available to meet the District’s contribution to funding the cost of operating the Metro system from 2:00 a.m. to 3:00 a.m. on Saturday and Sunday mornings, beginning January 1, 2005.</text>
+        <text>“(b) No District funds shall be made available for the service described in subsection (a) of this section unless the service is made a regional service and is funded pursuant to the Metrorail Subsidy Allocation Formula.”</text>
+        <text>Downtown Circulator Bus Service: Section 7032 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided: “The Council authorizes the use of $200,000 from any WMATA fare increase implemented after April 30, 2004, to be made available for the Downtown Circulator Bus Service, which amount shall be in addition to the $500,000 appropriated in the District of Columbia Appropriations Act, 2005.”</text>
+        <text>Cardozo Pre-Apprenticeship Program: Section 7042 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided: “The Council directs the Washington Metropolitan Area Transit Authority (‘WMATA’) to use $213,925 from any WMATA fare increase implemented after April 30, 2004, to fund the Electro-Mechanical Technology Training Program for the District of Columbia high school students at Cardozo Senior High School’s Transportation and Technology program.”</text>
+        <text>Tourists Take Metro to DC Neighborhoods: Section 7052 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided: “The Council authorizes the Washington Metropolitan Area Transit Authority to make $30,000 of the District’s subsidy appropriated in the District of Columbia Appropriations Act, 2005 available to Cultural Tourism DC for the continuation of a program encouraging tourists to use Metro to go beyond the monuments into the neighborhoods.”</text>
+        <text>Metro Bus Funding: Sections 7062 and 7063 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided:</text>
+        <text>“It is the position of the District government that the Washington Metropolitan Area Transit Authority shall not procure any diesel buses or diesel-electric hybrid buses, with the exception of the Downtown Circulator Bus Service.</text>
+        <text>“Beginning with fiscal year 2006, the Mayor shall not submit a budget for the Washington Metropolitan Area Transit Authority to the Council of the District of Columbia that funds diesel or diesel-electric hybrid buses, except for the Downtown Circulator Bus Service.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <num codify:value="9-1111.09">12</num>
+    <heading>Obligations as lawful investments.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Obligations issued by the Transit Authority which are guaranteed by the Secretary of Transportation under § <cite path="§9-1111.06">9-1111.06</cite> shall be lawful investments, and may be accepted as security for fiduciary, trusts, and public funds, the investment or deposit of which shall be under the authority or control of the United States or of any officer or officers thereof, and shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission to the same extent as securities which are issued by the United States.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any building association, building and loan association, or savings and loan association, incorporated or unincorporated, organized and operating under the laws of the District of Columbia, or any federal savings and loan association, may invest its funds in obligations of the Transit Authority which are guaranteed by the Secretary of Transportation under § <cite path="§9-1111.06">9-1111.06</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, Pub. L. 91-143, § 12</annotation>
+        <annotation doc="Pub. L. 92-349">July 13, 1972, 86 Stat. 466, Pub. L. 92-349, title I, § 101</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2461.</annotation>
+        <annotation>1973 Ed., § 1-1449.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <num codify:value="9-1111.10">13</num>
+    <heading>Appropriation for Arlington Cemetery and Smithsonian transit stations.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Secretary of Transportation shall make payments to the Transit Authority in such amounts as may be requisitioned from time to time by the Transit Authority sufficient, in the aggregate, to finance the cost of designing, constructing, and equipping: (1) a rail rapid transit station partially under Memorial Drive designed to serve the Arlington Cemetery with 2 entrances surfacing adjacent to the sidewalks north and south of Memorial Drive and east of Jefferson Davis Highway; and (2) an additional entrance in the vicinity of the northeast end of the Smithsonian Station surfacing on the Mall south of Adams Drive; except that the aggregate amount of such payments shall not exceed $7,385,000.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>There is authorized to be appropriated to the Secretary of Transportation, without fiscal year limitation, an amount not to exceed $7,385,000 to carry out the purposes of this section. The appropriations authorized in this subsection shall not be subject to the provisions of this subchapter requiring contributions by the local governments and shall be in addition to the appropriations authorized by § <cite path="§9-1111.02">9-1111.02</cite>(c).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, Pub. L. 91-143, § 13</annotation>
+        <annotation doc="Pub. L. 92-517">Oct. 21, 1972, 86 Stat. 1004, Pub. L. 92-517, title VI, § 601</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2462.</annotation>
+        <annotation>1973 Ed., § 1-1450.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <num codify:value="9-1111.11">14</num>
+    <heading>Authorization of additional federal contributions for construction.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Secretary of Transportation is authorized to make grants to the Transit Authority, in addition to the contributions authorized by § <cite path="§9-1111.02">9-1111.02</cite>, for the purpose of financing in part the cost of construction of the adopted regional system.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Federal grants under subsection (a) of this section for the adopted regional system shall be subject to § <cite path="§9-1111.13">9-1111.13</cite> and to the following limitations and conditions:</text>
+      <para>
+        <num>(1)</num>
+        <text>The work for which such grants are authorized shall be subject to the provisions of the Compact and shall be for projects included in the adopted regional system.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The aggregate amount of such federal grants made during any fiscal year shall be matched by the local participating governments by payment of capital contributions for such year in a total amount that is not less than 25 per centum of the amount of such federal grants and shall be provided in cash from sources other than federal funds or revenues from the operation of public mass transportation systems. Any public or private transit system funds so provided shall be solely from undistributed cash surpluses, replacement or depreciation funds or revenues available in cash, or new capital.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Such grants shall be subject to terms and conditions that the Secretary may deem appropriate for constructing the adopted regional system in a cost-effective manner.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>There is authorized to be appropriated to the Secretary of Transportation for the purpose of making grants under subsection (a) of this section an aggregate amount not to exceed $1,700,000,000, except that no appropriation pursuant to this authorization shall be enacted for any fiscal year prior to fiscal year 1982.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Amounts appropriated pursuant to the authorization under subsection (c) of this section:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall remain available until expended, if so provided in appropriation acts; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Shall be in addition to, and not in lieu of, amounts available to the Transit Authority under the Urban Mass Transportation Act of 1964, as amended, and § 103(e)(4) of Title 23, United States Code.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, 83 Stat. 320, Pub. L. 91-143, § 14</annotation>
+        <annotation doc="Pub. L. 96-184">Jan. 3, 1980, 93 Stat. 1320, Pub. L. 96-184, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§9-1111.13">9-1111.13</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2463.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <text>Section 103(e)(4) of Title 23, United States Code, referred to in (d)(2), no longer exists after the substantial revision of § 103 by Pub. L. 105-178, title I, §§ 1106(b), 1212(a)(2)(A), June 9, 1998, 12 Stat. 131, 193.</text>
+        <text>The Urban Mass Transportation Act of 1964,  referred to in (d)(1), is Pub. L. 88-365, 78 Stat. 302, formerly codified as  49 U.S.C. Appx. § 1601 et seq.  For present law, see  49 U.S.C. § 5301 et seq.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <num codify:value="9-1111.12">15</num>
+    <heading>Payment of bonds.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Transit Authority shall maintain a sinking fund to be used for the accumulation of assets for payment of principal on bonds issued by the Transit Authority and guaranteed by the Secretary as provided in § <cite path="§9-1111.06">9-1111.06</cite>. The fund shall be administered in accordance with the provisions of the Compact providing for funds established by the Transit Authority, and moneys in the fund may be invested by the Transit Authority in accordance with the Compact and with the Agreement.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Transit Authority shall use assets of the fund to pay the principal paid or to be paid after October 1, 1979, on bonds issued by the Transit Authority.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <para>
+          <num>(A)</num>
+          <text>Subject to the conditions of the Agreement, the Secretary of Transportation is authorized to make contributions to the Transit Authority, or its fiscal agent, in amounts sufficient to provide for the payment of two thirds of the principal paid or to be paid after June 30, 1979, on bonds issued by the Transit Authority which are guaranteed by the Secretary as provided in § <cite path="§9-1111.06">9-1111.06</cite>.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>There are authorized to be appropriated beginning in fiscal year 1981 such sums as are necessary to carry out the requirements of subparagraph (A) of this paragraph.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Subject to the conditions of the Agreement, the local participating governments shall make payments to the Transit Authority in amounts sufficient to allow the Transit Authority to make contributions to the fund established pursuant to paragraph (1) of this subsection in amounts sufficient to provide for the payment of one third of the principal paid or to be paid after June 30, 1979, on bonds issued by the Transit Authority which are guaranteed by the Secretary as provided in § <cite path="§9-1111.06">9-1111.06</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Transit Authority shall maintain a Bond Interest Fund to be used for the accumulation of assets for the timely payment of interest on bonds issued by the Transit Authority and guaranteed by the Secretary as provided in § <cite path="§9-1111.06">9-1111.06</cite>. The fund shall be administered in accordance with the provisions of the Compact providing for funds established by the Transit Authority, and moneys in the fund may be invested by the Transit Authority in accordance with the Compact and with the Agreement.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>Subject to the conditions of the Agreement, the Secretary of Transportation is authorized to make contributions to the Transit Authority or its fiscal agent, in amounts sufficient to provide for the payment of two thirds of the total amount of interest paid or to be paid after June 30, 1979, on bonds issued by the Transit Authority which are guaranteed by the Secretary as provided in § <cite path="§9-1111.06">9-1111.06</cite>.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>There are authorized to be appropriated beginning in fiscal year 1981 such sums as are necessary to carry out the provisions of subparagraph (A) of this paragraph.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>With respect to interest payments due prior to July 3, 1983, the Secretary of Transportation, if requested by the Transit Authority, may make accelerated interest payments in amounts sufficient to provide for the payment, as any payment becomes due, of not more than an additional 181/3 per centum of the interest due on such bonds at the time of such payment, so long as the total amount of contributions by the Secretary under this subsection does not exceed the amount specified in paragraph (2) of this subsection. Unless otherwise provided in amendments to the Agreement, any accelerated payments made shall bear interest from the date of accelerated payment until liquidation at a rate to be determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding United States marketable obligations which have maturities comparable to the period of time between the time of accelerated payment and the time of liquidation.</text>
+        <text>13</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Subject to the conditions of the Agreement, the local participating governments shall make payments to the Transit Authority in amounts sufficient to allow the Transit Authority to make contributions to the fund established pursuant to paragraph (1) of this subsection in amounts sufficient to provide for the payment of one third of the interest paid or to be paid after June 30, 1979, on bonds issued by the Transit Authority which are guaranteed by the Secretary as provided in § <cite path="§9-1111.06">9-1111.06</cite>.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>If as a result of the retirement of the principal of such bonds (or of any portion of such principal) before maturity the total amount of contributions by the Secretary of Transportation after June 30, 1979, for payment of interest on such bonds is at any time in excess of two thirds of the net present value of the total amount of interest paid or to be paid on such bonds after such date, the Transit Authority shall pay to the Secretary the difference between the total amount contributed by the Secretary and two thirds of the net present value of the total amount of interest paid or to be paid on such bonds after such date.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, 83 Stat. 320, Pub. L. 91-143, § 15</annotation>
+        <annotation doc="Pub. L. 96-184">Jan. 3, 1980, 93 Stat. 1320, Pub. L. 96-184, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§9-1111.08">9-1111.08</cite>, § <cite path="§9-1111.13">9-1111.13</cite>, and § <cite path="§9-1111.15">9-1111.15</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2464.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <num codify:value="9-1111.13">16</num>
+    <heading>Requirement that local participating governments have stable and reliable source of revenue for contributions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Secretary of Transportation shall not make any grant under § <cite path="§9-1111.11">9-1111.11</cite>(a) for the cost of construction of the adopted regional system, until the Secretary has determined that the local participating governments, or signatories (as defined in subparagraph (d) of paragraph 1 of Article I of Title III of the Washington Metropolitan Area Transit Authority Compact) to the Compact, have provided a stable and reliable source of revenue sufficient to meet both:</text>
+      <para>
+        <num>(1)</num>
+        <text>Their payments to the Transit Authority under subsections (a)(4) and (b)(4) of § <cite path="§9-1111.12">9-1111.12</cite>, relating to payment of the principal and interest on bonds issued by the Transit Authority; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>That part of the cost of operating and maintaining the adopted regional system that is in excess of revenues received by the Transit Authority from the operation of the system and any amount to be contributed for operating expenses by the Secretary of Transportation under any other provision of law.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Transit Authority, in consultation with each governmental entity that is a local participating government or signatory to the Compact as referred to in subsection (a) of this section, for the purposes of this subchapter, shall submit a program to the Secretary of Transportation on or before September 30, 1980, showing how each such governmental entity will have in place on or before August 15, 1982, a stable and reliable source of revenue to provide for its contributions:</text>
+      <para>
+        <num>(1)</num>
+        <text>For payments to the Washington Metropolitan Area Transit Authority for the payment of principal and interest on bonds issued by the Transit Authority; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the cost of operating and maintaining the adopted regional system of the Washington Metropolitan Area Transit Authority.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, 83 Stat. 320, Pub. L. 91-143, § 16</annotation>
+        <annotation doc="Pub. L. 96-184">Jan. 3, 1980, 93 Stat. 1320, Pub. L. 96-184, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§9-1111.11">9-1111.11</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2465.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|9|11|VI"/>
+    <num codify:value="9-1111.14">17</num>
+    <heading>Authorization of additional federal contributions for construction.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Secretary of Transportation is authorized to make grants to the Transit Authority, in addition to the contributions authorized by sections 3 and 14, for the purpose of financing in part the cost of construction of the Adopted Regional System.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Federal grants under subsection (a) for the Adopted Regional System shall be subject to the following limitations and conditions:</text>
+      <para>
+        <num>(1)</num>
+        <text>The work for which such grants are authorized shall be subject to the provisions of the Compact and shall be for projects included in the Adopted Regional System.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The aggregate amount of such Federal grants made during any fiscal year shall be matched by the local participating governments by payment of capital contributions of not less than 60 percent of the amount of such Federal grants and shall be provided in cash from sources other than Federal funds or revenues from the operation of public mass transportation systems. Any public or private transit system funds so provided shall be solely from undistributed cash surpluses, replacement or depreciation funds or reserves available in cash, or new capital.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Such grants shall be subject to terms and conditions that the Secretary may deem appropriate for constructing the Adopted Regional System in a cost-effective manner which maximizes the rate at which appropriated funds can be utilized to complete all segments for which funds have been authorized.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In addition to funds authorized under section 14, there is authorized to be appropriated to the Secretary of Transportation for the purpose of making grants to complete the Adopted Regional System as provided in subsection (a) an aggregate amount not to exceed $1,300,000,000 to be available in increments over 8 fiscal years beginning in fiscal year 1992, or until expended.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Amounts appropriated pursuant to the authorization under subsection (c) —</text>
+      <para>
+        <num>(1)</num>
+        <text>shall remain available until expended; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>shall be in addition to, and not in lieu of, amounts available to the Transit Authority under the Urban Mass Transportation Act of 1964, as amended, and section 103(e)(4) of title 23, United States Code.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 9, 1969, Pub. L. 91-143, § 17</annotation>
+        <annotation doc="Pub. L. 101-551">as added Nov. 15. 1990, 104 Stat. 2733, Pub. L. 101-551, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2465.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <text>“Sections 3 and 14”, referred to in (a), and “section 14”, referred to in (c), are section 3 of 83 Stat. 320, Pub. L. 91-143, December 9, 1969, and section 14 of Pub. L. 91-143, as added January 3, 1980, 93 Stat. 1320, Pub. L. 96-184.</text>
+        <text>“Urban Mass Transportation Act of 1964” referred to in (d)(2), is codified at  49 U.S.C. § 5301 et seq.</text>
+        <text>Section 103(e)(4) of Title 23, United States Code referred to in (d)(2) no longer exists after the substantial revision of § 103 by Pub. L. 105-178, Title I, §§ 1106(b), 1212(a)(2)(A), June 9, 1998, 112 Stat. 131, 193.</text>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

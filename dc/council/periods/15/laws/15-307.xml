@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 15-307">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 15-307">
   <num type="law">15-307</num>
   <heading type="short">Department of Motor Vehicles Reform Amendment Act of 2004</heading>
   <meta>
@@ -12,4 +12,360 @@
       <narrative>Law 15-307, the “Department of Motor Vehicles Reform Amendment Act of 2004”, was introduced in Council and assigned Bill No. 15-1011, which was referred to the Committee on Public Works and the Environment. The Bill was adopted on first and second readings on November 9, 2004, and December 7, 2004, respectively. Signed by the Mayor on December 29, 2004, it was assigned Act No. 15-704 and transmitted to both Houses of Congress for its review. D.C. Law 15-307 became effective on April 8, 2005.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|13A"/>
+    <num codify:value="50-1331.01">101</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>(1)</num>
+      <text>“Department” means the Department of Motor Vehicles.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Director” means the Director of the Department of Motor Vehicles.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Flood Vehicle” means a motor vehicle that has been submerged to the point that water entered the passenger or trunk compartments.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Motor Vehicle” means any vehicle propelled by an internal combustion engine, electricity, or steam, including any non-operational vehicle that is being restored or repaired. The term “motor vehicle” shall not include road rollers, farm tractors, vehicles propelled only upon stationary rails or tracks, electric personal assistive mobility devices, as defined by § <cite path="§50-2201.02">50-2201.02</cite>(12), and battery-operated wheelchairs when operated by a person with a disability at speeds not exceeding 10 miles per hour.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Non-repairable Vehicle” means any motor vehicle that is incapable of safe operation for use on roads or highways.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Non-Repairable Vehicle Certificate” means a certificate issued by the Department designating a vehicle as a Non-repairable Vehicle.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Owner” means a person, other than a lessor, who holds legal title to a motor vehicle required to be registered in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Person” means an individual, partnership, corporation, or association.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Rebuilt Salvage Title” means a certificate of title issued by the Department designating a vehicle as a Rebuilt Salvage Vehicle.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Rebuilt Salvage Vehicle” means any motor vehicle previously issued a Salvage Title that has passed safety inspections.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Salvage Title” means a certificate of title issued by the Department designating a motor vehicle as a Salvage Vehicle.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Salvage Vehicle” means a motor vehicle, other than a historic motor vehicle as that term is defined in Chapter 99 of Title 18 of the District of Columbia Municipal Regulations, that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Has been damaged, destroyed, wrecked, or submerged in water (“damaged”) to the extent that the total estimated or actual cost of parts and labor to rebuild or reconstruct the vehicle to its pre-damaged condition and for legal operation on the roads or highways exceeds 75 percent of the retail value of the vehicle prior to such damage, as that value is set forth in a current edition of any nationally recognized compilation of retail values, including automated databases, that has been approved by the Director; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The owner voluntarily designates as a salvage vehicle pursuant to this chapter.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-307">Apr. 8, 2005, D.C. Law 15-307, § 101, 52 DCR 1700</annotation>
+        <annotation doc="D.C. Law 16-279">Mar. 14, 2007, D.C. Law 16-279, § 205(a), 54 DCR 903</annotation>
+        <annotation doc="D.C. Law 16-305">Apr. 24, 2007, D.C. Law 16-305, § 84, 53 DCR 6198</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§50-2201.03">50-2201.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-279">D.C. Law 16-279</cite>, in par. (12), in the introductory language, substituted “means a motor vehicle, other than a historic motor vehicle as that term is defined in Chapter 99 of Title 18 of the District of Columbia Municipal Regulations, that” for “means a motor vehicle that”.</annotation>
+        <annotation><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite>, in par. (4), substituted “person with a disability” for “handicapped person”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|13A"/>
+    <num codify:value="50-1331.02">102</num>
+    <heading>Duty to apply for Salvage Vehicle Title, Non-repairable Vehicle Certificate.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An owner of a Salvage Vehicle shall apply to the Department for a Salvage Title before the vehicle is repaired and within 30 days of the vehicle being damaged.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An owner of a Non-repairable Vehicle shall apply for a Non-repairable Vehicle Certificate before ownership is transferred and within 30 days of the vehicle being damaged.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A lessor of a Salvage Vehicle or Non-repairable vehicle shall apply for a Salvage Title or Non-repairable Vehicle Certificate, whichever is applicable, in the same manner as an owner, as described in subsections (a) and (b) of this section, except that an application shall be made within 30 days of being notified of the vehicle’s damaged status.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>Notwithstanding subsections (a) and (b) of this section, any insurance company that, pursuant to a damage settlement, acquires ownership of a Salvage Vehicle or Non-repairable Vehicle shall apply to the Department for a Salvage Title or Non-repairable Vehicle Certificate, whichever is applicable, within 30 days of the date the title is delivered to the insurance company.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An insurance company that makes a damage settlement for a Salvage Vehicle or Non-repairable Vehicle, but does not acquire ownership of the vehicle, shall, within 30 days of the settlement, notify:</text>
+        <para>
+          <num>(A)</num>
+          <text>The vehicle’s owner or lessor of his or her obligation to apply to the Department for a Salvage Title or Non-repairable Vehicle Certificate, whichever is applicable; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Department, in accordance with procedures established by the Department.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A lessee of a Salvage or Non-repairable Vehicle shall notify the lessor within 30 days of the date the damage occurred and shall not repair the vehicle prior to the issuance of a Salvage Title to the lessor.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>A person acquiring a Salvage or Non-repairable Vehicle for which a Salvage Title or Non-repairable Vehicle Certificate has not been issued shall apply to the Department for the required document prior to any further transfer of the vehicle and within 30 days of acquisition.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-307">Apr. 8, 2005, D.C. Law 15-307, § 102, 52 DCR 1700</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§50-1331.04">50-1331.04</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|13A"/>
+    <num codify:value="50-1331.03">103</num>
+    <heading>Duty to notify lessors, purchasers, Department, of Flood Vehicle Status.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An owner or lessor of a Flood Vehicle transferring ownership of the Flood Vehicle shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Prior to the transfer, give the transferee written notice that the vehicle is a Flood Vehicle; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notify the Department that the vehicle is a Flood Vehicle, in accordance with procedures established by the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A lessee of a vehicle that becomes a Flood Vehicle shall, within 30 days of the damage, give the lessor written notice that the vehicle is a Flood Vehicle.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-307">Apr. 8, 2005, D.C. Law 15-307, § 103, 52 DCR 1700</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|13A"/>
+    <num codify:value="50-1331.04">104</num>
+    <heading>Department authority to designate vehicles salvage, non-repairable, and flood and to include certain information on a title.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Upon application by the owner or lessor, or upon an inspection and determination by the Department that a motor vehicle is a Salvage Vehicle or Non-repairable Vehicle, the Department shall issue a Salvage Title or Non-repairable Vehicle Certificate, whichever is applicable.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Upon notification by the owner or lessor, or upon an inspection and determination by the Department that a motor vehicle is a Flood Vehicle, the Department shall indicate on the vehicle’s title that the vehicle is a Flood Vehicle.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If a title from another jurisdiction indicates that a vehicle is damaged or that its use is restricted in any way, the Director may include this information on any new title issued by the Department for the vehicle, including the jurisdiction previously recording the information.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Upon notification by an insurance company pursuant to § <cite path="§50-1331.02">50-1331.02</cite>(d)(2)(B), or upon notification by the District of Columbia government of the government’s satisfaction of a total loss claim for a vehicle titled in the District of Columbia, the Department may, 10 days after mailing notice to the address on record, revoke the existing title and reissue a salvage or non-repairable vehicle title, as applicable.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-307">Apr. 8, 2005, D.C. Law 15-307, § 104, 52 DCR 1700</annotation>
+        <annotation doc="D.C. Law 16-279">Mar. 14, 2007, D.C. Law 16-279, § 205(b), 54 DCR 903</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-279">D.C. Law 16-279</cite> added subsec. (d).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|13A"/>
+    <num codify:value="50-1331.05">105</num>
+    <heading>Restrictions on use and transfer of Salvage Vehicles.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No Salvage Vehicle may be registered under subchapter I of Chapter 15 of this title.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Ownership of a Salvage Vehicle shall be transferred only through the use of a Salvage Title.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-307">Apr. 8, 2005, D.C. Law 15-307, § 105, 52 DCR 1700</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|13A"/>
+    <num codify:value="50-1331.06">106</num>
+    <heading>Titling Rebuilt Salvage Vehicles.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Department shall issue a Rebuilt Salvage Title if the owner has been issued a Salvage Title and passed inspection.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Ownership of a Rebuilt Salvage Vehicle shall be transferred only through the use of a Rebuilt Salvage Title.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-307">Apr. 8, 2005, D.C. Law 15-307, § 106, 52 DCR 1700</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|13A"/>
+    <num codify:value="50-1331.07">107</num>
+    <heading>Restrictions on use and transfer of Non-repairable Vehicles.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No motor vehicle for which a Non-repairable Vehicle Certificate has been issued shall be titled or registered by the Department.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Ownership of a motor vehicle for which a Non-repairable Vehicle Certificate has been issued may only be transferred once.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Whenever a motor vehicle has been flattened, baled, shredded, or otherwise destroyed, the motor vehicle title or Non-repairable Vehicle Certificate for the vehicle shall be surrendered to the Department within 30 days of the destruction. If the destroyed vehicle is titled in another state, the Department shall inform the titling state of the surrender of the title or Non-repairable Vehicle Certificate and of the vehicle’s destruction.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-307">Apr. 8, 2005, D.C. Law 15-307, § 107, 52 DCR 1700</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|13A"/>
+    <num codify:value="50-1331.08">108</num>
+    <heading>Penalties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>It shall be unlawful to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Make or cause to be made any false statement:</text>
+        <para>
+          <num>(A)</num>
+          <text>On an application for a title or duplicate title; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>In conjunction with any disclosure required under this chapter;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Alter, forge, or counterfeit:</text>
+        <para>
+          <num>(A)</num>
+          <text>A motor vehicle title or an assignment thereof;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A Non-repairable Vehicle Certificate; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A certificate verifying a safety inspection;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Falsify the results of, or provide false information in the course of, an inspection conducted in conjunction with obtaining a Rebuilt Salvage Title;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Represent any Salvage Vehicle or Non-repairable Vehicle as a Rebuilt Salvage Vehicle;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Fail to comply with any provision of this chapter requiring:</text>
+        <para>
+          <num>(A)</num>
+          <text>Application for a title or certificate;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Notification of specified parties; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Surrender of a title or certificate; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Conspire to commit any of the unlawful acts enumerated in this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A person who commits an unlawful act as described in subsection (a) of this section shall upon conviction be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite> or imprisoned not more than 180 days, or both. All such prosecutions shall be in the Superior Court of the District of Columbia upon information filed by the Attorney General for the District of Columbia or any of his assistants in the name of the District of Columbia.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-307">Apr. 8, 2005, D.C. Law 15-307, § 108, 52 DCR 1700</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 267, 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $2,000” in (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 267 of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|13A"/>
+    <num codify:value="50-1331.09">109</num>
+    <heading>Rules and regulations.</heading>
+    <text>The Mayor, pursuant to subchapter 1 of Chapter 15 of Title 2, shall make such regulations and establish such fees as in the Mayor’s judgment are necessary for the administration of this chapter. The Mayor may issue any rules or regulations or amend any existing rules or regulations or provisions of this chapter as needed to comply with the requirements of federal laws and regulations or with federal grant eligibility requirements.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-307">Apr. 8, 2005, D.C. Law 15-307, § 109, 52 DCR 1700</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Alcoholic beverage control, operation of trains, streetcars, and other vehicles by intoxicated persons, see § <cite path="§25-1009">25-1009</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

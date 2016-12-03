@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 10-48">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 10-48">
   <num type="law">10-48</num>
   <heading type="short">Annual Audited Financial Reports Act of 1993</heading>
   <meta>
@@ -12,4 +12,1167 @@
       <narrative>Law 10-48, the “Annual Audited Financial Reports Act of 1993,” was introduced in Council and assigned Bill No. 10-127, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on August 4, 1993, it was assigned Act No. 10-93 and transmitted to both Houses of Congress for its review. D.C. Law 10-48 became effective on October 21, 1993.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-301">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Accountant” or “independent certified public accountant” means an independent certified public accountant or accounting firm in good standing with the American Institute of Certified Public Accountants and in all states in which they are licensed to practice; for Canadian and British companies, it means a Canadian-chartered or British-chartered accountant.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>“Affiliate” or “affiliated person” means an individual or entity that directly, or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, the individual or entity.</text>
+    </para>
+    <para>
+      <num>(1B)</num>
+      <text>“Audit committee” means a committee established by the board of directors of an entity for the purpose of overseeing the accounting and financial reporting processes of an insurer or group of insurers and the audits of financial statements of the insurer or group of insurers. The audit committee of any entity that controls a group of insurers may be deemed to be the audit committee for one or more of the controlled insurers for the purposes of this chapter at the election of the controlling person pursuant to § <cite path="§31-311.01">31-311.01</cite>(e). If an audit committee is not designated by the insurer, the insurer’s entire board of directors shall constitute the audit committee.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Audited financial report” means and includes those items specified in § <cite path="§31-303">31-303</cite>.</text>
+    </para>
+    <para>
+      <num>(2A)</num>
+      <text>“Indemnification” means an agreement of indemnity or a release from liability if the intent or effect is to shift or limit in any manner the potential liability of the person or firm for failure to adhere to applicable auditing or professional standards, whether or not resulting in part from knowing of other misrepresentations made by the insurer or its representatives.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Insurer” means a licensed insurer or authorized company which has authority from the Mayor [now Commissioner] to do business in the District of Columbia as provided under §§ <cite path="§31-2502.02">31-2502.02</cite> and <cite path="§31-4304">31-4304</cite>.</text>
+    </para>
+    <para>
+      <num>(3A)</num>
+      <text>“Group of insurers” means those licensed insurers included in the reporting requirements of subchapter I of Chapter 7 of this title [§ <cite path="§31-701">31-701</cite> et seq.], or a set of insurers as identified by management for the purpose of assessing the effectiveness of internal control over financial reporting.</text>
+    </para>
+    <para>
+      <num>(3B)</num>
+      <text>“Internal control over financial reporting” means a process effected by an entity’s board of directors, management, and other personnel designed to provide reasonable assurance regarding the reliability of the financial statements, including compliance with § <cite path="§31-303">31-303</cite>(2) through (7), and includes such other policies and procedures that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the acquisition and disposition of assets;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Provide reasonable assurance that:</text>
+        <para>
+          <num>(i)</num>
+          <text>Transactions are recorded as necessary to permit preparation of the financial statements; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Receipts and expenditures are made only in accordance with management and director authorization; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Provide reasonable assurance regarding:</text>
+        <para>
+          <num>(i)</num>
+          <text>Prevention or timely detection of unauthorized acquisitions; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The use or disposition of assets that could have a material effect on the financial statements.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“NAIC” means the National Association of Insurance Commissioners.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“SEC” means the United States Securities and Exchange Commission.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Section 404” means § 404 of the Sarbanes-Oxley Act of 2002, approved July 30, 2002 (116 Stat. 745; 15 U.S.C. § 7201 et seq.), and the rules and regulations promulgated thereunder.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Section 404 Report” means management’s report on internal control over financial reporting as defined by the SEC and the related attestation report of the independent certified public accountant.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“SOX Compliant Entity” means an entity that is required to be compliant with or is voluntarily compliant with:</text>
+      <para>
+        <num>(A)</num>
+        <text>Section 10A(h) of the Securities Exchange Act of 1934, approved June 6, 1934 (105 Stat. 762; 15 U.S.C. § 78j-l(h)) (preapproval requirements);</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Section 10A(m)(3) of the Securities Exchange Act of 1934, approved December 22, 1995 (109 Stat. 762; 15 U.S.C. § 78j-l(m)(3)) (audit committee independence requirements); and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The internal control over financial reporting requirements of Section 404 and 17 C.F.R. § 229.308 (Item 308 of SEC Regulation S-K).</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 2, 40 DCR 6102</annotation>
+        <annotation doc="D.C. Law 18-317">Mar. 12, 2011, D.C. Law 18-317, § 2(a), 57 DCR 12418</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-314">31-314</cite> and § <cite path="§31-3931.13">31-3931.13</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3201.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-317">D.C. Law 18-317</cite> added pars. (1A), (1B), (2A), (3A), (3B), and (5) to (8).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Annual Financing Reporting Modernization Emergency Amendment Act of 2010 (D.C. Act 18-665, December 28, 2010,  58 DCR 80).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Annual Financial Reporting Modernization Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-30, March 15, 2011,  58 DCR 2591).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 10-48">D.C. Law 10-48</cite>, the Annual Audited Financial Reports Act of 1993, see Mayor’s Order 94-54, March 7, 1994 ( 41 DCR 1433).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Mayor authorized to issue rules: Section 16 of <cite doc="D.C. Law 10-48">D.C. Law 10-48</cite> provided that the Mayor shall, pursuant to subchapter I of Chapter 15 of Title 1 [subchapter I of Chapter 5 of Title 2, 2001 Ed.], issue rules to implement the provisions of this chapter.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-302">3</num>
+    <heading>General requirements for filing audited financial reports and audit committee appointments; extensions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All insurers shall have an annual audit prepared by an independent certified public accountant and shall file an audited financial report with the Mayor on or before June 1st for the year ended December 31st immediately preceding. The Mayor may require an insurer to file an audited financial report earlier than June 1st with 90 days advance notice to the insurer.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Extensions of the June 1st filing date may be granted by the Mayor for 30-day periods upon showing by the insurer and its independent certified public accountant the reasons for requesting the extension and determination by the Mayor of good cause for an extension. The request for extension must be submitted in writing not less than 10 days prior to the due date in sufficient detail to permit the Mayor to make an informed decision with respect to the requested extension.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If an extension is granted in accordance with the provisions in subsection (b) of this section, an extension for the same 30-day period shall be granted for the filing of a management’s report of internal control over financial reporting.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>An insurer required to file an annual audited financial report pursuant to this chapter shall establish an audit committee. If the insurer is controlled by a controlling person or entity, the audit committee of the controlling entity, in compliance with § <cite path="§31-311.01">31-311.01</cite>(e), may serve as the audit committee for the subject insurer for purposes of this chapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 3, 40 DCR 6102</annotation>
+        <annotation doc="D.C. Law 18-317">Mar. 12, 2011, D.C. Law 18-317, § 2(b), 57 DCR 12418</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-313">31-313</cite> and § <cite path="§31-314">31-314</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3202.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-317">D.C. Law 18-317</cite> rewrote the section heading, which had read as follows: “Filing and extensions for filing of annual audited financial reports.”; and added subsecs. (c) and (d).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Annual Financing Reporting Modernization Emergency Amendment Act of 2010 (D.C. Act 18-665, December 28, 2010,  58 DCR 80).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Annual Financial Reporting Modernization Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-30, March 15, 2011,  58 DCR 2591).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-303">4</num>
+    <heading>Contents of annual audited financial report.</heading>
+    <text>The annual audited financial report shall report the financial position of the insurer as of the end of the most recent calendar year and the results of its operations, cash flow, and changes in capital and surplus for the year then ended in conformity with statutory accounting practices prescribed, or otherwise permitted, by the jurisdiction where it is domiciled. The annual audited financial report shall include the following:</text>
+    <para>
+      <num>(1)</num>
+      <text>Report of an independent certified public accountant;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Balance sheet reporting admitted assets, liabilities, capital, and surplus;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Statement of operations;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Statement of cash flows;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Statement of changes in capital and surplus;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Notes to the financial statements, which shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Be those required by the appropriate NAIC annual statement instructions and the NAIC Accounting Practices and Procedures Manual; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Include a reconciliation of differences, if any, between the audited statutory financial statement and the annual statement filed pursuant to Chapter 19 of this title [§ <cite path="§31-1901">31-1901</cite> et seq.], and a written description of the nature of these differences; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The financial statements included in the audited financial report shall be prepared in a form and using language and groupings substantially the same as the relevant sections of the annual statement of the insurer filed with the Mayor, and the financial statement shall be comparative, presenting the amounts as of December 31st of the current year and the amounts as of the immediately preceding December 31st. However, in the first year in which an insurer is required to file an audited financial report, the comparative data may be omitted.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 4, 40 DCR 6102</annotation>
+        <annotation doc="D.C. Law 11-90">Feb. 27, 1996, D.C. Law 11-90, § 5(a), 42 DCR 7155</annotation>
+        <annotation doc="D.C. Law 14-255">Mar. 27, 2003, D.C. Law 14-255, § 2, 50 DCR 236</annotation>
+        <annotation doc="D.C. Law 18-317">Mar. 12, 2011, D.C. Law 18-317, § 2(c), 57 DCR 12418</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-301">31-301</cite> and § <cite path="§31-307">31-307</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3203.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-255">D.C. Law 14-255</cite> rewrote par. (6) which had read:</annotation>
+        <annotation>“(6) Notes to financial statements, including notes required by the appropriate NAIC annual statement instructions and any other notes required by generally accepted accounting principles. The notes shall also include:</annotation>
+        <annotation>“(A) A reconciliation of differences, if any, between the audited statements to be filed with the Mayor and the NAIC annual statement filed pursuant to the insurance laws of the District of Columbia; and</annotation>
+        <annotation>“(B) A summary of ownership and relationships of the insurer and all affiliated companies; and”</annotation>
+        <annotation><cite doc="D.C. Law 18-317">D.C. Law 18-317</cite>, in the lead-in text, substituted “jurisdiction where it is domiciled” for “Mayor”; and rewrote par. (6), which formerly read:</annotation>
+        <annotation>“(6) Notes to the financial statements, including notes required by the appropriate NAIC’s annual statement instructions, shall include a reconciliation of differences, if any, between the audited financial report and the annual financial statement filed on March 1st with the Mayor, with a written description of the nature of the differences; and”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 5(a) of Insurance Omnibus Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-36">D.C. Law 11-36</cite>, September 8, 1995, law notification  42 DCR 5305).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 6(a) of the Insurance Omnibus Emergency Amendment Act of 1995 (D.C. Act 11-48, May 15, 1995,  42 DCR 2544) and § 5(a) of the Insurance Omnibus Congressional Recess Emergency Amendment Act of 1995 (D.C. Act 11-97, July 19, 1995,  42 DCR 3844).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-304">5</num>
+    <heading>Designation of independent certified public accountant.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Each insurer required by this chapter to file an annual audited financial report, within 60 days after becoming subject to the requirement, shall register in writing with the Mayor the name and address of the independent certified public accountant or accounting firm retained to conduct the required annual audit. Insurers not retaining an independent certified public accountant on October 21, 1993, shall register the name and address of their retained certified public accountant not less than 6 months before the date when the first audited financial report is to be filed.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The insurer shall obtain a letter from the accountant, and file a copy with the Mayor, stating that the accountant is aware of the provisions of the insurance laws and rules of the District of Columbia that relate to accounting and financial matters, and affirming that he or she will express his or her opinion on the financial statements in terms of their conformity to the statutory accounting practices prescribed or otherwise permitted by the jurisdiction where it is domiciled, specifying any exceptions he or she believes appropriate.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If an accountant who was the accountant for the immediately preceding filed audited financial report is dismissed or resigns, the insurer shall, within 5 business days, notify the Mayor of this event. The insurer shall, within 10 business days of the above notification, also furnish the Mayor with a separate letter stating whether in the 24 months preceding the event there were any disagreements with the former accountant on any matter of accounting principles or practices, financial statement disclosure, or auditing scope or procedure, which disagreements, if not resolved to the satisfaction of the former accountant, would have caused him or her to make reference to the subject matter of the disagreement in connection with his or her opinion. The disagreements required to be reported in response to this subsection include both those resolved to the former accountant’s satisfaction and those not resolved to the former accountant’s satisfaction. Disagreements contemplated by this section are those that occur at the decision-making level, that is between personnel of the insurer responsible for presentation of its financial statements and personnel of the accounting firm responsible for rendering its report. The insurer shall also request in writing that the former accountant furnish a letter addressed to the insurer stating whether the accountant agrees with the statements contained in the insurer’s letter, and, if not, stating the reasons that he does not agree. The insurer shall furnish the responsive letter from the former accountant to the Mayor together with its own.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 5, 40 DCR 6102</annotation>
+        <annotation doc="D.C. Law 18-317">Mar. 12, 2011, D.C. Law 18-317, § 2(d), 57 DCR 12418</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-313">31-313</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3204.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-317">D.C. Law 18-317</cite>, in subsec. (b), substituted “by the jurisdiction where it is domiciled” for “by the Mayor”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(d) of Annual Financing Reporting Modernization Emergency Amendment Act of 2010 (D.C. Act 18-665, December 28, 2010,  58 DCR 80).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(d) of Annual Financial Reporting Modernization Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-30, March 15, 2011,  58 DCR 2591).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-305">6</num>
+    <heading>Qualifications of independent certified public accountant.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall not recognize a person or firm as a qualified independent certified public accountant if the person or firm:</text>
+      <para>
+        <num>(1)</num>
+        <para>
+          <num>(A)</num>
+          <text>Is not in good standing with the American Institute of Certified Public Accountants in all jurisdictions in which the accountant is licensed to practice; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>For a Canadian or British company, is not a chartered accountant; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Has either directly or indirectly entered into an agreement of indemnity or release from liability with respect to the audit of the insurer.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Except as otherwise provided herein, an independent certified public accountant shall be recognized as qualified as long as he or she conforms to the standards of his or her profession, as contained in the Code of Professional Ethics of the American Institute of Certified Public Accountants, Chapter 15 [repealed] of Title 3, and rules promulgated by the District of Columbia Board of Accountancy.</text>
+    </para>
+    <para>
+      <num>(b-1)</num>
+      <text>A qualified independent certified public accountant may enter into an agreement with an insurer to have disputes relating to an audit resolved by mediation or arbitration; provided, that in the event of a delinquency proceeding commenced against the insurer under Chapter 13 of this title [§ <cite path="§31-1301">31-1301</cite> et seq.], the mediation or arbitration provision shall operate at the option of the statutory successor.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The lead or coordinating audit partner having primary responsibility for the audit shall not act in that capacity for more than 5 consecutive years. A lead or coordinating auditor shall be disqualified from acting in that or a similar capacity for the same company or its insurance subsidiaries or affiliates for a period of 5 consecutive years. An insurer may make application to the Mayor for relief from the above rotation requirement on the basis of unusual circumstances. Any application shall be made at least 30 days before the end of the calendar year. The Mayor may consider the following factors in determining if the relief should be granted:</text>
+        <para>
+          <num>(A)</num>
+          <text>The number of partners, the expertise of the partners, or the number of insurance clients in the currently registered firm;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The premium volume of the insurer: or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The number of jurisdictions in which the insurer transacts business.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The insurer shall file, with its annual statement filing, the approval for relief from subsection (c)(1) of this section with the jurisdictions in which it holds a license or does business and the NAIC. If a nondomestic jurisdiction accepts electronic filing with the NAIC, the insurer shall file the approval in an electronic format acceptable to the NAIC.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor shall not recognize as a qualified independent certified public accountant, nor accept any annual audited financial report prepared, in whole or in part, by any natural person who:</text>
+      <para>
+        <num>(1)</num>
+        <text>Has been convicted of fraud, bribery, a violation of the Racketeer Influenced and Corrupt Organizations Act, approved October 15, 1970 (84 Stat. 941; 18 U.S.C. § 1961 et seq.), or any dishonest conduct or practices under federal or state law;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Has been found to have violated the insurance laws of the District of Columbia with respect to any previous reports submitted under this chapter; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Has demonstrated a pattern or practice of failing to detect or disclose material information in previous reports filed under this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Mayor, as provided in §§ <cite path="§31-2502.03">31-2502.03</cite> and <cite path="§31-4305">31-4305</cite>, may hold a hearing to determine whether an independent public accountant is qualified and, considering the evidence presented, may rule that the accountant is not qualified for purposes of expressing his or her opinion on the financial statements in the annual audited financial report made pursuant to this chapter and require the insurer to replace the accountant with another whose relationship with the insurer is qualified within the meaning of this chapter.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor shall not recognize as a qualified independent certified public accountant, or accept an annual audited financial report, prepared in whole or in part by an independent certified public accountant, who provides to an insurer, contemporaneously with the audit, the following non-audit services:</text>
+        <para>
+          <num>(A)</num>
+          <text>Bookkeeping or other services related to the accounting records or financial statements of the insurer;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Financial information systems design and implementation;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Appraisal or valuation services, fairness opinions, or contribution-in-kind reports;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <para>
+            <num>(i)</num>
+            <text>Actuarially-oriented advisory services involving the determination of amounts recorded in the financial statements.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The accountant may assist an insurer in understanding the methods, assumptions, and inputs used in the determination of amounts recorded in the financial statement only if it is reasonable to conclude that the services provided will not be subject to audit procedures during an audit of the insurer’s financial statements. An accountant’s actuary may also issue an actuarial opinion or certification of an insurer’s reserves if the following conditions have been met:</text>
+            <para>
+              <num>(I)</num>
+              <text>The accountant or the accountant’s actuary has not performed any management functions or made any management decisions;</text>
+            </para>
+            <para>
+              <num>(II)</num>
+              <text>The insurer has competent personnel or engages a third-party actuary to estimate the reserves for which management takes responsibility; and</text>
+            </para>
+            <para>
+              <num>(III)</num>
+              <text>The accountant’s actuary tests the reasonableness of the reserves after the insurer’s management has determined the amount of the reserves;</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Internal audit outsourcing services;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Management functions or human resources;</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>Broker or dealer, investment adviser, or investment banking services;</text>
+        </para>
+        <para>
+          <num>(H)</num>
+          <text>Legal services or expert services unrelated to the audit; or</text>
+        </para>
+        <para>
+          <num>(I)</num>
+          <text>Any other services that the Mayor determines, by rule, are impermissible.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The principles of independence with respect to services provided by the qualified independent certified public accountant are predicated on 3 basic principles: the accountant cannot function in the role of management; the accountant cannot audit its own work; and the accountant cannot serve in an advocacy role for the insurer. A violation of one or more of these principles shall impair the accountant’s independence.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>An insurer having direct written and assumed premiums of less than $100 million in any calendar year may request an exemption from subsection (f)(1) of this section. The insurer shall file with the Mayor a written statement explaining why the insurer should be exempt. If the Mayor finds, upon review of the statement, that compliance with subsection (f)(1) of this section would constitute a financial or organizational hardship on the insurer, an exemption may be granted.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>A qualified independent certified public accountant who performs the audit may engage in other non-audit services, including tax services, that are not described in or do not conflict with subsection (f) of this section, if the audit committee provides advance approval in accordance with subsection (i) of this section.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>All auditing services and non-audit services provided to an insurer by a qualified independent certified public accountant shall be preapproved by the audit committee. The preapproval requirement shall be waived with respect to non-audit services if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The insurer is a SOX Compliant Entity or a direct or indirect wholly-owned subsidiary of a SOX Compliant Entity; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>The aggregate amount of all such non-audit services provided to the insurer constitutes no more than 5% of the total amount of fees paid by the insurer to its qualified independent certified public accountant during the fiscal year in which the non-audit services are provided;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The services were not recognized by the insurer at the time of the engagement to be non-audit services; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The provision of services is promptly brought to the attention of the audit committee and approved prior to the completion of the audit by the audit committee or by one or more members of the audit committee who are the members of the board of directors to whom authority to grant such approvals has been delegated by the audit committee.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>The audit committee may delegate to one or more designated members of the audit committee the authority to grant the preapproval required by subsection (i) of this section. Any decision by a member or members to whom authority has been delegated to preapprove certain audit and non-audit services shall be formally presented to the full audit committee at its next regularly scheduled meeting.</text>
+    </para>
+    <para>
+      <num>(k)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor shall not recognize an independent certified public accountant as qualified for a particular insurer if a member of the board, president, chief executive officer, controller, chief financial officer, chief accounting officer, or any person serving in an equivalent position for that insurer was employed by the independent certified public accountant and participated in the audit of the insurer during the one-year period preceding the date the most current statutory opinion is due. This paragraph shall apply only to partners and senior managers involved in the audit. An insurer may make application to the Mayor for relief from the requirement of this paragraph on the basis of good cause.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The insurer shall file, with its annual statement filing, any approval for relief obtained pursuant to paragraph (1) of this subsection with the jurisdictions in which it holds a license or does business and with the NAIC. If a nondomestic jurisdiction accepts electronic filing with the NAIC, the insurer shall file the approval in an electronic format acceptable to the NAIC.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 6, 40 DCR 6102</annotation>
+        <annotation doc="D.C. Law 11-90">Feb. 27, 1996, D.C. Law 11-90, §§ 5(b), 5(c), 42 DCR 7155</annotation>
+        <annotation doc="D.C. Law 18-317">Mar. 12, 2011, D.C. Law 18-317, § 2(e), 57 DCR 12418</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 84, 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-310">31-310</cite> and § <cite path="§31-312">31-312</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3205.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-317">D.C. Law 18-317</cite> rewrote subsecs. (a) and (c); in subsec. (e), substituted “an independent public accountant” for “a certified public accountant”; and added subsecs. (f) to (k).</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> deleted “that” preceding “is not” in (a)(1)(B).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 5(b), (c) of Insurance Omnibus Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-36">D.C. Law 11-36</cite>, September 8, 1995, law notification  42 DCR 5305).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 6(b) and (c) of the Insurance Omnibus Emergency Amendment Act of 1995 (D.C. Act 11-48, May 15, 1995,  42 DCR 2544) and § 5(b) and (c) of the Insurance Omnibus Congressional Recess Emergency Amendment Act of 1995 (D.C. Act 11-97, July 19, 1995,  42 DCR 3844).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(e) of Annual Financing Reporting Modernization Emergency Amendment Act of 2010 (D.C. Act 18-665, December 28, 2010,  58 DCR 80).</annotation>
+        <annotation>For temporary (90 day) addition of section, see § 3 of Annual Financing Reporting Modernization Emergency Amendment Act of 2010 (D.C. Act 18-665, December 28, 2010,  58 DCR 80).</annotation>
+        <annotation>For temporary (90 day) addition of section, see § 3 of Annual Financial Reporting Modernization Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-30, March 15, 2011,  58 DCR 2591).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(e) of Annual Financial Reporting Modernization Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-30, March 15, 2011,  58 DCR 2591).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 3 of <cite doc="D.C. Law 18-317">D.C. Law 18-317</cite> provided: “Sec. 3. Applicability. Section 2(e)(3) shall apply to audits of the year beginning January 1, 2010, and thereafter.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-306">7</num>
+    <heading>Consolidated or combined audits.</heading>
+    <text>An insurer may make written application to the Mayor for approval to file audited consolidated or combined financial statements in lieu of separate annual audited financial statements if the insurer is part of a group of insurance companies which utilizes a pooling or 100% reinsurance agreement that affects the solvency and integrity of the insurer’s reserves and the insurer cedes all of its direct and assumed business to the pool. In these cases, a column consolidating or combining worksheet shall be filed with the report, as follows:</text>
+    <para>
+      <num>(1)</num>
+      <text>Amounts shown on the consolidated or combined audited financial report shall be shown on the worksheet.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Amounts for each insurer subject to this section shall be stated separately.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Noninsurance operations may be shown on the worksheet on a combined or individual basis.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Explanations of consolidating and eliminating entries shall be included.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A reconciliation shall be included of any differences between the amounts shown in the individual insurer columns of the worksheet and comparable amounts shown on the annual statements of the insurers.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 7, 40 DCR 6102</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3206.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-307">8</num>
+    <heading>Scope of audit and report of independent certified public accountant.</heading>
+    <text>Financial statements furnished pursuant to § <cite path="§31-303">31-303</cite> shall be examined by an independent certified public accountant. In accordance with AU section 319 of the Professional Standards of the American Institute of Certified Public Accountants, Consideration of Internal Control in a Financial Statement Audit, the independent certified public accountant shall obtain a sufficient understanding of the insurer’s internal controls to ensure that the audit plan is effective. To the extent required by AU section 319, for those insurers required to file a management’s report of internal control over financial reporting pursuant to § <cite path="§31-311.03">31-311.03</cite>, the independent certified public accountant shall consider the most recently available management reports in planning and performing the audit of the statutory financial statements. The audit of the insurer’s financial statements shall be conducted in accordance with generally accepted auditing standards. Consideration shall also be given to such other procedures illustrated in the Financial Condition Examiner’s Handbook promulgated by the NAIC as the independent certified public accountant deems necessary.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 8, 40 DCR 6102</annotation>
+        <annotation doc="D.C. Law 11-90">Feb. 27, 1996, D.C. Law 11-90, § 5(d), 42 DCR 7155</annotation>
+        <annotation doc="D.C. Law 18-317">Mar. 12, 2011, D.C. Law 18-317, § 2(f), 57 DCR 12418</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3207.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-317">D.C. Law 18-317</cite> substituted “audit” for “examination”; added the second and third sentences; and substituted “consideration shall” for “consideration should”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 5(d) of Insurance Omnibus Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-36">D.C. Law 11-36</cite>, September 8, 1995, law notification  42 DCR 5305).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 6(d) of the Insurance Omnibus Emergency Amendment Act of 1995 (D.C. Act 11-48, May 15, 1995,  42 DCR 2544) and § 5(d) of the Insurance Omnibus Congressional Recess Emergency Amendment Act of 1995 (D.C. Act 11-97, July 19, 1995,  42 DCR 3844).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(f) of Annual Financing Reporting Modernization Emergency Amendment Act of 2010 (D.C. Act 18-665, December 28, 2010,  58 DCR 80).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(f) of Annual Financial Reporting Modernization Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-30, March 15, 2011,  58 DCR 2591).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-308">9</num>
+    <heading>Notification of adverse financial condition.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The insurer required to furnish the annual audited financial report shall require the independent certified public accountant to report, in writing, within 5 business days to the board of directors or its audit committee any determination by the independent certified public accountant that, as of the balance sheet date currently under audit, the insurer:</text>
+        <para>
+          <num>(A)</num>
+          <text>Has materially misstated its financial condition as reported to the Mayor;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Does not meet the minimum capital and surplus requirement pursuant to § <cite path="§31-2502.13">31-2502.13</cite> and § <cite path="§31-4408">31-4408</cite>; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Does not meet the minimum net worth requirements of § <cite path="§31-3412">31-3412</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An insurer who has received a report pursuant to this subsection shall forward a copy of the report to the Mayor within 5 business days of receipt of the report and shall provide the independent certified public accountant making the report with evidence of the report being furnished to the Mayor. If the independent certified public accountant fails to receive the evidence within the required 5-business-day period, the independent certified public accountant shall furnish to the Mayor a copy of its report within the next 5 business days.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No independent certified public accountant shall be liable in any manner to any person for any statement made in connection with subsection (a) of this section if the statement is made in good faith in compliance with subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If the accountant, subsequent to the date of the audited financial report filed pursuant to this chapter, becomes aware of facts which might have affected his report, the accountant shall take action prescribed in Volume 1, Section AU 561 of the Professional Standards of the American Institute of Certified Public Accountants.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 9, 40 DCR 6102</annotation>
+        <annotation doc="D.C. Law 11-90">Feb. 27, 1996, D.C. Law 11-90, § 5(e), 42 DCR 7155</annotation>
+        <annotation doc="D.C. Law 18-317">Mar. 12, 2011, D.C. Law 18-317, § 2(g), 57 DCR 12418</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-314">31-314</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3208.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-317">D.C. Law 18-317</cite> rewrote subsec. (a); and, in subsec. (b), substituted “independent certified public” for “independent public”. Prior to amendment, subsec. (a) read as follows: “(a) The insurer required to furnish the annual audited financial report shall require the independent certified public accountant to report, in writing, within 5 business days to the board of directors or its audit committee any determination by the independent certified public accountant that the insurer has materially misstated its financial condition as reported to the Mayor as of the balance sheet date currently under examination, or that the insurer does not meet the minimum capital and surplus requirement pursuant to §§ <cite path="§31-2502.13">31-2502.13</cite> and <cite path="§31-4408">31-4408</cite>, as of that date. An insurer who has received a report pursuant to this subsection shall forward a copy of the report to the Mayor within 5 business days of receipt of the report and shall provide the independent certified public accountant making the report with evidence of the report being furnished to the Mayor. If the independent certified public accountant fails to receive the evidence within the required 5-business-day period, the independent certified public accountant shall furnish to the Mayor a copy of its report within the next 5 business days.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 5(e) of Insurance Omnibus Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-36">D.C. Law 11-36</cite>, September 8, 1995, law notification  42 DCR 5305).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 6(e) of the Insurance Omnibus Emergency Amendment Act of 1995 (D.C. Act 11-48, May 15, 1995,  42 DCR 2544) and § 5(e) of the Insurance Omnibus Congressional Recess Emergency Amendment Act of 1995 (D.C. Act 11-97, July 19, 1995,  42 DCR 3844).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-309">10</num>
+    <heading>Communication of internal control related matters noted in audit.</heading>
+    <para>
+      <num>(a)</num>
+      <text>In addition to the annual audited financial report, an insurer shall furnish the Mayor with a written communication regarding any unremediated material weaknesses in its internal controls over financial reporting noted during the audit. If no unremediated material weaknesses were noted during the audit, the insurer shall submit a written communication stating this fact to the Mayor. The communication shall be prepared by the independent certified public accountant within 60 days after the filing of the annual audited financial report and shall contain a description of any unremediated material weakness, as of December 31 immediately preceding, in the insurer’s internal control over financial reporting noted by the accountant during the course of their audit of the financial statements.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The insurer shall provide a description of the remedial actions taken or those being proposed to correct unremediated material weaknesses if the actions are not described in the independent certified public accountant’s communication to the insurer.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 10, 40 DCR 6102</annotation>
+        <annotation doc="D.C. Law 18-317">Mar. 12, 2011, D.C. Law 18-317, § 2(h), 57 DCR 12418</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-311.03">31-311.03</cite> and § <cite path="§31-314">31-314</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3209.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-317">D.C. Law 18-317</cite> rewrote the section, which formerly read:</annotation>
+        <annotation>“In addition to the annual audited financial statements, each insurer shall furnish the Mayor with a written report prepared by the accountant describing significant deficiencies in the insurer’s internal control structure noted by the accountant during the audit. SAS No. 60, Communication of Internal Control Structure Matters Noted in an Audit (AU section 325 of the Professional Standards of the American Institute of Certified Public Accountants) requires an accountant to communicate significant deficiencies, known as reportable conditions, noted during a financial statement audit to the appropriate parties within an entity. No report shall be issued if the accountant does not identify significant deficiencies. If significant deficiencies are noted, the written report shall be filed annually by the insurer with the Mayor within 60 days after the filing of the annual audited financial statements. The insurer is required to provide a description of remedial actions taken or proposed to correct significant deficiencies, if the actions are not described in the accountant’s report.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(h) of Annual Financing Reporting Modernization Emergency Amendment Act of 2010 (D.C. Act 18-665, December 28, 2010,  58 DCR 80).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(h) of Annual Financial Reporting Modernization Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-30, March 15, 2011,  58 DCR 2591).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-310">11</num>
+    <heading>Accountant’s letter of qualifications.</heading>
+    <text>The accountant shall furnish the insurer in connection with, and for inclusion in, the filing of the annual audited financial report, a letter stating that:</text>
+    <para>
+      <num>(1)</num>
+      <text>The accountant is independent with respect to the insurer and conforms to the standards of his or her profession as contained in the Code of Professional Ethics and pronouncements of the American Institute of Certified Public Accountants and the rules of the District of Columbia Board of Accountancy.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The background and experience of the accountant in general is listed, and the experience in audits of insurers of the staff assigned to the engagement and whether each is an independent certified public accountant. Nothing within this chapter shall be construed as prohibiting the accountant from utilizing the staff he or she deems appropriate where use is consistent with the standards prescribed by generally accepted auditing standards.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The accountant understands the annual audited financial report and his or her opinion thereon will be filed in compliance with this chapter and that the Mayor will be relying on this information in the monitoring and regulation of the financial position of insurers.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The accountant consents to the requirements of § <cite path="§31-311">31-311</cite> and that the accountant consents and agrees to make available for review by the Mayor, his or her designee or his or her appointed agent, the workpapers, as defined in § <cite path="§31-311">31-311</cite>.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The accountant is properly licensed by an appropriate state licensing authority and is a member in good standing in the American Institute of Certified Public Accountants.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The accountant is in compliance with the requirements of § <cite path="§31-305">31-305</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 11, 40 DCR 6102</annotation>
+        <annotation doc="D.C. Law 11-90">Feb. 27, 1996, D.C. Law 11-90, § 5(f), 42 DCR 7155</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-314">31-314</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3210.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 5(f) of Insurance Omnibus Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-36">D.C. Law 11-36</cite>, September 8, 1995, law notification  42 DCR 5305).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 6(f) of the Insurance Omnibus Emergency Amendment Act of 1995 (D.C. Act 11-48, May 15, 1995,  42 DCR 2544) and § 5(f) of the Insurance Omnibus Congressional Recess Emergency Amendment Act of 1995 (D.C. Act 11-97, July 19, 1995,  42 DCR 3844).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-311">12</num>
+    <heading>Definition, availability, and maintenance of independent certified public accountant workpapers.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For purposes of this section, the term “workpapers” are the records kept by the independent certified public accountant of the procedures followed, the tests performed, the information obtained, and the conclusions reached pertinent to his or her audit of the financial statements of an insurer. Workpapers, accordingly, may include audit planning documentation, work programs, analyses, memoranda, letters of confirmation and representation, abstracts of company documents, and schedules or commentaries prepared or obtained by the independent certified public accountant in the course of his or her audit of the financial statements of an insurer and which support his or her opinion thereof.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Every insurer required to file an audited financial report pursuant to this chapter shall require the accountant to make available for review by the Mayor’s examiners all workpapers prepared in the conduct of his or her audit and any communications related to the audit between the accountant and the insurer, at the offices of the insurer, or at any other reasonable place designated by the Mayor. The insurer shall require that the accountant retain the audit workpapers and communications until the Mayor has filed a report on examination covering the period of the audit but no longer than 7 years from the date of the audit report.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor may make and retain photocopies of pertinent audit workpapers. The review by the Mayor’s examiners shall be considered investigations and all working papers and communications obtained during the course of the investigations shall be afforded the same confidentiality as other examination workpapers generated by the Mayor.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 12, 40 DCR 6102</annotation>
+        <annotation doc="D.C. Law 18-317">Mar. 12, 2011, D.C. Law 18-317, § 2(i), 57 DCR 12418</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-310">31-310</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3211.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-317">D.C. Law 18-317</cite>, in the section heading, substituted “independent certified” for “certified”; in subsec. (a), substituted “For the purposes of this section, the term” for “For the purposes of this chapter, the term”; and, in subsec. (a) and the second sentence of subsec. (b), substituted “audit” for “examination”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(i) of Annual Financing Reporting Modernization Emergency Amendment Act of 2010 (D.C. Act 18-665, December 28, 2010,  58 DCR 80).</annotation>
+        <annotation>For temporary (90 day) addition of sections, see § 2(j) of Annual Financing Reporting Modernization Emergency Amendment Act of 2010 (D.C. Act 18-665, December 28, 2010,  58 DCR 80).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(i) of Annual Financial Reporting Modernization Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-30, March 15, 2011,  58 DCR 2591).</annotation>
+        <annotation>For temporary (90 day) addition of sections, see § 2(j) of Annual Financial Reporting Modernization Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-30, March 15, 2011,  58 DCR 2591).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-311.01">12a</num>
+    <heading>Requirements for audit committees.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The audit committee shall be directly responsible for the appointment, compensation, and oversight of any accountant, including the resolution of disagreements between management and the accountant regarding annual financial reporting required by this chapter. Each accountant shall report directly to the audit committee.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Each member of the audit committee shall be a member of the board of directors of the insurer or a member of the board of directors of an entity elected pursuant to subsection (e) of this section.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>To be considered independent for purposes of this section, a member of the audit committee shall not, except in his or her capacity as a member of the audit committee, the board of directors, or any other board committee, accept any consulting, advisory, or other compensatory fee from the entity, or be an affiliated person of the entity or any subsidiary thereof; provided, that if board participation by otherwise non-independent members is legally required, such members may participate on the audit committee and be designated as independent for audit committee purposes unless they are an officer or employee of the insurer or one of its affiliates.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>If a member of the audit committee ceases to be independent for reasons outside the member’s reasonable control, the member, upon notice to the Mayor, may remain an audit committee member until the earlier of the next annual meeting or one year from the occurrence of the event causing the member to be no longer independent.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Prior to exercising the election of designating an audit committee pursuant to this chapter, the ultimate controlling person shall provide written notice to the Mayor. The written notice shall be made timely prior to the issuance of the statutory audit report and include a description of the basis for the election. An insurer may change its election by providing written notice to the Mayor with a description of the basis for the change. The election shall remain in effect until rescinded.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <para>
+        <num>(1)</num>
+        <text>The audit committee shall require the accountant performing an audit pursuant to this chapter to report timely to the audit committee, in accordance with the requirements of SAS 61, Communication with Audit Committees, or its successor, the following:</text>
+        <para>
+          <num>(A)</num>
+          <text>All significant accounting policies and material permitted practices;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>All material alternative treatments of financial information within statutory accounting principles that have been discussed with management of the insurer, the ramifications of the use of the alternative disclosures, and the treatment preferred by the accountant; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Any other material written communication between the accountant and the management of the insurer, including any management letter or schedule of unadjusted differences.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If an insurer is a member of an insurance holding company system, the reports required by paragraph (1) of this subsection may be provided to the audit committee on an aggregate basis for the insurers in the holding company system; provided, that any substantial differences among insurers in the system are identified to the audit committee.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The following criteria shall apply for determining the required proportion of independent audit committee members:</text>
+      <para>
+        <num>(1)</num>
+        <text>If, during the prior calendar year, direct written and assumed premiums do not exceed $300 million, there shall be no minimum requirement.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If, during the prior calendar year, direct written and assumed premiums exceed $300 million, but do not exceed $500 million, 50% or more of members shall be independent.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If, during the prior calendar year, direct written and assumed premiums exceed $500 million, 75% or more of its members shall be independent.</text>
+      </para>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>An insurer with direct written and assumed premiums of less than $500 million, excluding premiums reinsured with the Federal Crop Insurance Corporation and Federal Flood Program, may make application to the Mayor for an exemption from this section based on hardship. An insurer that has been granted an exemption pursuant to this section shall file such approval, together with its annual statement filing, with the states in which it holds a license or does business and the NAIC. If the nondomestic state accepts electronic filing with the NAIC, the insurer shall file the approval in an electronic format acceptable to the NAIC.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>Prior calendar year direct written and assumed premiums shall be the combined total of direct premiums and assumed premiums from non-affiliates for the reporting entities.</text>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>This section shall not apply to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Foreign or alien insurers licensed in the District; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An insurer that is a SOX Compliant Entity or a direct or indirect wholly-owned subsidiary of a SOX Compliant Entity.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 12a</annotation>
+        <annotation doc="D.C. Law 18-317">as added Mar. 12, 2011, D.C. Law 18-317, § 2(j), 57 DCR 12418</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-301">31-301</cite>, § <cite path="§31-302">31-302</cite>, and § <cite path="§31-312">31-312</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-311.02">12b</num>
+    <heading>Conduct of insurer in connection with the preparation of required reports and documents.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A director or officer of an insurer shall not, in connection with any audit, review, or communication required under this chapter, directly or indirectly:</text>
+      <para>
+        <num>(1)</num>
+        <text>Make, or cause to be made, a materially false or misleading statements [sic] to an accountant; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Omit to state, or cause another person to omit to state, any material fact necessary to make a statement made to an accountant, in light of the circumstances under which they were made, not misleading.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>A director or officer of an insurer, or any other person acting under the direction thereof, shall not, directly or indirectly, take any action to coerce, manipulate, mislead, or fraudulently influence any accountant engaged in the performance of an audit pursuant to this chapter if the person knew or should have known that the action, if successful, could result in rendering the insurer’s financial statements materially misleading.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the purposes of this subsection, actions that could result in rendering the insurer’s financial statements materially misleading include actions causing the accountant to:</text>
+        <para>
+          <num>(A)</num>
+          <text>Issue or reissue a report on an insurer’s financial statements that is not warranted under the circumstances due to material violations of statutory accounting principles, generally accepted auditing standards, or other professional or regulatory standards;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Not perform audit, review, or other procedures required by generally accepted auditing standards or other professional standards;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Not withdraw an issued report; or</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Not communicate matters to an insurer’s audit committee.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 12b</annotation>
+        <annotation doc="D.C. Law 18-317">as added Mar. 12, 2011, D.C. Law 18-317, § 2(j), 57 DCR 12418</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-311.03">12c</num>
+    <heading>Management’s report of internal control over financial reporting.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An insurer required to file an audited financial report pursuant to this chapter that has annual direct written and assumed premiums of at least $500 million, excluding premiums reinsured with the Federal Crop Insurance Corporation and Federal Flood Program, shall prepare a management’s report of the insurer’s or group of insurers’ internal control over financial reporting. The report shall be filed with the Mayor along with the communication of internal control related matters noted in an audit described in § <cite path="§31-309">31-309</cite>. A management’s report of internal control over financial reporting shall be made as of December 31 immediately preceding the date of the report.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Notwithstanding subsection (a) of this section, the Mayor may require an insurer to file a management’s report of internal control over financial reporting if the insurer:</text>
+      <para>
+        <num>(1)</num>
+        <text>Is in any RBC level event as provided in Chapter 20 of this title [§ <cite path="§31-2001">31-2001</cite> et seq.], and Chapter 34A of this title [§ <cite path="§31-3451.01">31-3451.01</cite> et seq.]; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Meets one or more of the standards of an insurer deemed to be in hazardous financial condition as provided in Chapter 21 of this title [§ <cite path="§31-2101">31-2101</cite> et seq.].</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>An insurer or a group of insurers that is (A) directly subject to Section 404; (B) part of a holding company system whose parent is directly subject to Section 404; (C) not directly subject to Section 404, but is a SOX Compliant Entity; or (D) a member of a holding company system whose parent is not directly subject to Section 404 but is a SOX Compliant Entity, may file its, or its parent’s, Section 404 Report and an addendum that complies with the requirements of this section; provided, that those internal controls of the insurer or group of insurers having a material impact on the preparation of the insurer’s or group of insurers’ audited statutory financial statements were included in the scope of the Section 404 Report.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An addendum filed with a Section 404 Report shall be an affirmative statement by management that no material processes were excluded in the scope of the Section 404 Report. If there are internal controls of the insurer or group of insurers that have a material impact on the preparation of the insurer’s or group of insurers’ audited statutory financial statements that were not included in the scope of the Section 404 Report, the insurer or group of insurers shall file:</text>
+        <para>
+          <num>(A)</num>
+          <text>A report pursuant to this section; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A Section 404 Report and a report pursuant to this section that addresses those internal controls not covered by the Section 404 Report.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A management’s report of internal control over financial reporting shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>A statement that management is responsible for establishing and maintaining adequate internal control over financial reporting;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A statement that management has established internal control over financial reporting and an assertion as to whether, to the best of management’s knowledge and belief, after diligent inquiry, the internal control over financial reporting is effective to provide reasonable assurance regarding the reliability of financial statements prepared in accordance with statutory accounting principles;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A statement describing the framework or processes by which management evaluates the effectiveness of its internal control over financial reporting;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A statement describing the scope of work that is included and whether any internal controls were excluded;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <para>
+          <num>(A)</num>
+          <text>Disclosure of any unremediated material weaknesses in the internal control over financial reporting identified by management as of December 31 immediately preceding the date of the report.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Management shall not be permitted to conclude that the internal control over financial reporting is effective if there is one or more unremediated material weaknesses in its internal control over financial reporting;</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A statement regarding the inherent limitations of internal control systems; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Signatures of the chief executive officer and the chief financial officer, or the equivalents thereof.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Management shall document and make available during the course of any financial condition examination the basis upon which its assertions offered pursuant to this section are made. Management may base its assertions, in part, on its review, monitoring, and testing of internal controls undertaken in the normal course of its activities.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Management shall have discretion as to the nature of the internal control framework used, and the nature and extent of documentation, to make its assertions in a cost effective manner and, as such, may include assembly of or reference to existing documentation.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>A management’s report on internal control over financial reporting filed with the Mayor pursuant to this section, including any supporting documentation submitted in support thereof, shall be kept confidential.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 12c</annotation>
+        <annotation doc="D.C. Law 18-317">as added Mar. 12, 2011, D.C. Law 18-317, § 2(j), 57 DCR 12418</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-307">31-307</cite> and § <cite path="§31-312">31-312</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-312">13</num>
+    <heading>Exemptions and effective dates.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Upon written application of any insurer, the Mayor may grant an exemption from compliance with this chapter if the Mayor finds, upon review of the application, that compliance with this chapter would constitute a financial or organizational hardship upon the insurer and the public interest would not be unduly compromised by the exemption. An exemption may be granted at any time, and from time to time for a specified period or periods. Within 10 days from a denial of an insurer’s written request for an exemption from this chapter, the insurer may request in writing a hearing on its application for an exemption. The hearing shall be held in accordance with those rules pertaining to administrative hearing procedures as the Mayor may prescribe.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Domestic insurers retaining a certified public accountant on October 21, 1993 who qualify as independent shall comply with this chapter for the year ending December 31, 1993, and each year thereafter, unless the Mayor permits otherwise.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Domestic insurers not retaining a certified public accountant, who qualifies as independent, on October 21, 1993, shall meet the following schedule for compliance unless the Mayor permits otherwise:</text>
+      <para>
+        <num>(1)</num>
+        <text>As of December 31, 2009, file with the Mayor:</text>
+        <para>
+          <num>(A)</num>
+          <text>Report of independent certified public accountant;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Audited balance sheet; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Notes to audited balance sheet.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the year ending December 31, 1993, and each year thereafter, these insurers shall file with the Mayor all reports and communications required by this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Foreign insurers shall comply with this chapter for the year ending December 31, 1993, and each year thereafter, unless the Mayor permits otherwise.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Section 31-311.01 shall apply as of January 1, 2010. An insurer or group of insurers that was not required to have independent audit committee members or only a majority of independent audit committee members because their total written and assumed premiums were below the stated threshold levels provided in § <cite path="§31-311.01">31-311.01</cite>(g) for a given year shall have one calendar year to comply with the independence requirements following the year the threshold is exceeded. An insurer that becomes subject to the independence requirements of this chapter as a result of a business combination shall have one calendar year following the date of acquisition or combination to comply with the independence requirements.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Section 31-305(g) through (k) and 31-311.03 shall apply as of the reporting period ending December 31, 2010, and each year thereafter. An insurer or group of insurers that is not required to file a report pursuant to § <cite path="§31-311.03">31-311.03</cite>, but subsequently becomes subject to the reporting requirements, shall have 2 calendar years following the year the threshold is exceeded to file a report. An insurer acquired in a business combination shall have 2 calendar years following the date of acquisition or combination to comply with the reporting requirements.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 13, 40 DCR 6102</annotation>
+        <annotation doc="D.C. Law 18-317">Mar. 12, 2011, D.C. Law 18-317, § 2(k), 57 DCR 12418</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3212.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-317">D.C. Law 18-317</cite>, in subsec. (c)(1), substituted “December 31, 2009” for “December 31, 1993”; in subsec. (c)(2), substituted “reports and communications required” for “reports required”; and added subsecs. (e) and (f).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(k) of Annual Financing Reporting Modernization Emergency Amendment Act of 2010 (D.C. Act 18-665, December 28, 2010,  58 DCR 80).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(k) of Annual Financial Reporting Modernization Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-30, March 15, 2011,  58 DCR 2591).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-313">14</num>
+    <heading>Canadian and British companies.</heading>
+    <para>
+      <num>(a)</num>
+      <text>In the case of Canadian and British insurers, the annual audited financial report shall be defined as the annual statement of total business on the form filed by these companies with their domiciliary supervision authority duly audited by an independent chartered accountant.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>For Canadian and British insurers, the letter required in § <cite path="§31-304">31-304</cite> shall state that the accountant is aware of the requirements relating to the annual audited statement filed with the Mayor pursuant to § <cite path="§31-302">31-302</cite> and shall affirm that the opinion expressed is in conformity with these requirements.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 14, 40 DCR 6102</annotation>
+        <annotation doc="D.C. Law 10-255">May 16, 1995, D.C. Law 10-255, § 31, 41 DCR 5193</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3213.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|3"/>
+    <num codify:value="31-314">15</num>
+    <heading>Applicability.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Every insurer, as defined in § <cite path="§31-301">31-301</cite>, shall be subject to this chapter. Insurers having direct premiums written in the District of Columbia of less than $1,000,000 in any calendar year and having less than 1,000 policyholders or certificateholders of directly written policies nationwide at the end of any calendar year shall be exempt from this chapter for that year, unless the Mayor makes a specific finding that compliance is necessary for the Mayor to carry out statutory responsibilities, except that insurers having assumed premiums pursuant to contracts or treaties of reinsurance of $1,000,000 or more will not be so exempt.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Foreign or alien insurers filing audited financial reports in another state pursuant to the other state’s requirement of audited financial reports which has been found by the Mayor to be substantially similar to the requirements of this chapter are exempt from this chapter if:</text>
+      <para>
+        <num>(1)</num>
+        <text>A copy of the audited financial report, report on significant deficiencies in internal controls, and the accountant’s letter of qualifications which are filed with the other states are filed with the Mayor in accordance with the filing dates specified in §§ <cite path="§31-302">31-302</cite>, <cite path="§31-309">31-309</cite>, and <cite path="§31-310">31-310</cite>, respectively. Canadian insurers may submit accounts’ reports as filed with the Canadian Dominion Department of Insurance.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A copy of any notification of adverse financial condition report filed with the other states is filed with the Mayor within the time specified in § <cite path="§31-308">31-308</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>This chapter shall not prohibit, preclude, or in any way limit the Mayor from ordering, conducting, or performing examinations of insurers under the rules and the practices and procedures of the District of Columbia.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-48">Oct. 21, 1993, D.C. Law 10-48, § 15, 40 DCR 6102</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-3931.13">31-3931.13</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-3214.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 8-116">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 8-116">
   <num type="law">8-116</num>
   <heading type="short">Asbestos Licensing and Control Act of 1990</heading>
   <meta>
@@ -12,4 +12,668 @@
       <narrative>Law 8-116, the “Asbestos Licensing and Control Act of 1990,” was introduced in Council and assigned Bill No. 8-131, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on January 30, 1990, and February 13, 1990, respectively. Signed by the Mayor on February 28, 1990, it was assigned Act No. 8-170 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.01">2</num>
+    <heading>Definitions.</heading>
+    <text>For purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Asbestos” means any material that contains more than 1% by weight of an asbestiform variety of serpentinite or chrysotile, riebackite or crocidolite, cummingtanite, grunerite, anthophyllite, or tremolite.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Asbestos abatement” means the removal, encapsulation, enclosure, disposal, or transportation of asbestos or material that contains asbestos.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Business entity” means a partnership, firm, association, corporation, or sole proprietorship that is engaged in asbestos abatement.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Asbestos worker” means a person who is engaged in asbestos abatement.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Demolition” means to wreck or remove a load-supporting structural member of a facility or handling operation.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Encapsulate” means to coat, bind, or resurface a wall, ceiling, pipe, or other structure to prevent friable asbestos or material that contains asbestos from becoming airborne.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Friable asbestos material” means any material that can be crumbled, pulverized, reduced to powder by hand pressure, or that emits or can be expected to emit fibers into the air under normal use or maintenance.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Mayor” means the Mayor of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Person” means an individual or nonbusiness entity, including a District of Columbia (“District”) government employee.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Structural member” means a load-supporting member, including a beam or load-supporting wall, or any non-supporting member, including a ceiling or nonload-supporting wall.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 2, 37 DCR 1641</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 8-116">D.C. Law 8-116</cite>, the “Asbestos Licensing and Control Act of 1990”, see Mayor’s Order 98-51, April 15, 1998 ( 45 DCR 2697).</annotation>
+        <annotation>Delegation of authority under D.C. Act 8-116, the District of Columbia Asbestos Licensing and Control Act of 1990, see Mayor’s Order 92-152, December 1, 1992.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.02">3</num>
+    <heading>Asbestos worker license.</heading>
+    <para>
+      <num>(a)</num>
+      <text>To obtain a license as an asbestos worker, a person shall establish to the satisfaction of the Board of Industrial Trades that the applicant has:</text>
+      <para>
+        <num>(1)</num>
+        <text>Successfully completed a course of instruction on asbestos abatement that has been approved by the Board;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provided such additional evidence as the Board or the federal government has determined is necessary for the occupation of asbestos workers; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Complied with other standards required for licensure by the Non-Health Related Professions and Occupations Licensure Act of 1998.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An asbestos worker license shall expire 2 years from the date of issuance. A license may be renewed for additional 2-year periods if the asbestos worker submits a renewal application with the renewal fee to the Mayor.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 3, 37 DCR 1641</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 1240, 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.2.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“The Non-Health Related Professions and Occupations Licensure Act of 1998,” referenced in (a)(3), is title I of <cite doc="D.C. Law 12-261">D.C. Law 12-261</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.03">4</num>
+    <heading>Business entity license and permit.</heading>
+    <para>
+      <num>(a)</num>
+      <text>To obtain or renew a license to engage in asbestos abatement, a business entity shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Train employees and agents to comply with federal standards for asbestos abatement;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Certify that employees and agents have completed a course of instruction on asbestos abatement that has been approved by the Mayor;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide certification to the Mayor that the business entity is able to comply with all applicable federal standards for asbestos abatement and all applicable District environmental, safety, and health laws or rules;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Provide certification to the Mayor that the business entity has access to an approved asbestos disposal site to deposit any asbestos waste that the business entity generates during the term of the license;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Utilize only licensed asbestos workers;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Provide certification to the Mayor that the business entity will use appropriate equipment and materials;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Provide the Mayor with a copy of the respiratory protection program of the business entity;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Provide evidence of a license to haul asbestos or material that contains asbestos or of an agreement with a commercial hauler who is licensed to transport asbestos or material that contains asbestos;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Provide disclosure to the Mayor of any violation of applicable federal or District environmental, safety, health, licensing, or construction code law, rule, or regulation relating to asbestos abatement for which the business entity has been cited, and provide certification to the Mayor that any penalty or fee assessed to the business entity by a federal or District agency has been paid in full; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Meet any other standards that the Mayor deems necessary.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A license for a business entity to engage in asbestos abatement shall expire 2 years from the date of issuance. A license may be renewed for 2-year periods if the business entity submits a renewal application with the renewal fee to the Mayor.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A business entity shall apply for a permit prior to the commencement of each asbestos abatement project. Before a permit may be issued, the business entity must demonstrate that the business entity will perform the work in compliance with the Construction Code, this subchapter, and rules issued pursuant to this subchapter.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Any license issued pursuant to this section shall be issued as an Environmental Materials endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of Chapter 28 of Title 47.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 4, 37 DCR 1641</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 2003(i), 46 DCR 3142</annotation>
+        <annotation doc="D.C. Law 15-38">Oct. 28, 2003, D.C. Law 15-38, § 3(k), 50 DCR 6913</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.3.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-38">D.C. Law 15-38</cite>, in subsec. (d), substituted “an Environmental Materials endorsement to a basic business license under the basic” for “a Class A Environmental Materials endorsement to a master business license under the master”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 3(k) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.04">5</num>
+    <heading>Prohibitions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsection (b) and (c) of this section, no business entity shall engage in the abatement of asbestos or material that contains asbestos without a permit and license that is issued by the Mayor. No person shall undertake or be employed on an asbestos abatement project unless the person is licensed as an asbestos worker by the Mayor.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor, by rule, may waive the requirements for a license or permit in the case of an emergency that involves asbestos or material that contains asbestos if the emergency poses a threat to the public health or safety of the District.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The asbestos worker license, business entity license and permit, and recordkeeping requirements of this subchapter shall not apply to any removal or other activity involving resilient floor covering materials, including sheet vinyl, resilient tile, and associated adhesives, provided that the business entity or persons performing the removal:</text>
+        <para>
+          <num>(A)</num>
+          <text>Follow the resilient floor covering manufacturers’ recommended work practices for removal;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Are not required to obtain asbestos accreditation under applicable federal asbestos requirements and regulations promulgated by the United States Environmental Protection Agency; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>For removals involving more than 18 square feet of resilient floor covering material, notify the Mayor in writing at least 10 days prior to the removal of the time, place, and entity performing the removal, and certify that asbestos accreditation is not required under subparagraph (B) of this paragraph.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any other asbestos requirements promulgated by the Mayor shall treat removals and other activity involving resilient floor covering materials in the same manner as prescribed under applicable federal asbestos requirements, including the National Emission Standard for Hazardous Air Pollutants for Asbestos as promulgated by the United States Environmental Protection Agency.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 5, 37 DCR 1641</annotation>
+        <annotation doc="D.C. Law 10-37">Oct. 15, 1993, D.C. Law 10-37, § 2(a), 40 DCR 5817</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-111.09">8-111.09</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.4.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.05">6</num>
+    <heading>Inspection and investigation.</heading>
+    <text>The Mayor is authorized to conduct an on-site inspection of any asbestos abatement project to determine compliance with all federal and District laws or rules applicable to asbestos abatement. The Mayor is authorized to investigate any report of noncompliance with the federal and District laws or rules applicable to asbestos abatement.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 6, 37 DCR 1641</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.5.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.06">7</num>
+    <heading>Reprimands; suspensions; revocations.</heading>
+    <text>The Mayor may reprimand an asbestos worker or business entity or suspend or revoke the license or permit of an asbestos worker or business entity, pursuant to § <cite path="§2-509">2-509</cite>, if the asbestos worker or business entity:</text>
+    <para>
+      <num>(1)</num>
+      <text>Attempts to remove or encapsulate asbestos or material that contains asbestos without a license or permit required under this subchapter;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Fraudulently or deceptively obtains or attempts to obtain a license or permit;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Violates any provision of this subchapter or any rule promulgated pursuant to this subchapter; or</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Fails to meet any applicable federal or District standard for asbestos abatement.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 7, 37 DCR 1641</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.6.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.07">8</num>
+    <heading>Summary action.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If the Mayor determines that the conduct of an asbestos worker or business entity presents an imminent danger to the public health or safety of the residents of the District, the Mayor may suspend or restrict the license or permit of the asbestos worker or business entity prior to a hearing.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>At the time of the suspension or restriction of a license or permit, the Mayor shall provide the asbestos worker or business entity with written notice that states the action that is being taken, the basis for the action, and the right of the asbestos worker or business entity to request a hearing.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>An asbestos worker or business entity shall have the right to request a hearing within 3 days of service of notice of the suspension or restriction of the license or permit. The Mayor shall hold a hearing within 3 days of receipt of a timely request and shall issue a decision within 3 days of the hearing.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor shall inform the asbestos worker or business entity of the decision in writing and provide findings of fact and conclusions of law. The findings shall be supported by reliable, probative, and substantial evidence. The Mayor shall provide a copy of the decision to each party to a case or to the party’s attorney of record.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Any person aggrieved by a decision pursuant to this section may file an appeal with the Mayor within 10 days of the decision.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 8, 37 DCR 1641</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.7.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.08">9</num>
+    <heading>Cease and desist order.</heading>
+    <text>If the Mayor determines that a hazardous condition exists that may endanger the public health or safety of the District of Columbia due to noncompliance with federal or District laws or rules on asbestos abatement, the Mayor may issue a cease and desist order to require a violator to cease asbestos abatement operations immediately, remove asbestos workers from the asbestos abatement project area, evacuate appropriate areas of the asbestos abatement project site, or take emergency measures necessary to contain the hazardous condition. Any business entity subject to a cease and desist order may appeal the order within 15 days, but is required to comply with the order pending appeal.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 9, 37 DCR 1641</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.8.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.09">10</num>
+    <heading>Criminal action.</heading>
+    <text>A person who willfully violates § <cite path="§8-111.04">8-111.04</cite> is guilty of a misdemeanor, and, upon conviction, shall be fined not more than $5,000 for the 1st offense or $10,000 for the 2nd or subsequent offense, imprisoned for not more than 1 year, or both. Each day that a violation continues is a separate violation under this subchapter. The fines set forth in this section shall not be limited by § <cite path="§22-3571.01">22-3571.01</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 10, 37 DCR 1641</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 113(a), 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.9.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> added the last sentence.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 113(a) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.10">11</num>
+    <heading>Civil infractions.</heading>
+    <text>Civil fines, penalties, and fees may be imposed as sanctions for any infraction of the provisions of this subchapter, or the rules authorized by this subchapter, pursuant to Chapter 18 of Title 2.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 11, 37 DCR 1641</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.10.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.11">12</num>
+    <heading>Records to be kept by a business entity.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A business entity that is engaged in asbestos abatement shall keep a record of each asbestos abatement project and make the record available to the Mayor.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The records shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name and address of the person who supervised the asbestos abatement project;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The location of and a description of the asbestos abatement project;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The amount of asbestos or material that contains asbestos that was involved in the asbestos abatement project;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The commencement and completion date of the asbestos abatement project;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A summary of the procedures that were used to comply with all applicable District and federal standards for asbestos abatement;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The name and address of each asbestos disposal site that was used in the asbestos abatement project;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The location, date, and description of any fiber release episodes;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A report of any air sampling, including the location, date, method used, results, and the name and address of any worker who performed the air sampling;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Information that relates to asbestos worker training and licensing;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>The name and address of a certified laboratory that is independent of the business entity and that will conduct analysis of bulk, dust, or air samples during an asbestos abatement project, and the name and address of the owner of the building in which the asbestos abatement project is being conducted; and</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Any other information that the Mayor deems necessary.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The business entity or any successor or assignee shall maintain the records required by this section for not less than 30 years.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 12, 37 DCR 1641</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.11.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.12">13</num>
+    <heading>Mayor’s responsibilities.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall make available application forms for asbestos abatement licenses to business entities. The application form shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Request the name and address of the business entity;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Request a description of the protective clothing and respirators to be used by the business entity and the procedure for use of the protective clothing and respirators;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Request the name and address of each asbestos disposal site to be used;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Request a description of the site decontamination procedures to be used;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Request a description of the asbestos abatement methods to be used by the business entity;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Request a description of the procedure to be used to handle waste that contains asbestos;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Request a description of the procedure to be used to monitor the air;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Request a description of the final cleanup procedure to be used;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Request the signature of the chief executive officer of the business entity or his or her agent;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Request evidence that any person to be utilized on an asbestos abatement project is a licensed asbestos worker;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Outline procedures for the business entity to follow to certify that the business entity is able to comply with applicable federal standards for asbestos abatement and District environmental, safety, or health laws or rules;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Outline procedures for the business entity to follow to certify that the business entity will use appropriate equipment and materials;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Outline procedures for the business entity to follow to certify that the business entity has access to an approved asbestos disposal site; and</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Request any other information that the Mayor deems necessary.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Prior to expiration of a license for an asbestos worker or for asbestos abatement by a business entity, the Mayor shall send to an asbestos worker or business entity a renewal notice that states:</text>
+      <para>
+        <num>(1)</num>
+        <text>The expiration date of the current license;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date that the renewal application must be received by the Mayor for the renewal license to be issued and mailed to the asbestos worker or business entity before the current license expires; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The amount of the renewal fee.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 13, 37 DCR 1641</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.12.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.13">14</num>
+    <heading>Rules.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 180 days of May 1, 1990, the Mayor shall submit proposed rules on the control of asbestos and materials that contain asbestos to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within the 45-day review period, the proposed rules shall be deemed effective. The Mayor shall submit any amendment to the proposed rules to the Council for a 45-day period of review pursuant to this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The proposed rules shall include, but not be limited to, the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Criteria for the display of caution signs at an asbestos abatement project site;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Requirements for wetting asbestos material;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Requirements for the disposal of asbestos or material that contains asbestos;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Requirements to clean and monitor an asbestos abatement project site where abatement has occurred;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Requirements to enclose and seal materials used in an asbestos abatement project;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Asbestos control procedures for demolition and renovation projects;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Appropriate exemption standards and alternative procedures for removal, including the use of resilient floor covering manufacturers’ recommended work practices for the handling and removal of resilient floor covering materials;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A schedule of license and permit fees;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Criteria for asbestos health and safety training courses;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Continuing education requirements for asbestos workers, supervisory asbestos workers, or contractors that are engaged in asbestos abatement;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Reciprocity and endorsement provisions;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Procedures to notify the public that an asbestos abatement project is about to commence;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Requirements for asbestos worker protection, including provisions that require a business entity to:</text>
+        <para>
+          <num>(A)</num>
+          <text>Submit to the Mayor a copy of the federally required respiratory protection program;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Ensure that workers complete a training course on asbestos abatement that includes, but is not limited to, recognition of asbestos health hazards to the public, and federal and District asbestos requirements;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Certify to the Mayor that the business entity provides workers with protective clothing and equipment; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Requirements that provide protection of occupants of a building affected by an asbestos abatement project, including but not limited to, provisions that require:</text>
+        <para>
+          <num>(A)</num>
+          <text>Certification that the level of asbestos fibers in affected units after an asbestos project is not more than .01 fibers per cubic centimeter;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Certification by the business entity and District inspectors that the techniques used during the asbestos abatement project are safe and that an affected unit is safe for rehabitation; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Procedures for the notification and education of occupants not less than 30 days prior to the commencement of an asbestos abatement project of the health or safety reasons that necessitate the asbestos abatement project and the procedures, including alternate accommodations and protection of belongings, that will be used to protect the health and safety of occupants of affected units.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 14, 37 DCR 1641</annotation>
+        <annotation doc="D.C. Law 10-37">Oct. 15, 1993, D.C. Law 10-37, § 2(b), 40 DCR 5817</annotation>
+        <annotation doc="D.C. Law 10-255">May 16, 1995, D.C. Law 10-255, § 9, 41 DCR 5193</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.13.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>District of Columbia Asbestos Licensing and Contract Act of 1990 Proposed Rulemaking Approval Resolution of 1997: Proposed Resolution 12-0112, the “District of Columbia Asbestos Licensing and Contract Act of 1990 Proposed Rulemaking Approval Resolution of 1997” was deemed approved, effective Jan. 25, 1997.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|VI"/>
+    <num codify:value="8-111.14">15</num>
+    <heading>Remedies cumulative.</heading>
+    <text>The remedies provided for in this subchapter are cumulative of remedies already provided in law.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-116">May 1, 1990, D.C. Law 8-116, § 15, 37 DCR 1641</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-991.14.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

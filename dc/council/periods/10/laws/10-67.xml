@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 10-67">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 10-67">
   <num type="law">10-67</num>
   <heading type="short">Basic Operations Options Training Children to Adults Maturity Program Establishment Act of 1993</heading>
   <meta>
@@ -12,4 +12,323 @@
       <narrative>Law 10-67, the “Basic Operations Options Training Children to Adults Maturity Program Establishment Act of 1993,” was introduced in Council and assigned Bill No. 10-111, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on June 29, 1993, and July 13, 1993, respectively. Signed by the Mayor on July 29, 1993, it was assigned Act No. 10-67 and transmitted to both Houses of Congress for its review. D.C. Law 10-67 became effective on January 27, 1994.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|9|II"/>
+    <num codify:value="24-921">101</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“BOOT CAMP” means the Basic Operations Options Training Children to Adults Maturity Program for eligible juvenile offenders, established pursuant to the rules of the Department of Human Services adopted under this subchapter, which provides rigorous physical activity, intensive regimentation, discipline, education, and vocational training for a minimum of 40 participants, to begin the program, for a period of 90 days.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Eligible juvenile offender” means a youth 14 through 18 years of age who has been committed to the custody of the Youth Services Administration and who:</text>
+      <para>
+        <num>(A)</num>
+        <text>Has not been previously incarcerated in an adult prison facility and has not committed a crime of violence, as defined in § <cite path="§22-4501">22-4501</cite>, except burglary and robbery;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Has not been prohibited by a judge or law from participating in the BOOT CAMP;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Has no known contagious or communicable disease;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Has no known mental or physical impairments that would prevent him or her from performing physical activity; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Agrees to the terms and conditions of the BOOT CAMP.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-67">Jan. 27, 1994, D.C. Law 10-67, § 101, 40 DCR 5768</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-821.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|9|II"/>
+    <num codify:value="24-922">201</num>
+    <heading>Establishment of the BOOT CAMP.</heading>
+    <text>The Director of the Department of Human Services (“Director”) shall establish a BOOT CAMP that may be used for eligible juvenile offenders who the Department of Human Services may permit to serve their commitment in the BOOT CAMP.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-67">Jan. 27, 1994, D.C. Law 10-67, § 201, 40 DCR 5768</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-822.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|9|II"/>
+    <num codify:value="24-923">202</num>
+    <heading>Location of BOOT CAMP.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Director shall use an existing building or set of buildings, which may be located in the Washington Metropolitan area, to establish a residential center for the BOOT CAMP participants.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The residential center shall include classrooms, a counseling and vocational training center, separate sleeping accommodations for male and female participants, a dining facility, outdoor drill and recreation areas, and other usages that are necessary for the efficient operation of the BOOT CAMP.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-67">Jan. 27, 1994, D.C. Law 10-67, § 202, 40 DCR 5768</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-823.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|9|II"/>
+    <num codify:value="24-924">203</num>
+    <heading>Daily schedule.</heading>
+    <text>The daily schedule at the BOOT CAMP shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>An early morning regimen of physical training, military style drilling, and cleaning of residence areas;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Education designed to result in the attainment of a General Equivalency Diploma (“GED”), which may utilize as academic teachers persons who have volunteered their services to the program and who satisfy the appropriate certification criteria;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Vocational training in an employment skill, including wood shop, electrical work, and plumbing, which may utilize as vocational teachers persons who have volunteered their services to the program and who satisfy the appropriate certification criteria;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Employment counseling and a full range of counseling, to include life skills training and stress and anger management;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Appropriate physical labor; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Daily group meetings, substance abuse counseling, and organized physical recreation.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-67">Jan. 27, 1994, D.C. Law 10-67, § 203, 40 DCR 5768</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-824.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|9|II"/>
+    <num codify:value="24-925">204</num>
+    <heading>Evaluation process.</heading>
+    <text>The Director shall establish a system of evaluating the eligible juvenile offenders, with the purpose of obtaining an objective assessment of each eligible juvenile offender’s progress in the BOOT CAMP. The system of evaluation may include weekly evaluations by drill instructors, academic and vocational teachers, substance abuse counselors, and recreation leaders. The results of these evaluations may be used in determining the juvenile offender’s eligibility for conditional release or unconditional discharge at the end of the BOOT CAMP.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-67">Jan. 27, 1994, D.C. Law 10-67, § 204, 40 DCR 5768</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-825.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|9|II"/>
+    <num codify:value="24-926">205</num>
+    <heading>Discipline.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Eligible juvenile offenders are expected to adhere to strict standards of discipline within the BOOT CAMP. Eligible juvenile offenders in the BOOT CAMP will be expected to comply with the following procedures:</text>
+      <para>
+        <num>(1)</num>
+        <text>Stand-up count;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Keeping living areas clean and neat at all times;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Mandatory attendance at all scheduled functions; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Exhibiting respectful behavior towards drill instructors and other personnel.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Director shall promulgate rules and procedures governing discipline within the BOOT CAMP.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-67">Jan. 27, 1994, D.C. Law 10-67, § 205, 40 DCR 5768</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-826.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|9|II"/>
+    <num codify:value="24-927">206</num>
+    <heading>Grooming.</heading>
+    <text>The Director shall promulgate regulations regarding grooming habits.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-67">Jan. 27, 1994, D.C. Law 10-67, § 206, 40 DCR 5768</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-827.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|9|II"/>
+    <num codify:value="24-928">301</num>
+    <heading>Agreement form.</heading>
+    <text>The Director shall promulgate an agreement to be signed by each eligible juvenile offender prior to entering into the BOOT CAMP. The agreement shall describe the terms and conditions of the BOOT CAMP, including a provision that states that participation in the BOOT CAMP is a privilege which may be revoked at any time at the discretion of the Director.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-67">Jan. 27, 1994, D.C. Law 10-67, § 301, 40 DCR 5768</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-828.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|9|II"/>
+    <num codify:value="24-929">401</num>
+    <heading>Removal.</heading>
+    <text>An eligible juvenile offender participating in the BOOT CAMP may be removed at the discretion of the Director. The Director shall promulgate rules and procedures for removal of an eligible juvenile offender from the BOOT CAMP. The rules and procedures shall include the following provisions:</text>
+    <para>
+      <num>(1)</num>
+      <text>Removal from the BOOT CAMP for any reason shall be treated as a violation of conditional release.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>An eligible juvenile offender may petition for removal from the program. The Director shall grant the petition for removal upon a finding of good cause.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-67">Jan. 27, 1994, D.C. Law 10-67, § 401, 40 DCR 5768</annotation>
+        <annotation doc="D.C. Law 10-255">May 16, 1995, D.C. Law 10-255, § 19, 41 DCR 5193</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-829.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|9|II"/>
+    <num codify:value="24-930">501</num>
+    <heading>Graduation.</heading>
+    <text>Upon completion of the BOOT CAMP, a graduation ceremony may be held, at which time earned GED’s may be awarded, as well as other appropriate recognition.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-67">Jan. 27, 1994, D.C. Law 10-67, § 501, 40 DCR 5768</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-830.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|9|II"/>
+    <num codify:value="24-931">502</num>
+    <heading>Post-BOOT CAMP supervision.</heading>
+    <text>The Director shall promulgate rules establishing a program of continuing supervision for BOOT CAMP participants released on conditional release. The program shall be 9 months in length and shall include participation by the eligible juvenile offender’s family members. The program may include follow-up substance abuse treatment, educational assistance such as tutoring, assistance in seeking employment, and, if appropriate, inclusion in the Mayor’s Mentoring and Volunteerism program, created pursuant to Mayor’s Order 92-24 dated March 4, 1992. The program may utilize volunteers.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-67">Jan. 27, 1994, D.C. Law 10-67, § 502, 40 DCR 5768</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-831.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|9|II"/>
+    <num codify:value="24-932">601</num>
+    <heading>Report.</heading>
+    <text>The Director shall prepare a report assessing the BOOT CAMP, which shall be presented to the Mayor and the Council of the District of Columbia 12 months after the first day of operation of the BOOT CAMP. This report shall include the following:</text>
+    <para>
+      <num>(1)</num>
+      <text>A summary of the original structure of the pilot program, and a summary of all changes to that original structure, along with the reasons for any changes;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A summary of the effectiveness of the pilot program, according to the Director;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>An analysis of the total cost of the pilot program, including cost per participant;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A summary of the standards used to determine removal from the BOOT CAMP;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A listing of the offense(s) committed by each participant which led to his or her commitment to the BOOT CAMP;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>A listing of the number of participants who completed the BOOT CAMP, and the number of those who did not complete the program, along with a designation as to the reason for removal from the program;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>A summary of the effect of the pilot program on the population at other juvenile facilities;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>An analysis of the recidivism rate of eligible juvenile offenders who completed the BOOT CAMP and the recidivism rate of non-completers and a comparison sample of juvenile offenders who participated in a sanction other than the BOOT CAMP; and</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>Any recommendations as to changes to or expansion of the BOOT CAMP.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-67">Jan. 27, 1994, D.C. Law 10-67, § 601, 40 DCR 5768</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-832.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

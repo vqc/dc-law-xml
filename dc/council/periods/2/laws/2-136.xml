@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 2-136">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 2-136">
   <num type="law">2-136</num>
   <heading type="short">District of Columbia Mental Health Information Act of 1978</heading>
   <meta>
@@ -12,4 +12,1338 @@
       <narrative>Law 2-136, the “District of Columbia Mental Health Information Act of 1978,” was introduced in Council and assigned Bill No. 2-144, which was referred to the Committee on the Judiciary. The Bill was adopted on first, amended first, second amended first, and second readings on July 11, 1978, July 25, 1978, September 19, 1978 and October 3, 1978, respectively. Signed by the Mayor on November 1, 1978, it was assigned Act No. 2-292 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|I"/>
+    <num codify:value="7-1201.01">101</num>
+    <heading>Definitions.</heading>
+    <text>For purposes of this chapter:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Administrative information” means a client’s name, age, sex, address, identifying number or numbers, dates and character of sessions (individual or group), and fees.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Client” means any individual who receives or has received professional services from a mental health professional in a professional capacity.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Client representative” means an individual specifically authorized by the client in writing or by the court as the legal representative of that client.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Data collector” means a person other than the client, mental health professional and mental health facility who regularly engages, in whole or in part, in the practice of assembling or evaluating client mental health information.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Diagnostic information” means a therapeutic characterization which is of the type that is found in the Diagnostic and Statistical Manual of Mental Disorders of the American Psychiatric Association or any comparable professionally recognized diagnostic manual.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Disclose” means to communicate any information in any form (written, oral or recorded).</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Group session” means the provision of professional services jointly to more than 1 client in a mental health facility.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Insurance transaction” means whenever a decision (be it adverse or otherwise) is rendered regarding an individual’s eligibility for an insurance benefit or service.</text>
+    </para>
+    <para>
+      <num>(8A)</num>
+      <text>“Joint consent” means a process established by the Department of Mental Health pursuant to § <cite path="§7-1131.14">7-1131.14</cite>(6) to enable all participating providers to rely on a single form in which a consumer of mental health services consents to the use of his or her protected mental health information by participating providers in the Department of Mental Health’s organized health care arrangement, for the purposes of delivering treatment, obtaining payment for services and supports rendered, and performing certain administrative operations, such as quality assurance, utilization review, accreditation, and oversight.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Mental health information” means any written, recorded or oral information acquired by a mental health professional in attending a client in a professional capacity which:</text>
+      <para>
+        <num>(A)</num>
+        <text>Indicates the identity of a client; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Relates to the diagnosis or treatment of a client’s mental or emotional condition.</text>
+      </para>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Mental health facility” means any hospital, clinic, office, nursing home, infirmary, provider as defined in § <cite path="§7-1131.02">7-1131.02</cite>(27), or similar entity where professional services are provided.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Mental health professional” means any of the following persons engaged in the provision of professional services:</text>
+      <para>
+        <num>(A)</num>
+        <text>A person licensed to practice medicine;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A person licensed to practice psychology;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A licensed social worker;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A professional marriage, family, or child counselor;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>A rape crisis or sexual abuse counselor who has undergone at least 40 hours of training and is under the supervision of a licensed social worker, nurse, psychiatrist, psychologist, or psychotherapist;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>A licensed nurse who is a professional psychiatric nurse; or</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Any person reasonably believed by the client to be a mental health professional within the meaning of subparagraphs (A) through (F) of this paragraph.</text>
+      </para>
+    </para>
+    <para>
+      <num>(11A)</num>
+      <text>“Organized health care arrangement” means an organized system of health care in which more than one provider participates, and in which the participating providers hold themselves out to the public as participating in a joint arrangement, and either:</text>
+      <para>
+        <num>(A)</num>
+        <text>Participate in joint activities that include utilization review under Chapter 8 of Title 44, in which health care decisions by participating providers are reviewed by other participating providers or by a third party on their behalf; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Participate in quality assessment and improvement activities under Chapter 8 of Title 44, in which mental health services or mental health supports provided by participating providers are assessed by other participating providers or by a third party on their behalf.</text>
+      </para>
+    </para>
+    <para>
+      <num>(11B)</num>
+      <text>“Participating provider” means a provider of mental health services or mental health supports who, through participation in the joint consent promulgated by the Department of Mental Health pursuant to § <cite path="§7-1131.14">7-1131.14</cite>(6), joins the organized health care arrangement created by the Department of Mental Health.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Person” means any governmental organization or agency or part thereof, individual, firm, partnership, copartnership, association or corporation.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“Personal notes” means mental health information regarding a client which is limited to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Mental health information disclosed to the mental health professional in confidence by other persons on condition that such information not be disclosed to the client or other persons; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The mental health professional’s speculations.</text>
+      </para>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>“Professional services” means any form of diagnosis or treatment relating to a mental or emotional condition that is provided by a mental health professional.</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>“Third-party payor” means any person who provides accident and sickness benefits or medical, surgical or hospital benefits whether on an indemnity, reimbursement, service or prepaid basis, including, but not limited to, insurance carriers, governmental agencies and employers.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 101, 25 DCR 5055</annotation>
+        <annotation doc="D.C. Law 6-99">Mar. 25, 1986, D.C. Law 6-99, § 1101(b), 33 DCR 729</annotation>
+        <annotation doc="D.C. Law 9-126">July 22, 1992, D.C. Law 9-126, § 3, 39 DCR 3824</annotation>
+        <annotation doc="D.C. Law 10-257">May 23, 1995, D.C. Law 10-257, § 401(a), 42 DCR 53</annotation>
+        <annotation doc="D.C. Law 14-56">Dec. 18, 2001, D.C. Law 14-56, § 116(f)(1), 48 DCR 7674</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-1321.02">4-1321.02</cite>, § <cite path="§7-1201.04">7-1201.04</cite>, § <cite path="§12-301">12-301</cite>, § <cite path="§14-307">14-307</cite>, § <cite path="§16-2333.01">16-2333.01</cite>, § <cite path="§21-522">21-522</cite>, § <cite path="§21-527">21-527</cite>, § <cite path="§21-562">21-562</cite>, § <cite path="§21-2047">21-2047</cite>, and § <cite path="§44-301.06">44-301.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2001.</annotation>
+        <annotation>1973 Ed., § 6-1611.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-56">D.C. Law 14-56</cite> added pars. (8A), (11A), and (11B); and inserted “provider as defined in § <cite path="§7-1131.02">7-1131.02</cite>(27),” after “infirmary,” in par. (10).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(a) of D.C. Mental Health Information Act of 1978 Temporary Amendment Act of 1986 (<cite doc="D.C. Law 6-174">D.C. Law 6-174</cite>, February 24, 1987, law notification  34 DCR 1710).</annotation>
+        <annotation>For temporary (225 day) amendment of section, see § 16(f)(1) of Department of Mental Health Establishment Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-51">D.C. Law 14-51</cite>, October 30, 2001, law notification  48 DCR 10807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 16(f)(1) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001,  48 DCR 4390).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 16(f)(1) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001,  48 DCR 7123).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 116(f)(1) of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001,  48 DCR 9947).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|I"/>
+    <num codify:value="7-1201.02">102</num>
+    <heading>Disclosures prohibited; exceptions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as specifically authorized by subchapter II, III, or IV of this chapter, no mental health professional, mental health facility, data collector or employee or agent of a mental health professional, mental health facility or data collector shall disclose or permit the disclosure of mental health information to any person, including an employer.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Except as specifically authorized by subchapter II or IV of this chapter, no client in a group session shall disclose or permit the disclosure of mental health information relating to another client in the group session to any person.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No violation of subsection (a) or (b) of this section occurs until a single act or series of acts taken together amount to a disclosure of mental health information.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 102, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2002.</annotation>
+        <annotation>1973 Ed., § 6-1612.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>Pursuant to Reorganization Plan No. 5 of 1996, the function of providing mental health services to inmates in Department of Corrections facilities provided by the Bureau of Correctional Services, Commission on Mental Health Services, were transferred to the Department of Corrections.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|I"/>
+    <num codify:value="7-1201.03">103</num>
+    <heading>Personal notes.</heading>
+    <text>If a mental health professional makes personal notes regarding a client, such personal notes shall not be maintained as a part of the client’s record of mental health information. Notwithstanding any other provision of this chapter, access to such personal notes shall be strictly and absolutely limited to the mental health professional and shall not be disclosed except to the degree that the personal notes or the information contained therein are needed in litigation brought by the client against the mental health professional on the grounds of professional malpractice or disclosure in violation of this section.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 103, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-1205.01">7-1205.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2003.</annotation>
+        <annotation>1973 Ed., § 6-1613.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|I"/>
+    <num codify:value="7-1201.04">104</num>
+    <heading>General rules governing disclosures.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Upon disclosure of any of the client’s mental health information pursuant to subchapter II, III, or IV of this chapter, a notation shall be entered and maintained with the client’s record of mental health information which includes:</text>
+      <para>
+        <num>(1)</num>
+        <text>The date of the disclosure;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The name of the recipient of the mental health information; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A description of the contents of the disclosure.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All disclosures of mental health information, except on an emergency basis as provided in § <cite path="§7-1203.03">7-1203.03</cite>, shall be accompanied by a statement to the effect that: The unauthorized disclosure of mental health information violates the provisions of the District of Columbia Mental Health Information Act of 1978  (§§ <cite path="§7-1201.01">7-1201.01</cite> to 7-1207.02). Disclosures may only be made pursuant to a valid authorization by the client or as provided in title III or IV of that Act. The Act provides for civil damages and criminal penalties for violations.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 104, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2004.</annotation>
+        <annotation>1973 Ed., § 6-1614.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|II"/>
+    <num codify:value="7-1202.01">201</num>
+    <heading>Disclosures by client authorization.</heading>
+    <text>Except as provided in § <cite path="§7-1202.06">7-1202.06</cite>, a mental health professional, mental health facility, data collector or employee or agent of a mental health professional, mental health facility or data collector shall disclose mental health information and a client in a group session may disclose mental health information upon the voluntary written authorization of the person or persons who have the power to authorize disclosure under § <cite path="§7-1202.05">7-1202.05</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 201, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-1202.02">7-1202.02</cite> and § <cite path="§7-1202.03">7-1202.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2011.</annotation>
+        <annotation>1973 Ed., § 6-1615.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|II"/>
+    <num codify:value="7-1202.02">202</num>
+    <heading>Form of authorization.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any written authorization which authorizes disclosure pursuant to § <cite path="§7-1202.01">7-1202.01</cite> shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Specify the nature of the information to be disclosed, the type of persons authorized to disclose such information, to whom the information may be disclosed and the specific purposes for which the information may be used both at the time of the disclosure and at any time in the future;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Advise the client of his right to inspect his record of mental health information;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>State that the consent is subject to revocation, except where an authorization is executed in connection with a client’s obtaining a life or noncancellable or guaranteed renewable health insurance policy, in which case the authorization shall be specific as to its expiration date which shall not exceed 2 years from the date of the policy; or where an authorization is executed in connection with the client’s obtaining any other form of health insurance in which case the authorization shall be specific as to its expiration date which shall not exceed 1 year from the date of the policy;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Be signed by the person or persons authorizing the disclosure; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Contain the date upon which the authorization was signed and the date on which the authorization will expire, which shall be no longer than 365 days from the date of authorization.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A copy of such authorization shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be provided to the client and the person authorizing the disclosure;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Accompany all such disclosures; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be included in the client’s record of mental health information.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 202, 25 DCR 5055</annotation>
+        <annotation doc="D.C. Law 14-56">Dec. 18, 2001, D.C. Law 14-56, § 116(f)(2), 48 DCR 7674</annotation>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 204(a), 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-1202.04">7-1202.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2012.</annotation>
+        <annotation>1973 Ed., § 6-1616.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-56">D.C. Law 14-56</cite>, in subsec. (a)(5), inserted “and the date on which the authorization will expire, which shall be no longer than 60 days from the date of authorization”; and repealed subsec. (b) which had read:</annotation>
+        <annotation>“(b) Any authorization executed pursuant to subsection (a) of this section shall apply only to the disclosure of mental health information which exists as of the date of the authorization.”</annotation>
+        <annotation><cite doc="D.C. Law 18-88">D.C. Law 18-88</cite>, in subsec. (a)(5), substituted “365 days” for “60 days”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 16(f)(2) of Department of Mental Health Establishment Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-51">D.C. Law 14-51</cite>, October 30, 2001, law notification  48 DCR 10807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 16(f)(2) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001,  48 DCR 4390).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 16(f)(2) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001,  48 DCR 7123).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 116(f)(2) of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001,  48 DCR 9947).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 204(a) of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 204(a) of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|II"/>
+    <num codify:value="7-1202.03">203</num>
+    <heading>Redisclosure.</heading>
+    <text>Mental health information disclosed pursuant to this subchapter cannot be further disclosed by the recipient without authorization as provided in § <cite path="§7-1202.01">7-1202.01</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 203, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2013.</annotation>
+        <annotation>1973 Ed., § 6-1617.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|II"/>
+    <num codify:value="7-1202.04">204</num>
+    <heading>Revocation of authorization.</heading>
+    <text>Except as provided in § <cite path="§7-1202.02">7-1202.02</cite>(a)(3), the person or persons who authorize a disclosure may revoke an authorization by providing a written revocation to the recipient named in the authorization and to the mental health professional, mental health facility or data collector authorized to disclose mental health information. The revocation of authorization shall be effective upon receipt. After the effective revocation date, no mental health information may be disclosed pursuant to the authorization. However, mental health information previously disclosed may be used for the purposes stated in the written authorization.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 204, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2014.</annotation>
+        <annotation>1973 Ed., § 6-1618.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|II"/>
+    <num codify:value="7-1202.05">205</num>
+    <heading>Power to grant authorization.</heading>
+    <para>
+      <num>(a)</num>
+      <text>When a client is 18 years of age or over, the client or client representative shall have the power to authorize disclosures.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>When a client is under the age of 18, but beyond the age of 14, disclosures which require authorization may only be authorized by the joint written authorization of the client and the client’s parent or legal guardian. When a client is less than 14 years of age, disclosures which require authorization may only be authorized by the client’s parent or legal guardian. However, if the client’s parent or legal guardian has not expressed consent to the mental health professional regarding the client’s receipt of professional services, the client may, by written authorization, consent without any authorization from his parent or legal guardian.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 205, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-1202.01">7-1202.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2015.</annotation>
+        <annotation>1973 Ed., § 6-1619.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|II"/>
+    <num codify:value="7-1202.06">206</num>
+    <heading>Authority of mental health professional to limit authorized disclosures.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The mental health professional primarily responsible for the diagnosis or treatment of a client may refuse to disclose or limit disclosure of the client’s mental health information even though such mental health information is disclosable by virtue of a valid authorization; provided, that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Such mental health professional reasonably believes that such refusal or limitation on disclosure is necessary to protect the client from a substantial risk of imminent psychological impairment or to protect the client or another individual from a substantial risk of imminent and serious physical injury; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The mental health professional notifies the person or persons who authorized the disclosure, in writing, of: (A) the refusal or limitation on disclosure; (B) the reasons for such refusal or limitation; and (C) the remedies under this chapter; provided, further, that, in an insurance transaction, the mental health professional shall inform the insurer that the authorized disclosure was refused or limited.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In the event the disclosure is limited by the mental health professional pursuant to subsection (a) of this section, the person or persons who authorized the disclosure may designate an independent mental health professional who shall be in substantially the same or greater professional class as the mental health professional who initially limited disclosure and who shall be permitted to review the client’s record of mental health information. The independent mental health professional may authorize disclosure in whole or in part if, after a complete review of the client’s record of mental health information, the independent mental health professional determines that the disclosure does not pose to the client a substantial risk of imminent psychological impairment or pose a substantial risk of imminent and serious physical injury to the client or another individual.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A person who has taken action to achieve disclosure in accordance with subsection (b) of this section may institute an action in the Superior Court of the District of Columbia to compel the disclosure of all or any part of the record of the client’s mental health information which was not disclosed by the mental health professionals. An action instituted under this subsection shall be brought within 6 months of the denial, in whole or in part, of the disclosure by the independent mental health professional or the denial, in whole or in part, of disclosure to the independent mental health professional by the mental health professional. In the event that a person is indigent and is unable to obtain the services of an independent mental health professional, he may institute an action in the Superior Court of the District of Columbia, without regard to the provisions of subsection (b) of this section; provided, that the action is brought within 6 months of the denial, in whole or in part, of the disclosure by the mental health professional. If the person who instituted the action establishes that he executed a valid authorization which was transmitted to the mental health professional prior to the denial of disclosure by such mental health professional, the burden of proof shall then be placed upon the mental health professional to establish, by a preponderance of the evidence, that the denial of disclosure was in conformity with paragraphs (1) and (2) of subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Any refusal or limitation on disclosure shall be noted in the client’s record of mental health information including, but not limited to, the names of the mental health professionals involved, the date of the refusal or limitation, the requested disclosure and the actual disclosure, if any.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>This section shall not apply to disclosures under § <cite path="§21-562">21-562</cite> (concerning the disclosure of records of a client hospitalized in a public hospital for a mental illness) or court-related disclosures under subchapter IV of this chapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 206, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-1202.01">7-1202.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2016.</annotation>
+        <annotation>1973 Ed., § 6-1620.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|II"/>
+    <num codify:value="7-1202.07">207</num>
+    <heading>Limited disclosure to 3rd-party payors.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A mental health professional or mental health facility may disclose to a 3rd-party payor mental health information necessary to determine the client’s entitlement to, or the amount of, payment benefits for professional services rendered; provided, that the disclosure is pursuant to a valid authorization, or for participating providers, a joint consent, and that the information to be disclosed is limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Administrative information;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Diagnostic information;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The status of the client (voluntary or involuntary);</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The reason for admission or continuing treatment; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A prognosis limited to the estimated time during which treatment might continue.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In the event the 3rd-party payor questions the client’s entitlement to or the amount of payment benefits following disclosure under subsection (a) of this section, the 3rd-party payor may, pursuant to a valid authorization, or for participating providers, a joint consent, request an independent review of the client’s record of mental health information by a mental health professional or professionals. Mental health information disclosed for the purpose of review shall not be disclosed to the 3rd-party payor.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 207, 25 DCR 5055</annotation>
+        <annotation doc="D.C. Law 14-56">Dec. 18, 2001, D.C. Law 14-56, § 116(f)(3), 48 DCR 7674</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§44-301.07">44-301.07</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2017.</annotation>
+        <annotation>1973 Ed., § 6-1621.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-56">D.C. Law 14-56</cite>, in subsecs. (a) and (b), substituted “, or for participating providers, a joint consent,” after “a valid authorization”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 16(f)(3) of Department of Mental Health Establishment Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-51">D.C. Law 14-51</cite>, October 30, 2001, law notification  48 DCR 10807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 16(f)(3) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001,  48 DCR 4390).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 16(f)(3) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001,  48 DCR 7123).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 116(f)(3) of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001,  48 DCR 9947).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|III"/>
+    <num codify:value="7-1203.01">301</num>
+    <heading>Disclosures within a mental health facility or to participating providers.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Mental health information may be disclosed to other individuals employed at the individual mental health facility when and to the extent necessary to facilitate the delivery of professional services to the client.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Subject to subsection (c) of this section, a health care provider may disclose mental health information to another health care provider in connection with the diagnosis, evaluation, treatment, case management, or rehabilitation of a health or mental disorder or disease when and to the extent necessary to facilitate the delivery of health or professional services to the client. The authority to disclose mental health information under this subsection does not include the authority to disclose progress notes.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>A health care provider shall notify its clients, in plain language in writing, upon registration:</text>
+        <para>
+          <num>(A)</num>
+          <text>Whether the health care provider’s privacy practices permit the disclosure of mental health information pursuant to subsection (b) of this section; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>That a client may request that his or her mental health information not be disclosed pursuant to subsection (b) of this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a client requests that his or her mental health information not be disclosed, the health care provider shall not disclose the client’s mental health information pursuant to subsection (b) of this section; provided, that nothing contained in this subsection shall prohibit a health care provider from disclosing mental health information pursuant to another provision of this chapter or pursuant to Chapter 2A of this title [§ <cite path="§7-241">7-241</cite> et seq.].</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>For the purposes of this section, the term:</text>
+      <para>
+        <num>(1)</num>
+        <text>“Health care provider” means:</text>
+        <para>
+          <num>(A)</num>
+          <text>A person who is licensed, certified, or otherwise authorized under Chapter 12 of Title 3 [§  3-1201.01 et seq.] to provide health care in the ordinary course of business or practice of a health occupation or in an approved education or training program;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A person licensed or permitted to practice a health occupation under the laws of another state; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A facility where health or mental health services are provided to patients or recipients, including a hospital, clinic, office, nursing home, infirmary, health maintenance organization, medical laboratory, provider, as defined by § <cite path="§7-1131.02">7-1131.02</cite>(27), or similar entity licensed, certified, or otherwise authorized by the District of Columbia.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Progress notes” means notes recorded, in any medium, by a health care provider who is a mental health professional documenting or analyzing the contents of conversation during a private counseling session or a group, joint, or family counseling session and that are separated from the rest of the individual’s medical record. The term “progress notes” excludes medication prescription and monitoring, counseling session start and stop times, the modalities and frequencies of treatment furnished, results of clinical tests, and any summary of the following items: diagnosis, functional status, the treatment plan, symptoms, prognosis, and progress to date.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 301, 25 DCR 5055</annotation>
+        <annotation doc="D.C. Law 14-56">Dec. 18, 2001, D.C. Law 14-56, § 116(f)(4), 48 DCR 7674</annotation>
+        <annotation doc="D.C. Law 21-37">Dec. 15, 2015, D.C. Law 21-37, § 2, 62 DCR 13739</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2021.</annotation>
+        <annotation>1973 Ed., § 6-1622.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-56">D.C. Law 14-56</cite>, in the heading, substituted “facility.” for “facility or to participating providers.”; designated subsec. (a); and added subsec. (b).</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-37">D.C. Law 21-37</cite> rewrote (b); and added (c) and (d).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 16(f)(4) of Department of Mental Health Establishment Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-51">D.C. Law 14-51</cite>, October 30, 2001, law notification  48 DCR 10807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 16(f)(4) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001,  48 DCR 4390).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 16(f)(4) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001,  48 DCR 7123).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 116(f)(4) of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001,  48 DCR 9947).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|III"/>
+    <num codify:value="7-1203.02">302</num>
+    <heading>Disclosures under law.</heading>
+    <text>Mental health information may be disclosed by a mental health professional or mental health facility where necessary and, to the extent necessary:</text>
+    <para>
+      <num>(1)</num>
+      <text>To meet the requirements of § <cite path="§21-586">21-586</cite> (concerning financial responsibility for the care of hospitalized persons);</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>To meet the compulsory reporting provisions of District or federal law that seek to promote human health and safety, including § <cite path="§4-1371.12">4-1371.12</cite>; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>For the purposes of and in accordance with Chapter 2A of this title [§ <cite path="§7-251">7-251</cite> seq.].</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 302, 25 DCR 5055</annotation>
+        <annotation doc="D.C. Law 14-28">Oct. 3, 2001, D.C. Law 14-28, § 4616, 48 DCR 6981</annotation>
+        <annotation doc="D.C. Law 18-273">Dec. 4, 2010, D.C. Law 18-273, § 204(a), 57 DCR 7171</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-1371.06">4-1371.06</cite> and § <cite path="§16-1054">16-1054</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2022.</annotation>
+        <annotation>1973 Ed., § 6-1623.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-28">D.C. Law 14-28</cite>, inserted “, including § <cite path="§4-1317.12">4-1317.12</cite>”.</annotation>
+        <annotation><cite doc="D.C. Law 18-273">D.C. Law 18-273</cite> rewrote the section, which had read as follows: “Mental health information may be disclosed by a mental health professional or mental health facility where necessary and, to the extent necessary, to meet the requirements of § <cite path="§21-586">21-586</cite> (concerning financial responsibility for the care of hospitalized persons) or to meet the compulsory reporting provisions of District or federal law which attempt to promote human health and safety, including § <cite path="§4-1317.12">4-1317.12</cite>.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 16 of Child Fatality Review Committee Establishment Temporary Act of 2001 (<cite doc="D.C. Law 14-20">D.C. Law 14-20</cite>, September 6, 2001, law notification  48 DCR 9090).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 16 of Child Fatality Review Committee Establishment Emergency Act of 2001 (D.C. Act 14-40, April 25, 2001,  48 DCR 5917).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 16 of Child Fatality Review Committee Establishment Legislative Review Emergency Act of 2001 (D.C. Act 14-82, July 9, 2001,  48 DCR 6355).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 204(a) of Data-Sharing and Information Coordination Emergency Amendment Act of 2010 (D.C. Act 18-530, August 6, 2010,  57 DCR 8099).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 204(a) of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-582, October 20, 2010,  57 DCR 10118).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|III"/>
+    <num codify:value="7-1203.03">303</num>
+    <heading>Disclosures on an emergency basis.</heading>
+    <para>
+      <num>(a)</num>
+      <text>To the extent the disclosure of mental health information is not otherwise authorized by this chapter, mental health information may be disclosed, on an emergency basis, to one or more of the following if the mental health professional reasonably believes that such disclosure is necessary to initiate or seek emergency hospitalization of the client under § <cite path="§21-521">21-521</cite> or to otherwise protect the client or another individual from a substantial risk of imminent and serious physical injury:</text>
+      <para>
+        <num>(1)</num>
+        <text>The client’s spouse, parent, or legal guardian;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A duly accredited officer or agent of the District of Columbia in charge of public health;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Department of Mental Health;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A provider as that term is defined in § <cite path="§7-1131.02">7-1131.02</cite>(27);</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The District of Columbia Pretrial Services Agency;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Court Services and Offender Supervision Agency;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A court exercising jurisdiction over the client as a result of a pending criminal proceeding;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Emergency medical personnel;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>An officer authorized to make arrests in the District of Columbia; or</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>An intended victim.</text>
+      </para>
+    </para>
+    <para>
+      <num>(a-1)</num>
+      <text>Any disclosure of mental health information under this section shall be limited to the minimum necessary to initiate or seek emergency hospitalization of the client under § <cite path="§21-521">21-521</cite> or to otherwise protect the client or another individual from a substantial risk of imminent and serious physical injury.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Mental health information disclosed to the Metropolitan Police Department pursuant to this section shall be maintained separately and shall not be made a part of any permanent police record. Such mental health information shall not be further disclosed except as a court-related disclosure pursuant to subchapter IV of this chapter. If no judicial action relating to the disclosure under this section is pending at the expiration of the statute of limitations governing the nature of the judicial action, the mental health information shall be destroyed. If a judicial action relating to the disclosure under this section is pending at the expiration of the statute of limitations, the mental health information shall be destroyed at the termination of the judicial action.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Mental health information contained in a certification of incapacity, pursuant to § <cite path="§21-2204">21-2204</cite>, may be disclosed to initiate a proceeding pursuant to Chapter 20 of Title 21.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 303, 25 DCR 5055</annotation>
+        <annotation doc="D.C. Law 14-56">Dec. 18, 2001, D.C. Law 14-56, § 116(f)(5), 48 DCR 7674</annotation>
+        <annotation doc="D.C. Law 17-249">Oct. 22, 2008, D.C. Law 17-249, § 4, 55 DCR 9206</annotation>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 204(b), 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-1201.04">7-1201.04</cite> and § <cite path="§44-301.06">44-301.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2023.</annotation>
+        <annotation>1973 Ed., § 6-1624.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-249">D.C. Law 17-249</cite> added subsec. (c).</annotation>
+        <annotation><cite doc="D.C. Law 18-88">D.C. Law 18-88</cite> rewrote subsec. (a) and added subsec. (a-1). Prior to amendment, subsec. (a) read as follows: “(a) Mental health information may be disclosed, on an emergency basis, to 1 or more of the following: The client’s spouse, parent, legal guardian, a duly accredited officer or agent of the District of Columbia in charge of public health, the Department of Mental Health, a provider as defined in § <cite path="§7-1131.02">7-1131.02</cite>(27), an officer authorized to make arrests in the District of Columbia or an intended victim if the mental health professional reasonably believes that such disclosure is necessary to initiate or seek emergency hospitalization of the client under § <cite path="§21-521">21-521</cite> or to otherwise protect the client or another individual from a substantial risk of imminent and serious physical injury.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 16(f)(5) of Department of Mental Health Establishment Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-51">D.C. Law 14-51</cite>, October 30, 2001, law notification  48 DCR 10807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 16(f)(5) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001,  48 DCR 4390).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 16(f)(5) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001,  48 DCR 7123).</annotation>
+        <annotation>For temporary (90 day) amendment, see § 4 of Health-Care Decisions for Persons with Developmental Disabilities Emergency Act of 2008 (D.C. Act 17-492, August 4, 2008,  55 DCR 9167).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 204(b) of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 204(b) of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|III"/>
+    <num codify:value="7-1203.04">304</num>
+    <heading>Disclosures for collection of fees.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A mental health professional or mental health facility may disclose the administrative information necessary for the collection of his or its fee from the client to a person authorized by the mental health professional or mental health facility for the collection of a fee from such client if the client or client representative has received a written notification that the fee is due and has failed to arrange for payment with the mental health professional or mental health facility within a reasonable time after such notification.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In the event of a claim in any civil action for the collection of such a fee, no additional mental health information shall be disclosed in litigation, except to the extent necessary:</text>
+      <para>
+        <num>(1)</num>
+        <text>To respond to a motion of the client or client representative for greater specificity; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To dispute a defense or counterclaim.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 304, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2024.</annotation>
+        <annotation>1973 Ed., § 6-1625.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|III"/>
+    <num codify:value="7-1203.05">305</num>
+    <heading>Disclosures for research, auditing and program evaluation.</heading>
+    <text>In addition to the disclosures authorized pursuant to Chapter 2A of this title [§ <cite path="§7-251">7-251</cite> et seq.], a mental health professional or mental health facility may disclose mental health information to qualified personnel, if necessary, for the purpose of conducting scientific research or management audits, financial audits or program evaluation of the mental health professional or mental health facility; provided, that such personnel have demonstrated and provided assurances, in writing, of their ability to insure compliance with the requirements of this chapter. Such personnel shall not identify, directly or indirectly, an individual client in any reports of such research, audit or evaluation, or otherwise disclose client identities in any manner; except, that de-identified data may be shared in accordance with the Health Insurance Portability and Accountability Act of 1996, approved August 21, 1996 (110 Stat. 1936; 42 U.S.C. § 1320d   et seq.).</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 305, 25 DCR 5055</annotation>
+        <annotation doc="D.C. Law 18-273">Dec. 4, 2010, D.C. Law 18-273, § 204(b), 57 DCR 7171</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2025.</annotation>
+        <annotation>1973 Ed., § 6-1626.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-273">D.C. Law 18-273</cite> inserted “In addition to the disclosures authorized pursuant to Chapter 2A of this title, a mental health professional”; and inserted “any manner; except, that de-identified data may be shared in accordance with the Health Insurance Portability and Accountability Act of 1996, approved August 21, 1996 (110 Stat. 1936;  42 U.S.C. § 1320d et seq.)”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 204(b) of Data-Sharing and Information Coordination Emergency Amendment Act of 2010 (D.C. Act 18-530, August 6, 2010,  57 DCR 8099).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 204(b) of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-582, October 20, 2010,  57 DCR 10118).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|III"/>
+    <num codify:value="7-1203.05a">305a</num>
+    <heading>Disclosures to correctional institutions or law enforcement officials.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A mental health professional or mental health facility may disclose to a correctional institution or a law enforcement official having lawful custody of an individual mental health information about the individual to facilitate the delivery of mental health services and mental health supports to the individual.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any disclosure of mental health information under this section shall be limited to the minimum necessary to facilitate the delivery of mental health services and mental health supports.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 305a</annotation>
+        <annotation doc="D.C. Law 18-88">as added Dec. 10, 2009, D.C. Law 18-88, § 204(c), 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 204(c) of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) addition, see § 204(c) of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|III"/>
+    <num codify:value="7-1203.06">306</num>
+    <heading>Redisclosure.</heading>
+    <text>Mental health information disclosed pursuant to this subchapter shall not be redisclosed except as specifically authorized by subchapter II, III or IV of this chapter or for the purposes of and in accordance with Chapter 2A of this title [§ <cite path="§7-251">7-251</cite> et seq.].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 306, 25 DCR 5055</annotation>
+        <annotation doc="D.C. Law 18-273">Dec. 4, 2010, D.C. Law 18-273, § 204(c), 57 DCR 7171</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 53(b)(1), 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2026.</annotation>
+        <annotation>1973 Ed., § 6-1627.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-273">D.C. Law 18-273</cite> substituted “of this chapter or for the purposes of and in accordance with Chapter 2A of this title” for “of this chapter”.</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> validated a previously made technical correction.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 204(c) of Data-Sharing and Information Coordination Emergency Amendment Act of 2010 (D.C. Act 18-530, August 6, 2010,  57 DCR 8099).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 204(c) of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-582, October 20, 2010,  57 DCR 10118).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|IV"/>
+    <num codify:value="7-1204.01">401</num>
+    <heading>Court-ordered examinations.</heading>
+    <text>Except as provided elsewhere by law, mental health information acquired by a mental health professional pursuant to a court-ordered examination may be disclosed in a manner provided by rules of court or by order of the court.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 401, 25 DCR 5055</annotation>
+        <annotation doc="D.C. Law 14-56">Dec. 18, 2001, D.C. Law 14-56, § 116(f)(6), 48 DCR 7674</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2031.</annotation>
+        <annotation>1973 Ed., § 6-1628.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-56">D.C. Law 14-56</cite>, inserted “or by order of the court.”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 16(f)(6) of Department of Mental Health Establishment Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-51">D.C. Law 14-51</cite>, October 30, 2001, law notification  48 DCR 10807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 16(f)(6) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001,  48 DCR 4390).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 16(f)(6) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001,  48 DCR 7123).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|IV"/>
+    <num codify:value="7-1204.02">402</num>
+    <heading>Civil commitment proceedings.</heading>
+    <text>Mental health information may be disclosed by a mental health professional when and to the extent necessary to initiate or seek civil commitment proceedings under § <cite path="§21-541">21-541</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 402, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2032.</annotation>
+        <annotation>1973 Ed., § 6-1629.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|IV"/>
+    <num codify:value="7-1204.03">403</num>
+    <heading>Court actions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Mental health information may be disclosed in a civil or administrative proceeding in which the client or the client representative or, in the case of a deceased client, any party claiming or defending through or a beneficiary of the client, initiates his mental or emotional condition or any aspect thereof as an element of the claim or defense.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>In addition to mental health information that is disclosed when a defendant’s competence or mental health is at issue or when otherwise authorized by law, in a criminal proceeding, the court may order the disclosure, or redisclosure, of a defendant or offender’s mental health information when and only to the extent necessary to monitor the defendant or offender’s compliance with a condition of pretrial release, probation, parole, supervised release, or diversion agreement that the defendant or offender obtain or comply with mental health treatment ordered by a court or the U.S. Parole Commission.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any disclosure or redisclosure of mental health information ordered under this subsection shall be limited to the minimum necessary to monitor the individual’s compliance and the court’s order shall specify the information that may be disclosed or redisclosed.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 403, 25 DCR 5055</annotation>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 204(d), 56 DCR 7413</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2033.</annotation>
+        <annotation>1973 Ed., § 6-1630.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-88">D.C. Law 18-88</cite> designated the existing text as susbsec. (a); and added subsec. (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 204(d) of Omnibus Public Safety and Justice Emergency Amendment Act of 2009 (D.C. Act 18-181, August 6, 2009,  56 DCR 6903).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 204(d) of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|IV"/>
+    <num codify:value="7-1204.04">404</num>
+    <heading>Redisclosure.</heading>
+    <text>Redisclosure of any mental health information disclosed pursuant to this subchapter shall be governed by order of the court or, if no order is issued, by the rules of the Superior Court of the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 404, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2034.</annotation>
+        <annotation>1973 Ed., § 6-1631.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|IV"/>
+    <num codify:value="7-1204.05">405</num>
+    <heading>Court records; anonymity of parties.</heading>
+    <text>A client, client representative or any other party in a civil, criminal or administrative action, in which mental health information has been or will be disclosed, shall have the right to move the court to denominate, style or caption the names of all parties as “John Doe” or otherwise protect the anonymity of all of the parties.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 405, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2035.</annotation>
+        <annotation>1973 Ed., § 6-1632.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|V"/>
+    <num codify:value="7-1205.01">501</num>
+    <heading>Right to access.</heading>
+    <text>Except as provided in this subchapter and in § <cite path="§7-1201.03">7-1201.03</cite>, a mental health professional, mental health facility or data collector shall permit any client or client representative, upon written request, to inspect and duplicate the client’s record of mental health information maintained by the mental health professional, mental health facility or data collector within 30 days from the date of receipt of the request. A mental health professional, responsible for the diagnosis or treatment of the client, shall have the opportunity to discuss the mental health information with the client or client representative at the time of such inspection. In the case of a request to a data collector for disclosure of mental health information pursuant to this section, the data collector shall grant access either: (1) directly to the requestor; or (2) indirectly by providing the mental health information to a mental health professional designated by the requestor. If the mental health professional designated by the requestor is not the person who disclosed the mental health information to the data collector, he shall be in substantially the same or greater professional class as the mental health professional who disclosed the mental health information to the data collector.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 501, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-1205.04">7-1205.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2041.</annotation>
+        <annotation>1973 Ed., § 6-1633.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|V"/>
+    <num codify:value="7-1205.02">502</num>
+    <heading>Authority to limit access.</heading>
+    <text>A mental health professional or mental health facility may limit the disclosure of portions of a client’s record of mental health information to the client or client representative only if the mental health professional primarily responsible for the diagnosis or treatment of such client reasonably believes that such limitation is necessary to protect the client from a substantial risk of imminent psychological impairment or to protect the client or another individual from a substantial risk of imminent and serious physical injury. The mental health professional shall notify the client or client representative if the mental health professional does not grant complete access.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 502, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2042.</annotation>
+        <annotation>1973 Ed., § 6-1634.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|V"/>
+    <num codify:value="7-1205.03">503</num>
+    <heading>Review by independent mental health professional.</heading>
+    <text>In the event that disclosure of the client’s information is limited, the client or client representative may designate an independent mental health professional who shall be in substantially the same or greater professional class as the mental health professional who initially limited disclosure and who shall be permitted to review the client’s record of mental health information. The independent mental health professional shall permit the client or client representative to inspect and duplicate those portions of the client’s record of mental health information which, in his judgment, do not pose a substantial risk of imminent psychological impairment to the client or pose a substantial risk of imminent and serious physical injury to the client or another individual. In the event that the independent mental health professional allows the client to inspect and duplicate additional portions of the client’s record of mental health information, the mental health professional primarily responsible for the diagnosis or treatment of the client shall have the opportunity to discuss the information with the client at the time of transmittal, examination and duplication of information.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 503, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-1205.04">7-1205.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2043.</annotation>
+        <annotation>1973 Ed., § 6-1635.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|V"/>
+    <num codify:value="7-1205.04">504</num>
+    <heading>Judicial action to compel access.</heading>
+    <text>A client or client representative who has taken action in accordance with this subchapter may institute an action in the Superior Court of the District of Columbia to compel access to all or any part of the client’s record of mental health information which was denied by the mental health professional. An action initiated under this section shall be brought within 6 months of the denial of access, in whole or in part, by the independent mental health professional. In the event that a person is indigent and is unable to obtain the services of an independent mental health professional, he may institute an action in the Superior Court of the District of Columbia, without regard to the provisions of § <cite path="§7-1205.03">7-1205.03</cite>; provided, that the action is brought within 6 months of the denial of access, in whole or in part, by the mental health professional. If the person who instituted the action establishes that he made a request for access in compliance with § <cite path="§7-1205.01">7-1205.01</cite>, the burden of proof shall be placed upon the mental health professional to establish by a preponderance of the evidence that the denial of access was in conformity with subchapter V of this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 504, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2044.</annotation>
+        <annotation>1973 Ed., § 6-1636.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|V"/>
+    <num codify:value="7-1205.05">505</num>
+    <heading>Right to correct information.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The mental health professional, mental health facility and data collector shall maintain the client’s mental health information in an accurate and complete manner.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In the event that the client or client representative questions the accuracy or completeness of the client’s record of mental health information, he may, within 15 days of the date of access, submit a written amendment of reasonable length to the mental health professional, mental health facility or data collector, as the case may be. The mental health professional, mental health facility or data collector shall either:</text>
+      <para>
+        <num>(1)</num>
+        <text>Amend the client’s mental health information record in accordance with the proposed amendment; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Include the proposed amendment as part of the client’s mental health information record; provided, that the client may, at his option, withdraw the proposed amendment or file a more concise statement of disagreement as a substitute for the proposed amendment.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If the requested amendment was adopted, the mental health professional, mental health facility or data collector shall either promptly transmit the client’s amended record or the requested amendment to all persons to whom the client’s unamended mental health information had been disclosed or promptly inform the client of the names and addresses of such persons not receiving the amended record or the requested amendment. In any such disclosure made pursuant to this subsection, the mental health professional, mental health facility or data collector, as the case may be, may also include a statement of reasons for not adopting the requested amendment.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 505, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-1207.01">7-1207.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2045.</annotation>
+        <annotation>1973 Ed., § 6-1637.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|VI"/>
+    <num codify:value="7-1206.01">601</num>
+    <heading>Security requirement.</heading>
+    <text>Mental health professionals, mental health facilities and data collectors shall maintain records of mental health information in a secure manner as to effectuate the purposes of this chapter. Any entity that receives mental health information shall have appropriate administrative, technical, and physical safeguards in place to protect the confidentiality of mental health information and shall promptly notify the Department of Mental Health in writing of any unauthorized disclosure or use of mental health information.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 601, 25 DCR 5055</annotation>
+        <annotation doc="D.C. Law 18-273">Dec. 4, 2010, D.C. Law 18-273, § 204(d), 57 DCR 7171</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 53(b)(2), 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2051.</annotation>
+        <annotation>1973 Ed., § 6-1638.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-273">D.C. Law 18-273</cite> added the second sentence.</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> validated a previously made technical correction.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 204(d) of Data-Sharing and Information Coordination Emergency Amendment Act of 2010 (D.C. Act 18-530, August 6, 2010,  57 DCR 8099).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 204(d) of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-582, October 20, 2010,  57 DCR 10118).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|VI"/>
+    <num codify:value="7-1206.02">602</num>
+    <heading>Notice requirement — Employees and agents with access to information.</heading>
+    <text>Mental health professionals, mental health facilities and data collectors shall provide employees and agents who have lawful access to mental health information in the course of their employment with a written statement of the requirement of maintaining the security of records of mental health information and of the penalties provided in this chapter for unauthorized disclosure.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 602, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2052.</annotation>
+        <annotation>1973 Ed., § 6-1639.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|VI"/>
+    <num codify:value="7-1206.03">603</num>
+    <heading>Notice Requirement — Clients in group sessions.</heading>
+    <text>Mental health professionals shall provide clients in a group session with a written statement of the prohibition against the unauthorized disclosure of mental health information and the penalties provided in this chapter for unauthorized disclosure.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 603, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2053.</annotation>
+        <annotation>1973 Ed., § 6-1640.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|VII"/>
+    <num codify:value="7-1207.01">701</num>
+    <heading>Civil liability.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except for violations of § <cite path="§7-1205.05">7-1205.05</cite>(a), any person who negligently violates the provisions of this chapter shall be liable in an amount equal to the damages sustained by the client plus the costs of the action and reasonable attorney’s fees.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Except for violations of § <cite path="§7-1205.05">7-1205.05</cite>(a), any person who willfully or intentionally violates the provisions of this chapter shall be liable in damages sustained by the client in an amount not less than $1,000 plus the costs of the action and reasonable attorney’s fees.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Either party is entitled to trial by jury, upon request.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 701, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2061.</annotation>
+        <annotation>1973 Ed., § 6-1641.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|VII"/>
+    <num codify:value="7-1207.02">702</num>
+    <heading>Criminal penalties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except for violations of subchapter V of this chapter, any person who willfully violates the provisions of this chapter shall be guilty of a misdemeanor and such violator shall be fined not more than $1,000 or imprisoned for not more than 60 days, or both.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any person who knowingly obtains mental health information from a mental health professional, mental health facility or data collector, under false pretenses or through deception, shall be guilty of a misdemeanor and shall be fined not more than $5,000 or imprisoned not more than 90 days, or both.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 702, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2062.</annotation>
+        <annotation>1973 Ed., § 6-1642.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§7-1208.05" path="|7|12|VIII"/>
+    <num codify:value="7-1208.01">801</num>
+    <heading>Penalties under other laws.</heading>
+    <text>Any civil liability or criminal penalty imposed for violation of this chapter is, in addition to and not in lieu of, any civil or administrative remedy, penalty or sanction otherwise authorized by law. This chapter and the penalties prescribed for violations of this chapter shall not supersede but shall supplement all statutes of the District government and the United States government in which similar conduct is prohibited or regulated.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 801, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2071.</annotation>
+        <annotation>1973 Ed., § 6-1643.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§7-1208.05" path="|7|12|VIII"/>
+    <num codify:value="7-1208.02">802</num>
+    <heading>Prescriptions.</heading>
+    <text>Nothing in this chapter shall be construed as limiting or interfering with District of Columbia, state or federal regulation and monitoring of the handling and dispensing of prescription drugs.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 802, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2072.</annotation>
+        <annotation>1973 Ed., § 6-1644.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§7-1208.05" path="|7|12|VIII"/>
+    <num codify:value="7-1208.03">803</num>
+    <heading>Authority of the Commission on Mental Health.</heading>
+    <text>Nothing in this chapter shall be construed to apply to the operations of the Commission on Mental Health.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 803, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2073.</annotation>
+        <annotation>1973 Ed., § 6-1645.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§7-1208.05" path="|7|12|VIII"/>
+    <num codify:value="7-1208.04">804</num>
+    <heading>Prohibition against waiver.</heading>
+    <text>Any consent or agreement purporting to waive the provisions of this chapter is hereby declared to be against public policy and void.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 804, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2074.</annotation>
+        <annotation>1973 Ed., § 6-1646.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|12|VIII"/>
+    <num codify:value="7-1208.06">806</num>
+    <heading>Conflict with federal law.</heading>
+    <text>Nothing in this chapter shall be construed or applied to necessarily require or excuse noncompliance with any provision of any federal law.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 806, 25 DCR 5055</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2075.</annotation>
+        <annotation>1973 Ed., § 6-1647.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section>
+    <num>807</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|7|12|VIII"/>
+      <num codify:value="7-1208.07">(a)</num>
+      <heading>Effective date.</heading>
+      <text>The provisions of this chapter shall take effect pursuant to § <cite path="§1-206.02">1-206.02</cite>(c)(1) and shall govern all mental health information regardless of when such information came into existence. However, the provisions of this chapter which create liabilities shall only apply to acts or failures to act which occur on or after the effective date.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-136">Mar. 3, 1979, D.C. Law 2-136, § 807(a), 25 DCR 5055</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 6-2076.</annotation>
+          <annotation>1973 Ed., § 6-1648.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

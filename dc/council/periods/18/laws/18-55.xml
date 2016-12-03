@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 18-55">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 18-55">
   <num type="law">18-55</num>
   <heading type="short">Anacostia River Clean Up and Protection Act of 2009</heading>
   <meta>
@@ -12,4 +12,510 @@
       <narrative>Law 18-55, the “Anacostia River Clean Up and Protection Act of 2009”, was introduced in Council and assigned Bill No. 18-150, which was referred to the Committees on Finance and Revenue and Government Operations and the Environment. The Bill was adopted on first and second readings on June 2, 2009, and June 16, 2008, respectively. Enacted without signature by the Mayor on July 6, 2009, it was assigned Act No. 18-134 and transmitted to both Houses of Congress for its review. D.C. Law 18-55 became effective on September 23, 2009.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|I-A"/>
+    <num codify:value="8-102.01">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Disposable carryout bag” means a bag of any material, commonly plastic or kraft paper, which is provided to a consumer at the point of sale to carry purchases. The term “disposable carryout bag” shall not include:</text>
+      <para>
+        <num>(A)</num>
+        <text>Bags used by consumers inside stores to:</text>
+        <para>
+          <num>(i)</num>
+          <text>Package bulk items, such as fruit, vegetables, nuts, grains, candy, or small hardware items;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Contain or wrap frozen foods, meat, or fish, whether prepackaged or not;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Contain or wrap flowers, potted plants, or other items where dampness may be a problem; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Contain unwrapped prepared foods or bakery goods;</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Bags provided by pharmacists to contain prescription drugs;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Newspaper bags, door-hanger bags, laundry-dry cleaning bags, or bags sold in packages containing multiple bags intended for use as garbage, pet waste, or yard waste bags;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Paper carryout bags that restaurants, as defined in § <cite path="§47-2827">47-2827</cite>(e)(2), provide to customers to take food away from the retail establishment;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Reusable carryout bags; or</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Bags provided to the consumer, as required by § <cite path="§25-113">25-113</cite>(b)(5)(C), for the purpose of transporting a partially consumed bottle of wine.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Fund” means the Anacostia River Clean Up and Protection Fund established by § <cite path="§8-102.05">8-102.05</cite>(a).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Retail establishment” means any licensee under a Public Health: Food Establishment Retail endorsement to a basic business license under Chapter 28 of Title 47 or under an off-premises retailer’s license, class A or B, pursuant to § <cite path="§25-112">25-112</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Reusable carryout bag” means a bag with handles that is specifically designed and manufactured for multiple reuse and is made of cloth, fiber, other machine washable fabric, or durable plastic that is at least 2.25 millimeters thick.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-55">Sept. 23, 2009, D.C. Law 18-55, § 2, 56 DCR 5703</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-103.09b">8-103.09b</cite> and § <cite path="§8-104.06">8-104.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>Section 2 of <cite doc="D.C. Law 18-140">D.C. Law 18-140</cite> amended section 10 of <cite doc="D.C. Law 18-55">D.C. Law 18-55</cite> to read as follows: “Sec. 10. Applicability. ”Sections 2 and 4 through 6 shall apply as of January 1, 2010. Section 3 shall apply as of April 1, 2010.“.</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 18-140">D.C. Law 18-140</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section 10 of <cite doc="D.C. Law 18-55">D.C. Law 18-55</cite>, see § 2 of Anacostia River Clean Up and Protection Clarification Emergency Act of 2009 (D.C. Act 18-282, January 11, 2010,  57 DCR 950).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 10 of <cite doc="D.C. Law 18-55">D.C. Law 18-55</cite> provided: “Sec. 10. Applicability. Sections 2 through 6 shall apply as of January 1, 2010.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|I-A"/>
+    <num codify:value="8-102.02">3</num>
+    <heading>Requirements for disposable carryout bags made available to customers by retail establishments.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Disposable carryout bags made of plastic that cannot be recycled shall not be sold or distributed, retail or wholesale, in the District.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Disposable carryout bags made of paper shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be 100% recyclable;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Contain a minimum of 40% post-consumer recycled content; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Display the phrase “Please Recycle This Bag”, or a substantially similar phrase, in a highly visible manner on the bag exterior.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Disposable carryout bags made of plastic shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be 100% recyclable;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be made of high-density polyethylene film marked with the SPI resin identification code 2 or low-density polyethylene film marked with the SPI resin identification code 4; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Display the phrase “Please Recycle This Bag”, or a substantially similar phrase, in a highly visible manner on the bag exterior.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Violation of the requirements set forth in this section shall subject the retail establishment to the penalties set forth in § <cite path="§8-102.04">8-102.04</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-55">Sept. 23, 2009, D.C. Law 18-55, § 3, 56 DCR 5703</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|I-A"/>
+    <num codify:value="8-102.03">4</num>
+    <heading>Establishment of fee.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>A consumer making a purchase from a retail establishment shall pay at the time of purchase a fee of $.05 for each disposable carryout bag.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A retail establishment shall not advertise or hold out or state to the public or to a customer directly or indirectly that the reimbursement of the fee or any part thereof to be collected by the retail establishment will be assumed or absorbed by the retail establishment or otherwise refunded to the customer.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All retail establishments shall indicate on the consumer transaction receipt the number of disposable carryout bags provided and the total amount of fee charged.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <para>
+          <num>(A)</num>
+          <text>Each retail establishment shall retain $.01 of each $.05 fee collected; provided, that an establishment that chooses to offer a carryout bag credit program to its customers, as set forth in subparagraph (B) of this paragraph, shall retain an additional $.01 from each fee collected, for a total of $.02 for each $.05 fee collected.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A retail establishment shall retain an additional $.01 of each $.05 fee for a carryout program which:</text>
+          <para>
+            <num>(i)</num>
+            <text>Credits the consumer no less than $.05 for each carryout bag provided by the consumer for packaging their purchases, regardless of whether that bag is paper, plastic, or reusable;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Is prominently advertised at each checkout register; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Reflects the total credit amount on the consumer transaction receipt.</text>
+          </para>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The fees retained by the retail establishment under this paragraph shall not be classified as revenue and shall be tax-exempt for the purposes of Chapters 18, 20, and 27B of Title 47.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The fees retained by the retail establishment shall be excluded from the definition of retail sale under § <cite path="§47-2001">47-2001</cite>(n)(2) and from the definition of gross receipts under § <cite path="§47-2761">47-2761</cite>(5).</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>The fees to be remitted to the District under subsection (b)(2) of this section shall be added to other tax payments in determining whether the electronic payment requirement under § <cite path="§47-4402">47-4402</cite>(c) applies.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The remaining amount of each fee collected shall be paid to the Office of Tax and Revenue and shall be deposited in the Anacostia River Cleanup and Protection Fund established by § <cite path="§8-102.05">8-102.05</cite>(a).</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Office of Tax and Revenue shall develop rules for frequency and method for reporting and transmitting the fees, as set forth in subsection (a) of this section, to the District.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Except to the extent of any inconsistency with this subchapter, the same provisions to Title 47 that are applicable to the gross sales tax shall govern the administration, collection, and enforcement of the fee set forth in subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Notwithstanding any other law, the Office of Tax and Revenue shall furnish to the District Department of the Environment, upon request, the names, addresses, and whether any fees were collected pursuant to subsection (a) of this section of retail establishments subject to the provisions of this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-55">Sept. 23, 2009, D.C. Law 18-55, § 4, 56 DCR 5703</annotation>
+        <annotation doc="D.C. Law 19-21">Sept. 14, 2011, D.C. Law 19-21, § 6032(a), 58 DCR 6226</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-102.04">8-102.04</cite>, § <cite path="§8-102.05">8-102.05</cite>, § <cite path="§47-1803.02">47-1803.02</cite>, § <cite path="§47-2001">47-2001</cite>, § <cite path="§47-2005">47-2005</cite>, and § <cite path="§47-2761">47-2761</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> added subsec. (e).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 6031 of <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> provided that subtitle D of title VI of the act may be cited as “Bag Fee Compliance Amendment Act of 2011”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|I-A"/>
+    <num codify:value="8-102.04">5</num>
+    <heading>Rules; enforcement and penalties for violation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of this subchapter within 90 days after September 23, 2009.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>If the Mayor determines that a violation has occurred, the retail establishment shall be liable for the fees under § <cite path="§8-102.03">8-102.03</cite>(a) and the Mayor shall impose a penalty on the retail establishment. The penalty shall be a class 4 infraction under the Schedule of Fines in section 3201 of Title 16 of the District of Columbia Municipal Regulations (16 DCMR § 3201), pursuant to Chapter 18 of Title 2 [§ <cite path="§2-1801.01">2-1801.01</cite> et seq.]. Adjudication of any infraction shall be pursuant to Chapter 18 of Title 2 [§ <cite path="§2-1801.01">2-1801.01</cite> et seq.].</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No more than one penalty shall be imposed upon a retail establishment within a 7-day period.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If payment of any amounts due under this section is not received on or before the due date, a penalty shall be added as the Mayor provides by rule.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Revenues collected through citations for violation of this subchapter shall be used only for enforcement costs, including hiring inspectors and other staff, and administrative costs associated with enforcement of this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-55">Sept. 23, 2009, D.C. Law 18-55, § 5, 56 DCR 5703</annotation>
+        <annotation doc="D.C. Law 19-21">Sept. 14, 2011, D.C. Law 19-21, § 6032(b), 58 DCR 6226</annotation>
+        <annotation doc="D.C. Law 19-188">Oct. 23, 2012, D.C. Law 19-188, § 2(a), 59 DCR 10151</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-102.02">8-102.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (b)(2)(A), substituted “warning” for “warning in a calendar year”; and, in subsecs. (b)(2)(B) and (C), substituted “violation” for “violation in the same calendar year”.</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-188">D.C. Law 19-188</cite> rewrote (b).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|I-A"/>
+    <num codify:value="8-102.05">6</num>
+    <heading>Establishment of the Anacostia River Clean Up and Protection Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a nonlapsing fund the Anacostia River Clean Up and Protection Fund. The fees established by § <cite path="§8-102.03">8-102.03</cite> for disposable carryout bags and transmitted to the Office of Tax and Revenue, the net proceeds from the issuance of Anacostia River Commemorative License Plates, and the net proceeds from the voluntary tax check-off provided in § <cite path="§47-1812.111c">47-1812.111c</cite> [§ <cite path="§47-1812.11d">47-1812.11d</cite>] shall be deposited in the Fund. The Fund shall be used solely for the purposes set forth in subsection (b) of this section and shall be administered by the Office of the Director of the District Department of the Environment.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Fund shall be used solely for the purposes of cleaning and protecting the Anacostia River and other impaired waterways. Funds shall be used for the following projects:</text>
+      <para>
+        <num>(1)</num>
+        <text>A public education campaign to educate residents, businesses, and tourists about the impact of trash on the District’s environmental health;</text>
+      </para>
+      <para>
+        <num>(1A)</num>
+        <text>The pilot program described in § <cite path="§8-102.06a">8-102.06a</cite>, and, at the discretion of the District Department of the Environment, the pilot program’s full implementation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Providing reusable carryout bags to District residents, with priority distribution to seniors and low-income residents;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Purchasing and installing equipment, such as storm drain screens and trash traps, designed to minimize trash pollution that enters waterways through storm drains, with priority given to storm drains surrounding the significantly impaired tributaries identified by the District Department of the Environment;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Creating youth-oriented water resource and water pollution educational campaigns for students at the District public and charter schools;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Monitoring and recording pollution indices;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Preserving or enhancing water quality and fishery or wildlife habitat;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Promoting conservation programs, including programs for wildlife and endangered species;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Purchasing and installing signs and equipment designed to minimize trash pollution, including anti-littering signs to be installed in areas where littering would impact the Anacostia River, recycling containers, and covered trash receptacles;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Restoring and enhancing wetlands and green infrastructure to protect the health of the watershed and restore the aquatic and land resources of its watershed;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Funding community cleanup events and other activities that reduce trash, such as increased litter collection;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Funding a circuit rider program with neighboring jurisdictions to focus river and tributary clean-up efforts upstream;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Supporting vocational and job training experiences in environmental and sustainable professions that enhance the health of the watershed;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Maintaining a public website that educates District residents on the progress of clean-up efforts; and</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Paying for the administration of this program.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Fund shall not be used to supplant funds appropriated as part of an approved annual budget for Anacostia River cleaning activities.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Fund shall not be used to fund street sweeping activities.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>All funds deposited into the Fund, and any interest earned on those funds, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of the fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (b) of this section without regard to fiscal year limitation, subject to authorization from Congress.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-55">Sept. 23, 2009, D.C. Law 18-55, § 6, 56 DCR 5703</annotation>
+        <annotation doc="D.C. Law 18-223">Sept. 24, 2010, D.C. Law 18-223, § 1132, 57 DCR 6242</annotation>
+        <annotation doc="D.C. Law 19-188">Oct. 23, 2012, D.C. Law 19-188, § 2(b), 59 DCR 10151</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 6052, 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-1226.36">2-1226.36</cite>, § <cite path="§8-102.01">8-102.01</cite>, § <cite path="§8-102.03">8-102.03</cite>, § <cite path="§8-102.07">8-102.07</cite>, § <cite path="§47-1812.11d">47-1812.11d</cite>, and § <cite path="§50-1501.03">50-1501.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite>, in subsec. (c), designated the existing text as par. (1) and added par. (2).</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-188">D.C. Law 19-188</cite> added (b)(1A); and in (b)(8), inserted “signs and” and “anti-littering signs to be installed in areas where littering would impact the Anacostia River.”</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> deleted “in the following order of priority” following “Funds shall be used for the following projects” in (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Section 802 of <cite doc="D.C. Law 18-222">D.C. Law 18-222</cite> rewrote subsec. (c) to read as follows:</annotation>
+        <annotation>“(c)(1) The Fund shall not be used to supplant funds appropriated as part of an approved annual budget for Anacostia River cleaning activities.</annotation>
+        <annotation>“(2) The Fund shall not be used to fund street sweeping activities.”.</annotation>
+        <annotation>Section 2002(b) of <cite doc="D.C. Law 18-222">D.C. Law 18-222</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 802 of Fiscal Year 2010 Balanced Budget Support Emergency Act of 2010 (D.C. Act 18-450, June 28, 2010,  57 DCR 5635).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 802 of Fiscal Year 2010 Balanced Budget Support Congressional Review Emergency Act of 2010 (D.C. Act 18-531, August 6, 2010,  57 DCR 8109).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1132 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 6052 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 1131 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle N of title I of the act may be cited as the “Anacostia River Clean Up and Protection Clarification Amendment Act of 2010”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|I-A"/>
+    <num codify:value="8-102.06">7</num>
+    <heading>Public information and outreach campaigns.</heading>
+    <text>Beginning on or before October 1, 2009, the District Department of the Environment shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Conduct an intensive public information campaign aimed at educating the public on the importance of reducing the number of disposable carryout bags entering the waste stream and the impact of disposable carryout bags on the rivers, tributaries, and environmental health of the District; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Conduct an outreach campaign that includes:</text>
+      <para>
+        <num>(A)</num>
+        <text>A public-private partnership to provide reusable carryout bags to District residents; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Working with service providers that assist seniors and low-income residents to distribute information and multiple reusable carryout bags to low-income households.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-55">Sept. 23, 2009, D.C. Law 18-55, § 7, 56 DCR 5703</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|I-A"/>
+    <num codify:value="8-102.06a">7a</num>
+    <heading>Establishment of Anacostia pilot program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The District Department of the Environment shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Establish a pilot program that permits entities to adopt a section of the Anacostia River for the purpose of removing bottles and other trash; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Select an entity to participate in the pilot program whose organizational mission is related to the restoration and preservation of District waterways.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The pilot program shall include financial incentives and continue for at least 6 months.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>After completion of the pilot program, the District Department of the Environment may extend the program indefinitely and expand it to include other District waterways.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-55">Sept. 23, 2009, D.C. Law 18-55, § 7a</annotation>
+        <annotation doc="D.C. Law 19-188">as added Oct. 23, 2012, D.C. Law 19-188, § 2(c), 59 DCR 10151</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-102.05">8-102.05</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-188">D.C. Law 19-188</cite> added this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|1|I-A"/>
+    <num codify:value="8-102.07">8</num>
+    <heading>Issuance of Anacostia River Commemorative License Plates.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall issue reflectorized motor vehicle identification tags of a design to enhance public awareness of the District of Columbia’s efforts to restore and protect the Anacostia River and these identification tags may be called Anacostia River Commemorative License Plates. These identification tags shall retain and display the “TAXATION WITHOUT REPRESENTATION” slogan of the current District of Columbia motor vehicle identification tags.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In addition to the annual registration fee required by § <cite path="§50-1501.03">50-1501.03</cite>(a), a one-time fee of $25 shall be charged each time new Anacostia River Commemorative License Plates are issued. There shall also be a $20 renewal fee for Anacostia River Commemorative License Plates, which fee shall be charged biennially.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall recover the cost of producing and issuing the Anacostia River Commemorative License Plates from the proceeds collected from the one-time $25 fee and the biennial $20 renewal fee established under subsection (b) of this section.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The balance shall be paid into the Anacostia River Clean Up and Protection Fund established by § <cite path="§8-102.05">8-102.05</cite>(a) and used for the purposes described therein.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Mayor shall implement this section within 180 days after September 23, 2009. If an extension is necessary, the Mayor shall notify the Council prior to the implementation date.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-55">Sept. 23, 2009, D.C. Law 18-55, § 8, 56 DCR 5703</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Illegal dumping enforcement, see § <cite path="§8-903">8-903</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§50-1501.03">50-1501.03</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

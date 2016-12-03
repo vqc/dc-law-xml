@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 90-452">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 90-452">
   <num>90-452</num>
   <meta>
     <effective>1968-08-03</effective>
@@ -7,4 +7,24 @@
       <law session="90" lawId="452"/>
     </cites>
   </meta>
+  <section>
+    <num>3</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|24|6|II"/>
+      <reason>Repealed</reason>
+      <num codify:value="24-644">(c)</num>
+      <heading>Advisory committee.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 90-452">Aug. 3, 1968, 82 Stat. 624, Pub. L. 90-452, § 3(c)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 24-514.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

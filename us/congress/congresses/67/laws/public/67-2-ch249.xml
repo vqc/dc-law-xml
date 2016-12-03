@@ -1,10 +1,29 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 67-2-ch249">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 67-2-ch249">
+  <heading/>
   <meta>
     <effective>1922-06-29</effective>
     <cites>
-        <law congress="67" session="2" chapter="249"/>
+      <law congress="67" session="2" chapter="249"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§44-779" path="|44|7|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-778">1</num>
+    <heading>Washington Asylum Hospital continued.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 29, 1922, 42 Stat. 702, ch. 249, § 1</annotation>
+        <annotation doc="D.C. Law 5-48">Feb. 24, 1984, D.C. Law 5-48,§ 12(h), 30 DCR 5778</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-108.</annotation>
+        <annotation>1973 Ed., § 32-307.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,10 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 77-1-ch585">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 77-1-ch585">
+  <heading/>
   <meta>
     <effective>1941-12-16</effective>
     <cites>
-        <law congress="77" session="1" chapter="585"/>
+      <law congress="77" session="1" chapter="585"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|9"/>
+    <num codify:value="38-920">1</num>
+    <heading>Aeronautics courses authorized.</heading>
+    <text>The Board of Education is hereby authorized and directed to establish and to include in the curricula of the senior high schools of the District of Columbia, as an additional optional course, a course in aeronautics, which shall include instruction in aerodynamics, the theory of flight, the airplane and its engine, mechanics, engineering, meteorology, practical air navigation, map reading, and such other allied subjects as the Board in its discretion may deem it advisable to prescribe. Such course shall be 1st offered during the high-school term beginning in 1942. Thereafter such additional courses in aeronautics may be added as deemed desirable by the Board of Education. The same credit toward graduation may be given for said course as is given for other optional courses in said schools.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 16, 1941, 55 Stat. 806, ch. 585, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-901.</annotation>
+        <annotation>1973 Ed., § 31-1201.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|9"/>
+    <num codify:value="38-921">2</num>
+    <heading>Teachers of aeronautics.</heading>
+    <text>The Board is further authorized to employ a sufficient number of teachers of aeronautics, not to exceed 6, adequately to instruct those pupils who elect to pursue the said course, at the salary rates authorized for teachers in the senior high schools.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 16, 1941, 55 Stat. 807, ch. 585, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-902.</annotation>
+        <annotation>1973 Ed., § 31-1202.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|9"/>
+    <num codify:value="38-922">3</num>
+    <heading>Free textbooks, maps, and supplies.</heading>
+    <text>The Board shall provide the pupils of the senior high schools, free of charge, with the use of all aeronautical textbooks, maps, and other necessary educational supplies required for said course.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 16, 1941, 55 Stat. 807, ch. 585, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-903.</annotation>
+        <annotation>1973 Ed., § 31-1203.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|9"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-923">5</num>
+    <heading>Annual estimates of expenses.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Dec. 16, 1941, 55 Stat. 807, ch. 585, § 5</annotation>
+        <annotation doc="D.C. Law 18-223">Sept. 24, 2010, D.C. Law 18-223, § 4036, 57 DCR 6242</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-904.</annotation>
+        <annotation>1973 Ed., § 31-1204.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal of section, see § 4036 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 6-169">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 6-169">
   <num type="law">6-169</num>
   <heading type="short">District of Columbia Employees Child Care Facilities Act of 1986</heading>
   <meta>
@@ -12,4 +12,303 @@
       <narrative>Law 6-169, the “District of Columbia Employees Child Care Facilities Act of 1986,” was introduced in Council and assigned Bill No. 6-429, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on September 23, 1986, and October 7, 1986, respectively. Signed by the Mayor on October 30, 1986, it was assigned Act No. 6-218 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|9"/>
+    <num codify:value="4-901">2</num>
+    <heading>Necessity of employees’ child care facilities.</heading>
+    <text>The Council of the District of Columbia (“Council”) finds that:</text>
+    <para>
+      <num>(1)</num>
+      <text>The District of Columbia has more than 25,000 pre-schoolers and 45,000 school-aged children in need of child care services.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Fifty-eight percent of the mothers with children under the age of 3 in the District of Columbia are employed.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Sixty-three percent of the mothers with children 3 to 5 years of age in the District of Columbia are employed.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>During the period 1970 and 1980 the percentage of mothers with young  children in the labor force rose, resulting in a greater proportion of pre-school children requiring child care services.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Eighty percent of women in the work force are of childbearing age, and 93% of them are expected to become pregnant at some point in their careers.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>There is a substantial need to provide adequate child care facilities for District of Columbia (“District”) government employees that are low cost, safe, and convenient to the job site.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>District agencies will experience increased productivity and morale, as  well as lower absenteeism and turnover rates, by its staff by strategically  placing child care facilities in the buildings where the parents work.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Recruitment efforts will attract quality personnel because the provision of child care services is an incentive for reliable and responsible family members.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-169">Feb. 24, 1987, D.C. Law 6-169, § 2, 33 DCR 7028</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-901.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|9"/>
+    <num codify:value="4-902">3</num>
+    <heading>Child Care Bureau established; organization; duties of executive director.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established within the District government a Child Care Bureau  (“Bureau”).  The Bureau shall provide the District government a single administrative unit, responsible to the Mayor, to implement the provisions of this chapter and other programs that may be delegated to it by the Mayor of the District of Columbia (“Mayor”) to promote child care.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Bureau shall be headed by an executive director, who shall be appointed by the Mayor within 90 days after February 24, 1987. The executive director shall devote full time to the duties of the office.  In addition, there shall be made available to the executive director out of the budget for the fiscal year ending September 30, 1987, resources for staff necessary to carry out the provisions of this chapter.  For subsequent fiscal years, the Mayor shall propose a budget adequate for the operation of the Bureau.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In order to carry out the purposes of this chapter, the executive director shall, among other duties:</text>
+      <para>
+        <num>(1)</num>
+        <text>Serve as an advocate for child care in the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Develop recommendations for a central child care policy and a comprehensive plan for addressing child care needs in the District;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide an ongoing mechanism to increase the coordination and the sharing of information among the various agencies currently sharing responsibilities for child care, as well as the various commissions and advisory boards involved in the delivery of child care services;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Develop an analysis and forecast of child care needs in the District  government;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Identify areas of need for service or improvement of service and bring them to the attention of the Mayor, with suggestions for meeting these needs, including conducting or funding research and demonstration projects to test the suggestions;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Provide information and technical assistance with respect to programs and services for child care to the Mayor, other District government agencies and departments, and the community including, when necessary, contracting for consultant assistance outside the District government;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Evaluate present laws, regulations, procedures, and existing public and private programs, their capacities and program models, and make recommendations to the Mayor for improvement;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Review and comment on proposed District and federal legislation, regulations, policies, and programs, and make policy recommendations on health, safety, and quality issues as they relate to child care;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>File with the Mayor and with the Council an annual report on the operation of the Bureau to include information developed pursuant to paragraphs (5), (6), and (7) of this subsection, as well as an analysis of  child care needs, and make it available to the public;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Publish a directory to be revised at least every 2 years, of child care services available to District residents through the District government, including, to the maximum extent possible, sources of nonpublic assistance and  programs for child care in the District; and</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Assure necessary control, evaluation, audit, and reporting on programs funded through the Bureau.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-169">Feb. 24, 1987, D.C. Law 6-169, § 3, 33 DCR 7028</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-902.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to Law 6-169, see Mayor’s Order 87-139, June 16, 1987.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|9"/>
+    <num codify:value="4-903">4</num>
+    <heading>Requisites for space set aside in government buildings.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The District government shall set aside adequate space within government-occupied buildings to meet the child care needs of its employees whenever:</text>
+      <para>
+        <num>(1)</num>
+        <para>
+          <num>(A)</num>
+          <text>The government constructs, leases, or receives as a gift any office building that will be used to accommodate 100 or more District government employees; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The government makes additions, alterations, or repairs to existing District government-owned or -occupied office buildings that change the use of 25% of the net square foot area of the building and include the addition to, alteration of, or repair to the 1st floor in order to accommodate 100 or more District government employees; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A review of future employee occupancy shows sufficient need for child care services for 20 or more children.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Director of the Department of Administrative Services may secure space for child care outside any building described in subsection (a) of this section only in the event that all other physical requirements controlling the development of the child care facilities within the office building cannot be utilized, and only if funds for the offsite child care facilities are made available.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Office space occupied by the District government on February 24, 1987, may be renovated to accommodate a child care facility subject to the availability of funds and the direction of the Director of the Department of Administrative Services.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Space designated within a District office building for a child care facility shall comply with all other provisions of District law.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The interior area of child care space shall not exceed 2,000 feet, or be less than that required to accommodate 20 children, excluding space for restrooms, kitchen facilities, storage areas, and teacher offices.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>This chapter shall not be construed to apply to those buildings that provide care or 24-hour residential care for patients, inmates, or wards of the District, such as hospitals and correctional facilities.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Department of Administrative Services shall conduct an inventory of the current space and space requirements of the District government office space that could be utilized for child care programs as provided for in subsection (a) of this section.  The inventory shall be completed within 90 days of February 24, 1987.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-169">Feb. 24, 1987, D.C. Law 6-169, § 4, 33 DCR 7028</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-904">4-904</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-903.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|9"/>
+    <num codify:value="4-904">5</num>
+    <heading>Management of areas designated for facilities.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Utilization of the space described in § <cite path="§4-903">4-903</cite> for child care shall be subject to terms and conditions set forth by the Director of the Department of Administrative Services.  The terms shall include payment of rent, proof of financial responsibility, and maintenance of space.  The District government shall not be liable for negligent acts or acts of omission on the part of the child care facility operator, or its employees.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Space for child care facilities shall first be made available to employees who wish to establish nonprofit child care facilities at a rate to be established by the Director of the Department of Administrative Services, based upon the actual cost to the District, or the average cost of District-controlled office space, whichever is less.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Space for child care facilities may be made available to private organizations that wish to establish child care facilities in District government buildings.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Rates for the rental of space in District buildings to be made available for child care facilities shall be established by the Director of the Department of Administrative Services, who shall attempt to keep these costs as low as possible so that fees paid by employees for child care services will not be substantially impacted by high overhead costs.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Contracts with private organizations to provide child care services shall be competitively bid and awarded, and may include factors in addition to price, such as the provision of early childhood education programs, infant care, and other developmental models.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The department or departments occupying any building shall notify the employee-occupants of the availability of space to be used for child care facilities no earlier than 180 days prior to the projected date of occupancy of a new building or space provided as the result of additions, alterations, or repairs that both change the use of 25% of the net square foot area of the building and include the addition to, alteration of, or repair of the 1st floor.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <para>
+        <num>(1)</num>
+        <text>The space may be used for other purposes, as long as no permanent alteration of space occurs, if within 30 days after full occupancy of a new office building, or 30 days after completion of additions, alterations, or repairs to an existing District government building, the employee-occupants:</text>
+        <para>
+          <num>(A)</num>
+          <text>Have not requested a child care needs review by the Bureau;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Have not filed an application to be chartered as a nonprofit corporation for the purpose of organizing a child care facility;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Have not deposited 2 months’ rent in a commercial bank or savings account; or</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Have not entered into a contract with the Department of Administrative Services.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Other purposes may include, but are not limited to, conference rooms, storage rooms, or offices.</text>
+      </para>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>The space may be reconverted for child care purposes within 180 days of the notice, if, at a later date, the employee-occupants:</text>
+      <para>
+        <num>(1)</num>
+        <text>File an application to be chartered as a non-profit corporation for the purpose of organizing a child care facility;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Deposit 2 months’ rent in a commercial bank or savings account; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Notify the Director of the Department of Administrative Services of those actions.</text>
+      </para>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>Within 120 days of February 24, 1987, the Mayor shall promulgate proposed rules governing the operation of child care facilities in District government buildings. The proposed rules shall be submitted to the Council for approval, in whole or in part, by resolution.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-169">Feb. 24, 1987, D.C. Law 6-169, § 5, 33 DCR 7028</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-904.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to Law 6-169, see Mayor’s Order 87-139, June 16, 1987.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|9"/>
+    <num codify:value="4-905">6</num>
+    <heading>Periodic reassessment of need for facility; closing facility and relocation of children.</heading>
+    <para>
+      <num>(a)</num>
+      <text>When a child care facility has been continuously operating for 4 years, the executive director of the Bureau shall assess the child care needs of District employees using the facility and the office space needs of the building within which the facility is located.  If the assessment demonstrates a greater need for office space than for child care, the Director of the Department of Administrative Services may close the child care facility after 90 days written notice of the closure is given to the director or head teacher of the facility.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All children registered in a child care facility closed pursuant to subsection (a) of this section may be given relocation assistance into other child care facilities.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-169">Feb. 24, 1987, D.C. Law 6-169, § 6, 33 DCR 7028</annotation>
+        <annotation doc="D.C. Law 7-231">May 10, 1989, D.C. Law 7-231, § 14, 36 DCR 492</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-905.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

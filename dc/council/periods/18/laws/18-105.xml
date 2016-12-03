@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 18-105">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 18-105">
   <num type="law">18-105</num>
   <heading type="short">Waterfront Park at the Yards Act of 2009</heading>
   <meta>
@@ -12,4 +12,263 @@
       <narrative>Law 18-105, the “Waterfront Park at the Yards Act of 2009”, was introduced in Council and assigned Bill No. 18-299, which was referred to the Committee on Finance and Revenue. The bill was adopted on first and second readings on November 3, 2009, and December 1, 2009, respectively. Signed by the Mayor on December 18, 2009, it was assigned Act No. 18-243 and transmitted to both Houses of Congress for its review. D.C. Law 18-105 became effective on March 3, 2010.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|18"/>
+    <num codify:value="10-1801">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Chief Financial Officer” means the Chief Financial Officer established pursuant to § <cite path="§1-204.24a">1-204.24a</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Contribution period” means the period of time beginning on July 1, 2012, and ending on June 30, 2017.</text>
+    </para>
+    <para>
+      <num>(2A)</num>
+      <para>
+        <num>(A)</num>
+        <text>“Cost-of-living adjustment” means an amount, for any calendar year, equal to the maximum dollar amount set forth in § <cite path="§10-1804">10-1804</cite>(a)(1) multiplied by the difference between the CPI for the preceding calendar year and the CPI for the calendar year beginning January 1, 2011, divided by the CPI for the calendar year beginning January 1, 2011.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>For the purposes of this paragraph, the CPI for any calendar year is the average of the CPI for the Washington-Baltimore Metropolitan Statistical Area for all-urban consumers published by the Department of Labor, or any successor index, as of the close of the 12-month period ending on July 31 of such calendar year.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“CPI” means the “Consumer Price Index-all items CPIU (1996=100) Washington-Baltimore, DC-MD-VA-WV,” or any successor index, as published by the United States Department of Labor, Bureau of Labor Statistics, or any successor agency.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Maintenance Agreement” means a Waterfront Park Maintenance and Programming Agreement by and among the District of Columbia, Forest City SEFC, LLC, and the Capitol Riverfront Business Improvement District.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Project Developer” means Forest City SEFC, LLC, a District of Columbia limited liability company, its successors, or assigns.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Sales tax revenue” means the revenue resulting from the imposition of the tax under Chapters 20 and 22 of Title 47, including penalty and interest charges, exclusive of the portion thereof required to be deposited in the Washington Convention Center Fund established pursuant to § <cite path="§10-1202.08">10-1202.08</cite>.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Waterfront Park” means the approximately 5 acres located south of Water Street, S.E., between 2nd Street, S.E., and 4th Street, S.E., that are to be constructed for use as a public park.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Waterfront Park Benefit District” means the special assessment district established by § <cite path="§47-895.22">47-895.22</cite>.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Waterfront Park Retail Area” means the real property known for tax and assessment purposes as Lots 803, 804, 805, and 806, Square 771.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Waterfront Park Special Assessment” means the special assessment imposed by § <cite path="§47-895.23">47-895.23</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-105">Mar. 3, 2010, D.C. Law 18-105, § 2, 57 DCR 11</annotation>
+        <annotation doc="D.C. Law 20-61">Dec. 24, 2013, D.C. Law 20-61, § 8042(a), 60 DCR 12472</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> added (2A).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 8042(a) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 8042(a) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Section 8041 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle E of Title VIII of the act may be cited as the “Waterfront Park at the Yards Amendment Act of 2013”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 8044 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that §§ 8042 and 8043 of the act shall apply as of March 3, 2010.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|18"/>
+    <num codify:value="10-1802">3</num>
+    <heading>Authorization of Maintenance Agreement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Notwithstanding any other provision of law, the Mayor may enter into the Maintenance Agreement, and any amendments or supplements to the Maintenance Agreement, if the Maintenance Agreement provides that the Project Developer shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Pay and file its monthly District of Columbia sales and use tax returns for taxes attributable to the Waterfront Park Retail Area by electronic means, separate from any parent, subsidiary, affiliate, umbrella business organization, or other taxable entity or space of the Project Developer, and in a manner consistent with the instructions of the Office of Tax and Revenue;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Through lease arrangements or other means, obtain the written agreement of all tenants and vendors within the Waterfront Park Retail Area to pay and file their monthly District of Columbia sales and use taxes attributable to the Waterfront Park Retail Area by electronic means, separate and apart from any parent, subsidiary, affiliate, umbrella business organization, or other taxable entity or space of the tenant or vendor; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>File with the Recorder of Deeds a consent to the levy of the special assessment imposed by subchapter VII of Chapter 8 of Title 47.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Chapter 3A of Title 2 [§ <cite path="§2-351.01">2-351.01</cite> et seq.] shall not apply to the Maintenance Agreement.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-105">Mar. 3, 2010, D.C. Law 18-105, § 3, 57 DCR 11</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 225, 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “Chapter 3A of Title 2” for “§ <cite path="§2-301.01">2-301.01</cite> et seq.” in (b).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|18"/>
+    <num codify:value="10-1803">4</num>
+    <heading>Creation of the Waterfront Park Maintenance Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the Waterfront Park Maintenance Fund (“Fund”), which shall be used solely to pay the expenses of maintaining, operating, and improving the Waterfront Park and the expenses of events held in the Waterfront Park. The Chief Financial Officer shall deposit into the Fund the sales tax revenues attributable to the Waterfront Park Retail Area and revenue from the Waterfront Park Special Assessment. All monies in the Fund shall be paid by the Chief Financial Officer to the Capital Riverfront Business Improvement District pursuant to the terms set forth in the Maintenance Agreement. The payments from the Fund shall be an authorized expenditure by the District.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All funds deposited into the Fund, and any interest earned on those funds, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (b) of this section without regard to fiscal year limitation, subject to authorization by Congress.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-105">Mar. 3, 2010, D.C. Law 18-105, § 4, 57 DCR 11</annotation>
+        <annotation doc="D.C. Law 20-61">Dec. 24, 2013, D.C. Law 20-61, § 8042(b), 60 DCR 12472</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§47-895.24">47-895.24</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> rewrote (a).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 8042(b) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 8042(b) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Section 8041 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle E of Title VIII of the act may be cited as the “Waterfront Park at the Yards Amendment Act of 2013”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 8044 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that §§ 8042 and 8043 of the act shall apply as of March 3, 2010.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|18"/>
+    <num codify:value="10-1804">5</num>
+    <heading>Allocation of sales tax revenue attributable to the Waterfront Park Retail Area.</heading>
+    <para>
+      <num>(a)</num>
+      <text>During the contribution period, the sales and use tax revenue attributable to the Waterfront Park Retail Area shall be allocated and deposited into the Waterfront Park Maintenance Fund in the following amounts:</text>
+      <para>
+        <num>(1)</num>
+        <text>In the 12-month period beginning July 1, 2012, $380,000—or the amount of sales and use tax revenue attributable to the Waterfront Park Retail Area—if less than $380,000;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In each 12-month period beginning on each July 1 thereafter that is within the contribution period, an amount equal to $380,000, increased annually by the cost-of-living adjustment (if the adjustment does not result in a multiple of $50, rounded to the next lowest multiple of $50)—or the amount of sales and use tax revenue attributable to the Waterfront Park Retail Area—if less.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All sales and use tax revenue and revenue from the Waterfront Park Special Assessment received by the Chief Financial Officer by the 20th day of a month shall be deposited into the Fund by the Chief Financial Officer by the last business day of the following month.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-105">Mar. 3, 2010, D.C. Law 18-105, § 5, 57 DCR 11</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 74, 59 DCR 6190</annotation>
+        <annotation doc="D.C. Law 20-61">Dec. 24, 2013, D.C. Law 20-61, § 8042(c), 60 DCR 12472</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-1801">10-1801</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> validated a previously made technical correction.</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> designated the existing provisions as subsection (a); substituted “$380,000 — or the amount of sales and use tax revenue attributable to the Waterfront Park Retail Area — if less than $380,000” for “$380,000” in (a)(1); substituted “annually by the cost-of-living adjustment (if the adjustment does not result in a multiple of $50, rounded to the next lowest multiple of $50) — or the amount of sales and use tax revenue attributable to the Waterfront Park Retail Area — if less” for “by the increase in the CPI during the period from July 1, 2012, to the beginning of that 12-month period” in (a)(2); and added (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 8042(c) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 8042(c) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Section 8041 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle E of Title VIII of the act may be cited as the “Waterfront Park at the Yards Amendment Act of 2013”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 8044 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that §§ 8042 and 8043 of the act shall apply as of March 3, 2010.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|18"/>
+    <num codify:value="10-1805">6</num>
+    <heading>Naming rights for the Waterfront Park.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The provisions of subchapter IV of Unit A of Chapter 2 of Title 9 [§ <cite path="§9-204.01">9-204.01</cite> et seq.] shall not apply to the Waterfront Park.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The authority to sell the naming rights for the Waterfront Park, including the right to sell the naming rights for portions of the Waterfront Park, is assigned to Forest City SEFC, LLC; provided, that:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name of the park shall be subject to the approval of the Mayor;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Forest City SEFC, LLC, shall transfer all income generated from the naming of the Waterfront Park to the District; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The District is authorized to transfer the income transferred to the District pursuant to paragraph (2) of this subsection to the Capitol Riverfront Business Improvement District, performing services under the Maintenance Agreement.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-105">Mar. 3, 2010, D.C. Law 18-105, § 6, 57 DCR 11</annotation>
+        <annotation doc="D.C. Law 20-61">Dec. 24, 2013, D.C. Law 20-61, § 8042(d), 60 DCR 12472</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> rewrote (b)(3).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) additions, see §§ 2 to 6 of the Walter Reed Army Medical Center Base Realignment and Closure Homeless Assistance Submission Emergency Approval Act of 2012 (D.C. Act 19-393, July 18, 2012,  59 DCR 8690).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 8042(d) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 8042(d) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Section 8041 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle E of Title VIII of the act may be cited as the “Waterfront Park at the Yards Amendment Act of 2013”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 8044 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that §§ 8042 and 8043 of the act shall apply as of March 3, 2010.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

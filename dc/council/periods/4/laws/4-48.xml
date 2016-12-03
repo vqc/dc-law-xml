@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 4-48">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 4-48">
   <num type="law">4-48</num>
   <meta>
     <effective>1981-10-24</effective>
@@ -11,4 +11,21 @@
       <narrative>Law 4-48 was introduced in Council and assigned Bill No. 4-176, which was referred to the Committee on Transportation and Environmental Affairs. The Bill was adopted on first and second readings on June 30, 1981 and July 14, 1981, respectively. Signed by the Mayor on August 6, 1981, it was assigned Act No. 4-83 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§1-606.06" path="|1|6|VI"/>
+    <num codify:value="1-606.05">6</num>
+    <heading>Authority of Council to issue rules mandated by § 1-606.04(a).</heading>
+    <text>The officers of the Council of the District of Columbia may issue rules, subject to approval by the Council of the District of Columbia, concerning review of central staff employee personnel appeals as mandated in § <cite path="§1-606.04">1-606.04</cite>(a).</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-48">Oct. 24, 1981, D.C. Law 4-48, § 6, 28 DCR 4276</annotation>
+        <annotation doc="D.C. Law 7-104">Apr. 30, 1988, D.C. Law 7-104, § 31, 35 DCR 147</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-606.5.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

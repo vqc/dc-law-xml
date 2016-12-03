@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 15-331">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 15-331">
   <num type="law">15-331</num>
   <heading type="short">Health Care Ombudsman Program Establishment Act of 2004</heading>
   <meta>
@@ -12,4 +12,488 @@
       <narrative>Law 15-331, the “Health Care Ombudsman Program Establishment Act of 2004”, was introduced in Council and assigned Bill No. 15-137 which was referred to the Committee on Finance and Revenue and the Committee on Human Services. The Bill was adopted on first and second readings on December 7, 2004, and December 21, 2004, respectively. Signed by the Mayor on January 19, 2005, it was assigned Act No. 15-740 and transmitted to both Houses of Congress for its review. D.C. Law 15-331 became effective on April 12, 2005.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|20A"/>
+    <num codify:value="7-2071.01">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Accessible” means providing:</text>
+      <para>
+        <num>(A)</num>
+        <text>The program’s written materials in Spanish and English, and in other languages when required by Title VI of the Civil Rights Act of 1964, approved July 2, 1964 (78 Stat. 252; 42 U.S.C. § 2000d et seq.) (“Title VI”), or District law;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Interpreters to communicate with consumers in Spanish, and in other languages when required by Title VI or District law; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>TTY services and other accommodations for individuals with disabilities in accordance with the Americans with Disabilities Act of 1990, approved July 26, 1990 (104 Stat. 327; 42 U.S.C. § 12101 et seq.).</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Consumer” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>An uninsured resident of the District, including residents enrolled in the HealthCare Alliance; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>An individual covered by a health benefits plan in the District.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Department” means the Department of Health.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“District” means the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Health benefits plan” means a group or individual insurance policy or contract, medical or hospital service agreement, membership or subscription contract, or similar group arrangement provided by an insurer, or subcontracting facility of an insurer, or an employer for the purpose of providing, paying for, or reimbursing expenses for health-related services. The term “health benefits plan” shall include health coverage provided through a government program, including Medicaid. The term “health benefits plan” shall not include disability income or accident-only insurance.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Health Care Ombudsman” or “Ombudsman” means the individual responsible for running the Health Care Ombudsman Program.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Health Care Ombudsman Program” or “Ombudsman Program” means the program established by the District to counsel and assist uninsured District residents and individuals insured by health benefits plans in the District regarding matters pertaining to their health care coverage.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Health care services” means items or services provided under the supervision of a physician or other person trained or licensed to render health care necessary for the prevention, care, diagnosis, or treatment of human disease, pain, injury, deformity, or other physical or mental condition, including the following: pre-admission, outpatient, inpatient, and post-discharge care; home care; physician’s care; nursing care; medical care provided by interns or residents in training; other paramedical care; ambulance service and care; bed and board; drugs; supplies; appliances; equipment; laboratory services; any form of diagnostic imaging or therapeutic radiological services; and services mandated under Chapter 31 of Title 31.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-331">Apr. 12, 2005, D.C. Law 15-331, § 2, 52 DCR 1981</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|20A"/>
+    <num codify:value="7-2071.02">3</num>
+    <heading>Establishment of Health Care Ombudsman Program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Department shall establish the Health Care Ombudsman Program by contracting with a qualified private, community-based, nonprofit corporation, organization, or consortia of organizations, with offices located in the District, to operate the program. If the Department is unable to contract with a qualified corporation, organization, or consortia of organizations that meets the requirements of subsection (c) of this section, the Department shall operate the Ombudsman Program.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Ombudsman Program shall be administered by the Health Care Ombudsman, who shall be appointed by the Director of the Department. The Health Care Ombudsman shall be an individual with management experience and substantive experience in the fields of health care, health benefits plans, or health care advocacy. Unless the Department is operating the program, the Health Care Ombudsman shall be an employee of the nonprofit corporation, organization, or consortia of organizations selected by the Department to operate the program.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Department shall establish selection criteria for the qualified, private, nonprofit corporation, organization, or consortia of organizations that will perform the functions of the Ombudsman Program. The criteria shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>A public interest mission;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Qualified staff and organizational expertise in health care and health benefits plans, public education and community outreach, and problem resolution;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>No direct involvement in the licensing, certification, or accreditation of a health care facility, a health benefits plan, or a provider of a health benefits plan, or with a provider of a health care service;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>No direct ownership or investment interest in a health care facility, health benefits plan, or any health service;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>No participation in the management of a health care service, health care facility, or health benefits plan; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>No agreement or arrangement with an owner or operator of a health care service, health care facility, or health benefits plan that could indirectly or directly result in remuneration, in cash or in kind, to the organization.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Ombudsman Program may subcontract with advocacy organizations that are affiliated with health providers that exclusively represent the interests of consumers and do not represent the health care entity in any disputes.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Department shall accord preference in the selection process to corporations or organizations that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Have a board of directors with significant representation from District consumers;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Have experience in serving District residents or have staff with experience in serving District residents; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Have expertise in health benefits plans.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Ombudsman Program may use volunteers with appropriate training and supervision to assist with counseling, outreach, and other tasks.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-331">Apr. 12, 2005, D.C. Law 15-331, § 3, 52 DCR 1981</annotation>
+        <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 35, 53 DCR 6794</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite> validated previously made technical corrections in the subsection designations.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|20A"/>
+    <num codify:value="7-2071.03">4</num>
+    <heading>Program evaluation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Department shall develop criteria to be used in evaluating the performance of the Ombudsman Program.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Department shall obtain, biannually, an independent evaluation of the Ombudsman Program through an academic group or other independent, private-sector organization, the Office of the Inspector General, or the Office of the District of Columbia Auditor. The evaluation shall take into account:</text>
+        <para>
+          <num>(A)</num>
+          <text>The number of consumer problems handled;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The success in resolving the consumer problems handled;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Outreach and community education activities;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Satisfaction of consumers served by the program; and</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>The extent to which information was provided to the public and policy makers about problems faced by the consumers served.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department shall decide whether to renew contracts based on the evaluation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The evaluation shall be available to the public upon request.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The first evaluation shall take place no later than 2 years after April 12, 2005.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-331">Apr. 12, 2005, D.C. Law 15-331, § 4, 52 DCR 1981</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|20A"/>
+    <num codify:value="7-2071.04">5</num>
+    <heading>Duties.</heading>
+    <text>The Ombudsman Program shall provide the following accessible services:</text>
+    <para>
+      <num>(1)</num>
+      <text>Assist consumers in resolving problems concerning health care bills, health coverage, and access to health care by referring consumers to appropriate regulatory agencies when their problems are within an agency’s jurisdiction, guiding consumers through existing complaint processes, and assisting consumers in informally resolving problems through discussions with their health benefits plans, the HealthCare Alliance, or other providers;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Assist consumers in understanding their rights and responsibilities as health benefits plan members, HealthCare Alliance members, or members of other provider plans, including appeal processes and how to use them, and how to access appropriate medical information;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Educate consumers about health benefits plans, managed care health plans, and their health benefits plan options, or other health care options available for uninsured consumers;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Comment on behalf of consumers on related health care policy legislation and regulations in the District;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Help uninsured District residents access Medicaid or other health care options;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Identify, investigate, and help resolve complaints on behalf of consumers and assist consumers with the filing, pursuit, and resolution of formal and informal complaints and appeals through existing processes, including internal reviews conducted by health benefits plans, grievance and appeals processes for the HealthCare Alliance, fair hearings available to Medicaid consumers, external reviews before independent review organizations, and any other administrative appeals that may be available under District or federal law;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Refer consumers, when appropriate, to other existing organizations for assistance and work jointly with other consumer organizations, as appropriate;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Work with health care providers to develop working relationships that enhance coordination and referrals;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>Make appropriate referrals to the Department of Insurance, Securities, and Banking, the Office of Fair Hearings, the Office of Administrative Hearings, the Grievance and Appeals Office of the Department of Health, Health Care Fraud Units, the Long-Term Care Ombudsman, the Health Insurance Counseling and Assistance Program serving District Medicare beneficiaries, and the Center for Health Dispute Resolution; and</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>Provide information to the public, government agencies, the Council, and others regarding problems and concerns of consumers and make recommendations for resolving those problems and concerns.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-331">Apr. 12, 2005, D.C. Law 15-331, § 5, 52 DCR 1981</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|20A"/>
+    <num codify:value="7-2071.05">6</num>
+    <heading>Public outreach.</heading>
+    <text>The Ombudsman Program shall implement innovative strategies and tools to maximize its outreach to consumers, including provision of the following accessible information sources and services:</text>
+    <para>
+      <num>(1)</num>
+      <text>A toll-free 1-800 telephone number that operates in the District metropolitan area;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A website on the Internet;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>In-person counseling;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Establishing relationships with organizations in each ward of the city to provide outreach and receive referrals;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Active liaison, partnership, and information sharing with community, consumer, health, disability, religious, ethnic-based organizations, and other organizations; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>A one-page, easy-to-read flyer describing the Ombudsman Program’s services that shall be available to the public.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-331">Apr. 12, 2005, D.C. Law 15-331, § 6, 52 DCR 1981</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|20A"/>
+    <num codify:value="7-2071.06">7</num>
+    <heading>Data collection and reporting.</heading>
+    <text>The Health Care Ombudsman shall submit annually to the Council, the Mayor, the Department of Health, and the Department of Insurance, Securities, and Banking a report on the activities, performance, and fiscal accounts of the Ombudsman Program, issues of concern to consumers, and the Ombudsman’s recommendations to improve health access. The report shall be available to the public upon request.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-331">Apr. 12, 2005, D.C. Law 15-331, § 7, 52 DCR 1981</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|20A"/>
+    <num codify:value="7-2071.07">8</num>
+    <heading>Access to records; confidentiality.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Health Care Ombudsman may review the records of a health benefits plan, the HealthCare Alliance, or other provider, pertaining to a consumer or the consumer’s medical records if the consumer or the consumer’s legal representative has provided written consent. The confidentiality of the records shall be maintained by the Ombudsman Program in accordance with all federal and state confidentiality and disclosure laws.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No information or records maintained by the program shall be disclosed to the public unless the consumer or the consumer’s legal representative has consented in writing to the release of the information or records.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Each District agency shall provide cooperation, assistance, and data to the Health Care Ombudsman, as requested and upon reasonable notice, necessary to enable the Ombudsman Program to investigate a consumer’s complaint under applicable District or federal law.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Department shall enter into a “business associate” agreement with the Ombudsman Program that gives the program access to information about the Medicaid eligibility status of consumers whom it serves and requires the program to safeguard that information pursuant to the Health Insurance Portability and Accountability Act Privacy Regulation (45 C.F.R. Parts 160 and 164).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-331">Apr. 12, 2005, D.C. Law 15-331, § 8, 52 DCR 1981</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|20A"/>
+    <num codify:value="7-2071.08">9</num>
+    <heading>Immunity from liability.</heading>
+    <text>No employee, subcontractor, designee, or representative of the Ombudsman Program shall be held liable for the good faith performance of responsibilities under this chapter, except that no immunity shall extend to criminal acts, or acts that violate District or federal law.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-331">Apr. 12, 2005, D.C. Law 15-331, § 9, 52 DCR 1981</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|20A"/>
+    <num codify:value="7-2071.09">10</num>
+    <heading>Non-retaliation.</heading>
+    <text>A health benefits plan or the HealthCare Alliance shall not take retaliatory action of any sort against a member who seeks assistance from the Ombudsman Program or against a provider who furnishes information to the Ombudsman Program pursuant to a consumer’s request.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-331">Apr. 12, 2005, D.C. Law 15-331, § 10, 52 DCR 1981</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|20A"/>
+    <num codify:value="7-2071.10">11</num>
+    <heading>Requirements for health benefits plans and HealthCare Alliance.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Health benefits plans and the HealthCare Alliance shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Include in their marketing and membership materials information regarding the availability of the Ombudsman Program;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Send annually to their members notification of the availability of the Ombudsman Program; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide members the telephone number of the Ombudsman Program upon request.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A health benefits plan may use the one-page, easy-to-read flyer developed by the Ombudsman Program to describe its services to meet the notice requirements under subsection (a)(1) and (2) of this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-331">Apr. 12, 2005, D.C. Law 15-331, § 11, 52 DCR 1981</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|20A"/>
+    <num codify:value="7-2071.11">12</num>
+    <heading>Advisory Council.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Ombudsman shall establish an Advisory Council to consist of members representing:</text>
+      <para>
+        <num>(1)</num>
+        <text>Consumers;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Consumer advocacy organizations;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Health benefits plans;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Health care facilities;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Physicians;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Health Insurance Counseling and Assistance Program or any successor charged with counseling Medicare beneficiaries pursuant to section 4360 of the Omnibus Reconciliation Act of 1990, approved November 5, 1990 (104 Stat. 1388-138; 42 U.S.C.§ 1395b-4);</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Department of Health, including its Office of Maternal and Child Health and its Grievance and Appeals Office; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The Department of Insurance, Securities, and Banking.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Advisory Council shall perform, at minimum, the following functions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Advise the Ombudsman on program design and operational issues;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Recommend the criteria to be used in evaluating the performance of the Ombudsman Program;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Recommend changes in the Ombudsman Program; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Review data on cases handled by the Ombudsman Program and make recommendations based on that data.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-331">Apr. 12, 2005, D.C. Law 15-331, § 12, 52 DCR 1981</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|20A"/>
+    <num codify:value="7-2071.12">13</num>
+    <heading>Funding for the Ombudsman Program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Funding sources for the Ombudsman Program shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>District local appropriations; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Medicaid federal matching funds.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Nothing in this chapter shall prohibit a corporation, organization, or consortia of organizations selected to operate the Health Care Ombudsman Program from raising private money through foundation resources to supplement government funds for the program.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-331">Apr. 12, 2005, D.C. Law 15-331, § 13, 52 DCR 1981</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|20A"/>
+    <reason>Repealed</reason>
+    <num codify:value="7-2071.13">14</num>
+    <heading>Contingent effectiveness of chapter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-331">Apr. 12, 2005, D.C. Law 15-331, § 14, 52 DCR 1981</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 7046, 55 DCR 7598</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

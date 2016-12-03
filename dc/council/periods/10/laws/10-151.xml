@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 10-151">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 10-151">
   <num type="law">10-151</num>
   <heading type="short">Omnibus Criminal Justice Reform Amendment Act of 1994</heading>
   <meta>
@@ -12,4 +12,53 @@
       <narrative>Law 10-151, the “Omnibus Criminal Justice Reform Amendment Act of 1994,” was introduced in Council and assigned Bill No. 10-98, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on March 29, 1994, and April 12, 1994, respectively. Signed by the Mayor on May 4, 1994, it was assigned Act No. 10-238 and transmitted to both Houses of Congress for its review. D.C. Law 10-151 became effective on August 20, 1994.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|I|A"/>
+    <reason>Repealed</reason>
+    <num codify:value="24-201.29">802</num>
+    <heading>Institutional good time.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-151">Aug. 20, 1994, D.C. Law 10-151, § 802, 41 DCR 2608</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-428.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary repeal of section, see § 802 (a) of the Omnibus Criminal Justice Reform Emergency Amendment Act of 1994 (D.C. Act 10-255, June 22, 1994,  41 DCR 4286).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section>
+    <num>110</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|22|17|I"/>
+      <reason>Repealed</reason>
+      <num codify:value="22-1715">(a)</num>
+      <heading>Presence in illegal establishments.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 10-151">Aug. 20, 1994, D.C. Law 10-151, § 110(a), 41 DCR 2608</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 22-1515.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary repeal of section, see § 110(a) of the Omnibus Criminal Justice Reform Emergency Amendment Act of 1994 (D.C. Act 10-255, June 22, 1994,  41 DCR 4286).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Former § <cite path="§22-1515">22-1515</cite> had also been amended by <cite doc="D.C. Law 10-119">D.C. Law 10-119</cite>, § 9(b).</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

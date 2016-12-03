@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 89-183">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 89-183">
   <num>89-183</num>
   <meta>
     <effective>1965-09-14</effective>
@@ -7,4 +7,21 @@
       <law session="89" lawId="183"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1504" path="|22|15"/>
+    <reason>Repealed</reason>
+    <num codify:value="22-1503">8</num>
+    <heading>Stealing, destroying, mutilating, secreting, or withholding will.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 89-183">Sept. 14, 1965, 79 Stat. 783, Pub. L. 89-183, § 8</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-1403.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

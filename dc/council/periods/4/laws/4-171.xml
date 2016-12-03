@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 4-171">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 4-171">
   <num type="law">4-171</num>
   <meta>
     <effective>1983-03-09</effective>
@@ -8,4 +8,290 @@
       <register page="5297" vol="29"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-501">2</num>
+    <heading>Purposes.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 2, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-502">3</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 3, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-503">4</num>
+    <heading>Persons previously licensed.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 4, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-504">5</num>
+    <heading>Animal facility license required.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 5, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-505">6</num>
+    <heading>Board of Veterinary Examiners; duties of Mayor.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 6, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 15-107">Mar. 30, 2004, D.C. Law 15-107, § 2, 51 DCR 1338</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 87, 52 DCR 2638</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 401(b) of <cite doc="D.C. Law 20-96">D.C. Law 20-96</cite> provided that rules promulgated pursuant to Chapter 5 of this title shall remain in effect until the Mayor promulgates rules to implement this subchapter.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-506">7</num>
+    <heading>Fees; expiration date of licenses.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 7, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-507">8</num>
+    <heading>Qualifications for issuance of license.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 8, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-508">9</num>
+    <heading>License renewal.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 9, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-509">10</num>
+    <heading>Denial, suspension, or revocation of licenses; grounds; reinstatement.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 10, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 401(b) of <cite doc="D.C. Law 20-96">D.C. Law 20-96</cite> provided that rules promulgated pursuant to Chapter 5 of this title shall remain in effect until the Mayor promulgates rules to implement this subchapter.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-510">11</num>
+    <heading>Hearing procedures.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 11, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 17-281">Dec. 5, 2008, D.C. Law 17-281, § 101(a), 55 DCR 9186</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-511">12</num>
+    <heading>Appeal procedures.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 12, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-512">13</num>
+    <heading>Certification of animal technicians.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 13, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-512.01">13a</num>
+    <heading>Permitted practice without a license; exemption for services provided during emergency.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 13a</annotation>
+        <annotation doc="D.C. Law 17-281">as added Dec. 5, 2008, D.C. Law 17-281, § 101(b), 55 DCR 9186</annotation>
+        <annotation doc="D.C. Law 18-184">July 1, 2010, D.C. Law 18-184, § 14(b), 57 DCR 3655</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-512.02">13b</num>
+    <heading>Issuance of animal license; collection of fees.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 13b</annotation>
+        <annotation doc="D.C. Law 17-281">as added Dec. 5, 2008, D.C. Law 17-281, § 101(b), 55 DCR 9186</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-513">14</num>
+    <heading>Exceptions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 14, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-514">15</num>
+    <heading>Prohibited acts.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 15, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 5-159">Mar. 14, 1985, D.C. Law 5-159, § 10, 32 DCR 30</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-515">16</num>
+    <heading>Penalties.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 16, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 8-237">Mar. 8, 1991, D.C. Law 8-237, § 3, 38 DCR 314</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 401(b) of <cite doc="D.C. Law 20-96">D.C. Law 20-96</cite> provided that rules promulgated pursuant to Chapter 5 of this title shall remain in effect until the Mayor promulgates rules to implement this subchapter.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-516">17</num>
+    <heading>Prosecutions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 17, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|5|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-517">18</num>
+    <heading>Injunctions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-171">Mar. 9, 1983, D.C. Law 4-171, § 18, 29 DCR 5297</annotation>
+        <annotation doc="D.C. Law 20-96">Mar. 26, 2014, D.C. Law 20-96, § 401(a), 61 DCR 1184</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

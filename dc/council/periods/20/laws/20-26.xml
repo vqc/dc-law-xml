@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 20-26">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 20-26">
   <num type="law">20-26</num>
   <heading type="short">Telehealth Reimbursement Act of 2013</heading>
   <meta>
@@ -12,4 +12,87 @@
       <narrative>Law 20-26, the “Telehealth Reimbursement Act of 2013,” was introduced in Council and assigned Bill No. 20-50. The Bill was adopted on first and second readings on June 4, 2013, and June 26, 2013, respectively. Signed by the Mayor on July 23, 2013, it was assigned Act No. 20-119 and transmitted to Congress for its review. D.C. Law 20-26 became effective on October 17, 2013.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|38C"/>
+    <num codify:value="31-3861">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Health benefits plan” shall have the same meaning as provided in § <cite path="§31-3131">31-3131</cite>(4).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Health insurer” shall have the same meaning as provided in § <cite path="§31-3131">31-3131</cite>(5).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Provider” shall have the same meaning as provided in § <cite path="§31-3131">31-3131</cite>(7).</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Telehealth” means the delivery of healthcare services through the use of interactive audio, video, or other electronic media used for the purpose of diagnosis, consultation, or treatment; provided, that services delivered through audio-only telephones, electronic mail messages, or facsimile transmissions are not included.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-26">Oct. 17, 2013, D.C. Law 20-26, § 2, 60 DCR 11117</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|38C"/>
+    <num codify:value="31-3862">3</num>
+    <heading>Private reimbursement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A health insurer offering a health benefits plan in the District may not deny coverage for a healthcare service on the basis that the service is provided through telehealth if the same service would be covered when delivered in person.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A health insurer shall reimburse the provider for the diagnosis, consultation, or treatment of the insured when the service is delivered through telehealth.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A health insurer shall not be required to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Reimburse a provider for healthcare service delivered through telehealth that is not a covered under the health benefits plan; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Reimburse a provider who is not a covered provider under the health benefits plan.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A health insurer may require a deductible, copayment, or coinsurance amount for a healthcare service delivered through teleheath; provided, that the deductible, copayment, or coinsurance amount may not exceed the amount applicable to the same service when it is delivered in person.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A health insurer shall not impose any annual or lifetime dollar maximum on coverage for telehealth services other than an annual or lifetime dollar maximum that applies in the aggregate to all items and services under the health benefits plan.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Nothing in this chapter shall preclude the health insurer from undertaking utilization review to determine the appropriateness of telehealth as a means of delivering a healthcare service; provided, that the determinations shall be made in the same manner as those regarding the same service when it is delivered in person.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-26">Oct. 17, 2013, D.C. Law 20-26, § 3, 60 DCR 11117</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|38C"/>
+    <num codify:value="31-3863">4</num>
+    <heading>Medicaid reimbursement.</heading>
+    <text>Medicaid shall cover and reimburse for healthcare services appropriately delivered through telehealth if the same services would be covered when delivered in person.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-26">Oct. 17, 2013, D.C. Law 20-26, § 4, 60 DCR 11117</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

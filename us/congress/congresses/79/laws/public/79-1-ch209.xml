@@ -1,10 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 79-1-ch209">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 79-1-ch209">
+  <heading/>
   <meta>
     <effective>1945-06-30</effective>
     <cites>
-        <law congress="79" session="1" chapter="209"/>
+      <law congress="79" session="1" chapter="209"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|7|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-785">1</num>
+    <heading>Availability of appropriations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 30, 1945, 59 Stat. 282, ch. 209, § 1</annotation>
+        <annotation doc="D.C. Law 5-48">Feb. 24, 1984, D.C. Law 5-48,§ 12(d), 30 DCR 5778</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-118.</annotation>
+        <annotation>1973 Ed., § 32-321.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|E"/>
+    <num codify:value="1-301.92">7</num>
+    <heading>Use of exchange allowances or sale proceeds to purchase similar items.</heading>
+    <text>In purchasing motor-propelled or animal-drawn vehicles or tractors, or road, agricultural, manufacturing, or laboratory equipment, or boats, or parts, accessories, tires, or equipment thereof, the Director of the Office of Contracting and Procurement or his duly authorized representatives may exchange or sell similar items and apply the exchange allowances or proceeds of sales in such cases in whole or in part payment therefor.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 30, 1945, 59 Stat. 293, ch. 209, § 7</annotation>
+        <annotation>July 9, 1946, 60 Stat. 532, ch. 544, § 7</annotation>
+        <annotation doc="D.C. Law 11-259">Apr. 12, 1997, D.C. Law 11-259, § 303, 44 DCR 1423</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-344.</annotation>
+        <annotation>1973 Ed., § 1-250.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

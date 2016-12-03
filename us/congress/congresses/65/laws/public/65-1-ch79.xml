@@ -1,10 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 65-1-ch79">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 65-1-ch79">
+  <heading/>
   <meta>
     <effective>1917-10-06</effective>
     <cites>
-        <law congress="65" session="1" chapter="79"/>
+      <law congress="65" session="1" chapter="79"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-1964" path="|38|19|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1944">9</num>
+    <heading>Double salaries — School teachers and employees in District.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Oct. 6, 1917, 40 Stat. 384, ch. 79, § 9</annotation>
+        <annotation>July 8, 1918, 40 Stat. 823, ch. 139,§ 1</annotation>
+        <annotation>June 5, 1920, 41 Stat. 1017, ch. 253, § 1</annotation>
+        <annotation doc="Pub. L. 88-448">Aug. 19, 1964, 78 Stat. 491, 493, Pub. L. 88-448, title IV, §§ 401(i), 402(a)(17), (18)</annotation>
+        <annotation doc="D.C. Law 4-78">Mar. 16, 1982, D.C. Law 4-78, § 15, 29 DCR 49</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1009.</annotation>
+        <annotation>1973 Ed., § 31-631.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

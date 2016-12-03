@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 8-137">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 8-137">
   <num type="law">8-137</num>
   <heading type="short">District of Columbia Drug Manufacture and Distribution Licensure Act of 1990</heading>
   <meta>
@@ -12,4 +12,541 @@
       <narrative>Law 8-137, the “District of Columbia Drug Manufacture and Distribution Licensure Act of 1990,” was introduced in Council and assigned Bill No. 8-94, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on March 13, 1990, and March 27, 1990, respectively. Signed by the Mayor on April 17, 1990, it was assigned Act No. 8-193 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-701">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Distribute” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>To sell any drug for resale;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>To act as a broker, agent, distributor, jobber, or wholesaler of any drug; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>To otherwise negotiate a sale for the resale of any drug.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Drug” means any substance as defined under § <cite path="§47-2885.02">47-2885.02</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Manufacture” means:</text>
+      <para>
+        <num>(A)</num>
+        <para>
+          <num>(i)</num>
+          <text>To prepare, produce, propagate, compound, convert, process, or package a drug, either directly or indirectly, by extraction from a substance of natural origin, or independently by means of chemical synthesis;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Any packaging or repackaging of the substance or drug; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Labeling or relabeling of any drug package or container to further distribution from the original place of manufacture to the person who makes final delivery, distribution, or sale to the ultimate consumer or user.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>“Manufacture” does not include the preparation or compounding of a drug by a pharmacist, practitioner, or any other authorized person who prepares or compounds a drug incidental to administering or dispensing a drug or conducting research, teaching, or chemical analysis on a drug in the course of professional practice.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Wholesaler” means any person, including but not limited to, a manufacturer, repackager, own label distributor, jobber, broker, agent, pharmacy, private label distributor, distributor warehouse, wholesale drug warehouse, independent wholesale drug trader, chain drug warehouse, retail pharmacy, or pharmacy that sells more than 5% of its drug inventory to a hospital or other pharmacy, which distributes a drug to a person other than a consumer or patient.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Conditional license” means a license issued pursuant to specific conditions.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 2, 37 DCR 2631</annotation>
+        <annotation doc="D.C. Law 12-264">Apr. 20, 1999, D.C. Law 12-264, § 36, 46 DCR 2118</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1001.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 8-137">D.C. Law 8-137</cite>, the “District of Columbia Drug Manufacture and Distribution Licensure Act of 1990”, see Mayor’s Order 98-88, May 29, 1998 ( 45 DCR 3982).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-702">3</num>
+    <heading>Prohibitions.</heading>
+    <text>No person shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Manufacture, distribute, or wholesale any drug in the District of Columbia (“District”) unless the person holds a license or registration as required by this chapter issued by the Mayor to manufacture, distribute, or wholesale drugs;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Manufacture, distribute, or wholesale in the District, any drug that is adulterated, misbranded, or otherwise unfit for use;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Engage in manufacturing activities under a license issued pursuant to this chapter unless performed under the personal and immediate supervision of a pharmacist licensed by the District of Columbia or by an individual certified by the Mayor as having scientific or technical training or experience to perform the duties required to ensure that the licensed activity is conducted in a manner that will protect the public health and safety;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Display, cause, permit to be displayed, or possess a cancelled, revoked, suspended, fictitious, or fraudulently altered license to manufacture, distribute, or wholesale drugs;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Lend or transfer a license to manufacture, distribute, or wholesale drugs;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Fail or refuse to surrender to the Mayor a license to manufacture, distribute, or wholesale a drug, if the license has been suspended, revoked, or cancelled, or if the manufacture, distribution, or wholesale activity has terminated;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Permit an unlawful use of a license;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Misrepresent or fail to state a material fact to the Mayor with respect to a license application or a licensee’s activities;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>Falsely represent to any person that he or she is licensed;</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>Obtain a drug unless the drug is obtained legally from a legally authorized manufacturer, distributor, or wholesaler; or</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>Violate any provision of this chapter, rules issued pursuant to this chapter, or any applicable federal or District law.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 3, 37 DCR 2631</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§48-711">48-711</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1002.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-703">4</num>
+    <heading>License requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <text>To obtain a license to manufacture, distribute, or wholesale any drug, any person who has a principal place of business in the District shall submit a completed application form with the required application fee to the Mayor and comply with the requirements of this chapter and the rules issued pursuant to this chapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If a person manufactures, distributes, or wholesales any drug at more than one place of business in the District, the person shall apply for a separate license for each place of business.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If a licensee manufactures, distributes, or wholesales a drug not listed on the application, the licensee shall notify the Mayor prior to the commencement of the activity.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>If a licensee ceases to manufacture, distribute, or wholesale any drug listed in the application, the licensee shall notify the Mayor of the change no later than 7 days after ceasing the activity.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Each licensee shall maintain records as required by the Mayor, including but not limited to the quantities of each drug manufactured, distributed, or wholesaled daily and the name, address, purchaser, place of delivery, and quantity of any drug sold, transferred, or distributed by a licensee.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Any license issued pursuant to this section shall be issued as a Public Health: Pharmacy and Pharmaceuticals endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of Chapter 28 of Title 47.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 4, 37 DCR 2631</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 2003(ff), 46 DCR 3142</annotation>
+        <annotation doc="D.C. Law 15-38">Oct. 28, 2003, D.C. Law 15-38, § 3(ii), 50 DCR 6913</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1003.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-38">D.C. Law 15-38</cite>, in subsec. (f), substituted “Public Health: Pharmacy and Pharmaceuticals endorsement to a basic business license under the basic” for “Class A Public Health: Pharmacy and Pharmaceuticals endorsement to a master business license under the master”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 3(ii) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003,  50 DCR 6896).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-704">5</num>
+    <heading>Licensure of a drug manufacturer, distributor, or wholesaler.</heading>
+    <text>The Mayor shall make available a license application form that requests:</text>
+    <para>
+      <num>(1)</num>
+      <text>The name of the applicant and the address of the place of business for which the applicant seeks a license;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If the applicant is a corporation, the name and address of each officer or director of the corporation and each stockholder who owns 10% or more of any one class of stock in the corporation or who owns 10% or more of the total stock of the corporation;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>If the applicant is a partnership or joint venture, the name and address of each partner or joint venturer. If a partner or joint venturer is a corporation, any information required pursuant to paragraphs (2) and (9) of this section shall be provided by the partner or joint venturer;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A description of the activity for which the applicant seeks a license;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A list of any drugs that the applicant proposes to manufacture, distribute, or wholesale in the District;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Proof of current approval by the United States Food and Drug Administration for registration of producers of drugs and medical devices pursuant to § 510 of the Federal Food, Drug and Cosmetic Act (“Food, Drug and Cosmetic Act”), approved June 25, 1938 (52 Stat. 1040; 21 U.S.C. 360);</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>If the applicant proposes to manufacture, distribute, or wholesale a controlled substance as defined in § 102 of the Drug Abuse Prevention and Control Act, approved October 27, 1970 (84 Stat. 1242; 21 U.S.C. 802), proof of current registration with the Mayor and the United States Drug Enforcement Administration;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>A valid certificate of occupancy; and</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>A certificate of good standing from the Mayor if the applicant is a corporation.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 5, 37 DCR 2631</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1004.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>The reference to “§ 510 of the Federal Food, Drug and Cosmetic Act” appearing in (6) was corrected from “§ 360 of the Federal Food, Drug and Cosmetic Act” as it appeared in <cite doc="D.C. Law 8-137">D.C. Law 8-137</cite>.</text>
+        <text>The reference to “§ 102 of the Drug Abuse Prevention and Control Act” appearing in (7) was corrected from “§ 802 of the Drug Abuse Prevention and Control Act” as it appeared in <cite doc="D.C. Law 8-137">D.C. Law 8-137</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-705">6</num>
+    <heading>Renewal of license.</heading>
+    <text>Prior to the expiration of a license, the Mayor shall mail a renewal notice to the licensee that includes:</text>
+    <para>
+      <num>(1)</num>
+      <text>The expiration date of the current license;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The date by which the renewal application must be received by the Mayor in order for the renewal license to be issued and mailed to the licensee before the licensee’s current license expires;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The amount of the renewal fee; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any other information the Mayor deems appropriate or necessary to renew the license.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 6, 37 DCR 2631</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1005.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-706">7</num>
+    <heading>Conditional license.</heading>
+    <text>The Mayor may issue a conditional license to a person if the person does not meet all of the requirements of this chapter, the rules issued pursuant to this chapter, or any applicable federal law, provided the failure to meet the requirements does not endanger the health, safety, or welfare of the community, and the Mayor mandates that the requirements be met by a specific date.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 7, 37 DCR 2631</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1006.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-707">8</num>
+    <heading>Registration of an out-of-state drug manufacturer, distributor, repackager, or wholesaler.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An out-of-state drug manufacturer, distributor, or wholesaler who conducts distribution activities within the District shall register with the Mayor on a form prescribed by the Mayor, renew the registration as required by rule, and pay the required registration fee.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A person registered to conduct distribution activities within the District shall be licensed or registered and in good standing under federal law and the laws of the state in which the person is incorporated or has a principal place of business.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor may withdraw a registration for failure to maintain a license or registration in good standing under state or federal law.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 8, 37 DCR 2631</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1007.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-708">9</num>
+    <heading>Inspections.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall conduct an on-site inspection of an applicant’s facility before a license is granted.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor, at any reasonable hour and consistent with constitutional guidelines, may enter a facility to conduct an announced or unannounced inspection of the facility to determine if the facility is in compliance with this chapter, the rules issued pursuant to this chapter, or any other District or locally enforceable federal law applicable to the manufacture, distribution, or wholesale of drugs.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 9, 37 DCR 2631</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1008.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-709">10</num>
+    <heading>Summary action.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If the Mayor determines that the conduct of a licensee presents an imminent danger to the health and safety of the residents of the District, the Mayor may suspend or revoke the license, or convert the license to a conditional license of the drug manufacturer, distributor, or wholesaler prior to a hearing.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>At the time of the suspension, revocation, or restriction of a license, the Mayor shall provide the licensee with written notice that states the action being taken, the basis for the action, and the right of the licensee to request a hearing.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A licensee shall have the right to request a hearing within 3 days of service of notice of the suspension, revocation, or restriction of the license. The Mayor shall hold a hearing within 3 days of receipt of a timely request and shall issue a decision within 3 days of the hearing.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor shall inform the licensee of the decision in writing and provide findings of fact and conclusions of law. The findings shall be supported by reliable, probative, and substantial evidence. The Mayor shall provide a copy of the decision to each party to a case or to his or her attorney of record.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Any person aggrieved by a decision pursuant to this section may file an appeal with the Mayor within 10 days of the decision.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 10, 37 DCR 2631</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1009.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-710">11</num>
+    <heading>Suspension, denial, or revocation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor may deny, suspend, or revoke a license, or convert the license to a conditional license, if the Mayor determines that:</text>
+      <para>
+        <num>(1)</num>
+        <text>The person has violated a provision of this chapter, the rules issued pursuant to this chapter, or any other applicable federal or District law; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The person fraudulently or deceptively obtained or attempted to obtain a license in violation of this chapter, the rules issued pursuant to this chapter, or any other applicable federal or District law.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall revoke any license issued pursuant to this chapter upon conviction of the licensee for a criminal violation of this chapter, the rules issued pursuant to this chapter, or any applicable federal law.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 11, 37 DCR 2631</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1010.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-711">12</num>
+    <heading>Criminal action.</heading>
+    <text>A person who willfully violates § <cite path="§48-702">48-702</cite>(1) is guilty of a misdemeanor, and, upon conviction, shall be fined not more than $5,000 for the first offense or $10,000 for the second or subsequent offense, imprisoned for not more than one year, or both. Each day that a violation continues is a separate violation under this chapter. The fines set forth in this section shall not be limited by § <cite path="§22-3571.01">22-3571.01</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 12, 37 DCR 2631</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 113(g), 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1011.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> added the last sentence.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 113(g) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-712">13</num>
+    <heading>Civil infractions.</heading>
+    <text>Civil fines, penalties, and fees may be imposed as sanctions for any violation of this chapter or the rules issued pursuant to this chapter, pursuant to Chapter 18 of Title 2.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 13, 37 DCR 2631</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1012.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-713">14</num>
+    <heading>Cease and desist order; embargo.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If the Mayor determines that a hazardous condition exists that may endanger the health, safety, or welfare of the community, the Mayor may issue a cease and desist order to require a violator to cease operation immediately. Any person subject to a cease and desist order may appeal the cease and desist order within 7 days, excluding Saturdays, Sundays, and legal holidays, but shall be required to comply with the order pending appeal. The Mayor shall hold a hearing within 7 days of the receipt of a timely request and issue a decision within 7 days after the hearing.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If the Mayor determines that a drug is adulterated or misbranded, the Mayor may order that the drug be removed from availability for distribution, sale, consumption, or use, or that the drug be destroyed or embargoed.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 14, 37 DCR 2631</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-714">15</num>
+    <heading>Rules.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall issue rules pursuant to this chapter in accordance with the provisions of subchapter I of Chapter 5 of Title 2.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The proposed rules shall include, but not be limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>A schedule of license fees;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Standards for the exemption of certain employees employed by a licensed manufacturer, distributor, or wholesaler;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Procedures to govern the issuance, denial, renewal, suspension, conversion, or revocation of a license; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Standards pertaining to labeling, handling, recordkeeping, and storage.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 15, 37 DCR 2631</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1014.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|48|7"/>
+    <num codify:value="48-715">16</num>
+    <heading>Exceptions.</heading>
+    <text>This chapter shall not apply to any cosmetic unless the cosmetic is a drug as defined by § 201 of the Food, Drug and Cosmetic Act [21 U.S.C. § 321  ].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-137">June 13, 1990, D.C. Law 8-137, § 16, 37 DCR 2631</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 33-1015.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>Section 201 of the Food, Drug and Cosmetic Act is codified at  21 U.S.C. § 321.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>The reference to “§ 201 of the Food, Drug and Cosmetic Act” was corrected from “§ 321 of the Food, Drug and Cosmetic Act” as it appeared in <cite doc="D.C. Law 8-137">D.C. Law 8-137</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

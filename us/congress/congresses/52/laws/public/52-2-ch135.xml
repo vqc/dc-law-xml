@@ -1,10 +1,132 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 52-2-ch135">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 52-2-ch135">
+  <heading/>
   <meta>
     <effective>1892-06-25</effective>
     <cites>
-        <law congress="52" session="2" chapter="135"/>
+      <law congress="52" session="2" chapter="135"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§44-1511" path="|44|15"/>
+    <num codify:value="44-1510">2</num>
+    <heading>Enforcement of laws by Mayor — Cruelty to animals.</heading>
+    <text>The Mayor of the District of Columbia is authorized, in his discretion, to detail from time to time 1 or more members of the Metropolitan Police force to aid the Washington Humane Society in the enforcement of laws relating to cruelty to animals as well as of the laws relating to cruelty to children.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 25, 1892, 27 Stat. 60, ch. 135, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-910.</annotation>
+        <annotation>1973 Ed., § 32-210.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1003" path="|22|10"/>
+    <num codify:value="22-1002.01">2a</num>
+    <heading>Reporting requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>Any law enforcement or child or protective services employee who knows of or has reasonable cause to suspect an animal has been the victim of cruelty, abandonment, or neglect, or observes an animal at the home of a person reasonably suspected of child, adult, or animal abuse, shall provide a report within 2 business days to the Mayor. If the health and welfare of the animal is in immediate danger, the report shall be made within 6 hours.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The report shall include:</text>
+        <para>
+          <num>(A)</num>
+          <text>The name, title, and contact information of the individual making the report;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The name and contact information, if known, of the owner or custodian of the animal;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The location, along with a description, of where the animal was observed; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The basis for any suspicion of animal cruelty, abandonment, or neglect, including the date, time, and a description of the observation or incident which led the individual to make the report.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>When 2 or more law enforcement or child or protective services employees jointly suspect an animal has been the victim of cruelty, abandonment, or neglect, or jointly observe an animal at the home of a person reasonably suspected of child, adult, or animal abuse, a report may be made by one person by mutual agreement.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No individual who in good faith reports a reasonable suspicion of abuse shall be liable in any civil or criminal action.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Upon receipt of a report, any agency charged with the enforcement of animal cruelty laws shall make reasonable attempts to verify the welfare of the animal.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>For the purposes of this section, the terms “reasonable cause to suspect”, “suspect”, “reasonably suspected”, and “reasonable suspicion” mean a basis for reporting facts leading a person of ordinary care and prudence to believe and entertain a reasonable suspicion that criminal activity is occurring or has occurred.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 25, 1892, 27 Stat. 61, ch. 135, § 2a</annotation>
+        <annotation doc="D.C. Law 17-281">as added Dec. 5, 2008, D.C. Law 17-281, § 108(b), 55 DCR 9186</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1011" path="|22|10"/>
+    <reason>Repealed</reason>
+    <num codify:value="22-1010">6</num>
+    <heading>Penalty for engaging in cockfighting or animal fighting.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 25, 1892, 27 Stat. 61, ch. 135, § 6</annotation>
+        <annotation doc="D.C. Law 7-176">Oct. 18, 1988, D.C. Law 7-176, § 7(d), 35 DCR 4787</annotation>
+        <annotation doc="D.C. Law 10-151">Aug. 20, 1994, D.C. Law 10-151, § 103, 41 DCR 2608</annotation>
+        <annotation doc="D.C. Law 13-303">June 8, 2001, D.C. Law 13-303, § 3(a), 47 DCR 7307</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-810.</annotation>
+        <annotation>1973 Ed., § 22-810.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 103 of the Omnibus Criminal Justice Reform Emergency Amendment Act of 1994 (D.C. Act 10-255, June 22, 1994,  41 DCR 4286).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-1015" path="|22|10"/>
+    <reason>Repealed</reason>
+    <num codify:value="22-1014">5</num>
+    <heading>Docking tails of horses.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 25, 1892, 27 Stat. 61, ch. 135, § 5</annotation>
+        <annotation>Mar. 2, 1911, 36 Stat. 1003, ch. 192</annotation>
+        <annotation doc="D.C. Law 7-231">May 10, 1989, D.C. Law 7-231, § 29, 36 DCR 492</annotation>
+        <annotation doc="D.C. Law 15-154">Apr. 29, 2004, D.C. Law 15-154, § 5, 50 DCR 10996</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-814.</annotation>
+        <annotation>1973 Ed., § 22-814.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 4-203" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 4-203" flag="true">
   <num type="law">4-203</num>
   <heading type="short">Anti-Intimidation and Defacing of Public or Private Property Criminal Penalty Act of 1982</heading>
   <meta>
@@ -12,4 +12,333 @@
       <narrative>Law 4-203, the “Anti-Intimidation and Defacing of Public or Private Property Criminal Penalty Act of 1982,” was introduced in Council and assigned Bill No. 4-455, which was referred to the Committee on Housing and Economic Development. The Bill was adopted on first and second readings on November 16, 1982, and December 14, 1982, respectively. Signed by the Mayor on December 28, 1982, it was assigned Act No. 4-287 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-3313" path="|22|33"/>
+    <reason>Repealed</reason>
+    <num codify:value="22-3312">6</num>
+    <heading>Destroying or defacing buildings, statues, or monuments.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-203">Mar. 10, 1983, D.C. Law 4-203, § 6, 30 DCR 180</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-3112.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-3313" path="|22|33"/>
+    <num codify:value="22-3312.01">2</num>
+    <heading>Defacing public or private property.</heading>
+    <text>It shall be unlawful for any person or persons willfully and wantonly to disfigure, cut, chip, or cover, rub with, or otherwise place filth or excrement of any kind; to write, mark, or print obscene or indecent figures representing obscene or objects upon; to write, mark, draw, or paint, without the consent of the owner or proprietor thereof, or, in the case of public property, of the person having charge, custody, or control thereof, any word, sign, or figure upon:</text>
+    <para>
+      <num>(1)</num>
+      <text>Any property, public or private, building, statue, monument, office, public passenger vehicle, mass transit equipment or facility, dwelling or structure of any kind including those in the course of erection; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The doors, windows, steps, railing, fencing, balconies, balustrades, stairs, porches, halls, walls, sides of any enclosure thereof, or any movable property.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-203">Mar. 10, 1983, D.C. Law 4-203, § 2, 30 DCR 180</annotation>
+        <annotation doc="D.C. Law 11-275">June 3, 1997, D.C. Law 11-275, § 7, 44 DCR 1408</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Wastewater system, tampering with and misuse, see § <cite path="§8-105.05">8-105.05</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-3312.04">22-3312.04</cite>, § <cite path="§22-3312.05">22-3312.05</cite>, and § <cite path="§23-581">23-581</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-3112.1.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-3313" path="|22|33"/>
+    <num codify:value="22-3312.02">3</num>
+    <heading>Defacing or burning cross or religious symbol; display of certain emblems.</heading>
+    <para>
+      <num>(a)</num>
+      <text>It shall be unlawful for any person to burn, desecrate, mar, deface, or damage a religious or secular symbol on any private premises or property in the District of Columbia primarily used for religious, educational, residential, memorial, charitable, or cemetery purposes, or for assembly by persons of a particular race, color, creed, religion, or any other category listed in § <cite path="§2-1401.01">2-1401.01</cite>, or on any public property in the District of Columbia; or to place or to display in any of these locations a sign, mark, symbol, emblem, or other physical impression including, but not limited to, a Nazi swastika, a noose, or any manner of exhibit which includes a burning cross, real or simulated, where it is probable that a reasonable person would perceive that the intent is:</text>
+      <para>
+        <num>(1)</num>
+        <text>To deprive any person or class of persons of equal protection of the law or of equal privileges and immunities under the law, or for the purpose of preventing or hindering the constituted authorities of the United States or the District of Columbia from giving or securing to all persons within the District of Columbia equal protection of the law;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To injure, intimidate, or interfere with any person because of his or her exercise of any right secured by federal or District of Columbia laws, or to intimidate any person or any class of persons from exercising any right secured by federal or District of Columbia laws;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To threaten another person whereby the threat is a serious expression of an intent to inflict harm; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To cause another person to fear for his or her personal safety, or where it is probable that reasonable persons will be put in fear for their personal safety by the defendant’s actions, with reckless disregard for that probability.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Nothing in this section shall be deemed to amend or repeal any provision of the District of Columbia Fire Prevention Code (7 DCRR).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-203">Mar. 10, 1983, D.C. Law 4-203, § 3, 30 DCR 180</annotation>
+        <annotation doc="D.C. Law 17-390">May 15, 2009, D.C. Law 17-390, § 2, 55 DCR 11030</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-3312.04">22-3312.04</cite> and § <cite path="§23-581">23-581</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-3112.2.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-390">D.C. Law 17-390</cite> rewrote the lead-in language and par. (3) of subsec. (a) and repealed subsec. (b).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-3313" path="|22|33"/>
+    <num codify:value="22-3312.03">4</num>
+    <heading>Wearing hoods or masks.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person or persons over 16 years of age, while wearing any mask, hood, or device whereby any portion of the face is hidden, concealed, or covered as to conceal the identity of the wearer, shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Enter upon, be, or appear upon any lane, walk, alley, street, road highway, or other public way in the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Enter upon, be, or appear upon or within the public property of the District of Columbia; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Hold any manner of meeting or demonstration.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The provisions of subsection (a) of this section apply only if the person was wearing the hood, mask, or other device:</text>
+      <para>
+        <num>(1)</num>
+        <text>With the intent to deprive any person or class of persons of equal protection of the law or of equal privileges and immunities under the law, or for the purpose of preventing or hindering the constituted authorities of the United States or the District of Columbia from giving or securing for all persons within the District of Columbia equal protection of the law;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>With the intent, by force or threat of force, to injure, intimidate, or interfere with any person because of his or her exercise of any right secured by federal or District of Columbia laws, or to intimidate any person or any class of persons from exercising any right secured by federal or District of Columbia laws;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>With the intent to intimidate, threaten, abuse, or harass any other person;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>With the intent to cause another person to fear for his or her personal safety, or, where it is probable that reasonable persons will be put in fear for their personal safety by the defendant’s actions, with reckless disregard for that probability; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>While engaged in conduct prohibited by civil or criminal law, with the intent of avoiding identification.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-203">Mar. 10, 1983, D.C. Law 4-203, § 4, 30 DCR 180</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-3312.04">22-3312.04</cite> and § <cite path="§23-581">23-581</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-3112.3.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-3313" path="|22|33"/>
+    <reason>Repealed</reason>
+    <num codify:value="22-3312.03a">4a</num>
+    <heading>Abatement of graffiti.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-203">Mar. 10, 1983, D.C. Law 4-203, § 4a</annotation>
+        <annotation doc="D.C. Law 13-309">as added June 12, 2001, D.C. Law 13-309, § 2(b), 48 DCR 1613</annotation>
+        <annotation doc="D.C. Law 14-307">June 5, 2003, D.C. Law 14-307, § 2302, 49 DCR 11664</annotation>
+        <annotation doc="D.C. Law 18-219">Sept. 18, 2010, D.C. Law 18-219, § 13(b)(1), 57 DCR 4353</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2302 of Fiscal Year 2003 Budget Support Amendment Emergency Act of 2002 (D.C. Act 14-544, December 4, 2002,  49 DCR 11700).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2302 of the Fiscal Year 2003 Budget Support Amendment Congressional Review Emergency Act of 2003 (D.C. Act 15-27, February 24, 2003,  50 DCR 2151).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2302 of Fiscal Year 2003 Budget Support Amendment Second Congressional Review Emergency Act of 2003 (D.C. Act 15-103, June 20, 2003,  50 DCR 5499).</annotation>
+        <annotation>For temporary (90 day) repeal of section, see § 13(b)(1) of Anti-Graffiti Emergency Act of 2010 (D.C. Act 18-389, May 5, 2010,  57 DCR 4332).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-3313" path="|22|33"/>
+    <reason>Repealed</reason>
+    <num codify:value="22-3312.03b">4b</num>
+    <heading>Collection against owner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-203">Mar. 10, 1983, D.C. Law 4-203, § 4b</annotation>
+        <annotation doc="D.C. Law 13-309">as added June 12, 2001, D.C. Law 13-309, § 2(c), 48 DCR 1613</annotation>
+        <annotation doc="D.C. Law 18-219">Sept. 18, 2010, D.C. Law 18-219, § 13(b)(2), 57 DCR 4353</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal of section, see § 13(b)(2) of Anti-Graffiti Emergency Act of 2010 (D.C. Act 18-389, May 5, 2010,  57 DCR 4332).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-3313" path="|22|33"/>
+    <num codify:value="22-3312.04">5</num>
+    <heading>Penalties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any person who violates any provision of § <cite path="§22-3312.01">22-3312.01</cite> shall be fined not less than $250 and not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, or imprisoned for a period not to exceed 180 days, or both. Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of § <cite path="§22-3312.01">22-3312.01</cite>, pursuant to Chapter 8 of Title 8.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any person who violates any provision of § <cite path="§22-3312.02">22-3312.02</cite> or § <cite path="§22-3312.03">22-3312.03</cite> shall be guilty of a misdemeanor punishable by a fine not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, or imprisonment not to exceed 180 days, or both.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In addition to the penalties provided in subsection (a) of this section, a person convicted of violating any provision of § <cite path="§22-3312.01">22-3312.01</cite> may be required to perform community service as provided in § <cite path="§16-712">16-712</cite>.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Any person who willfully places graffiti on property without the consent of the owner shall be subject to the sanctions in subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Any person who willfully possesses graffiti material with the intent to place graffiti on property without the consent of the owner shall be fined not less than $100 or more than $1,000.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>In addition to any fine or sentence imposed under this section, the court shall order the person convicted to make restitution to the owner of the property, or to the party responsible for the property upon which the graffiti has been placed, for the damage or loss caused, directly or indirectly, by the graffiti, in a reasonable amount and manner as determined by the court.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The District of Columbia courts shall find parents or guardians civilly liable for all fines imposed or payments for abatement required if the minor cannot pay within a reasonable period of time established by the court.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-203">Mar. 10, 1983, D.C. Law 4-203, § 5, 30 DCR 180</annotation>
+        <annotation doc="D.C. Law 13-309">June 12, 2001, D.C. Law 13-309, § 2(d), 48 DCR 1613</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 234, 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3141.08">42-3141.08</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-3112.4.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-309">D.C. Law 13-309</cite> rewrote the section which had read:</annotation>
+        <annotation>“(a) Any person who violates any provision of § <cite path="§22-3312.01">22-3312.01</cite> shall be fined not less than $250 or more than $5,000, or imprisoned for a period not to exceed 1 year, or both.</annotation>
+        <annotation>“(b) Any person who violates any provision of § <cite path="§22-3312.02">22-3312.02</cite> or § <cite path="§22-3312.03">22-3312.03</cite> shall be guilty of a misdemeanor punishable by a fine not to exceed $500, or imprisonment not to exceed 1 year, or both.”</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “and not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “or more than $1,000” in (a); and substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not to exceed $500” in (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 234 of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-3313" path="|22|33"/>
+    <num codify:value="22-3312.05">1a</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of §§ <cite path="§22-3312.01">22-3312.01</cite> through <cite path="§22-3312.05">22-3312.05</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Abate” means to effectively remove.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Graffiti” means an inscription, writing, drawing, marking, or design that is painted, sprayed, etched, scratched, or otherwise placed on structures, buildings, dwellings, statues, monuments, fences, vehicles, or other similar materials that are on public or private property without the  consent of the owner, manager, or agent in charge of the property, and the graffiti is visible from a public right-of-way.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Graffiti material” means any aerosol can, bottle, spray device or other mechanism designed to dispense paint or a similar substance under pressure, indelible marker, paint stick, adhesive label, and engraving device capable of leaving a visible mark on a natural or man-made surface.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Minor” means a person less than 18 years of age.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Public or private property” shall include any building, bridge, fence or other structure, any street, alley, sidewalk, or other vehicular or pedestrian right-of-way, any article of street furniture, lamppost, bus shelter, newspaper box, or trash receptacle, any tree, rock, or other natural fixture, any utility or public service equipment, or any other personal property located outdoors, whether publicly or privately owned.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Sign” means a name, identification, description, display, or illustration which is affixed to, or represented directly or indirectly upon a building, structure, or piece of land and which directs attention to an object, product, place, activity, person, institution, organization, or business.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-203">Mar. 10, 1983, D.C. Law 4-203, § 1a</annotation>
+        <annotation doc="D.C. Law 13-309">as added June 12, 2001, D.C. Law 13-309, § 2(a), 48 DCR 1613</annotation>
+        <annotation doc="D.C. Law 18-219">Sept. 18, 2010, D.C. Law 18-219, § 13(b)(3), 57 DCR 4353</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-219">D.C. Law 18-219</cite> repealed pars. (2), (3), (7), and (8).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 13(b)(3) of Anti-Graffiti Emergency Act of 2010 (D.C. Act 18-389, May 5, 2010,  57 DCR 4332).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

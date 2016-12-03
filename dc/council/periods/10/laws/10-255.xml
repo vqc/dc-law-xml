@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 10-255">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 10-255">
   <num type="law">10-255</num>
   <heading type="short">Technical Amendments Act of 1994</heading>
   <meta>
@@ -11,4 +11,23 @@
       <narrative>Law 10-255, the “Technical Amendments Act of 1994,” was introduced in Council and assigned Bill No. 10-673, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on June 21, 1994, and July 5, 1994, respectively. Signed by the Mayor on July 25, 1994, it was assigned Act No. 10-302 and transmitted to both Houses of Congress for its review. D.C. Law 10-255 became effective on May 16, 1995.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|32"/>
+    <num codify:value="38-3201">2</num>
+    <heading>Mayor to provide notice to Board when locating certain facilities near schools.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall give at least 60 days written notice to the District of Columbia Board of Education or the governing body of a private or parochial school of the proposed establishment of a homeless shelter, correctional facility, halfway house, or drug treatment center, to be located within 400 feet of a school, or adjacent school grounds in the District of Columbia, used for the instruction of minors.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall give great weight to written comments of the District of Columbia Board of Education in regard to the establishment or current operation of a homeless shelter, correctional facility, halfway house, or drug treatment center located within 400 feet of a District of Columbia public school, of the adjacent school grounds, used for the instruction of minors.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-255">May 21, 1992, D.C. Law 10-255, § 2, 39 DCR 2149</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,10 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 77-2-ch467">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 77-2-ch467" codify:tag="section" from-code="true">
   <meta>
     <effective>1942-07-01</effective>
     <cites>
-        <law congress="77" session="2" chapter="467"/>
+      <law congress="77" session="2" chapter="467"/>
     </cites>
   </meta>
+  <codify:insert doc="D.C. Code" before="§38-1946" path="|38|19|III"/>
+  <reason>Repealed</reason>
+  <num codify:value="38-1945"></num>
+  <heading>Double salaries — Custodial employees in District.</heading>
+  <text>Repealed.</text>
+  <annotations>
+    <annoGroup>
+      <heading>History</heading>
+      <annotation>July 1, 1942, 56 Stat. 467, ch. 467</annotation>
+      <annotation doc="Pub. L. 88-448">Aug. 19, 1964, 78 Stat. 491, Pub. L. 88-448, title IV, § 401(k)</annotation>
+      <annotation doc="D.C. Law 4-78">Mar. 16, 1982, D.C. Law 4-78, § 16, 29 DCR 49</annotation>
+    </annoGroup>
+    <annoGroup>
+      <heading>Prior Codifications</heading>
+      <annotation>1981 Ed., § 31-1010.</annotation>
+      <annotation>1973 Ed., § 31-631a.</annotation>
+    </annoGroup>
+  </annotations>
 </document>

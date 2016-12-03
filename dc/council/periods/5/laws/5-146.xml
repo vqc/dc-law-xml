@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 5-146">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 5-146">
   <num type="law">5-146</num>
   <heading type="short">District of Columbia Right to Overnight Shelter Act of 1984</heading>
   <meta>
@@ -12,4 +12,349 @@
       <narrative>Law 5-146, the “District of Columbia Right to Overnight Shelter Act of 1984,” was submitted to the electors of the District of Columbia on November 6, 1984, as Initiative No. 17. The results of the voting, certified by the Board of Elections and Ethics on November 20, 1984, were 114,698 for the Initiative and 43,966 against the Initiative. It was transmitted to Congress on January 8, 1985, published in the D.C. Register on December 7, 1984, and became law on March 14, 1985.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-701">2</num>
+    <heading>Statement of policy.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 2, 31 DCR 6088</annotation>
+        <annotation doc="D.C. Law 8-197">Mar. 6, 1991, D.C. Law 8-197, § 2(a), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-601.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority under Law 5-146, see Mayor’s Order 85-53, May 9, 1985.</annotation>
+        <annotation>Delegation of authority pursuant to Law 5-146 to the Director, Department of Human Services, see Mayor’s Order 87-71, March 18, 1987.</annotation>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 8-197">D.C. Law 8-197</cite>, the “D.C. Emergency Overnight Shelter Amendment Act of 1990”, see Mayor’s Order 91-71, May 8, 1991.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Mayor's Orders</heading>
+        <annotation>Declaration of an Emergency With Respect to the Urgent Need to Provide Permanent Housing for the Homeless in the District of Columbia: See Mayor’s Order 89-204, September 8, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-702.01">3a</num>
+    <heading>Emergency Shelter and Support Services Program established.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 3a</annotation>
+        <annotation doc="D.C. Law 8-197">as added Mar. 6, 1991, D.C. Law 8-197, § 2(c), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 11-192">Apr. 9, 1997, D.C. Law 11-192, §  2, 43 DCR 4285</annotation>
+        <annotation doc="D.C. Law 12-60">Mar. 20, 1998, D.C. Law 12-60, § 702, 44 DCR 7378</annotation>
+        <annotation doc="D.C. Law 12-241">Apr. 20, 1999, D.C. Law 12-241, § 6, 46 DCR 905</annotation>
+        <annotation doc="D.C. Law 14-56">Dec. 18, 2001, D.C. Law 14-56, § 116(c), 48 DCR 7674</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-602.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Emergency Assistance Clarification Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-24">D.C. Law 11-24</cite>, July 14, 1995, law notification  42 DCR 3830).</annotation>
+        <annotation>For temporary (225 day) amendment of section, see § 3 of General Public Assistance Program Termination Temporary Amendment Act of 1997 (<cite doc="D.C. Law 12-21">D.C. Law 12-21</cite>, September 23, 1997, law notification  44 DCR 5760).</annotation>
+        <annotation>For temporary (225 day) amendment of section, see § 702 of Fiscal Year 1998 Revised Budget Support Temporary Act of 1997 (<cite doc="D.C. Law 12-59">D.C. Law 12-59</cite>, March 20, 1998, law notification  45 DCR 2094).</annotation>
+        <annotation>For temporary (225 day) amendment of section, see § 6 of Self-Sufficiency Promotion Temporary Amendment Act of 1998 (<cite doc="D.C. Law 12-230">D.C. Law 12-230</cite>, April 20, 1999, law notification  46 DCR 4143).</annotation>
+        <annotation>For temporary (225 day) amendment of section, see § 16(c) of Department of Mental Health Establishment Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-51">D.C. Law 14-51</cite>, October 30, 2001, law notification  48 DCR 10807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2 of the Emergency Assistance Clarification Emergency Amendment Act of 1995 (D.C. Act 11-36, April 11, 1995,  42 DCR 1839), § 2 of the Emergency Assistance Clarification Congressional Recess Emergency Amendment Act of 1995 (D.C. Act 11-105, July 21, 1995,  42 DCR 4019), § 2 of the Emergency Assistance Clarification Congressional Review Emergency Amendment Act of 1996 (D.C. Act 11-425, October 28, 1996,  43 DCR 6141), § 2 of the Emergency Assistance Clarification Second Congressional Review Emergency Amendment Act of 1996 (D.C. Act 11-485, January 2, 1997,  44 DCR 630), and § 2 of the Emergency Assistance Clarification Congressional Review Emergency Amendment Act of 1997 (D.C. Act 12-42, March 31, 1997,  44 DCR 2091).</annotation>
+        <annotation>For temporary amendment of section, see § 3 of the General Public Assistance Program Termination Emergency Amendment Act of 1997 (D.C. Act 12-72, May 12, 1997,  44 DCR 2989).</annotation>
+        <annotation>For temporary amendment of section, see § 702 of the Fiscal Year 1998 Revised Budget Support Emergency Act of 1997 (D.C. Act 12-152, October 17, 1997,  44 DCR 6196) and § 702 of the Fiscal Year 1998 Revised Budget Support Congressional Review Emergency Act of 1997 (D.C. Act 12-239, January 13, 1998,  45 DCR 508).</annotation>
+        <annotation>For temporary amendment of section, see § 6 of the Self-Sufficiency Promotion Emergency Amendment Act of 1998 (D.C. Act 12-372, June 9, 1998,  45 DCR 4270), § 6 of the Self-Sufficiency Promotion Legislative Review Emergency Amendment Act of 1998 (D.C. Act 12-425, July 31, 1998,  45 DCR 5682), § 6 of the Self-Sufficiency Promotion Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-552, December 24, 1998,  46 DCR 521), and § 6 of the Self-Sufficiency Promotion Congressional Review Emergency Amendment Act of 1999 (D.C. Act 13-19, February 17, 1999,  46 DCR 2492).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 16(c) of Department of Mental Health Establishment Emergency Amendment Act of 2001 (D.C. Act 14-55, May 2, 2001,  48 DCR 4390).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 16(c) of Department of Mental Health Establishment Congressional Review Emergency Amendment Act of 2001 (D.C. Act 14-101, July 23, 2001,  48 DCR 7123).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 116(c) of Mental Health Service Delivery Reform Congressional Review Emergency Act of 2001 (D.C. Act 14-144, October 23, 2001,  48 DCR 9947).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Application of Law 12-60: Section 2002 of <cite doc="D.C. Law 12-60">D.C. Law 12-60</cite> provided that the act shall apply as of October 1, 1997.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-703">4</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 4, 31 DCR 6088</annotation>
+        <annotation doc="D.C. Law 8-197">Mar. 6, 1991, D.C. Law 8-197, § 2(d), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 98, 51 DCR 881</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-603.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-704">5</num>
+    <heading>Assessment of homelessness.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 5, 31 DCR 6088</annotation>
+        <annotation doc="D.C. Law 8-197">Mar. 6, 1991, D.C. Law 8-197, § 2(e), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-604.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Director, Department of Human Services.—See Mayor’s Order 88-65, March 21, 1988.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-705">6</num>
+    <heading>Provision of overnight shelter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 6, 31 DCR 6088</annotation>
+        <annotation doc="D.C. Law 8-197">Mar. 6, 1991, D.C. Law 8-197, § 2(f), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-605.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Director, Department of Human Services.—See Mayor’s Order 88-65, March 21, 1988.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-705.01">6a</num>
+    <heading>Participation in cost of emergency overnight shelter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 6a</annotation>
+        <annotation doc="D.C. Law 8-197">as added Mar. 6, 1991, D.C. Law 8-197, § 2(g), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 11-52">Sept. 26, 1995, D.C. Law 11-52, § 504, 42 DCR 3684</annotation>
+        <annotation doc="D.C. Law 11-255">Apr. 9, 1997, D.C. Law 11-255, § 10, 44 DCR 1271</annotation>
+        <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 8, 45 DCR 745</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-605.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 3 of Human Services Spending Reduction Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-29">D.C. Law 11-29</cite>, July 25, 1995, law notification  42 DCR 4002).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 3 of the Human Services Spending Reduction Emergency Amendment Act of 1995 (D.C. Act 11-35, April 11, 1995,  42 DCR 1834) and § 3 of the Human Services Spending Reduction Congressional Recess Emergency Amendment Act of 1995 (D.C. Act 11-104, July 21, 1995,  42 DCR 4014).</annotation>
+        <annotation>For temporary amendment of section, see § 504 of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995,  42 DCR 4160).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>“Be” was inserted in the third sentence of (a) to correct an error in <cite doc="D.C. Law 8-197">D.C. Law 8-197</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-706">7</num>
+    <heading>Appeals.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 7, 31 DCR 6088</annotation>
+        <annotation doc="D.C. Law 8-197">Mar. 6, 1991, D.C. Law 8-197, § 2(h), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-606.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-707">8</num>
+    <heading>Severability.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 8, 31 DCR 6088</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-607.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-708">8a</num>
+    <heading>Rules.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 8a</annotation>
+        <annotation doc="D.C. Law 8-197">as added Mar. 6, 1991, D.C. Law 8-197, § 2(i), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-608.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-709">8b</num>
+    <heading>No creation of entitlement.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 8b</annotation>
+        <annotation doc="D.C. Law 8-197">as added Mar. 6, 1991, D.C. Law 8-197, § 2(i), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-609.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-710">8c</num>
+    <heading>Length of stay in emergency overnight shelter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 8c</annotation>
+        <annotation doc="D.C. Law 8-197">as added Mar. 6, 1991, D.C. Law 8-197, § 2(i), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-610.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-711">8d</num>
+    <heading>Inspections.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 8d</annotation>
+        <annotation doc="D.C. Law 8-197">as added Mar. 6, 1991, D.C. Law 8-197, § 2(i), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-611.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-712">8e</num>
+    <heading>Notification of establishment of emergency overnight shelter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 8e</annotation>
+        <annotation doc="D.C. Law 8-197">as added Mar. 6, 1991, D.C. Law 8-197, § 2(i), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-612.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-713">8f</num>
+    <heading>Toilet facilities.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 8f</annotation>
+        <annotation doc="D.C. Law 8-197">as added Mar. 6, 1991, D.C. Law 8-197, § 2(i), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-613.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|7|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-714">9</num>
+    <heading>Housing goals; priorities.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-146">Mar. 14, 1985, D.C. Law 5-146, § 9</annotation>
+        <annotation doc="D.C. Law 8-197">as added Mar. 6, 1991, D.C. Law 8-197, § 2(i), 37 DCR 4815</annotation>
+        <annotation doc="D.C. Law 16-35">Oct. 22, 2005, D.C. Law 16-35, § 32(b), 52 DCR 8113</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-614.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

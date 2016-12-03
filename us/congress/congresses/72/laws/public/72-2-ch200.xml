@@ -1,10 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 72-2-ch200">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 72-2-ch200">
+  <heading/>
   <meta>
     <effective>1932-05-21</effective>
     <cites>
-        <law congress="72" session="2" chapter="200"/>
+      <law congress="72" session="2" chapter="200"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-162" path="|10|1"/>
+    <num codify:value="10-158">1</num>
+    <heading>Theodore Roosevelt Island — Maintenance, administration and development.</heading>
+    <text>The island, known as Theodore Roosevelt Island, shall be maintained and administered by the Director of the National Park Service as a natural park for the recreation and enjoyment of the public; provided, that no general plan for the development of the island be adopted without the approval of the Theodore Roosevelt Association; and so long as this Association remains in existence, no development, inconsistent with this plan, be executed without the Association’s consent.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 21, 1932, 47 Stat. 163, ch. 200, § 1</annotation>
+        <annotation>Feb. 11, 1933, 47 Stat. 799, ch. 48, § 1</annotation>
+        <annotation>May 21, 1953, 67 Stat. 27, ch. 63, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 8-158.</annotation>
+        <annotation>1973 Ed., § 8-164.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>The functions of the Director of the National Park Service relating to public buildings were transferred to the Federal Works Administrator by § 303 (b) of  Reorganization Plan No. I, July 1, 1939, 4 F.R. 2729, 53 Stat. 1427. All functions of all officers of the Department of the Interior (including the Director of the National Park Service) and all functions of all agencies and employees of such Department were, with 2 exceptions, transferred to the Secretary of the Interior, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorganization Plan No. 3, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1262. All functions of the Federal Works Agency and of all agencies thereof, together with all functions of the Federal Works Administrator, and all functions of the Commissioner of Public Buildings and the Public Buildings Administration, were transferred to the Administrator of General Services by § 103(a) of the Act of June 30, 1949, 63 Stat. 380, ch. 288. The Federal Works Agency, the Office of Federal Works Administrator, the Office of Commissioner of Public Buildings, and the Public Buildings Administration, were abolished by § 103(b) of said Act. All functions with respect to acquiring space in buildings by lease and all functions with respect to assigning and reassigning space in buildings for use by agencies (including both space acquired by lease and space in government-owned buildings), were, with certain exceptions, transferred from the respective agencies in which theretofore vested to the Administrator of General Services by §  1 of 1950 Reorganization Plan No. 18, 15 F.R. 3177, 64 Stat. 1270.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-162" path="|10|1"/>
+    <num codify:value="10-159">2</num>
+    <heading>Theodore Roosevelt Island — Means of access; appropriations.</heading>
+    <text>The Director of the National Park Service is authorized to provide suitable means of access to and upon the said Theodore Roosevelt Island as appropriations are made available from time to time and subject to the approval of the National Capital Planning Commission; and the appropriations needed for such construction and annually for the care, maintenance, and improvement of the said lands and improvements, are hereby authorized to be made from any funds not otherwise appropriated from the Treasury of the United States.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 21, 1932, 47 Stat. 164, ch. 200, § 2</annotation>
+        <annotation>Feb. 11, 1933, 47 Stat. 799, ch. 48, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 8-159.</annotation>
+        <annotation>1973 Ed., § 8-165.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <text>The functions of the Director of the National Park Service relating to public buildings were transferred to the Federal Works Administrator by § 303 (b) of  Reorganization Plan No. I, July 1, 1939, 4 F.R. 2729, 53 Stat. 1427. All functions of all officers of the Department of the Interior (including the Director of the National Park Service) and all functions of all agencies and employees of such Department were, with 2 exceptions, transferred to the Secretary of the Interior, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorganization Plan No. 3, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1262. All functions of the Federal Works Agency and of all agencies thereof, together with all functions of the Federal Works Administrator, and all functions of the Commissioner of Public Buildings and the Public Buildings Administration, were transferred to the Administrator of General Services by § 103(a) of the Act of June 30, 1949, 63 Stat. 380, ch. 288. The Federal Works Agency, the Office of Federal Works Administrator, the Office of Commissioner of Public Buildings, and the Public Buildings Administration, were abolished by § 103(b) of said Act. All functions with respect to acquiring space in buildings by lease and all functions with respect to assigning and reassigning space in buildings for use by agencies (including both space acquired by lease and space in government-owned buildings), were, with certain exceptions, transferred from the respective agencies in which theretofore vested to the Administrator of General Services by §  1 of 1950 Reorganization Plan No. 18, 15 F.R. 3177, 64 Stat. 1270.</text>
+        <text>The functions, powers and duties of the National Capital Park and Planning Commission were transferred to the National Capital Planning Commission by the Act of June 6, 1924, 43 Stat. 463, ch. 270, § 9, as added by the Act of July 19, 1952, 66 Stat. 790, ch. 949, § 1.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-162" path="|10|1"/>
+    <num codify:value="10-160">3</num>
+    <heading>Theodore Roosevelt Island — Structures authorized; appropriations.</heading>
+    <text>That the Secretary of the Interior shall erect on Theodore Roosevelt Island such monument or memorial to the memory of Theodore Roosevelt, and related structures, as may be approved by the living children of Theodore Roosevelt, the Theodore Roosevelt Association, the Commission on the Arts and Humanities, and the National Capital Planning Commission. There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 21, 1932, 47 Stat. 164, ch. 200, § 3</annotation>
+        <annotation>Feb. 11, 1933, 47 Stat. 799, ch. 48, § 1</annotation>
+        <annotation>May 21, 1953, 67 Stat. 27, ch. 63, § 2</annotation>
+        <annotation doc="Pub. L. 86-764">Sept. 13, 1960, 74 Stat. 904, Pub. L. 86-764</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 8-160.</annotation>
+        <annotation>1973 Ed., § 8-166.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

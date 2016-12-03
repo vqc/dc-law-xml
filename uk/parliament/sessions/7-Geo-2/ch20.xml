@@ -1,10 +1,123 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="7 Geo. 2, ch. 20">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="7 Geo. 2, ch. 20">
+  <heading/>
   <meta>
     <effective>1734-01-01</effective>
     <cites>
-        <law session="7 Geo. 2" chapter="20"/>
+      <law session="7 Geo. 2" chapter="20"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§42-808" path="|42|8"/>
+    <num codify:value="42-805">1</num>
+    <heading>While action pending, money due payable to mortgagee or court; effect thereof.</heading>
+    <text>Where any action shall be brought on any bond for payment of the money secured by mortgage, or performance of the covenants therein contained, or where any action of ejectment shall be brought in any court of record by any mortgagee or mortgagees, his, her, or their heirs, executors, administrators, or assigns, for the recovery of the possession of any mortgaged lands, tenements, or hereditaments, and no suit shall be then depending in any court of equity, for or touching the foreclosure or redeeming of such mortgaged lands, tenements, or hereditaments; if the person or persons having right to redeem such mortgaged lands, tenements, or hereditaments, and who shall appear and become defendant or defendants in such action, shall at any time, pending such action, pay unto such mortgagee or mortgagees, or, in case of his, her, or their refusal, shall bring into court where such action shall be depending, all the principal monies and interest due on such mortgage, and also all such costs as have been expended in any suit or suits at law or in equity upon such mortgage (such money for principal, interest, and costs to be ascertained and computed by the court where such action is or shall be depending, or by the proper officer by such court to be appointed for that purpose) the monies so paid to such mortgagee or mortgagees, or brought into such court, shall be deemed and taken to be in full satisfaction and discharge of such mortgage, and the court shall and may discharge every such mortgagor, or defendant, of and from the same accordingly; and shall and may, by rule or rules of the same court, compel such mortgagee or mortgagees, at the costs and charges of such mortgagor or mortgagors, to assign, surrender, or reconvey such mortgaged lands, tenements, and hereditaments, and such estate and interest, as such mortgagee or mortgagees have or hath therein, and deliver up all deeds, evidences, and writings, in his, her, or their custody, relating to the title of such mortgaged lands, tenements, and hereditaments, unto such mortgagor or mortgagors, who shall have paid or brought such monies into the court, his, her, or their heirs, executors, or administrators, or to such other person or persons, as he, she, or they, shall for that purpose nominate or appoint.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>7 Geo. 2, ch. 20, § 1, 1734</annotation>
+        <annotation>Kilty’s Rep. 251</annotation>
+        <annotation>Alex. Br. Stat. 726</annotation>
+        <annotation>Comp. Stat., D.C., p. 395, § 1</annotation>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1601, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(b), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-807">42-807</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-705.</annotation>
+        <annotation>1973 Ed., § 45-605.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-132">D.C. Law 14-132</cite> revived this section as of November 6, 2001. This section had been previously repealed by <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite>, § 1601.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) revival of section, see § 403(b) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1,</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§42-808" path="|42|8"/>
+    <num codify:value="42-806">2</num>
+    <heading>Decree or order without hearing where defendant files request and plaintiff files admission.</heading>
+    <text>Where any bill or bills, suit or suits, shall be filed, commenced, or brought in the court of equity, by any person or persons having or claiming any estate, right, or interest, in any lands, tenements, or hereditaments, under or by virtue of any mortgage or mortgages thereof, to compel the defendant or defendants in such suit or suits (having or claiming a right to redeem the same) to pay the plaintiff or plaintiffs in such suit or suits, the principal money and interest due on any such mortgage, or the principal money and interest due on such mortgages, together with any sum or sums of money due on any encumbrance or specialty, charged or chargeable on the equity of redemption thereof, and in default of payment thereof, to foreclose such defendant or defendants of his, her, or their right or equity of redeeming such mortgaged lands, tenements, or hereditaments; such equity court, where such suit or suits shall be depending, upon application made to such court by the defendant or defendants in such suit, having a right to redeem such mortgaged lands, tenements, or hereditaments, and upon his or their admitting the right and title of the plaintiff or plaintiffs in such suit, may and shall at any time or times, before such suit or cause shall be brought to hearing, make such order or decree therein, as such court or courts might or could have made therein, in case such suit or cause had then been regularly brought to hearing before such court or courts; and all parties to such suit or suits shall be bound by such order or decree so made, to all intents and purposes, as if such order or decree had been made, by such court, at or subsequent to the hearing of such cause or suit.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>7 Geo. 2, ch. 20, § 2, 1734</annotation>
+        <annotation>Kilty’s Rep. 251</annotation>
+        <annotation>Alex. Br. Stat. 727</annotation>
+        <annotation>Comp.Stat., D.C., p. 396, § 2</annotation>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1601, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(b), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-807">42-807</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-706.</annotation>
+        <annotation>1973 Ed., § 45-606.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-132">D.C. Law 14-132</cite> revived this section as of November 6, 2001. This section had been previously repealed by <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite>, § 1601.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) revival of section, see § 403(b) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§42-808" path="|42|8"/>
+    <num codify:value="42-807">3</num>
+    <heading>Limitations upon right of redemption in §§ 42-805 and 42-806.</heading>
+    <text>Sections 42-805   and 42-806   or anything therein contained, shall not extend to any case where the person or persons, against whom the redemption is or shall be prayed, shall (by writing under his, her, or their hands, or the hand of his, her, or their attorney, agent, or solicitor, to be delivered before the money shall be brought into such court at law, to the attorney or solicitor for the other side) insist, either that the party praying a redemption has not a right to redeem, or that the premises are chargeable with other or different principal sums, than what appear on the face of the mortgage, or shall be admitted on the other side; nor to any case where the right of redemption to the mortgaged lands and premises in question in any cause or suit shall be controverted or questioned by or between different defendants in the same cause or suit; nor shall be any prejudice to any subsequent mortgagee or mortgagees, or subsequent encumbrancer.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>7 Geo. 2, ch. 20, § 3, 1734</annotation>
+        <annotation>Kilty’s Rep. 251</annotation>
+        <annotation>Alex. Br. Stat. 728</annotation>
+        <annotation>Comp. Stat., D.C., p. 397, § 3</annotation>
+        <annotation doc="D.C. Law 13-263">Apr. 3, 2001, D.C. Law 13-263, § 1601, 48 DCR 991</annotation>
+        <annotation doc="D.C. Law 14-132">May 7, 2002, D.C. Law 14-132, § 602(b), 49 DCR 2551</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-707.</annotation>
+        <annotation>1973 Ed., § 45-607.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-132">D.C. Law 14-132</cite> revived this section as of November 6, 2001. This section had been previously repealed by <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite>, § 1601.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Protections from Predatory Lending and Mortgage Foreclosure Improvements Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-86">D.C. Law 14-86</cite>, March 19, 2002, law notification  49 DCR 2991).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>Section 2 of Act 14-188, the “Protections from Predatory Lending and Mortgage Foreclosure Improvements Emergency Amendment Act”, deemed approved Nov. 27, 2001, without the signature of the Mayor, provided that <cite doc="D.C. Law 13-263">D.C. Law 13-263</cite> shall not apply beginning November 6, 2001, through March 6, 2002.</annotation>
+        <annotation>For temporary (90 day) revival of section, see § 403(b) of Home Loan Protection Emergency Act of 2002 (D.C. Act 14-295, March 1, 2002,  49 DCR 2534).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

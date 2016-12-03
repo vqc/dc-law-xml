@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 6-173">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 6-173">
   <num type="law">6-173</num>
   <heading type="short">State Energy Plans Submission Requirement Act of 1986</heading>
   <meta>
@@ -12,4 +12,111 @@
       <narrative>Law 6-173, the “State Energy Plans Submission Requirement Act of 1986,” was introduced in Council and assigned Bill No. 6-402, which was referred to the Committee on Public Service and Cable Television. The Bill was adopted on first and second readings on September 23, 1986 and October 7, 1986, respectively. Signed by the Mayor on October 30, 1986, it was assigned Act No. 6-222 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17S"/>
+    <num codify:value="8-1779.01">2</num>
+    <heading>Submission of state energy plans to Council prior to filing with federal agency.</heading>
+    <text>The Mayor shall submit, on an annual basis, all federally required state energy plans and modifications of approved state energy plans for the following energy programs to the Council of the District of Columbia (“Council”) for its review and approval prior to submission to the federal agency administering the program:</text>
+    <para>
+      <num>(1)</num>
+      <text>The supplementary weather assistance program for low-income persons authorized by 42 U.S.C. § 6851 et seq. [42 U.S.C. § 6861 et seq.];</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The state energy conservation programs authorized by 42 U.S.C. § 6201 et seq.;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The energy conservation programs for schools, hospitals, and buildings owned by units of local governments and public care institutions authorized by 42 U.S.C. § 6371 et seq.;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The energy outreach programs authorized by 42 U.S.C. § 7001 et seq. [repealed]; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The home energy assistance program for low-income persons authorized by 42 U.S.C. § 8621 et seq.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-173">Feb. 24, 1987, D.C. Law 6-173, § 2, 33 DCR 7224</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-911">2-911</cite> and § <cite path="§8-1779.02">8-1779.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§2-911">2-911</cite>.</annotation>
+        <annotation>1981 Ed., § 1-1911.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>42 U.S.C. § 7001 et seq., referred to in (4), was repealed by P.L. 102-486, Title I, Subtitle E, § 143(a), 106 Stat. 2843, effective October 24, 1992.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17S"/>
+    <num codify:value="8-1779.02">3</num>
+    <heading>Limitation of expenditures.</heading>
+    <text>The Mayor shall not expend, except in accordance with a state energy plan identified in § <cite path="§8-1779.01">8-1779.01</cite>, any revenues owed or accruing to the District of Columbia (“District”) on or after January 27, 1986, as a result of action taken by the United States Department of Energy pursuant to the following authority:</text>
+    <para>
+      <num>(1)</num>
+      <text>12 U.S.C. § 1904, note, as incorporated by 15 U.S.C. § 754(a)(1) [expired];</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>15 U.S.C. § 757 et seq. [expired];</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>42 U.S.C. § 7101 et seq.; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Section 155 of a Joint Resolution Making further continuing appropriations and providing for productive employment for the fiscal year 1983, and for other purposes, effective December 21, 1982 (96 Stat. 1830) [Public Law 97-377, § 155, 96 Stat. 1919].</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-173">Feb. 24, 1987, D.C. Law 6-173, § 3, 33 DCR 7224</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-912">2-912</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§2-912">2-912</cite>.</annotation>
+        <annotation>1981 Ed., § 1-1912.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>15 U.S.C. §§ 754 and  757, referred to in (1) and (2), respectively, have been omitted pursuant to the terms of former  15 U.S.C. § 760g.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17S"/>
+    <num codify:value="8-1779.03">4</num>
+    <heading>Review period; time for filing state energy plans; approval.</heading>
+    <text>Each state energy plan shall be submitted to the Council for a 60-day review period (excluding Saturdays, Sundays, holidays, and days of Council recess) at least 90 days before the plan is required to be submitted to the federal agency administering the program. Proposed modifications to an approved state plan shall be submitted to the Council for a 30-day review period (excluding Saturdays, Sundays, holidays, and days of Council recess) at least 45 days before the modification is required to be submitted to the federal agency administering the program. The Council may, by resolution, approve or disapprove any plan or modification, in whole or in part, within the review period. If the Council, by resolution, does not approve or disapprove any plan or modification before the expiration of the review period, the plan or modification shall be deemed approved.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-173">Feb. 24, 1987, D.C. Law 6-173, § 4, 33 DCR 7224</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-913">2-913</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§2-913">2-913</cite>.</annotation>
+        <annotation>1981 Ed., § 1-1913.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

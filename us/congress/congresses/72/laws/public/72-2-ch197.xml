@@ -1,10 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 72-2-ch197">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 72-2-ch197">
+  <heading/>
   <meta>
     <effective>1932-05-20</effective>
     <cites>
-        <law congress="72" session="2" chapter="197"/>
+      <law congress="72" session="2" chapter="197"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-120" path="|10|1"/>
+    <num codify:value="10-112">2</num>
+    <heading>Transfer of jurisdiction over property between United States and District of Columbia — Existing laws unaffected.</heading>
+    <text>Nothing in § <cite path="§10-111">10-111</cite> shall be construed to repeal the provisions of any existing law or laws authorizing the transfer of jurisdiction of certain lands between and among federal and District authorities, but all such laws shall remain in full force and effect.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 20, 1932, 47 Stat. 162, ch. 197, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Reversion of leases, see § <cite path="§6-321.05">6-321.05</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 8-112.</annotation>
+        <annotation>1973 Ed., § 8-116.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,10 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 55-2-ch546">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 55-2-ch546" codify:tag="section" from-code="true">
   <meta>
     <effective>1898-07-01</effective>
     <cites>
-        <law congress="55" session="2" chapter="546"/>
+      <law congress="55" session="2" chapter="546"/>
     </cites>
   </meta>
+  <codify:insert doc="D.C. Code" path="|44|7|IV"/>
+  <reason>Repealed</reason>
+  <num codify:value="44-783"></num>
+  <heading>Receipt of contagious-disease cases by Providence and Garfield Memorial Hospitals.</heading>
+  <text>Repealed.</text>
+  <annotations>
+    <annoGroup>
+      <heading>History</heading>
+      <annotation>July 1, 1898, 30 Stat. 635, ch. 546</annotation>
+      <annotation>Aug. 1, 1950, 64 Stat. 393, ch. 513, § 1</annotation>
+      <annotation doc="D.C. Law 5-48">Feb. 24, 1984, D.C. Law 5-48, § 12(j), 30 DCR 5778</annotation>
+    </annoGroup>
+    <annoGroup>
+      <heading>Prior Codifications</heading>
+      <annotation>1981 Ed., § 32-115.</annotation>
+      <annotation>1973 Ed., § 32-316.</annotation>
+    </annoGroup>
+  </annotations>
 </document>

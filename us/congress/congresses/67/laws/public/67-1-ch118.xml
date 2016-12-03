@@ -1,10 +1,1213 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 67-1-ch118">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 67-1-ch118">
+  <heading/>
   <meta>
     <effective>1921-03-03</effective>
     <cites>
-        <law congress="67" session="1" chapter="118"/>
+      <law congress="67" session="1" chapter="118"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.01">1</num>
+    <heading>Department of Weights, Measures, and Markets created; appointment of Director, assistants and employees.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is hereby created an executive department in the government of the District of Columbia which shall be known as the Department of Weights, Measures, and Markets. Such Department shall be in charge of a Director of Weights, Measures, and Markets, who shall be appointed by and be under the direction and control of the Mayor of the District of Columbia. He shall have the custody and control of such standard weights and measures of the United States as are now or shall hereafter be provided by the District of Columbia, which shall be the only standards for weights and measures in said District.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor is also authorized to appoint, on the recommendation of the Director, such assistants, inspectors, and other employees for which Congress may, from time to time, provide.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1217, ch. 118, § 1</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Annual estimate of salaries, see § <cite path="§47-207">47-207</cite>.</annotation>
+        <annotation>Council’s authority to promulgate regulations, see § <cite path="§47-2844">47-2844</cite>.</annotation>
+        <annotation>Council’s authority to regulate, modify or eliminate license requirements, see § <cite path="§47-2842">47-2842</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-101.</annotation>
+        <annotation>1973 Ed., § 10-101.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: The Department of Weights, Measures, and Markets was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. Reorganization Order No. 55 of the Board of Commissioners, dated June 30, 1953, established under the direction and control of a Commissioner a Department of Licenses and Inspection, set out the purpose, organization, and functions of the Department, established the Inspection Division to administer and enforce the standard weights and measures law, transferred to the Department the functions and positions of the Department of Weights, Measures, and Markets and abolished the latter Department in accordance with the provisions of 1952 Reorganization Plan No. 5. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by § 401 of Reorganization Plan No. 3 of 1967. The functions vested in the Department of Licenses and Inspections by Reorganization Order No. 55 were transferred to the Director of the Department of Economic Development by Commissioner’s Order No. 69-96, dated March 7, 1969. The Department of Economic Development was replaced by Mayor’s Order 78-42, dated February 17, 1978, which Order established the Department of Licenses. Investigation and Inspections.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.02">2</num>
+    <heading>Director to give bond and take oath.</heading>
+    <text>The Director shall, before entering upon the performance of his duties, give bond to the District of Columbia in the penal sum of $5,000, signed by 2 sureties or by a bonding company, to be approved by the Mayor, conditioned on the faithful discharge of the duties of his office, and shall take and subscribe an oath or affirmation before the Mayor that he will faithfully and impartially discharge the duties of his office, which bond and oath shall be deposited with the Mayor.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1217, ch. 118, § 2</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-103.</annotation>
+        <annotation>1973 Ed., § 10-102.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § <cite path="§37-201.01">37-201.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.03">3</num>
+    <heading>Exclusive powers of Director; examination of measuring devices; condemnation; charges by Mayor.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Director and, under his direction, his assistants and inspectors, shall have exclusive power to perform all the duties provided in this subchapter. They shall, at least every 6 months, and oftener when the Director thinks proper, inspect, test, try, and ascertain whether or not they are correct, all weights, scales, beams, measures of every kind, instruments or mechanical devices for weighing or measuring, and all tools, appliances, or accessories connected with any or all such instruments or mechanical devices for weighing or measuring used or employed in the District of Columbia by any owner, agent, lessee, or employee in determining the weight, size, quantity, extent, area, or measurement of quantities, things, produce, or articles of any kind offered for transportation, sale, barter, exchange, hire, or award, or the weight of persons for a charge or compensation, and shall approve and seal, stamp, or mark, in the manner prescribed by the Council of the District of Columbia, such devices or appliances as conform to the standards kept in the Office of the Director, and shall seize and destroy or mark, stamp, or tag with the word “condemned” such as do not conform to the standards, and shall also mark the date of such condemnation upon the same. Any weight, scale, beam, measure, weighing or measuring device of any kind which shall be found to be unsuitable for the purpose for which it is intended to be used or of defective construction or material shall be condemned. No person shall use or, having the same under his control, shall permit to be used for any of the purposes enumerated in this subchapter any weight, scale, beam, measure, weighing or measuring device whatsoever unless the same has been approved in accordance with the provisions of this subchapter within 6 months prior to such use, or that does not conform to the standards kept in the Office of the Director of Weights, Measures, and Markets, or that does not bear the approval seal, stamp, or mark prescribed by the Council, or which, having been condemned, has not thereafter been approved as provided in this subchapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any person who shall acquire or have in his possession after March 3, 1921 any scale, weighing instrument, or nonportable measure or measuring device, subject to inspection or test under the provisions of this subchapter, which has not been approved in accordance with the provisions of this subchapter within 6 months prior to acquisition or possession and which does not bear the approval seal, stamp, or mark prescribed by the Council, shall notify the Director in writing at his office, giving a general description thereof, and the street and number or other location where same may be found, and it shall be the duty of the Director to cause the same to be inspected and tested within a reasonable time after receipt of such notice. Any person who shall acquire or have in his possession after March 3, 1921, any portable measure or measuring device, subject to inspection or test under the provisions of this subchapter, which has not been approved in accordance with the provisions of this subchapter within 6 months prior to acquisition or possession and which does not bear the approval seal, stamp, or mark prescribed by the Council shall cause the same to be taken to the Office of the Director for inspection and test.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Every peddler, hawker, huckster, transient merchant, or other person with no fixed or established place of business shall, before using any weight, scale, measure, weighing or measuring device for any of the purposes enumerated in this subchapter, cause the same to be taken to the Office of the Director for inspection and test semiannually, and shall not use for the purposes herein mentioned any weight, scale, measure, weighing or measuring device which has not been approved within 6 months prior to the time of such use, and does not bear the approval seal, stamp, or mark prescribed by the Council.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor of the District of Columbia shall make a charge of $15 per hour, per person, for the examination, inspection, and sealing and for the reinspection on recalls due to condemnations of the following weighing and measuring equipment used or owned by agencies of the federal government and by private suppliers under contract to departments of the District of Columbia government:</text>
+      <para>
+        <num>(1)</num>
+        <text>Vehicle type scales;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Hopper type scales;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Hanging Spring type scales — 20 pounds or less;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Hanging Spring type scales — over 20 pounds;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Computing scales, conventional;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Computing scales, prepacked;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Counter scales, except counter platform;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Counter platform;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Platform scales — up to 500 pounds;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Platform scales — over 500 pounds;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Crane scales;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Dormant type scales — over 10,000 pounds;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Dormant type scales — 2,000 to 10,000 pounds;</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Dormant type scales — up to 2,000 pounds;</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Personal weighing scales, including physician type;</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>Prescription scales, types A, B, C, including weights;</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>Analytical balances, including chain-o-matic type and weights;</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>Jewelry scales;</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>Abattoir scales;</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>Butcher beam;</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>Gasoline pumps;</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>Liquid measures up to 5 gallons;</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>Meters on trucks used for petroleum products; and</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>Bulk plant meters.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1217, ch. 118, § 3</annotation>
+        <annotation>Apr. 27, 1945, 59 Stat. 96, ch. 99, § 1</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+        <annotation doc="D.C. Law 4-136">Aug. 14, 1982, D.C. Law 4-136, § 2, 29 DCR 2754</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Adulteration of food and drugs, see § <cite path="§48-101">48-101</cite> et seq.</annotation>
+        <annotation>Disposition of fees, see § <cite path="§47-127">47-127</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-104.</annotation>
+        <annotation>1973 Ed., § 10-103.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § <cite path="§37-201.01">37-201.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(194) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.04">4</num>
+    <heading>Inspection required after repair; alteration of condemnation tag prohibited.</heading>
+    <text>No person shall use or, having the same under his control, permit to be used, any weight, scale, measure, weighing or measuring device, or any attachment or part thereof after the same has been altered or repaired without the same having been inspected and approved as provided in this subchapter after such alterations or repairs have been made, and no persons shall alter, obliterate, detach, obscure, or conceal any condemnation seal, stamp, mark, tag, or label, attached or impressed by the Director or any of his assistants or inspectors, without written permission of the Director.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1218, ch. 118, § 4</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-105.</annotation>
+        <annotation>1973 Ed., § 10-104.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § <cite path="§37-201.01">37-201.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.05">5</num>
+    <heading>Obstruction of inspection prohibited.</heading>
+    <text>No person shall neglect, fail, or refuse to exhibit any weight, scale, beam, measure, weighing or measuring device, subject to inspection or test under the provisions of this subchapter, to the Director or any of his assistants or inspectors for the purpose of inspection and test and no persons shall in any manner obstruct, hinder, or molest the Director or any of his assistants, inspectors, or other employees in the performance of their duties.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1218, ch. 118, § 5</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-106.</annotation>
+        <annotation>1973 Ed., § 10-105.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § <cite path="§37-201.01">37-201.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.06">6</num>
+    <heading>Record of inspections.</heading>
+    <text>The Director shall keep in his office a record of weighing and measuring devices inspected, which record shall show the type of device, the name and address of the owner, the date of inspection, and whether the same was approved or condemned. Such record shall be open to the public during regular office hours.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1219, ch. 118, § 6</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-107.</annotation>
+        <annotation>1973 Ed., § 10-106.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § <cite path="§37-201.01">37-201.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.07">7</num>
+    <heading>False measure prohibited; sale of commodities.</heading>
+    <text>No person shall sell, offer for sale, keep, or expose for sale anywhere in the District of Columbia any commodity of any kind as a weight, measure, or numerical count greater than the actual or true weight, measure, or numerical count thereof, and no person shall take or attempt to take more than the actual and true weight, measure, or numerical count of any commodity, when, as buyer, he is permitted by the seller to determine the weight, measure, or numerical count thereof. No person shall charge or collect for any commodity or commodities a sum greater than the price or prices indicated or quoted at the time of sale. No person shall charge, collect, or accept any money for any commodity which he shall not have delivered or which he shall not have agreed to deliver. When a whole number or fraction, or both, are used in representing the price or quantity of any commodity, thing, or service offered or exposed for sale, such number or combination of numbers shall be of such size as to indicate clearly the price or quantity of such commodity, thing or service.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1219, ch. 118, § 7</annotation>
+        <annotation>Apr. 27, 1945, 59 Stat. 97, ch. 99, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-108.</annotation>
+        <annotation>1973 Ed., § 10-107.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.08">8</num>
+    <heading>Commodities sold by weight; “ton” defined.</heading>
+    <text>When any commodity is sold by weight it shall be net weight. When any commodity is sold by the ton, it shall be understood to mean 2,000 pounds avoirdupois.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1219, ch. 118, § 8</annotation>
+        <annotation>Mar. 31, 1945, 59 Stat. 45, ch. 46, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-109.</annotation>
+        <annotation>1973 Ed., § 10-108.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.09">9</num>
+    <heading>Vending machines.</heading>
+    <text>No person, firm, or corporation shall erect, operate, or maintain, or cause to be erected, operated, or maintained within the District of Columbia any coin-in-the-slot machine or automatic vending device without placing in charge thereof some responsible person. No such machine shall be maintained for use when the same is not in perfect working order, and the person in charge as well as the owner of such machine or device shall be held responsible for operating or maintaining any such machine or device which is not in perfect working order. A sign or placard shall be placed on every such machine or device in a conspicuous place and shall contain the name and business address of the owner and of the person in charge of such machine or device, and shall state that the person in charge of such machine or device will refund to any person money deposited by him for which the commodity or service promised expressly or impliedly has not been received, and such person shall so refund such money.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1219, ch. 118, § 9</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-110.</annotation>
+        <annotation>1973 Ed., § 10-109.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.10">10</num>
+    <heading>Sales tickets.</heading>
+    <text>Every person, firm, or corporation shall, when a sales ticket is given with a purchase, cause such sales ticket to show the correct name and address of such person, firm, or corporation and the weight, measure, or numerical count, as the case may be, of each commodity sold to the purchaser, and every such person, firm, or corporation is hereby required to deliver such sales ticket to such purchaser when requested to do so by such purchaser at the time of sale.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1219, ch. 118, § 10</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-111.</annotation>
+        <annotation>1973 Ed., § 10-110.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.11">11</num>
+    <heading>Sale of coal, charcoal, or coke.</heading>
+    <para>
+      <num>(a)</num>
+      <text>It shall be unlawful to sell or offer for sale in the District of Columbia any coal, charcoal, or coke in any manner other than by weight. No person shall sell or deliver or attempt to deliver to any purchaser within the District of Columbia any coal, charcoal, or coke unless the quantity so sold or delivered or attempted to be delivered to each purchaser shall have been weighed separately. No person shall deliver to any purchaser within the District of Columbia any coal, charcoal, or coke unless the same shall have been kept separated from any other coal, charcoal, coke, or other commodity after same has been weighed as aforesaid until final delivery thereof.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No person shall deliver or attempt to deliver any coal, charcoal, or coke in a quantity of one-fourth of a ton or more without accompanying the same by a delivery ticket and a duplicate thereof, the original of which shall be in ink or indelible substance, on each of which shall be clearly and distinctly expressed the following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>The gross weight of the load, the tare weight of the delivery vehicle, and the net weight of the coal, charcoal, or coke expressed in pounds avoirdupois;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The name of the owner and location of the scale on which the coal, charcoal, or coke shall have been weighed;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Name and address of the seller and of the purchaser; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The name of the person who weighed said coal, charcoal, or coke.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Upon demand of the Director or any of his assistants or inspectors upon the person in charge of the vehicle of delivery, the original of these tickets shall be surrendered to the official making such demand. The duplicate ticket shall be delivered to the purchaser of said coal, charcoal, or coke, or to his agent or representative, at the time of delivery of such coal, charcoal, or coke. Upon demand of the Director or any of his assistants or inspectors, or of the purchaser or intended purchaser, his agent, or representative, the person delivering such coal, charcoal, or coke shall convey the same forthwith to a public scale, owned and operated as hereinafter provided, or to any legally approved private scale in the District of Columbia, the owner of which may consent to its use, and shall permit the verifying of the weight, and after the delivery of such coal, charcoal, or coke shall return forthwith with the wagon, truck, or other vehicle used to the same scale and permit to be verified the weight of the wagon, truck or other vehicle.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>When coal, charcoal, or coke is sold in quantities of one-fourth ton or more, it shall be sold in quantities of one-fourth ton, one-half ton, 1 ton, or in multiples of a ton. When coal, charcoal, or coke is sold in quantities of less than one-fourth ton, it shall be weighed at the time of delivery or sold in packages containing 100 pounds, 50 pounds, 25 pounds, 15 pounds, or 10 pounds. No package of coal, charcoal, or coke shall be made for sale, kept for sale, offered for sale, exposed for sale, or sold unless it shall have distinctly and conspicuously printed on the outside thereof in plain bold-face type, not smaller than 36 point, the name of the commodity, the quantity of contents in pounds, and the name and address of the maker of said package. When coal, charcoal, or coke is sold and delivered in packages, no delivery ticket shall be required.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>No coal, charcoal, or coke shall be sold which contains at the time the weight is taken more water or other liquid substance than is due to the natural condition of the coal, charcoal, or coke.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Every vendor of coal, charcoal, or coke shall cause his name and address to be distinctly and conspicuously displayed in letters and figures at least 4 inches high on both sides of every vehicle used by or for him for the sale or delivery of coal, charcoal, or coke. In case of an estate, the trustee, administrator, or executor, or other person in charge of the affairs of such estate shall be deemed to be the vendor.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1219, ch. 118, § 11</annotation>
+        <annotation>Apr. 27, 1945, 59 Stat. 97, ch. 99, § 3</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-112.</annotation>
+        <annotation>1973 Ed., § 10-111.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § <cite path="§37-201.01">37-201.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.12">12</num>
+    <heading>Sale of ice.</heading>
+    <text>It shall be unlawful to sell, within the District of Columbia, any ice in any manner other than by weight, such weight to be ascertained at the time of delivery of such ice, and every person, or in case of a firm, copartnership, or corporation, the person in charge of its business in the District of Columbia, engaged in the sale of ice shall keep on each of his or its wagons or other vehicles used in the sale or delivery of ice, while in use, a scale suitable for weighing ice which has been tested and approved in accordance with the provisions of this subchapter. Every scale used for weighing ice in making sales in quantities of 100 pounds or less shall have graduations of 1 pound or less. Scales used for weighing ice in making sales in quantities of more than 100 pounds may have graduations of 5 pounds or less.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1220, ch. 118, § 12</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-113.</annotation>
+        <annotation>1973 Ed., § 10-112.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.13">13</num>
+    <heading>Sale of bread.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The word “bread” when used in the name of the food means the unit weighs 8 ounces or more after cooling, and any bread exposed for sale or sold in the District of Columbia shall have the net weight of the contents indicated by printing or marking the net weight on the label, wrapper, or container.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Nothing herein shall apply to crackers, pretzels, buns, rolls, scones, or loaves of fancy bread weighing less than one-fourth pound avoirdupois, or what is commonly known as stale bread, provided the seller shall, at the time the sale is made, expressly state to the buyer that the bread sold is stale bread.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Any loaf of bread weighing within 10 per centum in excess or within 4 per centum less than standard weight shall be deemed of legal weight.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1220, ch. 118, § 13</annotation>
+        <annotation>Aug. 24, 1921, 42 Stat. 201, ch. 92</annotation>
+        <annotation doc="D.C. Law 5-33">Oct. 8, 1983, D.C. Law 5-33, § 2, 30 DCR 4022</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-114.</annotation>
+        <annotation>1973 Ed., § 10-113.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.14">14</num>
+    <heading>Sale of frozen and fluid dairy products.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All fluid and frozen dairy products, including but not limited to whole milk, skimmed milk, cultured milk, sweet cream, sour cream, buttermilk, chocolate milk, chocolate drink, ice cream, and frozen custard, and frozen dairy desserts such as sherbet, water ice, and ice milk, shall, when sold or offered for sale in package form, be packaged only in units of gallons, one and one-half gallons, two and one-half gallons, integral multiples of the gallon, or binary-submultiples of the gallon of not less than 1 fluid ounce. Packages of less than 1 fluid ounce shall be permitted if the net contents of each such package are clearly and permanently marked thereon and if the labeling of the package conforms with the requirements of this subchapter or such package be 1 of a number of identical packages in an outside container the total contents and labeling of which conform with the requirements of this subchapter. Notwithstanding the foregoing, frozen dairy products and frozen dairy desserts may be sold or offered for sale in individually packaged or wrapped portions each containing 4 or more but less than 16 fluid ounces, in integral multiples of 1 ounce, or, if less than 4 ounces, in multiples of one-half ounce. The package or wrapper of each individual portion of any such frozen dairy product or frozen dairy dessert shall be clearly labeled to show the net contents in fluid ounces. When 2 or more such individual portions of a frozen dairy product or frozen dairy dessert are sold or offered for sale in an outside container, the exterior of such container shall be clearly labeled to show the number of individual portions contained therein and the total net contents of such container, in fluid ounces.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Bottles or containers used for the retail sale of milk, buttermilk, chocolate milk, chocolate drink, or cream shall have clearly blown or otherwise permanently marked in the side of each bottle or container, or printed on the cap or stopple thereof, the name and address of the person, firm, or corporation who or which bottled such milk, buttermilk, chocolate milk, chocolate drink, or cream and the capacity of such bottle or container, except that a package containing less than 1 fluid ounce need not be labeled as to quantity if such package be 1 of a number of identical packages in an outside container the total contents and labeling of which conform with the requirements of this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1221, ch. 118, § 14</annotation>
+        <annotation>Apr. 27, 1945, 59 Stat. 98, ch. 99, § 4</annotation>
+        <annotation doc="Pub. L. 88-405">Aug. 7, 1964, 78 Stat. 382, Pub. L. 88-405, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Registration of trademark, see § <cite path="§36-121">36-121</cite> et seq.</annotation>
+        <annotation>Sale of milk, cream, and ice cream, see § <cite path="§48-601">48-601</cite> et seq.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-115.</annotation>
+        <annotation>1973 Ed., § 10-114.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.15">15</num>
+    <heading>Standard containers for sale of fruits, vegetables, and other dry commodities; no sales except in standard containers or by weight or count.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Standard containers for the sale of fruits, vegetables, and other dry commodities in the District of Columbia shall be as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Standard barrel for fruits, vegetables, and other dry commodities other than cranberries, shall be of the following dimensions when measured without distention of its parts: Length of stave, twenty-eight and one-half inches; diameter of heads, seventeen and one-eighth inches; distance between heads, 26 inches; circumference of bulge, 64 inches, outside measurement; and the thickness of staves not greater than four-tenths of an inch; provided, that any barrel of a different form having a capacity of 7,056 cubic inches shall be a standard barrel. The standard barrel for cranberries shall be of the following dimensions when measured without distention of its parts: length of staves, twenty-eight and one-half inches; diameter of head, sixteen and one-fourth inches; distance between heads, twenty-five and one-fourth inches; circumference of bulge, fifty-eight and one-half inches, outside measurement; and the thickness of staves not greater than four-tenths of an inch. It shall be unlawful to sell, offer, or expose for sale in the District of Columbia a barrel containing fruits or vegetables or any other dry commodity of less capacity than the standard barrels defined in this section, or subdivisions thereof known as the 3rd, half, and three-quarter barrel.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>Standards for climax baskets for grapes and other fruits and vegetables shall be the 2-quart basket, 4-quart basket, and 12-quart basket, respectively.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The standard 2-quart climax basket shall be of the following dimensions: length of bottom piece, nine and one-half inches; width of bottom piece, three and one-half inches; thickness of bottom piece, three-eighths of an inch; height of basket, three and seven-eighths inches, outside measurement; top of basket, length 11 inches and width 5 inches, outside measurement. Basket to have a cover 5 by 11 inches, when a cover is used.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The standard 4-quart climax basket shall be of the following dimensions: length of bottom piece, 12 inches; width of bottom piece, four and one-half inches; thickness of bottom piece, three-eighths of an inch; height of basket, four and eleven-sixteenths inches, outside measurement; top of basket, length 14 inches; width six and one-fourth inches, outside measurement. Basket to have cover six and one-fourth inches by 14 inches, when cover is used.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The standard 12-quart climax basket shall be of the following dimensions: length of bottom piece, 16 inches; width of bottom piece, six and one-half inches; thickness of bottom piece, seven-sixteenths of an inch; height of basket, seven and one-sixteenth inches, outside measurement; top of basket, length 19 inches, width 9 inches, outside measurement. Basket to have cover 9 inches by 19 inches, when cover is used.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The 6-basket carrier crate for fruits and vegetables shall contain 6 4-quart baskets, each basket having a capacity of two hundred and sixty-eight and eight-tenths cubic inches.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The 4-basket flat crate for fruits and vegetables shall contain 4 3-quart baskets, each basket having a capacity of two hundred and one and six-tenths cubic inches.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The standard box, basket, or other container for berries, cherries, shelled peas, shelled beans, and other fruits and vegetables of similar size shall be of the following capacities standard dry measure: One-half pint, pint, and quart. The one-half pint shall contain sixteen and eight-tenths cubic inches; the pint shall contain thirty-three and six-tenths cubic inches; the quart shall contain sixty-seven and two-tenths cubic inches.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <para>
+          <num>(A)</num>
+          <text>Standard lug boxes for fruits and vegetables shall be the one-half bushel box and the 1-bushel box.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The one-half bushel lug box shall be of the following inside dimensions: length, 17 inches; width, ten and five-tenths inches; depth, 6 inches.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The 1-bushel lug box shall be of the following inside dimensions: length, twenty and three-fourths inches; width, 13 inches; depth, 8 inches; and no lug box of other than the foregoing dimensions shall be used in the District of Columbia.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <para>
+          <num>(A)</num>
+          <text>The standard hampers for fruits and vegetables shall be the 1-peck hamper, one-half bushel-hamper, 1-bushel hamper, and one and one-half-bushel hamper.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The 1-peck hamper shall contain five hundred and thirty-seven and six-tenths cubic inches; the one-half-bushel hamper shall contain one thousand and seventy-five and twenty-one one-hundredths cubic inches. The 1-bushel hamper shall contain two thousand one hundred and fifty and forty-two one-hundredths cubic inches, and the one and one-half-bushel hamper shall contain three thousand two hundred and twenty-five and sixty-three one-hundredths cubic inches.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <para>
+          <num>(A)</num>
+          <text>The standard round-stave baskets for fruits and vegetables shall be the one-half-bushel basket, 1-bushel basket, one and one-half-bushel basket, and 2-bushel basket.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The one-half-bushel basket shall contain one thousand and seventy-five and twenty-one one-hundredths cubic inches. The 1-bushel basket shall contain two thousand one hundred and fifty and forty-two one-hundredths cubic inches. The one and one-half-bushel basket shall contain three thousand two hundred and twenty-five and sixty-three one-hundredths cubic inches, and the 2-bushel basket shall contain four thousand three hundred and eighty-four one-hundredths cubic inches.</text>
+        </para>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The standard apple box shall contain two thousand one hundred and seventy-three and five-tenths cubic inches and be of the following inside dimensions: length, 18 inches; width, eleven and one-half inches; depth, ten and one-half inches.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>The standard pear box shall be of the following inside dimensions: length, 18 inches; width, eleven and one-half inches; depth, eight and one-half inches.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>The standard onion crate shall be of the following inside dimensions: length, nineteen and five-eighths inches; width, eleven and three-sixteenths inches; depth, nine and thirteen-sixteenths inches.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No person shall sell, offer, or expose for sale in the District of Columbia any fruits, vegetables, grain, or similar commodities in any manner except in the standard containers herein prescribed or by weight or numerical count; and no person shall sell, offer, or expose for sale, except by weight or numerical count, in the District of Columbia any commodity in any container herein prescribed which does not contain, at the time of such offer, exposure, or sale, the full capacity of such commodity compactly filled; provided, that fresh beets, onions, turnips, rhubarb, and other similar vegetables, usually and customarily sold by the bunch, may be sold by the bunch.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>All kale, spinach, and other similar leaf vegetables shall be sold at retail by net weight.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1221, ch. 118, § 15</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-116.</annotation>
+        <annotation>1973 Ed., § 10-115.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.16">16</num>
+    <heading>Substitutes for dry measure prohibited.</heading>
+    <text>Nothing in this subchapter contained shall be construed as permitting the use as a dry measure or substituting for a dry measure any of the following containers: barrels, boxes, lug boxes, crates, hampers, baskets, or climax baskets; and the use of any such container as a measure is hereby expressly prohibited, and the user shall be fined or imprisoned as herein provided for other violations of this subchapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1223, ch. 118, § 16</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-117.</annotation>
+        <annotation>1973 Ed., § 10-116.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.16a">16 1/2</num>
+    <heading>Quantity markings required for packages; exemption.</heading>
+    <text>No person shall sell, offer, or expose for sale in the District of Columbia any food in package form unless the quantity of contents is plainly and conspicuously marked on the outside of each package in terms of weight, measure, or numerical count. The Council of the District of Columbia is authorized to establish and allow reasonable variation, tolerances, and exemptions as to small packages.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 67-1-ch118" path="§16 1/2">Mar. 3, 1921, 41 Stat. 1223, ch. 118, § 16 1/2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-118.</annotation>
+        <annotation>1973 Ed., § 10-117.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(195) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§37-201.18" path="|37|2|I"/>
+    <num codify:value="37-201.17">17</num>
+    <heading>Sale of wood.</heading>
+    <text>A cord of wood shall contain 128 cubic feet. Wood more than 8 inches in length shall be sold by the cord or fractional part thereof, and when delivered shall contain 128 cubic feet per cord when evenly and compactly stacked. Split wood, 8 inches or less in length, may be sold by such standard loads as shall be fixed by the Council of the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1223, ch. 118, § 17</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-119.</annotation>
+        <annotation>1973 Ed., § 10-118.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(196) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.18a">18b</num>
+    <heading>Gasoline and fuel pump octane measurement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Director shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Take samples of automotive fuel wherever it is offered for sale or use in the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Inspect and test on at least an annual basis and on a random, unannounced basis the octane levels of the gasoline dispensed at each gasoline pump;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Maintain records of all inspections;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If determined to be necessary, at the Director’s discretion, enter into contractual agreements with qualified laboratories as a cost-saving measure for the purpose of analyzing automotive fuel samples if the octane level of the automotive fuel is questioned; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Issue rules for the enforcement and administration of this subchapter, which may include the adoption by reference of applicable regulations issued by the Federal Trade Commission governing the certification, disclosure, posting, and labeling of automotive fuel.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No automotive fuel may be sold or offered for sale unless approved by the Director.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Director may conduct investigations to determine compliance with this subchapter.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>If the Director determines that an automotive fuel sample does not conform with the standards set out by this subchapter or rules issued pursuant to this subchapter, the Director may take any or all of the following actions to prohibit the sale of the nonconforming automotive fuel or to prohibit the use of the nonconforming dispensing system, storage tank, or other dispensing device:</text>
+      <para>
+        <num>(1)</num>
+        <text>Seal and mark as sealed the storage tanks from which the sample was drawn or the nonconforming label attached;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Condemn and mark as condemned the dispensing system, storage tank, or other dispensing device from which the sample was obtained or on which the nonconforming label is attached; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Issue civil infractions under § <cite path="§2-1801.01">2-1801.01</cite> et seq.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>If the Director condemns the dispensing system, storage tank, or other dispensing device, the Director may immediately seize and seal, to prevent further sales, any dispensing system, storage tank, or other dispensing device from which automotive fuel is sold or offered for sale in violation of this subchapter or rules issued pursuant to this subchapter.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Director shall post, in a conspicuous place on the premises where a dispensing system, storage tank, or other dispensing device has been condemned, a notice stating that the condemnation has taken place, the grounds for the condemnation, and a warning that it shall be unlawful to break, mutilate, or destroy any notice, seal, or order issued by the Director regarding the condemnation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The notice required under this subsection shall remain posted until the Director has reinspected the condemned dispensing system, storage tank, or other dispensing device and determined it to be in compliance.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Director may assess a civil penalty of not more than:</text>
+      <para>
+        <num>(1)</num>
+        <text>$5,000 upon a retailer who sells or offers for sale automotive fuel from any dispensing system, storage tank, or other dispensing device that has not been labeled in accordance with the provisions of this subchapter or rules issue pursuant to this subchapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>$5,000 upon a retailer who allows a person, other than a person designated by the Director, to break, mutilate, or destroy any notice, seal, or order issued by the Director and placed upon a dispensing system, storage tank, or other dispensing device used to deliver or store automotive fuel: and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>$20,000 upon a retailer who sells or offers to sell automotive fuel from any dispensing system, storage tank, or other dispensing device that has been condemned by the Director.</text>
+      </para>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>In addition to civil penalties assessed pursuant to this subchapter, the Director may suspend a retailer’s business license for up to 90 days after the retailer’s third violation of this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>March 3, 1921, 41 Stat. 1223, ch. 118, § 18a [18b]</annotation>
+        <annotation doc="D.C. Law 19-168">as added Sept. 20, 2012, D.C. Law 19-168, § 2062, 59 DCR 8025</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> added this section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 18a of the Act of Mar. 3, 1921, ch. 118, § 18a, as enacted by the Act of July 7, 1932, 47 Stat. 609, ch. 442, concerning the standard liquid measure for ice cream, was codified as part of § <cite path="§37-201.19">37-201.19</cite>, and later repealed by the Act of Aug. 7, 1964, 78 Stat. 382, Pub. L. 88-405, § 2.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.19">19</num>
+    <heading>Sale of shucked oysters, fish, meat, butter, and cheese.</heading>
+    <text>Shucked oysters shall be sold only by liquid measure or numerical count, and whenever there is included in the sale by measure of shucked oysters more than 10 per centum of oyster liquid or other liquid substance, the vendor shall be deemed guilty of selling short measure. All fish, meat, poultry, meat products, lard, lard substitutes, butter, butter substitutes, and cheese shall be sold by avoirdupois weight.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1223, ch. 118, § 19</annotation>
+        <annotation>Apr. 27, 1945, 59 Stat. 99, ch. 99, § 6</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-121.</annotation>
+        <annotation>1973 Ed., § 10-120.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.20">20</num>
+    <heading>Automatic measuring pumps.</heading>
+    <text>Every user of an automatic measuring pump or similar device, shall, when the supply of the commodity which he is measuring for sale with such pump or similar device, is insufficient to deliver correct measure of such commodity by the usual or customary method of operating such pump or device or when, for any cause whatever, such pump or device does not, by the usual or customary method of operating same, deliver correct measure, place a sign with the words, “Out of use” in a conspicuous place on such pump or device where it may readily be seen, and shall forthwith cease to use the same until his supply of such commodity is replenished or until such pump or device is repaired, adjusted, or otherwise put in condition to deliver correct measure. All automatic measuring pumps or other similar measuring devices in use shall be subject to inspection, and approval or condemnation, whether used for measuring or not.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1223, ch. 118, § 20</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-123.</annotation>
+        <annotation>1973 Ed., § 10-122.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.21">21</num>
+    <heading>Sale of pro rata quantity.</heading>
+    <text>Whenever any commodity is offered for sale at a stated price for a stated quantity, a smaller quantity shall be sold at a pro rata price unless the purchaser is informed to the contrary at the time of sale.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1224, ch. 118, § 21</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-124.</annotation>
+        <annotation>1973 Ed., § 10-123.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.22">22</num>
+    <heading>Inspection of commodities by Director.</heading>
+    <text>The Director, or under his direction, his assistants and inspectors, shall from time to time weigh or measure and inspect packages or amounts of commodities of whatever kind kept for sale, offered or exposed for sale, sold, or in the process of delivery, in order to determine whether or not the same are kept for sale, offered for sale, or sold in accordance with the provisions of this subchapter, and no person shall refuse to permit such weighing, measuring, or inspection whenever demanded by the Director or any of his assistants or inspectors.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1224, ch. 118, § 22</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-125.</annotation>
+        <annotation>1973 Ed., § 10-124.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § <cite path="§37-201.01">37-201.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.22a">22 1/2</num>
+    <heading>Sale of food by false advertising.</heading>
+    <text>The Director of Weights, Measures, and Markets is further authorized to make purchases of food in connection with the investigation and detection of sales of food by misrepresentation or false advertising in violation of §§ <cite path="§22-1511">22-1511</cite> to 22-1513; and there are authorized to be appropriated annually such sums as may be necessary for carrying out the purposes of this section.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 67-1-ch118" path="§22 1/2">Mar. 3, 1921, 41 Stat. 1223, ch. 118, § 22 1/2</annotation>
+        <annotation>Apr. 27, 1945, 59 Stat. 99, ch. 99, § 5</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-126.</annotation>
+        <annotation>1973 Ed., § 10-124a.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § <cite path="§37-201.01">37-201.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.23">23</num>
+    <heading>Sale of measuring devices by Director prohibited.</heading>
+    <text>It shall be unlawful for the Director or any employee of his office to vend any weights, measures, weighing or measuring device, or to offer or expose the same for sale, or to be interested, directly or indirectly, in the sale of same.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1224, ch. 118, § 23</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-127.</annotation>
+        <annotation>1973 Ed., § 10-125.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § <cite path="§37-201.01">37-201.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.24">24</num>
+    <heading>Police power conferred upon Director; inspections without warrants.</heading>
+    <text>There is hereby conferred upon the Director, his assistants and inspectors, police power, and in the exercise of their duties they shall, upon demand, exhibit their badges to any person questioning their authority; and they are authorized and empowered to make arrests of any person violating any of the provisions of this subchapter. The Director, his assistants, and inspectors may, for the purpose of carrying out and enforcing the provisions of this subchapter and in the performance of their official duties, with or without formal warrant, enter or go into or upon any stand, place, building, or premises, except a private residence, and may stop any vendor, peddler, dealer, vehicle, or person in charge thereof for the purpose of making inspections or tests.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1224, ch. 118, § 24</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Warrants and arrests, see § <cite path="§23-501">23-501</cite> et seq.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-128.</annotation>
+        <annotation>1973 Ed., § 10-126.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § <cite path="§37-201.01">37-201.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.25">25</num>
+    <heading>Council may establish tolerances and specifications.</heading>
+    <text>The Council of the District of Columbia is hereby authorized and empowered to establish tolerances and specifications for scales, weights, measures, weighing or measuring instruments or devices, and containers used in the District of Columbia. The Council shall prescribe and allow for barrels, containers, and packages, provided for in this subchapter the same specifications, variations, or tolerances that have been prescribed or established, or that may hereafter be prescribed or established for like barrels, containers, or packages by any officer of the United States in accordance with any requirement of an act of Congress.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1224, ch. 118, § 25</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-129.</annotation>
+        <annotation>1973 Ed., § 10-127.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(197) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Home Rule Act, 87 Stat. 818, § 711 ( D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="37-201.26">26</num>
+    <heading>Weighmasters; public scales; fees.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1224, ch. 118, § 26</annotation>
+        <annotation doc="D.C. Law 12-261">Apr. 20, 1999, D.C. Law 12-261, § 2003(o), 46 DCR 3142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-130.</annotation>
+        <annotation>1973 Ed., § 10-128.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(198) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Home Rule Act, 87 Stat. 818, § 711 ( D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.27">27</num>
+    <heading>Powers and duties of Director conferred on assistants and inspectors.</heading>
+    <text>The powers and duties granted to and imposed on the Director by this subchapter, are also hereby granted to and imposed on his assistants and inspectors when acting under his instructions.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1224, ch. 118, § 27</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-131.</annotation>
+        <annotation>1973 Ed., § 10-129.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § <cite path="§37-201.01">37-201.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.28">28</num>
+    <heading>Supervision of markets; investigations and reports.</heading>
+    <text>The Mayor of the District of Columbia is authorized and empowered to make such regulations as may be necessary for the control, regulation, and supervision of all markets owned by the District of Columbia and the Director, under the direction of the Mayor, shall have supervision of all produce and other markets owned by the District of Columbia, shall enforce such regulations regarding the operation of the same as the Mayor may make, shall make such investigations regarding the sale, distribution, or prices of commodities in the District of Columbia as the Mayor may direct, and shall make reports and recommendations in connection therewith.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1224, ch. 118, § 28</annotation>
+        <annotation>Apr. 27, 1945, 59 Stat. 99, ch. 99, § 7</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+        <annotation doc="D.C. Law 14-116">May 2, 2002, D.C. Law 14-116, § 4, 49 DCR 1945</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Rules and regulations, see § <cite path="§1-319">1-319</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-132.</annotation>
+        <annotation>1973 Ed., § 10-130.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-116">D.C. Law 14-116</cite> substituted “Mayor” for “Council”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>Section 4 of <cite doc="D.C. Law 14-55">D.C. Law 14-55</cite> amended the section by substituting “Mayor” for “Council” wherever it appears.</annotation>
+        <annotation>Section 10(b) of <cite doc="D.C. Law 14-55">D.C. Law 14-55</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 4 of Food Regulation Emergency Amendment Act of 2001 (D.C. Act 14-128, August 3, 2001,  48 DCR 7939).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 4 of Food Regulation Legislative Review Emergency Amendment Act of 2001 (D.C. Act 14-147, October 23, 2001,  48 DCR 10183).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § <cite path="§37-201.01">37-201.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(199) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Home Rule Act, 87 Stat. 818, § 711 ( D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.29">29</num>
+    <heading>“Mayor” and “Director” defined.</heading>
+    <text>Wherever the word “Mayor” is used in this subchapter, it shall be construed to mean the Mayor of the District of Columbia. Whenever the word “Director” is used in this subchapter, it shall be construed to mean the Director of Weights, Measures, and Markets.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1225, ch. 118, § 29</annotation>
+        <annotation>Apr. 11, 1946, 60 Stat. 88, ch. 134, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-133.</annotation>
+        <annotation>1973 Ed., § 10-131.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Department of Weights, Measures and Markets abolished: See Historical and Statutory Notes following § <cite path="§37-201.01">37-201.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Home Rule Act, 87 Stat. 818, § 711 ( D.C. Code, § 1-207.11), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § 1-207.14(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.30">30</num>
+    <heading>“Person” defined; meaning of singular words.</heading>
+    <text>The word “person,” as used in this subchapter, shall be construed to include copartnerships, companies, corporations, societies, and associations. Whenever any word in this subchapter, is used in the singular, it shall be construed to mean either singular or plural, and wherever any word in this subchapter is used in the plural, it shall be construed to mean either plural or singular, as the circumstances demand.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1225, ch. 118, § 30</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-134.</annotation>
+        <annotation>1973 Ed., § 10-132.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.31">31</num>
+    <heading>Severability.</heading>
+    <text>Each section of this subchapter, and every provision of each section, is hereby declared to be an independent section or provision, and the holding of any section or provision of any section to be void, ineffective, or unconstitutional for any cause whatever shall not be deemed to affect any other section or provision thereof.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1225, ch. 118, § 31</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-135.</annotation>
+        <annotation>1973 Ed., § 10-133.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.32">32</num>
+    <heading>Penalties; conduct of prosecutions.</heading>
+    <text>Any person violating any of the provisions of this subchapter shall be punished by a fine not to exceed $500, or by both such fine and imprisonment not to exceed 6 months. All prosecutions under this subchapter shall be instituted by the Corporation Counsel or one of his assistants in the Superior Court of the District of Columbia. Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this subchapter, or any rules or regulations issued under the authority of this subchapter, pursuant to Chapter 18 of Title 2. Adjudication of any infraction of this subchapter shall be pursuant to Chapter 18 of Title 2.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1225, ch. 118, § 32</annotation>
+        <annotation>Apr. 1, 1942, 56 Stat. 190, ch. 207, § 1</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+        <annotation doc="D.C. Law 6-42">Oct. 5, 1985, D.C. Law 6-42, § 463, 32 DCR 4450</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 10-136.</annotation>
+        <annotation>1973 Ed., § 10-134.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|37|2|I"/>
+    <num codify:value="37-201.33">32a</num>
+    <heading>Registration and inspection fees for weighing and measuring devices.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall collect fees relating to the registration and inspection of weighing and measuring devices in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The following fees are established for the annual registration and inspection of weighing and measuring devices in the District of Columbia:</text>
+      <para>
+        <num>(1)</num>
+        <text>Scales with a capacity of up to 100 pound, $75 (maximum fee per location, $900);</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Scales with a capacity of more than 100 pounds, up to 2,000 pounds, $200;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Scales with a capacity of more than 2,000 pounds, up to 20,000 pounds, $500;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Vehicle scales, $1,500;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Retail engine fuel dispenser meter, $60;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Bulk petroleum fuel meter, $250;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Liquefied petroleum gas meter of 3/4 inch diameter or less, $250;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Liquefied petroleum gas meter of greater than 3/4 inch diameter, $375;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Wire/Cordage or fabric measuring device, $50;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Compressed natural gas (per meter), $250;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Hopper scales, $250;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Prescription balance electronic/mechanical, $75;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Jeweler’s balance, $75;</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Yard sticks and tapes measures, $25;</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>UPC scanning (per unit), $25.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor, by rule, may amend the amount fees set forth in subsection (b) of this section and establish new fees as may be necessary for the registration and inspection of weighing and measuring devices. Fees collected pursuant to this section shall be deposited in the General Fund of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor may condemn and take out of service any weighing and measuring device not properly registered pursuant to this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1921, 41 Stat. 1220, ch. 118, § 32a</annotation>
+        <annotation doc="D.C. Law 15-205">as added Dec. 7, 2004, D.C. Law 15-205, § 2052, 51 DCR 8441</annotation>
+        <annotation doc="D.C. Law 17-20">Sept. 18, 2007, D.C. Law 17-20, § 2012, 54 DCR 7052</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 194, 56 DCR 1117</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> added subsec. (d).</annotation>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in subsec. (b)(1).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition of section, see § 2052 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) addition of section, see § 2052 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2012 of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007,  54 DCR 7549).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <text>Short title of subtitle E of title II of Law 15-205: Section 2051 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle E of title II of the act may be cited as the Registration and Inspection of Weighing and Measuring Devices Amendment Act of 2004.</text>
+        <text>Short title: Section 2011 of <cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> provided that subtitle B of title II of the act may be cited as the “Weights and Measures Device Amendment Act of 2007”.</text>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

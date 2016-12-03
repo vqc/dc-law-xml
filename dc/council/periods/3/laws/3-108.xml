@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 3-108" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 3-108" flag="true">
   <num type="law">3-108</num>
   <meta>
     <effective>1980-09-26</effective>
@@ -11,4 +11,40 @@
       <narrative>Law 3-108 was introduced in Council and assigned Bill No. 3-191, which was referred to the Committee on Transportation and Environmental Affairs. The Bill was adopted on first and second readings on July 15, 1980 and July 29, 1980, respectively. Signed by the Mayor on July 31, 1980, it was assigned Act No. 3-233 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|50|26|III"/>
+    <num codify:value="50-2634">2</num>
+    <heading>Parking adjacent to neighborhood commercial centers.</heading>
+    <text>The Council of the District of Columbia finds that:</text>
+    <para>
+      <num>(1)</num>
+      <text>A number of traditional neighborhood commercial centers have suffered and declined;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Many of these declining neighborhood commercial centers have traditionally encouraged and promoted minority entrepreneurship and employment opportunities;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>One of the District’s goals is the revitalization of neighborhood commercial areas for the purposes of creating new jobs, increasing incomes, and increasing the availability of goods and services at the neighborhood level particularly in low- and moderate-income neighborhoods;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>One of the major problems hindering the revitalization of neighborhood commercial centers is the lack of adequate short-term parking facilities for shoppers; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>If the District is to achieve its goal of revitalization of these commercial areas and maximize their growth potential, low-cost short-term parking must be provided in or adjacent to such centers.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-108">Sept. 26, 1980, D.C. Law 3-108, § 2, 27 DCR 3781</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 40-803.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

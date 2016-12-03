@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 91-587">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 91-587">
   <num>91-587</num>
   <meta>
     <effective>1970-12-24</effective>
@@ -7,4 +7,80 @@
       <law session="91" lawId="587"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2331">1</num>
+    <heading>Operation authorized.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 91-587">Dec. 24, 1970, 84 Stat. 1579, Pub. L. 91-587, § 1</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1831.</annotation>
+        <annotation>1973 Ed., § 31-1071.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2332">2</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 91-587">Dec. 24, 1970, 84 Stat. 1579, Pub. L. 91-587, § 2</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1832.</annotation>
+        <annotation>1973 Ed., § 31-1072.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2333">3</num>
+    <heading>Authorization of appropriations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 91-587">Dec. 24, 1970, 84 Stat. 1579, Pub. L. 91-587, § 3</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1833.</annotation>
+        <annotation>1973 Ed., § 31-1073.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2334">4</num>
+    <heading>Design and construction of facilities.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 91-587">Dec. 24, 1970, 84 Stat. 1579, Pub. L. 91-587, § 4</annotation>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 1790, Pub. L. 99-371, § 410</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1834.</annotation>
+        <annotation>1973 Ed., § 31-1074.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

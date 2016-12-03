@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 11-135">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 11-135">
   <num type="law">11-135</num>
   <heading type="short">Public Charter Schools Act of 1996</heading>
   <meta>
@@ -12,4 +12,57 @@
       <narrative>Law 11-135, the “Public Charter Schools Act of 1996,” was introduced in Council and assigned Bill No. 11-318, which was referred to the Committee on Education and Libraries. The Bill was adopted on first and second readings on February 6, 1996, and March 5, 1996, respectively. Signed by the Mayor on March 26, 1996, it was assigned Act No. 11-243 and transmitted to both Houses of Congress for its review. D. C. Law 11-135 became effective on May 29, 1996.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|17|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1701.01">101</num>
+    <heading>Definitions</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-135">May 29, 1996, D.C. Law 11-135, § 101, 43 DCR 1699</annotation>
+        <annotation doc="D.C. Law 16-268">Mar. 14, 2007, D.C. Law 16-268, § 3(a), 54 DCR 833</annotation>
+        <annotation doc="D.C. Law 17-9">June 12, 2007, D.C. Law 17-9, § 803, 54 DCR 4102</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2801.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|17|I"/>
+    <num codify:value="38-1701.02">102</num>
+    <heading>Findings.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-135">May 29, 1996, D.C. Law 11-135, § 102, 43 DCR 1699</annotation>
+        <annotation doc="D.C. Law 17-9">June 12, 2007, D.C. Law 17-9, § 803, 54 DCR 4102</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2802.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|17|I"/>
+    <num codify:value="38-1701.03">103</num>
+    <heading>Purposes.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-135">May 29, 1996, D.C. Law 11-135, § 103, 43 DCR 1699</annotation>
+        <annotation doc="D.C. Law 17-9">June 12, 2007, D.C. Law 17-9, § 803, 54 DCR 4102</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2803.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 15-350">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 15-350">
   <num type="law">15-350</num>
   <heading type="short">School Safety and Security Contracting Procedures Act of 2004</heading>
   <meta>
@@ -12,4 +12,352 @@
       <narrative>Law 15-350, the “School Safety and Security Contracting Procedures Act of 2004”, was introduced in Council and assigned Bill No. 15-725 which was referred to the Committee on Judiciary and the Committee on Education, Libraries and Recreation. The Bill was adopted on first and second readings on July 13, 2004, and December 21, 2004, respectively. Signed by the Mayor on January 19, 2005, it was assigned Act No. 15-745 and transmitted to both Houses of Congress for its review. D.C. Law 15-350 became effective on April 13, 2005.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|1|XVI-A"/>
+    <num codify:value="5-132.01">101</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Chancellor” means the Chancellor of the District of Columbia Public Schools.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>“DCPS” means the District of Columbia Public Schools.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“MPD” means the Metropolitan Police Department.</text>
+    </para>
+    <para>
+      <num>(2A)</num>
+      <text>“Public charter schools” shall have the same meaning as provided in § <cite path="§38-1800.02">38-1800.02</cite>(29).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“School resource officer” means a sworn MPD officer assigned to DCPS or public charter schools for the purpose of working in collaboration with DCPS, public charter schools, and community-based organizations to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Prevent crime through community-oriented policing strategies;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Address crime and disorder, gang, and drug activity problems affecting or occurring in or around the schools to which the school resource officer is assigned; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Ensure that DCPS schools and grounds and public charter schools and their grounds are safe environments for students, teachers, and staff.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“School security guards” means un-armed personnel, trained and hired by the MPD School Safety Division.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“School security personnel” means school resource officers and school security guards.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Superintendent” means the Superintendent of the District of Columbia Public Schools.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-350">Apr. 13, 2005, D.C. Law 15-350, § 101, 52 DCR 2005</annotation>
+        <annotation doc="D.C. Law 17-320">Mar. 21, 2009, D.C. Law 17-320, § 2(a), 56 DCR 219</annotation>
+        <annotation doc="D.C. Law 18-232">Oct. 2, 2010, D.C. Law 18-232, § 201(a), 57 DCR 4504</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-320">D.C. Law 17-320</cite> redesignated former par. (1) as par. (1A); and added par. (1).</annotation>
+        <annotation><cite doc="D.C. Law 18-232">D.C. Law 18-232</cite> added par. (2A); in the lead-in language of par. (3), inserted “or public charter schools” and “, public charter schools,”; and, in par. (3)(C), substituted “DCPS schools and grounds and public charter schools and their grounds” for “DCPS schools and grounds”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 2 of School Safety and Security Contracting Procedures Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-318">D.C. Law 15-318</cite>, April 8, 2005, law notification  52 DCR 4707).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2 of Metropolitan Police Department School Safety and Security Emergency Act of 2004 (D.C. Act 15-496, August 2, 2004,  51 DCR 8797).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2 of School Safety and Security Contracting Procedures Emergency Act of 2004 (D.C. Act 15-596, November 30, 2004,  51 DCR 11219).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2 of School Safety and Security Contracting Procedures Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-3, January 19, 2005,  52 DCR 2675).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|1|XVI-A"/>
+    <num codify:value="5-132.02">102</num>
+    <heading>Establishment of the Metropolitan Police Department School Safety Division; functions of the School Safety Division.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established within the Metropolitan Police Department a School Safety Division that shall provide security for the District of Columbia Public Schools.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The School Safety Division shall be headed by a Director, appointed by, and reporting to, the Chief of Police with rank equal to a Commander or above.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The School Safety Division shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Hire all school security personnel for DCPS;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>Deploy school security personnel to DCPS; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Deploy school resource officers to public charter schools;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide oversight over school security personnel and be responsible for administering all disciplinary actions related to school security personnel, including termination;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Execute, approve, monitor, and provide oversight over any contract for school security personnel;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Create and implement security and emergency operations plans for DCPS in concert with the Chancellor; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Provide recommendations to the Mayor, the Council, and the Chancellor regarding the impact of school closings, consolidations, grade reconfigurations, use of swing space during school reconstruction, and gang activity on the safety and well-being of children.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The School Safety Division shall develop a plan to be implemented before the beginning of each DCPS school year for protecting children walking to and from DCPS and public charter schools and for protecting children from gang and crew violence on, in, and around DCPS and public charter schools’ property. Beginning in 2009, this plan shall be provided to the Mayor, the Council, and the Chancellor, by August 15th of each year.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The plan shall include a description of:</text>
+        <para>
+          <num>(A)</num>
+          <text>Safety issues children may face during passage to and from school, and recommended solutions to these issues; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A description of specific gang and crew conflicts and recommended solutions for the protection of children from gang and crew violence on, in, and around DCPS and public charter schools property.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The plan shall incorporate the recommendations of the District Department of Transportation on the deployment of school crossing guards required under § <cite path="§38-3101">38-3101</cite>(f-1).</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-350">Apr. 13, 2005, D.C. Law 15-350, § 102, 52 DCR 2005</annotation>
+        <annotation doc="D.C. Law 17-320">Mar. 21, 2009, D.C. Law 17-320, § 2(b), 56 DCR 219</annotation>
+        <annotation doc="D.C. Law 18-232">Oct. 2, 2010, D.C. Law 18-232, § 201(b), 57 DCR 4504</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§5-132.06">5-132.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-320">D.C. Law 17-320</cite>, in subsec. (b), substituted “a Commander or above” for “an Assistant Chief”; in subsec. (c)(4), deleted “and” from the end; in subsec. (c)(5), substituted “Chancellor; and” for “Superintendent.”; and added subsecs. (c)(6) and (d).</annotation>
+        <annotation><cite doc="D.C. Law 18-232">D.C. Law 18-232</cite> rewrote subsec. (c)(2); in subsec. (d)(1), rewrote the first sentence which had read: “The School Safety Division shall develop a plan to be implemented before the beginning of each DCPS school year for protecting children walking to and from school and for protecting children from gang and crew violence on, in, and around DCPS property.”; and, in subsec. (d)(2)(B), substituted “DCPS and public charter schools property” for “DCPS property”. Prior to amendment, subsec. (c)(2) read as follows: “(2) Deploy school security personnel to DCPS;”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 3 of School Safety and Security Contracting Procedures Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-318">D.C. Law 15-318</cite>, April 8, 2005, law notification  52 DCR 4707).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 3 of Metropolitan Police Department School Safety and Security Emergency Act of 2004 (D.C. Act 15-496, August 2, 2004,  51 DCR 8797).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3 of School Safety and Security Contracting Procedures Emergency Act of 2004 (D.C. Act 15-596, November 30, 2004,  51 DCR 11219).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3 of School Safety and Security Contracting Procedures Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-3, January 19, 2005,  52 DCR 2675).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|1|XVI-A"/>
+    <num codify:value="5-132.03">103</num>
+    <heading>Training for school security personnel.</heading>
+    <text>The School Safety Division shall develop a training curriculum for all school security personnel providing security for DCPS. The curriculum shall be focused on training supervisory and on-site personnel so that they will provide appropriate security procedures for the various socioeconomic conditions at each educational facility. The curriculum shall include training in the following areas:</text>
+    <para>
+      <num>(1)</num>
+      <text>Child development;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Effective communication skills;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Behavior management;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Conflict resolution;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Substance abuse and its effect on youth;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Availability of social services for youth;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>District of Columbia laws and regulations, including Board of Education regulations;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Constitutional standards for searches and seizures conducted by school security personnel on school grounds; and</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>Gang and crew violence prevention.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-350">Apr. 13, 2005, D.C. Law 15-350, § 103, 52 DCR 2005</annotation>
+        <annotation doc="D.C. Law 17-320">Mar. 21, 2009, D.C. Law 17-320, § 2(c), 56 DCR 219</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§5-132.06">5-132.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-320">D.C. Law 17-320</cite>, in par. (7), deleted “and” from the end; in par. (8), substituted “ground; and” for “ground.”; and added par. (9).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 4 of School Safety and Security Contracting Procedures Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-318">D.C. Law 15-318</cite>, April 8, 2005, law notification  52 DCR 4707).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4 of Metropolitan Police Department School Safety and Security Emergency Act of 2004 (D.C. Act 15-496, August 2, 2004,  51 DCR 8797).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4 of School Safety and Security Contracting Procedures Emergency Act of 2004 (D.C. Act 15-596, November 30, 2004,  51 DCR 11219).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4 of School Safety and Security Contracting Procedures Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-3, January 19, 2005,  52 DCR 2675).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|1|XVI-A"/>
+    <num codify:value="5-132.04">104</num>
+    <heading>Comprehensive plan on school security; Memorandum of Agreement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>By March 1, 2005, the Mayor shall recommend to the Council whether the school security guards shall be employees of the MPD, employees of DCPS, or contracted for by the MPD for Fiscal Year 2006 and beyond.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>By June 1, 2005, the Mayor, in coordination with the Superintendent, DCPS administrators, parents, students and teachers, shall develop a comprehensive plan to implement this subchapter and submit the plan to the Board of Education and the Council. The plan shall include the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The qualifications and hiring process for school security personnel;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The transfer of personnel, property, funds, and records including an ongoing procedure for allocating DCPS capital funds to MPD for security needs; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Lines of authority, supervision, and communication between the MPD and DCPS, including a process for resolving disagreements between DCPS and MPD at all levels, accepted by both the Mayor and the Superintendent.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The plan required by subsection (b) of this section shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed plan, in whole or in part, by resolution within this 45-day period, the proposed plan shall be deemed approved.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>MPD and DCPS shall enter into a Memorandum of Agreement that shall specify security terms and responsibilities as outlined in the recommendation and plan submitted by the Mayor pursuant to subsections (a) and (b) of this section.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Both the comprehensive implementation plan and the Memorandum of Agreement required by this section shall describe in detail, but not be limited to, the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>How school security personnel deployed at each school will provide security in coordination with the school’s principal; provided, that during emergencies, incident command shall be consistent with the District of Columbia response plan as defined by § <cite path="§7-2301">7-2301</cite>(1A); and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>How the operating and capital funds, positions, personnel, property, records, and unexpended balances of appropriations, allocations, and other funds available or to be made available to DCPS that support the provision of security to DCPS will be utilized to carry out the provisions of this subchapter.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-350">Apr. 13, 2005, D.C. Law 15-350, § 104, 52 DCR 2005</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§5-132.06">5-132.06</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 5 of School Safety and Security Contracting Procedures Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-318">D.C. Law 15-318</cite>, April 8, 2005, law notification  52 DCR 4707).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 5 of Metropolitan Police Department School Safety and Security Emergency Act of 2004 (D.C. Act 15-496, August 2, 2004,  51 DCR 8797).</annotation>
+        <annotation>For temporary (90 day) addition, see § 5 of School Safety and Security Contracting Procedures Emergency Act of 2004 (D.C. Act 15-596, November 30, 2004,  51 DCR 11219).</annotation>
+        <annotation>For temporary (90 day) addition, see § 5 of School Safety and Security Contracting Procedures Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-3, January 19, 2005,  52 DCR 2675).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|1|XVI-A"/>
+    <num codify:value="5-132.05">105</num>
+    <heading>Authority to issue RFP’s for school security related contracts.</heading>
+    <text>Responsibility for the issuance of a Request for Proposals for any security guard or security related contract for DCPS for a contract term to begin June 30, 2005, or later shall transfer to the MPD as of August 2, 2004. The responsibility for awarding, executing, and funding a contract resulting from an RFP issued under this section shall be the subject of a Memorandum of Agreement between DCPS and MPD.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-350">Apr. 13, 2005, D.C. Law 15-350, § 105, 52 DCR 2005</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 6 of School Safety and Security Contracting Procedures Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-318">D.C. Law 15-318</cite>, April 8, 2005, law notification  52 DCR 4707).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 6 of Metropolitan Police Department School Safety and Security Emergency Act of 2004 (D.C. Act 15-496, August 2, 2004,  51 DCR 8797).</annotation>
+        <annotation>For temporary (90 day) addition, see § 6 of School Safety and Security Contracting Procedures Emergency Act of 2004 (D.C. Act 15-596, November 30, 2004,  51 DCR 11219).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2(a) of School Security Authority Extension Emergency Amendment Act of 2004 (D.C. Act 15-728, January 13, 2005,  52 DCR 1954).</annotation>
+        <annotation>For temporary (90 day) addition, see § 6 of School Safety and Security Contracting Procedures Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-3, January 19, 2005,  52 DCR 2675).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|5|1|XVI-A"/>
+    <num codify:value="5-132.06">106</num>
+    <heading>Applicability of §§ 5-132.02 and 5-132.03.</heading>
+    <text>Sections 5-132.02   and 5-132.03   shall apply as of the first day of October 1, 2005, or upon the submission by the Mayor to the Council of a supplemental budget to effect the transfer of funds from DCPS to the MPD, whichever occurs first, and Council approval pursuant to § <cite path="§5-132.04">5-132.04</cite>(c).</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-350">Apr. 13, 2005, D.C. Law 15-350, § 106, 52 DCR 2005</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 7 of School Safety and Security Contracting Procedures Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-318">D.C. Law 15-318</cite>, April 8, 2005, law notification  52 DCR 4707).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 7 of Metropolitan Police Department School Safety and Security Emergency Act of 2004 (D.C. Act 15-496, August 2, 2004,  51 DCR 8797).</annotation>
+        <annotation>For temporary (90 day) addition, see § 7 of School Safety and Security Contracting Procedures Emergency Act of 2004 (D.C. Act 15-596, November 30, 2004,  51 DCR 11219).</annotation>
+        <annotation>For temporary (90 day) addition, see § 7 of School Safety and Security Contracting Procedures Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-3, January 19, 2005,  52 DCR 2675).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 20-168">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 20-168">
   <num type="law">20-168</num>
   <heading type="short">Protecting Pregnant Workers Fairness Act of 2014</heading>
   <meta>
@@ -12,4 +12,453 @@
       <narrative>Law 20-168, the “Protecting Pregnant Workers Fairness Act of 2014,” was introduced in Council and assigned Bill No. 20-769. The Bill was adopted on first and second readings on July 14, 2014, and Sept. 23, 2014, respectively. Signed by the Mayor on Oct. 23, 2014, it was assigned Act No. 20-458 and transmitted to Congress for its review. D.C. Law 20-168 became effective on Mar. 3, 2015.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.01">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“DOES” means the Department of Employment Services.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Reasonable accommodation” means an accommodation that does not cause undue hardship in the operation of the employer's business that an employer can make for an employee whose ability to perform the functions of the employee's job are affected by pregnancy, childbirth, a related medical condition, or breastfeeding, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>More frequent or longer breaks;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Time off to recover from childbirth;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The acquisition or modification of equipment or seating;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The temporary transfer to a less strenuous or hazardous position or other job restructuring such as providing light duty or a modified work schedule;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Having the employee refrain from heavy lifting;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Relocating the employee's work area; or</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Providing private non-bathroom space for expressing breast milk.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Undue hardship” means any action that requires significant difficulty in the operation of the employer's business or significant expense on the behalf of the employer when considered in relation to factors such as the size of the business, its financial resources, and the nature and structure of its operation.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 2, 61 DCR 11368</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annoGroup>
+          <annotation>For temporary (225 days) amendment of section, see § 2(a) of the Protecting Pregnant Workers Fairness Temporary Amendment Act of 2016 <cite doc="D.C. Law 21-103"> D.C. Law 21-103</cite>, April 20, 2016, 63 DCR 3654, 20 DCSTAT 3147).</annotation>
+        </annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 2(a) of the Protecting Pregnant Workers Fairness Emergency Amendment Act of 2016 (D.C. Act 21-314, Feb. 18, 2016,  63 DCR 2199).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.02">3</num>
+    <heading>Provision of reasonable accommodation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An employer shall engage in good faith in a timely and interactive process with an employee requesting or otherwise needing a reasonable accommodation to determine a reasonable accommodation for that employee.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>An employer may require an employee to provide a certification from the employee's health care provider concerning the medical advisability of a reasonable accommodation to the same extent a certification is required for other temporary disabilities.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A certification shall include:</text>
+        <para>
+          <num>(A)</num>
+          <text>The date the reasonable accommodation became or will become medically advisable;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>An explanatory statement as to the medical condition and the advisability of providing the reasonable accommodation in light of the condition; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The probable duration that the reasonable accommodation will need to be provided.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In any proceeding brought under this chapter, the employer shall have the burden of establishing that it would be an undue hardship to provide a reasonable accommodation.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 3, 61 DCR 11368</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.03">4</num>
+    <heading>Prohibitions.</heading>
+    <text>An employer shall not:</text>
+    <para>
+      <num>(1)</num>
+      <text>Refuse to make reasonable accommodations to the known limitations related to pregnancy, childbirth, related medical conditions, or breastfeeding for an employee, unless the employer can demonstrate that the accommodation would impose an undue hardship;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Take an adverse action against an employee who requests or uses a reasonable accommodation in regard to the employee's conditions or privileges of employment, including failing to reinstate the employee when the need for reasonable accommodations ceases to the employee's original job or to an equivalent position with equivalent:</text>
+      <para>
+        <num>(A)</num>
+        <text>Pay;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Accumulated seniority and retirement:</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Benefits; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Other applicable service credits;</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Deny employment opportunities to an employee, or a job applicant, if the denial is based on the need of the employer to make reasonable accommodations to the known limitations related to pregnancy, childbirth, related medical conditions, or breastfeeding;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Require an employee affected by pregnancy, childbirth, related medical conditions, or breastfeeding to accept an accommodation that the employee chooses not to accept if the employee does not have a known limitation related to pregnancy, childbirth, related medical conditions, or breastfeeding or the accommodation is not necessary for the employee to perform her duties; or</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Require an employee to take leave if a reasonable accommodation can be provided.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 4, 61 DCR 11368</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 days) amendment of section, see § 2(b) of the Protecting Pregnant Workers Fairness Temporary Amendment Act of 2016 <cite doc="D.C. Law 21-103"> D.C. Law 21-103</cite>, April 20, 2016, 63 DCR 3654, 20 DCSTAT 3147).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 2(b) of the Protecting Pregnant Workers Fairness Emergency Amendment Act of 2016 (D.C. Act 21-314, Feb. 18, 2016,  63 DCR 2199).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.04">5</num>
+    <heading>Notice of rights to employees.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An employer shall post and maintain in a conspicuous place a notice of rights in both English and Spanish and provide written notice of an employee's right to a needed reasonable accommodation related to pregnancy, childbirth, related medical conditions, or breastfeeding pursuant to this chapter to:</text>
+      <para>
+        <num>(1)</num>
+        <text>New employees at the commencement of employment;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Existing employees within 120 days after March 3, 2015; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An employee who notifies the employer of her pregnancy, or other condition covered by this chapter, within 10 days of the notification.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The employer shall provide an accurate written translation of the notice of rights to any non-English or non-Spanish speaking employee and as required by § <cite path="§2-1933">2-1933</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 5, 61 DCR 11368</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.05">6</num>
+    <heading>Department of Employment Services; education efforts.</heading>
+    <text>The DOES shall develop courses of instruction and conduct ongoing public education efforts as necessary to inform employers, employees, employment agencies, and job applicants about their rights and responsibilities under this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 6, 61 DCR 11368</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.06">7</num>
+    <heading>Employee right of action.</heading>
+    <text>An employee or employees injured by a violation of this chapter shall be entitled to maintain an administrative action or a civil action.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 7, 61 DCR 11368</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.07">8</num>
+    <heading>Administrative enforcement by DOES.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An employee who claims that an employer has violated the employee's right under this chapter and seeks redress shall file a complaint with DOES.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The DOES, which shall administer this chapter, shall establish administrative procedures for an aggrieved person to file a complaint against the employer alleged to have violated this chapter, which shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>An investigation of the complaint and an attempt to resolve the complaint by conference or mediation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the complaint is not resolved, a determination on the existence of probable cause to believe a violation of this chapter has occurred;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If it is determined probable cause exists, the issuance and service of a written notice and a copy of the complaint to the employer alleged to have violated this chapter that requires the employer to answer the charges of the complaint at a hearing before DOES, the procedures of which shall be established by rule; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The right of the employee to have an attorney authorized to practice law in the District of Columbia and retained by the employee present at the hearing.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If DOES determines, after its hearing, that the employer has violated any provision of this chapter, DOES shall order the employer to provide affirmative remedies including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Back pay for lost wages resulting from the employer's violation of this chapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Reinstatement or other injunctive relief; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Reasonable attorney's fees and costs of enforcement.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>To compensate the District for the costs of investigating and remedying a violation, DOES may also order the employer to pay to the District a penalty of not more than $ 500 for each day or portion thereof that the violation continues for each employee against whom the violation occurred or continues.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The funds recovered by the District under this subsection shall be deposited in the Pregnant Workers Protection Fund established by § <cite path="§32-1231.12">32-1231.12</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <para>
+        <num>(1)</num>
+        <text>Subject to paragraph (2) of this subsection, if an employer is determined to not be in compliance with this chapter, DOES shall take any appropriate enforcement action to secure compliance, including initiating a civil action following review by the Office of Administrative Hearings, and, except where prohibited by another law, revoking or suspending any registration certificates, permits, or licenses held or requested by the employer until the violation is remedied.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Before DOES may take action regarding a suspension or revocation of a registration certificate, permit, or license, the employer shall have the opportunity to request a hearing pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.].</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 8, 61 DCR 11368</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.08">9</num>
+    <heading>Hearing by Office of Administrative Hearings.</heading>
+    <para>
+      <num>(a)</num>
+      <text>In accordance with § <cite path="§2-1831.03">2-1831.03</cite>(b)(1), a party contesting the determination made by DOES shall be entitled to a hearing before the Office of Administrative Hearings.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Upon the exhaustion of administrative remedies, an employee aggrieved by the order of the Office of Administrative Hearings may bring an action in court.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 9, 61 DCR 11368</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.09">10</num>
+    <heading>Enforcement by civil action.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A civil action may be maintained against any employer in a court of competent jurisdiction by one or more employees.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An employer who violates the provisions of this chapter shall be liable to the affected employee or employees for the remedies set forth in § <cite path="§32-1231.07">32-1231.07</cite>(c).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 10, 61 DCR 11368</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.10">11</num>
+    <heading>Interest and collection on amounts due.</heading>
+    <para>
+      <num>(a)</num>
+      <text>In any administrative or civil action brought under this chapter, the Mayor or court shall award interest on all amounts due and unpaid at the rate of interest specified in § <cite path="§28-3302">28-3302</cite>(b) or (c).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The award of any money awarded to an employee under this chapter shall be enforceable by the employee to whom the debt is owed or may be collected by the District on behalf of the employee.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 11, 61 DCR 11368</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.11">12</num>
+    <heading>Penalties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An employer who willfully violates § <cite path="§32-1231.03">32-1231.03</cite> shall be subject to a civil penalty of $ 1,000 for the 1st offense, $ 1,500 for the 2nd offense, and $ 2,000 for the 3rd and each subsequent offense.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An employer who fails to post the notice of rights as required by § <cite path="§32-1231.04">32-1231.04</cite>(a) shall be assessed a civil penalty not to exceed $ 50 for each day that the employer fails to post the notice; provided, that the total penalty shall not exceed $ 250, unless the ongoing violation is willful.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 12, 61 DCR 11368</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.12">13</num>
+    <heading>Pregnant Workers Protection Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the Pregnant Workers Protection Fund (“Fund”), which shall be administered by DOES in accordance with subsection (c) of this subsection.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Fund shall consist of the revenue from the following sources recovered under this chapter:</text>
+      <para>
+        <num>(1)</num>
+        <text>Civil fines; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Administrative penalties.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Fund shall be used to enforce this chapter.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 13, 61 DCR 11368</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.13">14</num>
+    <heading>Rules.</heading>
+    <text>Within 60 days of March 3, 2015, the Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], shall issue rules to implement the provisions of this chapter, including establishing procedures for a business to prove undue hardship.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 14, 61 DCR 11368</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.14">15</num>
+    <heading>Construction.</heading>
+    <text>This chapter shall not be construed to preempt, limit, diminish, or otherwise affect any other provision of law relating to sex discrimination or pregnancy or in any way to diminish the coverage for pregnancy, childbirth, or a related medical condition.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 15, 61 DCR 11368</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|12A"/>
+    <num codify:value="32-1231.15">16</num>
+    <heading>Applicability.</heading>
+    <text>This chapter shall apply as of October 1, 2015.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-168">Mar. 3, 2015, D.C. Law 20-168, § 16, 61 DCR 11368</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 7009, 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “as of October 1, 2015” for “upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of <cite doc="D.C. Law 20-168">D.C. Law 20-168</cite>, § 16, see § 7009 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

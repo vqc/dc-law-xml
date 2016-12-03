@@ -1,10 +1,467 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 59-2-ch3443">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 59-2-ch3443">
+  <heading/>
   <meta>
     <effective>1906-06-20</effective>
     <cites>
-        <law congress="59" session="2" chapter="3443"/>
+      <law congress="59" session="2" chapter="3443"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§5-403" path="|5|4|I"/>
+    <num codify:value="5-401">1</num>
+    <heading>Area of service; division of District into fire companies; pre-hospital care and services; approval required for major changes in manner of fire protection.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Fire and Emergency Medical Services Department (“Department”) shall provide fire prevention and fire protection within the geographical boundaries of the District of Columbia. The District shall be divided into such fire companies, and other units as the Council of the District of Columbia may from time to time direct. Major changes in the manner the Department provides fire protection and fire prevention shall be approved by resolution of the Council.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Department shall provide pre-hospital medical care and transport within the geographical boundaries of the District of Columbia. Major changes in the manner the Department provides emergency medical services shall be approved by resolution of the Council.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Department shall provide oversight to ensure the safety and security of DC Streetcar operations as provided in § <cite path="§5-401.01">5-401.01</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 20, 1906, 34 Stat. 314, ch. 3443, § 1</annotation>
+        <annotation doc="D.C. Law 1-111">Apr. 7, 1977, D.C. Law 1-111,§ 2, 23 DCR 9384</annotation>
+        <annotation doc="D.C. Law 17-147">Apr. 15, 2008, D.C. Law 17-147, § 2(a), 55 DCR 2558</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 232, 56 DCR 1117</annotation>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 6012(a), 59 DCR 8025</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 38, 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>District of Columbia Residential, Commercial, and Institutional Structures Fire Protection Study Commission, see § <cite path="§3-1101">3-1101</cite> et seq.</annotation>
+        <annotation>District of Columbia, territorial area, see § <cite path="§1-101">1-101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§5-401.01">5-401.01</cite>, § <cite path="§7-2341.03">7-2341.03</cite>, § <cite path="§7-2341.07">7-2341.07</cite>, and § <cite path="§7-2341.23">7-2341.23</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-301.</annotation>
+        <annotation>1973 Ed., § 4-401.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-147">D.C. Law 17-147</cite> designated the existing text as subsec. (a); in subsec. (a), substituted “Fire and Emergency Medical Services Department (’Department’)” for “Fire Department”; and added subsec. (b).</annotation>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in subsec. (a); and, in subsec. (b), deleted “Fire and Emergency Medical Services” preceding “Department”.</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> added (c).</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> made a technical amendment to <cite doc="D.C. Law 17-147">D.C. Law 17-147</cite>, § 2(a)(2), that did not change the text of this section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 days) amendment of this section, see § 2 of the Fire and Emergency Medical Services Major Changes Temporary Amendment Act of 2013 (<cite doc="D.C. Law 20-42">D.C. Law 20-42</cite>, Dec. 21, 2013,  60 DCR 14716).</annotation>
+        <annotation>For temporary (225 days) amendment of this section, see § 2 of the Emergency Medical Services Contract Authority Temporary Amendment Act of 2015 (<cite doc="D.C. Law 21-55">D.C. Law 21-55</cite>, Jan. 30, 2016,  62 DCR 15597).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary change in the Fire and Emergency Medical Services Department to allow it to rotate the closing of no more than 8 companies on a daily basis, see § 202 of the Fiscal Year 1996 Budget Support Emergency Act of 1996 (D.C. Act 11-264, April 26, 1996,  43 DCR 2412).</annotation>
+        <annotation>For temporary (90-day) implementation of management reforms involving safety equipment and personnel, see § 1012 of the Service Improvement and Fiscal Year 2000 Budget Support Emergency Act of 1999 (D.C. Act 13-110, July 28, 1999,  46 DCR 6320).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3002 of Fiscal Year 2010 Budget Support Emergency Act of 2009 (D.C. Act 18-187, August 26, 2009,  56 DCR 7374).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2 of the Fire and Emergency Medical Services Major Changes Emergency Act of 2013 (D.C. Act 20-150, August 5, 2013,  60 DCR 11817, 20 DCSTAT 2002).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2 of the Emergency Medical Services Contract Authority Emergency Amendment Act of 2015 (D.C. Act 21-154, Oct. 16, 2015,  62 DCR 13701).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2 of the Emergency Medical Services Contract Authority Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-282, Jan. 27, 2016,  63 DCR 1181).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Mayor's Orders</heading>
+        <annotation>Redesignation of fire department: See Mayor’s Order 90-147, October 31, 1990.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Relocation of Engine Company No. 3: Pursuant to Resolution 5-407, the “Relocation of Engine Company No. 3 Resolution of 1983,” effective November 1, 1983, the Council authorized the relocation of Engine Company No. 3.</text>
+        <text>Relocation of Engine Company No. 24 Resolution of 1994: Pursuant to Resolution 10-247, effective January 14, 1994, the Council authorized the relocation of Engine Company No. 24 of the Fire and Emergency Medical Services Department.</text>
+        <text>Closing of companies: For temporary changes in Fire and Emergency Services Department, see § 502 of the Omnibus Budget Support Emergency Act of 1995 (D.C. Act 11-44, April 28, 1995,  42 DCR 2217), and § 802 of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995,  42 DCR 4160).</text>
+        <text>Section 802 of <cite doc="D.C. Law 11-52">D.C. Law 11-52</cite> provided that, pursuant to <cite doc="D.C. Law 1-111">D.C. Law 1-111</cite>, the Council approved the following changes in the Fire and Emergency Services Department:</text>
+        <text>(1) The Fire and Emergency Medical Services Department may permanently close Rescue Squad 4, located at 4930 Connecticut Avenue, N.W., and Truck Company 1, located at 500 F Street, N.W.</text>
+        <text>(2) The Fire and Emergency Medical Services Department may rotate the closing of no more than 5 companies on a daily basis.</text>
+        <text>Section 201 of <cite doc="D.C. Law 11-152">D.C. Law 11-152</cite>, provided that pursuant to § <cite path="§5-401">5-401</cite>, the Council approves the change in the Fire and Emergency Medical Services Department to allow it to rotate the closing of no more than 8 companies on a daily basis.</text>
+        <text>Section 404 of <cite doc="D.C. Law 11-198">D.C. Law 11-198</cite> provided that “notwithstanding any other provision of law, the Fire and Emergency Medical Services Department shall discontinue the rotational closing of any fire or rescue company after September 30, 1996.”</text>
+        <text>Section 405 of <cite doc="D.C. Law 11-198">D.C. Law 11-198</cite> repealed § 802(2) of <cite doc="D.C. Law 11-52">D.C. Law 11-52</cite>.</text>
+        <text>Section 406 of <cite doc="D.C. Law 11-198">D.C. Law 11-198</cite> repealed § 201 of D.C. Act 11-279.</text>
+        <text>Section 1001 of <cite doc="D.C. Law 11-198">D.C. Law 11-198</cite> provided that titles I, II, III, V, and VI and §§ 405 and 406 of the act shall apply after September 30, 1996.</text>
+        <text>Section 1012 of <cite doc="D.C. Law 13-38">D.C. Law 13-38</cite> provided:</text>
+        <text>“(a) The Mayor shall direct the Chief of the Fire and Emergency Medical Services Department (’Department’) to establish as a funding priority for the Department, the purchase of equipment, including state of the art air masks and radios, and other articles identified in the Reconstruction Committee Report on the October 24, 1997, fire that resulted in the death of Sergeant Carter; and to implement a dual role/cross trained/firefighter/paramedic pilot program within the Department, using existing and other funds which may become available, including overtime funds, during Fiscal Year 2000.</text>
+        <text>“(b) The Mayor shall direct the Department Chief to deploy 2 Advanced Life Support Paramedics on 4 engine companies in the Department’s fleet. The Mayor shall direct the Chief to utilize existing or overtime funds to implement this project. The Mayor shall direct the Department Chief to consult with the Council before he determines which 4 engine companies will participate in the pilot program.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§5-403" path="|5|4|I"/>
+    <num codify:value="5-401.01">1a</num>
+    <heading>State safety oversight agency for DC Streetcar.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For the purposes of this section, the term “DC Streetcar” means the rail-fixed guideway public transportation system operated by the District Department of Transportation pursuant to § <cite path="§50-921.01">50-921.01</cite> or any future rail-fixed guideway public transportation system operated by the District, whichever exists.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Fire and Emergency Medical Services Department is designated as the state safety oversight agency, as required by 49 U.S.C. § 53 et seq. and implementing regulations, as they may be amended from time to time (hereinafter referred to as “applicable federal law”).</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>There is established, within the Fire and Emergency Medical Services Department, a state safety office. The state safety office shall be headed by a Program Manager. The Program Manager shall not be supervised by, or under the direction or control of, any District officer or employee, anyone acting on their behalf, responsible for any aspect of the operation of the DC Streetcar.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Program Manager of the state safety office, or his or her designee, shall, in accordance with applicable federal or District law:</text>
+      <para>
+        <num>(1)</num>
+        <text>Oversee the operations of the DC Streetcar insofar as those operations affect, or could affect, the safe operation of the DC Streetcar;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Conduct, or cause to be conducted, investigations, independently or in cooperation with federal or District offices or agencies, into the operations of the DC Streetcar, including any accident or incident involving the operations or assets of the DC Streetcar, insofar as those operations affect, or could affect, the safe operation of the DC Streetcar;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Audit the DC Streetcar system for compliance with safety-related plans, or for any other purpose the Program Manager concludes would promote the safe operation of the DC Streetcar;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Issue reports and findings regarding all aspects of the safety and security of the DC Streetcar, including operations and accidents, when:</text>
+        <para>
+          <num>(A)</num>
+          <text>The issuance of reports and findings is required by federal or District law; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Program Manager determines that such action would promote the safe operation of the DC Streetcar;</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Require the DC Streetcar to develop and submit safety-related plans to the Program Manager for review. After review, the Program Manager shall approve or disapprove the safety-related plans as appropriate;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Enforce statutes, regulations, and executive orders related to the safe operation of the DC Streetcar. If the Program Manager concludes that enforcement is required in order to protect or promote public safety, the Program Manager may:</text>
+        <para>
+          <num>(A)</num>
+          <text>Order the partial or complete cessation of an activity undertaken by the District government, or any entity acting on the District government’s behalf, in connection with the operation of the DC Streetcar; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Take any other enforcement actions that are consistent with federal or District requirements related to the safe operation of the DC Streetcar,</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Conduct any other activity and take any other action necessary to implement federal or District laws or regulations related to the functions and responsibilities of a state safety oversight agency;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Execute and file an application on behalf of the District with the Federal Transit Administration (“FTA”) for federal assistance authorized by 49 U.S.C. §53 et seq., Title 23 of the United States Code, or other federal statutes authorizing a project administered by the FTA;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Execute and file with its application for federal assistance submitted under paragraph (8) of this subsection the annual certifications, assurances, and other documents required by the FTA to award a federal assistance grant or cooperative agreement; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Execute grant and cooperative agreements with the FTA on behalf of the District.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], the Program Manager may issue rules to implement the provisions of this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 20, 1906, 34 Stat. 314, ch. 3443, § 1a</annotation>
+        <annotation doc="D.C. Law 19-168">as added Sept. 20, 2012, D.C. Law 19-168, § 6012(b), 59 DCR 8025</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 3012, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§5-401">5-401</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> added this section.</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> rewrote the section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see §  3012 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §  3012 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §  3012 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§5-403" path="|5|4|I"/>
+    <num codify:value="5-402">2</num>
+    <heading>Appointments and promotions covered by civil service; selection of Fire Chief and Deputy Fire Chiefs; original appointment and transfer of privates; vacancies.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor of the District of Columbia shall appoint, assign to such duty or duties as he may prescribe, promote, reduce, fine, suspend, with or without pay, and remove all officers and members of the Fire Department of the District of Columbia, according to such rules and regulations as the Council of the District of Columbia, in its exclusive jurisdiction and judgment (except as herein otherwise provided), may from time to time make, alter, or amend; provided, that the rules and regulations of the Fire Department heretofore promulgated are hereby ratified (except as herein otherwise provided) and shall remain in force until changed by said Council; provided further, that all officers, members, and civilian employees of such Department, except the Fire Chief and Deputy Fire Chiefs, shall be appointed and promoted in accordance with the provisions of §§ 1101 to 1103, 1105, 1301 to 1303, 1307, 1308, 2102, 2951, 3302 to 3306, 3318, 3319, 3321, 3361, 7202, 7321, 7322, and 7352 of Title 5, United States Code, and the rules and regulations made in pursuance thereof, in the same manner as members of the classified civil service of the United States, except as herein otherwise provided; provided further, that the Deputy Fire Chiefs shall be selected from among the battalion fire chiefs, the Fire Marshal, and the superintendent of machinery; provided further, that all original appointments of privates shall be made to class 1, privates who have served 1 year in class 1 shall, if found efficient, be transferred to class 2, and privates who have served 2 years in class 2 shall, if found efficient, be transferred to class 3. Such transfers shall not be subject to the provisions of said sections of Title 5, United States Code, and the rules and regulations made in pursuance thereof. Whenever vacancies occur in class 2 or 3 which cannot be filled by such transfers, the Mayor may appoint additional privates in class 1 equal in number to the positions vacant in class 2 or 3; and any moneys appropriated for the payment of the salaries for such vacant positions shall be available to pay to such additional privates of class 1 the salaries of their grade.</text>
+    </para>
+    <para>
+      <num>(a-1)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor shall appoint the Fire Chief, with the advice and consent of the Council, pursuant to § <cite path="§1-523.01">1-523.01</cite>(a).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Fire Chief may be selected for appointment from among the ranks of officers and members of the Fire and Emergency Medical Services Department, or from outside the department.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person selected for appointment as Fire Chief from outside the department shall be paid from the DX Schedule for subordinate agency head positions pursuant to § <cite path="§1-610.52">1-610.52</cite> and, unless otherwise provided by law, shall be eligible to receive retirement and other benefits as prescribed in subchapter X-A of Chapter 6 of Title 1 [§ <cite path="§1-610.51">1-610.51</cite> et seq.].</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A person selected for appointment as Fire Chief from among the ranks of officers and members of the department shall be paid from the DX Schedule for subordinate agency head positions pursuant to § <cite path="§1-610.52">1-610.52</cite> and, unless otherwise provided by law, shall be subject to the retirement provisions for officers and members of the Fire and Emergency Medical Services Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>[For applicability of (b), see Editor’s notes.] The Fire Chief shall recommend to the Director of Personnel criteria for Career Service promotions and Excepted Service appointments to Battalion Fire Chief and Deputy Fire Chief that address the areas of education, experience, physical fitness, and psychological fitness. The recommended criteria shall be the same for Career Service promotions and Excepted Service appointments to these positions. When establishing the criteria, the Fire Chief shall review national standards, such as the National Fire Protection Association’s Standard on Fire Officer Professional Qualifications.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All candidates for the position of Battalion Fire Chief and Deputy Fire Chief shall be of good standing with no disciplinary action pending or administered resulting in more than a 14-day suspension or termination within the past 3 years.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 20, 1906, 34 Stat. 314, ch. 3443, § 2</annotation>
+        <annotation>Jan. 24, 1920, 41 Stat. 396, ch. 54</annotation>
+        <annotation doc="D.C. Law 15-194">Sept. 30, 2004, D.C. Law 15-194, § 103, 51 DCR 9406</annotation>
+        <annotation doc="D.C. Law 17-147">Apr. 15, 2008, D.C. Law 17-147, § 2(b), 55 DCR 2558</annotation>
+        <annotation doc="D.C. Law 17-154">May 13, 2008, D.C. Law 17-154, § 5, 55 DCR 3678</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Merit system, application to police officers and firefighters, see § <cite path="§1-632.03">1-632.03</cite>.</annotation>
+        <annotation>Military service, exemption, see § <cite path="§49-402">49-402</cite>.</annotation>
+        <annotation>Protection of life, health, or property, regulations, see § <cite path="§1-303.03">1-303.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-632.03">1-632.03</cite>, § <cite path="§7-2341.03">7-2341.03</cite>, § <cite path="§7-2341.07">7-2341.07</cite>, and § <cite path="§7-2341.23">7-2341.23</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-302.</annotation>
+        <annotation>1973 Ed., § 4-402.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-194">D.C. Law 15-194</cite> designated the existing text as subsection (a); and added subsec. (b).</annotation>
+        <annotation><cite doc="D.C. Law 17-147">D.C. Law 17-147</cite>, in subsec. (a), deleted “the Fire Chief of the Fire Department shall be selected from among the Deputy Fire Chiefs, the battalion fire chiefs, the Fire Marshal and the superintendent of machinery;” following “provided further, that.</annotation>
+        <annotation><cite doc="D.C. Law 17-154">D.C. Law 17-154</cite> added subsec. (a-1).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>Former  5 U.S.C. § 3306, referred to in the second proviso of the first sentence, was repealed February 10, 1978, 92 Stat. 25, Pub. L. 95-228, § 1.  5 U.S.C. § 3319 was repealed October 13, 1978, 92 Stat. 1149, Pub. L. 95-454, § 307. For provisions similar to these repealed sections, see  5 U.S.C.§ 7201 et seq., generally. Former  5 U.S.C. § 7152 was transferred October 13, 1978, by 92 Stat. 1216, Pub. L. 95-454 to  5 U.S.C. § 7202. Appropriate changes have been made in the text of this section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Office of Chief Engineer abolished: The Office of Chief Engineer of the Fire Department was abolished and all functions of that office transferred to and vested in the Fire Chief. The Deputy Chief Engineer of the Fire Department was designated “Deputy Fire Chief,” and the Battalion Chief Engineer was designated “Battalion Fire Chief” by Reorganization Order No. 6, dated September 16, 1952, issued pursuant to Reorganization Plan No. 5 of 1952. Reorganization Order No. 38, dated June 18, 1953, established a Fire Department headed by the Fire Chief. The Fire Chief was given full authority over the Department to be exercised in accordance with applicable laws, rules, and regulations. The Order set up the organization of the Department, and provided that the previously existing Fire Department was abolished and its functions transferred to the new Department. This Order was issued pursuant to Reorganization Plan No. 5 of 1952. Reorganization Order No. 38 was amended by Mayor’s Order 81-233a, dated November 9, 1981. That Order set forth the organization of the Fire Department.</text>
+        <text>Application of Titles I and VI of <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite>: Section 1301 of <cite doc="D.C. Law 15-194">D.C. Law 15-194</cite> provided: “Titles I and VI of this act shall apply to pre-1980 employees of the Metropolitan Police Department and the Fire and Emergency Medical Services Department upon their enactment by Congress.”</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(107) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§5-406" path="|5|4|I"/>
+    <num codify:value="5-404">3</num>
+    <heading>Composition; 2-platoon system; services of veterinary surgeon; attendance by police surgeon.</heading>
+    <text>The Fire Department of the District of Columbia shall be composed of and operated upon a 2-platoon system and the personnel thereof shall consist of 1 Fire Chief; such number of Deputy Fire Chiefs, all of whom shall have had at least 5 years of experience in some regularly organized municipal fire department, and battalion fire chiefs as said Mayor of the District of Columbia may deem necessary from time to time within the appropriations made by Congress; 1 fire marshal; such number of deputy fire marshals, inspectors, and clerks as said Mayor may deem necessary from time to time within the appropriations made by Congress; such number of captains, lieutenants, and sergeants as said Mayor may deem necessary from time to time within the appropriations made by Congress; 1 superintendent of machinery; and such number of assistant superintendents of machinery, pilots, marine engineers, assistant marine engineers, marine firemen, privates of class 6, privates of class 5, privates of class 4, privates of class 3, privates of class 2, privates of class 1, hostlers, and laborers as said Mayor may deem necessary from time to time within the appropriations made by Congress; provided, that the Fire Chief of the Fire Department of the District of Columbia shall have the right to call for and obtain the services of any veterinary surgeon employed by the District who at the time shall not be engaged in a more emergent veterinary service for the District; provided further, that the police surgeons of said District are required to attend, without charge, the members of the Fire Department of said District, and examine all applicants for appointment to, promotion in, and retirement from said Fire Department.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 20, 1906, 34 Stat. 314, ch. 3443, § 3</annotation>
+        <annotation>Jan. 24, 1920, 41 Stat. 397, ch. 54</annotation>
+        <annotation>June 19, 1948, 62 Stat. 498, ch. 530, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Merit system, application to police officers and firefighters, see § <cite path="§1-632.03">1-632.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-632.03">1-632.03</cite>, § <cite path="§7-2341.03">7-2341.03</cite>, § <cite path="§7-2341.07">7-2341.07</cite>, and § <cite path="§7-2341.23">7-2341.23</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-304.</annotation>
+        <annotation>1973 Ed., § 4-404.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Office of Chief Engineer abolished: See Historical and Statutory Notes following § <cite path="§5-402">5-402</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§5-406" path="|5|4|I"/>
+    <num codify:value="5-404.01">3a</num>
+    <heading>Medical Director.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor shall appoint, with the advice and consent of the Council in accordance with paragraph (2) of this subsection, a Medical Director of the Fire and Emergency Medical Services Department (“Department”), who shall hold the rank of Assistant Fire Chief. The Medical Director shall report directly to the Fire Chief, but may be removed only by the Mayor.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Except as provided in paragraph (3) of this subsection, the Mayor shall submit a nomination for Medical Director to the Council for a 90-day period of review, excluding days of Council recess. If the Council does not approve or disapprove the nomination, by resolution, within the 90-day review period, the nomination shall be deemed disapproved.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Mayor shall not be required to submit to the Council the appointment of the incumbent Medical Director serving as of December 19, 2007.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>To be eligible for appointment, the Medical Director shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be a physician licensed to practice medicine in the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be board certified in a medical specialty that represents the broad patient base that the Department serves, such as emergency medicine, general surgery, family medicine, or internal medicine; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Have at least 4 years of substantial experience in emergency medical services, such as experience as a medical director or assistant medical director of emergency medical services, or successful completion of a recognized fellowship in emergency medical services.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Medical Director shall maintain clinical practice at a District hospital or hold an appointment at an accredited academic medical center within the District.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Medical Director shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provide medical oversight for all aspects of pre-hospital medical services provided by the Department, including:</text>
+        <para>
+          <num>(A)</num>
+          <text>Written policies, procedures, and protocols for pre-hospital medical care;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Medical training; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Quality assurance of medical services;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Supervise the administration of pre-hospital medical care; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Work collaboratively with the Fire Chief, Assistant and Deputy Fire Chiefs, and other personnel in the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <para>
+        <num>(1)</num>
+        <text>The provision of pre-hospital medical care by the Department’s certified emergency medical technicians and paramedics shall be under the license of the Medical Director.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Medical Director shall not be personally liable for the good-faith performance of the Medical Director’s duties under this act for a death or injury that results from the provision of pre-hospital medical care by the Department’s certified emergency medical technicians or paramedics practicing under the license of the Medical Director unless the death or injury is the result of willful misconduct or gross negligence of the Medical Director.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Medical Director shall have the authority to order hospital emergency rooms within the District of Columbia not to close to Department transports and to require hospitals and medical providers to accept the transfer of care of a patient or patients within a specified period of time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department may transport patients to a pre-approved clinic or other medical facility that is not a hospital emergency room, appropriate to the patient’s need.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Medical Director shall have the authority to work directly with the Mayor, the Director of the Department of Health, and other appropriate agencies to develop programs or make written agreements with clinics or other health care providers to receive the Department’s transport of patients.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Medical Director shall have the authority to work with the District-based hospitals to coordinate pre-hospital medical services with medical research of best practices for delivery of pre-hospital medical care.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 20, 1906, 34 Stat. 314, ch. 3443, § 3a</annotation>
+        <annotation doc="D.C. Law 17-147">as added Apr. 15, 2008, D.C. Law 17-147, § 2(c), 55 DCR 2558</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-2341.03">7-2341.03</cite>, § <cite path="§7-2341.07">7-2341.07</cite>, and § <cite path="§7-2341.23">7-2341.23</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§5-411" path="|5|4|I"/>
+    <num codify:value="5-407">5</num>
+    <heading>Resignation without notice; engaging in strike; conspiracy to obstruct operations of Department.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No officer or member of said Fire Department, under penalty of forfeiting the salary or pay which may be due him, shall withdraw or resign, except by permission of the Mayor of the District of Columbia, unless he shall have given the said Mayor 1 month previous notice, in writing, of such intention.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No member of the Fire Department of the District of Columbia shall directly or indirectly engage in any strike of such Department. Upon sufficient proof to the Mayor of the District of Columbia that any member of the Fire Department of the District of Columbia has violated the provisions of this subsection, it shall be the duty of the Mayor of the District of Columbia to immediately discharge such member from the service.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Any member of the Fire Department of the District of Columbia who enters into a conspiracy, combination, or agreement with the purpose of substantially interfering with or obstructing the efficient conduct or operation of the Fire Department of the District of Columbia by a strike or other disturbance shall be guilty of a misdemeanor and upon conviction shall be punished by a fine of not more than $300 or by imprisonment of not more than 6 months, or by both.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 20, 1906, 34 Stat. 315, ch. 3443, § 5</annotation>
+        <annotation>Jan. 24, 1920, 41 Stat. 398, ch. 54, § 2</annotation>
+        <annotation>July 31, 1939, 53 Stat. 1143, ch. 397</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Merit system, application to police officers and firefighters, see § <cite path="§1-632.03">1-632.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-632.03">1-632.03</cite>, § <cite path="§7-2341.03">7-2341.03</cite>, § <cite path="§7-2341.07">7-2341.07</cite>, and § <cite path="§7-2341.23">7-2341.23</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 4-307.</annotation>
+        <annotation>1973 Ed., § 4-407.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

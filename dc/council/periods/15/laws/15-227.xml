@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 15-227">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 15-227">
   <num type="law">15-227</num>
   <heading type="short">Retail Natural Gas Supplier Licensing and Consumer Protection Act of 2004</heading>
   <meta>
@@ -12,4 +12,916 @@
       <narrative>Law 15-227, the “Retail Natural Gas Supplier Licensing and Consumer Protection Act of 2004”, was introduced in Council and assigned Bill No. 15-679, and was retained by Council. The Bill was adopted on first and second readings on July 13, 2004, and October 5, 2004, respectively. Signed by the Mayor on November 1, 2004, it was assigned Act No. 15-567 and transmitted to both Houses of Congress for its review. D.C. Law 15-227 became effective on March 16, 2005.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.01">2</num>
+    <heading>Findings.</heading>
+    <text>The Council of the District of Columbia finds that:</text>
+    <para>
+      <num>(1)</num>
+      <text>It is in the public interest to promote the availability to customers of adequate, reliable, and reasonably priced retail natural gas from licensed natural gas suppliers that provide customers with the price, terms, conditions, and quality options they elect to meet their respective natural gas needs.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>It is the intent of this chapter to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Clarify existing law regarding the provision of competitive retail natural gas supply in the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Require the Public Service Commission to license retail natural gas suppliers;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Authorize the Public Service Commission to adopt complaint procedures; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Establish standards for the protection of customers so that:</text>
+        <para>
+          <num>(i)</num>
+          <text>Customers have access to reliable, safe, and affordable retail natural gas sales, including high quality customer service; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <para>
+            <num>(I)</num>
+            <text>Customers have the right to receive accurate, easily understood information about natural gas suppliers, services, plans, terms and conditions, and rights and remedies.</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>The information must be unbiased, accurate, and understandable in a written form, that allows for comparison of prices and terms of service.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Customers are protected from unfair, deceptive, fraudulent, and anticompetitive practices, including practices such as cramming, slamming, and providing deceptive information regarding billing terms and conditions of service.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Customers receive accurate and timely bills from their natural gas suppliers.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Customers are entitled to protection of their privacy and are protected from improper use of their customer records or payment histories without their express consent.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Customers have the right to a fair and efficient process for resolving disputes with natural gas suppliers.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 2, 51 DCR 10549</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.02">3</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Affiliate” means a person who directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, or has directly or indirectly, any economic interest in another person.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Anticompetitive condition” means a condition that would allow a party to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Exercise vertical or horizontal market power;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Use the ownership or control of a regulated facility to favor an unregulated affiliate or subsidiary, or to discriminate against a non-affiliated entity;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Erect a barrier to entry; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Compete unfairly or deny effective competition to residential customers.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Anticompetitive conduct” means an activity that would:</text>
+      <para>
+        <num>(A)</num>
+        <text>Violate any applicable antitrust law;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Constitute favorable treatment of an affiliate;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Discriminate against an unrelated entity;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Constitute a barrier to entry; or</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Confer an unfair competitive advantage upon an entity.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Applicant” means a person who is applying for a license to sell or supply natural gas to retail customers in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Commission” means the Public Service Commission of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Cramming” means the unauthorized addition of services or charges to a customer’s existing service options.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Customer” means a purchaser of natural gas in whose name a service account exists with the company.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Distribution service” means the delivery of natural gas to a customer at the customer’s facilities by or through the instrumentalities and facilities of the gas company.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Enrollment” means the process by which the gas company receives and processes the notification from the natural gas supplier that a customer has entered into a contract for the supply of natural gas with that natural gas supplier.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Enrollment agreement” means the written contract that contains the terms and conditions for the provision of retail natural gas sales that is entered into between a residential customer and a natural gas supplier.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Gas company” means a person regulated by the Commission that owns or controls the distribution facilities required for the transmission and delivery of natural gas to customers.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Natural gas supplier” means a person including an aggregator, broker, or marketer, who sells natural gas or purchases, brokers, arranges or, markets natural gas for sale to customers. The term shall not include a person that supplies natural gas exclusively for its own consumption or the consumption of one or more of its affiliates. The term shall not include the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>Building owners, lessees, or managers who manage the internal distribution system serving the building and who supply natural gas solely to occupants of the building for use by the occupants;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <para>
+          <num>(i)</num>
+          <text>Any person who purchases natural gas for its own use or for the use of its subsidiaries or affiliates; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Any apartment building or office building manager who aggregates retail natural gas sales requirements for his or her building, and who does not:</text>
+          <para>
+            <num>(I)</num>
+            <text>Take title to natural gas;</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>Market retail natural gas sales to the individually-metered tenants of his or her building; or</text>
+          </para>
+          <para>
+            <num>(III)</num>
+            <text>Engage in the resale of natural gas to others;</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Property owners who supply small amounts of natural gas, at cost, as an accommodation to lessors or licensees of the property;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A consolidator; or</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>The gas company.</text>
+      </para>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“Natural gas supplier choice” means the right of natural gas suppliers to use and interconnect with the natural gas distribution system on a nondiscriminatory basis to distribute natural gas from any natural gas supplier to any customer and of customers to purchase natural gas supply from their choice of licensed natural gas suppliers.</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>The “Office” or the “Office of the People’s Counsel” means the Office of the People’s Counsel of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>“Person” means an individual, corporation, company, association, joint-stock company, firm, partnership or other entity.</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>“Slamming” means the unauthorized switching of a customer’s service from one natural gas supplier to another natural gas supplier or to the default service provider.</text>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>“Transfer” means the process by which the gas company facilitates the actual transition of the customer’s natural gas account from (A) the gas company to a natural gas supplier, (B) one natural gas supplier to another, or (C) one natural gas supplier to the gas company.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 3, 51 DCR 10549</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§34-1551">34-1551</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.03">4</num>
+    <heading>Role, duties, and powers of the Commission.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission shall adopt regulations or issue orders to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Govern the licensing and the revocation, suspension, or surrender of a natural gas supplier license;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Implement customer protections;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Establish procedural rules for complaints, investigations, and dispositional hearings;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Impose a civil penalty or other remedy;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Require that residential customers’ bills indicate, as an individual line item, charges for retail natural gas sales;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Establish reasonable requirements for solicitation of residential customers;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Establish uniform contract terms, except as to price, for the enrollment agreement for residential customers;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Establish reasonable procedures for contracting between residential customers and natural gas suppliers;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Establish reasonable requirements and limitations relating to deposits, billing, contract cancellations, and disconnections of residential customers; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Establish minimum service quality, safety, and reliability standards.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission shall adopt any other regulations, or issue any other orders, consistent with the policies enunciated in this chapter that are necessary to ensure the development of a competitive market for retail natural gas, billing, and any component of retail natural gas sales declared to be a potentially competitive service.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 4, 51 DCR 10549</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.04">5</num>
+    <heading>Consent to District of Columbia jurisdiction.</heading>
+    <text>Any licensee or other person who knowingly engages in business activities that are regulated under this chapter, with or without filing an application, is deemed to have consented to the jurisdiction of the Commission and the courts of the District of Columbia, for an action arising under this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 5, 51 DCR 10549</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.05">6</num>
+    <heading>Licensing requirements for retail natural gas suppliers.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A natural gas supplier shall obtain a license issued by the Commission to do business in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An application for a natural gas supplier license shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be made to the Commission in writing by form prescribed by the Commission;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be verified by oath or affirmation;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be accompanied by an application fee determined by the Commission; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Contain the following:</text>
+        <para>
+          <num>(A)</num>
+          <text>Proof of technical and managerial competence;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>An affidavit agreeing to comply with all applicable consumer protection and environmental laws and regulations, the requirements of this chapter, and orders and regulations of the Commission issued under this chapter;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Proof of financial integrity;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <para>
+            <num>(i)</num>
+            <text>Proof that the applicant has registered with the Mayor to transact business in the District of Columbia; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The address of the applicant’s registered office and name of the registered agent in the District of Columbia.</text>
+          </para>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>An agreement or promise to be subject to applicable taxes;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>A statement indicating:</text>
+          <para>
+            <num>(i)</num>
+            <text>Whether the applicant has been denied a natural gas supplier license in any state in the United States;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Whether a natural gas supplier license has been suspended or revoked by any state in the United States; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Where, if any, other natural gas supplier license applications are pending in the United States; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>Any other information required by the Commission.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commission:</text>
+      <para>
+        <num>(1)</num>
+        <text>May require an applicant to post a bond or other approved security instrument to insure an applicant’s financial integrity;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Shall establish procedures and requirements regarding the revocation or surrender of a license;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Shall enter an order providing for notice to appropriate persons and an opportunity for written comment on the application;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Shall take no action on an application until it is considered complete and filed; provided, that if after 30 days of receipt by the Commission an application fails in any respect to be complete, the Commission shall notify the applicant in writing of the deficiencies and the application shall not be regarded as filed;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <para>
+          <num>(A)</num>
+          <text>Shall, within a reasonable time after the filing of a completed application, issue a final order, granting or denying a license; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Shall issue a license authorizing the natural gas supplier to provide retail natural gas sales in the District of Columbia if the applicant is found to be fit, willing, and able to perform properly the service proposed and to conform to the applicable provisions of this chapter and the regulations and orders of the Commission, and to the extent the proposed service will be consistent with the public interest;</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Shall deny an application upon a showing that the applicant or anyone acting in concert with the applicant has a history of violations of laws, rules, or regulations designed to protect the public;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Shall establish any other requirements for an applicant that the Commission determines to be in the public interest;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>May adopt regulations or issue orders to implement this subsection, including the protection of confidential or proprietary information; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Upon just cause, may determine that any deadline imposed under this subsection regarding the granting of a license shall be tolled until such time as the Commission determines whether the license shall be granted.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A license shall not be transferred without the prior approval of the Commission.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>All monies collected by the Commission under this section shall be used exclusively for the daily operations of the Commission.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>All natural gas suppliers licensed by the Commission shall continue to possess financial and technical capability to render service and offer service pursuant to contractual terms and conditions. This is a continuing obligation and may be reviewed by the Commission at any time.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <para>
+        <num>(1)</num>
+        <text>A licensee shall remain in good standing and the Commission may periodically request that a licensee certify that it remains in good standing to transact business in the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A licensee shall promptly notify the Commission of any change of its registered agent or registered office.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 6, 51 DCR 10549</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.06">7</num>
+    <heading>Duties of the gas company.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The gas company shall provide distribution services to all customers and natural gas suppliers on rates, terms, and conditions that are comparable to the gas company’s own use of its distribution system. The gas company shall not operate its distribution systems in a manner that favors the natural gas supply of the gas company’s affiliates and shall not price its services in a manner that impedes competition.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The gas company shall comply with the following provisions with respect to its relationship with its customers:</text>
+      <para>
+        <num>(1)</num>
+        <text>The gas company shall provide natural gas supplier choice information and facilitate enrollment of customers pursuant to the natural gas supplier choice education program approved by the Commission.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The gas company shall provide, pursuant to the prices, terms, and conditions of its tariffs approved by the Commission, default service to those customers who do not select a natural gas supplier and to customers who chose a natural gas supplier but whose service is terminated by the customer or by the natural gas supplier for any reason.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 7, 51 DCR 10549</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.06a">7a</num>
+    <heading>Disconnection of service in extreme temperature prohibited.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For the purposes of this section, the term “forecast of extreme temperature” means a National Weather Service forecast for the District of Columbia of 32 degrees Fahrenheit or below during any time of a day.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A gas company shall not disconnect residential gas service during the day preceding and the day of a forecast of extreme temperature or if the forecast of extreme temperature precedes a holiday or weekend day, on any day during the holiday or weekend.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, §  7a</annotation>
+        <annotation doc="D.C. Law 21-82">as added Mar. 9, 2016, D.C. Law 21-82, § 3, 63 DCR 772</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Disconnection of natural gas service in extreme temperature prohibited, §  34-1506.01.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.07">8</num>
+    <heading>Consumer education.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission shall order the gas company, in conjunction with the Office of the People’s Counsel and the District of Columbia Energy Office, to implement a consumer education program to inform residential customers of changes in the natural gas industry and provide natural gas supplier choice information.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The consumer education program shall include the dissemination of information to enable residential customers to make informed choices about available licensed natural gas suppliers and the services they provide and suppliers, notification to residential natural gas customers of the right to submit their names for inclusion on a list of residential customers not wanting to receive solicitations from natural gas suppliers, and communication to residential customers of the consumer protection provisions of this chapter. The Commission shall ensure the neutrality of the content and message of the consumer education program’s advertisements and materials. The Commission shall promulgate standards for the recovery of consumer education program costs from residential customers which include reasonable measures and criteria to evaluate the success of the program in enhancing residential customer understanding of retail choice.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>As part of the consumer education program, the Commission shall develop and maintain information regarding residential rates charged and services provided by licensed natural gas suppliers to residential customers. The information required shall be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Readily understandable and formatted to provide a comparison of rates and services offered by natural gas suppliers; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Made available to the public through the ordinary means of publication by the Commission, including posting on the Internet, or such other means as determined by the Commission.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Any dispute regarding the consumer education program mandated by this section shall be resolved by the Commission.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 8, 51 DCR 10549</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.08">9</num>
+    <heading>Consumer protections.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission shall adopt regulations or issue orders specifying the necessary minimum service requirements of a licensed natural gas supplier regarding the marketing, solicitation, sale, or provision, directly or through its agent, of retail natural gas.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The minimum service requirements shall include the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A requirement that a licensed retail natural gas supplier:</text>
+        <para>
+          <num>(A)</num>
+          <text>Provide residential customers with accurate pricing and terms and conditions of service, and with a document containing the terms and conditions of pricing and service before the contract for service becomes binding; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Disclose to residential customers the conditions under which a residential customer may rescind a contract without penalty.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Before a residential customer is eligible for service from a licensed retail natural gas supplier, the residential customer shall discharge, or enter into a plan to discharge, existing arrearages (except any pending disputed arrearages) owed to or being billed by the gas company for natural gas service; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Minimum service quality.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The regulations or orders also shall provide for disclosure of the terms identifying how residential customers may transfer or terminate service, including any costs and required notice.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The following requirements shall be standard content for residential customers’ bills:</text>
+        <para>
+          <num>(A)</num>
+          <text>To the maximum extent practicable, an itemized list of service components to enable a residential customer to recalculate his or her bill for accuracy;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The identification of the supplier of a service;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A statement of where, when, and how payment may be made and provision of a toll-free or local customer assistance and complaint telephone number for the natural gas supplier, as well as the addresses and customer assistance telephone numbers for the Commission and the Office of the People’s Counsel, with the available hours noted;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>A clear explanation for 2 consecutive billing periods, of any changes in the rates, terms, and conditions of service; and</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Price disclosure and disclosure of total billing units for the billing period and historical annual usage.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Commission may alter the bill contents prescribed by this subsection if necessary to conform with billing or pricing schemes specifically approved by the Commission.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The regulations or orders shall include policies and procedures that provide for the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The coordination between natural gas suppliers and the gas company for the purpose of maintaining service;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The allocation of partial payments between natural gas suppliers and the gas company when service components are jointly billed;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A prohibition against the transfer, or the authorization of the transfer of, a residential customer’s natural gas supplier without the prior consent of the residential customer in accordance with appropriate confirmation practices;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A requirement for disclosure of the conditions under which a residential customer may rescind a decision to switch his or her natural gas supplier without penalty; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Specification of any required notice and any penalty for early termination of contract.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 9, 51 DCR 10549</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.09">10</num>
+    <heading>Information to be provided to the Commission.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A natural gas supplier shall provide the Commission with such information regarding its retail natural gas sales as the Commission considers necessary to carry out the provisions of this chapter. The Commission shall take such measures as it considers necessary to protect the confidentiality of such information.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission shall require a licensed natural gas supplier to file an annual financial report regarding those retail natural gas sales for which it is subject to licensure.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 10, 51 DCR 10549</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.10">11</num>
+    <heading>Jurisdiction of the Commission and the Office of the People’s Counsel.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Commission shall have jurisdiction upon the complaint of any person, the People’s Counsel, or on its own initiative regarding the provision by a licensed natural gas supplier of any service for which it is subject to licensure.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Commission shall have jurisdiction upon the complaint of any person, the People’s Counsel, or on its own initiative to determine whether a licensed natural gas supplier has violated or failed to comply with any provision of this chapter regarding retail natural gas sales for which it is subject to licensure or any regulation, rule, or order adopted or issued by the Commission.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Commission, after reasonable notice and opportunity for hearing, may conduct an investigation, and impose a penalty, for any violation of this chapter or any regulation or order adopted or issued by the Commission.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The People’s Counsel may file a complaint under any provision of this chapter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commission shall, by regulation or order, establish procedures for complaints and for resolving disputes between the gas company, natural gas suppliers, and customers.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 11, 51 DCR 10549</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.11">12</num>
+    <heading>Investigations of violations; penalties for violation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For a violation of any provision of this chapter or a violation of any regulation or order issued under this chapter, after notice and a hearing, the Commission may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Suspend, revoke, or conditionally rescind the license of a natural gas supplier if the Commission determines, after reasonable notice and opportunity for hearing, that the natural gas supplier:</text>
+        <para>
+          <num>(A)</num>
+          <text>Has obtained or attempted to obtain a license through fraud, deception, or misrepresentation;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Has provided false or misleading information to the Commission, knowingly or with reckless disregard;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Has committed fraud or engaged in market advertising or trade practices that are unfair, false, misleading, or deceptive;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Has disclosed information about a customer or used information about a customer for any purpose other than the purpose for which the information was originally acquired, without the customer’s written consent, unless the disclosure is for bill collection or credit rating reporting purposes or a lawful disclosure about the energy consumption of a non-residential tenant to the tenant’s building owner; provided, that disclosure of aggregated consumption data to the owner of the building for which the data is requested shall be permissible if at least 5 customer accounts are aggregated and no single customer account represents more than 80% of the total aggregated energy consumption;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Has been convicted of any fraud-related crimes;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Has not fulfilled the licensing requirements under this chapter or is not authorized to transact business in the District of Columbia;</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <para>
+            <num>(i)</num>
+            <text>Has violated any consumer protection law or regulation of the United States, District of Columbia, or of any state; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Has had its authority to engage in the supply and sale of natural gas revoked or suspended by any other state, agency, or authority for reasons consistent with this section;</text>
+          </para>
+        </para>
+        <para>
+          <num>(H)</num>
+          <text>Has violated or failed to comply with the provisions of any regulation or order adopted by the Commission; or</text>
+        </para>
+        <para>
+          <num>(I)</num>
+          <text>Is incapable of discharging the functions of a natural gas supplier;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Impose a civil penalty;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Order a refund or credit to a customer;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Cancel a contract or part of a contract between a customer and a natural gas supplier;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Order that any person violating any provision of this chapter or any rule adopted pursuant to this chapter cease and desist from future violations thereof or take affirmative corrective action as may be necessary with regard to any act or practice found unlawful by the Commission;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Issue a letter of warning, reprimand, or censure with regard to any act, conduct, or practice that in the judgment of the Commission, upon consideration of the relevant facts and circumstances, does not warrant the initiation of more severe action;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Examine any record, book, document, account, electronic data, or paper maintained by or for any natural gas supplier in the provision of natural gas; or</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <para>
+          <num>(A)</num>
+          <text>For the purpose of preserving evidence of an unlawful act or practice, after notice and hearing, impound any record, book, document, account, paper, electronic data, goods, ware, item, or facility used or maintained by or for any natural gas supplier in the course of supplying natural gas;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>As may be necessary, the Commission shall issue an order protecting the confidentiality of items subject to this paragraph.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission, on its own initiative or upon proper motion of the People’s Counsel or any aggrieved party, may take any of the following actions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Require any person to file a statement or report in writing under oath as to the facts and circumstances concerning the rendition of any service or conduct of any sale incidental to the discharge of this chapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Examine under oath any person in connection with any act or practice subject to the requirements of this chapter; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Examine or inspect any goods, ware, item, or facility used in the supply of natural gas.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commission may enter a temporary order suspending or limiting any license issued by the Commission, pending a final determination after notice and hearing, if the Commission determines that there is reasonable cause to believe that customers or the reliability of natural gas supply in the District of Columbia will be harmed by the actions of a natural gas supplier or that there is imminent danger to the public health, safety, or welfare. In such instance, the Commission shall move expeditiously to reach a final determination.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>A civil penalty imposed by the Commission under this section shall not exceed $10,000 per violation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Commission shall determine the amount of the civil penalty after considering:</text>
+        <para>
+          <num>(A)</num>
+          <text>Any history of prior violations;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The gravity and duration of the current violation;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The degree of the violator’s culpability;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The prospective effect of the penalty on the ability of the violator to conduct business;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Any good faith effort on the part of the violator in attempting to achieve compliance; and</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Other factors the Commission may consider appropriate.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Commission or the People’s Counsel, in addition to any other proceeding authorized by law, may seek and obtain in a summary proceeding in the Superior Court of the District of Columbia an injunction prohibiting the act or practice.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 12, 51 DCR 10549</annotation>
+        <annotation doc="D.C. Law 20-142">Dec. 17, 2014, D.C. Law 20-142, § 103, 61 DCR 8045</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2014 amendment by <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> added “or a lawful disclosure about the energy consumption of a non-residential tenant to the tenant’s building owner; provided, that disclosure of aggregated consumption data to the owner of the building for which the data is requested shall be permissible if at least 5 customer accounts are aggregated and no single customer account represents more than 80% of the total aggregated energy consumption” in (a)(1)(D).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite>: Section 502(a) of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> provided that Title I of the act, §§ 1<cite path="§01-111">01-111</cite>, shall apply as of January 1, 2015.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.12">13</num>
+    <heading>Rights, remedies, prohibitions; cumulative.</heading>
+    <text>The rights, remedies, and prohibitions accorded by the provisions of this chapter are in addition to and cumulative of any right, remedy, or prohibition accorded by the common law or any statute of the District of Columbia and nothing contained herein shall be construed to deny, abrogate, or impair any such common law or statutory right, remedy, or prohibition.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 13, 51 DCR 10549</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.13">14</num>
+    <heading>Application of District of Columbia and federal consumer protection laws.</heading>
+    <text>This chapter shall not be construed to exempt natural gas suppliers from otherwise applicable District of Columbia or federal consumer protection laws.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 14, 51 DCR 10549</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|16C"/>
+    <num codify:value="34-1671.14">15</num>
+    <heading>Market power remediation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission and the People’s Counsel shall monitor the District of Columbia retail markets for natural gas supply and sales declared by the Commission to be potentially competitive services to ensure that the markets are not being adversely affected by anticompetitive conduct and anticompetitive conditions.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>If, as a result of the monitoring efforts required by subsection (a) of this section or as a result of a complaint, the Commission determines that the District of Columbia retail markets for retail natural gas sales are being adversely affected by anticompetitive conduct or anticompetitive conditions, the Commission shall take remedial action to remedy the impact of the anticompetitive conduct or anticompetitive conditions.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>If, as a result of the monitoring efforts required by this section, the Commission or the People’s Counsel obtain evidence that the retail markets for natural gas supply or sales declared by the Commission to be competitive services are being adversely affected by anticompetitive conduct or anticompetitive conditions other than the anticompetitive conduct or anticompetitive conditions described in paragraph (1) of this subsection, the Commission or the People’s Counsel shall transmit the evidence to the Attorney General, the Department of Justice, the Federal Trade Commission, and any other appropriate federal agency.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Commission or the People’s Counsel may request the Attorney General to issue a report to the Council within 6 months of the transmittal of evidence by the Commission or the People’s Counsel under subparagraph (A) of this paragraph, explaining the course of its investigation, the actions that it has taken or plans to take, and the reasons for those actions. The failure of the Attorney General to bring an action within 6 months of the receipt of the transmittal shall not be deemed to eliminate the Attorney General’s otherwise existing authority to act. Any report submitted under this subsection shall not include information that may compromise any investigation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Nothing in this section shall affect the authority of the Attorney General to investigate or take action against anticompetitive conduct or anticompetitive conditions on its own initiative.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 15, 51 DCR 10549</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 4-81">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 4-81">
   <num type="law">4-81</num>
   <meta>
     <effective>1982-03-16</effective>
@@ -11,4 +11,20 @@
       <narrative>Law 4-81 was introduced in Council and assigned Bill No. 4-323, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on November 10, 1981 and November 24, 1981, respectively. Signed by the Mayor on December 21, 1981, it was assigned Act No. 4-135 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|6|III"/>
+    <num codify:value="2-621">6</num>
+    <heading>Requirement.</heading>
+    <text>Notwithstanding any other provisions of law, any other requirement that the District of Columbia publish notices in 2 daily newspapers shall be satisfied by publication in at least 2 general circulation newspapers, published in the District of Columbia, once every 2 weeks or more frequently.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-81">Mar. 16, 1982, D.C. Law 4-81, § 6, 29 DCR 156</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-1621.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 7-12">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 7-12">
   <num type="law">7-12</num>
   <meta>
     <effective>1987-07-25</effective>
@@ -8,4 +8,112 @@
       <register page="3783" vol="34"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|19"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1901">2</num>
+    <heading>Findings of Council.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-12">July 25, 1987, D.C. Law 7-12, § 2, 34 DCR 3783</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86, § 401(c), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-3501.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|19"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1902">3</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-12">July 25, 1987, D.C. Law 7-12, § 3, 34 DCR 3783</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86, § 401(c), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-3502.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|19"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1903">4</num>
+    <heading>Establishment of District of Columbia Bicentennial Commission.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-12">July 25, 1987, D.C. Law 7-12, § 4, 34 DCR 3783</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86, § 401(c), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-3503.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|19"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1904">5</num>
+    <heading>Funding.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-12">July 25, 1987, D.C. Law 7-12, § 5, 34 DCR 3783</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86, § 401(c), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-3504.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|19"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1905">6</num>
+    <heading>Establishment of District of Columbia Bicentennial Fund.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-12">July 25, 1987, D.C. Law 7-12, § 6, 34 DCR 3783</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86, § 401(c), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-3505.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|19"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-1906">7</num>
+    <heading>Duties.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-12">July 25, 1987, D.C. Law 7-12, § 7, 34 DCR 3783</annotation>
+        <annotation doc="D.C. Law 12-86">Apr. 29, 1998, D.C. Law 12-86, § 401(c), 45 DCR 1172</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-3506.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

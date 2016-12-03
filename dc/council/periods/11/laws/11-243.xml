@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 11-243">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 11-243">
   <num type="law">11-243</num>
   <heading type="short">Victims of Violent Crime Compensation Act of 1996</heading>
   <meta>
@@ -12,4 +12,1315 @@
       <narrative>Law 11-243, the “Victims of Violent Crime Compensation Act of 1996,” was introduced in Council and assigned Bill No. 11-657, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-503 and transmitted to both Houses of Congress for its review. D.C. Law 11-243 became effective on April 9, 1997.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-501">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Board” means the Crime Victims Compensation Appeals Board.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Claimant” means a person who makes a claim for compensation under this chapter and who is a:</text>
+      <para>
+        <num>(A)</num>
+        <text>Victim;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Secondary victim; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Person acting on behalf of a victim or a secondary victim, but not including a provider of services.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Collateral source” means a source of benefits or compensation available to a claimant for economic loss resulting from a crime of violence. This term includes payments or benefits from:</text>
+      <para>
+        <num>(A)</num>
+        <text>The offender;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The United States, District of Columbia, a state or territory of the United States or its political subdivisions, or an agency of the foregoing, including Social Security, Medicare, Medicaid, Workers’ Compensation, Public Employees’ Disability Compensation, the Department of Human Services, the Department of Health, the Child and Family Services Agency, and Court Social Services;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A wage continuation program of an employer;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A contract of life, health, disability, liability, or fire and casualty insurance, or a contract providing prepaid hospital or health care benefits;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Proceeds of a lawsuit brought as a result of the crime; or</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Life insurance proceeds of more than $50,000.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Commission” means the Crime Victims Compensation Advisory Commission.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Court” means the Superior Court of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Crime of violence” or “crime” means the offense of, or the attempt to commit the offense of, an act of terrorism, use, dissemination, or detonation of a weapon of mass destruction, manufacture or possession of a weapon of mass destruction, arson, assault, assault with a dangerous weapon, aggravated assault, assault on a police officer, assault with intent to kill, assault with intent to commit any offense, burglary, stalking, threats, negligent homicide, sexual abuse, kidnapping, maliciously disfiguring another, manslaughter, murder, mayhem, riot, robbery, carjacking, cruelty to children, unlawful use of an explosive, forced labor, benefitting financially from human trafficking, using a minor in a sexual performance, promoting a sexual performance by a minor, attending or possessing a sexual performance by a minor, trafficking in labor or commercial sex acts, sex trafficking of children, a felony violation of an act codified in Chapter 27 of Title 22, where a person was compelled to engage in prostitution or was a minor; a violation of an act codified in Title 50 that resulted in death or bodily injury to a person, including these offenses when motivated by bias as provided by Chapter 37 of Title 22, or any violation of §§ <cite path="§50-2201.04">50-2201.04</cite> and <cite path="§50-2201.05">50-2201.05</cite>, notwithstanding that the offender lacked the capacity to commit the offense by reason of infancy, insanity, intoxication, or otherwise. These terms include an offense where the perpetrator and victim are members of the same family or household, an offense whether prosecuted under the District of Columbia Official Code or the United States Code, and a terrorist act or act of mass violence as defined in 18 U.S.C. § 2331, committed in the District of Columbia against any person or outside of the United States against a resident of the District of Columbia. A crime occurs whether or not any person is identified, arrested, prosecuted, or convicted. Unless an application for rehearing, appeal, or petition for certiorari is pending or a new trial or hearing has been ordered, the conviction of a person whose acts gave rise to the claim is conclusive evidence that a crime was committed.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <para>
+        <num>(A)</num>
+        <text>“Economic loss” means:</text>
+        <para>
+          <num>(i)</num>
+          <text>Reasonable medical expenses incurred, whether provided in the District of Columbia or elsewhere;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Reasonable funeral and burial expenses, including the reasonable cost of cremation or other chosen method of interment;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The reasonable cost of temporary emergency food and housing not exceeding 120 days;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Loss of income or support incurred as a direct or indirect result of an injury or death;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Loss of a victim’s services by a secondary victim, including housekeeping and child care services;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>In the case of secondary victims, reasonable psychiatric, psychological, or mental health counseling expenses incurred as a direct result of the crime;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>Reasonable expenses incurred by the victim for physical or occupational therapy and rehabilitation;</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>The reasonable cost of cleaning the crime scene;</text>
+        </para>
+        <para>
+          <num>(ix)</num>
+          <text>Unless the victim is deceased, the replacement value of the victim’s clothing that is held for evidentiary purposes;</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>The reasonable cost of replacing doors, windows, locks or other items to secure the victim’s home or other place of residence;</text>
+        </para>
+        <para>
+          <num>(xi)</num>
+          <text>The reasonable cost of a rental car for the period of time that an automobile is being held by the police as evidence or to collect evidence;</text>
+        </para>
+        <para>
+          <num>(xii)</num>
+          <text>Reasonable moving expenses where necessary for health or safety; and</text>
+        </para>
+        <para>
+          <num>(xiii)</num>
+          <text>Reasonable transportation expenses incurred by the victim or secondary victim to participate in court proceedings, to participate in the investigation or prosecution of the case, or to obtain the services described in sub-subparagraphs (i), (vi), or (vii) of this subparagraph, or paragraph (9) of this subsection, or to obtain any other services required as a direct result of the crime.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>“Economic loss” does not mean:</text>
+        <para>
+          <num>(i)</num>
+          <text>Pain and suffering;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The value of any property damaged or taken during the crime; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Any services not described in subparagraph (A) of this paragraph.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Fund” means the Crime Victims Compensation Fund.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Medical expenses” include:</text>
+      <para>
+        <num>(A)</num>
+        <text>Ambulance, hospital, surgical, medical, nursing, dental, optometric, ophthalmologic, chiropractic, podiatric, in-patient mental health, and pregnancy-related care;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Medical, dental, hearing, and surgical supplies;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Crutches and prosthetic devices taken, lost, or destroyed during the commission of the crime, as well as new prosthetic devices which became necessary as a direct result of the crime and training in their use; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Out-patient mental health counseling expenses which became necessary as a direct result of the crime and which are provided by a:</text>
+        <para>
+          <num>(i)</num>
+          <text>Licensed psychiatrist or psychologist;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Licensed social worker; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Licensed marriage, family, or child counselor practicing within the scope of licensure.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Personal injury” means physical injury, emotional trauma, or both.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Program” means the Crime Victims Compensation Program.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Provider of services” means a person or entity providing services pursuant to paragraphs (7) and (9) of this subsection.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“Secondary victim” means a:</text>
+      <para>
+        <num>(A)</num>
+        <text>Victim’s spouse, children, including biological, step, and adopted, grandchildren, parents, stepparents, siblings, half siblings, or spouse’s parents;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Person who resides in the victim’s household at the time of the crime or at the time of the discovery of the crime;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Person who is a survivor of a victim and who was wholly or partially dependent upon the victim for care and support at the time of the commission of the crime upon which the claim is based, including a child of the victim born after the victim’s death;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Person who legally assumes the obligation, or who voluntarily pays the medical expenses, or in the event of death caused by the crime, funeral and burial expenses, incurred as a direct result thereof;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Person with close ties to the victim; or</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Person who witnessed the crime.</text>
+      </para>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>“Victim” means a person who suffers personal injury or death in the District of Columbia, a person who is a resident of the District of Columbia and suffers personal injury or death as a result of a terrorist act or act of mass violence committed outside of the United States, or a person who is a resident of the District of Columbia and who suffers personal injury or death outside the District of Columbia in a state that does not have a crime victims compensation program that is eligible for funding under the Victims of Crime Act of 1984 (98 Stat. 2170; 42 U.S.C. § 10601 et seq.), as a direct result of:</text>
+      <para>
+        <num>(A)</num>
+        <text>A crime;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Assisting lawfully to apprehend a person reasonably suspected of committing or attempting to commit a crime;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Assisting a person against whom a crime has been committed or attempted, if the assistance was rendered in a reasonable manner;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Attempting to prevent the commission of a crime; or</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>A violation of §§ <cite path="§50-2201.04">50-2201.04</cite> and <cite path="§50-2201.05">50-2201.05</cite>, or a comparable state law regarding driving infractions.</text>
+      </para>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>“Victims assistance grants agency” means the District of Columbia agency that is responsible for the administration of federal funds received for crime victims assistance under the Victims of Crime Act of 1984, approved October 12, 1984 (98 Stat. 2170; 42 U.S.C. § 10601 et seq.).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 2, 44 DCR 1142</annotation>
+        <annotation doc="D.C. Law 13-172">Oct. 19, 2000, D.C. Law 13-172, § 202(a), 47 DCR 6308</annotation>
+        <annotation doc="D.C. Law 14-194">Oct. 17, 2002, D.C. Law 14-194, § 151, 49 DCR 5306</annotation>
+        <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 31, 51 DCR 881</annotation>
+        <annotation doc="D.C. Law 18-239">Oct. 23, 2010, D.C. Law 18-239, § 201(a), 57 DCR 5405</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-421.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-172">D.C. Law 13-172</cite>, in subpar. (3)(B), substituted “Public Employees’ Disability Compensation, the Department of Human Services, the Department of Health, the Child and Family Services Agency, and Court Social Services,” for “and Public Employees’ Disability Compensation”; in par. (6) substituted “assault, assault with a dangerous weapon, aggravated assault, assault on a police officer, assault with intent to kill, assault with intent to commit any offense, burglary, stalking, threats,” for “assault”; rewrote par. (7), which had read:</annotation>
+        <annotation>“ ‘Economic loss’ means, except for pain and suffering:</annotation>
+        <annotation>“(A) Reasonable medical expenses incurred, whether provided in the District of Columbia or elsewhere;</annotation>
+        <annotation>“(B) Funeral and burial expenses, including the reasonable cost of cremation or other chosen method of interment, not exceeding $3,000 per death;</annotation>
+        <annotation>“(C) In the case of battered partners or children, the cost of temporary emergency housing not exceeding 90 days;</annotation>
+        <annotation>“(D) Loss of income or support incurred as a direct or indirect result of an injury or death;</annotation>
+        <annotation>“(E) Loss of a victim’s services by a secondary victim, including housekeeping and child care services;</annotation>
+        <annotation>“(F) In the case of secondary victims, reasonable psychiatric, psychological, or mental health counseling expenses incurred as a direct result of the crime;</annotation>
+        <annotation>“(G) Reasonable expenses incurred by the victim for physical or occupational therapy and rehabilitation;</annotation>
+        <annotation>“(H) The cost of cleaning the crime scene, not exceeding $1,000; and</annotation>
+        <annotation>“(I) Unless the victim is deceased, the replacement value of the victim’s clothing that is held for evidentiary purposes.”; rewrote par. (13), which had read:</annotation>
+        <annotation>“ ‘Secondary victim’ means a:</annotation>
+        <annotation>“(A) Victim’s spouse, children, including natural born, step, and adopted, grandchildren, parents, stepparents, siblings, half siblings, or spouse’s parents;</annotation>
+        <annotation>“(B) Person who resides in the victim’s household at the time of the crime or at the time of the discovery of the crime;</annotation>
+        <annotation>“(C) Person who is a survivor of a victim and who was wholly or partially dependent upon the victim for care and support at the time of the commission of the crime upon which the claim is based, including a child of the victim born after the victim’s death; or</annotation>
+        <annotation>“(D) Person who legally assumes the obligation, or who voluntarily pays the medical expenses, or in the event of death caused by the crime, funeral and burial expenses, incurred as a direct result thereof.”; and added par. (15), defining victims assistance grants agency.</annotation>
+        <annotation><cite doc="D.C. Law 14-194">D.C. Law 14-194</cite>, in par. (6), inserted “an act of terrorism, use, dissemination, or detonation of a weapon of mass destruction, manufacture or possession of a weapon of mass destruction” following “to commit the offense of,”.</annotation>
+        <annotation><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in par. (6), validated a previously made technical correction.</annotation>
+        <annotation><cite doc="D.C. Law 18-239">D.C. Law 18-239</cite>, in par. (6), substituted “unlawful use of an explosive, forced labor, benefitting financially from human trafficking, using a minor in a sexual performance, promoting a sexual performance by a minor, attending or possessing a sexual performance by a minor, trafficking in labor or commercial sex acts, sex trafficking of children, a felony violation of an act codified in Chapter 27 of Title 22, where a person was compelled to engage in prostitution or was a minor; a violation of an act codified in Title 50 that resulted in death or bodily injury to a person,” for “unlawful use of an explosive,”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see § 2 through 19 of the Victims of Violent Crime Compensation Emergency Act of 1996 (D.C. Act 11-447, December 5, 1996,  43 DCR 6669), and § 2-19 of the Victims of Violent Crime Compensation Congressional Review Emergency Act of 1997 (D.C. Act 12-34, March 11, 1997,  44 DCR 1915).</annotation>
+        <annotation>For temporary (90-day) amendment of section, see § 202(a) of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 202(a) of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000,  47 DCR 8740).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-502">3</num>
+    <heading>Establishment of a Crime Victims Compensation Program.</heading>
+    <text>There is established a Crime Victims Compensation Program (“Program”) that shall administer all funds from all sources for the purpose of investigating and, where appropriate, compensating the claims of victims of violent crime in the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 3, 44 DCR 1142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-422.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+        <annotation>For temporary (90 day) enactment, see § 3022 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) enactment of section, see § 3022 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) enactment, see § 3022 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 3021 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided that subtitle B of title III of the act may be cited as the “Victims of Domestic Violence Grant-Making Act of 2006”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Grant-making authority for assisting domestic violence victims: Section 3022 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided: “Beginning in fiscal year 2007, the Mayor is authorized to issue grants from local funds received for the Office of Victim Services to assist victims of domestic violence.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-503">4</num>
+    <heading>Administration of Program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The administration of the Program is hereby designated to the Superior Court of the District of Columbia (“Court”), which shall issue rules and regulations as are necessary to carry out the provisions and purposes of this chapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All records and computer software relating to the functions of the Program as originally established by the Victims of Violent Crime Compensation Act of 1981, effective April 6, 1982 (<cite doc="D.C. Law 4-100">D.C. Law 4-100</cite>; § <cite path="§4-531">4-531</cite> et seq.) [repealed], are hereby transferred to the Court for the exclusive purpose of operating the Program.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Court shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Investigate claims filed pursuant to this chapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Obtain from an agency or department of the District of Columbia government or the United States government information, data, and assistance that will enable the Court to determine if a crime was committed or attempted and whether the claimant is eligible for compensation under this chapter;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Process and maintain claims in the order they are filed, including claims previously filed pursuant to the Victims of Violent Crime Compensation Act of 1981, effective April 6, 1982 (<cite doc="D.C. Law 4-100">D.C. Law 4-100</cite>; § <cite path="§4-531">4-531</cite> et seq.) [repealed];</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Determine each claim filed pursuant to this chapter and reinvestigate or reopen cases when necessary;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Require and direct medical examination of victims or secondary victims when necessary;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Publicize the existence of the Program and the procedure for obtaining compensation under the Program through the Court and the Crime Victims Compensation Appeals Board (“Board”), the District of Columbia Metropolitan Police Department, the U.S. Attorney’s Office, the Corporation Counsel of the District of Columbia, and other public or private agencies, organizations, and service providers; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Provide printed informational materials, including brochures and posters, in both English and Spanish.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 4, 44 DCR 1142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-423.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“The Victims of Violent Crime Compensation Act of 1981, effective April 6, 1982 (<cite doc="D.C. Law 4-100">D.C. Law 4-100</cite>;  D.C. Code § <cite path="§3-401">3-401</cite> et seq.),” referred to in (b) and (c)(3), was repealed by <cite doc="D.C. Law 11-243">D.C. Law 11-243</cite>, § 20, effective April 9, 1997.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-504">5</num>
+    <heading>Crime Victims Compensation Advisory Commission; establishment; membership; duties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A Crime Victims Compensation Advisory Commission (“Commission”) is established and shall consist of 15 members appointed by the Chief Judge of the Court. The Chief Judge shall designate one of the members as the Commission’s Chairperson. The Chief Judge may make an appointment to fill an unexpired term.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission’s members shall serve for a term of 3 years and shall be eligible for reappointment. The members shall serve without compensation. The members shall elect any additional officers necessary for the efficient discharge of their duties.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commission shall be composed of:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Chairperson of the Committee on the Judiciary of the Council of the District of Columbia or that person’s designee;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>One representative from the Office of the Corporation Counsel;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>One representative from the Victim Witness Assistance Unit of the U.S. Attorney’s Office;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>One person engaged full-time in law enforcement;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>One member of the Public Defender Service for the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>One hospital staff person involved with emergency services;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>One representative of the District of Columbia Department of Corrections;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>One person licensed to provide mental health counseling;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>One crime victim or survivor;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>One member of the public who has demonstrated a knowledge of, and sensitivity to, victim issues; and</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Five victim service providers representing victims of homicide, sexual assault, domestic violence, child abuse, and drunk driving.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Commission shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provide information, training, and technical assistance to the Court and be available to consult with and advise the Court on rules and regulations for the administration of the Program;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Develop ongoing public awareness efforts and assist the Court in publicizing the Program; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Review the annual report submitted by the Court to the Council of the District of Columbia, advise the Council of deficiencies in the Program, and suggest necessary changes.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 5, 44 DCR 1142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-424.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-505">6</num>
+    <heading>Crime Victims Compensation Appeals Board; establishment; membership; duties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A Crime Victims Compensation Appeals Board (“Board”) is established in the Court. The Chief Judge shall appoint 5 members to the Board from among the membership of the Commission. Board members shall serve at the Chief Judge’s pleasure, reflect a variety of disciplines, and include at least 1 attorney. The Chief Judge shall designate 1 member to serve as the Board’s Chairperson, and may appoint qualified members of the Commission to serve as alternates on the Board when Board members are not available.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Board members shall serve without compensation but may receive reimbursement for expenses in a manner and amount to be determined by the Court.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Board shall meet at least quarterly to hear appeals in contested cases as provided in § <cite path="§4-517">4-517</cite>(d).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 6, 44 DCR 1142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-425.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-506">7</num>
+    <heading>Eligibility for compensation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A victim or secondary victim is eligible to receive compensation under this chapter if he or she:</text>
+      <para>
+        <num>(1)</num>
+        <text>Suffered personal injury as a result of a crime;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Filed a claim under this chapter within 1 year after the crime occurred or 1 year after learning of the Program with an adequate showing that the delay in learning of the Program was reasonable; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Reported the crime to a law enforcement office within 7 days of its occurrence. If the crime cannot be reasonably reported within that time period, the crime must be reported within 7 days from the time a report can reasonably be made.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The offender shall not be unjustly enriched by an award of compensation to the claimant, except that this requirement may be waived in cases involving extraordinary circumstances where the interests of justice so require.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Notwithstanding subsection (a)(3) of this section, a victim who has been sexually abused or subjected to unlawful sexual conduct, domestic violence, or cruelty to children and who does not report the crime to the local police department, may:</text>
+      <para>
+        <num>(1)</num>
+        <text>In the case of domestic violence victims, satisfy the reporting requirement by seeking a civil protection order from the Corporation Counsel of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the case of sexual assault victims, satisfy the reporting requirement by seeking a sexual assault examination from a medical treatment facility; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In the case of a victim of cruelty to children, satisfy the reporting requirement by the filing of a neglect petition by the District of Columbia in the Superior Court.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The time limit requirements of this section may be waived for good cause shown, including compelling health or safety concerns.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 7, 44 DCR 1142</annotation>
+        <annotation doc="D.C. Law 13-172">Oct. 19, 2000, D.C. Law 13-172, § 202(b), 47 DCR 6308</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-512">4-512</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-426.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-172">D.C. Law 13-172</cite>, in subsec. (c), substituted “, domestic violence, or cruelty to children” for “or domestic abuse”; in par. (c)(1) substituted “violence” for “abuse” and struck the word “and” at the end of the paragraph; in par. (c)(2) substituted “; and” for the period; and added par. (c)(3), relating to reporting requirements.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+        <annotation>For temporary (90-day) amendment of section, see § 202(b) of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 202(b) of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000,  47 DCR 8740).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-507">8</num>
+    <heading>Awards of compensation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Court shall award compensation in an amount equal to the claimant’s economic loss, decreased by the amount available to the claimant from collateral sources.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Court shall not award compensation in an amount exceeding $25,000 per victimization.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Court shall calculate awards in a fair and equitable manner.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The payment of compensation may provide for apportionment, the holding of the compensation or any part thereof in trust, payment in a lump sum or periodic installments, or payment directly to the provider of medical services or economic loss expenses.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>An award is not subject to enforcement, attachment, or garnishment, except that an award may be subject to a claim of a creditor if the cost of products, services, or accommodations included in the award were covered by the creditor.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>If a claimant is awarded compensation prior to the sentencing of an offender convicted of the crime which was the subject of the claim, the Court shall notify the sentencing judge of the amount of the award, notwithstanding that the files and records of the claim remain otherwise confidential as provided in § <cite path="§4-511">4-511</cite>. Restitution ordered for an offense that was the basis for an award under this chapter, up to the amount of the award, shall be payable directly to the Fund as provided in § <cite path="§4-509">4-509</cite>.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Eligibility for public benefits shall not be affected by the receipt of crime victims compensation funds.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 8, 44 DCR 1142</annotation>
+        <annotation doc="D.C. Law 13-172">Oct. 19, 2000, D.C. Law 13-172, § 202(c), 47 DCR 6308</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-427.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-172">D.C. Law 13-172</cite>, in subsec. (b), substituted “exceeding $25,000 per victimization” for “exceeding $25,000”, and added subsec. (g), relating to eligibility for benefits.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+        <annotation>For temporary (90-day) amendment of section, see § 202(c) of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 202(c) of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000,  47 DCR 8740).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-508">9</num>
+    <heading>Disqualifications and reductions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Court shall not award compensation if the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Claimant knowingly or willingly participated in the commission of the crime which forms the basis for the claim; provided, that a claimant who was a minor and a victim of sex trafficking of children, may be awarded compensation; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Injury or death for which compensation is sought was caused by the victim’s consent, substantial provocation, or substantial incitement.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An application for assistance may be denied, in whole or in part, if the Court finds:</text>
+      <para>
+        <num>(1)</num>
+        <text>Denial is appropriate due to the nature of the victim’s or secondary victim’s involvement in the events leading to the relevant crime; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The claimant failed to provide information to a requesting law enforcement agency or did not reasonably cooperate with law enforcement officials in apprehending the offender. Refusal of a victim or claimant to testify against the offender may be excused if testifying would subject the victim or claimant to a substantial risk of serious physical or emotional injury.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Notwithstanding subsections (a) and (b) of this section, if the victim is found to have willingly or knowingly participated, consented, provoked, or incited the crime, a secondary victim is not automatically precluded from compensation.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Gang membership or co-habitation with the offender is not considered a disqualifying factor under subsections (a) or (b) of this section, unless the claimant will be substantially and unjustly enriched by the award.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 9, 44 DCR 1142</annotation>
+        <annotation doc="D.C. Law 18-239">Oct. 23, 2010, D.C. Law 18-239, § 201(b), 57 DCR 5405</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-428.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-239">D.C. Law 18-239</cite>, in subsec. (a)(1), substituted “claim; provided, that a claimant who was a minor and a victim of sex trafficking of children, may be awarded compensation; or” for “claim; or”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-509">10</num>
+    <heading>Preservation of civil actions; subrogation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A claimant or the claimant’s successors in interest retain the right to recover damages from the offender or third parties, and the right to restitution from the offender.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>To the extent that the Court has made payment to or on behalf of the victim, restitution, if imposed by the Court, shall be paid to the Fund.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The District of Columbia is subrogated to the claimant’s right against the offender or third parties to the extent of any compensation awarded under this chapter. The District of Columbia may initiate a lawsuit against the offender for damages or restitution or against third parties for damages.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The claimant shall notify the Corporation Counsel of the District of Columbia if a lawsuit for restitution or damages is instituted. The District of Columbia may intervene in the lawsuit and is privy to a lien on recovery made from the lawsuit. If the funds are retrieved through subrogation, they shall be credited to the Fund.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Application forms for compensation by the Program shall include a repayment subrogation agreement.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 10, 44 DCR 1142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-507">4-507</cite> and § <cite path="§4-515">4-515</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-429.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-510">11</num>
+    <heading>Emergency awards.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If it appears likely that a final award will be made and that the claimant will suffer undue financial or emotional hardship if immediate financial assistance is not granted, an emergency award not exceeding $1,000 may be made prior to the final determination.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If compensation is awarded, the Court shall deduct the amount of the emergency award from the final award.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If the emergency award is greater than the final award, the claimant shall repay the difference.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>If compensation is not awarded, the claimant shall repay the emergency award to the Fund.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The District of Columbia may recover or institute a lien on outstanding funds. Any funds recovered shall be credited to the Fund.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 11, 44 DCR 1142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-515">4-515</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-430.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-511">12</num>
+    <heading>Confidentiality.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Information, records, and transcripts of hearings contained in the claims files under the provisions of this chapter are confidential and not open to public inspection, except that:</text>
+      <para>
+        <num>(1)</num>
+        <text>A claimant or the representative of a claimant, whether an individual or an organization, may review that person’s claim or receive specific information therefrom. Information shall be released to a claimant’s representative only upon presentation of the signed authorization of the claimant.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Physicians treating or examining claimants seeking benefits under this chapter or physicians giving medical advice to the Court regarding any claim, may, at the discretion of the Court, inspect the claims files and records of the claimant. Other persons may inspect a claimant’s files and records only when rendering assistance to the Court on a matter pertaining to the administration of this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Court shall not include the name of any claimant in the annual report to the Council of the District of Columbia, unless authorized by the claimant.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Each record or report obtained by the Court, the confidentiality of which is protected by any other law or regulation, remains confidential subject to that law or regulation.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 12, 44 DCR 1142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-507">4-507</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-431.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-512">13</num>
+    <heading>Procedures for filing claims.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A claim shall be initiated when the claimant timely submits a completed application to the Court. Claims may be filed in person or by mail. A claim may be filed by a person eligible for compensation as provided in § <cite path="§4-506">4-506</cite>, or if that person is a minor or legally incompetent, by the claimant’s parent, guardian, or personal representative.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Upon receipt of a completed application, the Court shall examine written information submitted by the claimant and other documentary evidence. The Court may require additional information from the claimant and conduct investigations as necessary to determine whether the claimant is eligible for compensation and the amount, if any, of compensation to be awarded. The Court shall send a notice of the determination, and the reasons therefor, to the claimant by first class mail, along with instructions for requesting reconsideration or an appeal before the Board.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The claimant may, within 30 days after receiving the notice of determination, request reconsideration based on new or previously unavailable information. The Court must render a decision based on the additional information within 30 days after receiving the information. The Court may affirm, modify, or reverse its initial decision. The Court shall send a notice of the decision on reconsideration, and the reasons therefor, to the claimant by first class mail, along with instructions for filing an appeal.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The claimant may, within 30 days after receipt of the initial determination, or within 30 days after receipt of the decision on reconsideration, appeal the decision to the Board. The Board shall consider the appeal on the record at its next scheduled meeting if the Board has received the appeal and the record at least 5 days before the meeting. Within 20 days after the meeting, the Board shall render its decision in the case or give notice to the claimant that it will hold a hearing. The hearing shall occur within 30 days after the issuance of the notice. The Board shall render its decision in the case within 20 days after the hearing. The Court shall provide the claimant with written notice of the final determination of the claim. If the final determination was made pursuant to a hearing, the notice shall include findings of fact and conclusions of law.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The claimant may agree in writing to a final determination at any time.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Court may reopen a claim at any time if new evidence reveals that the claimant was not eligible, was guilty of contributory misconduct, knowingly provided false information, or suppressed relevant information concerning a claim.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The claimant may have an attorney or other representative present at any appeals proceeding. In addition to the amount of compensation awarded to a successful claimant, a reasonable fee may be awarded to the claimant’s attorney for services rendered in connection with an appeals proceeding under this chapter. The fee may not exceed 10% of the claimant’s award or $500, whichever is less. Except for necessary costs, an attorney shall not charge, demand, receive, or collect a fee for services rendered in connection with a claim under this chapter in an amount larger than permitted by this section. The court shall notify the claimant of the availability of pro bono representation by clinical programs at area law schools.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>A final determination by the Board under this chapter may be appealed to the Chief Judge of the Court. Decisions of the Chief Judge shall be final.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 13, 44 DCR 1142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-432.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-513">14</num>
+    <heading>False claims.</heading>
+    <para>
+      <num>(a)</num>
+      <text>It shall be a misdemeanor to knowingly submit false information or suppress relevant information concerning a claim under this chapter. Law enforcement authorities investigating possible false claims referred by the Court under this section have complete access to the claimant’s files for the purpose of pursuing a false claim investigation.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A person convicted of an offense under this section shall be fined not more than $1,000 or imprisoned for not more than 180 days, or both. A person convicted of an offense under this section forfeits compensation under this chapter and shall repay to the District of Columbia all compensation received pursuant to this chapter. The United States Attorney’s Office shall prosecute crimes under this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 14, 44 DCR 1142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-515">4-515</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-433.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-514">15</num>
+    <heading>Annual report.</heading>
+    <text>The Chief Judge of the Court shall report annually to the Council of the District of Columbia on the status and activities of the Program. The report shall include, but not be limited to, the following information:</text>
+    <para>
+      <num>(1)</num>
+      <text>An explanation of the procedures for filing and processing claims;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A description of the programs and policies instituted to promote public awareness about crime victims compensation;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>An analysis of future needs and suggested Program improvements;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A copy of the application forms utilized under this chapter; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A complete statistical analysis of the cases handled, including the:</text>
+      <para>
+        <num>(A)</num>
+        <text>Number of claims filed;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Number of claims approved and the amount of each award;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Number of claims denied and the reasons for rejection;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Average length of time to process a claim;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Number of contested cases reviewed by the Board and the disposition of those cases;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Number of contested cases reviewed by the Chief Judge and the disposition of those cases;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Number of cases in which a claimant was represented by an attorney or a law student;</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Cumulative total of attorneys’ fees paid;</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>Breakdown of claims by age, sex, and primary language of the victim, type of crime committed, and other relevant facts;</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>Individual amounts of revenues attributable to assessments on misdemeanor and traffic offenses;</text>
+      </para>
+      <para>
+        <num>(K)</num>
+        <text>Number of cases pending, and the future liability of the Fund; and</text>
+      </para>
+      <para>
+        <num>(L)</num>
+        <text>Total amount of program expenditures for benefit payments, personnel, and other administrative costs.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 15, 44 DCR 1142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-434.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-515">16</num>
+    <heading>Crime Victims Compensation Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A fund is established to be administered by the Court and to be known as the Crime Victims Compensation Fund (“Fund”) for the purpose of accounting for the financial operations of this chapter. The Fund shall be maintained as a separate fund in the Treasury of the United States. All amounts deposited to the credit of the Fund are appropriated without fiscal year limitation to make payments as authorized under subsection (e) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>[Repealed.]</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Monies in the Fund shall consist of all funds transferred from the Department of Human Services on April 9, 1997, any appropriations to the Fund under § <cite path="§4-518">4-518</cite>, assessments imposed under § <cite path="§4-516">4-516</cite>, monies recovered through subrogation or repayment under §§ <cite path="§4-509">4-509</cite>, <cite path="§4-510">4-510</cite> and <cite path="§4-513">4-513</cite>, costs assessed under the Victims of Violent Crime Compensation Act of 1981 that are collected after April 9, 1997, any other fines, fees, penalties, or assessments that the Court determines necessary to carry out the purposes of the Fund, and monies received from the federal government or other public or private sources for the purpose of the Fund.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Any unobligated balance existing in the Fund as of the end of each fiscal year (beginning with fiscal year 2000) may be used only in accordance with a plan developed by the District of Columbia which is submitted to the Committees on Appropriations of the Senate and House of Representatives, the Committee on Government Reform of the House of Representatives, and the Committee on Governmental Affairs of the Senate, except that under such plan:</text>
+      <para>
+        <num>(1)</num>
+        <text>50 percent of such balance shall be used for direct compensation payments to crime victims through the Fund under this section and in accordance with this chapter; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>50 percent of such balance shall be transferred from the Fund to the Crime Victims Assistance Fund established by § <cite path="§4-515.01">4-515.01</cite> and shall be used without fiscal year limitation for outreach activities designed to increase the number of crime victims who apply for such direct compensation payments.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d-1)</num>
+      <para>
+        <num>(1)</num>
+        <text>In Fiscal Year 2001, the first $200,000 of the unobligated balance shall be transferred to the Executive Office of the Mayor to fund staff support for the District of Columbia Commission on Violence Against Women.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The remaining funds shall be made available for victims assistance in accordance with a plan developed by the Executive Office of the Mayor and submitted to the Council, excluding days of Council recess. If the Council does not disapprove the proposed plan in whole or in part, by resolution within this 30-day period, the plan shall be deemed approved.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Mayor shall submit an annual report to the Council which details the amount of funds transferred pursuant to this subsection, and all expenditures or disbursements of funds, no later than 90 days after the end of each fiscal year.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>For the purposes of this section “unobligated balance” does not include the amount of claims pending at the end of a fiscal year which have been filed but for which awards have not been made, based on an estimated average cost of each award.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>All compensation payments and attorneys’ fees awarded under this chapter shall be paid from, and subject to, the availability of monies in the Fund. Not more than 5 percent of the total amount of monies in the Fund may be used to pay administrative costs necessary to carry out this chapter.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Superior Court of the District of Columbia shall arrange for an annual independent audit of the Fund. The audit shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>The number of claims satisfied in each fiscal year and the respective amounts awarded;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The number and status of all pending claims;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The unexpended balance in the Fund to be transferred to the victims assistance grants agency pursuant to subsection (d) of this section; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The number of personnel positions and amount of personnel funding and other administrative costs of the Crime Victims Compensation Program.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 16, 44 DCR 1142</annotation>
+        <annotation doc="Pub. L. 106-113">Nov. 29, 1999, 113 Stat. 1527, Pub. L. 106-113, § 160(a)-(d)</annotation>
+        <annotation doc="D.C. Law 13-172">Oct. 19, 2000, D.C. Law 13-172, § 202(d), 47 DCR 6308</annotation>
+        <annotation doc="Pub. L. 106-554">Dec. 21, 2000, 114 Stat. 2763, Pub. L. 106-554, § 1(a)(4), H.R. 5666, Div. A., Ch. 4, § 403(a)</annotation>
+        <annotation>Dec. 21, 2001, 115 Stat. 928, Pub. L. 107-96, par. 19(a), (b)</annotation>
+        <annotation doc="Pub. L. 107-206">Aug. 2, 2002, 116 Stat. 846, Pub. L. 107-206, § 402</annotation>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 1302(a), 49 DCR 6968</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-515.01">4-515.01</cite> and § <cite path="§4-517.01">4-517.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-435.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>Section 160(a) of Public Law 106-113 rewrote subsec. (e), which had read:</annotation>
+        <annotation>“All compensation and attorneys’ fees awarded under this chapter and administrative costs necessary to carry out this chapter shall be paid from, and subject to, the availability of monies in the Fund.”;</annotation>
+        <annotation>Section 160(b) of Public Law 106-113 rewrote subsec. (a) and repealed subsec. (d), which had read:</annotation>
+        <annotation>“(a) A fund is established to be administered by the Court and to be known as the Crime Victims Compensation Fund (’Fund’) for the purpose of accounting for the financial operations of this chapter. Monies in the Fund shall not be commingled with the General Fund, nor shall the operation of the Fund impose a burden or charge on the general fund.”</annotation>
+        <annotation>“(d) The monies in the Fund are not part of, nor shall they lapse into, the General Fund of the District or any other fund of the District, except as provided in this chapter.”; section 160(c) of Public Law 106-113, in subsec. (c), added after “1997,” the second place it appears “any other fines, fees, penalties, or assessments that the Court determines necessary to carry out the purposes of the Fund,”; and section 160(d) of Public Law 106-113 added subsec. (d) to read:</annotation>
+        <annotation>“Any unobligated balance existing in the Fund in excess of $250,000 as of the end of each fiscal year (beginning with fiscal year 2000) shall be transferred to miscellaneous receipts of the Treasury of the United States not later than 30 days after the end of the fiscal year.”.</annotation>
+        <annotation><cite doc="D.C. Law 13-172">D.C. Law 13-172</cite> repealed subsec. (b), added new subsec. (d-1), relating to the use of funds for Fiscal Year 2001, and rewrote subsec. (e), as amended by section 160(a) of Public Law 106-113, and subsec. (f), which had read:</annotation>
+        <annotation>“(e) All compensation and attorneys’ fees awarded under this chapter shall be paid from, and subject to, the availability of monies in the Fund, and no monies in the Fund may be used for any other purpose.</annotation>
+        <annotation>“(f) The Auditor of the District of Columbia shall perform an audit of the Crime Victims Compensation Program that operated pursuant to the Victims of Violent Crime Compensation Act of 1981, effective April 6, 1982 (<cite doc="D.C. Law 4-100">D.C. Law 4-100</cite>;  D.C. Code § <cite path="§3-401">3-401</cite> et seq.), within 30 days of April 9, 1997 and the transfer of the Program to the Court. The audit shall include the number of claims satisfied in calendar years 1994, 1995, and 1996 and the respective amounts awarded; the number and status of all pending claims; the remaining unexpended balance in the Fund to be transferred to the Court for payment to victims and for the administrative costs of the Program; and the number of personnel positions and amount of personnel funding to be transferred to the Court.”</annotation>
+        <annotation>Pub. L. 107-96 rewrote subsecs. (d) and (e), which had read:</annotation>
+        <annotation>“(d) Any unobligated balance existing in the Fund in excess of $250,000 as of the end of each fiscal year (beginning with fiscal year 2000) may be used only in accordance with a plan developed by the District of Columbia and approved by the Committees on Appropriations of the Senate and House of Representatives, the Committee on Government Reform of the House of Representatives, and the Committee on Governmental Affairs of the Senate, and not less than 80 percent of such balance shall be used for direct compensation payments to crime victims through the Fund under this section and in accordance with this subchapter.”</annotation>
+        <annotation>“(e) All compensation and attorneys’ fees awarded under this chapter and administrative costs necessary to carry out this chapter shall be paid from, and subject to, the availability of monies in the Fund. All amounts which are required to be transferred to the victims assistance grants agency for the purpose of victims assistance pursuant to subsection (d) of this section shall be paid from monies in the Fund.”</annotation>
+        <annotation><cite doc="D.C. Law 14-190">D.C. Law 14-190</cite>, in subsec. (d)(2), substituted “to the Crime Victims Assistance Fund established by § 4515.01” for “to the executive branch of the District government.”</annotation>
+        <annotation>Pub. L. 107-206 rewrote subsec. (d)(2) which had read:</annotation>
+        <annotation>“(2) 50 percent of such balance shall be used for outreach activities designed to increase the number of crime victims who apply for such direct compensation payments.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+        <annotation>For temporary (90-day) amendment of section, see § 202(d) of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
+        <annotation>For temporary (90-day) addition of section, see § 842 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 202(d) of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000,  47 DCR 8740).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1302(a) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+        <annotation>For temporary (90 day) addition of § <cite path="§4-515.01">4-515.01</cite>, see § 1302(b) of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of title XIII of Law 14-190: Section 1301 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> provided that title XIII of the act may be cited as the Victims of Violent Crime Compensation Amendment Act of 2002.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 403(b) of Chapter 4 of Division A of H.R. 5666, as enacted by reference by section 1(a)(4) of Pub. L. 106-554, stated that “The amendment made by subsection (a) shall take effect September 30, 2000.”</annotation>
+        <annotation>Pub. L. 107-96, par. (19)(c), 115 Stat. 928, the District of Columbia Appropriations Act, 2002, provided in part:</annotation>
+        <annotation>“The amendments made by this section shall take effect as if included in the enactment of section 403 of the Miscellaneous Appropriations Act, 2001 Pub. L. 106-554, § 1(a)(4), H.R. 5666, Div. A, Ch. 4, § 403 .”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 160(e) of Public Law 106-113 provided: “RATIFICATION OF PAYMENTS AND DEPOSITS.—Any payments made from or deposits made to the Crime Victims Compensation Fund on or after April 9, 1997 are hereby ratified, to the extent such payments and deposits are authorized under the Victims of Violent Crime Compensation Act of 1996 ( D.C. Code, sec. 3-421 et seq.), as amended by this section.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-515.01">16a</num>
+    <heading>Crime Victims Assistance Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a nonlapsing, interest-bearing, revolving fund the Crime Victims Assistance Fund into which shall be deposited the funds described in § <cite path="§4-515">4-515</cite>(d)(2). The Crime Victims Assistance Fund shall be separate from the General Fund of the District of Columbia and administered by the Office of Victim Services.</text>
+    </para>
+    <para>
+      <num>(a-1)</num>
+      <text>The Office of the Chief Financial Officer shall calculate the amount of interest earned by funds accounted for in the Crime Victims Assistance Fund for fiscal year 2003 through fiscal year 2007 and shall deposit that amount in the fund on or before October 1, 2007.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All amounts deposited in the Crime Victims Assistance Fund shall be appropriated without fiscal year limitation to make payments as authorized by subsection (d) of this section pursuant to an act of Congress. All amounts deposited in the Crime Victims Assistance Fund shall not revert to the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall be continually available for the uses and purposes set forth in subsection (d) of this section, subject to authorization by Congress in an appropriations act.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Not more than 5% of the total amount of monies in the Crime Victims Assistance Fund in any given fiscal year may be used to pay administrative costs necessary to implement the requirements of this section in accordance with § <cite path="§4-515">4-515</cite>(d)(2).</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The balance of the Crime Victims Assistance Fund shall be used for outreach activities designed to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Increase the number of crime victims who apply for direct compensation payments, including victims of sexual assault, domestic violence, or child abuse (abuse counseling, health and mental health services, child advocacy centers, emergency housing, emergency child care, transportation, hospital-based informational and referral services, and family support); and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Improve the intake, assessment, screening, and investigation of reports of child abuse and neglect, and domestic violence.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A plan for spending the funds deposited in the Crime Victims Assistance Fund shall be submitted to the Council for approval before funds are expended.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 16a</annotation>
+        <annotation doc="D.C. Law 14-190">as added Oct. 1, 2002, D.C. Law 14-190, § 1302(b), 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 17-20">Sept. 18, 2007, D.C. Law 17-20, § 3012, 54 DCR 7052</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-515">4-515</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-20">D.C. Law 17-20</cite>, in subsec. (a), substituted “nonlapsing, interest-bearing” for “nonlapsing” and substituted “Office of Victim Services” for “Justice Grants Administration”; and added subsec. (a-1).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Temporary Enactment For temporary (225 day) addition, see § 2 of Victims of Domestic Violence Fund Establishment Temporary Act of 2005 (<cite doc="D.C. Law 16-13">D.C. Law 16-13</cite>, July 22, 2005, law notification  52 DCR 7166).</annotation>
+        <annotation>For temporary (225 day) addition, see § 2 of Victims of Domestic Violence Fund Establishment Temporary Act of 2006 (<cite doc="D.C. Law 16-114">D.C. Law 16-114</cite>, June 8, 2006, law notification  53 DCR 5352).</annotation>
+        <annotation>For temporary (225 day) addition, see § 2 of My Sister’s Place, Inc., Grant Authority Temporary Act of 2006 (<cite doc="D.C. Law 16-150">D.C. Law 16-150</cite>, July 25, 2006, law notification  53 DCR 7509).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2 of Victims of Domestic Violence Fund Establishment Emergency Act of 2005 (D.C. Act 16-71, April 25, 2005,  52 DCR 4575).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2 of Victims of Domestic Violence Fund Establishment Emergency Act of 2006 (D.C. Act 16-307, March 2, 2006,  53 DCR 1924).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2 of Victims of Domestic Violence Fund Establishment Congressional Review Emergency Act of 2006 (D.C. Act 16-375, May 19, 2006,  53 DCR 4390).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 3012 of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007,  54 DCR 7549).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 3011 of <cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> provided that subtitle B of title III of the act may be cited as the “Crime Victims Assistance Fund and Shelter and Transitional Housing for Victims of Domestic Violence Fund Amendment Act of 2007”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-516">17</num>
+    <heading>Assessments.</heading>
+    <para>
+      <num>(a)</num>
+      <text>In addition to and separate from punishment imposed, an assessment of $100 for each violation of § <cite path="§50-2201.05">50-2201.05</cite>, an assessment of between $50 and $250 for other serious traffic or misdemeanor offenses, and an assessment of between $100 and $5,000 for each felony offense shall be imposed upon each person convicted of or pleading guilty or nolo contendere to the offense in the Superior Court of the District of Columbia or any other court in which the offense is charged. The decision of the sentencing court regarding assessments is final. If an offender is indigent at the time of sentencing and is later employed for salary, receives compensation while on probation or parole, or is incarcerated in a facility of the Department of Corrections or elsewhere and receives wages or compensation therein, the amount of assessments under this section shall be paid from such salary, wages, or other compensation.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The probation office of the Court shall monitor collection of assessments levied against defendants released on probation. The Department of Corrections shall monitor collection of assessments levied against incarcerated defendants. The District of Columbia Board of Parole shall consider satisfaction of assessments under this section when determining release of inmates eligible for parole. If an inmate is released on parole prior to satisfaction of an assessment, the District of Columbia Board of Parole shall monitor collection of the balance due.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Assessments under this chapter shall be collected as fines. Failure to pay assessments as ordered by the Court will subject a defendant so ordered to sanctions provided pursuant to § <cite path="§16-706">16-706</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 17, 44 DCR 1142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-515">4-515</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-436.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-517">18</num>
+    <heading>Duty of law enforcement agencies.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All law enforcement agencies in the District of Columbia shall inform victims or secondary victims of the existence of the Program and provide application forms to victims and secondary victims.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No law enforcement agency shall be civilly liable for a failure to comply with subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Court shall provide application forms, other documents, and general information that law enforcement agencies may require to comply with this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 18, 44 DCR 1142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-505">4-505</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-437.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-517.01">18a</num>
+    <heading>Crime victims assistance.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The victims assistance grants agency shall have the authority to use the funds transferred pursuant to § <cite path="§4-515">4-515</cite> to award grants and contracts to private nonprofit organizations and to transfer funds to government entities which provide assistance to crime victims.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Repealed.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 18a</annotation>
+        <annotation doc="D.C. Law 13-172">as added Oct. 19, 2000, D.C. Law 13-172, § 202(e), 47 DCR 6308</annotation>
+        <annotation doc="D.C. Law 15-205">Dec. 7, 2004, D.C. Law 15-205, § 1192(f), 51 DCR 8441</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> repealed subsec. (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90-day) addition of section, see § 202(e) of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1192(f) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 1192(f) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|5|I"/>
+    <num codify:value="4-518">19</num>
+    <heading>Appropriations.</heading>
+    <text>Funds may be appropriated as necessary to carry out this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-243">Apr. 9, 1997, D.C. Law 11-243, § 19, 44 DCR 1142</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-515">4-515</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 3-438.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See note to § <cite path="§4-501">4-501</cite>.</annotation>
+        <annotation>For temporary (90 day) addition of § <cite path="§4-519">4-519</cite>, see § 202(e) of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000,  47 DCR 8740).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

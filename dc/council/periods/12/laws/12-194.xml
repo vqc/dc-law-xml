@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 12-194">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 12-194">
   <num type="law">12-194</num>
   <heading type="short">Drug-Related Nuisance Abatement Act of 1998</heading>
   <meta>
@@ -12,4 +12,720 @@
       <narrative>Law 12-194, the “Drug-Related Nuisance Abatement Act of 1998,” was introduced in Council and assigned Bill No. 12-519, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on July 7, 1998 and September 22, 1998, respectively. Signed by the Mayor on October 8, 1998, it was assigned Act No. 12-470 and transmitted to both Houses of Congress for its review. D.C. Law 12-194 became effective on March 26, 1999.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3101">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purpose of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Adverse impact” means the presence of any one or more of the following conditions:</text>
+      <para>
+        <num>(A)</num>
+        <text>Diminished real property value that is related to prostitution, the presence, use, or display of firearms, or the use, sale, or manufacture of controlled substances or drug paraphernalia in or near the property;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Increased fear of residents to walk through or in public areas, including sidewalks, streets, and parks, due to prostitution, the presence, use, or display of firearms, or the use, sale, or manufacture of controlled substances or drug paraphernalia, or violence stemming therefrom;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Increased volume of vehicular and pedestrian traffic to and from the property that is related to prostitution, the presence, use, or display of firearms, or the use, sale, or manufacture of controlled substances or drug paraphernalia in or near the property;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>An increase in the number of ambulance or police calls to the property that are related to prostitution, the presence, use, or display of firearms, or the use, sale, or manufacture of controlled substances or drug paraphernalia, or to violence stemming therefrom;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Bothersome solicitations or approaches by persons wishing to engage in prostitution or to sell controlled substances or drug paraphernalia on or near the property;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>The presence, use, or display of firearms at or near the property;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Investigative purchases of controlled substances or drug paraphernalia, the presence, use, or display of firearms, or investigative actions relating to prostitution by undercover law enforcement officers at or near the property;</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Arrests of persons on or near the property for criminal conduct relating to prostitution, the presence, use, or display of firearms, or the use, sale, or manufacture of controlled substances or drug paraphernalia;</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>Search warrants served or executed at the property relating to prostitution, the presence, use, or display of firearms, or the use, sale, or manufacture of controlled substances or drug paraphernalia;</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>A substantial number of complaints made to law enforcement and other government officials about alleged illegal activity associated with prostitution, the presence, use, or display of firearms, or the use, sale, or manufacture of controlled substances or drug paraphernalia in or near the property; or</text>
+      </para>
+      <para>
+        <num>(K)</num>
+        <text>The presence, use, display, or discharge of a firearm at the property.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Community-based organization” means any group, whether unincorporated or incorporated, affiliated with or organized for the benefit of one or more communities or neighborhoods, of defined geographic boundaries, containing the drug-, firearm-, or prostitution-related nuisance, or any group organized to benefit the quality of life in a residential area containing the alleged drug-, firearm-, or prostitution-related nuisance.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Controlled substance” means any of the controlled substances as defined in § <cite path="§48-901.02">48-901.02</cite>(4).</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Drug paraphernalia” means drug paraphernalia, as defined in § <cite path="§48-1101">48-1101</cite>(3).</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Drug-, firearm-, or prostitution-related nuisance” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>Any real property, in whole or in part, used or intended to be used to facilitate any violation of Chapter 9 of Title 48;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Any real property, in whole or in part, used, or intended to be used, to facilitate prostitution, or that is used or intended to be used to unlawfully store or otherwise keep one or more firearms, or that is used or intended to be used for the sale or manufacture of controlled substances or drug paraphernalia, that has an adverse impact on the community.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Any real property, in whole or in part, used or intended to be used to facilitate any violation of §§ <cite path="§22-2701">22-2701</cite>, <cite path="§22-2703">22-2703</cite>, and <cite path="§22-2723">22-2723</cite>, § <cite path="§22-2701.01">22-2701.01</cite>, § <cite path="§22-2704">22-2704</cite>, §§ <cite path="§22-2705">22-2705</cite> to 22-2712, and § <cite path="§22-2722">22-2722</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5A)</num>
+      <text>“Firearm” shall have the same meaning as provided in § <cite path="§7-2501.01">7-2501.01</cite>(9), except that it shall not include the lawful possession of a firearm by a person who is licensed or otherwise permitted by law to possess the weapon.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Manufacturing” means the production, preparation, propagation, compounding, conversion, or processing of a controlled substance, either directly or indirectly, by extraction from substances of natural origin or independent means of chemical synthesis, including the packaging or repackaging of the drug or labeling or relabeling of its container.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Owner” means the individual, corporation, partnership, trust association, joint venture, or any other business entity, and the respective agents of such individuals or entities, in whom is vested all or any part of the title to the property alleged to be a drug-, firearm-, or prostitution-related nuisance.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Property” means tangible real property, or any interest in real property, including an interest in any leasehold, license or real estate, such as any house, apartment building, condominium, cooperative, office building, storage, restaurant, tavern, nightclub, warehouse, park, median, and the land extending to the boundaries of the lot upon which such structure is situated, and anything growing on, affixed to, or found on the land.</text>
+    </para>
+    <para>
+      <num>(8A)</num>
+      <text>“Prostitution” means prostitution as defined in § <cite path="§22-2701.01">22-2701.01</cite>(1) [now § <cite path="§22-2701.01">22-2701.01</cite>(3)], or any act that violates any provision of §§ <cite path="§22-2701">22-2701</cite>, <cite path="§22-2703">22-2703</cite>, and <cite path="§22-2723">22-2723</cite>, § <cite path="§22-2704">22-2704</cite>, §§ <cite path="§22-2705">22-2705</cite> to 22-2712, and § <cite path="§22-2722">22-2722</cite>.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Tenant” means a person who resides in or occupies real property owned by another person pursuant to a lease agreement, whether written or oral, or pursuant to a tenancy at will or sufferance at common law.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 2, 45 DCR 7982</annotation>
+        <annotation doc="D.C. Law 16-81">Apr. 4, 2006, D.C. Law 16-81, § 3(a), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 112, 53 DCR 6794</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 7(a), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3301.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-81">D.C. Law 16-81</cite>, in subpar. (1)(A), substituted “value that is related to prostitution or the use, sale, or manufacture of controlled substances or drug paraphernalia in or near” for “value which is related to the use, sale, or manufacture of controlled substances or drug paraphernalia in and around”; subpar. (1)(B), substituted “due to prostitution or the use” for “due to the use”; in subpar. (1)(C), substituted “that is related to prostitution or the use, sale, or manufacture of controlled substances or drug paraphernalia in or near” for “which is related to the use, sale, or manufacture of controlled substances or drug paraphernalia in and around”; in subpar. (1)(D), substituted “that are related to prostitution or the use” for “which are related to the use”; in subpar. (1)(E), substituted “wishing to engage in prostitution or to sell” for “wishing to sell”; in subpar. (1)(G), substituted “paraphernalia or investigative actions relating to prostitution by” for “paraphernalia by”; in subpar. (1)(H), substituted “relating to prostitution or the use” for “relating to the use”; in subpar. (1)(I), substituted “relating to prostitution or the use” for “relating to the use”; in subpar. (1)(J), substituted “associated with prostitution or the use, sale, or manufacture of controlled substances or drug paraphernalia in or near” for “associated with the use, sale, or manufacture of controlled substances or drug paraphernalia in and around”; in par. (2), substituted “drug or prostitution-related” for “drug related”, and substituted “drug or prostitution-related” for “drug-related”; in the lead-in language of par. (5), substituted “Drug or prostitution-related” for “Drug-related”; in subpar. (5)(B), struck “or” before “intended”, substituted “facilitate the use, sale, distribution, possession, storage, transportation, or manufacture of any controlled substance or drug paraphernalia which has an adverse impact on the community’ ’ and inserted ”facilitate prostitution or the use, sale, or manufacture of controlled substances or drug paraphernalia that has an adverse impact on the community“; added subpar. (5)(C); in par. (7), substituted ”drug or prostitution-related“ for ”drug-related“; and added par. (8A).</annotation>
+        <annotation><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in pars. (5)(A) and (B), validated previously made technical corrections.</annotation>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite>, in par. (1)(A), substituted “value that is related to prostitution, the presence, use, or display of firearms,” for value that is related to prostitution“; in par. (1)(B), substituted ”due to prostitution, the presence, use, or display of firearms,“ for ”due to prostitution“; in par. (1)(C), substituted ”that is related to prostitution, the presence, use, or display of firearms,“ for ”that is related to prostitution“; in pars. (1)(D), substituted ”that are related to prostitution, the presence, use, or display of firearms,“ for ”that are related to prostitution“; in par. (1)(F), substituted The presence, use, or display of firearms” for “The display of dangerous weapons”; in par. (1)(G), substituted “controlled substances or drug paraphernalia, the presence, use, or display of firearms,” for “controlled substances or drug paraphernalia”; in par. (1)(H), substituted “relating to prostitution, the presence, use, or display of firearms,” for “relating to prostitution”; in par. (1)(I), substituted “relating to prostitution, the presence, use, or display of firearms, or the use” for “relating to prostitution or the use”; in par. (1)(J), substituted “associated with prostitution, the presence, use, or display of firearms,” for “associated with prostitution”; in par. (1)(K), substituted “The presence, use, display, or discharge of a firearm at the property” for “The display discharge of a firearm at the property”; in par. (2), substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related” the two places it appears; in par. (5), substituted “Drug-, firearm-, or prostitution-related” for “Drug or prostitution-related” in the lead-in language, and rewrote subsec. (B); added par. (5A); and, in par. (7), substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related”. Prior to amendment, par. (5)(B) read as follows: “(B) Any real property, in whole or in part, used, or intended to be used, to facilitate prostitution or the use, sale, or manufacture of controlled substances or drug paraphernalia that has an adverse impact on the community; or”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) additions, see §§ 2 to 15 of Drug-Related Nuisance Abatement Temporary Act of 1998 (<cite doc="D.C. Law 12-178">D.C. Law 12-178</cite>, March 26, 1999, law notification  45 DCR 3404).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of this chapter, consisting of §§ 45-3301 through 45-3314 1981 Ed., see §§ 2-14 of the Drug-Related Nuisance Abatement Emergency Act of 1998 (D.C. Act 12-395, October 4, 1998,  45 DCR 4648), §§ 2-14 of the Drug-Related Nuisance Abatement Congressional Review Emergency Act of 1998 (D.C. Act 12-476, October 28, 1998,  45 DCR 8001), and §§ 2-14 of the Drug-Related Nuisance Abatement Second Congressional Review Emergency Act of 1998 (D.C. Act 12-545, December 24, 1998,  45 DCR 490).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3102">3</num>
+    <heading>Action to abate.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Wherever there is reason to believe that a drug-, firearm-, or prostitution-related nuisance exists, the United States Attorney for the District of Columbia, the Corporation Counsel for the District of Columbia, or any community-based organization may file an action in the Superior Court of the District of Columbia to abate, enjoin, and prevent the drug-, firearm-, or prostitution-related nuisance.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Such actions shall be commenced by the filing of a complaint in the Civil Branch of the Superior Court of the District of Columbia against any person alleging the facts constituting the drug-, firearm-, or prostitution-related nuisance.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Such actions shall be in equity and shall be tried without a jury.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 3, 45 DCR 7982</annotation>
+        <annotation doc="D.C. Law 16-81">Apr. 4, 2006, D.C. Law 16-81, § 3(b), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 7(b), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3302.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-81">D.C. Law 16-81</cite> substituted “drug or prostitution-related” for “drug-related”.</annotation>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite> substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see notes to § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3102.01">3a</num>
+    <heading>Authority to obtain law enforcement records.</heading>
+    <text>Upon request by the Attorney General for the District of Columbia, the United States Attorney for the District of Columbia may provide information related to a drug-, firearm-, or prostitution-related property that has been obtained from a law enforcement agency.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 3a</annotation>
+        <annotation doc="D.C. Law 16-81">as added Apr. 4, 2006, D.C. Law 16-81, § 3(c), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 100(a), 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3103">4</num>
+    <heading>Complaint.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The complaint or an affidavit attached thereto shall describe the adverse impact of the drug-, firearm-, or prostitution-related nuisance upon the surrounding community.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The complaint shall contain a description of attempts made by the plaintiff to notify the owner of the property on which the drug-, firearm-, or prostitution-related nuisance is situated about the drug-, firearm-, or prostitution-related nuisance and the resulting adverse impact. No complaint shall be filed unless a reasonable attempt at notice to the owner of the property on which the alleged drug-, firearm-, or prostitution-related nuisance is situated is made no later than 14 days prior to the filing of the complaint. This notice requirement may be satisfied either by a mailing to the last known mailing address of the owner or by posting a conspicuous notice at the property stating the general nature of the drug-, firearm-, or prostitution-related nuisance.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>When an action is brought pursuant to this chapter by a community-based organization, the complaint shall be supported by at least 1 person residing, either as a tenant or otherwise, or owning real property within 3000 feet of the property alleged to be a drug-, firearm-, or prostitution-related nuisance. Said support shall be in the form of an affidavit testifying to the fact that the affiant’s residence is within 3000 feet of the alleged drug-, firearm-, or prostitution-related nuisance, that the affiant has witnessed the activities alleged to constitute a drug-, firearm-, or prostitution-related nuisance, and that the affiant is aware of an adverse impact on the community stemming from the alleged drug-, firearm-, or prostitution-related nuisance.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A copy of the summons and complaint shall be served upon the defendant at least 5 business days prior to the first hearing on the action. Service shall be made in accordance with the Rules of the Superior Court of the District of Columbia or by posting a conspicuous notice at the property indicating the nature of the proceedings, a copy of the summons, and the time and place of the hearing. If service is made by posting at the property, a copy of the summons and complaint shall be sent, by first class mail, postage prepaid, to the last known mailing address, if any, of the defendant. If the defendant is not the owner of the property, a copy of the summons and complaint shall be mailed to the last known mailing address of the owner.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 4, 45 DCR 7982</annotation>
+        <annotation doc="D.C. Law 16-81">Apr. 4, 2006, D.C. Law 16-81, § 3(b), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 7(b), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3108">42-3108</cite> and § <cite path="§42-3111">42-3111</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3303.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-81">D.C. Law 16-81</cite> substituted “drug or prostitution-related” for “drug-related”.</annotation>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite> substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see notes to § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3104">5</num>
+    <heading>Preliminary injunction.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Upon the filing of a complaint to abate the drug-, firearm-, or prostitution-related nuisance, the court shall hold a hearing on the motion for a preliminary injunction, within 10 business days of the filing of such action. If it appears, by affidavit or otherwise, that there is a substantial likelihood that the plaintiff will be able to prove at trial that a drug-, firearm-, or prostitution-related nuisance exists, the court may enter an order preliminarily enjoining the drug-, firearm-, or prostitution-related nuisance and granting such other relief as the court may deem appropriate, including those remedies provided in § <cite path="§42-3110">42-3110</cite>. A plaintiff need not prove irreparable harm to obtain a preliminary injunction. Where appropriate, the court may order a trial of the action on the merits to be advanced and consolidated with the hearing on the motion for preliminary injunction.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This section shall not be construed to prohibit the application for or the granting of a temporary restraining order, or other equitable relief otherwise provided by law.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 5, 45 DCR 7982</annotation>
+        <annotation doc="D.C. Law 16-81">Apr. 4, 2006, D.C. Law 16-81, § 3(b), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 7(b), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3304.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-81">D.C. Law 16-81</cite> substituted “drug or prostitution-related” for “drug-related”.</annotation>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite> substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see notes to § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3105">6</num>
+    <heading>Protection of witnesses.</heading>
+    <text>If proof of the existence of the drug-, firearm-, or prostitution-related nuisance depends, in whole or in part, upon affidavits of witnesses who are not law enforcement officers, the court in its discretion may issue orders to protect those witnesses, including, but not limited to, placing the complaint and supporting affidavits under seal.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 6, 45 DCR 7982</annotation>
+        <annotation doc="D.C. Law 16-81">Apr. 4, 2006, D.C. Law 16-81, § 3(b), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 7(b), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3305.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-81">D.C. Law 16-81</cite> substituted “drug or prostitution-related” for “drug-related”.</annotation>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite> substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see notes to § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3106">7</num>
+    <heading>Conviction not required.</heading>
+    <text>A previous conviction of the defendant, or any tenant or owner of the property, shall not be required to demonstrate a drug-, firearm-, or prostitution-related nuisance.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 7, 45 DCR 7982</annotation>
+        <annotation doc="D.C. Law 16-81">Apr. 4, 2006, D.C. Law 16-81, § 3(b), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 7(b), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3306.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-81">D.C. Law 16-81</cite> substituted “drug or prostitution-related” for “drug-related”.</annotation>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite> substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see notes to § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3107">8</num>
+    <heading>Security.</heading>
+    <text>No security bond shall be required to issue a preliminary injunction or temporary restraining order sought by the United States Attorney for the District of Columbia or by the Corporation Counsel. Otherwise, the court may require a security bond to issue a preliminary injunction or temporary restraining order.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 8, 45 DCR 7982</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3307.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see notes to § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3108">9</num>
+    <heading>Burden of proof.</heading>
+    <text>The plaintiff must establish that a drug-, firearm-, or prostitution-related nuisance exists by a preponderance of the evidence. Once a reasonable attempt at notice is made pursuant to § <cite path="§42-3103">42-3103</cite>, the owner of the property shall be presumed to have knowledge of the drug-, firearm-, or prostitution-related nuisance. A plaintiff is not required to make any further showing that the owner knew, or should have known, of the drug-, firearm-, or prostitution-related nuisance to obtain relief under § <cite path="§42-3110">42-3110</cite> or § <cite path="§42-3111">42-3111</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 9, 45 DCR 7982</annotation>
+        <annotation doc="D.C. Law 16-81">Apr. 4, 2006, D.C. Law 16-81, § 3(b), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 7(b), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3308.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-81">D.C. Law 16-81</cite> substituted “drug or prostitution-related” for “drug-related”.</annotation>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite> substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see notes to § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3109">10</num>
+    <heading>Evidence of reputation.</heading>
+    <text>In an action brought under this chapter, evidence of general reputation of the property or tenants is admissible for the purpose of proving a drug-, firearm-, or prostitution-related nuisance, and for the purpose of proving the knowledge of the defendant of the nuisance.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 10, 45 DCR 7982</annotation>
+        <annotation doc="D.C. Law 16-81">Apr. 4, 2006, D.C. Law 16-81, § 3(b), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 7(b), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3309.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-81">D.C. Law 16-81</cite> substituted “drug or prostitution-related” for “drug-related”.</annotation>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite> substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see notes to § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3110">11</num>
+    <heading>Relief.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If the existence of a drug-, firearm-, or prostitution-related nuisance is found, the court shall enter an order permanently enjoining, abating, and preventing the continuance or recurrence of the nuisance. In order to effectuate fully the equitable remedy of abatement, such order may include damages as provided in § <cite path="§42-3111">42-3111</cite>. The court may grant declaratory relief or any other relief deemed necessary to accomplish the purposes of the judgment. The court may retain jurisdiction of the case for the purpose of enforcing its orders. A drug-, firearm-, or prostitution-related nuisance is a nuisance per se requiring abatement as provided under subsection (b) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any order issued under this section may include the following relief:</text>
+      <para>
+        <num>(1)</num>
+        <text>Assessment of reasonable attorney fees and costs to the prevailing party;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Ordering the owner to make repairs upon the property;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Ordering the owner to make reasonable expenditures upon the property, including the installation of secure locks, hiring private security personnel, increasing lighting in common areas, and using videotaped surveillance of the property and adjacent alleys, sidewalks, or parking lots;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Ordering all rental income from the property to be placed in an escrow account with the court for up to 90 days or until the drug-, firearm-, or prostitution-related nuisance is abated;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Ordering all rental income for the property transferred to a trustee, to be appointed by the court, who shall be empowered to use the rental income to make reasonable expenditures related to the property in order to abate the drug-, firearm-, or prostitution-related nuisance;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Ordering the property vacated, sealed, or demolished; or</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Any other remedy which the court, in its discretion, deems appropriate.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In fashioning an order under this section, the court shall consider, without limitation, the following factors:</text>
+      <para>
+        <num>(1)</num>
+        <text>The extent and duration of the drug-, firearm-, or prostitution-related nuisance and the severity of the adverse impact on the community;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The number of people residing at the property;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The proximity of the property to other residential structures;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The number of times the property has been cited for housing code or health code violations;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The number of times the owner or tenant has been notified of drug-, firearm-, or prostitution-related problems at the property;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Prior efforts or lack of efforts by the defendant to abate the drug-, firearm-, or prostitution-related nuisance;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The involvement of the owner or tenant in the drug-, firearm-, or prostitution-related nuisance;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The costs incurred by the jurisdiction or by the community-based organization in investigating, correcting, or attempting to correct the drug-, firearm-, or prostitution-related nuisance;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Whether the drug-, firearm-, or prostitution-related nuisance was continuous or recurring;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>The economic or financial benefit accruing or likely to accrue to the defendant as a result of the conditions constituting the drug-, firearm-, or prostitution-related nuisance; or</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Any other factor the court deems relevant.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>In fashioning an order under this section, the court shall not consider the lack of action by other property owners, tenants, or third parties to abate the drug-, firearm-, or prostitution-related nuisance.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 11, 45 DCR 7982</annotation>
+        <annotation doc="D.C. Law 16-81">Apr. 4, 2006, D.C. Law 16-81, § 3(b), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 7(b), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3104">42-3104</cite> and § <cite path="§42-3108">42-3108</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3310.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-81">D.C. Law 16-81</cite> substituted “drug or prostitution-related” for “drug-related”.</annotation>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite> substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see notes to § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3111">12</num>
+    <heading>Damages.</heading>
+    <text>In addition to equitable relief granted under this chapter, the plaintiff may request, and the court in its discretion may order damages for each day the drug-, firearm-, or prostitution-related nuisance is unabated since the date the defendant first received notice of the drug-, firearm-, or prostitution-related nuisance as provided in § <cite path="§42-3103">42-3103</cite>, or knew or should have known of the existence of the drug-, firearm-, or prostitution-related nuisance, whichever is earlier. Such damages shall be payable to the plaintiff, or, in the case of an action by the United States Attorney for the District of Columbia or by the Corporation Counsel, to the Drug-, Firearm-, or Prostitution-Related Nuisance Abatement Fund established by § <cite path="§42-3111.01">42-3111.01</cite>. No other damages are recoverable under this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 12, 45 DCR 7982</annotation>
+        <annotation doc="D.C. Law 16-81">Apr. 4, 2006, D.C. Law 16-81, § 3(b), (d), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 7(b), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3108">42-3108</cite> and § <cite path="§42-3110">42-3110</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3311.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-81">D.C. Law 16-81</cite> substituted “drug or prostitution-related” for “drug-related”; and substituted “to the Drug-, Firearm-, or Prostitution-Related Nuisance Abatement Fund established by § <cite path="§42-3111.02">42-3111.02</cite>” for “to the General Fund of the District of Columbia”.</annotation>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite> substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see notes to § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3111.01">12a</num>
+    <heading>Drug-, Firearm-, or Prostitution-Related Nuisance Abatement Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is hereby established a Drug-, Firearm-, or Prostitution-Related Nuisance Abatement Fund (“Fund”), which shall be separate from the General Fund of the District of Columbia. The assets of the Fund shall not exceed $2 million at any time. The Fund shall consist of damages collected in cases brought pursuant to this chapter and any additional funds Congress may make available to the Fund. Such funds shall be deposited in the Fund upon receipt. The funds in the Fund shall not revert to the General Fund of the District of Columbia at the end of any fiscal year, but shall remain available for the purposes set forth in this section, subject to authorization and appropriation by Congress. Any balance in excess of $2 million shall be deposited in the General Fund of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The funds in the Fund shall be available for use by the Attorney General to carry out the enforcement of this chapter, including all costs reasonably related to prosecuting cases and conducting investigations pursuant to this chapter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Disbursements made from the Fund to the Office of Attorney General or other appropriate agency shall be used to supplement and not supplant the Office of the Attorney General’s appropriated operating budget.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 12a</annotation>
+        <annotation doc="D.C. Law 16-81">as added Apr. 4, 2006, D.C. Law 16-81, § 3(e), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 100(b), 59 DCR 6190</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3111">42-3111</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “Drug-, Firearm-, or Prostitution-Related” for “Drug or Prostitution-Related” in the section heading and in the first sentence of (a).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3112">13</num>
+    <heading>Violation of injunction or abatement order.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A violation of any court order issued under this chapter is punishable as a contempt of court.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Upon finding that a defendant has willfully violated an order issued under this chapter, the court may issue any additional orders necessary to abate the drug-, firearm-, or prostitution-related nuisance.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Upon motion, the court may vacate an order or judgment of abatement if the owner of the property satisfies the court that the drug-, firearm-, or prostitution-related nuisance has been abated for 90 days prior to the motion, corrects all housing code and health code violations on the property, and deposits a bond in an amount to be determined by the court, which shall be in an amount reasonably calculated to ensure continued abatement of the nuisance. Any bond posted under this subsection shall be forfeited immediately if the drug-, firearm-, or prostitution-related nuisance recurs during the 2-year period following the date on which an order under this section is entered. At the close of 2 years following the date on which an order under this section is entered, the bond shall be returned.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 13, 45 DCR 7982</annotation>
+        <annotation doc="D.C. Law 16-81">Apr. 4, 2006, D.C. Law 16-81, § 3(b), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 7(b), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3312.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-81">D.C. Law 16-81</cite> substituted “drug or prostitution-related” for “drug-related”.</annotation>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite> substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see notes to § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3113">14</num>
+    <heading>Interpretation.</heading>
+    <text>This chapter shall be construed liberally in accordance with its remedial purposes. The definition of a drug-, firearm-, or prostitution-related nuisance shall not be subject to any restrictions or limitations upon public or private nuisance actions at common law. This action is civil in nature and none of its provisions should be interpreted as punishment.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 14, 45 DCR 7982</annotation>
+        <annotation doc="D.C. Law 16-81">Apr. 4, 2006, D.C. Law 16-81, § 3(b), 53 DCR 1050</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 7(b), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3313.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-81">D.C. Law 16-81</cite> substituted “drug or prostitution-related” for “drug-related”.</annotation>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite> substituted “drug-, firearm-, or prostitution-related” for “drug or prostitution-related”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see notes to § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|31"/>
+    <num codify:value="42-3114">15</num>
+    <heading>Availability of other remedies.</heading>
+    <text>The provisions of this chapter shall not limit the availability of other remedies under the law or other equitable relief whether or not an adequate remedy exists at law.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 12-194">Mar. 26, 1999, D.C. Law 12-194, § 15, 45 DCR 7982</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-3314.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>See Historical and Statutory Notes following § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see notes to § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 95-94">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 95-94">
   <num>95-94</num>
   <meta>
     <effective>1977-08-05</effective>
@@ -10,5 +10,22 @@
   <container>
     <prefix>Title</prefix>
     <num>IV</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§50-2201.27" path="|50|22|I|B"/>
+      <num codify:value="50-2201.26">410</num>
+      <heading>Issuance of duplicate congressional tags.</heading>
+      <text>Each Senator, member of the House of Representatives, and other individual who is authorized by law to be issued a congressional tag for his automobile shall, upon application therefor, be entitled to be issued a duplicate tag bearing the same number.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 95-94">Aug. 5, 1977, 91 Stat. 684, Pub. L. 95-94, title IV, § 410</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 40-709.</annotation>
+          <annotation>1973 Ed., § 40-603c.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
 </document>

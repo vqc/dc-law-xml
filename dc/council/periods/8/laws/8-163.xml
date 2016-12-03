@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 8-163">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 8-163">
   <num type="law">8-163</num>
   <heading type="short">OFFICE OF ZONING INDEPENDENCE ACT OF 1990</heading>
   <meta>
@@ -12,4 +12,116 @@
       <narrative>Law 8-163 was introduced in Council and assigned Bill No. 8-118, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on May 29, 1990, and June 12, 1990, respectively. Approved without the signature of the Mayor on June 29, 1990, it was assigned Act No. 8-227 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|6|III|B"/>
+    <num codify:value="6-623.01">2</num>
+    <heading>Office of Zoning — Established.</heading>
+    <text>There is established as an independent agency of the District of Columbia (“District”) government an Office of Zoning to provide professional, technical, or administrative staff assistance to the Zoning Commission for the District (“Zoning Commission”) and to the Board of Zoning Adjustment in the performance of their functions and any other duties provided by law.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-163">Sept. 20, 1990, D.C. Law 8-163, § 2, 37 DCR 4676</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-623.03">6-623.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-412.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90-day) provisions regarding the source of funding, see § 305 of the Service Improvement and Fiscal Year 2000 Budget Support Emergency Act of 1999 (D.C. Act 13-110, July 28, 1999,  46 DCR 6320).</annotation>
+        <annotation>For temporary (90 day) Office of Zoning additional space need provisions, see § 1202 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) Office of Zoning additional space need provisions, see § 1202 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle S of title I of Law 15-205: Section 1201 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle S of title I of the act may be cited as Office of Zoning Additional Space Needs Act of 2004.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 1202 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided: “Not later than September 30, 2004, the Office of Property Management shall provide additional space within the District government office building located at 441  4th Street, N.W. (‘One Judiciary Square’) to the Office of Zoning (‘OZ’) to address OZ’s increased space requirements. The additional space to be provided shall include the Suite 200-S and other space on the second floor of One Judiciary Square.”</text>
+        <text>Section effective October 1, 1991: Section 7(b) of <cite doc="D.C. Law 8-163">D.C. Law 8-163</cite> provided that the provisions of the act shall not apply until October 1, 1991.</text>
+        <text>Section 305 of <cite doc="D.C. Law 13-38">D.C. Law 13-38</cite> provided: “The exclusive source of funding for the Office of Zoning shall be appropriated local funds.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|6|III|B"/>
+    <num codify:value="6-623.02">3</num>
+    <heading>Office of Zoning — Director and staff; appointment.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Office of Zoning shall consist of a Director and other staff as the Zoning Commission considers necessary.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Director of the Office of Zoning shall be appointed by the District members of the Zoning Commission and shall serve as an excepted service employee in accordance with § <cite path="§1-609.01">1-609.01</cite>. The Director shall be a District resident throughout his or her term and failure to maintain District residency shall result in a forfeiture of the position.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Notwithstanding the provisions of Unit A of Chapter 14 of Title 2, each qualified District resident applicant shall receive an additional 10-point preference over a qualified non-District resident applicant for all positions within the Office of Zoning unless the applicant declines the preference. This 10-point preference shall be in addition to, and not instead of, qualifications established for the position. All persons hired after February 6, 2008, shall submit proof of residency upon employment in a manner determined by the Office of Zoning. An applicant claiming the hiring preference under this section shall agree in writing to maintain bona fide District residency for a period of 7 consecutive years from the effective date of hire and shall provide proof of such residency annually to the director of personnel for the Office of Zoning for the first 7 years of employment. Failure to maintain District residency for the consecutive 7-year period shall result in forfeiture of employment. The Office shall submit to the Mayor and Council annual reports detailing the names of all new employees and their pay schedules, titles, and place of residence.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-163">Sept. 20, 1990, D.C. Law 8-163, § 3, 37 DCR 4676</annotation>
+        <annotation doc="D.C. Law 17-108">Feb. 6, 2008, D.C. Law 17-108, § 209, 54 DCR 10993</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-412.2.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-108">D.C. Law 17-108</cite> rewrote the section which had read as follows: “The Office of Zoning shall consist of a Director and other staff as the Zoning Commission deems necessary, subject to appropriations. The Director of the Office of Zoning shall be appointed by the District members of the Zoning Commission and shall serve as an excepted service employee in accordance with § <cite path="§1-609.01">1-609.01</cite>.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section effective October 1, 1991: Section 7(b) of <cite doc="D.C. Law 8-163">D.C. Law 8-163</cite> provided that the provisions of the act shall not apply until October 1, 1991.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|6|III|B"/>
+    <num codify:value="6-623.03">4</num>
+    <heading>Office of Zoning — Transfer of functions of Zoning Secretariat of Office of Planning.</heading>
+    <text>In accordance with § <cite path="§1-204.04">1-204.04</cite>(b), the functions of the Zoning Secretariat of the Office of Planning, under the direction of the Deputy Mayor for Economic Development pursuant to the Establishment of the Office of Economic Development, effective January 3, 1983 (M.O. 83-18; 30 DCR 319  ), and any position, property, record, unexpended balance of appropriations, allocation, or other funds available to or to be made available relating to the functions of the Zoning Secretariat of the Office of Planning, are transferred to the Office of Zoning established by § <cite path="§6-623.01">6-623.01</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-163">Sept. 20, 1990, D.C. Law 8-163, § 4, 37 DCR 4676</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-412.3.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section effective October 1, 1991: Section 7(b) of <cite doc="D.C. Law 8-163">D.C. Law 8-163</cite> provided that the provisions of the act shall not apply until October 1, 1991.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|6|III|B"/>
+    <num codify:value="6-623.04">5</num>
+    <heading>Office of Zoning — Recommendations, reports, review and comment by Office of Planning.</heading>
+    <text>Nothing in this part shall be construed to prevent the Office of Planning from continuing to provide recommendations and reports to the Zoning Commission and the Board of Zoning Adjustment on any zoning case. The Office of Planning shall review and comment upon all zoning cases, and the Zoning Commission and the Board of Zoning Adjustment shall give great weight to the recommendation of the Office of Planning. Upon request of the Zoning Commission or the Board of Zoning Adjustment, the Office of Planning shall provide recommendations, information, or technical assistance in a timely manner.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-163">Sept. 20, 1990, D.C. Law 8-163, § 5, 37 DCR 4676</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-412.4.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section effective October 1, 1991: Section 7(b) of <cite doc="D.C. Law 8-163">D.C. Law 8-163</cite> provided that the provisions of the act shall not apply until October 1, 1991.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 108-199">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 108-199">
   <num>108-199</num>
   <meta>
     <effective>2004-01-23</effective>
@@ -7,4 +7,163 @@
       <law session="108" lawId="199"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18M"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1851.01">303</num>
+    <heading>Purpose.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 108-199">Jan. 23, 2004, 118 Stat. 127, Pub. L. 108-199, § 303</annotation>
+        <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, § 3012(a)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 301 of Pub. L. 108-199 provided that: “This title may be cited as the ‘D.C. School Choice Incentive Act of 2003.”’</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18M"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1851.02">312</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 108-199">Jan. 23, 2004, 118 Stat. 134, Pub. L. 108-199, § 312</annotation>
+        <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, § 3012(a)</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18M"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1851.03">304</num>
+    <heading>General authority.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 108-199">Jan. 23, 2004, 118 Stat. 127, Pub. L. 108-199, § 304</annotation>
+        <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, § 3012(a)</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18M"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1851.04">305</num>
+    <heading>Applications.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 108-199">Jan. 23, 2004, 118 Stat. 128, Pub. L. 108-199, § 305</annotation>
+        <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, § 3012(a)</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18M"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1851.05">306</num>
+    <heading>Priorities.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 108-199">Jan. 23, 2004, 118 Stat. 129, Pub. L. 108-199, § 306</annotation>
+        <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, § 3012(a)</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18M"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1851.06">307</num>
+    <heading>Use of funds.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 108-199">Jan. 23, 2004, 118 Stat. 129, Pub. L. 108-199, § 307</annotation>
+        <annotation doc="Pub. L. 109-432">Dec. 20, 2006, 120 Stat. 3053, Pub. L. 109-432, Div. C, Title III, § 404(a)</annotation>
+        <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, § 3012(a)</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18M"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1851.07">308</num>
+    <heading>Nondiscrimination.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 108-199">Jan. 23, 2004, 118 Stat. 130, Pub. L. 108-199, § 308</annotation>
+        <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, § 3012(a)</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18M"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1851.08">309</num>
+    <heading>Evaluations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 108-199">Jan. 23, 2004, 118 Stat. 131, Pub. L. 108-199, § 309</annotation>
+        <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, § 3012(a)</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18M"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1851.09">310</num>
+    <heading>Reporting requirements.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 108-199">Jan. 23, 2004, 118 Stat. 133, Pub. L. 108-199, § 310</annotation>
+        <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, § 3012(a)</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18M"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1851.10">311</num>
+    <heading>Other requirements for participating schools.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 108-199">Jan. 23, 2004, 118 Stat. 133, Pub. L. 108-199, § 311</annotation>
+        <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, § 3012(a)</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|18M"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-1851.11">313</num>
+    <heading>Authorization of appropriations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 108-199">Jan. 23, 2004, 118 Stat. 134, Pub. L. 108-199, § 313</annotation>
+        <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, § 3012(a)</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 18-313">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 18-313">
   <num type="law">18-313</num>
   <heading type="short">District of Columbia Uniform Law Commission Act of 2010</heading>
   <meta>
@@ -12,4 +12,143 @@
       <narrative>Law 18-313, the “District of Columbia Uniform Law Commission Act of 2010”, was introduced in Council and assigned Bill No. 18-579, which was referred to the Committee on Public Safety and the Judiciary. The Bill was adopted on first and second readings on November 9, 2010, and November 23, 2010, respectively. Signed by the Mayor on December 9, 2010, it was assigned Act No. 18-634 and transmitted to both Houses of Congress for its review. D.C. Law 18-313 became effective on March 12, 2011.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|14A"/>
+    <num codify:value="3-1431">2</num>
+    <heading>Uniform Law Commission.</heading>
+    <text>There is established a District of Columbia Uniform Law Commission (“Commission”). Members of the Commission shall serve as the official commissioners of the District of Columbia to the National Conference of Commissioners on Uniform State Laws (“NCCUSL”).</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-313">Mar. 12, 2011, D.C. Law 18-313, § 2, 57 DCR 12401</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|14A"/>
+    <num codify:value="3-1432">3</num>
+    <heading>Commission membership and organization.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission shall consist of the following commissioners:</text>
+      <para>
+        <num>(1)</num>
+        <text>Three commissioners appointed by the Mayor;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>One commissioner appointed by the Council of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>One commissioner appointed by the Chief Judge of the Superior Court of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The General Counsel to the Council of the District of Columbia, or his or her designee; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Any resident of the District of Columbia who, because of long service in the cause of the uniformity of state legislation, shall have been elected a life member of the NCCUSL.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>To be eligible to serve as a member of the Commission, an individual must be a resident of the District of Columbia and must be a member in good standing of the District of Columbia Bar.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A commissioner appointed pursuant to subsection (a)(1), (2), or (3) of this section shall serve a term of 3 years, beginning on July 1 of the year of appointment, or until a successor is appointed, whichever is later. A commissioner appointed to fill a vacancy on the Commission shall serve for the unexpired portion of the term, or until a successor is appointed, whichever is later.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A person serving as a NCCUSL commissioner as of March 12, 2011, may continue to serve until the expiration of his or her term, or until a successor is appointed, whichever occurs later.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-313">Mar. 12, 2011, D.C. Law 18-313, § 3, 57 DCR 12401</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|14A"/>
+    <num codify:value="3-1433">4</num>
+    <heading>Commission responsibilities and duties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Commissioners shall advise the Mayor, the Council, and Council committees concerning:</text>
+      <para>
+        <num>(1)</num>
+        <text>Proposals for uniform and model state laws;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The effect that the proposals would have on the laws of the District of Columbia; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Other matters pertinent to the desirable uniformity in legislation between the District and other jurisdictions.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>Each commissioner shall attend the meetings of the NCCUSL and, both within and out of the NCCUSL, do all in his or her power to promote uniformity in state laws in all subjects in which uniformity is desirable and practicable.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Each commissioner may:</text>
+        <para>
+          <num>(A)</num>
+          <text>Participate in all the activities of the NCCUSL;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Participate in the votes of the states and other votes of the NCCUSL;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Be appointed to serve on any committee of the NCCUSL; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Be appointed or elected to any office of the NCCUSL.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The District may expend funds necessary to cover the costs of commissioners’ attendance at the annual meeting as required under paragraph (1) of this subsection, the annual dues for the NCCUSL, and any other expenses as required.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The commissioners shall submit a report to the Mayor, the Chairperson of the Council, and the Chief Judge of the Superior Court of the District of Columbia after each annual meeting, and from time to time thereafter as the commissioners consider proper, summarizing the activities of the Commission and the NCCUSL during the previous year.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-313">Mar. 12, 2011, D.C. Law 18-313, § 4, 57 DCR 12401</annotation>
+        <annotation doc="D.C. Law 20-61">Dec. 24, 2013, D.C. Law 20-61, § 1082, 60 DCR 12472</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> added (b)(3).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 1082 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 1082 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Section 1081 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle I of Title I of the act may be cited as the “District of Columbia Amendment Act of 2013”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 11001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

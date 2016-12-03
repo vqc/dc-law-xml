@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 8-139" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 8-139" flag="true">
   <num type="law">8-139</num>
   <heading type="short">Residential Drug-Related Evictions Amendment Act of 1990</heading>
   <meta>
@@ -12,4 +12,250 @@
       <narrative>Law 8-139, the “Residential Drug-Related Evictions Amendment Act of 1990,” was introduced in Council and assigned Bill No. 8-194, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on March 13, 1990, and March 27, 1990, respectively. Signed by the Mayor on April 17, 1990, it was assigned Act No. 8-195 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36|II"/>
+    <num codify:value="42-3631">2</num>
+    <heading>Definitions.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-139">June 13, 1990, D.C. Law 8-139, § 2, 37 DCR 2645</annotation>
+        <annotation doc="D.C. Law 11-176">Apr. 9, 1997, D.C. Law 11-176, § 2(a), 43 DCR 4234</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2559.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Abatement of Controlled Dangerous Substances Nuisance Temporary Amendment Act of 1998 (<cite doc="D.C. Law 12-158">D.C. Law 12-158</cite>, October 7, 1998, law notification  45 DCR 7576).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(a) of the Drug House Abatement Emergency Amendment Act of 1996 (D.C. Act 11-446, December 5, 1996,  43 DCR 6664).</annotation>
+        <annotation>For temporary amendment of section, see § 2 of the Abatement of Controlled Dangerous Substances Nuisances Emergency Amendment Act of 1998 (D.C. Act 12-376, June 5, 1998,  45 DCR 4461), § 2 of the Abatement of Controlled Dangerous Substances Nuisances Legislative Review Emergency Amendment Act of 1998 (D.C. Act 12-424, July 31, 1998,  45 DCR 5680), and § 2 of the Abatement of Controlled Dangerous Substances Nuisances Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-513, November 18, 1998,  45 DCR 9047).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 8-139</text>
+        <text>Section 12(b) of <cite doc="D.C. Law 8-139">D.C. Law 8-139</cite> provided that the act shall expire 10 years after the effective date of the act. <cite doc="D.C. Law 8-139">D.C. Law 8-139</cite> became effective on June 13, 1990.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36|II"/>
+    <num codify:value="42-3632">3</num>
+    <heading>Action for possession of rental unit used as a drug haven.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-139">June 13, 1990, D.C. Law 8-139, § 3, 37 DCR 2645</annotation>
+        <annotation doc="D.C. Law 11-176">Apr. 9, 1997, D.C. Law 11-176, § 2(b), 43 DCR 4234</annotation>
+        <annotation doc="D.C. Law 11-274">June 3, 1997, D.C. Law 11-274, § 19(a), 44 DCR 1232</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2559.2.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(b) of the Drug House Abatement Emergency Amendment Act of 1996 (D.C. Act 11-446, December 5, 1996,  43 DCR 6664).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 8-139</text>
+        <text>See Historical and Statutory Notes following § <cite path="§42-3631">42-3631</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36|II"/>
+    <num codify:value="42-3633">4</num>
+    <heading>Preliminary injunction review.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-139">June 13, 1990, D.C. Law 8-139, § 4, 37 DCR 2645</annotation>
+        <annotation doc="D.C. Law 11-176">Apr. 9, 1997, D.C. Law 11-176, § 2(c), 43 DCR 4234</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2559.3.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(c) of the Drug House Abatement Emergency Amendment Act of 1996 (D.C. Act 11-446, December 5, 1996,  43 DCR 6664).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 8-139</text>
+        <text>See Historical and Statutory Notes following § <cite path="§42-3631">42-3631</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36|II"/>
+    <num codify:value="42-3634">5</num>
+    <heading>Full hearing.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-139">June 13, 1990, D.C. Law 8-139, § 5, 37 DCR 2645</annotation>
+        <annotation doc="D.C. Law 11-176">Apr. 9, 1997, D.C. Law 11-176, § 2(d), 43 DCR 4234</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2559.4.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(d) of the Drug House Abatement Emergency Amendment Act of 1996 (D.C. Act 11-446, December 5, 1996,  43 DCR 6664).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 8-139</text>
+        <text>See Historical and Statutory Notes following § <cite path="§42-3631">42-3631</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36|II"/>
+    <num codify:value="42-3635">6</num>
+    <heading>Default judgment.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-139">June 13, 1990, D.C. Law 8-139, § 6, 37 DCR 2645</annotation>
+        <annotation doc="D.C. Law 11-176">Apr. 9, 1997, D.C. Law 11-176, § 2(e), 43 DCR 4234</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2559.5.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(e) of the Drug House Abatement Emergency Amendment Act of 1996 (D.C. Act 11-446, December 5, 1996,  43 DCR 6664).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 8-139</text>
+        <text>See Historical and Statutory Notes following § <cite path="§42-3631">42-3631</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36|II"/>
+    <num codify:value="42-3636">7</num>
+    <heading>Complaint by affected tenant or resident association.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-139">June 13, 1990, D.C. Law 8-139, § 7, 37 DCR 2645</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2559.6.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 8-139</text>
+        <text>See Historical and Statutory Notes following § <cite path="§42-3631">42-3631</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36|II"/>
+    <num codify:value="42-3637">8</num>
+    <heading>Mayor’s authority and responsibility.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-139">June 13, 1990, D.C. Law 8-139, § 8, 37 DCR 2645</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2559.7.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 8-139</text>
+        <text>See Historical and Statutory Notes following § <cite path="§42-3631">42-3631</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36|II"/>
+    <num codify:value="42-3638">8a</num>
+    <heading>Court costs and attorney’s fees.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-139">June 13, 1990, D.C. Law 8-139, § 8a</annotation>
+        <annotation doc="D.C. Law 11-176">Apr. 9, 1997, D.C. Law 11-176, § 2(f), 43 DCR 4234</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2559.7a.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of section, see § 2(f) of the Drug House Abatement Emergency Amendment Act of 1996 (D.C. Act 11-446, December 5, 1996,  43 DCR 6664).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36|II"/>
+    <num codify:value="42-3639">9</num>
+    <heading>Definitions.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-139">June 13, 1990, D.C. Law 8-139, § 9, 37 DCR 2645</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2559.8.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 8-139</text>
+        <text>See Historical and Statutory Notes following § <cite path="§42-3631">42-3631</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|36|II"/>
+    <num codify:value="42-3640">10</num>
+    <heading>Availability of other remedies.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-139">June 13, 1990, D.C. Law 8-139, § 10, 37 DCR 2645</annotation>
+        <annotation doc="D.C. Law 11-176">Apr. 9, 1997, D.C. Law 11-176, § 2(g), 43 DCR 4234</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2559.9.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(g) of the Drug House Abatement Emergency Amendment Act of 1996 (D.C. Act 11-446, December 5, 1996,  43 DCR 6664).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 8-139</text>
+        <text>See Historical and Statutory Notes following § <cite path="§42-3631">42-3631</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

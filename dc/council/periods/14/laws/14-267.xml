@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 14-267">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 14-267">
   <num type="law">14-267</num>
   <heading type="short">Vacant and Abandoned Properties Community Development and Disapproval of Disposition of Certain Scattered Vacant and Abandon Properties Act of 2002</heading>
   <meta>
@@ -12,4 +12,833 @@
       <narrative>Law 14-267, the “Vacant and Abandoned Properties Community Development and Disapproval of Disposition of Certain Scattered Vacant and Abandon Properties Act of 2002”, was introduced in Council and assigned Bill No. 14-675, which was referred to the Committee on Economic Development. The Bill was adopted on first and second readings on December 3, 2002, and December 17, 2002, respectively. Signed by the Mayor on January 7, 2003, it was assigned Act No. 14-579 and transmitted to both Houses of Congress for its review. D.C. Law 14-267 became effective on April 2, 2003.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|8|II"/>
+    <num codify:value="10-831">2</num>
+    <heading>Properties subject to disposition.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor may dispose of real property that is, or has previously been determined to be, abandoned or deteriorated property, as those terms are defined in § <cite path="§42-3171.01">42-3171.01</cite>, under this subchapter if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The property is owned or acquired by the District;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The property is suitable for, and the Mayor proposes construction, reconstruction, or rehabilitation as, a single-household property or a multi-household property containing 25 or fewer single-household dwelling units; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <para>
+          <num>(A)</num>
+          <text>The property is listed in § <cite path="§10-839">10-839</cite>; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Disposition of the property pursuant to this subchapter is approved by the Council pursuant to a proposed resolution transmitted by the Mayor for a 5-day period of review, excluding days of Council recess. If no Councilmember introduces a disapproval resolution within the 5-day period, the resolution shall be deemed approved at the end of the 5-day period. If a resolution of disapproval is introduced by at least 3 Councilmembers within the 5-day period, the Council review period shall be 45 days from the date the Mayor transmitted the proposed resolution to the Council, excluding days of Council recess. If the Council does not approve the disapproval resolution within the 45-day period, the resolution shall be deemed approved.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The authority of the Mayor under this subchapter shall expire on September 30, 2011.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The process for disposing of any property pursuant to this subchapter shall be conducted solely pursuant to the requirements set forth in this subchapter and shall not be subject to any other statutory provision governing the process for the disposition of real property, nor shall any property disposed of pursuant to this subchapter be subject to the prerequisites to disposition of property set forth in § <cite path="§42-3171.03">42-3171.03</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-267">Apr. 2, 2003, D.C. Law 14-267, § 2, 50 DCR 420</annotation>
+        <annotation doc="D.C. Law 15-205">Dec. 7, 2004, D.C. Law 15-205, § 2002(a), 51 DCR 8441</annotation>
+        <annotation doc="D.C. Law 16-119">June 8, 2006, D.C. Law 16-119, § 3(a), 53 DCR 2609</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-839">10-839</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> rewrote pars. (1) and (2) of subsec. (a); in subsec. (b), substituted “2006” for “2004”; and added subsec. (c).</annotation>
+        <annotation><cite doc="D.C. Law 16-119">D.C. Law 16-119</cite>, in par. (a)(2), substituted “a single-household property or a multi- household property containing 25 or fewer single-household dwelling units” for “a single-household residence or a multi-household residence of 5 or fewer units”; and in subsec. (b), substituted “2011” for “2006”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 2 of Abandoned and Vacant Properties Community Development Disposition, and Disapproval of Disposition of Certain Scattered Vacant and Abandoned Properties Temporary of 2002 (<cite doc="D.C. Law 14-203">D.C. Law 14-203</cite>, October 17, 2002, law notification  49 DCR 10021).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2002(a) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2002(a) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle A of title II of Law 15-205: Section 2001 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle A of title II of the act may be cited as the Vacant and Abandoned Properties Amendment Act of 2004.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of the Mayor’s Disposition Authority to the Deputy Mayor for Planning and Economic Development to Dispose of Certain Vacant and Abandoned Real Property in the District of Columbia, see Mayor’s Order 2005-189, December 2, 2005 ( 53 DCR 693).</annotation>
+        <annotation>Delegation of Authority to the Director of the Department of Housing and Community Development, see Mayor’s Order 2007-209, September 27, 2007 ( 55 DCR 133).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Resolutions</heading>
+        <annotation>Resolution 16-204, the “Vacant and Abatement Properties Community Development Disposition Approval Resolution of 2005”, was approved effective June 13, 2005.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 11 of <cite doc="D.C. Law 14-267">D.C. Law 14-267</cite> provided: “The Disposition of Certain Scattered Vacant and Abandoned Properties Approval Resolution of 2002, introduced on March 1, 2002 (P.R. 14-585), is disapproved.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|8|II"/>
+    <num codify:value="10-832">3</num>
+    <heading>Method of disposition.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A property disposed of pursuant to this subchapter shall be disposed of pursuant to a request for proposals (“RFP”) issued by the Mayor.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A single-household property disposed of pursuant to this subchapter shall be disposed of as part of a bundle of at least 5 properties and not more than 25 properties. A property improved as a multi-household property containing at least 5 single-household dwelling units and no more than 25 single-household dwelling units may be disposed of individually or as part of a bundle of up to 25 properties.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>At least 30% of all single-household dwelling units, irrespective of whether they are single-household dwelling units contained in a multi-household property or in a single-household property, in each bundle of property disposed of pursuant to an RFP, or such greater proportion determined by the Mayor, shall be sold or rented at a price affordable to a household earning 60% or less of the area median income. If the number representing 30% of the single-household dwelling units is not a whole a number, the Mayor may round to the next lower whole number.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Each property shall be disposed of on an as-is basis.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-267">Apr. 2, 2003, D.C. Law 14-267, § 3, 50 DCR 420</annotation>
+        <annotation doc="D.C. Law 16-119">June 8, 2006, D.C. Law 16-119, § 3(b), 53 DCR 2609</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-835">10-835</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-119">D.C. Law 16-119</cite> added subsecs. (c) and (d); and rewrote subsec. (b), which had read as follows: “(b) A property disposed of pursuant to this subchapter shall be disposed of as part of a bundle of at least 5, and not more than 25 properties.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 3 of Abandoned and Vacant Properties Community Development Disposition, and Disapproval of Disposition of Certain Scattered Vacant and Abandoned Properties Temporary of 2002 (<cite doc="D.C. Law 14-203">D.C. Law 14-203</cite>, October 17, 2002, law notification  49 DCR 10021).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|8|II"/>
+    <num codify:value="10-833">4</num>
+    <heading>Minimum standards for disposition.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A request for proposals issued pursuant to this subchapter shall contain the following provisions:</text>
+      <para>
+        <num>(1)</num>
+        <text>No person shall be eligible to purchase a property disposed of pursuant to this subchapter unless the person first signs a first source employment agreement.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No person shall be eligible to purchase a property disposed of pursuant to this subchapter unless the person first signs a certificate evidencing the person’s intent to enter into a memorandum of understanding with the Department of Small and Local Business Development, established by § <cite path="§2-218.11">2-218.11</cite>, to make a good-faith effort to contract with, and procure from, local, small, and disadvantaged business enterprises (“LSDBE MOUs”). The contents of the certificate and the memorandum shall be determined by the Department of Small and Local Business Development, established by § <cite path="§2-218.11">2-218.11</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Each property disposed of pursuant to the RFP shall be rehabilitated and offered for sale or rental to the public in no more than 12 months, or such shorter period determined by the Mayor, after the disposition of the property.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Repealed.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Repealed.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor may establish other minimum standards as part of the RFP.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall list all known minimum requirements as part of the RFP.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-267">Apr. 2, 2003, D.C. Law 14-267, § 4, 50 DCR 420</annotation>
+        <annotation doc="D.C. Law 16-119">June 8, 2006, D.C. Law 16-119, § 3(c), 53 DCR 2609</annotation>
+        <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 42, 53 DCR 6794</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-835">10-835</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-119">D.C. Law 16-119</cite>, in par. (a)(3), substituted “offered for sale or rental” for “offered for sale”; and repealed pars. (a)(4) and (a)(5).</annotation>
+        <annotation><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in subsec. (a)(2), substituted “Department of Small and Local Business Development, established by § <cite path="§2-218.11">2-218.11</cite>” for “Office of Local Business Development”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 4 of Abandoned and Vacant Properties Community Development Disposition, and Disapproval of Disposition of Certain Scattered Vacant and Abandoned Properties Temporary of 2002 (<cite doc="D.C. Law 14-203">D.C. Law 14-203</cite>, October 17, 2002, law notification  49 DCR 10021).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|8|II"/>
+    <num codify:value="10-834">5</num>
+    <heading>Subsidies.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor may offer a subsidy as part of the RFP for the disposition of a bundle of property to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Attain a clearly stated affordability component; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Make feasible the rehabilitation and resale or rental of the property at market price.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If the Mayor offers a subsidy as part of an RFP, the subsidy shall be stated as a maximum available amount. The amount of subsidy requested and the affordability levels achieved shall be weighed when determining the points awarded to an offeror.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>There is established, under the authority of the Mayor, a designated and nonlapsing account into which proceeds from the sale of bundled properties may be deposited, which shall remain available until expended and the balance of which shall not exceed one million dollars, that shall be used to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Finance or subsidize the sale of other bundled properties; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Acquire additional parcels of property.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-267">Apr. 2, 2003, D.C. Law 14-267, § 5, 50 DCR 420</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 202, 50 DCR 5668</annotation>
+        <annotation doc="D.C. Law 16-119">June 8, 2006, D.C. Law 16-119, § 3(d), 53 DCR 2609</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-835">10-835</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> added subsec. (c).</annotation>
+        <annotation><cite doc="D.C. Law 16-119">D.C. Law 16-119</cite>, in subsec. (a), substituted “as part of the RFP for the disposition of a bundle of property” for “as part of the RFP for the disposition of a bundle of properties”; in par. (a)(2), substituted “rehabilitation and resale or rental of the property” for “rehabilitation and resale of the properties”; and rewrote subsec. (b), which had read as follows: “(b) If the Mayor offers a subsidy as part of an RFP, the subsidy shall be stated as a maximum available amount, and more points shall be awarded to an offeror requesting a smaller subsidy.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 5 of Abandoned and Vacant Properties Community Development Disposition, and Disapproval of Disposition of Certain Scattered Vacant and Abandoned Properties Temporary of 2002 (<cite doc="D.C. Law 14-203">D.C. Law 14-203</cite>, October 17, 2002, law notification  49 DCR 10021).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 202 of Fiscal Year 2004 Budget Support Congressional Review Emergency Act of 2003 (D.C. Act 15-149, September 22, 2003,  50 DCR 8360).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle A of title II of Law 15-39: Section 201 of <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> provided that subtitle A of title II of the act may be cited as the Vacant and Abandoned Properties Amendment Act of 2003.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|8|II"/>
+    <num codify:value="10-835">6</num>
+    <heading>Evaluation criteria of a request for proposals.</heading>
+    <text>An RFP to dispose of property pursuant to this subchapter shall use the following evaluation criteria and point system:</text>
+    <para>
+      <num>(1)</num>
+      <heading>Offering price. —</heading>
+      <text>More points shall be awarded for a higher proposed offering price. If a subsidy is offered under § <cite path="§10-834">10-834</cite> and is requested by the proposer, the subsidy shall be considered in conjunction with the offering price. (10 points).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <heading>Quality of rehabilitation. —</heading>
+      <text>More points shall be awarded for proposing higher-quality rehabilitation. (20 points).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <heading>Affordability. —</heading>
+      <text>The minimum affordability level shall be determined pursuant to § <cite path="§10-832">10-832</cite>(c), and shall remain in effect for not less than 10 years for property offered for sale to the public and not less than 40 years for property offered for rental to the public. More points shall be awarded for proposing to develop additional affordable single-household dwelling units (that is units not counted toward the minimum affordability level); greater levels of affordability (that is affordable to a household earning 60% or less of the area median income); or for longer periods of affordability (that is for longer than the minimum period of affordability). (20 points).</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <heading>Level of LSDBE involvement. —</heading>
+      <text>Pursuant to § <cite path="§10-833">10-833</cite>(a)(2), a person submitting a winning proposal will be required to enter into an LSDBE MOU. More points shall be awarded for proposing, and evidencing the commitment and ability to achieve, greater involvement by, an LSDBE. (10 points). An additional 5 points shall be awarded to a person submitting a proposal that is an LSDBE whose primary place of business is in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <heading>Feasibility. —</heading>
+      <text>More points shall be awarded to a proposal that is deemed more feasible. Feasibility shall be based on the consideration of whether the property will be likely to be developed and sold or rented in the time-line proposed, with the quality of construction proposed, and at the sales or rental prices proposed. (35 points).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-267">Apr. 2, 2003, D.C. Law 14-267, § 6, 50 DCR 420</annotation>
+        <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 8(1), 51 DCR 881</annotation>
+        <annotation doc="D.C. Law 16-119">June 8, 2006, D.C. Law 16-119, § 3(e), 53 DCR 2609</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite> deleted subsection designation “(a)”; in par. (4), substituted “proposal that” for “proposal who”, and also validated a previously made technical correction.</annotation>
+        <annotation><cite doc="D.C. Law 16-119">D.C. Law 16-119</cite>, in the lead-in language, substituted “An RFP to dispose of property” for “An RFP to dispose of properties”; in par. (5), substituted “Feasibility shall be based on the consideration of whether the property will be likely to be developed and sold or rented in the time-line proposed, with the quality of construction proposed, and at the sales or rental prices proposed.” for “Feasibility shall be based on the consideration of whether the properties will be likely to be developed and sold in the time-line proposed, with the quality of construction proposed, and at the sales prices proposed.”; and rewrote par. (3), which had read as follows: “(3) Affordability. The minimum affordability level shall be determined pursuant to § <cite path="§10-833">10-833</cite>(a)(4). More points shall be awarded for proposing to develop additional properties (that is properties not counted toward the minimum affordability level) as workforce housing. (20 points).”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 6 of Abandoned and Vacant Properties Community Development Disposition, and Disapproval of Disposition of Certain Scattered Vacant and Abandoned Properties Temporary of 2002 (<cite doc="D.C. Law 14-203">D.C. Law 14-203</cite>, October 17, 2002, law notification  49 DCR 10021).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|8|II"/>
+    <num codify:value="10-836">7</num>
+    <heading>Disposition of properties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 90 days after a winning proposal is selected, the Mayor and the selected person shall enter into a disposition agreement governing the sale of the bundle of property. Each disposition agreement shall provide for, and the Mayor and the selected person shall consummate, the sale of the bundle of property within 270 days after the effective date of the disposition agreement; provided, that if the selected person must obtain regulatory approval for zoning or historic preservation purposes prior to the demolition, construction, or rehabilitation of a property to be disposed of, including a rezoning, special exception, or variance, the disposition agreement shall provide for, and the Mayor and the selected person shall consummate, the sale of the property within 360 days after the effective date of the disposition agreement.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor may establish pre-conditions for closing, including the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Construction financing shall be in place;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All relevant entities shall be registered to do business in the District;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All relevant entities shall be current in all taxes owed to the District; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>No relevant entity shall be in default on any obligation to the District.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-267">Apr. 2, 2003, D.C. Law 14-267, § 7, 50 DCR 420</annotation>
+        <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 8(2), 51 DCR 881</annotation>
+        <annotation doc="D.C. Law 15-205">Dec. 7, 2004, D.C. Law 15-205, § 2002(b), 51 DCR 8441</annotation>
+        <annotation doc="D.C. Law 16-119">June 8, 2006, D.C. Law 16-119, § 3(f), 53 DCR 2609</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (b)(3), validated a previously made technical correction.</annotation>
+        <annotation><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> rewrote subsec. (a) which had read as follows: “(a) Within 90 days after a winning proposal is selected, or such shorter period as may be determined by the Mayor, the Mayor and the person submitting the winning proposal shall close on the disposition of the properties.”</annotation>
+        <annotation><cite doc="D.C. Law 16-119">D.C. Law 16-119</cite> rewrote subsec. (a), which had read as follows: “(a) Within 90 days after a winning proposal is selected, the Mayor and the selected person shall enter into a sales contract governing the disposition of the properties. Each sales contract shall provide for, and the Mayor and the selected person shall consummate, the sale of the properties within 270 days after the effective date of the sales contract; provided, if the selected person must obtain regulatory approval for zoning or historic preservation purposes prior to the demolition, construction, or rehabilitation of a property to be disposed of, including a rezoning, special exception, or variance, the sales contract shall provide for, and the Mayor and the selected person shall consummate, the sale of such property within 360 days after the effective date of the sales contract.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 7 of Abandoned and Vacant Properties Community Development Disposition, and Disapproval of Disposition of Certain Scattered Vacant and Abandoned Properties Temporary of 2002 (<cite doc="D.C. Law 14-203">D.C. Law 14-203</cite>, October 17, 2002, law notification  49 DCR 10021).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2002(b) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2002(b) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|8|II"/>
+    <num codify:value="10-837">8</num>
+    <heading>Evaluation committee.</heading>
+    <text>The Mayor shall establish an evaluation committee of at least 5 members to review the proposals submitted in response to an RFP and provide comments and recommendations to the Mayor regarding the proposals and which proposal to accept. At least 2 members of the evaluation committee shall not be government employees and shall have professional experience related to the evaluation of the proposals.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-267">Apr. 2, 2003, D.C. Law 14-267, § 8, 50 DCR 420</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 8 of Abandoned and Vacant Properties Community Development Disposition, and Disapproval of Disposition of Certain Scattered Vacant and Abandoned Properties Temporary of 2002 (<cite doc="D.C. Law 14-203">D.C. Law 14-203</cite>, October 17, 2002, law notification  49 DCR 10021).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|8|II"/>
+    <num codify:value="10-838">9</num>
+    <heading>Quarterly report.</heading>
+    <text>The Mayor shall transmit to the Council within 30 days after the end of each quarter a report containing the following information:</text>
+    <para>
+      <num>(1)</num>
+      <text>A list of the properties acquired during the quarter to be disposed of pursuant to this subchapter;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A list of the properties disposed of pursuant to this subchapter during the quarter;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A copy of each RFP issued during the quarter;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A copy of each winning proposal selected during the quarter;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A copy of each disposition agreement entered into during the quarter;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>A cumulative list of each property disposed of pursuant to this subchapter including:</text>
+      <para>
+        <num>(A)</num>
+        <text>The status of the rehabilitation of the property;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Whether the developer has resold or rented the property;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A list of the properties sold or rented as affordable to households earning 60% or less of area median income, that specifies the percentage of area median income earned by the household; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Any other relevant information.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-267">Apr. 2, 2003, D.C. Law 14-267, § 9, 50 DCR 420</annotation>
+        <annotation doc="D.C. Law 16-119">June 8, 2006, D.C. Law 16-119, § 3(g), 53 DCR 2609</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-119">D.C. Law 16-119</cite> rewrote par. (6), which had read as follows: “(6) A cumulative list of each property disposed of pursuant to this subchapter, the status of the rehabilitation of the property, and whether the developer has resold the property for residential occupancy; and”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 9 of Abandoned and Vacant Properties Community Development Disposition, and Disapproval of Disposition of Certain Scattered Vacant and Abandoned Properties Temporary of 2002 (<cite doc="D.C. Law 14-203">D.C. Law 14-203</cite>, October 17, 2002, law notification  49 DCR 10021).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|8|II"/>
+    <num codify:value="10-839">10</num>
+    <heading>Certain properties approved for disposition.</heading>
+    <text>The following properties may be disposed of pursuant to § <cite path="§10-831">10-831</cite>(a)(3)(A):</text>
+    <para>
+      <num>(1)</num>
+      <text>Square 3401, Lot 0055 (22 Farragut Place, N.W.);</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Square 3401, Lot 0060 (12 Farragut Place, N.W.);</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Square 4469, Lot 0053 (1145 Summit Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Square 5755, Lot 0101 (1626 Galen Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Square 5168, Lot 0015 (4718 Quarles Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Square 5168, Lot 0015 (4720 Quarles Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Square 5168, Lot 0015 (4722 Quarles Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Square 5727, Lot 0811 (Buena Vista Terrace, S.E.);</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>Square 3401, Lot 0056 (20 Farragut Place, N.W.);</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>Square 3401, Lot 0058 (16 Farragut Place, N.W.);</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>Square 3401, Lot 0059 (14 Farragut Place, N.W.);</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>Square 4078, Lot 0214 (1239 16th Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>Square 5083, Lot 0120 (4041 Benning Road, N.E.);</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>Square 5176, Lot 0995 (4933 Sheriff Road, N.E.);</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>Square 5260, Lot 0806 (Dix Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>Square 5765, Lot 0853 (1650 U Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>Square 0362, Lot 0242 (1822 9th Street, N.W.);</text>
+    </para>
+    <para>
+      <num>(18)</num>
+      <text>Square 0362, Lot 0249 (909 S Street, N.W.);</text>
+    </para>
+    <para>
+      <num>(19)</num>
+      <text>Square 2842, Lot 0051 (1120 Park Road, N.W.);</text>
+    </para>
+    <para>
+      <num>(20)</num>
+      <text>Square 2854, Lot 0073 (1319 Harvard Street, N.W.);</text>
+    </para>
+    <para>
+      <num>(21)</num>
+      <text>Square 3038, Lot 0833 (619 Park Road, N.W.);</text>
+    </para>
+    <para>
+      <num>(22)</num>
+      <text>Square 0363, Lot 0035 (920 French Street, N.W.);</text>
+    </para>
+    <para>
+      <num>(23)</num>
+      <text>Square 0363, Lot 0075 (932 French Street, N.W.);</text>
+    </para>
+    <para>
+      <num>(24)</num>
+      <text>Square 0509, Lot 0111 (1603 5th Street, N.W.);</text>
+    </para>
+    <para>
+      <num>(25)</num>
+      <text>Square 0526, Lot 0815 (1031 4th Street, N.W.);</text>
+    </para>
+    <para>
+      <num>(26)</num>
+      <text>Square 3010, Lot 0194 (814 Delafield Place, N.W.);</text>
+    </para>
+    <para>
+      <num>(27)</num>
+      <text>Square 3210, Lot 0098 (5212 5th Street, N.W.);</text>
+    </para>
+    <para>
+      <num>(28)</num>
+      <text>Square 3237, Lot 0061 (406 Shepherd Street, N.W.);</text>
+    </para>
+    <para>
+      <num>(29)</num>
+      <text>Square 3319, Lot 0820 (223 Webster Street, N.W.);</text>
+    </para>
+    <para>
+      <num>(30)</num>
+      <text>Square 3705, Lot 0823 (Riggs Road, N.E.);</text>
+    </para>
+    <para>
+      <num>(31)</num>
+      <text>Square 0519, Lot 0041 (307 R Street, N.W.);</text>
+    </para>
+    <para>
+      <num>(32)</num>
+      <text>Square 3562, Lot 0002 (320 V Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(33)</num>
+      <text>Square 3563, Lot 0108 (2023 3rd Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(34)</num>
+      <text>Square 4039, Lot 0807 (964 Mount Olivet Road, N.E.);</text>
+    </para>
+    <para>
+      <num>(35)</num>
+      <text>Square 4055, Lot 0040 (N.E.);</text>
+    </para>
+    <para>
+      <num>(36)</num>
+      <text>Square 4055, Lot 0130 (N.E.);</text>
+    </para>
+    <para>
+      <num>(37)</num>
+      <text>Square 4057, Lot 0193 (1259 Holbrook Terrace, N.E.);</text>
+    </para>
+    <para>
+      <num>(38)</num>
+      <text>Square 4058, Lot 0801 (1612 Montello Avenue, N.E.);</text>
+    </para>
+    <para>
+      <num>(39)</num>
+      <text>Square 4083, Lot 0012 (1721 Holbrook Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(40)</num>
+      <text>Square 4253, Lot 0818 (N.E.);</text>
+    </para>
+    <para>
+      <num>(41)</num>
+      <text>Square 4315, Lot 0814 (2616 Myrtle Avenue, N.E.);</text>
+    </para>
+    <para>
+      <num>(42)</num>
+      <text>Square 4319, Lot 0072 (N.E.);</text>
+    </para>
+    <para>
+      <num>(43)</num>
+      <text>Square 4445, Lot 0819 (18th Place, N.E.);</text>
+    </para>
+    <para>
+      <num>(44)</num>
+      <text>Square 4469, Lot 0054 (1147 Summit Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(45)</num>
+      <text>Square 1550, Lot 0164 (N.E.);</text>
+    </para>
+    <para>
+      <num>(46)</num>
+      <text>Square 0776, Lot 0050 (I Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(47)</num>
+      <text>Square 0836, Lot 0060 (513 E Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(48)</num>
+      <text>Square 0855, Lot 0319 (655 Morton Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(49)</num>
+      <text>Square 1003, Lot 0049 (1215 Wylie Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(50)</num>
+      <text>Square 1003, Lot 0050 (1217 Wylie Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(51)</num>
+      <text>Square 1003, Lot 0812 (1209 Wylie Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(52)</num>
+      <text>Square 1029, Lot 0087 (1337 Emerald Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(53)</num>
+      <text>Square 1072S, Lot 0046 (1527 Independence Avenue, S.E.);</text>
+    </para>
+    <para>
+      <num>(54)</num>
+      <text>Square 1112, Lot 0088 (1816 Bay Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(55)</num>
+      <text>Square 4540, Lot 0147 (649 16th Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(56)</num>
+      <text>Square 4540, Lot 0829 (647 16th Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(57)</num>
+      <text>Square 5765, Lot 0884 (1648 U Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(58)</num>
+      <text>Square 5801, Lot 0284 (2315 Chester Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(59)</num>
+      <text>Square 5804, Lot 0195 (2321 High Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(60)</num>
+      <text>Square 5045, Lot 0017 (209 35th Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(61)</num>
+      <text>Square 5129, Lot 0815 (4511 Gault Place, N.E.);</text>
+    </para>
+    <para>
+      <num>(62)</num>
+      <text>Square 5150, Lot 0095 (831 46th Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(63)</num>
+      <text>Square 5150, Lot 0105 (4619 Jay Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(64)</num>
+      <text>Square 5154, Lot 0013 (4607 Kane Place, N.E.);</text>
+    </para>
+    <para>
+      <num>(65)</num>
+      <text>Square 5174, Lot 0022, (1109 50th Place, N.E.);</text>
+    </para>
+    <para>
+      <num>(66)</num>
+      <text>Square 5176, Lot 0989 (4906 Jay Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(67)</num>
+      <text>Square 5210, Lot 0034 (5354 Nannie Helen Burroughs Avenue, N.E.);</text>
+    </para>
+    <para>
+      <num>(68)</num>
+      <text>Square 5210, Lot 0035 (5354 Nannie Helen Burroughs Avenue, N.E.);</text>
+    </para>
+    <para>
+      <num>(69)</num>
+      <text>Square 5210, Lot 0036 (5354 Nannie Helen Burroughs Avenue, N.E.);</text>
+    </para>
+    <para>
+      <num>(70)</num>
+      <text>Square 5243, Lot 0032 (5300 East Capitol Street, N.E.);</text>
+    </para>
+    <para>
+      <num>(71)</num>
+      <text>Square 5251, Lot 0818 (Clay Place, N.E.);</text>
+    </para>
+    <para>
+      <num>(72)</num>
+      <text>Square 5298, Lot 0017 (5302 F Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(73)</num>
+      <text>Square 5302, Lot 0010 (5341 C Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(74)</num>
+      <text>Square 5317, Lot 0009 (5135 F Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(75)</num>
+      <text>Square 5336, Lot 0029 (4919 C Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(76)</num>
+      <text>Square 5340, Lot 0050 (5019 H Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(77)</num>
+      <text>Square 5349, Lot 0014 (39 47th Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(78)</num>
+      <text>Square 5362, Lot 0193 (4675 H Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(79)</num>
+      <text>Square 5362, Lot 0194 (5001 Benning Road, S.E.);</text>
+    </para>
+    <para>
+      <num>(80)</num>
+      <text>Square 5362, Lot 0195 (5007 Benning Road, S.E.);</text>
+    </para>
+    <para>
+      <num>(81)</num>
+      <text>Square 5447, Lot 0800 (3227 D Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(82)</num>
+      <text>Square 5579, Lot 0055 (S.E.);</text>
+    </para>
+    <para>
+      <num>(83)</num>
+      <text>Square 5727, Lot 0810 (Buena Vista Terrace, S.E.);</text>
+    </para>
+    <para>
+      <num>(84)</num>
+      <text>Square 5740, Lot 0028 (Ainger Place, S.E.);</text>
+    </para>
+    <para>
+      <num>(85)</num>
+      <text>Square 5740, Lot 0034 (S.E.);</text>
+    </para>
+    <para>
+      <num>(86)</num>
+      <text>Square 5740, Lot 0852 (Skyland Terrace, S.E.);</text>
+    </para>
+    <para>
+      <num>(87)</num>
+      <text>Square 5827, Lot 0010 (2302 Pomeroy Road, S.E.);</text>
+    </para>
+    <para>
+      <num>(88)</num>
+      <text>Square 5867, Lot 0174 (2808 Wade Road, S.E.);</text>
+    </para>
+    <para>
+      <num>(89)</num>
+      <text>Square 5867, Lot 0898 (Wade Road, S.E.);</text>
+    </para>
+    <para>
+      <num>(90)</num>
+      <text>Square 5936, Lot 0802 (3401 13th Street S.E.);</text>
+    </para>
+    <para>
+      <num>(91)</num>
+      <text>Square 5946, Lot 0805 (1201 Alabama Avenue, S.E.);</text>
+    </para>
+    <para>
+      <num>(92)</num>
+      <text>Square 5970, Lot 2030 (3423 5th Street, S.E. Unit 24);</text>
+    </para>
+    <para>
+      <num>(93)</num>
+      <text>Square 6158, Lot 0090 (832 Yuma Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(94)</num>
+      <text>Square 6208, Lot 0048 (4250 6th Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(95)</num>
+      <text>Square 6208, Lot 0054 (4238 6th Street, S.E.);</text>
+    </para>
+    <para>
+      <num>(96)</num>
+      <text>Square 6239, Lot 0060 (62 Forrester Street, S.W.);</text>
+    </para>
+    <para>
+      <num>(97)</num>
+      <text>Square 6239, Lot 0082 (105 Galveston Place, S.W.); or</text>
+    </para>
+    <para>
+      <num>(98)</num>
+      <text>Square 6240, Lot 0083 (161 Forrester Street, S.W.).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-267">Apr. 2, 2003, D.C. Law 14-267, § 10, 50 DCR 420</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-831">10-831</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 10 of Abandoned and Vacant Properties Community Development Disposition, and Disapproval of Disposition of Certain Scattered Vacant and Abandoned Properties Temporary of 2002 (<cite doc="D.C. Law 14-203">D.C. Law 14-203</cite>, October 17, 2002, law notification  49 DCR 10021).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

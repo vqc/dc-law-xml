@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 18-160" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 18-160" flag="true">
   <num type="law">18-160</num>
   <heading type="short">Attorney General for the District of Columbia Clarification and Elected Term Amendment Act of 2010</heading>
   <meta>
@@ -12,4 +12,683 @@
       <narrative>Law 18-160, the “Attorney General for the District of Columbia Clarification and Elected Term Amendment Act of 2010”, was introduced in Council and assigned Bill No. 18-65, which was referred to the Committee on Public Safety and the Judiciary. The bill was adopted on first and second readings on January 5, 2010, and February 2, 2010, respectively. Deemed approved without the signature of the Mayor on March 30, 2010, it was assigned Act No. 18-351 and transmitted to both Houses of Congress for its review. D.C. Law 18-160 became effective on May 27, 2010.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.81">101</num>
+    <heading>Duties of the Attorney General for the District of Columbia.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Attorney General for the District of Columbia (“Attorney General”) shall have charge and conduct of all law business of the said District and all suits instituted by and against the government thereof, and shall possess all powers afforded the Attorney General by the common and statutory law of the District and shall be responsible for upholding the public interest. The Attorney General shall have the power to control litigation and appeals, as well as the power to intervene in legal proceedings on behalf of this public interest.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Attorney General shall furnish opinions in writing to the Mayor and the Council whenever requested to do so. All requests for opinions from agencies subordinate to the Mayor shall be transmitted through the Mayor. The Attorney General shall keep a record of requests, together with the opinions. Those opinions of the Attorney General issued pursuant to Reorganization Order No. 50 shall be compiled and published by the Attorney General on an annual basis.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The authority provided under this section shall not be construed to deny or limit the duty and authority of the Attorney General as heretofore authorized, either by statute or under common law.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, § 101, 57 DCR 3012</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-1001.02">1-1001.02</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.82">102</num>
+    <heading>Appointment of the Attorney General.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Until such time as an Attorney General is elected under § <cite path="§1-204.35">1-204.35</cite>, the Attorney General for the District of Columbia shall be appointed by the Mayor with the advice and consent of the Council pursuant to § <cite path="§1-523.01">1-523.01</cite>.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Attorney General shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Serve a 4-year term to coincide with the term for Mayor; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be eligible for reappointment by the Mayor with the advice and consent of the Council, and may serve in a holdover capacity at the expiration of his or her term pursuant to § <cite path="§1-523.01">1-523.01</cite>(c).</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>This section shall not apply to the incumbent Attorney General on May 27, 2010.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, § 102, 57 DCR 3012</annotation>
+        <annotation doc="D.C. Law 20-60">Dec. 13, 2013, D.C. Law 20-60, § 201, 60 DCR 15487</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 1163, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-60">D.C. Law 20-60</cite> rewrote (a) which read “Until such time as an Attorney General is elected under § <cite path="§1-204.35">1-204.35</cite>, the Attorney General for the District of Columbia shall be appointed by the Mayor with the advice and consent of the Council pursuant to § <cite path="§1-523.01">1-523.01</cite>.”</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> deleted “which time shall not be before January 1, 2018” following “under § <cite path="§1-204.35">1-204.35</cite>” in (a).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see §  1163 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §  1163 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §  1163 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-60">D.C. Law 20-60</cite>: Section 401(b) of <cite doc="D.C. Law 20-60">D.C. Law 20-60</cite> provided that § 201 of the act shall apply as of December 13, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.83">103</num>
+    <heading>Minimum qualifications and requirements for Attorney General.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person shall hold the position of Attorney General for the District of Columbia unless that person:</text>
+      <para>
+        <num>(1)</num>
+        <text>Is a registered qualified elector as defined in § <cite path="§1-1001.02">1-1001.02</cite>(20);</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is a bona fide resident of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Is a member in good standing of the bar of the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Has been a member in good standing of the bar of the District of Columbia for at least 5 years prior to assuming the position of Attorney General; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Has been actively engaged, for at least 5 of the 10 years immediately preceding the assumption of the position of Attorney General, as:</text>
+        <para>
+          <num>(A)</num>
+          <text>An attorney in the practice of law in the District of Columbia;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A judge of a court in the District of Columbia;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A professor of law in a law school in the District of Columbia; or</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>An attorney employed in the District of Columbia by the United States or the District of Columbia.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Attorney General shall devote full-time to the duties of the office and shall not engage in the private practice of law and shall not perform any other duties while in office that are inconsistent with the duties and responsibilities of Attorney General.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, § 103, 57 DCR 3012</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-301.84">1-301.84</cite>, § <cite path="§1-301.87">1-301.87</cite>, and § <cite path="§1-1001.08">1-1001.08</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.84">104</num>
+    <heading>Forfeiture of the position of Attorney General.</heading>
+    <text>The occurrence of any of the following shall result in automatic forfeiture of the position of Attorney General for the District of Columbia:</text>
+    <para>
+      <num>(1)</num>
+      <text>Failure to maintain the qualifications required under § <cite path="§1-301.83">1-301.83</cite>(a);</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Violation of the prohibition against the private practice of law as provided in § <cite path="§1-301.83">1-301.83</cite>(b); or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Conviction of a felony while in office.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, § 104, 57 DCR 3012</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.85">105</num>
+    <heading>Attorney General salary.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsection (b) of this section, the Attorney General for the District of Columbia shall be paid at an annual rate equal to the rate of basic pay for level E5 on the Executive Schedule pursuant to § <cite path="§1-610.52">1-610.52</cite>.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An Attorney General for the District of Columbia elected under § <cite path="§1-204.35">1-204.35</cite> shall receive compensation equal to the Chairman of the Council of the District of Columbia as provided in § <cite path="§1-204.03">1-204.03</cite>(d).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, § 105, 57 DCR 3012</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.86">106</num>
+    <heading>Annual budget for the Office of Attorney General.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Attorney General for the District of Columbia shall prepare and submit to the Mayor, for inclusion in the annual budget of the District of Columbia under part D of subchapter IV of Chapter 2 of this title [§  1-204.41 et seq.], for the year, annual estimates of the expenditures and appropriations necessary for the operation of the Office of the Attorney General for the year. The Mayor shall make recommendations to the Council of the District of Columbia based on said submissions for the Council’s action pursuant to § <cite path="§1-204.46">1-204.46</cite> and § <cite path="§1-206.03">1-206.03</cite>(c).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Amounts appropriated for the Office of the Attorney General shall be available solely for the operation of the office, and shall be paid to the Attorney General by the Mayor (acting through the Chief Financial Officer of the District of Columbia) in such installments and at such times as the Attorney General requires.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, § 106, 57 DCR 3012</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.86a">106a</num>
+    <heading>Contingency fee contracts.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Attorney General may make contracts retaining private counsel to furnish legal services, including representation in negotiation, compromise, settlement, and litigation, in claims and other legal matters affecting the interests of the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>Subject to subparagraph (B) of this paragraph, each contract shall include the terms and conditions the Attorney General considers necessary or appropriate, including a provision specifying the amount of any fee to be paid to the private counsel under the contract or the method for calculating that fee.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The amount of the fee payable for legal services furnished under any such contract shall not exceed the fee that counsel engaged in the private practice of law in the District typically charges clients for furnishing similar legal services, as determined by the Attorney General.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Notwithstanding any provision of federal or District of Columbia law, a contract entered into by the District of Columbia pursuant to this section may provide that costs, expenses, and fees that the private counsel charges for legal services are payable from the amount recovered. In such circumstances, the costs, expenses, and fees need not be included in an amount provided in an appropriations law.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, § 106a</annotation>
+        <annotation doc="D.C. Law 19-168">as added Sept. 20, 2012, D.C. Law 19-168, § 3012, 59 DCR 8025</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> added this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.86b">106b</num>
+    <heading>Litigation Support Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the Litigation Support Fund (“Fund”), which shall be administered by the Office of the Attorney General in accordance with this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Subject to the limitations of subsection (d)(3) of this section, any recoveries from claims or litigation brought by the Office of the Attorney General on behalf of the District shall be deposited into the Fund.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Fund shall be used for the purpose of supporting general litigation expenses associated with prosecuting or defending litigation cases on behalf of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided in paragraph (3) of this subsection, the money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of any fiscal year or at any other time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>At no time shall the balance in the Fund, including interest earned, exceed $1.5 million. Any funds in excess of $1.5 million shall revert to the unrestricted fund balance of the General Fund of the District of Columbia.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>For the purposes of this section, the term “recovery” shall include funds obtained through court determinations or through the settlement of claims in which the Office of the Attorney General represents the District, but shall not include funds obtained through an administrative proceeding or funds obligated to another source by District or federal law.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, §  106b</annotation>
+        <annotation doc="D.C. Law 21-36">as added Oct. 22, 2015, D.C. Law 21-36, § 1032(a), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 1032(a) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.87">107</num>
+    <heading>Chief Deputy Attorney General, Deputy Attorneys General, and Assistant Attorneys General.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Attorney General shall appoint a Chief Deputy Attorney General who shall meet the qualifications of § <cite path="§1-301.83">1-301.83</cite>. The Chief Deputy Attorney General shall serve under the direction and control of the Attorney General and shall perform such duties as may be assigned to him or her by the Attorney General.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Deputy Attorneys General and Assistant Attorneys General shall serve under the direction and control of the Attorney General and shall perform such duties as may be assigned to them by the Attorney General.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Deputy Attorney General shall be a resident of the District of Columbia within 180 days of his or her appointment.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, § 107, 57 DCR 3012</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.88">108</num>
+    <heading>Authority to administer oaths.</heading>
+    <text>The Attorney General, Chief Deputy Attorney General, Deputy Attorneys General, and Assistant Attorneys General are authorized to administer oaths and affirmations in the discharge of their official duties within the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, § 108, 57 DCR 3012</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.88a">108a</num>
+    <heading>Authority over personnel.</heading>
+    <text>The Attorney General shall be the personnel authority for the Office of the Attorney General. The Attorney General’s personnel authority shall be independent of the personnel authority of the Mayor established under §§  <cite path="§1-204.22">1-204.22</cite> and <cite path="§1-604.06">1-604.06</cite>, except that the personnel provisions applicable to the Mayor under Chapter 6 of this title [§ <cite path="§1-601.01">1-601.01</cite> et seq.], shall apply to the Attorney General’s exercise of this authority, unless specifically exempted by District statute.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, §  108a</annotation>
+        <annotation doc="D.C. Law 21-36">as added Oct. 22, 2015, D.C. Law 21-36, § 1032(b), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 1032(b) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.88b">108b</num>
+    <heading>Authority for procurement of goods and services.</heading>
+    <text>The Attorney General shall carry out procurement of goods and services for the Office of the Attorney General through a procurement office or division. The procurement office or division shall operate independently of, and shall not be governed by, the Office of Contracting and Procurement established pursuant to Chapter 3A of Title 2 [§ <cite path="§2-351.01">2-351.01</cite> et seq.], except as provided in § <cite path="§2-352.01">2-352.01</cite>(b).</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, §  108b</annotation>
+        <annotation doc="D.C. Law 21-36">as added Oct. 22, 2015, D.C. Law 21-36, § 1032(b), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 days) amendment of this section, see § 3 of the Office of the Attorney General Personnel and Procurement Clarification Temporary Amendment Act of 2015 (<cite doc="D.C. Law 21-91">D.C. Law 21-91</cite>, Mar. 23, 2016,  63 DCR 989).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 1032(b) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 3 of the Office of the Attorney General Personnel and Procurement Clarification Emergency Amendment Act of 2015 (D.C. Act 21-254, Jan. 6, 2016,  63 DCR 518).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.89">109</num>
+    <heading>Appointment of special counsel.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsection (b) of this section, if the Attorney General determines that his or her duty to represent the public interest in a particular matter may prevent him or her from adequately representing the government, an agency, or an official, the Attorney General shall notify the Mayor of this circumstance and the Mayor shall appoint special counsel to represent the government, an agency, or an official for the matter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If the Attorney General determines that he or she is unable to provide adequate representation pursuant to subsection (a) of this section in a matter in which the Mayor is expected to be adverse to the special counsel, the Attorney General shall notify the Chief Judge of the District of Columbia Court of Appeals, who shall appoint the special counsel for the matter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, § 109, 57 DCR 3012</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.89a">110</num>
+    <heading>Authority to issue subpoenas for the production of documents.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsection (c) of this section, the Attorney General for the District of Columbia shall have the authority to issue subpoenas for the production of documents concerning criminal and delinquent offenses that the Attorney General has the authority to prosecute. The power to issue subpoenas under this section shall not be delegated other than to the Chief Deputy Attorney General, a Deputy Attorney General, or an Assistant Deputy Attorney General.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Subpoenas issued pursuant to subsection (a) of this section shall contain the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name of the person from whom documents are requested;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The person at the Office of the Attorney General to whom the documents shall be provided, and the date and time by which they must be provided;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A detailed list of the specific documents requested;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A short, plain statement of the recipient’s rights and the procedure for enforcing and contesting the subpoena; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The signature of the Attorney General, Chief Deputy Attorney General, Deputy Attorney General, or Assistant Deputy Attorney General approving the subpoena request and certifying that the documents sought are not available by other means as defined in subsection (c)(2) of this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Attorney General shall not have the authority to issue a subpoena if:</text>
+        <para>
+          <num>(A)</num>
+          <text>An indictment, information, or petition has been filed with the court formally charging the target of the investigation;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Three business days have elapsed since the underlying offense was committed; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Other means are available to obtain the documents sought in the subpoena.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the purposes of paragraph (1)(C) of this subsection, documents shall be deemed available by other means if:</text>
+        <para>
+          <num>(A)</num>
+          <text>The documents may be sought by means of a grand jury subpoena and are being sought during business hours on a business day;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The documents have been unsuccessfully sought by means of a grand jury subpoena;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The documents may be sought, or have been unsuccessfully sought, by means of a search warrant for information falling within the categories listed in § <cite path="§23-521">23-521</cite>(d); or</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Consent has not been sought for the release of the documents, unless a determination has been made that requesting such consent would threaten or impede the investigation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Any person to whom a subpoena has been issued under this section may exercise the privileges enjoyed by all witnesses. A person to whom a subpoena has been issued may move to quash or modify the subpoena in the Superior Court of the District of Columbia on grounds including:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Attorney General failed to follow or satisfy the procedures set forth in this section for issuance of a subpoena;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Attorney General lacked the authority to issue the subpoena under subsection (c) of this section; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any other grounds that exist under statute or common law for the quashing or modification of a subpoena.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Attorney General shall maintain a log of all requests for subpoenas made pursuant to this section that shall include the following:</text>
+        <para>
+          <num>(A)</num>
+          <text>The name of the person who initiated the subpoena request;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The name of the persons who reviewed and acted on the request;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A written statement justifying the subpoena request; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>A written statement explaining why the subpoena request was approved or denied.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The log produced pursuant to this subsection shall be exempt from disclosure pursuant to § <cite path="§2-534">2-534</cite> as investigatory records that are compiled for law-enforcement purposes, but shall be made available for inspection by the Council upon request.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Attorney General shall submit to the Council a quarterly report listing the number of subpoenas requested and issued under this section. The report shall include the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The offenses being investigated;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Whether the subpoenas were complied with or challenged;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Whether formal charges were filed; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The circumstances that precluded using a grand jury subpoena, search warrant, or other means as provided under subsection (c) of this section to obtain this information.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, § 110</annotation>
+        <annotation doc="D.C. Law 18-376">as added June 3, 2011, D.C. Law 18-376, § 3, 58 DCR 944</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.89b">111</num>
+    <heading>Report on constitutional challenge or District of Columbia Home Rule Act validity challenge.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Attorney General shall submit a report to the Council of the District of Columbia of any action, suit, or proceeding brought in a court of law in which the Council of the District of Columbia is not a party, and the constitutionality or the validity under Chapter 2 of Title 1 [§ <cite path="§1-201.01">1-201.01</cite> et seq.], of any District statute, rule, regulation, program, policy, or enactment of any type is questioned, and the Attorney General has been notified pursuant to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Rule 24(c) of the Superior Court of the District of Columbia Rules of Civil Procedure; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Rule 5.1(a) of the Federal Rules of Civil Procedure.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Attorney General shall submit a report to the Council of the District of Columbia of the establishment or implementation of any formal or informal policy by the Attorney General, or any officer of the Office of the Attorney General, to refrain from:</text>
+      <para>
+        <num>(1)</num>
+        <text>Enforcing, applying, or administering any provision of any District statute, rule, regulation, program, policy, or enactment of any type affecting the public interest of the District of Columbia; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Defending, either by affirmatively contesting or through refraining from defending, any District statute, rule, regulation, program, policy, or enactment of any type affecting the public interest of the District of Columbia.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>A report required under subsection (a) of this section shall be submitted to the Council within 30 calendar days from the date the Attorney General receives notice as provided in subsection (a)(1) or (a)(2) of this section, and shall contain sufficient information to identify the action, suit, or proceeding underlying the challenge.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A report required under subsection (b) of this section shall be submitted to the Council within 30 calendar days from the date the Attorney General establishes or implements a formal or informal policy, or is made aware of the establishment or implementation of a formal or informal policy, as described in subsection (b) of this section, and shall contain:</text>
+        <para>
+          <num>(A)</num>
+          <text>The date the formal or informal policy, as described in subsection (b) of this section, was established or implemented; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A complete and detailed statement describing the policy and identifying the statute, rule, regulation, program, policy, or enactment that is the subject of the policy.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, § 111</annotation>
+        <annotation doc="D.C. Law 19-287">as added Apr. 27, 2013, D.C. Law 19-287, § 2, 60 DCR 2322</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-287">D.C. Law 19-287</cite> added this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.89c">110a</num>
+    <heading>Authority to issue subpoenas in investigation of consumer protection matters.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Attorney General, or his or her designee, shall have the authority to issue subpoenas for the production of documents and materials or for the attendance and testimony of witnesses under oath, or both, related to an investigation into unfair, deceptive, unconscionable, or fraudulent trade practices by or between a merchant or consumer, as defined in § <cite path="§28-3901">28-3901</cite>.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Subpoenas issued pursuant to subsection (a) of this section or § <cite path="§28-3910">28-3910</cite> shall contain the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name of the person from whom testimony is sought or the documents or materials requested;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The person at the Office of the Attorney General to whom the documents shall be provided;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A detailed list of the specific documents, books, papers, or objects being requested, if any;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The date, time, and place that the recipient is to appear to give testimony or produce the materials specified under paragraph (3) of this subsection, or both;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A short, plain statement of the recipient’s rights and the procedure for enforcing and contesting the subpoena; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The signature of the Attorney General, Chief Deputy Attorney General, Deputy Attorney General, or Assistant Deputy Attorney General approving the subpoena request.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Unless otherwise permitted by the Office of the Attorney General, only attorneys for the Office of the Attorney General and their staff, other people involved in the investigation, the witness under examination, his or her attorney, interpreters when needed, and, for the purpose of taking the evidence, a stenographer or operator of a recording device may be present during the taking of testimony.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>In the case of refusal to obey a subpoena issued under this section, the Attorney General may petition the Superior Court of the District of Columbia for an order requiring compliance. Any failure to obey the order of the court may be treated by the court as contempt.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Any person to whom a subpoena has been issued under this section or pursuant to § <cite path="§28-3910">28-3910</cite> may exercise the privileges enjoyed by all witnesses. A person to whom a subpoena has been issued may move to quash or modify the subpoena in the Superior Court of the District of Columbia on grounds including:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Attorney General failed to follow or satisfy the procedures set forth in this section for the issuance of a subpoena; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any grounds that exist under statute or common law for quashing or modifying a subpoena.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, §  110a</annotation>
+        <annotation doc="D.C. Law 21-36">as added Oct. 22, 2015, D.C. Law 21-36, § 1032(c), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 1032(c) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|I|D-i"/>
+    <num codify:value="1-301.90">121</num>
+    <heading>Inability to carry out duties as Attorney General.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>If the Attorney General for the District of Columbia is temporarily unable or unavailable to carry out the duties of the office, the Chief Deputy Attorney General shall serve as acting Attorney General as of the date that notice of such disability or unavailability is provided under paragraph (2) of this subsection and until the date that notice of resolution of the disability is provided under paragraph (3) of this subsection.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon determining that he or she is temporarily unable or unavailable to carry out the duties of the office, the Attorney General shall provide written notice of the disability to the Chief Deputy Attorney General. If the Attorney General is incapable of providing the notice, the Mayor shall provide the notice.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Upon determining that the disability or unavailability under paragraph (1) of this subsection has been resolved, the Attorney General shall provide written notice to the acting Attorney General that the Attorney General is able to carry out the duties of the office. The Attorney General shall reassume the position as of the date of the written notice.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This section shall apply upon the election of an Attorney General for the District of Columbia pursuant to § <cite path="§1-204.35">1-204.35</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-160">May 27, 2010, D.C. Law 18-160, § 121, 57 DCR 3012</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

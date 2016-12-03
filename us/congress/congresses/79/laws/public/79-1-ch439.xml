@@ -1,10 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 79-1-ch439">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 79-1-ch439">
+  <heading/>
   <meta>
     <effective>1945-10-29</effective>
     <cites>
-        <law congress="79" session="1" chapter="439"/>
+      <law congress="79" session="1" chapter="439"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§44-704" path="|44|7|I"/>
+    <num codify:value="44-703">2</num>
+    <heading>Providence Hospital authorized to conduct hospital, clinic and school.</heading>
+    <text>The Providence Hospital is authorized to conduct not only a hospital, clinic, and all the departments, staffs, and services usually connected therewith, but also a school for the education and training of nurses and interns with full power to examine the said nurses and interns and to issue suitable certificates evidencing the completion of their courses of training.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Oct. 29, 1945, 59 Stat. 551, ch. 439, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-116.</annotation>
+        <annotation>1973 Ed., § 32-316a.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

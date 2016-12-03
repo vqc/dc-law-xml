@@ -1,10 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 56-1-ch424">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 56-1-ch424">
+  <heading/>
   <meta>
     <effective>1899-03-03</effective>
     <cites>
-        <law congress="56" session="1" chapter="424"/>
+      <law congress="56" session="1" chapter="424"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-2302" path="|38|23|I"/>
+    <num codify:value="38-2301">1</num>
+    <heading>Appropriation for indigent blind children.</heading>
+    <text>The indefinite appropriation to pay for the instruction of the indigent blind children of the District of Columbia, formerly instructed in Gallaudet University shall be paid out of the revenues of the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1899, 30 Stat. 1101, ch. 424, § 1</annotation>
+        <annotation>Mar. 4, 1911, 36 Stat. 1422, ch. 285, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1801.</annotation>
+        <annotation>1973 Ed., § 31-1020.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“Gallaudet University” was substituted for “Gallaudet College” pursuant to § <cite path="§38-2401.01">38-2401.01</cite>. “Gallaudet College” had previously been substituted for “Columbia Institution for the Deaf” pursuant to former § <cite path="§38-2305">38-2305</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

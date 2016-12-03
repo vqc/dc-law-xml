@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 14-114">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 14-114">
   <num type="law">14-114</num>
   <heading type="short">Housing Act of 2002</heading>
   <meta>
@@ -12,4 +12,474 @@
       <narrative>Law 14-114, the “Housing Act of 2002”, was introduced in Council and assigned Bill No. 14-183, which was referred to the Committee on Finance and Revenue. The Bill was adopted on first and second readings on December 4, 2001, and January 8, 2002, respectively. Signed by the Mayor on February 6, 2002, it was assigned Act No. 14-267 and transmitted to both Houses of Congress for its review. D.C. Law 14-114 became effective on April 19, 2002.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|26A"/>
+    <num codify:value="42-2651">1001</num>
+    <heading>Creation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall establish within the District government, or cause to be provided through one or more non-government entities pursuant to a contract or contracts with the District of Columbia, a Homeownership Counseling Program (“Program”). The Program shall provide:</text>
+      <para>
+        <num>(1)</num>
+        <text>Information concerning credit ratings, credit management, and credit counseling;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Warnings regarding predatory lending practices;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Information on how to purchase a home;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Information concerning financial resources available to first-time homebuyers in the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Information concerning financial planning after purchasing a home; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A compilation and explanation of all federal and District of Columbia tax provisions and public and private programs providing homeownership assistance.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The information required under subsection (a) of this section shall be made available over the Internet and shall be provided to each public library in the District of Columbia.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-114">Apr. 19, 2002, D.C. Law 14-114, § 1001, 49 DCR 1468</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 1101 of <cite doc="D.C. Law 14-114">D.C. Law 14-114</cite> provided: “The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), shall promulgate rules to implement this act.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|28A"/>
+    <num codify:value="42-2851.01">201</num>
+    <heading>Short title.</heading>
+    <text>This chapter may be referred to as the “Low-Income Housing Preservation and Protections Act of 2002”.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-114">Apr. 19, 2002, D.C. Law 14-114, § 201, 49 DCR 1468</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 1101 of <cite doc="D.C. Law 14-114">D.C. Law 14-114</cite> provided: “The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), shall promulgate rules to implement this act.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|28A"/>
+    <num codify:value="42-2851.02">202</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Affordable multifamily housing property” means residential real property consisting of 5 or more dwelling units in which, as the result of use restrictions or other covenants, at least 20% of the dwelling units are occupied by very low-income households.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <para>
+        <num>(A)</num>
+        <text>“Area median income” means:</text>
+        <para>
+          <num>(i)</num>
+          <text>For a household of 4 persons, the area median income for a household of 4 persons in the Washington Metropolitan Statistical Area as set forth in the periodic calculation provided by the United States Department of Housing and Urban Development;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>For a household of 3 persons, 90% of the area median income for a household of 4 persons;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>For a household of 2 persons, 80% of the area median income for a household of 4 persons;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>For a household of one person, 70% of the area median income for a household of 4 persons; and</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>For a household of more than 4 persons, the area median income for a household of 4 persons, increased by 10% of the area median income for a family of 4 persons for each household member exceeding 4 persons (e.g., the area median income for a family of 5 shall be 110% of the area median income for a family of 4; the area median income for a household of 6 shall be 120% of the area median income for a family of 4).</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Any percentage of household income referenced in this chapter (e.g., 80% of household income) shall be determined through a direct mathematical calculation and shall not take into account any adjustments made by the United States Department of Housing and Urban Development for the purposes of the programs which it administers.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“District” means District of Columbia.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Eligible low-income housing development” means a housing development that is an affordable multifamily housing property, a housing accommodation that receives assistance pursuant to a HAP contract, or a housing accommodation certified by the Mayor pursuant to § <cite path="§47-865">47-865</cite>.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Extremely low-income household” means a household consisting of one or more persons with a household income equal to 30% or less of the area median income.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Federally-assisted housing accommodation” means a housing accommodation that is:</text>
+      <para>
+        <num>(A)</num>
+        <text>Covered in whole or in part by a contract for project-based assistance under section 8 of the United States Housing Act of 1937, including the following programs:</text>
+        <para>
+          <num>(i)</num>
+          <text>The new construction or substantial rehabilitation program under section 8(b)(2) of the United States Housing Act of 1937, as in effect before October 1, 1983;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The property disposition program under section 8(b) of the United States Housing Act of 1937;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The moderate rehabilitation program under section 8(e)(2) of the United States Housing Act of 1937;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>The loan management assistance program under section 8 of the United States Housing Act of 1937; and</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>The programs authorized by amendments to section 8 of the United States Housing Act of 1937 contained in the Multifamily Assisted Housing Reform and Affordability Act of 1997, approved October 27, 1997 (Pub. L. No. 105-65; 11 Stat. 1344);</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Assisted under section 23 of the United States Housing Act of 1937, as in effect before January 1, 1975;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Assisted under the rent supplement program under section 101 of the Housing and Urban Development Act of 1965, approved August 10, 1965 (79 Stat. 451; 12 U.S.C. § 1701s);</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Financed under section 202 of the Housing Act of 1959, approved September 23, 1959 (75 Stat. 162; 12 U.S.C. § 1701q);</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Financed under section 811 of the National Housing Act, approved November 28, 1990 (104 Stat. 4324; 42 U.S.C. § 8013);</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Financed in whole or in part by a mortgage insured or held by the Secretary under section 236 of the National Housing Act, approved June 27, 1934 (48 Stat. 1246; 12 U.S.C. § 1701 et seq.), or subject to an interest reduction payment agreement with the Secretary;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Financed in whole or in part by a below market interest rate mortgage insured or held by the Secretary under section 221(d)(3) of the National Housing Act, pursuant to the proviso in section 221(d)(5) of the National Housing Act; or</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Subject to a use agreement under the Flexible Subsidy program established by the Housing and Community Development Amendments of 1978, approved October 31, 1978 (Pub. L. No. 95-557; 92 Stat. 2080).</text>
+      </para>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“HAP contract” means a project-based housing assistance payments contract executed between the owner of an affordable multifamily housing property and the Secretary or a public housing agency pursuant to section 8 of the United States Housing Act of 1937.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Household income” shall have the same meaning as “household gross income” in § <cite path="§47-1806.06">47-1806.06</cite>.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Housing accommodation” shall have the same meaning as in § <cite path="§42-3401.03">42-3401.03</cite>(11).</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Low-income household” means a household consisting of one or more individuals with a household income equal to, or less than, 80% of the area median income and greater than 50% of the area median.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Qualified area” means a census tract in which the average rent for one bedroom and 2-bedroom apartments exceeds the fair market rent by 25% or more.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Rental housing” or “rental unit” means that part of a housing accommodation which is rented or offered for rent for residential occupancy, including an apartment, efficiency apartment, room, suite of rooms, and single-family home or duplex, and the land appurtenant to such rental unit or rental housing.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“Secretary” means the Secretary of the United States Department of Housing and Urban Development.</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>“Tenant” shall have the same meaning as in § <cite path="§42-3501.03">42-3501.03</cite>(36)).</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>“United States Housing Act” means the United States Housing Act of 1937, approved September 1, 1937 (50 Stat. 888; 42 U.S.C. § 1437 et seq.).</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>“Very low-income household” means a household consisting of one or more individuals with a household income equal to, or less than, 50% of the area median income and greater than 30% of the area median.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-114">Apr. 19, 2002, D.C. Law 14-114, § 202, 49 DCR 1468</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 212(a), 50 DCR 5668</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-3173.10">42-3173.10</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> rewrote par. (6).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(a) of Housing Notice Temporary Amendment Act of 2002 (<cite doc="D.C. Law 14-181">D.C. Law 14-181</cite>, July 23, 2002, law notification  49 DCR 8275).</annotation>
+        <annotation>For temporary (225 day) amendment of section, see § 2(a) of Housing Notice Temporary Amendment Act of 2003 (<cite doc="D.C. Law 15-7">D.C. Law 15-7</cite>, June 5, 2003, law notification  50 DCR 4871).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of the Housing Notice Emergency Amendment Act of 2003 (D.C. Act 15-22, February 24, 2003,  50 DCR 2135).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Housing Notice Emergency Amendment Act of 2002 (D.C. Act 14-343, April</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle B of title II of Law 15-39: Section 211 of <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> provided that subtitle B of title II of the act may be cited as the Housing Notice Amendment Act of 2003.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <text>Sections 8 and 23 of the United States Housing Act of 1937, referred to in subpars. (A)(i) through (A)(iv) and subpar. (B) of par. (6), are codified to  42 U.S.C. § 1437f and  42 U.S.C. § 1437u, respectively.</text>
+        <text>National Housing Act, referred to in subpar. (G) of par. (6), are codified to  12 U.S.C. § 1715(d)(3) and (5).</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|28A"/>
+    <num codify:value="42-2851.03">203</num>
+    <heading>Notice required upon opting out; inspection of property; maintenance of contract.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The owner of a federally-assisted housing accommodation who intends not to continue participation in the federal assistance program shall transmit to the Mayor, the Director of the Department of Housing and Community Development, the Director of the Department of Consumer and Regulatory Affairs, and the Executive Director of the District of Columbia Housing Authority any notice regarding the intent of the owner not to continue participation that the owner is required to provide to tenants of the housing accommodation or a federal agency under federal law or regulation.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>One year before participation in the federal assistance program would expire absent the owner’s extension or renewal of participation in the program, the owner of a federally-assisted housing accommodation shall transmit to the Mayor, the Director of the Department of Housing and Community Development, the Director of the Department of Consumer and Regulatory Affairs, and the Executive Director of the District of Columbia Housing Authority a form, promulgated by the Mayor, that shall provide notice of the pending expiration date.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the owner intends not to continue participation in the federal assistance program, through any means, including termination of a subsidy contract, termination of rental restrictions, or prepayment of a mortgage on an assisted housing development, the notice shall be sent to each assisted tenant household, the Mayor, the Director of the Department of Housing and Community Development, the Director of the Department of Consumer and Regulatory Affairs, and the Executive Director of the District of Columbia Housing Authority, and shall include the following information:</text>
+        <para>
+          <num>(A)</num>
+          <text>A statement identifying the program under which assistance is provided and stating that the owner intends to terminate the subsidy contract or rental restrictions upon its expiration date, or the expiration date of any contract extension;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>In the event of prepayment, a statement identifying the program under which the mortgage is insured and stating that the owner intends to:</text>
+          <para>
+            <num>(i)</num>
+            <text>Pay in full or refinance the federally insured or federally held mortgage indebtedness prior to its original maturity date; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Voluntarily cancel the mortgage insurance;</text>
+          </para>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The anticipated date of the termination or prepayment of the federal assistance;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>A statement of the possibility that the housing may remain in the federal program after the proposed date of the termination of the subsidy contract or prepayment if the owner elects to do so under the terms of the federal government’s offer;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>A statement that technical assistance may be available through the Department of Housing and Community Development and the address and phone number for that agency; and</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>A statement containing information about available resources as the Mayor may by regulation require.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>An owner of a federally-assisted housing accommodation who does not continue, or intends not to continue, participation in the federal assistance program for the housing accommodation shall be deemed to have consented to reasonable inspection by the Mayor of the housing accommodation and any owner or housing accommodation report on file with United States Department of Housing and Urban Development.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>To the extent allowed by federal law, the owner of a federally-assisted housing accommodation that receives assistance pursuant to a HAP contract shall maintain a HAP contract in good standing during the notice period required by this section and during any period during which the Mayor may exercise a right to first refusal.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The one-year notice provision of this section shall not be required with respect to any property which ceased to be a federally assisted housing accommodation prior to April 19, 2002.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-114">Apr. 19, 2002, D.C. Law 14-114, § 203, 49 DCR 1468</annotation>
+        <annotation doc="D.C. Law 15-39">Nov. 13, 2003, D.C. Law 15-39, § 212(b), 50 DCR 5668</annotation>
+        <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 76, 51 DCR 881</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> added subsec. (e).</annotation>
+        <annotation><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (d), validated a previously made technical correction.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(b) of Housing Notice Temporary Amendment Act of 2002 (<cite doc="D.C. Law 14-181">D.C. Law 14-181</cite>, July 23, 2002, law notification  49 DCR 8275).</annotation>
+        <annotation>For temporary (225 day) amendment of section, see § 2(b) of Housing Notice Temporary Amendment Act of 2003 (<cite doc="D.C. Law 15-7">D.C. Law 15-7</cite>, June 5, 2003, law notification  50 DCR 4871).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of the Housing Notice Emergency Amendment Act of 2003 (D.C. Act 15-22, February 24, 2003,  50 DCR 2135).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Housing Notice Emergency Amendment Act of 2002 (D.C. Act 14-343, April 24, 2002,  49 DCR 4294).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|28A"/>
+    <num codify:value="42-2851.04">204</num>
+    <heading>District’s first right to purchase section 8 properties.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Before an owner of a federally-assisted housing accommodation may sell the housing accommodation, the owner shall provide to the Mayor, and the Mayor shall have, an opportunity to purchase the housing accommodation in the same manner, and with the same rights, as the opportunity to purchase is provided to tenants and tenant organizations under §§ <cite path="§42-3404.02">42-3404.02</cite> through <cite path="§42-3404.04">42-3404.04</cite> and <cite path="§42-3404.08">42-3404.08</cite>. The Mayor shall have 30 days after receiving a written offer of sale from the owner to provide the owner with a written statement of interest. The owner shall afford the Mayor a reasonable period of time, but not less than 120 days after receiving the statement of interest, to negotiate a contract of sale. The Mayor and the owner shall bargain in good faith.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor may assign the opportunity to purchase provided under subsection (a) of this section to a person that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Demonstrates the capacity to manage the housing and related facilities for its remaining useful life, either by itself or through a management agent; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Agrees to obligate itself and any successors in interest to maintain the affordability of the assisted housing development as required by subsection (e) of this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall not exercise the opportunity to purchase provided by this section unless the sale of the housing accommodation by the owner would result in the discontinuance of the use of the housing accommodation as a federally-assisted housing accommodation or in the termination of any low-income residency requirements that apply to the housing accommodation.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The income restrictions imposed by the federal assistance program on the dwelling units in the housing accommodation purchased by the Mayor or an assignee of the Mayor shall be maintained by the purchaser for a 30-year period from the date that the purchaser takes possession of the housing accommodation.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>This section shall not abrogate the rights of tenants under subchapter IV of Chapter 34 of this title.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-114">Apr. 19, 2002, D.C. Law 14-114, § 204, 49 DCR 1468</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|28A"/>
+    <num codify:value="42-2851.05">205</num>
+    <heading>Relocation services by Mayor.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If the owner of a federally-assisted housing accommodation discontinues participation in the federal assistance program, the Mayor shall provide relocation services to the tenants of the housing accommodation. The relocation services shall include ascertaining the relocation needs of each household, providing current information on the availability of comparable housing of suitable size, and supplying information concerning federal and District housing programs.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor may provide relocation assistance payments of up to $500 per tenant, based on need and pursuant to regulations promulgated by the Mayor.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A relocation assistance payment provided under this section shall not be considered income of the recipient under § <cite path="§47-1803.02">47-1803.02</cite>(a)(2).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-114">Apr. 19, 2002, D.C. Law 14-114, § 205, 49 DCR 1468</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-205.05">4-205.05</cite> and § <cite path="§47-1803.02">47-1803.02</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|28A"/>
+    <num codify:value="42-2851.06">206</num>
+    <heading>Section 8 assistance considered income for non-discrimination and minimum income purposes; requirement to accept section 8 vouchers.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The monetary assistance provided to an owner of a housing accommodation under section 8 of the United States Housing Act of 1937, either directly or through a tenant, shall be considered the income of the tenant for the purposes of any minimum income qualification for a dwelling unit in the housing accommodation.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The monetary assistance provided to an owner of a housing accommodation under section 8 of the United States Housing Act of 1937, either directly or through a tenant, shall be considered income and a source of income under § <cite path="§2-1402.21">2-1402.21</cite>.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The owner of a housing accommodation shall not refuse to rent a dwelling unit to a person because the person will provide his or her rental payment, in whole or in part, through a section 8 voucher.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-114">Apr. 19, 2002, D.C. Law 14-114, § 206, 49 DCR 1468</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 59, 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§47-1803.02">47-1803.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in subsec. (b), validated previously made technical changes.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>Section 8 of the United States Housing Act, referred to in subsecs. (a) and (b), is Act Sept. 1, 1937, c. 896, Title I, § 8, which is classified to  42 U.S.C. § 1437f.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|28A"/>
+    <num codify:value="42-2851.07">207</num>
+    <heading>Penalties for noncompliance.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An owner who fails to comply with a requirement of this chapter shall pay a civil fine of no greater than 5 times the costs and damages caused by the noncompliance.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All fines collected pursuant to this section shall be paid into the Housing Production Trust Fund established by Chapter 28 of this title.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor may commence enforcement proceedings for any fine not paid within the time period set forth in regulations.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-114">Apr. 19, 2002, D.C. Law 14-114, § 207, 49 DCR 1468</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|28A"/>
+    <num codify:value="42-2851.08">208</num>
+    <heading>Determination of qualified areas.</heading>
+    <text>Within 30 days after April 19, 2002, the Mayor shall issue a notice of proposed rulemaking setting forth those census tracts which are preliminarily determined to be qualified areas. The Mayor shall issue a notice of final rulemaking setting forth those census tracts which are determined to be qualified areas within 75 days after April 19, 2002. The Mayor shall make a map of the qualified areas, a list of the census tracts determined to be qualified areas, and the boundaries of those tracts available on the Internet. The Mayor shall review and, if necessary, update the map, list, and boundaries at least once every 2 years.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-114">Apr. 19, 2002, D.C. Law 14-114, § 208, 49 DCR 1468</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

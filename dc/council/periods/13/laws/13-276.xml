@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 13-276">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 13-276">
   <num type="law">13-276</num>
   <heading type="short">Newborn Hearing Screening Act of 2000</heading>
   <meta>
@@ -12,4 +12,138 @@
       <narrative>Law 13-276, the “Newborn Hearing Screening Act of 2000”, was introduced in Council and assigned Bill No. 13-474, which was referred to the Committee on Human Services. The Bill was adopted on first and second readings on December 5, 2000, and December 19, 2000, respectively. Signed by the Mayor on January 16, 2001, it was assigned Act No. 13-572 and transmitted to both Houses of Congress for its review. D.C. Law 13-276 became effective on April 4, 2001.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8B"/>
+    <num codify:value="7-851">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Health benefit plan” shall have the same meaning as provided in § <cite path="§31-3301.01">31-3301.01</cite>(20).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Health insurer” shall have the same meaning as provided in § <cite path="§31-3301.01">31-3301.01</cite>(22).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Hearing impairment” means a dysfunction of the auditory system, of any type or degree, which is sufficient to interfere with the acquisition and development of speech and language skills, with or without the use of sound amplification.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-276">Apr. 4, 2001, D.C. Law 13-276, § 2, 48 DCR 1865</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8B"/>
+    <num codify:value="7-852">3</num>
+    <heading>Newborn hearing screening programs.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Each hospital and maternity center in the District of Columbia shall establish a newborn hearing screening program to ensure that all newborns in the hospital or maternity center are screened for hearing impairment before discharge, subject to the limitations stated in subsection (d) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Each test shall be conducted by an audiologist, otolaryngologist, or other qualified person, in accordance with accepted medical practices.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The screening program shall consist of at least one of the following tests:</text>
+      <para>
+        <num>(1)</num>
+        <text>Auditory brain stem response;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Otoacustic emissions; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Other appropriate nationally recognized, objective physiological screening test.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Each hospital and maternity center shall inform the parent of the newborn of the availability of the hearing screening and shall perform the hearing screening unless the procedure is contrary to the parent’s religious beliefs or parental consent is withheld.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Each hospital and maternity center shall document a parent’s consent or refusal to participate in its newborn hearing screening program.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The results of the screening, and recommendations for follow-up testing and treatment when appropriate, shall be provided to the parent and the child’s primary care health care provider, if known, before discharge.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-276">Apr. 4, 2001, D.C. Law 13-276, § 3, 48 DCR 1865</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-855">7-855</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 7(a) of <cite doc="D.C. Law 13-276">D.C. Law 13-276</cite> provided: “(a) Section 3 shall apply on the month 120 days following the effective date of this act.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8B"/>
+    <num codify:value="7-853">4</num>
+    <heading>Health benefit plan reimbursement.</heading>
+    <text>All health insurer health benefit plans shall reimburse for newborn hearing screenings conducted under this subchapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-276">Apr. 4, 2001, D.C. Law 13-276, § 4, 48 DCR 1865</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-855">7-855</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 7(b) of <cite doc="D.C. Law 13-276">D.C. Law 13-276</cite> provided: “(b) Section 4 shall apply to all health benefit plans issued or reissued beginning on the first day of the month 120 days following the effective date of this act.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8B"/>
+    <num codify:value="7-854">5</num>
+    <heading>Rules.</heading>
+    <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2 shall issue rules to implement the provisions of this subchapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-276">Apr. 4, 2001, D.C. Law 13-276, § 5, 48 DCR 1865</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority Pursuant to DC Law 13-276, the “Newborn Hearing Screening Act of 2000”, see Mayor’s Order 2002-12, February 1, 2002 ( 49 DCR 929).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|8B"/>
+    <num codify:value="7-855">6</num>
+    <heading>Applicability of §§ 7-852 and 7-853.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Section 7-852 shall apply on the first day of the month 120 days following April 4, 2001.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Section 7-853 shall apply to all health benefit plans issued or reissued beginning on the first day of the month 120 days following April 4, 2001.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 13-276">Apr. 4, 2001, D.C. Law 13-276, § 6, 48 DCR 1865</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

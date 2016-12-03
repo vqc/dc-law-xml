@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 3-99">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 3-99">
   <num type="law">3-99</num>
   <meta>
     <effective>1980-09-16</effective>
@@ -8,4 +8,389 @@
       <register page="3599" vol="27"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1801">2</num>
+    <heading>Purpose.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 2, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-301.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 9-197</text>
+        <text>Section 23(b) of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that the act shall expire 10 years from the date of its having taken effect. <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> became effective on March 16, 1993.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1802">3</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 3, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 4-156">Sept. 29, 1982, D.C. Law 4-156, §  2(a)-(d), 29 DCR 3612</annotation>
+        <annotation doc="D.C. Law 5-48">Feb. 24, 1984, D.C. Law 5-48, § 12(a), 30 DCR 5778</annotation>
+        <annotation doc="D.C. Law 5-159">Mar. 14, 1985, D.C. Law 5-159, § 12, 32 DCR 30</annotation>
+        <annotation doc="D.C. Law 6-26">Sept. 5, 1985, D.C. Law 6-26, § 3, 32 DCR 3615</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-302.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1803">4</num>
+    <heading>When required.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 4, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 4-156">Sept. 29, 1982, D.C. Law 4-156, § 2(e), 29 DCR 3612</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-303.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1804">5</num>
+    <heading>Adoption of procedures and criteria governing review.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 5, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-304.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1805">6</num>
+    <heading>Required findings.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 6, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 7-90">Mar. 16, 1988, D.C. Law 7-90, § 2, 35 DCR 710</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-305.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1806">7</num>
+    <heading>Issuance of emergency certificate.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 7, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-306.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1807">8</num>
+    <heading>Duration, modification, sale or transfer of certificate.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 8, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-307.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1808">9</num>
+    <heading>Reconsideration of decisions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 9, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-308.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1809">10</num>
+    <heading>Administrative review.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 10, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-309.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1810">11</num>
+    <heading>Judicial review.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 11, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-310.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1811">12</num>
+    <heading>Issuance of certificate as condition precedent.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 12, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-311.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1812">13</num>
+    <heading>Violations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 13, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-312.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1813">14</num>
+    <heading>Immunity from legal liability.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 14, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-313.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1814">15</num>
+    <heading>Moratorium on applications.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 15, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-314.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1815">16</num>
+    <heading>Annual report.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 16, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-315.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1816">17</num>
+    <heading>Adoption of regulations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 17, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-316.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|44|18"/>
+    <reason>Repealed</reason>
+    <num codify:value="44-1817">18</num>
+    <heading>Severability.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-99">Sept. 16, 1980, D.C. Law 3-99, § 18, 27 DCR 3599</annotation>
+        <annotation doc="D.C. Law 9-197">Mar. 16, 1993, D.C. Law 9-197, § 22, 39 DCR 9195</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 32-317.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Severability: Section 21 of <cite doc="D.C. Law 9-197">D.C. Law 9-197</cite> provided that if any provision of the act is held invalid for any reason, the invalidity shall not effect the other provisions which shall be given effect without the invalid provisions.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

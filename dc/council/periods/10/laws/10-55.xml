@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 10-55" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 10-55" flag="true">
   <num type="law">10-55</num>
   <heading type="short">ADMINISTRATION OF MEDICATION BY PUBLIC SCHOOL EMPLOYEES ACT OF 1992</heading>
   <meta>
@@ -10,4 +10,87 @@
     </cites>
     <history url="http://lims.dccouncil.us/Legislation/B10-0014"/>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|6|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-631">2</num>
+    <heading>Definitions</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-55">Oct. 5, 1993, D.C. Law 10-55, § 2, 40 DCR 7219</annotation>
+        <annotation doc="D.C. Law 17-107">Feb. 2, 2008, D.C. Law 17-107, § 14, 54 DCR 12230</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2431.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|6|III"/>
+    <num codify:value="38-632">3</num>
+    <heading>Administration of medication by a public school employee.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-55">Oct. 5, 1993, D.C. Law 10-55, § 3, 40 DCR 7219</annotation>
+        <annotation doc="D.C. Law 10-255">May 16, 1995, D.C. Law 10-255, § 24, 41 DCR 5193</annotation>
+        <annotation doc="D.C. Law 17-107">Feb. 2, 2008, D.C. Law 17-107, § 14, 54 DCR 12230</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2432.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§38-631">38-631</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|6|III"/>
+    <num codify:value="38-633">4</num>
+    <heading>Requirements for the licensed practitioner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-55">Oct. 5, 1993, D.C. Law 10-55, § 4, 40 DCR 7219</annotation>
+        <annotation doc="D.C. Law 17-107">Feb. 2, 2008, D.C. Law 17-107, § 14, 54 DCR 12230</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2433.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§38-631">38-631</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|6|III"/>
+    <num codify:value="38-634">5</num>
+    <heading>Rules and regulations for implementation of subchapter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-55">Oct. 5, 1993, D.C. Law 10-55, § 5, 40 DCR 7219</annotation>
+        <annotation doc="D.C. Law 17-107">Feb. 2, 2008, D.C. Law 17-107, § 14, 54 DCR 12230</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-2434.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>See notes to § <cite path="§38-631">38-631</cite>.</annotation>
+        <annotation>For temporary (90-day) addition of §§ 31-2451 to 31-2454 1981 Ed., see §§ 2 to 5 of the Attendance and School Safety Emergency Act of 2000 (D.C. Act 13-319, April 17, 2000,  47 DCR 2882).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

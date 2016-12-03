@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 5-189">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 5-189">
   <num type="law">5-189</num>
   <heading type="short">Prohibition of the Buying and Selling of Human Body Parts Act of 1984</heading>
   <meta>
@@ -12,4 +12,76 @@
       <narrative>Law 5-189, the “Prohibition of the Buying and Selling of Human Body Parts Act of 1984,” was introduced in Council and assigned Bill No. 5-398, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on December 4, 1984, and December 18, 1984, respectively. Signed by the Mayor on January 11, 1985, it was assigned Act No. 5-254 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|15|I"/>
+    <num codify:value="7-1501.01">2</num>
+    <heading>“Human body parts” defined; prohibited acts.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For the purposes of this subchapter, the term “human body parts” means any portion of a living human body, including, but not limited to, organs, tissues, eyes, bones, veins, and arteries, except that the term shall not mean hair and blood.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>It is unlawful for any person in the District of Columbia to buy, to offer to buy, to sell, to offer to sell, or to procure through purchase any human body part for any reason, including, but not limited to, medical and specific uses, such as transplantation, implantation, infusion, or injection.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-189">Mar. 16, 1985, D.C. Law 5-189, § 2, 32 DCR 931</annotation>
+        <annotation doc="D.C. Law 17-145">Apr. 15, 2008, D.C. Law 17-145, § 30(c), 55 DCR 2532</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2601.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-145">D.C. Law 17-145</cite>, in subsec. (a), substituted “a living human body” for “a human body”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|15|I"/>
+    <num codify:value="7-1501.02">3</num>
+    <heading>Penalties; prosecutions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any person violating any provision of this subchapter or any regulation made pursuant to this subchapter shall be fined not more than $5,000, or be imprisoned for not more than 6 months, or both.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Prosecution for violations of this subchapter and regulations made pursuant to this subchapter shall be brought in the name of the District of Columbia upon information by the Corporation Counsel.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-189">Mar. 16, 1985, D.C. Law 5-189, § 3, 32 DCR 931</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2602.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|15|I"/>
+    <num codify:value="7-1501.03">4</num>
+    <heading>Rules.</heading>
+    <text>The Mayor may issue rules to implement the provisions of this subchapter pursuant to subchapter I of Chapter 5 of Title 2.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-189">Mar. 16, 1985, D.C. Law 5-189, § 4, 32 DCR 931</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-2603.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to Law 5-189, see Mayor’s Order 86-62, April 22, 1986.</annotation>
+        <annotation>Delegation of authority pursuant to Law 5-189, see Mayor’s Order 86-62, April 22, 1986.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

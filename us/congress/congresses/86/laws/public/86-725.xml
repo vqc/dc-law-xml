@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 86-725">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 86-725">
   <num>86-725</num>
   <meta>
     <effective>1960-09-08</effective>
@@ -7,4 +7,796 @@
       <law session="86" lawId="725"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-301">4</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Adult” means a person who is 18 years of age, or older.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Adult student” means a student who is at least 18 years old, or who has been emancipated from parental control by marriage, operation of statute, or the order of a court of competent jurisdiction.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Appointed representative” means an individual acting on behalf of a person, pursuant to his or her written authorization, in presenting to school or chartering authority officials documentation to establish or verify the District residency of the person seeking to enroll the student.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Chartering Authority” means a District entity authorized to grant charters for the establishment of charter schools, pursuant to either subchapter II of Chapter 18 of this title or Chapter 17 of this title.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Child” means a person who is less than 18 years of age.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Custodian” means a person to whom physical custody has been granted by a court of competent jurisdiction.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“District of Columbia public schools” or “DCPS” means the District of Columbia public school system, not including public charter schools.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Guardian” means a person who has been appointed legal guardian of a student by a court of competent jurisdiction.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Orphan” means a child who resides in the District of Columbia and who does not have a living parent or guardian.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Other primary caregiver” means a person other than a parent or court appointed custodian or guardian who is the primary provider of care and support to a child who resides with him or her, and whose parent, custodian, or guardian is unable to supply such care and support and who submits evidence, pursuant to § <cite path="§38-310">38-310</cite> and procedures established pursuant to § <cite path="§38-311">38-311</cite>, that he or she is the primary caregiver of the student.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Parent” means a natural parent, stepparent, or parent by adoption who has custody or control of a student, including joint custody.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Public charter school” means a District school authorized by a chartering authority.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“State Education Office” means the office established by Chapter 26 of this title.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 4</annotation>
+        <annotation doc="D.C. Law 1-75">July 22, 1976, D.C. Law 1-75, § 5(f), 23 DCR 1183</annotation>
+        <annotation doc="D.C. Law 15-205">Dec. 7, 2004, D.C. Law 15-205, § 4012(b), 51 DCR 8441</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§38-304">38-304</cite>.</annotation>
+        <annotation>1981 Ed., § 31-604.</annotation>
+        <annotation>1973 Ed., § 31-309.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> rewrote the section which had read:</annotation>
+        <annotation>“As used in this chapter:</annotation>
+        <annotation>“(1) The term ‘child’ means a person who is less than 18 years of age.</annotation>
+        <annotation>“(2) The term ‘orphan’ means a child who resides in the District of Columbia and who does not have a living parent or guardian.</annotation>
+        <annotation>“(3) The term ‘adult’ means a person who is 18 years of age, or older.</annotation>
+        <annotation>“(4) The term ‘guardian’ means a person:</annotation>
+        <annotation>“(A) Appointed as a guardian for a child by a court of competent jurisdiction; and</annotation>
+        <annotation>“(B) Who has control or custody of such child.</annotation>
+        <annotation>“(5) The term ‘parent’ means a person:</annotation>
+        <annotation>“(A) Who:</annotation>
+        <annotation>“(i) Is a natural parent of a child;</annotation>
+        <annotation>“(ii) Is a stepfather or stepmother of a child; or</annotation>
+        <annotation>“(iii) Has adopted a child; and</annotation>
+        <annotation>“(B) Who has custody or control of such child.</annotation>
+        <annotation>“(6) The term ‘Board of Education’ means the Board of Education of the District of Columbia.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 4012(b) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 4012(b) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of subtitle B of title IV of Law 15-205: Section 4011 of D.C. 15-205 provided that subtitle B of title IV of the act may be cited as the Truth in Student Residency in Public and Public Charter Schools Act of 2004.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Former § <cite path="§38-301">38-301</cite> has been recodified as § <cite path="§38-161">38-161</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-302">2</num>
+    <heading>Tuition required of nonresidents; deposit of payments.</heading>
+    <para>
+      <num>(a)</num>
+      <text>In the case of: (1) each adult who attends a public school of the District of Columbia and does not reside in the District of Columbia; and (2) each child who attends such a public school and does not have a parent, guardian, custodian, or other primary caregiver who resides in the District of Columbia, or is not an orphan; there shall be paid to the State Education Office the amount fixed by the State Education Office pursuant to subsection (b) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The amount which shall be paid with respect to each person subject to subsection (a) of this section shall be fixed by the State Education Office as the amount necessary to cover all expenses incurred by the District of Columbia public schools or public charter schools that are a result of each person’s use of a school’s services, as determined by § <cite path="§38-2602">38-2602</cite>, and in accordance with Chapter 29 of this title. Following the final determination of the amounts, the State Education Office shall publish the tuition rate determinations in the District of Columbia Municipal Regulations.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>All non-resident tuition and fees collected under this section shall be deposited in the Student Residency Verification Fund established by § <cite path="§38-312.02">38-312.02</cite>.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Notwithstanding the provisions of subsection (a) of this section, upon the submission of evidence satisfactory to the State Education Office that care, custody, and substantial support are supplied by the person or persons with whom a child is residing in the District of Columbia, and that the parent or guardian of such child is unable to supply such care, custody, and support, or that such child is self-supporting, such child shall be considered a resident of the District of Columbia for the purpose of school attendance and exempt from the requirement to pay tuition.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Notwithstanding the provisions of subsection (a) of this section, a child in the care and custody of the District pursuant to § <cite path="§16-2320">16-2320</cite>(a)(3) who, while attending a DCPS or public charter school, ceases to be in that care and custody as a result of being placed in the permanent care and custody of a parent, guardian, or custodian who resides outside the District of Columbia shall be considered a resident of the District of Columbia for the purpose of school attendance and shall be exempt from the requirement to pay tuition for the period of time until the child completes the educational program offered at the school the child currently attends.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 853, Pub. L. 86-725, § 2</annotation>
+        <annotation doc="D.C. Law 3-82">Aug. 22, 1980, D.C. Law 3-82, § 2(a), (b), 27 DCR 2647</annotation>
+        <annotation doc="D.C. Law 13-176">Oct. 21, 2000, D.C. Law 13-176, § 8(a), 47 DCR 6835</annotation>
+        <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 92, 51 DCR 881</annotation>
+        <annotation doc="D.C. Law 15-205">Dec. 7, 2004, D.C. Law 15-205, § 4012(a), 51 DCR 8441</annotation>
+        <annotation doc="D.C. Law 19-21">Sept. 14, 2011, D.C. Law 19-21, § 9055, 58 DCR 6226</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 4042, 61 DCR 9990</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 4022, 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Uniform per student funding formula, applicability to nonresident students, see § <cite path="§38-2902">38-2902</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-303">38-303</cite>, § <cite path="§38-306">38-306</cite>, § <cite path="§38-1800.02">38-1800.02</cite>, § <cite path="§38-2602">38-2602</cite>, and § <cite path="§38-2901">38-2901</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-602.</annotation>
+        <annotation>1973 Ed., § 31-307.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-176">D.C. Law 13-176</cite> authorized substitution of State Education Office for Board of Education where appearing in this section.</annotation>
+        <annotation><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsecs. (b) and (c), substituted “State Education Office” for “Board” throughout.</annotation>
+        <annotation><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, in subsec. (a), substituted “parent, guardian, custodian, or other primary caregiver” for “parent or guardian”; and rewrote subsec. (b) which had read:</annotation>
+        <annotation>“(b) The amount which shall be paid with respect to each person subject to subsection (a) of this section shall be fixed by the State Education Office as the amount necessary to cover the expense of tuition and cost of textbooks and school supplies used by such person; provided, that such amounts and changes in the amounts fixed by this subsection are set by the State Education Office in accordance with the provisions of § <cite path="§2-505">2-505</cite>(a). Following the final adoption of such amounts, the State Education Office shall transmit a copy to the Mayor and a copy to the Council of the District of Columbia.”</annotation>
+        <annotation><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (c), substituted “revert to the unrestricted fund balance of the General Fund of the District of Columbia” for “be reserved as a restricted fund balance and used to provide authority to expend for subsequent years subject to the direction of the State Education Office; provided, that the base of the budget of the State Education Office shall be reduced by an amount equal to the estimated revenue from nonresident tuition for fiscal year 1981”.</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> added (e).</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> rewrote (c).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2 of the Waiver of Tuition for Non-Resident Minor Children of Deceased or Incapacitated Parents Emergency Amendment Act of 1994 (D.C. Act 10-237, April 28, 1994,  41 DCR 2606).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 4012(a) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 4012(a) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §  4042 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §  4042 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §  4042 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 4022 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-303">3</num>
+    <heading>Regulations determining tuition requirement; penalties; prosecutions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The State Education Office shall take such action as may be necessary to determine which of the persons, attending or desiring to attend the public schools of the District of Columbia, for whom tuition shall be paid as required by § <cite path="§38-302">38-302</cite>, and said State Education Office is authorized to make regulations to carry out the intent and purposes of this chapter; provided, that such rules and all changes proposed to such rules are issued by the State Education Office in accordance with the provisions of § <cite path="§2-505">2-505</cite>(a). Following the final adoption of such rules, the State Education Office shall transmit a copy to the Mayor and a copy to the Council of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any person who makes a statement required or authorized by this chapter to be filed with the State Education Office knowing that the information set forth in such statement is false shall be fined not more than $300 or imprisoned for not more than 90 days, or both. Any person violating any regulation made pursuant to the authority in this chapter shall be fined not more than $100 or imprisoned for not more than 30 days.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>All prosecutions for violations of this chapter, or regulations made pursuant thereto, shall be conducted in the name of the District of Columbia by the Corporation Counsel or any of his assistants. As used in this chapter the term “Corporation Counsel” means the attorney for the District of Columbia, by whatever title such attorney may be known, designated by the Mayor of the District of Columbia to perform the functions prescribed for the Corporation Counsel in this chapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 853, Pub. L. 86-725, § 3</annotation>
+        <annotation doc="D.C. Law 3-82">Aug. 22, 1980, D.C. Law 3-82, § 2(c), 27 DCR 2647</annotation>
+        <annotation doc="D.C. Law 13-176">Oct. 21, 2000, D.C. Law 13-176, § 8(a), 47 DCR 6835</annotation>
+        <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105, § 92, 51 DCR 881</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-2602">38-2602</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-603.</annotation>
+        <annotation>1973 Ed., § 31-308.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (a), substituted “State Education Office” for “Board” throughout.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-304">5</num>
+    <heading>Authority not affected by Reorganization Plan; delegation of functions; § 38-161 to remain in full force and effect.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Nothing in this chapter shall be construed so as to affect the authority vested in the Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952 (66 Stat. 824). The performance of any function vested by this chapter in the Commissioners of the District of Columbia or in any office or agency under the jurisdiction and control of said Commissioners may be delegated by said Commissioners in accordance with § 3 of such Plan.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This chapter shall not be construed as superseding § <cite path="§38-161">38-161</cite>, and such section shall continue in full force and effect.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 5</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§38-305">38-305</cite>.</annotation>
+        <annotation>1981 Ed., § 31-605.</annotation>
+        <annotation>1973 Ed., § 31-310.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Former § <cite path="§38-304">38-304</cite> has been recodified as § <cite path="§38-301">38-301</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-305">7</num>
+    <heading>Teachers College tuition.</heading>
+    <text>Nothing contained in this chapter shall be construed as preventing the Board of Education from requiring students of the District of Columbia Teachers College to pay tuition, and the said Board is authorized, in its discretion, to require the payment of tuition by the students of such college, whether or not resident in the District of Columbia, with the exception of those students who are authorized to be excused from the payment of tuition by an act other than this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 7</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Uniform per student funding formula, applicability to nonresident students, see § <cite path="§38-2902">38-2902</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>2001 Ed., § <cite path="§38-306">38-306</cite>.</annotation>
+        <annotation>1981 Ed., § 31-606.</annotation>
+        <annotation>1973 Ed., § 31-311.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Former § <cite path="§38-305">38-305</cite> has been recodified as § <cite path="§38-304">38-304</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-306">9</num>
+    <heading>Proof of residency.</heading>
+    <text>All students enrolled in District of Columbia public schools and public charter schools funded by the District of Columbia or a student for whom educational services are paid by the District of Columbia shall provide proof of residency in the District or pay tuition pursuant to § <cite path="§38-302">38-302</cite>. A determination of residency status shall be made annually for each such student. The methods used to determine residency status shall be consistent across District of Columbia public schools and public charter schools and shall be crafted to facilitate rather than hinder school enrollment of eligible students.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 9</annotation>
+        <annotation doc="D.C. Law 15-205">as added Dec. 7, 2004, D.C. Law 15-205, § 4012(c), 51 DCR 8441</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 4012(a), 55 DCR 7598</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> rewrote the section, which had read as follows: “All students enrolled in District of Columbia public schools and public charter schools must provide proof of residency in the District or pay tuition pursuant to § <cite path="§38-302">38-302</cite>. A determination of residency status shall be made annually for each student. The methods used to determine residency status shall be consistent across District of Columbia public schools and public charter schools and shall be crafted to facilitate rather than hinder school enrollment of eligible students.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 4011 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided that subtitle F of title IV of the act may be cited as the “Residency Verification Amendment Act of 2008”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Former § <cite path="§38-306">38-306</cite> has been recodified as § <cite path="§38-305">38-305</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-307">10</num>
+    <heading>Nonresident free tuition.</heading>
+    <text>A student entitled to enrollment without payment of nonresident tuition shall be either:</text>
+    <para>
+      <num>(1)</num>
+      <text>A child who is otherwise eligible for admission to the DCPS or a public charter school, and who qualifies for free instruction under one of the following categories:</text>
+      <para>
+        <num>(A)</num>
+        <text>A child who is in the care or control of a parent, custodian, or guardian who is a resident of the District;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A child who is in the care or control of a District resident who is his or her other primary caregiver, as established pursuant to § <cite path="§38-310">38-310</cite>;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A child who is a resident of the District and does not have a living parent, custodian, guardian, or other primary caregiver in the United States;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A child who is a ward of the District; or</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>A child who is living with his or her spouse, when the spouse is at least 18 years old and is a resident of the District.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>An adult student who is otherwise eligible for admission to the DCPS or a public charter school and is a resident of the District. For the purposes of this chapter, the residence of an adult student is the address of the adult student, not the address of the adult student’s parent, custodian, guardian or other primary caregiver.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 10</annotation>
+        <annotation doc="D.C. Law 15-205">as added Dec. 7, 2004, D.C. Law 15-205, § 4012(c), 51 DCR 8441</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-308">11</num>
+    <heading>Establishment of residency.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The residency status of each student enrolling in a DCPS school or public charter school funded by the District of Columbia or a student for whom educational services are paid by the District of Columbia shall be established by October 5, or within 10 days of the time of initial enrollment, whichever occurs later, within the school year for which the student is being enrolled. Residency status shall be re-established annually. Residency status shall be established through the use of satisfactory documentation as set forth in §§ <cite path="§38-309">38-309</cite> and <cite path="§38-310">38-310</cite>. The State Education Office, pursuant to § <cite path="§38-2604">38-2604</cite>(b)(3), shall establish such rules and procedures to carry out residency verification as it deems appropriate and as are consistent with this chapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>For a student whose primary caregiver is not a parent, custodian or guardian, establishment of residency shall also include documentation that the District resident seeking to enroll the student is his or her primary caregiver, as set forth in § <cite path="§38-310">38-310</cite> and procedures established pursuant to § <cite path="§38-311">38-311</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 11</annotation>
+        <annotation doc="D.C. Law 15-205">as added Dec. 7, 2004, D.C. Law 15-205, § 4012(c), 51 DCR 8441</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 4012(b), 55 DCR 7598</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-310">38-310</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite>, in subsec. (a), substituted “charter school funded by the District of Columbia or a student for whom educational services are paid by the District of Columbia shall be established” for “charter school shall be established”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-309">12</num>
+    <heading>Documentation to be submitted at the attending school in order to establish residency.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Documentation satisfactory to establish District residency for local school verification and certification must be delivered to the school principal or to his or her employee designee either by the person seeking to enroll the student or by that person’s appointed representative.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>One of the following items shall establish District residency for the purposes of this chapter:</text>
+      <para>
+        <num>(1)</num>
+        <text>Proof of payment of District personal income tax, in the name of the person seeking to enroll the student, for the tax period closest in time to the consideration of District residency;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A pay stub issued less than 45 days prior to consideration of residency in the name of the person seeking to enroll the student that shows his or her District residency and evidence of the withholding of District income tax;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Current official documentation of financial assistance received by the person seeking to enroll the student, from the District Government including, but not limited to Temporary Assistance for Needy Families (TANF), Medicaid, the State Child Health Insurance Program (SCHIP), Supplemental Security Income (SSI), housing assistance, or other governmental programs;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Confirmation, based upon completion and submission of a tax information authorization waiver form, by the District Office of Finance and Revenue of payment of District income taxes by the person seeking to enroll the student;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Current official military housing orders showing residency in the District of the person seeking to enroll the student; or</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A currently valid court order indicating that the student is a ward of the District.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Providing 2 of the following items shall also suffice as proof of residency in the District:</text>
+      <para>
+        <num>(1)</num>
+        <text>A current motor vehicle registration in the name of the person seeking to enroll the student and evidencing District residency;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A valid unexpired lease or rental agreement in the name of the person seeking to enroll the student, and paid receipts or canceled checks (for a period within 2 months immediately preceding consideration of residency) for payment of rent on a District residence in which the student actually resides;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A valid unexpired District motor vehicle operator’s permit or other official non-driver identification in the name of the person seeking to enroll the student; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Utility bills (excluding telephone bills) and paid receipts or cancelled checks (from a period within the 2 months immediately preceding consideration of residency) in the name of the person seeking to enroll the student that show a District residence address.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>If the person seeking to enroll the student is unable to produce documents complying with this section, the principal, or the principal’s designated employee, at his or her option and with the agreement of the person seeking to enroll the student, may conduct a home visit to determine residency. Use of the home visit as a residency verification measure requires a sworn affidavit by the principal of the school or the principal’s designee attesting that residency of the student was confirmed by a home visit, by the principal or the principal’s designee, made within 45 days of enrollment. A residency verification home visit form must be completed by the principal or the principal’s designee. Residency verification home visit forms shall be issued by the State Education Office, and shall be available at all DCPS Schools, public charter schools, the DCPS student residency office, the District Board of Education’s Public Charter School Office, the Public Charter School Board, and the State Education Office.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>If the person seeking to enroll the student cannot establish residency pursuant to this subsection then the principal or the principal’s designee attempting to verify residency shall refer the person to the DCPS student residency office or the appropriate chartering authorities, and procedures established by them pursuant to § <cite path="§38-311">38-311</cite> shall be followed.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 12</annotation>
+        <annotation doc="D.C. Law 15-205">as added Dec. 7, 2004, D.C. Law 15-205, § 4012(c), 51 DCR 8441</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-308">38-308</cite>, § <cite path="§38-310">38-310</cite>, and § <cite path="§38-311">38-311</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-310">13</num>
+    <heading>Documentation to be submitted to establish status as other primary caregiver.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A person seeking to enroll a student as an other primary caregiver shall provide documentation that establishes his or her status as an other primary caregiver in conjunction with documentation that establishes the caregiver’s residency status pursuant to §§ <cite path="§38-308">38-308</cite> and <cite path="§38-309">38-309</cite>.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Status as an other primary caregiver shall be established through the use of one of the following items:</text>
+      <para>
+        <num>(1)</num>
+        <text>Previous school records indicating that the student is in the care of the caregiver;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Immunization or medical records indicating that the student is in the care of the caregiver;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Proof that the caregiver receives public or medical benefits on behalf of the student;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A signed statement, sworn under penalty of perjury, that he or she is the primary caregiver for the student; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>An attestation from a legal, medical or social service professional attesting to the caregiver’s status relevant to the student.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The statement submitted pursuant to paragraph (4) of this subsection shall be submitted on a standard form to be issued by the State Education Office, and shall be available at all District of Columbia public schools buildings, public charter schools, the DCPS student residency office, the Board of Education’s public charter school office, the Public Charter School Board, and the State Education Office. The form shall delineate appropriate indicators of primary caregiver status. The statement need not be notarized, but shall make clear that it is sworn under penalty of perjury;</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The attestation submitted pursuant to paragraph (5) of this section shall be submitted on a standard form to be issued by the State Education Office. The form shall delineate appropriate indicators of the status, and shall be available at all District of Columbia public school buildings, public charter schools, the DCPS student residency office, the Board of Education’s public charter school office, the Public Charter School Board, and the State Education Office. The attestation need not be notarized.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>If the person seeking to enroll the student cannot establish his or her primary caregiver status pursuant to this section then the principal or the principal’s designee attempting to verify residency shall refer the person to the DCPS student residency office or the appropriate chartering authority and procedures established by the Board of Education or the appropriate chartering authority pursuant to § <cite path="§38-311">38-311</cite> shall be followed.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 13</annotation>
+        <annotation doc="D.C. Law 15-205">as added Dec. 7, 2004, D.C. Law 15-205, § 4012(c), 51 DCR 8441</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-301">38-301</cite>, § <cite path="§38-307">38-307</cite>, § <cite path="§38-308">38-308</cite>, and § <cite path="§38-311">38-311</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-311">14</num>
+    <heading>Authorities to establish procedures if unable to confirm residency and other primary caregiver status at the attending school.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Board of Education and the chartering authorities shall establish such procedures as they deem appropriate to establish residency and other primary caregiver status in cases where persons seeking to enroll students in schools under their supervision are unable to prove residency or other primary caregiver status at the local school level under § <cite path="§38-309">38-309</cite> and 38-310. The established procedures shall be provided to the State Education Office by the aforementioned agencies no later than 30 calendar days before the first day of school.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The procedures established pursuant to subsection (a) of this section shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provide for the designation of officials authorized to determine residency and other primary caregiver status;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Include the designation of forms and methods to document residency and other primary caregiver status in addition to those set forth in this chapter, for use when documents set forth in this chapter are unavailable or are of questionable authenticity;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Establish investigation and appeal procedures for persons seeking to enroll students whose residency or other primary caregiver documentation is found to be unsatisfactory;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Provide for written notification of the determination of residency and other primary caregiver status to the person seeking to enroll the student, and, in the case of those whose documentation is found to be unsatisfactory, the reasons therefor and a written description of procedures for administrative review and appeal of the determination;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Include rules and criteria to permit students to attend school without prepayment of tuition during any administrative review and appeal procedures on their residency status;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Designate the point at which the administrative determination is final; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Include procedures for the payment of non-resident tuition on behalf of students found not to be residents of the District and for their exclusion from DCPS or public charter schools, upon their failure to pay such tuition.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The procedures promulgated pursuant to this section shall be subject to approval by the State Education Office, which shall act to approve or disapprove the procedures within 30 calendar days of receipt of the proposed procedures.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 14</annotation>
+        <annotation doc="D.C. Law 15-205">as added Dec. 7, 2004, D.C. Law 15-205, § 4012(c), 51 DCR 8441</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-301">38-301</cite>, § <cite path="§38-308">38-308</cite>, § <cite path="§38-309">38-309</cite>, and § <cite path="§38-310">38-310</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-312">15</num>
+    <heading>False information; penalty.</heading>
+    <text>The fact that a parent or caregiver of a student has provided satisfactory evidence of residency or other primary caregiver status pursuant to this chapter shall not prevent a principal or other school administrator, a chartering authority, or the Office of the State Superintendent of Education from establishing by information and other evidence that a student or the student’s parent or primary caregiver is not in fact a District of Columbia resident or an other primary caregiver. Any person, including any District of Columbia public schools or public charter school official, who knowingly supplies false information to a public official in connection with student residency verification shall be subject to charges of tuition retroactively, and payment of a fine of not more than $2,000, or imprisonment for not more than 90 days, but not both a fine and imprisonment. The case of a person who knowing supplies false information may be referred by the Office of the State Superintendent of Education to the Office of Attorney General for consideration for prosecution.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 15</annotation>
+        <annotation doc="D.C. Law 15-205">as added Dec. 7, 2004, D.C. Law 15-205, § 4012(c), 51 DCR 8441</annotation>
+        <annotation doc="D.C. Law 19-126">May 9, 2012, D.C. Law 19-126, § 2(a), 59 DCR 1939</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-126">D.C. Law 19-126</cite> rewrote the section, which formerly read:</annotation>
+        <annotation>“The fact that a parent or caregiver of a student has provided satisfactory evidence of residency or other primary caregiver status pursuant to this chapter shall not prevent a principal or other school administrator, the Board of Education, a chartering authority, or the State Education Office from establishing by information and other evidence that a student or the student’s parent or primary caregiver is not in fact a District of Columbia resident or an other primary caregiver. Any person, including any District of Columbia public schools or public charter school official, who knowingly supplies false information to a public official in connection with student residency verification shall be subject to charges of tuition retroactively, payment of a fine of not more than $500, or imprisonment for not more than 90 days, or any combination thereof. The case of a person who knowing supplies false information may be referred to the Office of the Attorney General for consideration for prosecution.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+        <annotation>For temporary (90 day) repeal of section 3 of <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite>, see § 7012 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012,  59 DCR 7764).</annotation>
+        <annotation>For temporary (90 day) repeal of section 3 of <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite>, see § 7012 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012,  59 DCR 9290).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 3 of <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite> provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan. <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite>, § 3, was repealed by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite>, § 7012.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-312.01">15a</num>
+    <heading>False information hotline.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Office of the State Superintendent of Education shall establish a hotline to receive tips and information regarding the non-District residence, or other primary caregiver status, of a parent or a primary caregiver of a student in a District of Columbia public school or a public charter school.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>District of Columbia public schools and public charter schools shall post a sign, which is clearly visible and not smaller than 8.5 inches by 11 inches, at each location where admission procedures take place and in each principal’s office, notifying the public of the hotline and of the penalties set forth in this chapter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Office of the State Superintendent of Education shall ensure that District of Columbia public schools and public charter schools investigate an allegation received through the hotline or through any other source of information.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Office of the State Superintendent of Education shall refer to the Office of the Attorney General all cases concerning any person, including any official of a District of Columbia public school or public charter school, who knowingly supplies false information to a public official in connection with the verification of residency or primary caregiver status.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Attorney General shall keep a log of all cases referred by the Office of the State Superintendent of Education and issue a report by May 1, 2012. The report shall include:</text>
+        <para>
+          <num>(A)</num>
+          <text>The number of cases reported pursuant to this subsection;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The number of students involved in each case;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>A list of schools involved in each case; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The resources needed to prosecute each case.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 15a</annotation>
+        <annotation doc="D.C. Law 19-126">as added May 9, 2012, D.C. Law 19-126, § 2(b), 59 DCR 1939</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal of section 3 of <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite>, see § 7012 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012,  59 DCR 7764).</annotation>
+        <annotation>For temporary (90 day) repeal of section 3 of <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite>, see § 7012 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012,  59 DCR 9290).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 3 of <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite> provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan. <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite>, § 3, was repealed by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite>, § 7012.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-312.02">15b</num>
+    <heading>Student Residency Verification Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a nonlapsing fund the Student Residency Verification Fund (“Fund”), which shall be used for the purposes set forth in subsection (b) of this section. All funds deposited in the Fund, and any interest earned on those funds, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (b) of this section without regard to fiscal year limitation, subject to authorization by Congress.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Fund shall be used solely to fund enforcement activities concerning student residency and primary caregiver status verification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Fund shall be administered by the Office of the State Superintendent of Education.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Fund shall consist of the revenue from the following sources:</text>
+      <para>
+        <num>(1)</num>
+        <text>All payments collected pursuant to this chapter; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All non-resident tuition and fees collected pursuant to § <cite path="§38-302">38-302</cite>(c).</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 15b</annotation>
+        <annotation doc="D.C. Law 19-126">as added May 9, 2012, D.C. Law 19-126, § 2(b), 59 DCR 1939</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 4023, 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> rewrote (d).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal of section 3 of <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite>, see § 7012 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012,  59 DCR 7764).</annotation>
+        <annotation>For temporary (90 day) repeal of section 3 of <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite>, see § 7012 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012,  59 DCR 9290).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 4023 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 3 of <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite> provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan. <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite>, § 3, was repealed by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite>, § 7012.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-312.03">15c</num>
+    <heading>Report on the status of residency fraud investigations, levying and collection of fines, and retroactive tuition.</heading>
+    <text>The Mayor shall submit a report to the Council on the status of residency fraud investigations and the levying and collection of fines and retroactive tuition within 30 days of May 9, 2012, and on an annual basis thereafter. The report for each local education agency shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>The number of cases investigated due to suspected fraud;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The number of cases that were determined to be residency fraud;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Of the cases that were determined to be residency fraud, the number that were assessed fines or retroactive tuition charges;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The amount of fines and retroactive tuition charges imposed; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The amount of fines and retroactive tuition collected.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 15c</annotation>
+        <annotation doc="D.C. Law 19-126">as added May 9, 2012, D.C. Law 19-126, § 2(b), 59 DCR 1939</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) repeal of section 3 of <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite>, see § 7012 of Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C. Act 19-383, June 19, 2012,  59 DCR 7764).</annotation>
+        <annotation>For temporary (90 day) repeal of section 3 of <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite>, see § 7012 of Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012,  59 DCR 9290).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 3 of <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite> provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan. <cite doc="D.C. Law 19-126">D.C. Law 19-126</cite>, § 3, was repealed by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite>, § 7012.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3"/>
+    <num codify:value="38-313">16</num>
+    <heading>Rules.</heading>
+    <text>The Mayor shall promulgate rules pursuant to this chapter. The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within the 45-day period, the proposed rules shall be deemed approved.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 86-725">Sept. 8, 1960, 74 Stat. 854, Pub. L. 86-725, § 16</annotation>
+        <annotation doc="D.C. Law 15-205">as added Dec. 7, 2004, D.C. Law 15-205, § 4012(c), 51 DCR 8441</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4012(c) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

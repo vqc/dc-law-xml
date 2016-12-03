@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 17-250" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 17-250" flag="true">
   <num type="law">17-250</num>
   <heading type="short">Clean and Affordable energy Amendment Act of 2008</heading>
   <meta>
@@ -12,4 +12,1592 @@
       <narrative>Law 17-250, the “Clean and Affordable energy Amendment Act of 2008”, was introduced in Council and assigned Bill No. 17-492 which was referred to the Committee on Public Services and Consumer Affairs. The Bill was adopted on first and second readings on July 1, 2008, and July 15, 2008, respectively. Signed by the Mayor on August 4, 2008, it was assigned Act No. 17-497 and transmitted to both Houses of Congress for its review. D.C. Law 17-250 became effective on October 22, 2008.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17N|I"/>
+    <num codify:value="8-1773.01">101</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Commission” means the Public Service Commission.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“District Department of the Environment,” “DDOE,” or “Energy Office” means the District Department of the Environment Energy Office.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Electric company” shall have the same meaning as in § <cite path="§34-207">34-207</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Energy Assistance Trust Fund” or “EATF” means the Energy Assistance Trust Fund established under § <cite path="§8-1774.11">8-1774.11</cite>.</text>
+    </para>
+    <para>
+      <num>(4A)</num>
+      <text>“ENERGY STAR Portfolio Manager” means the ENERGY STAR Portfolio Manager tool developed by the Environmental Protection Agency, or any alternative approved by the Mayor that rates the performance of a qualifying building, relative to similar buildings nationwide, accounting for the impacts of year-to-year weather variations, building size, location, and several operating characteristics, using the Environmental Protection Agency’s national energy performance rating system.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Existing electricity programs” means those programs operated by the District Department of the Environment under the names “Weatherization Plus,” “Low Income Appliance Replacement Program,” and “Weatherization and Rehabilitation.”</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Existing low-income program” means the program operated under the name “LIHEAP Expansion and Energy Education”.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Existing natural gas programs” means those programs proposed or operated by the District Department of the Environment under the names “Heating System Repair, Replacement, and Tune-Up Program,” “Residential Weatherization and Efficiency Program,” “Energy Awareness Program”. and “Saving Energy in D.C. Schools.”</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Fiscal Agent” means the Office of the Chief Financial Officer.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Gas company” shall have the same meaning as in § <cite path="§34-209">34-209</cite>.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Green-collar jobs” means jobs in the environmental sector of the economy which jobs may involve the implementation of environmentally-conscious design, policy, or technology.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“OIML” means the International Association of Legal Metrology.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Request for Proposals” or “RFP” means the request for proposals prepared by the District Department of the Environment for the SEU.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“Residential Aid Discount” means the utility discount program offered by the electric company to low-income electricity customers in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>“Residential Essential Service” means the utility discount program offered by the gas company to low-income natural gas customers in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>“Solar thermal systems” means systems which utilize the sun’s radiation to efficiently heat fluids or air.</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>“SRCC” means the Solar Rating and Certification Corporation.</text>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>“Substantial improvement” has the same meaning as in section 202 of Title 12J of the District of Columbia Municipal Regulations (12J DCMR § 202).</text>
+    </para>
+    <para>
+      <num>(18)</num>
+      <text>“Sustainable Energy Trust Fund” or “SETF” means the Sustainable Energy Trust Fund established under § <cite path="§8-1774.10">8-1774.10</cite>.</text>
+    </para>
+    <para>
+      <num>(19)</num>
+      <text>“Sustainable Energy Utility” or “SEU” means the private contractor selected to develop, coordinate, and provide programs for the purpose of promoting the sustainable use of energy in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(20)</num>
+      <text>“Sustainable Energy Utility Advisory Board”, “Advisory Board”, or “Board” means the board established under § <cite path="§8-1774.03">8-1774.03</cite> that advises the DDOE on the procurement of the contract with the SEU and monitors the progress of the SEU under its contract.</text>
+    </para>
+    <para>
+      <num>(21)</num>
+      <text>“Temporary electricity programs” means those programs operated by the District Department of the Environment under the names “Affordable Housing Energy Efficient Rebate Program”, “Weatherization Rehabilitation Asset Partnership”, and “Home Energy Rating System”.</text>
+    </para>
+    <para>
+      <num>(22)</num>
+      <text>“Utility or energy company” means a company distributing, supplying, or transmitting electricity or natural gas in the District of Columbia.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 101, 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 18-195">July 23, 2010, D.C. Law 18-195, § 2(a), 57 DCR 4519</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 62(a), 59 DCR 6190</annotation>
+        <annotation doc="D.C. Law 20-142">Dec. 17, 2014, D.C. Law 20-142, § 101(a), 61 DCR 8045</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 2102(a), 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-195">D.C. Law 18-195</cite> rewrote par. (6), which had read as follows: “(6) ‘Existing low-income programs’ means those programs operated by the District Department of the Environment under the names ‘LIHEAP Expansion and Energy Education,’ ‘RAD Expansion,’ ‘RAD Arrearages Retirement and Education Program,’ and ‘Residential Essential Service Expansion and Awareness Program’.”</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “Green-collar” for “Green collar” in (10); and validated previously made technical corrections in (3) and (22).</annotation>
+        <annotation>The 2014 amendment by <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> added (4A).</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> rewrote (6).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 101 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Residential Aid Discount Subsidy Stabilization Emergency Amendment Act of 2010 (D.C. Act 18-398, May 10, 2010,  57 DCR 4362).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2102(a) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2102(a) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2102(a) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 801 of <cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> provided: “Sec. 801. Applicability. This act shall apply on the later of October 1, 2008, or the effective date of this act.”</text>
+        <text>Applicability of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite>: Section 502(a) of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> provided that Title I of the act, §§ 1<cite path="§01-111">01-111</cite>, shall apply as of January 1, 2015.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§8-1774.12" path="|8|17N|II"/>
+    <num codify:value="8-1774.01">201</num>
+    <heading>Contract with a Sustainable Energy Utility.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor, by, and through DDOE, shall contract with a SEU to conduct sustainable energy programs on behalf of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The SEU shall be a private entity.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The SEU shall conduct the sustainable energy programs under a brand name to be determined by the District Department of the Environment.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The SEU contract shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provide minimum performance benchmarks consistent with the purposes of this chapter, including:</text>
+        <para>
+          <num>(A)</num>
+          <text>Reducing energy consumption in the District;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Increasing renewable energy generating capacity in the District;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Increasing the energy efficiency and renewable energy generating capacity of low-income housing, shelters, clinics, or other buildings serving low-income residents in the District; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Increasing the number of green-collar jobs in the District; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Require the SEU to track and report to DDOE, at least semiannually, on the reduction of the growth in peak electricity demand and the reduction in the growth of energy demand of the District’s largest energy users due to SEU programs.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The SEU contract shall be funded by the SETF. The SEU contract may also be funded by any other source of funding available to the Mayor, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Federal funds;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Private funds, subject to DDOE approval; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Other District funds.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>All funds used to support the SEU contract shall be managed by the Fiscal Agent.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The SEU contract shall permit coordination with any similar private entity operating in an adjacent or nearby jurisdiction.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>The use of private grant money by the SEU shall be subject to DDOE approval.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>Notwithstanding the provisions of Unit A of Chapter 3 of Title 2 [§ <cite path="§2-301.01">2-301.01</cite> et seq.], the SEU contract shall be awarded pursuant to the procedure set forth under this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 201, 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 6062(a), 61 DCR 9990</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 6092(a), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1774.02">8-1774.02</cite>, § <cite path="§8-1774.03">8-1774.03</cite>, and § <cite path="§8-1774.04">8-1774.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> rewrote (d)(4).</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> rewrote (d).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 201 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §  6072(a) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §  6062(a) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §  6062(a) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 6092(a) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§8-1774.12" path="|8|17N|II"/>
+    <num codify:value="8-1774.02">202</num>
+    <heading>Structure of the SEU contract.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The initial SEU contract shall be for a period of not less than 5 years. Upon the expiration of the initial SEU contract, including any option years, subsequent SEU contracts shall be multiyear contracts of not less than 4 years. If options to extend the SEU contract are included in subsequent SEU contracts, the option periods shall be for not less than 2 years.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The SEU contract shall be funded as provided in § <cite path="§8-1774.01">8-1774.01</cite>(e).</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The SEU contract shall be performance-based and shall provide financial incentives for the SEU to surpass the performance benchmarks set forth in the SEU contract. The SEU contract shall also provide financial penalties to be applied to the SEU if the SEU fails to meet the required performance benchmarks.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The SEU contract shall require that the SEU energy efficiency programs shall, when taken as a whole, meet the societal benefit test on a contract-term basis.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Each bid shall detail how the contractor proposes to nearly meet, meet, or exceed each performance benchmark. The performance benchmarks shall be set forth in the bid.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The SEU contract shall permit the programs, benchmarks, and level of funding to be changed at any time with the approval of both the SEU and the DDOE. No change to the funding shall allow the Mayor to exceed the SETF funding limits set forth in § <cite path="§8-1774.10">8-1774.10</cite>.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The SEU contract shall be revocable if the SEU fails to meet the performance benchmarks of the contract.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>The SEU contract shall provide that the annual expenditure on natural gas-related programs shall be no less than 75% of the amount provided in the contract from the assessment on the natural gas company.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>The SEU contract shall provide that the expenditure on electricity-related programs shall be no less than 75% of the amount provided in the contract from the assessment on the electricity company.</text>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>Subsections (h) and (i) shall not apply to funds from a source other than an assessment on the gas company or the electric company.</text>
+    </para>
+    <para>
+      <num>(k)</num>
+      <text>The SEU contract shall provide that the SEU shall submit, to the DDOE and Board, a quarterly report detailing expenditures under the contract and performance of SEU programs.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 202, 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 18-331">Mar. 31, 2011, D.C. Law 18-331, § 3(a), 58 DCR 22</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 6062(b), 61 DCR 9990</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 6092(b), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-331">D.C. Law 18-331</cite>, in subsec. (d), substituted “energy efficiency programs” for “program”.</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> added the last two sentences in (a).</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “on a contract-term basis” for “on an annual and contract-term basis” in (d); and substituted “75% of the amount” for “75%, and no greater than 125%, of the amount” in (h) and (i).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Section 2(a) of <cite doc="D.C. Law 18-269">D.C. Law 18-269</cite>, in subsec. (d), substituted “energy efficiency programs” for “program”.</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 18-269">D.C. Law 18-269</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 202 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Sustainable Energy Utility Emergency Amendment Act of 2010 (D.C. Act 18-521, July 30, 2010,  57 DCR 7999).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 6072(b) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July  14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 6062(b) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 1091, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 6062(b) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 6092(b) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§8-1774.12" path="|8|17N|II"/>
+    <num codify:value="8-1774.03">203</num>
+    <heading>Establishment of a Sustainable Energy Utility Advisory Board.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a Sustainable Energy Utility Advisory Board whose purpose shall be to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provide advice, comments, and recommendations to the DDOE and Council regarding the procurement and administration of the SEU contract described in §§ <cite path="§8-1774.01">8-1774.01</cite> and <cite path="§8-1774.02">8-1774.02</cite>[;]</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Advise the DDOE on the performance of the SEU under the SEU contract; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Monitor the performance of the SEU under the SEU contract.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Board shall be comprised of:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor, or his or her designee, who shall chair the Advisory Board;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The People’s Counsel or his or her designee;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Chair of the Public Service Commission or his or her designee;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>One member appointed by the Chairman of the Council committee with oversight of the Energy Office;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>One member appointed by the Chairman of the Council;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>One member, appointed by the Mayor, representing the renewable energy industry;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>One member, appointed by the Mayor, representing an environmental group;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>One member, appointed by the Mayor, representing the low-income community;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>One member, appointed by the Mayor, representing the building construction industry;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>One member, appointed by the Mayor, representing the building management industry;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>One member, appointed by the Mayor, representing the economic development community with particular expertise in the generation of green-collar jobs;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>One member, appointed by the Mayor, representing the electric company; and</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>One member, appointed by the Mayor, representing the gas company.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Each member of the Advisory Board appointed by the Mayor or Council shall have demonstrable expertise in energy efficiency or renewable energy.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Board members shall be entitled to reimbursement for expenses, including transportation, parking, mileage expenses, and conference admission fees incurred in the performance of official duties of the Board. The reimbursement shall be limited to $2,000 per board member per year.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Each member of the Board shall serve a 3-year term.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Mayor, Council Chairman, or Chairman of the Council committee with oversight of the Energy Office may replace any appointee at any time, but shall not replace the appointee to any individual position more than 2 times per calendar year.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Any Board member who is an employee of the District government, or who serves on the Board as the representative of a particular organization, group, business, or other entity, including an elected official, shall be removed from the Board upon leaving the employment of the District government, elected office, or other entity, as applicable.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 203, 55 DCR 9225</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1773.01">8-1773.01</cite> and § <cite path="§8-1774.10">8-1774.10</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 203 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Sustainable Energy Utility Emergency Amendment Act of 2009 (D.C. Act 18-178, August 3, 2009,  56 DCR 6893).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§8-1774.12" path="|8|17N|II"/>
+    <num codify:value="8-1774.04">204</num>
+    <heading>Operations of the Sustainable Energy Utility Advisory Board.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 45 days after October 22, 2008, the Mayor, Council Chairman, and Chairman of the Council committee with oversight of the Energy Office shall appoint the respective members of the Board.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Within 120 days after October 22, 2008, the Board shall adopt rules and procedures governing its meetings and decisionmaking processes. The procedures shall include a formal means for members of the Board to submit their dissent from the recommendations of the Board with the comments of the Board provided to the DDOE.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>At least biennially, the Board shall recommend changes to the performance benchmarks of the SEU contract to DDOE.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>During the term of a SEU contract, the Board shall meet quarterly with representatives from the SEU to monitor the performance of the SEU and programs operated by the SEU.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Board shall present a report on the progress of the SEU to the Council annually, with the 1st report being due 30 days after the conclusion of the 1st year of the SEU contract. The DDOE shall make this document available to the public on its website within 10 days of its submission to the Council.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>The Board may convene any subcommittees and working groups it considers appropriate without any limitation as to the membership of such groups.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>All Board meetings shall be subject to the open meeting provisions contained in § <cite path="§1-207.42">1-207.42</cite>.</text>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>The DDOE shall provide staff resources to the Board and coordinate the involvement of staff from the Public Service Commission, Office of the People’s Counsel, and any other appropriate agency or organization as necessary for the Board to fulfill its mandate.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 204, 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 18-331">Mar. 31, 2011, D.C. Law 18-331, § 3(b), 58 DCR 22</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 6092(c), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1774.05">8-1774.05</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-331">D.C. Law 18-331</cite> repealed subsec. (e), which had read as follows: “(e) Within 60 days of the final submission of bids for the contract for the SEU, the Board shall submit to the DDOE and Council comments on the bids submitted for the SEU contract.”</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “on a contract-term basis” for “on an annual and contract-term basis” in (d); and substituted “75% of the amount” for “75%, and no greater than 125%, of the amount” in (h) and (i).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Section 2(b) of <cite doc="D.C. Law 18-269">D.C. Law 18-269</cite> repealed subsec. (e).</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 18-269">D.C. Law 18-269</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 204 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Sustainable Energy Utility Emergency Amendment Act of 2010 (D.C. Act 18-521, July 30, 2010,  57 DCR 7999).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 6092(c) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§8-1774.12" path="|8|17N|II"/>
+    <num codify:value="8-1774.05">205</num>
+    <heading>Implementation of the Sustainable Energy Utility contract.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The District Department of the Environment shall be responsible for the procurement and monitoring of the contract for the SEU, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Drafting and revising the RFP for the SEU;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Staffing the Advisory Board;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Accepting the bids for the SEU contract;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Reviewing bids for the SEU contract; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>All other responsibilities not otherwise expressly delegated to another entity for purposes of operation under this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>At least 90 days before issuing a new RFP for the SEU contract, DDOE shall solicit recommendations from the Board and the public for performance benchmarks for the contract. In preparing the RFP, DDOE shall hold an industry day to solicit the advice and input of private entities that may bid on the contract.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>If the DDOE determines that there is not a sufficient bid, DDOE shall modify the RFP, if necessary, and solicit additional bids.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The DDOE shall maintain the brand name adopted pursuant to § <cite path="§8-1774.06">8-1774.06</cite>.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The DDOE shall administer the transition from one SEU to another.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>Prior to the execution of the contract with the SEU, $775,000 shall be allocated annually for the purposes of:</text>
+      <para>
+        <num>(1)</num>
+        <text>Preparing the RFP;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Staffing the Board;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Maintaining the brand name adopted pursuant to § <cite path="§8-1774.06">8-1774.06</cite>; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Operating the renewable energy rebate program established by § <cite path="§8-1774.09">8-1774.09</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>After the execution of the contract with the SEU, 10% of the annual cost of the SEU contract shall be allocated to DDOE for administrative costs.</text>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>The DDOE shall submit to the Council, within 90 days following the end of each fiscal year, a report detailing the expenditures of money from the SETF and EATF during the previous fiscal year. The DDOE shall make this document available to the public on its website within 10 days of its receipt.</text>
+    </para>
+    <para>
+      <num>(k)</num>
+      <text>The DDOE shall commission, on an annual basis, an independent review of the performance and expenditures of the SEU and shall provide the results of this review to the Board and Council within 6 months of the conclusion of each year of the SEU contract.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 205, 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 18-331">Mar. 31, 2011, D.C. Law 18-331, § 3(c), 58 DCR 22</annotation>
+        <annotation doc="D.C. Law 18-370">Apr. 8, 2011, D.C. Law 18-370, § 612(a), 58 DCR 1008</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 6092(d), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1774.04">8-1774.04</cite> and § <cite path="§8-1774.10">8-1774.10</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-331">D.C. Law 18-331</cite> repealed subsec. (d), which had read as follows: “(d) Within 30 days of the completion of the bidding period, the DDOE shall submit the bids to the Board. The Board shall have 30 days to recommend a bidder or, failing the submission of a bid considered adequate by the Board, recommend the modification of the RFP.”</annotation>
+        <annotation><cite doc="D.C. Law 18-370">D.C. Law 18-370</cite>, in subsec. (h), substituted “$775,000” for “$1 million”.</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “on a contract-term basis” for “on an annual and contract-term basis” in (d); and substituted “75% of the amount” for “75%, and no greater than 125%, of the amount” in (h) and (i).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Section 2(c) of <cite doc="D.C. Law 18-269">D.C. Law 18-269</cite> repealed subsec. (d).</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 18-269">D.C. Law 18-269</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 205 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(c) of Sustainable Energy Utility Emergency Amendment Act of 2010 (D.C. Act 18-521, July 30, 2010,  57 DCR 7999).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 612(a) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011,  58 DCR 662).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 6092(d) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 611 of <cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> provided that subtitle B of title VI of the act may be cited as “Clean and Affordable Energy Second Amendment Act of 2010”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 613 of <cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> provided: “Sec. 613. Applicability. This subtitle shall apply as of October 1, 2010.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§8-1774.12" path="|8|17N|II"/>
+    <num codify:value="8-1774.06">206</num>
+    <heading>Sustainable energy branding.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 90 days after October 22, 2008, the DDOE shall determine a brand name for the provision of energy efficiency and renewable energy services in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Within 90 days after October 22, 2008, the DDOE shall establish and maintain a website for the brand, with a web address of the brand name bracketed by www. and .org, .com, or .gov. The purpose of this website shall be to serve as a portal that will provide information about every energy efficiency and renewable energy program available to District residents and businesses, including those offered by:</text>
+      <para>
+        <num>(1)</num>
+        <text>The DDOE;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The SEU;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The electricity or natural gas companies;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The federal government;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Nonprofit entities; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Any contractors or subcontractors for any of the entities set forth in paragraphs (1) through (5) of this subsection.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The DDOE shall provide a phone number that shall serve as a hotline for the brand during normal business hours.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The DDOE shall be responsible for working with providers of energy efficiency and renewable energy services to ensure that all information is accurate and up-to-date.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 206, 55 DCR 9225</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1774.05">8-1774.05</cite>, § <cite path="§8-1774.09">8-1774.09</cite>, and § <cite path="§8-1778.44">8-1778.44</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 206 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§8-1774.12" path="|8|17N|II"/>
+    <num codify:value="8-1774.07">207</num>
+    <heading>Electric company.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 90 days of the completion of the record on Formal Case 945, the Commission shall issue an order regarding the demand-side management programs proposed by the electric company.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In considering Formal Case 945, the Commission shall seek to approve those programs that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Can be implemented most quickly;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Take advantage of the electric company’s frequent contact with customers; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Do not replicate the efforts of sustainable energy programs operated by the DDOE.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The programs that the Commission approves may be funded by the SETF under § <cite path="§8-1774.10">8-1774.10</cite>.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>Within 30 days after the execution of a contract with the SEU, the electric company shall disclose, or allow access to, the aggregate energy use data for every rate class for electric company customers in the District of Columbia. Customer-specific information, including the customer’s name, account number, service address, phone number, and energy use data, shall not be provided without the customer’s express written consent.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The electric company shall ensure the privacy of any and all customer information, including the electric company customer’s name, account number, service address, billing address, phone number, and energy use data, in making the disclosure. The SEU shall not sell or otherwise disclose any customer or billing information to any third party without express written authorization from the customer.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The electric company shall not be liable for any damages resulting from its provision of customer energy use data to the SEU absent gross negligence. The SEU shall be liable for damages to the customer for any unauthorized use of customer information or data, including the electric company customer’s name, account number, service address, billing address, phone number, and energy use data.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Within one year after October 22, 2008, all energy efficiency and renewable energy programs administered by the electric company and funded by the SETF shall be operated in coordination with the brand managed by the DDOE. To effectuate this mandate, the electric company shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Prominently display the name and logo of the brand name on all advertisements of the programs;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Include the website and phone number for the DDOE brand on all advertisements of the programs;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Post a link to the brand website on all company webpages related to energy efficiency and renewable energy; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Provide timely, accurate, and comprehensive information regarding its programs to the DDOE to permit DDOE to include such information in material provided to the public.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <para>
+        <num>(1)</num>
+        <text>The electric company shall undertake the following actions to provide a building owner with easier and more complete access to energy consumption data needed to promote energy conservation and comply with the benchmarking and reporting requirements in § <cite path="§6-1451.03">6-1451.03</cite>(c):</text>
+        <para>
+          <num>(A)</num>
+          <text>Upon written or secure electronic authorization of a building owner or the owner’s authorized agent, aggregate the energy consumption of all meters identified as being in the building and provide the data, separated by month; provided, that the following conditions are met:</text>
+          <para>
+            <num>(i)</num>
+            <text>Sufficient information, including building address, meter numbers, or account numbers, is provided to identify the building and meters;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>At least 5 customer accounts are being aggregated, so as to obscure any customer-specific information; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>No customer account, other than an account registered to the building owner making the request, represents more than 80% of the total energy consumption for the building;</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Provide aggregate data for at least 2 years before the initial request and automatically update the monthly data on an ongoing basis at least once every 45 calendar days;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Provide an online portal for a building owner to use to request the provision and transfer of aggregate account data, or individual customer account data the building owner is duly authorized to access, to manage requests made, and to discontinue active requests; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Upload requested electric consumption data automatically on an ongoing basis, at least once every 45 calendar days, to the requestor’s ENERGY STAR Portfolio Manager account, as well as make the data available for an account holder to download in a common format.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Access to consumption data under this section shall be subject to any rules and regulations the Commission has adopted or may choose to adopt, where the rules do not conflict with this section.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 207, 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 20-142">Dec. 17, 2014, D.C. Law 20-142, § 101(b), 61 DCR 8045</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2014 amendment by <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> added (f).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 207 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite>: Section 502(a) of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> provided that Title I of the act, §§ 1<cite path="§01-111">01-111</cite>, shall apply as of January 1, 2015.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§8-1774.12" path="|8|17N|II"/>
+    <num codify:value="8-1774.08">208</num>
+    <heading>Natural gas company.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 30 days after the execution of a contract with the SEU, the gas company shall disclose, or allow access to, the aggregate energy use data for every rate class for gas company customers in the District of Columbia. Customer-specific information, including the customer’s name, account number, service address, phone number, and energy use data, shall not be provided without the customer’s express written consent.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The gas company shall ensure the privacy of any and all customer information, including the gas company customer’s name, account number, service address, billing address, phone number, and energy use data, in making the disclosure. The SEU shall not sell or otherwise disclose any customer or billing information to any third party without express written authorization from the customer.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The gas company shall not be liable for any damages resulting from its provision of customer energy use data to the SEU absent gross negligence. The SEU shall be liable for damages to the customer for any unauthorized use of customer information or data, including the gas company customer’s name, account number, service address, billing address, phone number, and energy use data.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The gas company shall undertake the following actions to provide a building owner with easier and more complete access to energy consumption data needed to promote energy conservation and comply with the benchmarking and reporting requirements in § <cite path="§6-1451.03">6-1451.03</cite>(c):</text>
+        <para>
+          <num>(A)</num>
+          <text>Upon written or secure electronic authorization of a building owner or the owner’s authorized agent, aggregate the energy consumption of all meters identified as being in the building and provide the data, separated by month; provided, that the following conditions are met:</text>
+          <para>
+            <num>(i)</num>
+            <text>Sufficient information, including building address, meter numbers, or account numbers is provided to identify the building and meters;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>At least 5 customer accounts are being aggregated; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>No customer account, other than an account registered to the building owner making the request, represents more than 80% of the total energy consumption for the building;</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Provide aggregate data for at least 2 years before the initial request and automatically update the monthly data on an ongoing basis at least once every 45 calendar days;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Provide an online portal for a building owner to use to request the provision and transfer of aggregate account data, or individual customer account data the building owner is duly authorized to access, to manage requests made, and to discontinue active requests; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Beginning no later than January 1, 2018, the gas company shall upload requested consumption data automatically on an ongoing basis, at least once every calendar days, to the requestor’s ENERGY STAR Portfolio Manager account, as well as make the data available for an account holder to download in a common format.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Access to consumption data under this section shall be subject to any rules and regulations the Commission has adopted or may choose to adopt, where the rules do not conflict with this section.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 208, 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 20-142">Dec. 17, 2014, D.C. Law 20-142, § 101(c), 61 DCR 8045</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2014 amendment by <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> added (d).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 208 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite>: Section 502(a) of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> provided that Title I of the act, §§ 1<cite path="§01-111">01-111</cite>, shall apply as of January 1, 2015.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§8-1774.12" path="|8|17N|II"/>
+    <num codify:value="8-1774.09">209</num>
+    <heading>Renewable energy incentive program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a rebate program that shall provide funding to the owners of the following new renewable energy generation systems in the District of Columbia:</text>
+      <para>
+        <num>(1)</num>
+        <text>Solar photovoltaic;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Solar thermal;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Geothermal;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Wind;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Biomass; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Methane or waste-gas capture.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The program shall provide funding in the following amounts:</text>
+      <para>
+        <num>(1)</num>
+        <text>The amount of $3 for each of the first 3,000 installed watts or watt-equivalents of capacity;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The amount of $2 for each of the next 7,000 installed watts or watt-equivalents of capacity; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The amount of $1 for each of the next 10,000 installed watts or watt-equivalents of capacity.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The program shall be administered by DDOE and shall operate until the end of fiscal year 2012.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The program shall receive funding from the SETF as set forth in § <cite path="§8-1774.10">8-1774.10</cite>.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>DDOE shall allocate 1/2 of the funds available annually every 6 months.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>DDOE shall only fund systems installed in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Applications shall be considered and approved or rejected in the order in which they are received. Rebate payments shall be awarded immediately upon receipt by DDOE of the invoice for the purchase of the renewable energy generating equipment.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <para>
+        <num>(1)</num>
+        <text>An owner shall have 6 months from the date of the approval of its rebate application to complete the installation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>DDOE shall visit each project site to verify the completion of each project upon the earlier of 14 days of notification by the owner of the completion of the project or 6 months after DDOE approves the project for funding. If the project has not been completed, the DDOE may, in its discretion, allow the owner up to an additional 6 months to complete the installation. If the owner fails to complete the installation within the period allowed under paragraph (1) of this subsection, it shall return the amount of the rebate within 30 days after the expiration of such period. If the owner fails to return the rebate money within 30 days after the expiration of such period, this subsection shall constitute a lien on all of the property, real or personal, of the owner to secure repayment of the rebate.</text>
+      </para>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>Within 90 days after October 22, 2008, the DDOE shall post, and update monthly, on the website required by § <cite path="§8-1774.06">8-1774.06</cite>, information about the rebate program, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>The date that funds shall be made available;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A printable copy of the rebate application determined by DDOE;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The amount of rebate funds remaining to be awarded; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The amount of rebate funds awarded.</text>
+      </para>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>The application form for the rebate shall be substantially the same as the application for the analogous program in use in Maryland as of the date of the program.</text>
+    </para>
+    <para>
+      <num>(k)</num>
+      <text>Within 90 days after October 22, 2008, the DDOE shall define a method for converting the heating and cooling capacity of solar thermal and geothermal systems to kilowatt equivalents to permit such systems to qualify for rebates under this program.</text>
+    </para>
+    <para>
+      <num>(l)</num>
+      <text>Subject to the limitations in subsection (b) of this section, the Mayor may issue guidelines that adjust the rebate amounts of the incentive program to reflect market conditions and the prevailing prices of renewable energy systems.</text>
+    </para>
+    <para>
+      <num>(m)</num>
+      <text>DDOE may pay for the installation of monitoring and communications systems, for collecting generation data from renewable energy systems funded by the rebate program and transmitting it to a designated web site; provided, that the system owner shall permit the DDOE to make the data publicly accessible on the DDOE website.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 209, 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 18-331">Mar. 31, 2011, D.C. Law 18-331, § 3(d), 58 DCR 22</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1774.05">8-1774.05</cite>, § <cite path="§8-1774.10">8-1774.10</cite>, and § <cite path="§47-1803.02">47-1803.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-331">D.C. Law 18-331</cite> rewrote subsec. (l), which had read as follows: “(l) The Mayor, pursuant to subchapter I of Chapter 5 of Title 2, may issue rules to modify the incentive program as market conditions dictate.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>Section 2(a) of <cite doc="D.C. Law 18-214">D.C. Law 18-214</cite>, in subsec. (e), substituted “every 6 months; provided, that this subsection shall not apply to fiscal year 2011” for “every 6 months”.</annotation>
+        <annotation>Section 4(a) of <cite doc="D.C. Law 18-214">D.C. Law 18-214</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 209 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Renewable Energy Incentive Program Fund Balance Rollover Emergency Amendment Act of 2010 (D.C. Act 18-422, May 21, 2010,  57 DCR 4767).</annotation>
+        <annotation>For temporary amendment of (c), see § 2(a) of the Renewable Energy Incentive Program Emergency Amendment Act of 2012, (D.C. Act 19-569, December 18, 2012,  59 DCR 15068), applicable upon the inclusion of its fiscal effect in an approved budget and financial plan.</annotation>
+        <annotation>For temporary amendment of (c)(7), see § 2(b) of the Renewable Energy Incentive Program Emergency Amendment Act of 2012, (D.C. Act 19-569, December 18, 2012,  59 DCR 15068), applicable upon the inclusion of its fiscal effect in an approved budget and financial plan.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 122(a) of <cite doc="D.C. Law 19-262">D.C. Law 19-262</cite> would have substituted “2013” for “2012” in (c).</text>
+        <text>Applicability of <cite doc="D.C. Law 19-262">D.C. Law 19-262</cite>, § 122: Section 401 of <cite doc="D.C. Law 19-262">D.C. Law 19-262</cite> provided that § 122 of the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register. The remaining sections shall apply as of April 20, 2013, unless otherwise noted.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§8-1774.12" path="|8|17N|II"/>
+    <num codify:value="8-1774.10">210</num>
+    <heading>Sustainable Energy Trust Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established as a special fund the Sustainable Energy Trust Fund, which shall be used solely for the purposes stated in subsection (c) of this section. The Sustainable Energy Trust Fund shall be funded by an assessment on the natural gas and electric companies under subsection (b) of this section and from the sale of credits associated with the Regional Greenhouse Gas Initiative or any successor program. All funds collected from these sources shall be deposited into the SETF and shall be disbursed by the Fiscal Agent.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed upon the natural gas company an assessment calculated on sales on a per-therm basis as follows:</text>
+        <para>
+          <num>(A)</num>
+          <text>The amount of $.011 in fiscal year 2009;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The amount of $.012 in fiscal year 2010;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The amount of $.014 in fiscal year 2011 and each year thereafter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>There is imposed upon the electric company an assessment calculated on sales on a per-kilowatt hour basis as follows:</text>
+        <para>
+          <num>(A)</num>
+          <text>The amount of $.0011 in fiscal year 2009;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The amount of $.0013 in fiscal year 2010;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The amount of $.0015 in fiscal year 2011 and each year thereafter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The assessments shall be paid to the Fiscal Agent before the 21st day of each month, beginning in November, 2008, or the 1st full month following October 22, 2008, whichever is later, for sales for the preceding billing period.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The assessment shall be applied to the sale of every kilowatt hour and therm in the District, except to those sold to residents participating in the Residential Essential Service or Residential Aid Discount programs established by the Commission.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Nothing in this subchapter shall be construed to prohibit the electric company or natural gas company from recovering the assessment imposed under paragraphs (1) and (2) of this section, respectively, in its rates as a surcharge on customers’ bills.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The funds in the Sustainable Energy Trust Fund shall be used solely to fund:</text>
+      <para>
+        <num>(1)</num>
+        <text>The SEU contract in an amount of at least $20 million annually;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The administration of the SEU contract and the development of a comprehensive energy plan by DDOE, on an annual basis, equal to 10% of the authorized contract level in that fiscal year;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An independent review of the performance of the SEU under § <cite path="§8-1774.05">8-1774.05</cite>(k) in the amount of $100,000 annually, beginning in fiscal year 2012;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The activities of the SEU Advisory Board under § <cite path="§8-1774.03">8-1774.03</cite> in the amount of $9,800 annually;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Repealed;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Repealed;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Repealed;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Repealed;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Implementation of the EnergyStar® benchmarking program required by § <cite path="§6-1451.03">6-1451.03</cite>; provided, that the program does not require an allocation of funds other than those already set forth in this section; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>The Low Income Home Energy Assistance Program, in the amount of no more than $1.5 million in Fiscal Year 2016.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>If, at the beginning of a fiscal year, the fund balance of the SETF exceeds the projected annual cost of all programs pursuant to subsection (c) of this section in that fiscal year by at least $10 million, the Fiscal Agent shall suspend payment and the collection of the SETF assessment, until such excess is estimated by the Fiscal Agent to be $5 million.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The DDOE shall submit to the Council a quarterly report detailing:</text>
+      <para>
+        <num>(1)</num>
+        <text>Expenditures from the SETF; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The performance of SETF programs operated by the DDOE.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 210, 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 18-195">July 23, 2010, D.C. Law 18-195, § 2(b), 57 DCR 4519</annotation>
+        <annotation doc="D.C. Law 18-223">Sept. 24, 2010, D.C. Law 18-223, § 6072, 57 DCR 6242</annotation>
+        <annotation doc="D.C. Law 18-370">Apr. 8, 2011, D.C. Law 18-370, § 612(b), 58 DCR 1008</annotation>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 6072, 59 DCR 8025</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 62(b), 59 DCR 6190</annotation>
+        <annotation doc="D.C. Law 19-262">Apr. 20, 2013, D.C. Law 19-262, § 132, 60 DCR 1300</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 6062(c), 61 DCR 9990</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, §§   6042, 6092(e), 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1773.01">8-1773.01</cite>, § <cite path="§8-1774.02">8-1774.02</cite>, § <cite path="§8-1774.07">8-1774.07</cite>, and § <cite path="§8-1774.09">8-1774.09</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-195">D.C. Law 18-195</cite>, in subsec. (b)(4), substituted “established by the Commission” for “operated by DDOE”.</annotation>
+        <annotation><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsec. (c).</annotation>
+        <annotation><cite doc="D.C. Law 18-370">D.C. Law 18-370</cite>, in subsec. (c)(2), substituted “authorized contract level” for “payments under the contract”; in subsec. (c)(4), substituted “$9,800” for “$13,000”; in subsec. (c)(5), substituted “$2.375 million” for “$2.773 million”; in subsec. (c)(6), substituted “$1.073 million” for “$1.5 million”; and, in subsec. (c)(7), substituted “$1.106 million” for “$1.455 million”.</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> added (c)(8); and made a related change.</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> validated a previously made technical correction in (c)(3).</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-262">D.C. Law 19-262</cite>, § 132, added added the paragraph designated herein as (c)(9); and made related changes.</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> substituted “special fund” for “nonlapsing fund” in (a)(1); rewrote (a)(2); added (a)(3); rewrote (c)(1); and repealed (c)(5) to (c)(8).</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “administration of the SEU contract and the development of a comprehensive energy plan by DDOE” for “administration of the SEU contract by DDOE” in (c)(2); and added (c)(10).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Section 2(a) of <cite doc="D.C. Law 18-56">D.C. Law 18-56</cite>, in subsec. (c), substituted “$1,874,000” for “$916,000” in par. (6), deleted “and” at the end of par. (8), substituted a semicolon for a period at the end of par. (9), and added pars. (10) and (11) to read as follows:</annotation>
+        <annotation>“(10) A Small Business Energy Efficiency program in the amount of $480,000 for fiscal year 2009; and</annotation>
+        <annotation>“(11) A Government Building Energy Efficiency program in the amount of $2 million for fiscal year 2009.”.</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 18-56">D.C. Law 18-56</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 18-144">D.C. Law 18-144</cite> rewrote subsec. (c)(11) to read as follows:</annotation>
+        <annotation>“(11) A Government Building Energy Efficiency program in the amount of $1,618,750 for fiscal year 2010.”.</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 18-144">D.C. Law 18-144</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2(b) of <cite doc="D.C. Law 18-214">D.C. Law 18-214</cite>, in subsec. (c)(8), substituted “systems; provided, that the amount for fiscal year 2010 shall be $3.167 million; and” for “systems; and”.</annotation>
+        <annotation>Section 4(a) of <cite doc="D.C. Law 18-214">D.C. Law 18-214</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 19-10">D.C. Law 19-10</cite>, in subsec. (c)(7), substituted “1.806 million” for “1.106 million”.</annotation>
+        <annotation>Section 3 of <cite doc="D.C. Law 19-10">D.C. Law 19-10</cite> amended Section 6073 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> by substituting “October 1, 2010” for “October 1, 2011”.</annotation>
+        <annotation>Section 5(b) of <cite doc="D.C. Law 19-10">D.C. Law 19-10</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 210 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008  55 DCR 10856).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Clean and Affordable Energy Fund Balance Emergency Amendment Act of 2009 (D.C. Act 18-108, June 18, 2009,  56 DCR 4932).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Clean and Affordable Energy Fiscal Year 2010 Fund Balance Emergency Amendment Act of 2009 (D.C. Act 18-309, February 3, 2010,  57 DCR 1505).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Residential Aid Discount Subsidy Stabilization Emergency Amendment Act of 2010 (D.C. Act 18-398, May 10, 2010,  57 DCR 4362).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Renewable Energy Incentive Program Fund Balance Rollover Emergency Amendment Act of 2010 (D.C. Act 18-422, May 21, 2010,  57 DCR 4767).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 612(b) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011,  58 DCR 662).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Clean and Affordable Energy Fiscal Year 2011 Fund Balance Emergency Amendment Act of 2011 (D.C. Act 19-43, March 26, 2011,  58 DCR 2923).</annotation>
+        <annotation>For temporary (90 day) amendment of § 6073 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite>, see § 3 of Clean and Affordable Energy Fiscal Year 2011 Fund Balance Emergency Amendment Act of 2011 (D.C. Act 19-43, March 26, 2011,  58 DCR 2923).</annotation>
+        <annotation>For temporary amendment of (c)(7), see § 2(b) of the Renewable Energy Incentive Program Emergency Amendment Act of 2012, (D.C. Act 19-569, December 18, 2012,  59 DCR 15068), applicable upon the inclusion of its fiscal effect in an approved budget and financial plan.</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 6072(c) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 6062(c) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 6062(c) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §§ 6042 and 6092(e) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 6071 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle H of title VI of the act may be cited as “Clean and Affordable Energy Amendment Act of 2010”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 6073 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided: “This subtitle shall apply as of October 1, 2011.”</text>
+        <text>Section 613 of <cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> provided: “Sec. 613. Applicability. This subtitle shall apply as of October 1, 2010.”</text>
+        <text>Section 212(a)(2) of <cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> provided: “(2) One-half of the funds remaining in the Reliable Energy Trust Fund shall be transferred to the Sustainable Energy Trust Fund and 1/2 of the funds shall be transferred to the Energy Assistance Fund.”</text>
+        <text>Section 212(b)(2) of <cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> provided: “(2) One-half of the funds remaining in the Natural Gas Trust Fund shall be transferred to the Energy Assistance Trust Fund and 1/2 of the funds shall be transferred to the Sustainable Energy Trust Fund.”</text>
+        <text>Section 3 of <cite doc="D.C. Law 18-195">D.C. Law 18-195</cite> provided: “Sec. 3. Applicability. Section 2(b) shall apply as of June 1, 2010.”</text>
+        <text>Section 122(b)(1) of <cite doc="D.C. Law 19-262">D.C. Law 19-262</cite> would have substituted “the amount of $1.106 million for fiscal year 2011, $2 million in fiscal year 2012, and $1 million for fiscal year 2013” for “the amount of $1.106 million for fiscal year 2011 and $2 million in fiscal year 2012” in (c)(7).</text>
+        <text>Applicability of <cite doc="D.C. Law 19-262">D.C. Law 19-262</cite>, § 122: Section 401 of <cite doc="D.C. Law 19-262">D.C. Law 19-262</cite> provided that § 122 of the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register. The remaining sections shall apply as of April 20, 2013, unless otherwise noted.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§8-1774.12" path="|8|17N|II"/>
+    <num codify:value="8-1774.11">211</num>
+    <heading>Energy Assistance Trust Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>There is established as a nonlapsing fund the Energy Assistance Trust Fund, which shall be used solely for the purposes stated in subsection (c) of this section. The Energy Assistance Trust Fund shall be funded by an assessment on the natural gas and electric companies under subsection (b) of this section. All funds collected from these sources shall be deposited into the EATF and be disbursed by the Fiscal Agent.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All funds deposited into the Energy Assistance Trust Fund, and any interest earned on the funds, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (a) of this section without regard to fiscal year limitation, subject to authorization by Congress.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>There is imposed upon sales of the gas company an assessment of $.0051 per therm.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>There is imposed upon the sales of the electric company an assessment of $0.0000607 per-kilowatt hour; provided, that there is imposed upon the sales of the electric company an additional assessment of $0.00069 per-kilowatt hour for the months of June through September 2010.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The assessments shall be paid to the Fiscal Agent before the 21st day of each month, beginning in November, 2008, or the first full month following October 22, 2008, whichever is later, for sales for the preceding billing period.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The assessment shall be applied to the sale of every kilowatt hour and therm in the District, except sales to residents participating in the Residential Essential Service or Residential Aid Discount programs established by the Commission.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Nothing in this subchapter shall be construed to prohibit the electric company or natural gas company from recovering the assessment imposed under paragraphs (1) and (2) of this section, respectively, in its rates as a surcharge on customers’ bills.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Energy Assistance Trust Fund shall be used solely to fund the existing low-income program in the amount of $2.33 million annually, and the Mayor shall have the fund audited every 2 years to ensure that the assessment imposed pursuant to subsection (b)(1) of this section is appropriately set to fund the low-income program funded by the EATF.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2, may issue rules to modify the assessments under subsection (b) of this section and the programs funded by the EATF.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The DDOE shall submit to the Council a quarterly report detailing:</text>
+      <para>
+        <num>(1)</num>
+        <text>Expenditures from the EATF; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The performance of EATF programs operated by the DDOE.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 211, 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 18-195">July 23, 2010, D.C. Law 18-195, § 2(c), 57 DCR 4519</annotation>
+        <annotation doc="D.C. Law 18-370">Apr. 8, 2011, D.C. Law 18-370, § 612(c), 58 DCR 1008</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 2102(b), 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1773.01">8-1773.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-195">D.C. Law 18-195</cite> rewrote subsecs. (b)(2) and (c); and, in subsec. (b)(4), substituted “established by the Commission” for “operated by DDOE”.</annotation>
+        <annotation><cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> rewrote subsec. (c), which had read as follows: “(c) The Energy Assistance Trust Fund shall be used solely to fund the existing low-income programs in the amount of $2.3 million annually; provided, that the EATF shall also be used to fund the Residential Aid Discount program in the amount of $5.2 million in fiscal year 2010. The Commission may examine and reconcile any differences between the actual discount provided to customers under the Residential Aid Discount program in fiscal year 2010 and the amount collected through the assessment imposed by subsection (b) of this section. If the assessment for June through September 2010 is not sufficient to fund the program, the Commission may provide for an assessment that allows the electric company to recover the difference from its customers. If the assessment for June through September 2010 is greater than the actual discount, the Commission may require the electric company to return any overcollection to its customers.”</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> substituted “.0051” for “.006” in (b)(1); and substituted “program in the amount of $ 2.33 million annually, and the Mayor shall have the fund audited every 2 years to ensure that the assessment imposed pursuant to subsection (b)(1) of this section is appropriately set to fund the low-income program funded by the EATF” for “programs in the amount of $ 2.409 million in fiscal year 2011, and $ 2.6 million annually thereafter” in (c).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>Section 2(b) of <cite doc="D.C. Law 18-56">D.C. Law 18-56</cite>, in subsec. (c)(1), substituted “annually; provided, that an additional $1,563,000 may be expended in fiscal year 2009” for “annually”.</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 18-56">D.C. Law 18-56</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation>Section 2 of <cite doc="D.C. Law 18-81">D.C. Law 18-81</cite>, in subsec. (b)(2), substituted “$.0004 per-kilowatt hour; provided, that there is imposed upon the sales of the electric company an additional assessment of $.0016 per-kilowatt hour for the month of September 2009 only” for “$.0004 per-kilowatt hour”; in subsec. (c)(2), substituted “annually; provided, that the subsidy shall be in the amount of $5.207 million for Fiscal Year 2009” for “annually”; and added subsec. (f), which had read as follows:</annotation>
+        <annotation>“(f) The Mayor may make a payment to PEPCO in the amount of $1,022, 428.16 from the Energy Assistance Trust Fund as a final accounting and reconciliation for the Fiscal Year 2008 expenditures of the Residential Aid Discount Program.”.</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 18-81">D.C. Law 18-81</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 211 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Clean and Affordable Energy Fund Balance Emergency Amendment Act of 2009 (D.C. Act 18-108, June 18, 2009,  56 DCR 4932).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2 of Residential Aid Discount Subsidy Stabilization Emergency Amendment Act of 2009 (D.C. Act 18-155, July 28, 2009,  56 DCR 6346).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(c) of Residential Aid Discount Subsidy Stabilization Emergency Amendment Act of 2010 (D.C. Act 18-398, May 10, 2010,  57 DCR 4362).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 612(c) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011,  58 DCR 662).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2102(b) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2102(b) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2102(b) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Section 212(a)(2) of <cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> provided: “(2) One-half of the funds remaining in the Reliable Energy Trust Fund shall be transferred to the Sustainable Energy Trust Fund and 1/2 of the funds shall be transferred to the Energy Assistance Fund.”</text>
+        <text>Section 212(b)(2) of <cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> provided: “(2) One-half of the funds remaining in the Natural Gas Trust Fund shall be transferred to the Energy Assistance Trust Fund and 1/2 of the funds shall be transferred to the Sustainable Energy Trust Fund.”</text>
+        <text>Section 613 of <cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> provided: “Sec. 613. Applicability. This subtitle shall apply as of October 1, 2010.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17N|II"/>
+    <num codify:value="8-1774.13">213</num>
+    <heading>Solar and Renewable Home Improvement Financing Proposal.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 90 days after October 22, 2008, the Commission shall open an investigation into mechanisms to make long-term affordable financing available to energy consumers to purchase:</text>
+      <para>
+        <num>(1)</num>
+        <text>Renewable energy generating systems, including solar thermal and solar photovoltaic panels and geothermal heating and cooling systems; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Home and business improvements that increase the energy efficiency of buildings, including weatherizing, adequate insulation, efficient doors and windows, and central air conditioning.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission’s investigation shall include the means by which the electric and gas companies’ billing systems can be used to collect payments from individuals to purchase renewable energy generating systems and make energy efficiency improvements to homes and businesses.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Within 60 days after the close of the record of the investigation, the Commission shall issue a report, including findings, on the feasibility of the implementation of the proposal set forth in subsections (a) and (b) of this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 213, 55 DCR 9225</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 213 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17N|II"/>
+    <num codify:value="8-1774.14">214</num>
+    <heading>Discount program for low-income electricity customers.</heading>
+    <text>The Commission shall establish, by order, a discount program for low-income electricity customers in the District. The Commission shall establish the eligibility, funding, and administrative guidelines for the program; provided, that the program shall not be funded from existing District funds, District revenue sources, or District assessments.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 214</annotation>
+        <annotation doc="D.C. Law 18-195">as added July 23, 2010, D.C. Law 18-195, § 2(d), 57 DCR 4519</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2(d) of Residential Aid Discount Subsidy Stabilization Emergency Amendment Act of 2010 (D.C. Act 18-398, May 10, 2010,  57 DCR 4362).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17N|II"/>
+    <num codify:value="8-1774.15">215</num>
+    <heading>Discount program for low-income gas customers.</heading>
+    <text>The Commission shall establish, by order, a discount program for low-income gas customers in the District. The Commission shall establish the eligibility, funding, and administrative guidelines for the program; provided, that the program shall not be funded from existing District funds, District revenue sources, or District assessments.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, §  215</annotation>
+        <annotation doc="D.C. Law 20-155">as added Feb. 26, 2015, D.C. Law 20-155, § 2102(c), 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 2102(c) of the  Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) addition of this section, see § 2102(c) of the  Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) addition of this section, see § 2102(c) of the  Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|17O"/>
+    <num codify:value="8-1775.01">601</num>
+    <heading>Renewable energy study.</heading>
+    <text>Within one year after October 22, 2008, the Mayor shall commission a study to determine the economic, legal, and technical viability of the District government pursuing a new large-scale wind energy project through public financing or private financing.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 601, 55 DCR 9225</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 601 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 602 of <cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> provided: “This title shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|15A"/>
+    <num codify:value="34-1551">701</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Building” means all of the individual units served through the same utility-owned meter within a property defined as Class 2 Property under § <cite path="§47-813">47-813</cite>(c-6).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Building owner, operator, or manager” means any person or entity responsible for the operation and management of a building.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Commission” means the Public Service Commission.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Energy allocation equipment” means any device, other than submetering equipment, used to determine approximate electric or natural gas usage for any nonresidential rental unit within a building.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Electricity supplier” shall have the same meaning as in § <cite path="§34-1501">34-1501</cite>(17).</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Natural gas supplier” shall have the same meaning as in § <cite path="§34-1671.02">34-1671.02</cite>(12).</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Nonresidential rental unit” means real property leased for commercial purposes.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Owner-paid areas” means the portion of the real property for which the owner bears financial responsibility for energy costs, which portions include areas outside individual units or in owner-occupied or shared areas.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Public utility,” “utility,” or “utility company” shall have the same meaning as in § <cite path="§34-214">34-214</cite>.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Submetering equipment” means equipment used to measure actual electricity or natural gas usage in any nonresidential rental unit when the equipment is not owned or controlled by the electric or natural gas utility serving the building in which the nonresidential rental unit is located.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 701, 55 DCR 9225</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 701 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 801 of <cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> provided: “Sec. 801. Applicability. This act shall apply on the later of October 1, 2008, or the effective date of this act.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|15A"/>
+    <num codify:value="34-1552">702</num>
+    <heading>Commission to promulgate rules, including standards.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission shall promulgate rules, including standards, under which any owner, operator, or manager of a building which is not individually metered for electricity or gas for each nonresidential rental unit may install submetering equipment or energy allocation equipment for the purpose of fairly allocating:</text>
+      <para>
+        <num>(1)</num>
+        <text>The cost of electrical or gas consumption for each nonresidential rental unit; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Electrical or gas demand and customer charges made by the utility and electricity and natural gas supplier.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In addition to other appropriate safeguards for the tenant, the rules shall require that a building owner, operator, or manager:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall not impose on the tenant any charges over and above the cost per kilowatt hour, cubic foot or therm, plus demand and customer charges, where applicable, which are charged by the utility company, the electricity supplier, and natural gas supplier to the building owner, operator, or manager, including any sales, local utility, or other taxes, if any; provided, that additional service charges permitted by § <cite path="§34-1553">34-1553</cite> may be collected to pay administrative costs and billing; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Shall maintain adequate records regarding submetering and energy allocation equipment and shall make such records available for inspection by the Commission during reasonable business hours.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>For the purposes of Commission enforcement of the rules adopted under this section, building owners, operators, or managers shall be treated as public utilities for the purposes of making a complaint under § <cite path="§34-917">34-917</cite> and any rules governing the making of complaints adopted under § <cite path="§34-902">34-902</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All submetering equipment shall be subject to the same rules, including standards, established by the Commission for accuracy, testing, and recordkeeping of meters installed by electric or gas utilities and shall be subject to the meter requirements of § <cite path="§34-303">34-303</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All energy allocation equipment shall be subject to rules, including standards established by the Commission to ensure that such systems result in a reasonable determination of energy use and the resulting costs for each nonresidential rental unit.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Violations of Commission rules and orders issued under this section shall be subject to the penalty provisions set forth in §§ <cite path="§34-708">34-708</cite> and <cite path="§34-731">34-731</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>In implementing this section, no building owner, operator, or manager shall be considered a public utility engaged in the business of distributing or reselling electricity or gas except as provided in subsection (c) of this section. The building owner, operator, or manager may use submetering or energy allocation equipment solely to allocate the costs of electric or gas service fairly among the tenants using the building.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 702, 55 DCR 9225</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§34-1553">34-1553</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 702 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|15A"/>
+    <num codify:value="34-1553">703</num>
+    <heading>Energy submetering and energy allocation equipment.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Energy submetering equipment or energy allocation equipment may be used in a building if it is authorized in the rental agreement or lease for the nonresidential rental unit. All energy submetering equipment and energy allocation equipment shall meet the requirements and standards established and enforced by the Commission pursuant to subsection (b) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>If energy submetering equipment or energy allocation equipment is used in any building, the building owner, operator, or manager shall bill the tenant for electricity or natural gas for the same billing period as the utility, the electricity supplier, or the natural gas supplier serving the building, unless the rental agreement or lease expressly provides otherwise.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A late payment charge shall not be imposed on all amounts, including deferred payment installments, paid by the due date or on amounts in dispute before the Commission. Amounts paid after the due date shall bear a late payment charge of 1%, and an additional late payment charge at the rate of 1 1/2% on the remaining unpaid balance per billing month thereafter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Energy allocation equipment shall be tested periodically under Commission rules by the building owner, operator, or manager. Upon the request by a tenant, the building owner, operator, or manager shall test the energy allocation equipment without charge. The test shall be conducted without charge to the tenant and shall not be conducted more frequently than once in a 24-month period for the same tenant. The tenant or his designated representative may be present during the testing of the energy allocation equipment. A written report of the results of the test shall be made to the tenant within 10 business days after the completion of the test.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A building owner, operator, or manager shall maintain adequate records regarding energy submetering equipment or energy allocation equipment. A tenant may inspect and copy the records for the nonresidential unit during reasonable business hours at a convenient location within the building. The building owner, operator, or manager may impose and collect a reasonable charge for copying documents, reflecting the actual costs of materials and labor for copying, prior to providing copies of the records to the tenant.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Notwithstanding any enforcement action undertaken by the Commission pursuant to its authority under § <cite path="§34-1552">34-1552</cite>, tenants and owners, operators, or managers shall retain any private right of action resulting from any breach of the rental agreement or lease terms required by this section or § <cite path="§34-1552">34-1552</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-250">Oct. 22, 2008, D.C. Law 17-250, § 703, 55 DCR 9225</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§34-1552">34-1552</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 703 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

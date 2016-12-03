@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 79-1-ch263">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 79-1-ch263">
   <heading/>
   <meta>
     <effective>1945-07-03</effective>
@@ -10,5 +10,25 @@
   <container>
     <prefix>Title</prefix>
     <num>II</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§44-785" path="|44|7|IV"/>
+      <reason>Repealed</reason>
+      <num codify:value="44-784">201</num>
+      <heading>Charges for treatment of patients.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>July 3, 1945, 59 Stat. 366, ch. 263, title II, § 201</annotation>
+          <annotation>July 26, 1946, 60 Stat. 687, ch. 672, title II, § 201</annotation>
+          <annotation>July 8, 1947, 61 Stat. 265, ch. 210, title II,§ 201</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 32-117.</annotation>
+          <annotation>1973 Ed., § 32-318a.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
 </document>

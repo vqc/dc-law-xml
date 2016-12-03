@@ -1,10 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 56-2-ch612">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 56-2-ch612">
+  <heading/>
   <meta>
     <effective>1900-06-02</effective>
     <cites>
-        <law congress="56" session="2" chapter="612"/>
+      <law congress="56" session="2" chapter="612"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§34-2401.10" path="|34|24|I"/>
+    <num codify:value="34-2401.09">2</num>
+    <heading>Refund of overpaid assessments.</heading>
+    <text>In all cases where a water main has heretofore been or may hereafter be laid in a public street or way, and in order to secure the laying of such main the cost or a part thereof has been paid to the District of Columbia prior to the laying of said main by any person or corporation, there shall be repaid from time to time to such person or corporation, out of the collections from the assessment for such main, all of the amounts so paid over and above the assessment chargeable against the land owned or controlled by said person or corporation.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 2, 1900, 31 Stat. 252, ch. 612, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 43-1520.</annotation>
+        <annotation>1973 Ed., § 43-1518.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

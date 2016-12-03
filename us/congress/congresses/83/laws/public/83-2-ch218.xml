@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 83-2-ch218">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 83-2-ch218">
   <heading/>
   <meta>
     <effective>1954-05-18</effective>
@@ -10,21 +10,1074 @@
   <container>
     <prefix>Title</prefix>
     <num>I</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|24|I"/>
+      <num codify:value="34-2401.25">106</num>
+      <heading>Water and water service supplied for the use of the government of the United States.</heading>
+      <para>
+        <num>(a)</num>
+        <text>All water and water services furnished from the District water supply system through any connection thereto for direct use by the government of the United States or any department, independent establishment, or agency thereof, situated in the District, except water and water services furnished to the United States for the maintenance, operation, and extension of the water system, shall be paid for at the rates for the furnishing and readiness to furnish water applicable to other water consumers in the District. All water and water services furnished from the District water supply system through any connection thereto for direct use by the government of the United States or any department, independent establishment, or agency thereof, situated outside the District in the States of Maryland or Virginia, except water and water services furnished to the United States for the maintenance, operation, and extension of the water system, shall be paid for at rates comparable to those which may be in effect and charged to state, municipal, or county agencies or other political authorities or jurisdictions within the respective states wherein said federal facilities may be situated for similar water service from the District water supply system; provided, that conditions as to water pressure, quantity, rates of demand, and points of connection available or permissible at any time for service outside the District, if any, shall be fixed by the Mayor of the District of Columbia so as to fully protect the prior interests of water consumers within the District; provided further, that as a condition of service, at each point of federal connection to the water system of the District for service outside the District there shall be installed and maintained at the expense of the department, independent establishment, or agency of the United States which is to use water therefrom a suitable meter or meters and incidental vaults, valves, piping and recording devices, and such other equipment as the Mayor in his discretion deems necessary to control and record the use of water through each such connection. As an additional condition of service, the department, agency, or establishment which is responsible for the maintenance of any such meter shall provide the Mayor (acting through the District of Columbia Water and Sewer Authority) with such access to the meter as the Mayor may require to measure the actual usage of the department, agency, or establishment (including any entity under the jurisdiction of the department, agency, or establishment) for purposes of making the adjustments to annual estimates required under § <cite path="§34-2401.25a">34-2401.25a</cite>(1). Payment shall be made as provided in subsection (b) of this section.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <para>
+          <num>(1)</num>
+          <text>Beginning in the second quarter of fiscal year 1990, the government of the District of Columbia shall receive payment for water services from funds appropriated or otherwise available to the Federal departments, independent establishments, or agencies. In accordance with the provisions of paragraphs  (2) and (3) of this subsection, one-fourth (25 percent) of the annual estimate prepared by the District government shall be paid, not later than the second day of each fiscal quarter, to the District government by the Secretary of the Treasury from funds deposited by said departments, establishments, or agencies in a United States Treasury account entitled “Federal Payment for Water and Sewer Services”. In the absence of sufficient funds in said account, payment shall be made by the Secretary of the Treasury from funds available to the respective user agencies. Payments shall be made to the District government by the Secretary of the Treasury without further justification, and shall be equal to one-fourth (25 percent) of the annual estimate prepared by the District government pursuant to paragraph (2) of this subsection.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>By April 15 of each calendar year the District shall provide the Office of Management and Budget, the Secretary of the Treasury, and the head of each of the respective Federal departments, independent establishments, and agencies, for inclusion in the President’s budget of the respective Federal departments, independent establishments, or agencies, an estimate of the cost of service for the fiscal year commencing October 1st of  the following calendar year. The estimate shall provide the total estimated annual cost of such service and an itemized estimate of such costs by Federal department, independent establishment, or agency. The District’s estimates on a yearly basis shall reflect such adjustments as are necessary to</text>
+          <para>
+            <num>(A)</num>
+            <text>account for actual usage variances from the estimated amounts for the fiscal year  ending on September 30th of the calendar year preceding April 15th, and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>reflect changes in rates charged for water and sewer services resulting from public laws or rate covenants pursuant to water and sewer revenue bond sales.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Each Federal department, independent establishment, or agency receiving water services in buildings, establishments, or other places shall pay from funds specifically appropriated or otherwise available to it, quarterly and on the first day of each such fiscal quarter, to an account in the United States Treasury entitled “Federal Payment for Water and Sewer Services” an amount equal to one-fourth (25 percent) of the annual estimate for said services as provided for in paragraph (2) of this subsection.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The amount or time period for late payment of water charges involving a building, establishment, or other place owned by the Government of the United States imposed by the District of Columbia shall not be different from those imposed by the District of Columbia on its most favored customer.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Repealed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing in this section may be construed to require the District of Columbia to seek payment for water services directly from any Federal entity which is under the jurisdiction of a department, independent establishment, or agency which is required to make a payment for such services under this section, or to allocate any amounts charged for such services among the entities which are under the jurisdiction of any such department, independent establishment, or agency. Each Federal department, independent establishment, and agency receiving water from the District of Columbia shall be responsible for allocating billings for such services among entities under the jurisdiction of the department, establishment, or agency, and shall be responsible for collecting amounts from such entities for any payments made to the District of Columbia under this section.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In the case of water services provided to a department, independent establishment, or agency in Virginia through the Federally owned water main system, if the total of the metered amounts billed for all individual users of the system (as measured by the meters for each individual user) is less than the total amount as measured by the meters at the delivery points into the system at the Francis Scott Key Bridge, the District government shall collect, and the Secretary of Defense shall pay, the difference to the District government in accordance with the requirements for collecting and making payments under this section.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 102, ch. 218, title I, § 106</annotation>
+          <annotation doc="Pub. L. 89-610">Sept. 30, 1966, 80 Stat. 857, Pub. L. 89-610, title V, § 503</annotation>
+          <annotation doc="Pub. L. 95-122">Oct. 6, 1977, 91 Stat. 1093, Pub. L. 95-122, § 1(1)</annotation>
+          <annotation doc="Pub. L. 101-168">Nov. 21, 1989, 103 Stat. 1280, Pub. L. 101-168, § 133(b)</annotation>
+          <annotation doc="Pub. L. 106-554">Dec. 21, 2000, 114 Stat. 2763, Pub. L. 106-554, § 1(a)(4), H.R. 5666, Div. A., Ch. 4, § 401(a)</annotation>
+          <annotation>Dec. 21, 2001, 115 Stat. 942, 943, 944, Pub. L. 107-96, par. 52(a)(2), (b)(1), (c)(2)</annotation>
+          <annotation doc="Pub. L. 108-335">Oct. 18, 2004, 118 Stat. 1348, Pub. L. 108-335, § 337(a)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§34-2401.25a">34-2401.25a</cite> and § <cite path="§47-131">47-131</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1552.</annotation>
+          <annotation>1973 Ed., § 43-1541.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>Pub. L. 107-96, in subsec. (a), inserted the second to the last sentence relating to access to meters; in subsec. (b), par. (2), inserted “the Secretary of the Treasury, and the head of each of the respective Federal departments, independent establishments, and agencies,”; added subsec. (c) relating to payment for sanitary sewer services; and added subsec. (d) relating to water services.</annotation>
+          <annotation>Pub. L. 108-335, in subsec. (b), repealed par. (5) which had read as follows: “(5) Not later than the 15th day of the month following each quarter (beginning with the first quarter of fiscal year 2001), the inspector general of each Federal department, establishment, or agency receiving water services from the District of Columbia shall submit a report to the Committees on Appropriations of the House of Representatives and Senate analyzing the promptness of payment with respect to the services furnished to such department, establishment, or agency.”</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effective Dates</heading>
+          <annotation>Pub. L. 107-96, 115 Stat. 944, the District of Columbia Appropriations Act, 2002, provided in part:</annotation>
+          <annotation>“This section and the amendments made by this section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.”</annotation>
+          <annotation>Section 337(c) of Pub. L. 108-335 provided: “(c) The amendments made by this section shall apply with respect to quarters occurring during fiscal year 2005 and each succeeding fiscal year.”</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <text>Apportionment of appropriations: Section 133 of Pub. L. 101-518, 104 Stat. 2237, the District of Columbia Appropriations Act, 1991, amended section 133(e) of the District of Columbia Appropriations Act, 1990, as amended, by striking “December 31, 1990” and inserting “December 31, 1991.”</text>
+          <text>Section 129 of Pub. L. 102-111, 105 Stat. 570, the District of Columbia Appropriations Act, 1992, amended section 133(e) of the District of Columbia Appropriations Act, 1990, as amended, by striking “December 31, 1991” and inserting “December 31, 1992.”</text>
+          <text>Section 130 of Pub. L. 102-382, 106 Stat. 1434, the District of Columbia Appropriations Act, 1993, amended section 133(e) of the District of Columbia Appropriations Act, 1990, as amended, by striking “December 31, 1992” and inserting “December 31, 1993.”</text>
+          <text>Public Law 102-382, 106 Stat. 1429, the District of Columbia Appropriations Act, 1993, provided for the Water and Sewer Enterprise Fund, $251,630,000, of which $39,602,000 shall be apportioned and payable to the debt service fund for repayment of loans and interest incurred for capital improvement projects.</text>
+          <text>Section 134 of § 1(c) of Pub. L. 100-202, the District of Columbia Appropriations Act, 1988, provided that none of the funds available to the District of Columbia government shall be used for any purpose involved in billing individual agencies or establishments for water and water services and sanitary sewer services traditionally funded under the account “Federal Payment for Water and Sewer Services” unless and until existing statutes (sections 106 and 212 of the District of Columbia Public Works Act of 1954, as amended, Public Law 364, approved May 18, 1954) are amended to specifically provide for such billing.</text>
+          <text>Section 128 of Pub. L. 103-127, 107 Stat. 1347, the District of Columbia Appropriations Act, 1994, amended section 133(e) of the District of Columbia Appropriations Act, 1990, as amended, by substituting “December 31, 1994” for “December 31,</text>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|24|IV"/>
+      <num codify:value="34-2407.01">103</num>
+      <heading>Discontinuance of water service for failure to pay water charges.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Mayor of the District of Columbia is authorized to provide for the collection of water charges, in advance or otherwise, from the owner or occupant of any building, establishment, or other place furnished water or water service by the District, and to shut off the water supply to any such building, establishment, or other place upon failure of the owner or occupant thereof to pay such water charges within 30 days from the date of rendition of the bill therefor. Such authority to shut off the water supply may be exercised by the Mayor regardless of any change in ownership or occupancy of such building, establishment, or other place. When the water supply to any such building, establishment, or other place has been shut off for failure to pay such water charges, whether the water supply to such building, establishment, or other place was shut off before or after May 18, 1954, the Mayor shall not again supply such building, establishment, or other place with water until all arrears of water charges, together with penalties and the costs actually incurred in shutting off and restoring the water supply, are paid.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the water supply to any property has been shut off for failure to pay District water and sanitary sewer service charges, and later restored without the express authorization of the Mayor, the Mayor shall impose a fine in an amount not less than 20% of the delinquent charges or more than $100, whichever is greater, upon the owner or occupant of the property, unless the Mayor determines that the owner or occupant did not restore or solicit a person to restore the water.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 102, ch. 218, title I, § 103</annotation>
+          <annotation doc="D.C. Law 8-136">June 13, 1990, D.C. Law 8-136, § 2(b), 37 DCR 2620</annotation>
+          <annotation doc="D.C. Law 10-65">Nov. 25, 1993, D.C. Law 10-65, § 501(a), 40 DCR 7351</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§34-2110">34-2110</cite>, § <cite path="§34-2407.02">34-2407.02</cite>, and § <cite path="§34-2407.03">34-2407.03</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1528.</annotation>
+          <annotation>1973 Ed., § 43-1521b.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 2(b) of D.C. Water and Sewer Operations Temporary Amendment Act of 1993(<cite doc="D.C. Law 10-3">D.C. Law 10-3</cite>, May 18, 1993, law notification  42 DCR 3404).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Mayor authorized to issue rules: See Historical and Statutory Notes following § <cite path="§34-2409.04">34-2409.04</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|24|IV"/>
+      <num codify:value="34-2407.02">104</num>
+      <heading>Lien for water charges.</heading>
+      <para>
+        <num>(a)</num>
+        <para>
+          <num>(1)</num>
+          <text>Except as provided in subsections (c) and (d) of this section, if an owner of real property fails to pay District water and sanitary sewer service charges in full accordance with § <cite path="§34-2407.01">34-2407.01</cite>, for all bills rendered which remain unsatisfied for 60 days or more the Mayor may file a certificate of delinquency with the Recorder of Deeds.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Upon filing, the certificate of delinquency shall constitute a continuing lien against the real property and show the amount of unpaid charges for District water and sanitary sewer services. The continuing lien shall be for the current full amount of the unpaid water and sanitary sewer service charges, penalties, interest, and administrative costs.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Mayor may enforce the lien if any water and sanitary sewer service charges remain unpaid for more than 180 days from the date the bill is rendered or for more than 15 days after a final decision of an appeal challenging the bill, whichever is later in the same manner that real property tax liens are enforced pursuant to Chapter 13 and Subchapter IV of Chapter 13A of Title 47.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The real property may be sold for the unpaid water and sanitary sewer charges, penalties, interest and administrative costs at a tax sale in accordance with the provisions for the sale of property for delinquent real property taxes pursuant to Chapter 13 of Title 47.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>If any real property sold for unpaid water and sanitary sewer service charges is not redeemed by the owner within 180 days from the date of sale, including payment of 2% interest for each month until the property is redeemed, the Mayor shall furnish a deed to the purchaser or holder of the certificate of sale in accordance with § <cite path="§47-1304">47-1304</cite>.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Proceeds from the sale that represent unpaid water charges shall be credited to the Water and Sewer Enterprise Fund of the District of Columbia as established by § <cite path="§47-375">47-375</cite>(g).</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A lien for water and sanitary sewer charges shall have priority over any other lien, except a lien for District taxes. The lien for water and sanitary sewer service charges shall remain in effect until the charges set forth in the certificate and any accrued additional charges, interest, penalties, and administrative costs are paid in full. Upon final payment of any delinquent charges, penalties, interest, and administrative costs, the Mayor shall file promptly a certificate of satisfaction with the Recorder of Deeds.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Mayor may defer or forgive, in whole or in part, any water and sanitary sewer service charges due the District for any qualified real property pursuant to § <cite path="§6-1503">6-1503</cite>.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Mayor shall not sell the residence of an owner who occupies a single family home for failure to pay District water and sanitary sewer charges in accordance with subsection (a) of this section.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 102, ch. 218, title I, § 104</annotation>
+          <annotation doc="D.C. Law 7-177">Oct. 20, 1988, D.C. Law 7-177, § 9(a), 35 DCR 6158</annotation>
+          <annotation doc="D.C. Law 8-136">June 13, 1990, D.C. Law 8-136, § 2(c), 37 DCR 2620</annotation>
+          <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 203, 43 DCR 4569</annotation>
+          <annotation doc="D.C. Law 13-305">June 9, 2001, D.C. Law 13-305, § 508(d), 48 DCR 334</annotation>
+          <annotation doc="D.C. Law 15-132">Mar. 30, 2004, D.C. Law 15-132, § 2, 51 DCR 1804</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1215.15">2-1215.15</cite>, § <cite path="§6-1503">6-1503</cite>, § <cite path="§8-152.03">8-152.03</cite>, § <cite path="§34-2109">34-2109</cite>, § <cite path="§34-2110">34-2110</cite>, § <cite path="§34-2202.16">34-2202.16</cite>, § <cite path="§34-2202.19">34-2202.19</cite>, § <cite path="§34-2403.03">34-2403.03</cite>, § <cite path="§34-2407.03">34-2407.03</cite>, § <cite path="§34-2410.03">34-2410.03</cite>, § <cite path="§47-1052">47-1052</cite>, § <cite path="§47-1303">47-1303</cite>, § <cite path="§47-1304">47-1304</cite>, § <cite path="§47-1306">47-1306</cite>, § <cite path="§47-1307">47-1307</cite>, and § <cite path="§47-1312">47-1312</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1529.</annotation>
+          <annotation>1973 Ed., § 43-1521c.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 13-305">D.C. Law 13-305</cite> rewrote subsec. (a) which had read:</annotation>
+          <annotation>“(a) Except as provided in subsections (c) and (d) of this section, if an owner of real property fails to pay District water and sanitary sewer service charges in full in accordance with § <cite path="§34-2407.01">34-2407.01</cite> or 34-2413.10, on or after the 60th day, but not later than the 120th day, after the bill is rendered, the Mayor shall file a certificate of delinquency with the Recorder of Deeds. Upon filing, the certificate of delinquency shall constitute a continuing lien against the real property and show the amount of unpaid charges for District water and sanitary sewer services. The Mayor shall enforce the lien if any water and sanitary sewer service charges remain unpaid for more than 180 days from the date the bill is rendered or for more than 15 days after a final decision of an appeal challenging the bill, whichever is later. The real property shall be sold for the unpaid water and sanitary sewer service charges, penalties, interest, and administrative costs at the next tax sale conducted pursuant to § <cite path="§47-1301">47-1301</cite>, in accordance with the provisions for the sale of property for delinquent real property taxes pursuant to Chapter 13 of Title 47. If any real property sold for unpaid water and sanitary sewer service charges is not redeemed by the owner within 180 days from the date of sale, including payment of 2% interest for each month until the property is redeemed, the Mayor shall furnish a deed to the purchaser or holder of the certificate of sale in accordance with § <cite path="§47-1304">47-1304</cite>. Proceeds from the sale that represent unpaid water charges shall be credited to the Water and Sewer Enterprise Fund of the District of Columbia as established by § <cite path="§47-375">47-375</cite>(g).”</annotation>
+          <annotation><cite doc="D.C. Law 15-132">D.C. Law 15-132</cite> rewrote subsec. (a) which had read:</annotation>
+          <annotation>“(a) Except as provided in subsections (c) and (d) of this section, if an owner of real property fails to pay District water and sanitary sewer service charges in full in accordance with § <cite path="§34-2407.01">34-2407.01</cite> on or before the 60th day, but not later than the 120th day, after the bill is rendered, the Mayor shall file a certificate of delinquency with the Recorder of Deeds. Upon filing, the certificate of delinquency shall constitute a continuing lien against the real property (including a lien for purposes of § <cite path="§47-1340">47-1340</cite>(c)) and show the amount of unpaid charges for District water and sanitary sewer services. The Mayor may enforce the lien, plus penalties, interest, and administrative costs, in accordance with the provisions for the sale of property for delinquent real property taxes under Chapter 13A of Title 47 if any water and sanitary sewer service charges remain unpaid upon the later of 181 days after the date the bill is rendered or 16 days after a final decision of an appeal challenging the bill. If an accounting is made in accordance with, and subject to, § <cite path="§47-1340">47-1340</cite>(f), proceeds from the sale that represent unpaid water charges shall be credited to the Water and Sewer Enterprise Fund of the District of Columbia as established by § <cite path="§47-375">47-375</cite>(g).”</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 203 of Fiscal Year 1997 Budget Support Temporary Amendment Act of 1996 (<cite doc="D.C. Law 11-226">D.C. Law 11-226</cite>, April 9, 1997, law notification  44 DCR 2584).</annotation>
+          <annotation>For temporary (225 day) amendment of section, see § 8(d) of the Real Property Tax Clarity and Litter Control Administration Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-8">D.C. Law 14-8</cite>, June 13, 2001, law notification  48 DCR 5916).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary amendment of section, see § 203 of the Fiscal Year 1997 Budget Support Emergency Act of 1996 (D.C. Act 11-302, July 25, 1996,  43 DCR 4181), § 203 of the Fiscal Year 1997 Budget Support Emergency Amendment Act of 1996 (D.C. Act 11-429, October 29, 1996,  43 DCR 6151), and § 203 of the Fiscal year 1997 Budget Support Congressional Adjournment Emergency Amendment Act of 1997 (D.C. Act 12-2, February 19, 1997,  44 DCR 1590).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 8(d) of Real Property Tax Clarity and Litter Control Administration Emergency Act of 2001 (D.C. Act 14-22, March 16, 2001,  48 DCR 2706).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Delegation of Authority</heading>
+          <annotation>Delegation of Authority to the Director of the Department of Housing and Community Development for the Issuance of District of Columbia Water and Sewer Authority (’WASA’) Deeds, see Mayor’s Order 2008-89, June 23, 2008 ( 55 DCR 9368).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <text>Application of provisions of Law 11-198: Section 1001 of <cite doc="D.C. Law 11-198">D.C. Law 11-198</cite> provided that titles I, II, III, V, and VI and sections 405 and 406 of the act shall apply after September 30, 1996.</text>
+          <text>Mayor authorized to issue rules: Section 13 of <cite doc="D.C. Law 7-177">D.C. Law 7-177</cite> provided that the Mayor shall issue rules to implement the provisions of the act.</text>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|24|IV"/>
+      <num codify:value="34-2407.03">105</num>
+      <heading>Remedies not exclusive.</heading>
+      <text>The remedies set forth in §§ <cite path="§34-2407.01">34-2407.01</cite>, <cite path="§34-2407.02">34-2407.02</cite>, and <cite path="§34-2413.10">34-2413.10</cite> [repealed] are hereby declared to be cumulative and not exclusive.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 102, ch. 218, title I, § 105</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§34-2110">34-2110</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1530.</annotation>
+          <annotation>1973 Ed., § 43-1521d.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§34-2413.11" path="|34|24|VII"/>
+      <reason>Repealed</reason>
+      <num codify:value="34-2413.08">101</num>
+      <heading>Council authorized to fix water rates.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 101, ch. 218, title I, § 101</annotation>
+          <annotation doc="Pub. L. 87-408">Mar. 2, 1962, 76 Stat. 17, Pub. L. 87-408, § 501</annotation>
+          <annotation doc="Pub. L. 91-650">Jan. 5, 1971, 84 Stat. 1931, Pub. L. 91-650, title I, § 105(a)</annotation>
+          <annotation doc="D.C. Law 1-23">Oct. 21, 1975, D.C. Law 1-23, title VII, § 706, 22 DCR 2118</annotation>
+          <annotation doc="D.C. Law 9-134">July 23, 1992, D.C. Law 9-134, § 112(e), 39 DCR 4066</annotation>
+          <annotation doc="D.C. Law 9-145">Sept. 10, 1992, D.C. Law 9-145, § 113(b), 39 DCR 4895</annotation>
+          <annotation doc="D.C. Law 11-111">repealed pursuant to § 303 of D.C. Law 11-111</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1524.</annotation>
+          <annotation>1973 Ed., § 43-1520c.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal effective 90 days after meeting of Board: Section 303 of <cite doc="D.C. Law 11-111">D.C. Law 11-111</cite> repealed this section. However, § 601 of <cite doc="D.C. Law 11-111">D.C. Law 11-111</cite> provided that title III of the act shall apply 90 days after the initial meeting of the Board established by section 204 of the act.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§34-2413.11" path="|34|24|VII"/>
+      <reason>Repealed</reason>
+      <num codify:value="34-2413.10">102</num>
+      <heading>Additional charge on unpaid water bills.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 101, ch. 218, title I, § 102</annotation>
+          <annotation doc="D.C. Law 8-136">June 13, 1990, D.C. Law 8-136, § 2(a), 37 DCR 2620</annotation>
+          <annotation doc="D.C. Law 11-111">repealed pursuant to § 303 of D.C. Law 11-111</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1527.</annotation>
+          <annotation>1973 Ed., § 43-1521a.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal effective 90 days after meeting of Board: Section 303 of <cite doc="D.C. Law 11-111">D.C. Law 11-111</cite> repealed this section. However, § 601 of <cite doc="D.C. Law 11-111">D.C. Law 11-111</cite> provided that title III of the act shall apply 90 days after the initial meeting of the Board established by section 204 of the act.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>II</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§34-2105.01" path="|34|21|I"/>
+      <num codify:value="34-2101">201</num>
+      <heading>Definitions.</heading>
+      <text>For the purposes of this subchapter:</text>
+      <para>
+        <num>(1)</num>
+        <text>The term “sanitary sewage” means:</text>
+        <para>
+          <num>(A)</num>
+          <text>Domestic sewage with storm and surface water limited;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Sewage discharging from sanitary conveniences;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Commercial or industrial wastes; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Water supply after it has been used.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The term “stormwater sewage” means liquid flowing in sewers resulting directly from precipitation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The term “combined sewage” means sewage containing both sanitary sewage and stormwater sewage.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The term “sewer” means a pipe or conduit carrying sewage.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The term “sanitary sewer” means a sewer which carries sanitary sewage.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The term “stormwater sewer” means a sewer which carries stormwater sewage.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The term “combined sewer” means a sewer which carries both sanitary sewage and stormwater sewage.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The term “sanitary sewage works” means a system of sanitary and combined sewers, appurtenances, pumping stations, and treatment works for conveying, treating, and disposing of sanitary sewage.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The term “stormwater sewer system” means a system of sewers, appurtenances, and pumping stations for conveying and disposing of stormwater sewage.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>The term “combined sewer system” means a system of sewers and appurtenances conveying both sanitary sewage and stormwater sewage.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 104, ch. 218, title II, § 201</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§1-1161.01">1-1161.01</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1601.</annotation>
+          <annotation>1973 Ed., § 43-1601.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§34-2105.01" path="|34|21|I"/>
+      <num codify:value="34-2102">203</num>
+      <heading>Use of the General Fund for sanitary sewage works.</heading>
+      <text>Subject to appropriations, amounts in the General Fund of the District of Columbia (including any special account therein) as established by the Revenue Funds Availability Act of 1975 [<cite doc="D.C. Law 1-42">D.C. Law 1-42</cite>] shall be available for use by or under the direction and control of the Mayor of the District of Columbia for:</text>
+      <para>
+        <num>(1)</num>
+        <text>The construction, operation, maintenance, expansion, relocation, replacement, renovation, and repair of the sanitary sewage works of the District, including all expenses;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Payment of a portion of such administrative expenses as may not be wholly allocated to the sanitary sewage works or to any other sewage works of the District, but which expenses are incurred in connection with the operation of the sanitary sewage works and either or both the stormwater sewer system and the combined sewer system. The portion of such expenses to be paid from the General Fund of the District of Columbia (including any special account therein) shall be fixed from time to time by the Mayor at such a percentage of the total of such expenses for the said sewer systems as the Mayor, in his discretion, may determine;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Payment of such portion of all expenses for the construction, operation, maintenance, expansion, relocation, replacement, renovation, and repair of the combined sewer system of the District as the Mayor, in his discretion, determines to be attributable to the sanitary sewer function of such combined sewer system;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Payment of the District’s contribution to the expenses of the Interstate Commission on the Potomac River basin;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Payments by the District to agencies in the State of Maryland providing services to the District for conveying, treating, or disposing of sanitary sewage; provided, that the said fund shall not be available to pay the cost of providing sewage service to institutions of the District located in the State of Maryland;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Payments to other funds of the District for such expenses or estimated expenses as are or may be incurred in the administration of this subchapter;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Payment to the United States Treasury of the interest, in accordance with the provisions of this subchapter, on loans to the District for the purposes of this Act;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Repayment to the United States Treasury of the principal amount of each loan made to the District in accordance with the provisions of this chapter, and of any advancements made to the District in accordance with the provisions of § <cite path="§34-2103">34-2103</cite>; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Refund of part or all of any sanitary sewer service charges erroneously paid; provided, that application for refund shall be made within 2 years after such erroneous payment.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 104, ch. 218, title II, § 203</annotation>
+          <annotation doc="D.C. Law 1-42">Jan. 22, 1976, D.C. Law 1-42, § 3(f)(2), 22 DCR 6313</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1602.</annotation>
+          <annotation>1973 Ed., § 43-1603.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>References in Text</heading>
+          <annotation>“This Act,” referred to in paragraph (7) of this section, is the District of Columbia Public Works Act of 1954, 68 Stat. 104, ch. 218.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§34-2105.01" path="|34|21|I"/>
+      <num codify:value="34-2103">204</num>
+      <heading>Advances for sanitary sewage works; reimbursement for amounts advanced.</heading>
+      <text>The Secretary of the Treasury, notwithstanding the provisions of the District of Columbia Appropriation Act, approved June 29, 1922 (42 Stat. 668), is authorized and directed to advance, on the requisition of the Mayor of the District of Columbia, made in the manner now prescribed by law, out of any money in the Treasury of the United States not otherwise appropriated, such sums as may be necessary, from time to time, to meet the expenses of the District in connection with the construction, operation, maintenance, expansion, relocation, replacement, renovation, and repair of the sanitary sewage works of the District, as authorized by Congress, and such amounts so advanced shall be reimbursed by the said Mayor to the Treasury out of money in the General Fund of the District of Columbia (including any special account therein).</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 105, ch. 218, title II, § 204</annotation>
+          <annotation doc="D.C. Law 1-42">Jan. 22, 1976, D.C. Law 1-42, § 3(f)(3), 22 DCR 6314</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§34-2102">34-2102</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1603.</annotation>
+          <annotation>1973 Ed., § 43-1604.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§34-2105.01" path="|34|21|I"/>
+      <reason>Repealed</reason>
+      <num codify:value="34-2104">206</num>
+      <heading>Council authorized to establish charges for sanitary sewer service.</heading>
+      <text>Repealed.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 106, ch. 218, title II, § 206</annotation>
+          <annotation doc="D.C. Law 1-42">Jan. 22, 1976, D.C. Law 1-42, § 3(f)(4), 22 DCR 6314</annotation>
+          <annotation doc="D.C. Law 11-111">repealed pursuant to § 303 of D.C. Law 11-111</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1604.</annotation>
+          <annotation>1973 Ed., § 43-1605.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Repeal effective 90 days after meeting of Board: Section 303 of <cite doc="D.C. Law 11-111">D.C. Law 11-111</cite> repealed this section. However, § 601 of <cite doc="D.C. Law 11-111">D.C. Law 11-111</cite> provided that title III of the act shall apply 90 days after the initial meeting of the Board established by section 204 of the act.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|21|I"/>
+      <num codify:value="34-2107">207</num>
+      <heading>Methods of determination of sanitary sewer service charges.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The sanitary sewer service charges established under the authority of this subchapter shall be based on the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>A billing methodology which takes into account both the water consumption of, and water service to, a property and the amount of impervious surface on a property that either prevents or retards the entry of water into the ground as occurring under natural conditions, or that causes water to run off the surface in greater quantities or at an increased rate of flow, relative to the flow present under natural conditions. For the purposes of this paragraph, the term “surface” shall include rooftops, footprints of patios, driveways, private streets, other paved areas, athletic courts and swimming pools, and any path or walkway that is covered by impervious material.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Repealed.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <para>
+            <num>(A)</num>
+            <text>For any unimproved real property under construction that discharges groundwater into a District-owned sanitary sewer, or combined sewer, or for any real property using water, part of which is from a source or sources other than the District water supply system, the real property owner shall pay a sanitary sewer service charge separate from and in addition to any sanitary sewer service charge levied in paragraphs (1) or (2) of this subsection. For any improved real property that discharges groundwater into a District-owned sanitary or combined sewer, the real property owner shall not be subject to payment of a separate and additional charge for discharges of groundwater, but shall pay for discharges of cooling water into a District-owned sanitary of combined sewer that are derived from a source or sources other than the District water supply system.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <para>
+              <num>(i)</num>
+              <text>For unimproved real property under construction the separate and additional sanitary sewer service charge shall apply to and be measured by the quantity of water that is derived from the groundwater and is discharged into the District sanitary or combined sewer system.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>For improved real property, the separate and additional sanitary sewer service charge shall apply to and be measured by the quantity of water that is derived from the cooling water and is discharged into the District sanitary or combined sewer system.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>For real property using water from a source or sources other than the District water supply system, such separate and additional charge shall be measured by the quantity of water from the source or sources other than the District water supply system discharged into the District sanitary or combined sewer system from the property.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Unless the Mayor determines that it is not practicable, the owner of the real property shall install and maintain, at a location approved by the Mayor and without cost to the District, any sanitary meter or device necessary to measure the quantity of groundwater, cooling water, or water from other than the District water supply system that is discharged into the District’s sanitary sewers.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>For purposes of this section, the determination made by the Mayor pursuant to Chapter 8 of Title 47 as to whether property is improved or unimproved shall apply.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Wherever a property upon which a sanitary sewer service charge is imposed uses water from the water supply system of the District for an industrial or commercial purpose in such manner that the water so used is not discharged into the sanitary sewage works of the District, the quantity of water so used and not discharged into the sanitary sewage works of the District may be excluded in determining the sanitary sewer service charge on such property, if such exclusion is previously requested in writing by the owner or occupant thereof. Upon such request, the quantity of water so used and not discharged into the sanitary sewage works of the District shall be measured by a device or devices approved by the Mayor, installed and maintained without cost to the District, and the sanitary sewer service charge to be imposed on such property shall be the amount which would have been charged such property if the amount of water so used and not discharged into the sanitary sewage works of the District had not been included in the amount of water used by such property; provided, that all water from the water supply system of the District used by such property shall be paid for at established rates, whether or not such water is discharged into the sanitary sewage works of the District. Where in the opinion of the Mayor, it is not practicable to install a measuring device to determine continuously the quantity of water used for such industrial or commercial purposes and not discharged into the sanitary sewage works of the District, the Mayor shall determine periodically, in such manner and by such methods as the Mayor may prescribe, the quantity of water from the water supply system of the District discharged into the sanitary sewage works of the District, and the sanitary sewer service charge shall be based on such estimated quantity of water at the percentage authorized by this paragraph. Any dispute as to such estimated amount shall be decided by the Mayor and such decision shall be final; and in the event the owner or occupant fails to furnish and maintain such measuring devices or to facilitate the periodic determinations by the Mayor as prescribed herein, then the privilege of excluding some portion of the water used from the District water supply system from the charges for sanitary sewer service shall be forfeited and the charges for sanitary sewer service shall be based on the full amount of the water used from the District water supply system.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Notwithstanding the provisions of subsection (a), the Council of the District of Columbia is authorized, in its discretion, from time to time to establish 1 or more sanitary sewer service charges at such amount as the Council, on the basis of a recommendation made by the Mayor, finds it necessary to meet the expense to the District of furnishing sanitary sewer services, including debt retirement.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any owner or occupant of a property that is assessed an impervious surface fee has a right to an appeal under § <cite path="§34-2305">34-2305</cite>.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 106, ch. 218, title II, § 207</annotation>
+          <annotation doc="Pub. L. 87-408">Mar. 2, 1962, 76 Stat. 18, Pub. L. 87-408, § 502</annotation>
+          <annotation doc="Pub. L. 91-650">Jan. 5, 1971, 84 Stat. 1931, Pub. L. 91-650, title I, § 105(b)</annotation>
+          <annotation doc="D.C. Law 8-136">June 13, 1990, D.C. Law 8-136, § 2(d), 37 DCR 2620</annotation>
+          <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 3902, 49 DCR 6968</annotation>
+          <annotation doc="D.C. Law 17-370">Mar. 25, 2009, D.C. Law 17-370, § 2, 56 DCR 1350</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1607.</annotation>
+          <annotation>1973 Ed., § 43-1606.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> rewrote subsec. (a)(3) which had read as follows: “(a)(3) For any real property that discharges waste water into a District-owned sanitary sewer that derives from groundwater or cooling water, the real property owner shall pay a sanitary sewer service charge separate from any sanitary sewer service charge levied in paragraphs (1) and (2) of this subsection. The separate and additional sanitary sewer service charge shall apply to and be measured by the quantity of water that is derived from the groundwater or cooling water and is discharged into the District sanitary or combined sewer system. Unless the Mayor determines that it is not practicable, the owner of the real property shall install and maintain, at a location approved by the Mayor and without cost to the District, any sanitary meter or device necessary to measure the quantity of groundwater or cooling water discharged into the District’s sanitary sewage works. The amount of the sanitary sewer service charge shall be set at the same rate as the rate paid by the owner of a metered building that receives water from the District water supply system.”</annotation>
+          <annotation><cite doc="D.C. Law 17-370">D.C. Law 17-370</cite>, in subsec. (a), rewrote the lead-in language and par. (1) and repealed par. (2); and added subsec. (c).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) amendment of section, see § 8 of Technical Amendments Emergency Act of 2001 (D.C. Act 14-108, August 3, 2001,  48 DCR 7622).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 3802 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Short Title</heading>
+          <annotation>Short title of title XXXIX of Law 14-190: Section 3901 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> provided that title XXXIV of the act may be cited as the Water and Sewer Operations Amendment Act of 2002.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402 (326) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|21|I"/>
+      <num codify:value="34-2108">208</num>
+      <heading>Persons obligated to pay sanitary sewer service charge.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The owner or occupant of each building, establishment, or other place in the District connected with any District sewer conducting sanitary sewage shall pay the sewer service charge authorized by this subchapter.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the sanitary sewer service charge imposed by this subchapter is based on a water charge any part of which is for a period beginning prior to the imposition of the sanitary sewer service charge and ending thereafter, the sanitary sewer service charge shall be prorated, on a monthly basis, on so much of such water charge as shall have accrued subsequent to August 1, 1954.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In computing the charge for sanitary sewer service, if such charge is for a period beginning prior to a change in the established sanitary sewer service charge and ending thereafter, the charge shall be based on the rate in effect at the time the charge is rendered.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 107, ch. 218, title II, § 208</annotation>
+          <annotation doc="Pub. L. 87-408">Mar. 2, 1962, 76 Stat. 18, Pub. L. 87-408, § 503</annotation>
+          <annotation doc="Pub. L. 91-650">Jan. 5, 1971, 84 Stat. 1931, Pub. L. 91-650, title I, § 105(c)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1608.</annotation>
+          <annotation>1973 Ed., § 43-1607.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|21|I"/>
+      <num codify:value="34-2109">209</num>
+      <heading>Meters and measuring devices; maintenance and repairs.</heading>
+      <para>
+        <num>(a)</num>
+        <text>All meters or other measuring devices installed or required to be used under the provisions of this subchapter shall be under the control of the Mayor of the District of Columbia and the Council of the District of Columbia, who shall promulgate all regulations necessary in its judgment to effectuate the purposes of this subchapter. The owner or occupant of the property upon which any such measuring device is installed shall be responsible for its maintenance and safekeeping, and all repairs thereto shall be made at the owner’s cost, whether such repairs are made necessary by ordinary wear and tear or other causes. Bills for such repairs, if made by the District, shall be due and payable when rendered, and the Mayor is authorized to provide for stopping the supply of water to any building or establishment upon the failure to pay such charge for meter repairs.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Mayor shall impose a one-time charge of 10% for any sanitary meter service charge that remains unpaid for more than 30 days and a penalty of 1% per month compounded monthly for any sanitary meter repair service that remains unpaid for more than 60 days from the date the bill is rendered.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In accordance with § <cite path="§34-2407.02">34-2407.02</cite>, the Mayor shall impose and enforce a continuing lien upon land and land improvements that are furnished sanitary meter services if any charges remain unpaid for more than 60 days from the date the bill for services is rendered.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Mayor, with prior written notice to the owner of the date and time of entry, and consistent with constitutional guidelines, may enter any building, establishment, or other premises to inspect, install, replace, read, or repair any sanitary meter required to be installed pursuant to the Public Works Act, or to investigate whether water derived from groundwater or cooling water is being discharged from the real property into a sanitary or combined sewer system. If the Mayor is unable to gain entry to the real property after 2 attempts, the Mayor shall notify the owner or occupant to contact the Department within 3 business days after notice is mailed to the owner. If the owner or occupant fails to contact the Department, it shall be presumed that the owner refuses to permit entry to the property and the Mayor may impose a penalty of $100 and shut off the water supply to the real property. Upon the payment of the penalty of issuance of a final decision where the owner files a request for administrative review, the Mayor may restore the water supply.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 107, ch. 218, title II, § 209</annotation>
+          <annotation doc="D.C. Law 8-136">June 13, 1990, D.C. Law 8-136, § 2(e), 37 DCR 2620</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§47-1303">47-1303</cite>, § <cite path="§47-1304">47-1304</cite>, § <cite path="§47-1306">47-1306</cite>, § <cite path="§47-1307">47-1307</cite>, and § <cite path="§47-1312">47-1312</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1609.</annotation>
+          <annotation>1973 Ed., § 43-1608.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>References in Text</heading>
+          <annotation>The “Public Works Act,” referred to in the first sentence of (d), is 68 Stat. 104, ch. 218.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Mayor authorized to issue rules: See Historical and Statutory Notes following § <cite path="§34-2107">34-2107</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(327) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|21|I"/>
+      <num codify:value="34-2110">210</num>
+      <heading>Additional charge for overdue bills; enforcement of lien.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Council of the District of Columbia is hereby authorized, in order to encourage the prompt payment of the sanitary sewer service charge imposed by this subchapter, to impose an additional charge of 10% for any sanitary sewer service charge remaining unpaid for more than 30 days, impose a penalty at the rate of 1% per month compounded monthly for any sanitary sewer service charge that remains unpaid for more than 60 days, and the Mayor of the District of Columbia is authorized to shut off the water of premises for which such charge is not paid within 30 days, and to have and enforce a continuing lien for such charge upon the land and any improvements thereon furnished such sanitary sewer service, in the same manner and to the same extent as if §§ <cite path="§34-2407.01">34-2407.01</cite>, <cite path="§34-2407.02">34-2407.02</cite>, <cite path="§34-2407.03">34-2407.03</cite>, and <cite path="§34-2413.10">34-2413.10</cite> [repealed] were set forth in this subchapter, and such sections shall be deemed to be applicable in every particular to the sanitary sewer service charge imposed by this subchapter; provided, that whenever said lien is enforced by the sale of property against which it has been assessed, so much of the proceeds of such sale as represents said unpaid sanitary sewer service charges shall be credited to the General Fund of the District of Columbia as established by the Revenue Funds Availability Act of 1975.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Mayor may defer or forgive, in whole or in part, any sanitary sewer service charges due the District of Columbia with respect to any qualified real property approved pursuant to § <cite path="§6-1503">6-1503</cite>.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 107, ch. 218, title II, § 210</annotation>
+          <annotation doc="D.C. Law 1-42">Jan. 22, 1976, D.C. Law 1-42, § 3(f)(5), 22 DCR 6315</annotation>
+          <annotation doc="D.C. Law 7-177">Oct. 20, 1988, D.C. Law 7-177, § 9(b), 35 DCR 6158</annotation>
+          <annotation doc="D.C. Law 8-136">June 13, 1990, D.C. Law 8-136, § 2(f), 37 DCR 2620</annotation>
+          <annotation doc="D.C. Law 10-65">Nov. 25, 1993, D.C. Law 10-65, § 501(b), 40 DCR 7351</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§6-1503">6-1503</cite>, § <cite path="§34-2202.19">34-2202.19</cite>, § <cite path="§47-1052">47-1052</cite>, § <cite path="§47-1303">47-1303</cite>, § <cite path="§47-1304">47-1304</cite>, § <cite path="§47-1306">47-1306</cite>, § <cite path="§47-1307">47-1307</cite>, and § <cite path="§47-1312">47-1312</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1610.</annotation>
+          <annotation>1973 Ed., § 43-1609.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 2(a) of D.C. Water and Sewer Operations Temporary Amendment Act of 1993(<cite doc="D.C. Law 10-3">D.C. Law 10-3</cite>, May 18, 1993, law notification  42 DCR 3404).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>References in Text</heading>
+          <annotation>The Revenue Funds Availability Act of 1975, referred to in subsection (a) of this section, is the Act of January 22, 1976, <cite doc="D.C. Law 1-42">D.C. Law 1-42</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Mayor authorized to issue rules: Section 13 of <cite doc="D.C. Law 7-177">D.C. Law 7-177</cite> provided that the Mayor shall issue rules to implement the provisions of the act.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|21|I"/>
+      <num codify:value="34-2111">211</num>
+      <heading>Sanitary sewer service charges for churches and institutions.</heading>
+      <text>The sanitary sewer service charges applicable to such churches and institutions as may under existing law be furnished water without charge by the Mayor of the District of Columbia shall be predicated only on the quantity of water used in excess of the amount fixed by the Mayor in each case as to which no water charge is made.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 108, ch. 218, title II, § 211</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1611.</annotation>
+          <annotation>1973 Ed., § 43-1610.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|21|I"/>
+      <num codify:value="34-2112">212</num>
+      <heading>Sanitary sewer service charges for United States government.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The sanitary sewer service charges prescribed herein shall be applicable to all sanitary sewer services furnished by the sanitary sewage works of the District through any connection thereto for direct use by the government of the United States or any department, independent establishment, or agency thereof, and such charges shall be predicated on the value of water and water services received by such facilities of the government of the United States or any department, independent establishment, or agency thereof from the District water supply system. Payment of the said sanitary sewer service charge shall be made as provided in subsection (b) of this section.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <para>
+          <num>(1)</num>
+          <text>Beginning in the second quarter of fiscal year 1990, the government of the District of Columbia shall receive payment for sanitary sewer services from funds appropriated or otherwise available to the Federal departments, independent establishments, or agencies. In accordance with the provisions of paragraphs (2) and (3) of this subsection, one-fourth (25 percent) of the annual estimate prepared by the District government shall be paid, not later than the second day of each fiscal quarter, to the District government by the Secretary of the Treasury from funds deposited by said departments, establishments, or agencies in a United States Treasury account entitled “Federal Payment for Water and Sewer Services”. In the absence of sufficient funds in said account, payment shall be made by the Secretary of the Treasury from funds available to the United States Treasury and shall be reimbursed promptly to the United States Treasury by the respective user agencies. Payments shall be made to the District government by the Secretary of the Treasury without further justification, and shall be equal to one-fourth (25 percent) of the annual estimate prepared by the District government pursuant to paragraph (2) of this subsection.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>By April 15 of each calendar year the District shall provide the Office of Management and Budget, the Secretary of the Treasury, and the head of each of the respective Federal departments, independent establishments, and agencies, for inclusion in the President’s budget of the respective Federal departments, independent establishments, or agencies, an estimate of the cost of service for the fiscal year commencing October 1st of the following calendar year. The estimate shall provide the total estimated annual cost of such service and an itemized estimate of such costs by Federal department, independent establishment, or agency. The District’s estimates on a yearly basis shall reflect such adjustments as are necessary to (A) account for actual usage variances from the estimated amounts for the fiscal year ending on September 30th of the calendar year preceding April 15th, and (B) reflect changes in rates charged for water and sewer services resulting from public laws or rate covenants pursuant to water and sewer revenue bond sales.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Each Federal department, independent establishment, or agency receiving sanitary sewer services in buildings, establishments, or other places shall pay from funds specifically appropriated or otherwise available to it, quarterly and on the first day of each such fiscal quarter, to an account in the United States Treasury entitled “Federal Payment for Water and Sewer  Services” an amount equal to one-fourth (25 percent) of the annual estimate for said services as provided for in paragraph (2) of this subsection.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The amount or time period for late payment of charges for sanitary sewer services involving a building, establishment, or other place owned by the Government of the United States imposed by the District of Columbia shall not be different from those imposed by the District of Columbia on its most favored customer.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Repealed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing in this section may be construed to require the District of Columbia to seek payment for sanitary sewer services directly from any Federal entity which is under the jurisdiction of a department, independent establishment, or agency which is required to make a payment for such services under this section, or to allocate any amounts charged for such services among the entities which are under the jurisdiction of any such department, independent establishment, or agency. Each Federal department, independent establishment, and agency receiving sanitary sewer services from the District of Columbia shall be responsible for allocating billings for such services among entities under the jurisdiction of the department, establishment, or agency, and shall be responsible for collecting amounts from such entities for any payments made to the District of Columbia under this section.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 108, ch. 218, title II, § 212</annotation>
+          <annotation doc="Pub. L. 95-122">Oct. 6, 1977, 91 Stat. 1093, Pub. L. 95-122, § 1(2)</annotation>
+          <annotation doc="Pub. L. 101-168">Nov. 21, 1989, 103 Stat. 1280, Pub. L. 101-168, § 133(c)</annotation>
+          <annotation doc="Pub. L. 106-554">Dec. 21, 2000, 114 Stat. 2763, Pub. L. 106-554, § 1(a)(4), H.R. 5666, Div. A., Ch. 4, § 401(b)</annotation>
+          <annotation>Dec. 21, 2001, 115 Stat. 942, 943, Pub. L. 107-96, par. 52(a)(1), (c)(1)</annotation>
+          <annotation doc="Pub. L. 108-335">Oct. 18, 2004, 118 Stat. 1348, Pub. L. 108-335, § 337(b)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§47-131">47-131</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1612.</annotation>
+          <annotation>1973 Ed., § 43-1611.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>Pub. L. 107-96, in subsec. (b), par. (2), inserted “the Secretary of the Treasury, and the head of each of the respective Federal departments, independent establishments, and agencies,”; and added subsec. (c) relating to payment for sanitary sewer services.</annotation>
+          <annotation>Pub. L. 108-335, in subsec. (b), repealed par. (5) which had read as follows: “(5) Not later than the 15th day of the month following each quarter (beginning with the first quarter of fiscal year 2001), the inspector general of each Federal department, establishment, or agency receiving sanitary sewer services from the District of Columbia shall submit a report to the Committees on Appropriations of the House of Representatives and Senate analyzing the promptness of payment with respect to the services furnished to such department, establishment, or agency.”</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effective Dates</heading>
+          <annotation>Pub. L. 107-96, 115 Stat. 944, the District of Columbia Appropriations Act, 2002, provided in part:</annotation>
+          <annotation>“This section and the amendments made by this section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.”</annotation>
+          <annotation>Section 337(c) of Pub. L. 108-335 provided: “(c) The amendments made by this section shall apply with respect to quarters occurring during fiscal year 2005 and each succeeding fiscal year.”</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Apportionment of appropriations: Public Law 102-382, 106 Stat. 1429, the District of Columbia Appropriations Act, 1993, provided for the Water and Sewer Enterprise Fund, $251,630,000, of which $39,602,000 shall be apportioned and payable to the debt service fund for repayment of loans and interest incurred for capital improvement projects. Restrictions on use of Federal payment: Section 134 of § 1(c) of Pub. L. 100-202, the District of Columbia Appropriations Act, 1988, provided that none of the funds available to the District of Columbia government shall be used for any purpose involved in billing individual agencies or establishments for water and water services and sanitary sewer services traditionally funded under the account “Federal Payment for Water and Sewer Services” unless and until existing statutes (sections 106 and 212 of the District of Columbia Public Works Act of 1954, as amended, Public Law 364, approved May 18, 1954) are amended to specifically provide for such billing. Apportionment of appropriations: For construction projects, $45,908,000, as authorized by § <cite path="§43-1512">43-1512</cite> et seq.: Provided, That the requirements and restrictions that are applicable to general fund capital improvement projects and set forth in this Act under the Capital Outlay appropriation title shall apply to projects approved under this appropriation title: Provided further, That $22,705,000 in water and sewer enterprise fund operating revenues shall be available for pay-as-you-go capital projects. Section 128 of Pub. L. 103-334, 108 Stat. 2576, the District of Columbia Appropriations Act, 1995, amended section 133(e) of the District of Columbia Appropriations Act, 1990, by striking “shall take effect” and all that follows and inserting “shall apply with respect to water and sanitary sewer services furnished on or after January 1, 1990.” Thus, as of September 30, 1994, section 133(e) of the District of Columbia Appropriations Act, 1990, has read as follows: “The amendments made by this section shall apply with respect to water and sanitary sewer services furnished on or after January 1, 1990.” Section 133(e) controls the effectiveness of this section. Section 401(c) of Chapter 4 of Division A of H.R. 5666, as enacted by reference by section 1(a)(4) of Pub. L. 106-554, stated that “The amendments made by this section shall take effect as if included in the enactment of section 133 of the District of Columbia Appropriations Act, 1990.”</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|21|I"/>
+      <num codify:value="34-2113">215</num>
+      <heading>Use of funds from General Fund for certain sewers.</heading>
+      <text>Nothing herein contained shall prohibit the use of funds deposited to the credit of the General Fund of the District of Columbia as established by the Revenue Funds Availability Act of 1975 [<cite doc="D.C. Law 1-42">D.C. Law 1-42</cite>] from being used for the construction, expansion, relocation, replacement, or renovation of any sewer in the combined sewer system of the District.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 109, ch. 218, title II, § 215</annotation>
+          <annotation doc="D.C. Law 1-42">Jan. 22, 1976, D.C. Law 1-42, §§ 3(f)(6), 8, 22 DCR 6315</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1613.</annotation>
+          <annotation>1973 Ed., § 43-1614.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>References in Text</heading>
+          <annotation>The Revenue Funds Availability Act of 1975, referred to in this section, is the Act of January 22, 1976, <cite doc="D.C. Law 1-42">D.C. Law 1-42</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>IV</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" before="§9-101.18" path="|9|1|I"/>
+      <num codify:value="9-101.16">401</num>
+      <heading>Highway construction program authorized.</heading>
+      <text>A program of construction projects to meet immediate capital needs for highways in the District is hereby authorized.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 110, ch. 218, title IV, § 401</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 7-132.</annotation>
+          <annotation>1973 Ed., § 7-132.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>XVII</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|21|I"/>
+      <num codify:value="34-2114">1701</num>
+      <heading>Rules and regulations.</heading>
+      <text>The Council of the District of Columbia is authorized to make rules and regulations to carry out the provisions of this subchapter.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 120, ch. 218, title XVII, § 1701</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1614.</annotation>
+          <annotation>1973 Ed., § 43-1618.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Change in Government</heading>
+          <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(329) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>XVIII</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|23"/>
+      <num codify:value="34-2301">1801</num>
+      <heading>Definitions.</heading>
+      <text>For the purposes of this chapter, the term:</text>
+      <para>
+        <num>(1)</num>
+        <text>“Owner” means any individual, corporation, association, or partnership listed as the legal title holder of record.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Rental property” means any real property consisting of 1 or more units that is leased or subleased to a person with the consent of the owner or the owner’s agent, in consideration for rental payment.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Tenant” means any person who holds or possesses a habitation in subordination to the title of the owner of the premises in which the habitation is located, with the consent of the owner.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, ch. 218, title XVIII, § 1801</annotation>
+          <annotation doc="D.C. Law 8-136">as added June 13, 1990, D.C. Law 8-136, § 2(g), 37 DCR 2620</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1651.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|23"/>
+      <num codify:value="34-2302">1802</num>
+      <heading>Amnesty program.</heading>
+      <para>
+        <num>(a)</num>
+        <text>There is established an amnesty program for any person liable for delinquent water and sanitary sewer services. The amnesty program shall permit the person to pay the full amount of outstanding charges for water and sanitary sewer services, without the imposition of any interest or fine otherwise provided by law.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The amnesty program shall be available during the period from October 1, 1990, through December 31, 1990.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A person may participate in the amnesty program by filing an application for amnesty with the Mayor that includes a copy of the person’s most recent water and sanitary sewer service bill and a cashier’s check, certified check, or money order in the amount of the bill as computed under subsection (a) of this section. The application for amnesty and the payment shall be filed in person or by mail postmarked no later than midnight on December 31, 1990. Cash payments may not be mailed for purposes of this section.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any person who files an application for amnesty under this section shall be precluded from filing a request for an administrative hearing pursuant to § <cite path="§34-2305">34-2305</cite>.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Mayor shall publicize, for 3 consecutive weeks, the terms and conditions of the amnesty program in at least 2 daily and 2 weekly newspapers published and circulated generally in the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Revenue received from the amnesty program shall be credited to the General Fund of the District of Columbia as established by § <cite path="§47-131">47-131</cite>.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, ch. 218, title XVIII, § 1802</annotation>
+          <annotation doc="D.C. Law 8-136">as added June 13, 1990, D.C. Law 8-136, § 2(g), 37 DCR 2620</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1652.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|23"/>
+      <num codify:value="34-2303">1803</num>
+      <heading>Opportunity for a tenant to receive service in own name; payment made by tenant.</heading>
+      <para>
+        <num>(a)</num>
+        <text>If an owner of rental property or his or her agent is billed directly by the District of Columbia Water and Sewer Authority (“Authority”) for water and sanitary sewer services provided to the rental property, and the owner or his or her agent fails to pay a delinquent account for the services, each tenant who resides in the affected property may receive water and sanitary sewer services in his or her own name without liability for the charges accrued while the services were billed directly to the owner of the rental property. A tenant shall receive water and sanitary sewer services in his or her own name only if it is deemed practicable by the Mayor in accordance with rules issued pursuant to § <cite path="§34-2306">34-2306</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any payment made by a tenant of rental property pursuant to subsection (a) of this section shall be deemed in lieu of an equal amount of rent and shall be deducted from any rent due and owing or to become due and owing to the owner, agent, lessor, or manager of the rental property.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing in this section shall prevent the Mayor from pursuing any other appropriate action or remedy at law or equity against an owner, agent, lessor, manager, or tenant of a rental property.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, ch. 218, title XVIII, § 1803</annotation>
+          <annotation doc="D.C. Law 8-136">as added June 13, 1990, D.C. Law 8-136, § 2(g), 37 DCR 2620</annotation>
+          <annotation doc="D.C. Law 13-183">Oct. 21, 2000, D.C. Law 13-183, § 3(a), 47 DCR 7062</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1653.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 13-183">D.C. Law 13-183</cite> substituted in subsec. (a) “the District of Columbia Water and Sewer Authority (’Authority’)” for “Department of Public Works (’Department’)”.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|23"/>
+      <num codify:value="34-2304">1804</num>
+      <heading>Appointment of receiver.</heading>
+      <para>
+        <num>(a)</num>
+        <para>
+          <num>(1)</num>
+          <text>Except as otherwise provided in this subsection, upon nonpayment of a delinquent account by the owner, agent, lessor, or manager of a rental property that is billed directly by the Authority for water and sewer services, the Authority or a tenant who resides in the affected rental property may petition the court for the appointment of a receiver for the rental payments in the same manner as for appointment of a receiver pursuant to § <cite path="§42-3303">42-3303</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The receiver may take any action deemed necessary or appropriate to collect all rental payments from the tenants of the rental property and shall establish an escrow account with these funds. The receiver shall pay the Authority from the escrow account for services provided on or after the date of the receiver’s appointment. If the owner, agent, lessor, or manager also is indebted to an electric company, electricity supplier, gas company, or natural gas supplier for utility services, the receiver may order that rents collected be equitably apportioned between the Authority and the electric company, electricity supplier, gas company, or natural gas supplier. In addition, the receiver may use the rental payments collected to reduce delinquent water and sewer charges owed to the Authority. Upon court order, the receiver shall become trustee of any escrow accounts or other funds established by the tenants or otherwise into which rents or payments for use and occupancy have been made.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The owner, agent, lessor or manager shall be liable for reasonable fees and costs determined by the court to be due the receiver, which may be recovered from the rent payments under control of the receiver, provided that no fees or costs shall be turned over until payment of current District of Columbia Water and Sewer Authority service fees have been made.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The receiver may make reasonable payments to the Authority to reduce delinquent water and sewer charges until all delinquent service fees have been paid, and the receiver shall operate and maintain the structure to the best extent possible with the rents remaining after the payment. The receiver shall have the authority to recommend to the court a payment plan, which shall be binding if ordered by the court, to pay off any remaining delinquencies in service fees. Any monies remaining after the payments pursuant to this subsection shall be turned over to the owner, agent, lessor, or manager unless otherwise ordered by the court.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any receivership established pursuant to subsection (a) of this section shall be terminated by the court upon a finding that the arrearage which was the subject of the original petition has been satisfied or that the rental property has been sold and the new owner has made satisfactory arrangements to pay the arrearages and has assumed liability for prospective District of Columbia Water and Sewer service fees.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing in this section shall prevent the Mayor, Authority, or a tenant from pursuing any other appropriate action or remedy at law or equity against the owner, agent, lessor, or manager of the rental property.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any owner, agent, lessor, or manager who collects or attempts to collect a rental payment from a tenant of the rental property subject to an order appointing a receiver pursuant to this section shall be found to be in contempt of court, after due notice and hearing.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Any person who knowingly fails to pay water and sewer charges to the District of Columbia Water and Sewer Authority, or to make satisfactory arrangements for payment, for more than 12 months shall be guilty of a misdemeanor upon conviction. The penalty for knowingly failing to pay service fees for more than 12 months shall be a fine of not more than $500, or imprisonment not more than 30 days, or both. The penalty for knowingly failing to pay water and sewer charges, or to make satisfactory arrangements for payment, in an amount of more than $10,000 and for more than 2 years shall be a fine of up to 20% of the amount owed, but not less than $5,000, or imprisonment not more than 6 months, or both.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, 68 Stat. 101, ch. 218, title XVIII, § 1804</annotation>
+          <annotation doc="D.C. Law 8-136">as added June 13, 1990, D.C. Law 8-136, § 2(g), 37 DCR 2620</annotation>
+          <annotation doc="D.C. Law 10-65">Nov. 25, 1993, D.C. Law 10-65, § 501(c), 40 DCR 7351</annotation>
+          <annotation doc="D.C. Law 10-255">May 16, 1995, D.C. Law 10-255, § 36, 41 DCR 5193</annotation>
+          <annotation doc="D.C. Law 13-107">May 9, 2000, D.C. Law 13-107, § 204, 47 DCR 1091</annotation>
+          <annotation doc="D.C. Law 13-183">Oct. 21, 2000, D.C. Law 13-183, § 3(b), 47 DCR 7062</annotation>
+          <annotation doc="D.C. Law 15-227">Mar. 16, 2005, D.C. Law 15-227, § 19, 51 DCR 10549</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1654.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 13-107">D.C. Law 13-107</cite> in subsec. (a)(1) substituted “electric company, electricity supplier or gas company” for “electric or gas company” where appearing.</annotation>
+          <annotation><cite doc="D.C. Law 13-183">D.C. Law 13-183</cite> added “, Authority,” following “Mayor” in subsec. (c) and rewrote subsecs. (a), (b) and (e).</annotation>
+          <annotation><cite doc="D.C. Law 15-227">D.C. Law 15-227</cite>, in par. (2) of subsec. (a), substituted “supplier, gas company, or natural gas supplier” for “supplier or gas company”.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 9 of Prevention of Unauthorized Switching of Customer Natural Gas Accounts Temporary Act of 2001 (<cite doc="D.C. Law 14-13">D.C. Law 14-13</cite>, July 10, 2001, law notification  48 DCR 6589).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|34|23"/>
+      <num codify:value="34-2305">1805</num>
+      <heading>Administrative review.</heading>
+      <text>Any owner or occupant of a property that receives water and sewer services may contest a water or sanitary sewer service bill rendered for water and sewer services in accordance with §§ <cite path="§2-509">2-509</cite> and <cite path="§2-510">2-510</cite>, as set forth in rules issued by the Mayor pursuant to § <cite path="§34-2306">34-2306</cite>. The Mayor or the Authority shall require the owner or occupant to post a surety bond or deposit upon the filing of a request for an administrative hearing, except that the requirement to post a surety bond or deposit shall not apply to an owner who occupies a single family house. The amount of the surety bond or deposit shall be determined by the Mayor or the Authority and shall not be less than one-half of the total amount of charges, penalties, and interest owed. The surety bond or deposit shall be placed into an escrow account and accrue interest at a rate to be determined by the Mayor or the Authority.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>May 18, 1954, ch. 218, title XVIII, § 1805</annotation>
+          <annotation doc="D.C. Law 8-136">as added June 13, 1990, D.C. Law 8-136, § 2(g), 37 DCR 2620</annotation>
+          <annotation doc="D.C. Law 13-183">Oct. 21, 2000, D.C. Law 13-183, § 3(c), 47 DCR 7062</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§34-2107">34-2107</cite>, § <cite path="§34-2202.16">34-2202.16</cite>, and § <cite path="§34-2302">34-2302</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 43-1655.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 13-183">D.C. Law 13-183</cite> added “or the Authority” following “Mayor” in two instances in the second sentence.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
 </document>

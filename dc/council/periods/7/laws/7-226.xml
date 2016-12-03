@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 7-226">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 7-226">
   <num type="law">7-226</num>
   <heading type="short">D.C. Solid Waste Management and Multi-Material Recycling Act of 1988</heading>
   <meta>
@@ -12,4 +12,841 @@
       <narrative>Law 7-226, the “D.C. Solid Waste Management and Multi-Material Recycling Act of 1988,” was introduced in Council and assigned Bill No. 7-378, which was referred to the Committee on Public Works. The Bill was adopted on first and second readings on November 29, 1988 and December 13, 1988, respectively. Signed by the Mayor on January 10, 1989, it was assigned Act No. 7-301 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1001">2</num>
+    <heading>Council findings.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 2, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§47-872">47-872</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3401.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 day) additions, see §§ 2 to 11 of Solid Waste Facility Permit Temporary Act of 1994 (<cite doc="D.C. Law 10-251">D.C. Law 10-251</cite>, March 23, 1995, law notification  42 DCR 1650).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of chapter, see §§ 2-11 of the Solid Waste Facility Permit Emergency Act of 1994 (D.C. Act 10-384, December 28, 1994,  42 DCR 45).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 10-251">D.C. Law 10-251</cite>, the “Solid Waste Facility Permit Temporary Act of 1994”, see Mayor’s Order 95-754, May 19, 1995.</annotation>
+        <annotation>Delegation of Authority under the District of Columbia Solid Waste Disposal Act of 1989  21 DCMR 700.1 et seq., see Mayor’s Order 2005-123, August 29, 2005 ( 52 DCR 8666).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Resolutions</heading>
+        <annotation>Resolution 16-395, the “Solid Waste Disposal Fee Regulation Amendment Approval Resolution of 2005.  21 DCMR 700.1 et seq. ”, was approved effective November 26, 2005.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Former subchapters II and III of this chapter have been recodified as Chapters 10C and 10D of this title, respectively. The code section numbers remain unchanged.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1002">3</num>
+    <heading>Purposes.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 3, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 301(g), 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1004">8-1004</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3402.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1003">4</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 4, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 8-93">Mar. 15, 1990, D.C. Law 8-93, § 2(a), 37 DCR 780</annotation>
+        <annotation doc="D.C. Law 8-154">Sept. 8, 1990, D.C. Law 8-154, § 2(a), 37 DCR 4045</annotation>
+        <annotation doc="D.C. Law 10-68">Feb. 5, 1994, D.C. Law 10-68, § 19(a), 40 DCR 6311</annotation>
+        <annotation doc="D.C. Law 10-178">Sept. 24, 1994, D.C. Law 10-178, § 3(a), 41 DCR 5205</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3403.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1004">5</num>
+    <heading>Solid waste management policy for the District.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 5, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 10-178">Sept. 24, 1994, D.C. Law 10-178, § 3(b), 41 DCR 5205</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3404.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(a) of District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Temporary Amendment Act of 1992 (<cite doc="D.C. Law 9-263">D.C. Law 9-263</cite>, March 27, 1993, law notification  40 DCR 2333).</annotation>
+        <annotation>For temporary (225 day) amendment of section, see § 2(a) of District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Temporary Amendment Act of 1993 (<cite doc="D.C. Law 10-86">D.C. Law 10-86</cite>, March 19, 1994, law notification  41 DCR 1636).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(a) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Emergency Amendment Act of 1992 (D.C. Act 9-346, December 22, 1992,  40 DCR 141).</annotation>
+        <annotation>For temporary amendments of section, see § 2(a) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Emergency Amendment Act of 1993 (D.C. Act 10-147, November 4, 1993,  40 DCR 8091) and § 2(a) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Congressional Review Emergency Amendment Act of 1994 (D.C. Act 10-185, February 2, 1994,  41 DCR 627).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 313(a) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, November 18, 2014,  61 DCR 12133, 20 STAT 4405).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 313(a) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 STAT 807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>For present law, see Chapters 10B and 10C of this title.</text>
+        <text><cite doc="D.C. Law 20-271">D.C. Law 20-271</cite> would have deleted “the Environmental Planning Commission established pursuant to § <cite path="§3-1001">3-1001</cite>” in (c); however, this section had previously been repealed by <cite doc="D.C. Law 20-154">D.C. Law 20-154</cite>.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 7-226">D.C. Law 7-226</cite>, the “D.C. Solid Waste Management &amp; Multi-Material Recycling Act of 1988”, see Mayor’s Order 89-160, July 20, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1005">6</num>
+    <heading>Priority for recycling.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 6, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3405.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 7-226">D.C. Law 7-226</cite>, the “D.C. Solid Waste Management &amp; Multi-Material Recycling Act of 1988”, see Mayor’s Order 89-160, July 20, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1006">7</num>
+    <heading>Recyclable materials recovery targets.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 7, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 10-178">Sept. 24, 1994, D.C. Law 10-178, § 3(c), 41 DCR 5205</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1008">8-1008</cite> and § <cite path="§8-1014">8-1014</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3406.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 7-226">D.C. Law 7-226</cite>, the “D.C. Solid Waste Management &amp; Multi-Material Recycling Act of 1988”, see Mayor’s Order 89-160, July 20, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1007">8</num>
+    <heading>Mandatory source separation program.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 8, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 8-93">Mar. 15, 1990, D.C. Law 8-93, § 2(b), 37 DCR 780</annotation>
+        <annotation doc="D.C. Law 8-154">Sept. 8, 1990, D.C. Law 8-154, § 2(b), 37 DCR 4045</annotation>
+        <annotation doc="D.C. Law 10-178">Sept. 24, 1994, D.C. Law 10-178, § 3(d), 41 DCR 5205</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1006">8-1006</cite> and § <cite path="§8-1008">8-1008</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3407.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(b) of District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Temporary Amendment Act of 1992 (<cite doc="D.C. Law 9-263">D.C. Law 9-263</cite>, March 27, 1993, law notification  40 DCR 2333).</annotation>
+        <annotation>For temporary (225 day) amendment of section, see § 2(b) of District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Temporary Amendment Act of 1993 (<cite doc="D.C. Law 10-86">D.C. Law 10-86</cite>, March 19, 1994, law notification  41 DCR 1636).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(b) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Emergency Amendment Act of 1992 (D.C. Act 9-346, December 22, 1992,  40 DCR 141).</annotation>
+        <annotation>For temporary amendments of section, see § 2(b) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Emergency Amendment Act of 1993 (D.C. Act 10-147, November 4, 1993,  40 DCR 8091) and § 2 (b) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Congressional Review Emergency Amendment Act of 1994 (D.C. Act 10-185, February 2, 1994,  41 DCR 627).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 7-226">D.C. Law 7-226</cite>, the “D.C. Solid Waste Management &amp; Multi-Material Recycling Act of 1988”, see Mayor’s Order 89-160, July 20, 1989.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1008">9</num>
+    <heading>Establishment of Office of Recycling.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 9, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 8-154">Sept. 8, 1990, D.C. Law 8-154, § 2(c), 37 DCR 4045</annotation>
+        <annotation doc="D.C. Law 10-178">Sept. 24, 1994, D.C. Law 10-178, § 3(e), 41 DCR 5205</annotation>
+        <annotation doc="D.C. Law 11-110">Apr. 18, 1996, D.C. Law 11-110, § 16, 43 DCR 530</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1014">8-1014</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3408.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 313(b) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, November 18, 2014,  61 DCR 12133, 20 STAT 4405).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 313(b) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 STAT 807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>For present law, see Chapters 10B and 10C of this title.</text>
+        <text><cite doc="D.C. Law 20-271">D.C. Law 20-271</cite> would have deleted “in conjunction with the Environmental Planning Commission” in (b)(3); however, this section had previously been repealed by <cite doc="D.C. Law 20-154">D.C. Law 20-154</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1009">10</num>
+    <heading>Right to recycle individual solid waste not limited.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 10, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3409.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1010">11</num>
+    <heading>Multi-material recycling buy-back centers and intermediate processing facilities.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 11, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3410.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(c) of District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Temporary Amendment Act of 1992 (<cite doc="D.C. Law 9-263">D.C. Law 9-263</cite>, March 27, 1993, law notification  40 DCR 2333).</annotation>
+        <annotation>For temporary (225 day) amendment of section, see § 2(c) of District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Temporary Amendment Act of 1993 (<cite doc="D.C. Law 10-86">D.C. Law 10-86</cite>, March 19, 1994, law notification  41 DCR 1636).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(c) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Emergency Amendment Act of 1992 (D.C. Act 9-346, December 22, 1992,  40 DCR 141).</annotation>
+        <annotation>For temporary amendments of section, see § 2(c) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Emergency Amendment Act of 1993 (D.C. Act 10-147, November 4, 1993,  40 DCR 8091) and § 2(c) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Congressional Review Emergency Amendment Act of 1994 (D.C. Act 10-185, February 2, 1994,  41 DCR 627).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 7-226">D.C. Law 7-226</cite>, the “D.C. Solid Waste Management &amp; Multi-Material Recycling Act of 1988”, see Mayor’s Order 89-160, July 20, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1011">12</num>
+    <heading>Contracting authority.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 12, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 8-93">Mar. 15, 1990, D.C. Law 8-93, § 2(c), 37 DCR 780</annotation>
+        <annotation doc="D.C. Law 8-154">Sept. 8, 1990, D.C. Law 8-154, § 2(d), 37 DCR 4045</annotation>
+        <annotation doc="D.C. Law 10-178">Sept. 24, 1994, D.C. Law 10-178, § 3(f), 41 DCR 5205</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3411.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(d) of District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Temporary Amendment Act of 1992 (<cite doc="D.C. Law 9-263">D.C. Law 9-263</cite>, March 27, 1993, law notification  40 DCR 2333).</annotation>
+        <annotation>For temporary (225 day) amendment of section, see § 2(d) of District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Temporary Amendment Act of 1993 (<cite doc="D.C. Law 10-86">D.C. Law 10-86</cite>, March 19, 1994, law notification  41 DCR 1636).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(d) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Emergency Amendment Act of 1992 (D.C. Act 9-346, December 22, 1992,  40 DCR 141).</annotation>
+        <annotation>For temporary amendments of section, see § 2(d) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Emergency Amendment Act of 1993 (D.C. Act 10-147, November 4, 1993,  40 DCR 8091) and § 2(d) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Congressional Review Emergency Amendment Act of 1994 (D.C. Act 10-185, February 2, 1994,  41 DCR 627).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 7-226">D.C. Law 7-226</cite>, the “D.C. Solid Waste Management &amp; Multi-Material Recycling Act of 1988”, see Mayor’s Order 89-160, July 20, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1012">13</num>
+    <heading>Compost materials use requirements.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 13, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3412.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 7-226">D.C. Law 7-226</cite>, the “D.C. Solid Waste Management &amp; Multi-Material Recycling Act of 1988”, see Mayor’s Order 89-160, July 20, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1013">14</num>
+    <heading>District procurement policies.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 14, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3413.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(e) of District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Temporary Amendment Act of 1992 (<cite doc="D.C. Law 9-263">D.C. Law 9-263</cite>, March 27, 1993, law notification  40 DCR 2333).</annotation>
+        <annotation>For temporary (225 day) amendment of section, see § 2(e) of District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Temporary Amendment Act of 1993 (<cite doc="D.C. Law 10-86">D.C. Law 10-86</cite>, March 19, 1994, law notification  41 DCR 1636).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2(e) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Emergency Amendment Act of 1992 (D.C. Act 9-346, December 22, 1992,  40 DCR 141).</annotation>
+        <annotation>For temporary amendments of section, see § 2(e) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Emergency Amendment Act of 1993 (D.C. Act 10-147, November 4, 1993,  40 DCR 8091) and § 2(e) of the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 Congressional Review Emergency Amendment Act of 1994 (D.C. Act 10-185, February 2, 1994,  41 DCR 627).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 7-226">D.C. Law 7-226</cite>, the “D.C. Solid Waste Management &amp; Multi-Material Recycling Act of 1988”, see Mayor’s Order 89-160, July 20, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1014">15</num>
+    <heading>Annual reporting requirements; submission of plan.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 15, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 10-178">Sept. 24, 1994, D.C. Law 10-178, § 3(g), 41 DCR 5205</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3414.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 7-226">D.C. Law 7-226</cite>, the “D.C. Solid Waste Management &amp; Multi-Material Recycling Act of 1988”, see Mayor’s Order 89-160, July 20, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1015">16</num>
+    <heading>Tire recycling fee.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 16, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 10-117">May 20, 1994, D.C. Law 10-117, § 8(b), 41 DCR 524</annotation>
+        <annotation doc="D.C. Law 10-178">Sept. 24, 1994, D.C. Law 10-178, § 3(h), 41 DCR 5205</annotation>
+        <annotation doc="D.C. Law 11-12">May 9, 1995, D.C. Law 11-12, § 2(a), 42 DCR 1265</annotation>
+        <annotation doc="D.C. Law 11-110">Apr. 18, 1996, D.C. Law 11-110, § 63, 43 DCR 530</annotation>
+        <annotation doc="D.C. Law 11-255">Apr. 9, 1997, D.C. Law 11-255, § 15, 44 DCR 1271</annotation>
+        <annotation doc="D.C. Law 19-21">Sept. 14, 2011, D.C. Law 19-21, § 9098, 58 DCR 6226</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-807.01">8-807.01</cite>, § <cite path="§8-905">8-905</cite>, § <cite path="§8-1011">8-1011</cite>, § <cite path="§8-1015.01">8-1015.01</cite>, § <cite path="§8-1017.01">8-1017.01</cite>, § <cite path="§8-1022">8-1022</cite>, and § <cite path="§8-1057">8-1057</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3415.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (f), substituted “for the purposes set forth in subsection (a)(1) of this section. Any monies not expended at the end of a fiscal year shall revert to the unrestricted fund balance of the General Fund of the District of Columbia” for “to fund recycling activities in the District, no more than 25% of which shall go to fund the recycling educational and promotional activities of the Environmental Planning Commission”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 7(b) of Illegal Dumping Enforcement Temporary Act of 1993 (<cite doc="D.C. Law 10-62">D.C. Law 10-62</cite>, November 20, 1993, law notification  40 DCR 8455).</annotation>
+        <annotation>For temporary (225 day) amendment of section, see § 2 of Recycling Fee and Illegal Dumping Temporary Amendment Act of 1994 (<cite doc="D.C. Law 10-191">D.C. Law 10-191</cite>, October 1, 1994, law notification  41 DCR 6934).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendments of section, see § 7(b) of the Illegal Dumping Enforcement Emergency Act of 1993 (D.C. Act 10-89, August 4, 1993,  40 DCR 6074) and § 7(b) of the Illegal Dumping Enforcement Congressional Recess Emergency Act of 1993 (D.C. Act 10-138, November 1, 1993,  40 DCR 7741).</annotation>
+        <annotation>For temporary amendment of section, see § 2 of the Recycling Fee and Illegal Dumping Emergency Amendment Act of 1994 (D.C. Act 10-269, July 7, 1994,  41 DCR 4669).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3 of Solid Waste Disposal Fee Emergency Amendment Act of 2007 (D.C. Act 17-32, April 19, 2007,  54 DCR 4083).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 11-12">D.C. Law 11-12</cite>, the “D.C. Recycling Fee and Illegal Dumping Amendment Act of 1995”, see Mayor’s Order 95-89, June 22, 1995.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1016">17</num>
+    <heading>Information clearinghouse.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 17, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3416.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 7-226">D.C. Law 7-226</cite>, the “D.C. Solid Waste Management &amp; Multi-Material Recycling Act of 1988”, see Mayor’s Order 89-160, July 20, 1989.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1017">18</num>
+    <heading>Enforcement.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 18, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3417.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority pursuant to <cite doc="D.C. Law 7-226">D.C. Law 7-226</cite>, the “D.C. Solid Waste Management &amp; Multi-Material Recycling Act of 1988”, see Mayor’s Order 89-160, July 20, 1989.</annotation>
+        <annotation>Delegation of Authority Under the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988 and the Litter Control Administration Act of 1985, see Mayor’s Order 2008-157, November 20, 2008 ( 55 DCR 12539).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1017.01">18a</num>
+    <heading>Applicability.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 18a</annotation>
+        <annotation doc="D.C. Law 11-52">as added Sept. 26, 1995, D.C. Law 11-52, § 804, 42 DCR 3684</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3417.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of section, see § 504 of the Omnibus Budget Support Emergency Act of 1995 (D.C. Act 11-44, April 28, 1995,  42 DCR 2217) and § 804 of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995,  42 DCR 4160).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1018">20</num>
+    <heading>Rules.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 20, 36 DCR 595</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, §  301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1007">8-1007</cite>, § <cite path="§8-1008">8-1008</cite>, and § <cite path="§8-1017">8-1017</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3418.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Approval in part and disapproval in part of proposed rules: Pursuant to Resolution 8-102, the “District of Columbia Solid Waste Management and Multi-Material Recycling Act Proposed Rules Approval and Disapproval Resolution of 1989”, effective October 10, 1989, the Council approved in part and disapproved in part the proposed rules issued pursuant to the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988.</text>
+        <text>Pursuant to Resolution 8-201, the “District of Columbia Solid Waste Management &amp; Multi-Material Recycling Act Proposed Amendments to Rules Approval &amp; Disapproval Resolution of 1990”, effective February 9, 1990, the Council approved in part and disapproved in part the proposed rules issued pursuant to the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988.</text>
+        <text>Approval and disapproval of amendments to rules: Pursuant to Resolution 8-228, the “District of Columbia Solid Waste Management and Multi-Material Recycling Act Proposed Mayoral Amendments to Rules Approval &amp; Disapproval Resolution of 1990”, effective June 8, 1990, the Council approved, in part, and disapproved, in part, the proposed Mayoral amendments to the rules issued pursuant to the District of Columbia Solid Waste Management and Multi-Material Recycling Act of 1988.</text>
+        <text>Recycling Rules Amendment Conditional Approval Resolution of 1992: Pursuant to Resolution 9-231, effective May 22, 1992, the Council conditionally approved the proposed rules to amend the recycling regulations and corresponding schedule of fines.</text>
+        <text>For present law, see Chapters 10B and 10C of this title.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1019">22</num>
+    <heading>Minimum recycled content percentage requirements.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 22</annotation>
+        <annotation doc="D.C. Law 8-208">as added Mar. 6, 1991, D.C. Law 8-208, § 2, 37 DCR 8458</annotation>
+        <annotation doc="D.C. Law 9-130">July 22, 1992, D.C. Law 9-130, § 2(a), 39 DCR 4054</annotation>
+        <annotation doc="D.C. Law 10-68">Feb. 5, 1994, D.C. Law 10-68, § 19(a), 40 DCR 6311</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, §  301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1020">8-1020</cite>, § <cite path="§8-1021">8-1021</cite>, and § <cite path="§8-1022">8-1022</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3419.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1020">23</num>
+    <heading>Minimum recycled content reporting requirements.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 23</annotation>
+        <annotation doc="D.C. Law 8-208">as added Mar. 6, 1991, D.C. Law 8-208, § 2, 37 DCR 8458</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1019">8-1019</cite> and § <cite path="§8-1022.01">8-1022.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3420.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1021">24</num>
+    <heading>Application for exemption and hearing procedure.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 24</annotation>
+        <annotation doc="D.C. Law 8-208">as added Mar. 6, 1991, D.C. Law 8-208, § 2, 37 DCR 8458</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1022">8-1022</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3421.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1022">25</num>
+    <heading>Minimum recycled content surcharge.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 25</annotation>
+        <annotation doc="D.C. Law 8-208">as added Mar. 6, 1991, D.C. Law 8-208, § 2, 37 DCR 8458</annotation>
+        <annotation doc="D.C. Law 9-130">July 22, 1992, D.C. Law 9-130, § 2(b), 39 DCR 4054</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3422.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <num codify:value="8-1022.01">25a</num>
+    <heading>Establishment of a Recycled Newspaper Fiber Content Advisory Task Force.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a Recycled Newspaper Fiber Content Advisory Task Force (“task force”).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The task force shall advise the Department of Public Works with respect to the statutory requirements for the use of recycled newsprint.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The task force shall convene during the 1st quarter of 1994 and will issue its report by the 3rd quarter of 1994.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The composition of the task force shall be 7 members appointed by the Mayor, as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Director of the Department of Public Works who shall be the Chair;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>2 representatives of newspaper publishers;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>2 representatives of environmental groups with expertise in recycling;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>1 representative of the recycled newsprint industry; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>1 representative of an industry, other than newsprint, that uses old newspapers.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The task force shall perform the following responsibilities:</text>
+      <para>
+        <num>(1)</num>
+        <text>Review the reports filed under § <cite path="§8-1020">8-1020</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Consider the following:</text>
+        <para>
+          <num>(A)</num>
+          <text>Extent of recovery of old newspapers from the District’s waste stream;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Cost to the District to recover and market old newspapers;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Availability and utilization in the District of newsprint containing recycled material; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Nature and extent of other recycling uses for old newspapers; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In accordance with paragraph (2) of this subsection, the task force may comment on whether a recycled newsprint law is necessary, and if so, whether the recycled content percentage requirement for newsprint should remain the same or be adjusted. The task force may also consider whether the recycled content requirement encourages manufacturers of virgin newsprint to convert to recycling and whether the requirement adversely affects recycling uses for old newspapers other than the production of newsprint.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 25a</annotation>
+        <annotation doc="D.C. Law 9-130">as added July 22, 1992, D.C. Law 9-130, § 2(c), 39 DCR 4054</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3422.1.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|10|I"/>
+    <reason>Repealed</reason>
+    <num codify:value="8-1023">26</num>
+    <heading>Minimum recycled content rules.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 7-226">Mar. 16, 1989, D.C. Law 7-226, § 26</annotation>
+        <annotation doc="D.C. Law 8-208">as added Mar. 6, 1991, D.C. Law 8-208, § 2, 37 DCR 8458</annotation>
+        <annotation doc="D.C. Law 9-130">July 22, 1992, D.C. Law 9-130, § 2(b), 39 DCR 4054</annotation>
+        <annotation doc="D.C. Law 10-68">Feb. 5, 1994, D.C. Law 10-68, § 19(c), 40 DCR 6311</annotation>
+        <annotation doc="D.C. Law 20-154">Feb. 26, 2015, D.C. Law 20-154, § 301(g), 61 DCR 9971</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§8-1021">8-1021</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-3423.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>The “Newsprint Recycling Amendment Act of 1992,” referred to in (a), is <cite doc="D.C. Law 9-130">D.C. Law 9-130</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>For present law, see Chapters 10B and 10C of this title.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

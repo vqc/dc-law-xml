@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 20-228">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 20-228">
   <num type="law">20-228</num>
   <heading type="short">Public-Private Partnership Act of 2014</heading>
   <meta>
@@ -12,4 +12,974 @@
       <narrative>Law 20-228, the “Public-Private Partnership Act of 2014,” was introduced in Council and assigned Bill No. 20-595. The Bill was adopted on first and second readings on Oct. 28, 2014, and Dec. 2, 2014, respectively. Signed by the Mayor on Dec. 29, 2014, it was assigned Act No. 20-550 and transmitted to Congress for its review. D.C. Law 20-228 became effective on Mar. 11, 2015.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|I"/>
+    <num codify:value="2-271.01">101</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Administrative Procedure Act” means subchapter I of Chapter 5 of this title [§ <cite path="§2-501">2-501</cite> et seq.].</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Freedom of Information Act” means subchapter II of Chapter 5 of this title [§ <cite path="§2-531">2-531</cite> et seq.].</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Material default” means the failure of an operator to perform a duty under a public-private partnership agreement that jeopardizes the delivery of adequate service to the public and the duty remains unsatisfied after a reasonable period of time and after the operator has received a written notice from the Office of the failure.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Office” means the Office of Public-Private Partnerships established by § <cite path="§2-272.01">2-272.01</cite>.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Open Meetings Act” means subchapter IV of Chapter 5 of this title [§  2-571 et seq.].</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Operator” means a private entity that has entered into a public-private partnership agreement under § <cite path="§2-273.06">2-273.06</cite>.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Private entity” means a natural person, corporation, limited liability company, partnership, joint venture, or other private business entity.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Proposer” means a private entity submitting a proposal to a request for proposals issued by the Office or an unsolicited proposal for a public-private partnership.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Public entity” means a District government agency, department, board, commission, or instrumentality.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Public notice” means the distribution or dissemination of information to interested parties using methods that are reasonably available, which shall include publication in the District of Columbia Register, the website of the Office or a public entity, and by mail to all Advisory Neighborhood Commissions in which the public-private partnership project will be located.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“Public-private partnership” means the method in the District for delivering a qualified project using a long-term, performance-based agreement between a public entity and a private entity or entities where appropriate risks and benefits can be allocated in a cost-effective manner between the public and private entities in which:</text>
+      <para>
+        <num>(A)</num>
+        <text>A private entity performs functions normally undertaken by the government, but the public entity remains ultimately accountable for the qualified project and its public function; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The District may retain ownership or control in the project asset and the private entity may be given additional decision-making rights in determining how the asset is financed, developed, constructed, operated, and maintained over its life cycle.</text>
+      </para>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“Public sector comparator” means a risk-adjusted estimate of the total cost for the lifetime of a project, including all capital, operating, financing, and ancillary costs, if a public-private partnership project were to be financed, built, and operated through a traditional government procurement method.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“Qualified project” means the planning, acquisition, financing, development, design, construction, reconstruction, rehabilitation, replacement, improvement, maintenance, management, operation, repair, leasing, or ownership of:</text>
+      <para>
+        <num>(A)</num>
+        <text>Education facilities;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Transportation facilities, including streets, roads, highways, bridges, tunnels, parking lots or garages, public transit systems, and airports;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Cultural or recreational facilities, including parks, libraries, theaters, museums, convention centers, community centers, stadia, athletic facilities, golf courses, or similar facilities;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A building or other facility that is beneficial to the public interest and is developed or operated by or for a public entity;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Utility facilities, including sewer, water treatment, stormwater management, energy producing or transmission, telecommunications, information technology, recycling, and solid waste management facilities;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Improvements necessary or desirable to any District-owned real estate;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Any other facility, the construction of which shall be beneficial to the public interest as determined by the Office.</text>
+      </para>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>“Request for information” means the document issued pursuant to § <cite path="§2-273.01">2-273.01</cite> to obtain information from potential proposers about how a public-private partnership project and its associated request for proposals should be structured before a request for proposal is issued.</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>“Request for proposal” means the document used in the competitive proposal process pursuant to § <cite path="§2-273.03">2-273.03</cite> in which proposals are evaluated on the basis of technical standards, price, and other criteria and in which negotiations with proposers before final selection and entering into a public-private partnership agreement is permissible.</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>“Request for qualification” means the document issued pursuant to § <cite path="§2-273.02">2-273.02</cite> used to obtain proof of a private entity's skills, resources, capabilities, and experience before submitting a response to a request for proposals.</text>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>“Value-for-money analysis” means a comparison of the risk-adjusted cost estimates over the lifetime of a proposed public-private partnership project, including all capital, operating, financing, and ancillary costs, with a public cost comparator.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 101, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|II"/>
+    <num codify:value="2-272.01">102</num>
+    <heading>Establishment of the Office of Public-Private Partnerships.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established in the Office of the City Administrator an Office of Public-Private Partnerships.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Office shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be the primary public entity responsible for facilitating the development, solicitation, evaluation, award, delivery, and oversight of public-private partnerships that involve a public entity in the District; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Consult and coordinate with all public entities that possess relevant knowledge, skills, and expertise in developing requests for proposals, evaluating responses, and negotiating and administering public-private partnership agreements under this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Office may retain consultants or enter into contracts to provide financial, legal, or other technical expertise necessary to assist in the development, solicitation, evaluation, award, delivery, and oversight of public-private partnership projects.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Office shall not have the power to pledge the full faith and credit of the District government, nor shall any obligation issued by the Office or any entity sponsored by the Office in connection with any public-private partnership agreement be a general obligation of the District government unless authorized by an act of the Council.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 102, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|II"/>
+    <num codify:value="2-272.02">103</num>
+    <heading>Professional staff.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Office shall be headed by an Executive Director who shall have demonstrated knowledge, training, or experience in the following areas:</text>
+      <para>
+        <num>(1)</num>
+        <text>Infrastructure development;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Capital markets and finance, including municipal finance;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Public-sector planning; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Procurement.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Executive Director and Office staff shall be subject to the Code of Conduct, as defined in § <cite path="§1-1161.01">1-1161.01</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 103, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|II"/>
+    <num codify:value="2-272.03">104</num>
+    <heading>Budget.</heading>
+    <text>The Mayor shall provide in the annual budget request to the Council funding for the Office of Public-Private Partnership represented as a separate line or responsibility center.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 104, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|II"/>
+    <num codify:value="2-272.04">105</num>
+    <heading>Public-Private Partnership Administration Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the Public-Private Partnership Administration Fund (“Fund”), which shall be administered by the Executive Director in accordance with subsection (c) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All administrative fees collected under § <cite path="§2-273.02">2-273.02</cite>(d) and § <cite path="§2-273.04">2-273.04</cite>(d) shall be deposited into the Fund.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Money in the Fund shall be used to pay for the costs associated with carrying out §§ <cite path="§2-273.02">2-273.02</cite> and <cite path="§2-273.04">2-273.04</cite>.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The money deposited into the Fund, and any interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of the fiscal year, or at any other time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 105, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|III"/>
+    <num codify:value="2-273.01">106</num>
+    <heading>Requests for information.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Before beginning a competitively bid solicitation process in accordance with § <cite path="§2-273.04">2-273.04</cite>, the Office may issue a request for information to obtain information regarding potential public-private partnership projects.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A request for information shall be published in a manner that gives interested parties sufficient public notice, time, and opportunity to respond.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Any response to a request for information shall be the property of the Office.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A private entity's response to a request for information shall have no effect on the evaluation or selection of that private entity for a public-private partnership agreement.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 106, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|III"/>
+    <num codify:value="2-273.02">107</num>
+    <heading>Pre-qualification.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Office may provide for a process of prequalification for private entities to submit a bid pursuant to § <cite path="§2-273.03">2-273.03</cite>. The process shall include public notice of a request for qualifications, including the requirements and the criteria the Office will use in determining whether the private entity prequalifies.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In order to be prequalified to submit a bid pursuant to § <cite path="§2-273.03">2-273.03</cite>, a private entity shall, in addition to any requirements set forth in the request for proposals for a public-private partnership project:</text>
+      <para>
+        <num>(1)</num>
+        <text>Have available sufficient sources of funding, capital, securities, or other financial resources necessary to carry out the public-private partnership project if selected;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Possess, either through its staff, subcontractors, a consortium, or joint venture agreement, the managerial, organizational, technical capacity, and experience in the type of project for which the proposer is submitting a bid;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be qualified to lawfully conduct business in the District; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Certify that no director, officer, partner, owner, or other individual with direct and significant control over the policy or finances of the private entity has been convicted of corruption or fraud in any jurisdiction of the United States.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If the Office determines that a prequalification process is appropriate for the public-private partnership project, only prequalified private entities may be a proposer.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Office may charge a reasonable application fee for prequalification that may not exceed the Office's actual direct cost of evaluating the application and which shall be deposited into the Fund established by § <cite path="§2-272.04">2-272.04</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 107, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|III"/>
+    <num codify:value="2-273.03">108</num>
+    <heading>Solicitation through requests for proposals.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A public-private partnership shall be solicited by the Office only through a competitive bid process in which a request for proposals is issued.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A request for proposals shall contain, at a minimum, the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A detailed description of the scope of the proposed public-private partnership project;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The material terms and conditions applicable to the procurement and any resulting contract; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The criteria for evaluation and selection of a proposal, which shall indicate the relative weight given to each criterion set forth in subsection (c) of this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The evaluation and selection criteria in a request for proposals shall include the following, each of which shall be given a relative weight:</text>
+      <para>
+        <num>(1)</num>
+        <text>Cost;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Delivery time;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Financial commitment required of public entities;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Capabilities, related experience, facilities, or techniques of the proposer or unique combinations of these qualities that are integral factors for achieving the proposal objectives;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Value-for-money and public sector comparator analysis of the proposal;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Novel methods, approaches, or concepts demonstrated by the proposal;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Scientific, technical, or socioeconomic merits of the proposal;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Potential contribution of the proposal to the mission of the District;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>How the proposal benefits the public; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Other factors as the Office deems appropriate to obtain the best value for the District.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Office shall provide public notice of a request for proposals for no less than 30 days, unless the Office makes a reasonable written determination at the time of the initial notice that a lesser time period is appropriate and will preserve the competitive nature of the procurement.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Office shall evaluate each proposal that satisfies the minimum requirements of the request for proposals according to the evaluation and selection criteria contained in the request for proposals.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Office shall make available to the public the executive summary of each responsive proposal including the scoring for each proposal and the identity of the proposer upon the closing of the response period; provided, that the Office shall not disclose any information which has been designated as confidential or proprietary by a proposer, if the Office determines the designation is proper.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Office may pay a stipend to an unsuccessful proposer, in an amount and on terms and conditions determined by the Office as reasonable, if:</text>
+        <para>
+          <num>(A)</num>
+          <text>The Office cancels the procurement process fewer than 30 days before the date the bid or proposal is due; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The unsuccessful proposer submits a proposal that is responsive and meets all the requirements established by the Office for the public-private partnership project.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All conditions for a stipend shall be clearly set forth in the request for information, bid solicitation, request for proposal, or request for qualifications.</text>
+      </para>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>Any response to a request for proposals shall be the property of the Office.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 108, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|III"/>
+    <num codify:value="2-273.04">109</num>
+    <heading>Unsolicited proposals.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Office may consider, evaluate, and accept an unsolicited proposal for a public-private partnership project from a private entity if the proposal:</text>
+      <para>
+        <num>(1)</num>
+        <text>Addresses a need identified in a District or regional planning document;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is independently developed and drafted by the proposer without District supervision;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Shows that the proposed project could benefit the District;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Includes a financing plan to allow the project to move forward pursuant to all applicable District budget and finance requirements; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Includes sufficient detail and information for the Office to evaluate the proposal in an objective and timely manner and permit a determination that the project would be worthwhile.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Within 90 days after receiving an unsolicited proposal, the Office shall complete a preliminary evaluation of the unsolicited proposal and shall either:</text>
+      <para>
+        <num>(1)</num>
+        <text>If the preliminary evaluation is unfavorable, return the proposal without further action; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the preliminary evaluation is favorable, notify the proposer that the Office will comprehensively evaluate the proposal and publish the unsolicited proposal in the District of Columbia Register for a period of not less than 30 days during which time other potential proposers may submit an alternative proposal.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>After a comprehensive evaluation of an unsolicited proposal and any alternatives submitted, the Office may commence negotiations with an proposer if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The proposal has received a favorable comprehensive evaluation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The proposal is not duplicative of existing infrastructure project or services;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The proposal does not closely resemble a pending competitive proposal for a public-private partnership or other procurement;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The proposal demonstrates a unique method, approach, or concept;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Office can demonstrate facts and circumstances that preclude additional competition;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Chief Financial Officer certifies:</text>
+        <para>
+          <num>(A)</num>
+          <text>The availability of any funds, debts, or assets that the District will contribute to the project;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>That no provision of the proposal would violate subchapter IIIB of Chapter 3 of Title 47 [§  47-355.01 et seq.]; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>That the project is not likely to have a significant adverse impact on District bond ratings;</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Attorney General certifies:</text>
+        <para>
+          <num>(A)</num>
+          <text>That proper indemnifications are included in the proposal; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>That there are no interstate compact issues if the project involves multiple jurisdictions; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The Office provides notification to the public of its intent to commence negotiations with a proposer.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Office may charge an administrative fee for the costs of processing, reviewing, or evaluating any unsolicited proposal or alternative proposal submitted by a private entity; provided, that the administrative fee is reasonable and shall not exceed the Office's actual direct cost of evaluating the proposal.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Any unsolicited proposal or alternatives shall be the property of the Office.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 109, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|III"/>
+    <num codify:value="2-273.05">110</num>
+    <heading>Review of requests for proposals.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Before the issuance of a request for proposals pursuant to § <cite path="§2-273.03">2-273.03</cite>, the Office shall transmit to the Council a proposed resolution to approve the proposed request for proposals in accordance with the criteria established in this section. Before submitting a proposed resolution to the Council pursuant to this subsection, the Office shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Hold at least one public hearing on the proposed request for proposals, which shall be subject to the Open Meetings Act and held at an accessible evening or weekend time and in an accessible location near the proposed public-private partnership project;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide at least 30 days' notice to affected Advisory Neighborhood Commissions of the public hearing; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Publicize the hearing by placing a notice in the District of Columbia Register at least 15 days before the hearing.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>A proposed request for proposals for a public-private partnership project that is anticipated to cost in total $ 50 million or more or extend for a term of 10 years or greater shall be deemed approved by the Council unless, during a 45-calendar day review period beginning on the 1st day (excluding Saturdays, Sundays, and holidays) following its receipt by the Office of the Secretary to the Council, the Council adopts a resolution to approve or disapprove the proposed request for proposals.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A proposed request for proposals for a project that is anticipated to cost in total less than $ 50 million or extend for a term of less than 10 years shall be deemed approved by the Council if one of the following occurs:</text>
+        <para>
+          <num>(A)</num>
+          <text>During a 10-day review period beginning on the 1st day (excluding Saturdays, Sundays, and holidays) following its receipt by the Office of the Secretary to the Council, no member of the Council introduces a resolution to approve or disapprove the proposed request for proposals; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>If a resolution has been introduced in accordance with subparagraph (A) of this paragraph, and the Council does not approve or disapprove the proposed request for proposals during a 45-day review period beginning on the 1st day (excluding Saturdays, Sundays, and holidays) following its receipt by the Office of the Secretary to the Council.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A disapproval resolution adopted by the Council pursuant to this subsection may include recommendations for revisions to the request for proposal.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The final request for proposals issued by the Office shall be substantially similar to the proposed request for proposals submitted to the Council for approval.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a substantive change is made to the proposed request for proposals after approval by the Council pursuant to subsection (b) of this section, a revised proposed request for proposals, including changes in redline format, shall be transmitted to the Council for review in accordance with subsection (b) of this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>Approval of a proposed request for proposals by the Council shall expire 2 years after the effective date of the approval.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the Office determines before the end of the 2-year period that a public-private partnership agreement cannot be entered into within the 2-year period, the Office may submit to the Council, no later than 60 days before the end of the 2-year period, a proposed resolution seeking additional time for the public-private partnership project and shall include within the proposed resolution a detailed status report on efforts made toward the public-private partnership project, as well as the reasons for the failure to enter into a public-private partnership agreement within the 2-year period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the Council does not approve or disapprove the proposed resolution submitted pursuant to paragraph (2) of this subsection within 30 days after receipt of the proposed resolution (excluding Saturdays, Sundays, legal holidays, and days of Council recess), the proposed resolution shall be deemed disapproved.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 110, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|III"/>
+    <num codify:value="2-273.06">111</num>
+    <heading>Public-private partnership agreements.</heading>
+    <para>
+      <num>(a)</num>
+      <text>After selecting a solicited or unsolicited proposal for a public-private partnership project, the Office or a designated public entity shall enter into a public-private partnership agreement for a qualified project with the selected private entity or entities.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A public-private partnership agreement approved and entered into by the Office or designated entity pursuant to this chapter shall include the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The term length of the agreement, which shall be for a period not to exceed 99 years from the date after the full execution of the public-private partnership agreement;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A complete description of the facilities to be developed and the functions and responsibilities to be performed by public entities and private entities that are party to the agreement;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The types of property interest, if any, that the private entity will have in the project facilities;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The terms of the planning, acquisition, financing, development, design, construction, re-construction, rehabilitation, replacement, improvement, maintenance, management, operation, repair, leasing, and ownership of the facilities;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The rights that the public entities and private entities that are party to the agreement have, if any, in revenue generated as a result of the public-private partnership agreement;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The minimum quality standards applicable to the public-private partnership project, including performance criteria, reporting requirements, incentives, and penalties for failure to meet these standards;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A specific plan to ensure proper maintenance of the project facilities throughout the term of the agreement and a return of the facility to the District in good condition and repair;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The compensation of the private entities, including the extent to which and the terms upon which a private entity may charge fees to individuals and entities for the use of the facility, but in no event shall new fees be imposed or existing fees be amended unless authorized by a subsequent act of the Council;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The requirement of an annual independent audit report furnished by the private entity or entities to the Office or designated public entity covering all aspects of the agreement;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Performance and payment bonds or other security and risk-mitigation tools deemed suitable by the Office or designated public entity;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>If the private entity or entities are responsible for operating the public-private partnership project, one or more policies of public liability insurance in amounts determined by the Office or designated public entity to ensure coverage of tort liability for the public and employees of the private entities;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Grounds for termination of the public-private partnership agreement by the Office, a designated public entity, or private entity;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Procedures for amending the public-private partnership agreement;</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Disposition of the facility upon the conclusion or termination of the public-private partnership agreement;</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>The rights and remedies available to the District for a material breach of the agreement by the private entity or entities or if there is a material default;</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>Identification of funding sources to be used to fully fund the capital, operation, maintenance, and other expenses under the public-private partnership agreement;</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>Certification of compliance with applicable District and federal laws; and</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>Any other provisions determined to be appropriate by the Office or designated public entity.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Public-private partnership agreements approved and entered into by the Office or designated public entity may include review and approval by the Office or a designated public entity of the private entity's plans for the development, operation, and maintenance of the public-private partnership project facilities.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>No public-private partnership agreement shall contain any noncompete provisions limiting the ability of a public entity to perform its government functions.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Office or a designated public entity shall have access and the right to inspect the public-private partnership project or facility at any time with reasonable notice.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Office may apply for and accept funds from the District or federal government and other sources of financial aid to fund public-private partnership projects or otherwise further the purposes of this chapter.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Office or designated public entity may enter into public-private partnership agreements with other local and state government agencies that are regional in scope as long as the regional scope is expressly stated in the request for proposals submitted to the Council pursuant to § <cite path="§2-273.05">2-273.05</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 111, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|III"/>
+    <num codify:value="2-273.07">112</num>
+    <heading>Legal rights; dispute resolution.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The terms of a public-private partnership agreement shall not be construed as a waiver of the sovereign immunity of the District government or as a grant of sovereign immunity to any private entity.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>) No private entity shall be liable for the debts or obligations of the District government or public entities, unless the public-private partnership agreement provides that a private entity is liable under the public-private partnership agreement.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In addition to any other remedy available to the District, in the event of a material default by an operator, the District may elect to assume the responsibilities and duties of the operator in the public-private partnership project, and in this instance, the District or a designated public entity shall succeed to all of the rights, title, and interest in the public-private partnership project.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The District may terminate, with cause, the public-private partnership agreement and exercise any other rights and remedies that may be available to it under the law or in equity.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The District may make or cause to be made any appropriate claims under the maintenance, performance, or payment bonds, or lines of credit, as set forth in the partnership agreement.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>If the District or a designated public entity elects to assume the responsibility and duties of a public-private partnership project pursuant to subsection (c) of this section, the District may develop or operate the public-private partnership project, impose previously approved user fees, impose and collect lease payments, and comply with any service contracts as if it were the opera-tor.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The full faith and credit of the District government shall not be pledged to secure any financing of the operator by the election to assume the responsibilities of an operator, and the assumption of the operation of the public-private partnership project shall not obligate the Office or the District government to pay any obligation of the operator from sources other than revenue from the project.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 112, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|III"/>
+    <num codify:value="2-273.08">113</num>
+    <heading>Compliance with federal and District law.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Parties to a public-private partnership agreement shall be exempt from Chapter 3A of this title [§ <cite path="§2-351.01">2-351.01</cite> et seq.], provided that §§ <cite path="§2-352.02">2-352.02</cite> and <cite path="§2-354.15">2-354.15</cite> and subchapters VII and X of Chapter 3A of this title shall apply.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Private entities shall comply, to the extent applicable, with:</text>
+      <para>
+        <num>(1)</num>
+        <text>Subchapter X of Chapter 2 of this title [§ <cite path="§2-219.01">2-219.01</cite> et seq.];</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subchapter X-A of Chapter 2 of this title [§ <cite path="§2-220.01">2-220.01</cite> et seq.], or the rate established by the use of a project labor agreement, notice of which must be provided by the Office before soliciting bids or proposals for a public-private partnership;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Subchapter IX-A of Chapter 2 of this title [§ <cite path="§2-218.01">2-218.01</cite> et seq.];</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Subchapter II of Chapter 28 of Title 47 [§ <cite path="§47-2861">47-2861</cite> et seq.];</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Chapter 14A of Title 6 [§ <cite path="§6-1451.01">6-1451.01</cite> et seq.];</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Subchapter XII of Chapter 2 of this title [§ <cite path="§2-1226.31">2-1226.31</cite> et seq.];</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Davis-Bacon Act of 1931, approved March 3, 1931 (46 Stat. 1494; 40 U.S.C. § 3141 et seq.); and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Chapter 8A of Title 32 [§ <cite path="§32-851">32-851</cite> et seq.].</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Unless otherwise provided by law, nothing in this chapter shall exempt public-private partnership projects and participating public and private entities from complying with all applicable District laws and regulations.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 113, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|III"/>
+    <num codify:value="2-273.09">114</num>
+    <heading>Transparency.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>Before entering into a public-private partnership agreement, the Office shall submit to the Council a report outlining the details of the selected proposal, including any participating private entities, significant terms of the public-private partnership agreement, overall cost, cost to the District, value-for-money analysis and public sector comparator analysis, time for completion, delivery method, any participating public entities, a list of private entities that responded to the request for proposals, and how those responses were scored and how a response was selected according to the criteria and methodology for evaluating responses outlined in the request for proposals.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Office shall provide public notice of the report submitted to the Council.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>A proposer shall identify those portions of a proposal or other submission that the proposer considers to be a trade secret or confidential commercial, financial, or proprietary information.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For trade secrets and confidential and proprietary information to be exempt from disclosure, the proposer must do all of the following:</text>
+        <para>
+          <num>(A)</num>
+          <text>Invoke exclusion on submission of the information or other materials for which protection is sought;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Identify with conspicuous labeling the data or other materials for which protection is sought;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>State the reasons why protection is necessary; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Fully comply with any applicable District law with respect to information that the proposer contends should be exempt from disclosure.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Each request for proposals issued pursuant to this subchapter shall require the proposer to include with its proposal an executive summary, which shall be subject to release and disclosure to the public at any time, describing the major elements of its proposal that do not address the pro-poser's price, financing plan, or other confidential or proprietary information or trade secrets that the proposer intends to be exempt from disclosure.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <para>
+          <num>(A)</num>
+          <text>Notwithstanding any other provision of law, no part of a proposal other than the executive summary and the information required to be disclosed under §§ <cite path="§2-273.03">2-273.03</cite>(f), <cite path="§2-273.04">2-273.04</cite>(b), and <cite path="§2-273.09">2-273.09</cite>(a) shall be subject to release or disclosure by the Office or a designated public entity be-fore an award of the public-private partnership agreement and at the conclusion of any protest, appeal, or other challenge to the award, absent an administrative or judicial order requiring re-lease or disclosure.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>After the award of the public-private partnership agreement and the conclusion of any protest, appeal, or other challenge to the award, the Freedom of Information Act shall apply to the proposal except for exclusions, such as proprietary information, as specifically provided in this chapter.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>An unsolicited proposal shall contain a similar executive summary and be afforded the same protections as a requested proposal.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Office shall provide public notice of all meetings and shall conduct its meetings in compliance with the Open Meetings Act.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Office shall submit an annual report to the Council within 90 days after the end of each fiscal year, summarizing the activities of the Office for the fiscal year just ended, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>A summary of solicitations requested by public entities for any public-private partnership, including the type of project, the Office's response, and current status;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A summary of unsolicited proposals submitted to the Office by private entities, including the type of project, the Office's response, and current status;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A summary of all public-private partnership agreements entered into by the Office, including the term sheet and current status of implementation;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A summary of all public hearings and public meetings held by the Office;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Any recommendations for needed action on the part of the Mayor and Council that is necessary for the Office to fulfill its mission; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>An audit of the Office's budget, including the amount and percentage of the Office's budget spent on administrative costs.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, § 114, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|IV"/>
+    <num codify:value="2-274.01">301</num>
+    <heading>Rules.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Office, pursuant to subchapter I of Chapter 5 of this title [§ <cite path="§2-501">2-501</cite> et seq.], shall issue rules to implement the provisions of this chapter, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Rules for the development, solicitation, evaluation, award, delivery, and oversight of solicited and unsolicited public-private partnership projects; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Rules to ensure that persons responsible for the proper administration of this chapter maintain a position of strict impartiality and refrain from any activity that would imply support or opposition to a particular private entity, proposer, or operator of a public-private partnership agreement.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Office shall consult with the Office of the Chief Financial Officer when formulating rules to establish policies and procedures to ensure compliance with relevant laws with regards to the financing of public-private partnership projects.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>Within 90 days of the appointment of an Executive Director, proposed rules for implementation of this chapter and all procurement procedures shall be submitted to the Council for a 45-day period of review, excluding days of Council recess.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the Council does not approve or disapprove the rules submitted pursuant to paragraph (1) of this subsection, in whole or in part, by resolution within the 45-day period, the rules shall be deemed approved.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, §  301, 62 DCR 261</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2A|V"/>
+    <num codify:value="2-275.01">302</num>
+    <heading>Applicability; construction.</heading>
+    <para>
+      <num>(a)</num>
+      <text>This chapter shall apply as of October 1, 2015.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Nothing in this chapter shall be construed to affect any public-private partnerships, projects, or agreements that are developed, solicited, awarded, or entered into before this chapter applies.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-228">Mar. 11, 2015, D.C. Law 20-228, §  302, 62 DCR 261</annotation>
+        <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 7008, 62 DCR 10905</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite>, in (a), redesignated (a)(1) as (a), deleted (a)(2) and (a)(3), and substituted “as of October 1, 2015” for “upon the inclusion of its fiscal effect in an approved budget and financial plan.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of <cite doc="D.C. Law 20-228">D.C. Law 20-228</cite>, § 302(a), see § 7008 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

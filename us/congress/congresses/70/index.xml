@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <heading>The 70th Congress</heading>
+  <subheading>Public Laws</subheading>
+  <ns0:include href="./laws/public/70-2-ch908.xml"/>
+  <ns0:include href="./laws/public/70-2-ch862.xml"/>
+  <ns0:include href="./laws/public/70-2-ch659.xml"/>
+  <ns0:include href="./laws/public/70-2-ch568.xml"/>
+  <ns0:include href="./laws/public/70-2-ch48.xml"/>
+  <ns0:include href="./laws/public/70-1-ch354.xml"/>
+  <ns0:include href="./laws/public/70-1-ch306.xml"/>
+  <ns0:include href="./laws/public/70-1-ch305.xml"/>
+</collection>

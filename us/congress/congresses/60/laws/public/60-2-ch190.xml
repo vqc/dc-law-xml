@@ -1,10 +1,110 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 60-2-ch190">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 60-2-ch190">
+  <heading/>
   <meta>
     <effective>1908-05-23</effective>
     <cites>
-        <law congress="60" session="2" chapter="190"/>
+      <law congress="60" session="2" chapter="190"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§35-204" path="|35|2|I"/>
+    <num codify:value="35-202">16</num>
+    <heading>Furnishing sufficient cars, power, equipment, appliances and service required; rules and regulations; penalties for violation.</heading>
+    <text>Every street railroad company or corporation owning, controlling, leasing or operating 1 or more street railroads within the District of Columbia shall on each and all of its railroads supply and operate a sufficient number of cars, clean, sanitary, in good repair, with proper and safe power, equipment, appliances and service, comfortable and convenient, and so operate the same as to give expeditious passage, not to exceed 15 miles per hour within the city limits or 20 miles per hour in the suburbs, to all persons desirous of the use of the said cars, without crowding said cars. The Public Service Commission is hereby given power to require and compel obedience to all of the provisions of this section, and to make, alter, amend and enforce all needful rules and regulations to secure said obedience; and said Commission is given power to make all such orders and regulations necessary to the exercise of the powers herein granted to it as may be reasonable and proper; and such railroad companies or corporations, their officers and employees, are hereby required to obey all the provisions of this section, and such regulations and orders as may be made by said Commission. Any such company or corporation, or its officers or employees, violating any provision of this section, or any of the said orders or regulations made by said Commission, or permitting such violation, shall be punished by a fine of not more than $1,000. And each day of failure or neglect on the part of such company or corporation, its officers or employees, to obey each and all of the provisions and requirements of this section, or the orders and regulations of the Commission made thereunder, shall be regarded as a separate offense.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 23, 1908, 35 Stat. 250, ch. 190, § 16</annotation>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 634, Pub. L. 88-503, § 21</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§35-203">35-203</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-202.</annotation>
+        <annotation>1973 Ed., § 44-202.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§35-204" path="|35|2|I"/>
+    <num codify:value="35-203">17</num>
+    <heading>Prosecutions to be on information.</heading>
+    <text>Prosecutions for violations of any of the provisions of §§ <cite path="§35-202">35-202</cite>, <cite path="§35-206">35-206</cite>, and <cite path="§35-207">35-207</cite> shall be on information of the Corporation Counsel filed in the Superior Court of the District of Columbia by or on behalf of the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 23, 1908, 35 Stat. 250, ch. 190, § 17</annotation>
+        <annotation>Mar. 4, 1913, 37 Stat. 995, ch. 150, § 8</annotation>
+        <annotation>Apr. 1, 1942, 56 Stat. 190, ch. 207, § 1</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 634, Pub. L. 88-503, § 21</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+        <annotation doc="D.C. Law 13-187">Oct. 21, 2000, D.C. Law 13-187, § 2(b), 47 DCR 7073</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-203.</annotation>
+        <annotation>1973 Ed., § 44-203.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-187">D.C. Law 13-187</cite> substituted for “Public Service Commission” the phrase “Corporation Counsel” and for the phrase “the Commission” the phrase “the District of Columbia”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§35-208" path="|35|2|I"/>
+    <num codify:value="35-206">4</num>
+    <heading>Construction of duct lines authorized.</heading>
+    <text>The Anacostia and Potomac River Railroad Company, the Washington Railway and Electric Company, the City and Suburban Railway Company, and the Capital Traction Company are hereby permitted to lay duct lines on such streets as may be necessary for the proper operation of their lines, the location of such duct lines to be approved by the Mayor of the District of Columbia, and the cost thereof shall be borne and paid solely by said street-railway companies, and they shall be solely liable for all damages to persons and property occasioned by any construction or work authorized by this section.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 23, 1908, 35 Stat. 247, ch. 190, § 4</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§35-203">35-203</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-206.</annotation>
+        <annotation>1973 Ed., § 44-206.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§35-208" path="|35|2|I"/>
+    <num codify:value="35-207">15</num>
+    <heading>Unlawful disposition, acceptance and use of transfers.</heading>
+    <text>No transfer ticket or written or printed instrument giving or purporting to give the right of transfer to any person or persons from a rail transit car or from a public passenger vehicle with a capacity for seating 12 or more, owed or operated by the Washington Metropolitan Area Transit Authority, which is transporting passengers in regular route service within the corporate limits of the city, shall be issued, sold, or given except to a passenger lawfully entitled thereto. Any person who shall issue, sell, or give away such a transfer ticket or instrument as aforesaid to a person or persons not lawfully entitled thereto, and any person or persons not lawfully entitled thereto who shall receive and use or offer for passage any such transfer ticket or instrument to another with intent to have such transfer ticket used or offered for passage shall be punished by a fine not exceeding $25.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>May 23, 1908, 35 Stat. 250, ch. 190, § 15</annotation>
+        <annotation doc="D.C. Law 13-187">Oct. 21, 2000, D.C. Law 13-187, § 2(a), 47 DCR 7073</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§35-203">35-203</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-207.</annotation>
+        <annotation>1973 Ed., § 44-207.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-187">D.C. Law 13-187</cite> rewrote the first sentence which formerly provided: “No transfer ticket or written or printed instrument giving or purporting to give the right of transfer to any person or persons from a public conveyance operated upon 1 line or route of a street railroad or from 1 car to another car upon the line of any street railroad, shall be issued, sold, or given except to a passenger lawfully entitled thereto.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

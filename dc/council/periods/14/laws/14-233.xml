@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 14-233">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 14-233">
   <num type="law">14-233</num>
   <heading type="short">Prostate Cancer Screening Insurance Coverage Requirement Act of 2002</heading>
   <meta>
@@ -12,4 +12,71 @@
       <narrative>Law 14-233, the “Prostate Cancer Screening Insurance Coverage Requirement Act of 2002”, was introduced in Council and assigned Bill No. 14-637, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on July 2, 2002, and October 1, 2002, respectively. Signed by the Mayor on October 23, 2002, it was assigned Act No. 14-491 and transmitted to both Houses of Congress for its review. D.C. Law 14-233 became effective on March 25, 2003.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|29|III"/>
+    <num codify:value="31-2951">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Commissioner” means the Commissioner of the Department of Insurance and Securities Regulation.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Health benefits plan” means any accident and health insurance policy or certificate, hospital and medical services corporation contract, health maintenance organization subscriber contract, plan provided by a multiple employer welfare arrangement, or plan provided by another benefit arrangement. The term “health benefit plan” does not mean accident only, credit, or disability insurance; coverage of Medicare services or federal employee health plans, pursuant to contracts with the United States government; Medicare supplemental or long-term care insurance; dental only or vision only insurance; specified disease insurance; hospital confinement indemnity coverage; limited benefit health coverage; coverage issued as a supplement to liability insurance, insurance arising out of a workers’ compensation or similar law; automobile medical payment insurance; medical expense and loss of income benefits; or insurance under which benefits are payable with or without regard to fault and that is statutorily required to be contained in any liability insurance policy or equivalent self-insurance.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Health insurer” means any person that provides one or more health benefit plans or insurance in the District of Columbia, including an insurer, a hospital and medical services corporation, a fraternal benefit society, a health maintenance organization, a multiple employer welfare arrangement, or any other person providing a plan of health insurance subject to the authority of the Commissioner.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-233">Mar. 25, 2003, D.C. Law 14-233, § 2, 49 DCR 9772</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|29|III"/>
+    <num codify:value="31-2952">3</num>
+    <heading>Coverage for prostate cancer screening.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Each individual and group health benefits plan issued or renewed in the District of Columbia shall provide coverage for prostate cancer screening in accordance with the latest screening guidelines issued by the American Cancer Society for the ages, family histories, and frequencies referenced in such guidelines.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The coverage provided under this section shall not be more restrictive than or separate from coverage provided from any other illness, condition, or disorder for purposes of determining deductibles, benefit year or lifetime durational limits, benefit year or lifetime dollar limits, lifetime episodes or treatment limits, copayment and coinsurance factors, and benefit year maximum for deductibles and copayments and coinsurance factors.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-233">Mar. 25, 2003, D.C. Law 14-233, § 3, 49 DCR 9772</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|29|III"/>
+    <num codify:value="31-2953">4</num>
+    <heading>Applicability.</heading>
+    <text>This subchapter shall apply to all individual and group health benefits plans issued or renewed on or after 120 days after March 25, 2003.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-233">Mar. 25, 2003, D.C. Law 14-233, § 4, 49 DCR 9772</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|29|III"/>
+    <num codify:value="31-2954">5</num>
+    <heading>Regulations.</heading>
+    <text>The Commissioner may issue rules and regulations necessary to implement the provisions of this subchapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-233">Mar. 25, 2003, D.C. Law 14-233, § 5, 49 DCR 9772</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

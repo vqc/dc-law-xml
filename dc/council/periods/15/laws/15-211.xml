@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 15-211">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 15-211">
   <num type="law">15-211</num>
   <heading type="short">Board of Education Continuity and Transition Amendment Act of 2004</heading>
   <meta>
@@ -12,4 +12,250 @@
       <narrative>Law 15-211, the “Board of Education Continuity and Transition Amendment Act of 2004”, was introduced in Council and assigned Bill No. 15-714, which was referred to the Committee on Education, Libraries and Recreation. The Bill was adopted on first and second readings on June 29, 2004, and July 13, 2004, respectively. Signed by the Mayor on August 2, 2004, it was assigned Act No. 15-498 and transmitted to both Houses of Congress for its review. D.C. Law 15-211 became effective on December 7, 2004.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|28|II"/>
+    <num codify:value="38-2831">6</num>
+    <heading>Budget submission requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Chancellor of the District of Columbia Public Schools (“Chancellor”) shall prepare and execute a performance-based budget on an annual basis. The budget prepared by the Chancellor shall have its operations organized by major programs, which in turn will be composed of activities and services. The budget submitted by the Chancellor shall allocate all monies by revenue source for programs, activity, and service levels, and by revenue source for comptroller source group by program and activity. The District of Columbia Public Schools (“DCPS”) submission shall include the number of full-time equivalents with job titles by program and revenue source.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The DCPS submission shall also include a delineation of:</text>
+      <para>
+        <num>(1)</num>
+        <text>All funds budgeted for each school, by revenue source for activities and service levels, and by revenue source for comptroller source group by activities and service levels;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The programs and services, along with a narrative description of each program and service, to be supported by the allowable maximum 5% allocation for central administration functions as prescribed in § <cite path="§38-2907.01">38-2907.01</cite>; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All funds not allocated directly to a school or to central administration functions, by revenue source for activities and service levels, and by revenue source for comptroller source group by activities and service levels, including a presentation of:</text>
+        <para>
+          <num>(A)</num>
+          <text>Any funds that will support costs associated with programs and services provided at the school level or directly to students; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Any funding associated with at-risk students, as defined in § <cite path="§38-2901">38-2901</cite>(2A), that has been retained by the Chancellor.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No later than 21 days before the Mayor’s submission of the District’s budget and financial plan to the Council, the Chancellor shall, annually, make available on the DCPS website and post at each school a detailed estimate, in accordance with this section, of the amount of money required to operate the public schools for the ensuing year, including preliminary school-by-school budgets.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor’s annual submission of the District’s budget and financial plan to the Council shall include as an attachment an accurate and verifiable report on the positions and employees of the District of Columbia Public Schools to include:</text>
+      <para>
+        <num>(1)</num>
+        <text>A compilation of DCPS Schedule A positions for the ensuing fiscal year on a full-time equivalent basis, including a compilation of all positions by organization Level 4, job title, pay plan and grade, program and activity, revenue fund, and annual salary; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A compilation of all DCPS employees as of the preceding March 1, on a full-time equivalent basis, including a compilation of all positions by organization Level 4, job title, pay plan, grade, and step, program and activity, revenue fund, and annual salary.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>No later than October 30 of each year, the Mayor shall submit to the Council a revised appropriated funds operating budget for DCPS for the fiscal year beginning on the preceding October 1 that sets forth the total amount of the approved appropriation and that realigns budgeted data with anticipated actual expenditures with the specification set forth in of subsections (a) and (b) of this section.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Beginning in fiscal year 2011, the Mayor shall submit to the Council quarterly financial reports for DCPS setting forth by organization Level 4 approved budget, revised budget, actual expenditures and funds obligated to date, and projected expenditures for the full fiscal year.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-211">Dec. 7, 2004, D.C. Law 15-211, § 6, 51 DCR 8805</annotation>
+        <annotation doc="D.C. Law 17-325">Mar. 21, 2009, D.C. Law 17-325, § 4, 56 DCR 499</annotation>
+        <annotation doc="D.C. Law 18-223">Sept. 24, 2010, D.C. Law 18-223, § 4032, 57 DCR 6242</annotation>
+        <annotation doc="D.C. Law 20-87">Feb. 22, 2014, D.C. Law 20-87, § 3, 61 DCR 309</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-325">D.C. Law 17-325</cite> rewrote the section, which had read as follows: “The Board of Education shall approve an annual budget for submission to the Council that is consistent with the goals and objectives established by the Board of Education for the operation of the public schools of the District of Columbia. The Board shall prepare and execute a performance-based budget on an annual basis. The budget prepared by the Board shall have its operations organized by major programs, which in turn will be composed of activities and services. The budget submitted by the board shall allocate all monies by activities and object class. The DCPS submission shall also include a presentation that specifies the monies budgeted for each school. This presentation shall specify the funds available to each school for which the decision to spend is made by the school’s local schools restructuring team, and shall specify other responsibility center funds the spending of which directly benefit local schools (e.g., for textbooks, substitute teachers, transportation, maintenance/engineers, nurses, teachers salaries, etc.), so that the Council and the public may know the totality of funds, goods and services that will be provided to the local schools directly.”</annotation>
+        <annotation><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote the section, which had read as follows: “The Chancellor of the District of Columbia Public Schools (‘Chancellor’) shall prepare and execute a performance-based budget on an annual basis. The budget prepared by the Chancellor shall have its operations organized by major programs, which in turn will be composed of activities and services. The budget submitted by the Chancellor shall allocate all monies by revenue source for programs, activity, and service levels, and by revenue source for comptroller source group by program and activity. The District of Columbia Public Schools submission shall include the number of full-time equivalents with job titles by program and revenue source. The DCPS submission shall also include a presentation that specifies the monies budgeted for each school. This presentation shall specify the funds available to each school for which the decision to spend is made by the school’s local schools restructuring team, and shall specify other responsibility center funds the spending of which directly benefit local schools (e.g., for textbooks, substitute teachers, transportation, maintenance/engineers, nurses, teachers salaries, etc.), so that the Council and the public may know the totality of funds, goods and services that will be provided to the local schools directly.”</annotation>
+        <annotation>The 2014 amendment by <cite doc="D.C. Law 20-87">D.C. Law 20-87</cite> rewrote (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 4 of Public Schools Hearing Emergency Amendment Act of 2009 (D.C. Act 18-11, February 25, 2009,  56 DCR 1915).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 4032 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 4031 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle D of title IV of the act may be cited as the “District of Columbia Public Schools Fiscal Transparency Amendment Act of 2010”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|29A"/>
+    <num codify:value="38-2951">4</num>
+    <heading>Financial Management Reform Plan.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Superintendent of the public schools shall develop a Financial Management Reform Plan (“Reform Plan”) which shall include the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Measurable goals;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Timeline for deliverables;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Roles and responsibilities of all District agencies that provide financial management related services;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Proposed statutory and regulatory amendments to approve the budget process;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Targeted savings activities, and reallocations within the DCPS budget, for the next 2 fiscal years; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Review and input from members of the Financial Management Task Force.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Superintendent shall submit the Reform Plan to the Board of Education for its approval.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-211">Dec. 7, 2004, D.C. Law 15-211, § 4, 51 DCR 8805</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-2952">38-2952</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Former § <cite path="§38-2951">38-2951</cite> has been recodified as § <cite path="§38-2931">38-2931</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|29A"/>
+    <num codify:value="38-2952">5</num>
+    <heading>Financial Management Task Force.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a Financial Management Task Force (“Task Force”) with the purpose of serving as a collaborative body of District agencies that will support and assist in implementing financial management reform within the District of Columbia Public Schools.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Specific functions of the Task Force shall include the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Within 60 days of the approval of the Board of Education pursuant to § <cite path="§38-2951">38-2951</cite>(b), adopt by a majority vote the Reform Plan developed pursuant to § <cite path="§38-2951">38-2951</cite>(a);</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Convene monthly, or more frequently as deemed necessary and appropriate, to report on the progress of, identify obstacles to, and recommend amendments to, the Reform Plan;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Identify ways that better coordinate and improve financial management service delivery; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Assist with the implementation of the Reform Plan to ensure that the Reform Plan is executed in an appropriate and timely manner.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Task Force shall be comprised of the following 8 voting members, or designees thereof, as follows:</text>
+        <para>
+          <num>(A)</num>
+          <text>The Mayor of the District of Columbia;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Chair of the Committee on Education, Libraries and Recreation of the Council;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The Chair of Committee of Finance and Revenue of the Council;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The President of the Board of Education;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>The District of Columbia Public Schools Superintendent;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>The State Education Officer of the District of Columbia;</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>The Chief Financial Officer for the District of Columbia; and</text>
+        </para>
+        <para>
+          <num>(H)</num>
+          <text>The Chief Financial Officer for the District of Columbia Public Schools.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The following persons shall serve as advisory, nonvoting members of the Task Force:</text>
+        <para>
+          <num>(A)</num>
+          <text>All the members of the Council’s Committee on Education, Libraries and Recreation;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The department head or designee of the Office of Financial Management;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The department head or designee of the Committee on Financial Management and Student Services for the Board of Education;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The department head or designee of the Office of the Attorney General; and</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>The representative of the State Advisory Panel on Financial Management in the District of Columbia;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Task Force shall be co-chaired by the Mayor, the Chair of the Committee on Education, Libraries and Recreation of the Council, and the President of the Board of Education.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Director of the State Education Office shall provide staffing for the Task Force.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The voting members of the Task Force shall adopt and sign a Memorandum of Understanding binding their respective agencies regarding the implementation of the Reform Plan.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Task Force shall terminate upon the full execution of the Memorandum of Understanding referred in subsection (d) of this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 15-211">Dec. 7, 2004, D.C. Law 15-211, § 5, 51 DCR 8805</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

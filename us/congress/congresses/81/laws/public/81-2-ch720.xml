@@ -1,10 +1,86 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 81-2-ch720">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 81-2-ch720">
+  <heading/>
   <meta>
     <effective>1950-08-16</effective>
     <cites>
-        <law congress="81" session="2" chapter="720"/>
+      <law congress="81" session="2" chapter="720"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|9"/>
+    <num codify:value="38-924">1</num>
+    <heading>Established; functions; duties; Director; advisory board.</heading>
+    <text>There is hereby established in the municipal government of the District of Columbia the Department of General Services, hereinafter referred to as the “Department,” which shall under the direction of the Mayor of the District of Columbia carry out in the District of Columbia the state functions contemplated by § 484(j) and (k) of Title 40, United States Code, and such other duties relating to the distribution of surplus property, or other functions, as the Mayor may in his discretion assign to such Department, and for the purposes of § 484(j), the District of Columbia shall be deemed to be a state. The Mayor is authorized to appoint a Director for such Department and such other personnel as may be necessary with compensation to be fixed in accordance with Chapter 51 and subchapter III of Chapter 53 of Title 5, United States Code. The Mayor is also authorized to appoint an advisory board for such Department to be composed of not more than 10 members; provided, that the membership of such board shall include representatives of the tax-supported, tax-exempt, and nonprofit educational institutions in the District of Columbia; and provided further, that the members of such advisory board shall serve without compensation and at the pleasure of the Mayor. Such advisory board may submit reports and recommendations to the Mayor as well as to the Department.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 16, 1950, 64 Stat. 450, ch. 720, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-301.</annotation>
+        <annotation>1973 Ed., § 31-1301.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Educational Agency for Surplus Property abolished: The District of Columbia Educational Agency for Surplus Property was abolished and the functions thereof transferred to the Board of Commissioners of the District of Columbia by Reorganization Plan No. 5 of 1952. All functions of the District of Columbia Educational Agency for Surplus Property including the functions of all officers, employees, and subordinate agencies were transferred to Director of the Department of General Administration by Reorganization Order No. 3 of the Board of Commissioners, dated August 28, 1952 and effective September 2, 1952. Reorganization Order No. 18 abolished the District of Columbia Educational Agency for Surplus Property and transferred its functions to the Administrative Services Office created in the Department of General Administration by that Order. The executive functions of the Board of Commissioners were transferred to the Commissioner of the District of Columbia by Reorganization Plan No. 3 of 1967. Reorganization Order No. 18 was revoked by Organization Order No. 3, dated December 13, 1967, and functions relative to education surplus property were assigned to the Administrative Services Office of the Department of General Administration by Part IVA of Organization Order No. 3. Functions stated in Parts IVA and IVD of Organization Order No. 3 were transferred to the Director of the Department of General Services by Commissioner’s Order No. 69-96, dated March 7, 1969.</text>
+        <text>The functions of the Department of General Services were transferred, in part, to the Department of Public Works by Reorganization Plan No. 4 of 1983, effective March 1, 1984, and transferred, in part, to the Department of Administrative Services by Reorganization Plan No. 5 of 1983, effective March 1, 1984.</text>
+        <text>Council’s acceptance of plan of operation for surplus federal property: Pursuant to Resolution 6-241, the “District of Columbia Plan of Operation for Surplus Federal Property Acceptance Resolution of 1985,” effective July 9, 1985, the Council accepted the permanent plan of operation for disposition of surplus federal property.</text>
+        <text>Rescission of Old Police Precinct #9 from surplus real estate list: Pursuant to Resolution 6-516, the “Sale of Surplus Real Estate Removal Resolution of 1985,” effective January 28, 1986, the Council rescinded its findings regarding the property known as the Old Police Precinct #9, located at 525  9th Street, N.E., which appeared on the surplus real estate list established by Resolution 4-171.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|9"/>
+    <num codify:value="38-925">2</num>
+    <heading>Working capital fund; rules and regulations.</heading>
+    <text>There is hereby authorized to be appropriated from any money in the Treasury to the credit of the District of Columbia not exceeding $15,000 as a working capital fund for the operation of the Department, which fund shall be used as a permanent revolving fund for all necessary expenses of such Department. There shall be deposited to the credit of such fund such amounts as may be appropriated pursuant to this chapter, together with such amounts as the respective branches of the government of the District of Columbia and the private educational institutions authorized by law to participate in the distribution of surplus property shall pay as fees for services rendered by the Department. The Mayor is authorized to promulgate rules and regulations governing the manner in which the Department shall carry out its duties, including the fixing of reasonable fees to be charged for its services.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 16, 1950, 64 Stat. 450, ch. 720, § 2</annotation>
+        <annotation doc="D.C. Law 3-13">Aug. 1, 1979, D.C. Law 3-13, § 2, 25 DCR 10563</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-302.</annotation>
+        <annotation>1973 Ed., § 31-1302.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Transfer of unexpended balances: Section 7(g) of the Act of June 14, 1980, <cite doc="D.C. Law 3-70">D.C. Law 3-70</cite>, provided for the transfer to the Department of General Services Internal Service Fund, or successor fund established by the Mayor, any unexpended balances in the Educational Surplus Property Fund.</text>
+        <text>Educational Agency for Surplus Property abolished: See Historical and Statutory Notes following § <cite path="§38-924">38-924</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|9"/>
+    <num codify:value="38-926">3</num>
+    <heading>Termination.</heading>
+    <text>The authority of the Department and of the advisory board shall terminate upon direction of the Mayor of the District of Columbia and in any event no later than the repeal of § 484(j) and (k) of Title 40, United States Code. Upon such termination, the assets of the Department shall be disposed of as the Mayor may direct.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 16, 1950, 64 Stat. 451, ch. 720, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-303.</annotation>
+        <annotation>1973 Ed., § 31-1303.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Educational Agency for Surplus Property abolished: See Historical and Statutory Notes following § <cite path="§38-924">38-924</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

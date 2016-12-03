@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <heading>The 56th Congress</heading>
+  <subheading>Public Laws</subheading>
+  <ns0:include href="./laws/public/56-2-ch807.xml"/>
+  <ns0:include href="./laws/public/56-2-ch789.xml"/>
+  <ns0:include href="./laws/public/56-2-ch612.xml"/>
+  <ns0:include href="./laws/public/56-2-ch599.xml"/>
+  <ns0:include href="./laws/public/56-2-ch587.xml"/>
+  <ns0:include href="./laws/public/56-1-ch458.xml"/>
+  <ns0:include href="./laws/public/56-1-ch432.xml"/>
+  <ns0:include href="./laws/public/56-1-ch424.xml"/>
+  <ns0:include href="./laws/public/56-1-ch422.xml"/>
+  <ns0:include href="./laws/public/56-1-ch326.xml"/>
+  <ns0:include href="./laws/public/56-1-ch323.xml"/>
+</collection>

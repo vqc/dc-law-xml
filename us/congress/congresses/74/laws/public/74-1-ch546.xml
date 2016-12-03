@@ -1,10 +1,327 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 74-1-ch546">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 74-1-ch546">
+  <heading/>
   <meta>
     <effective>1935-08-15</effective>
     <cites>
-        <law congress="74" session="1" chapter="546"/>
+      <law congress="74" session="1" chapter="546"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-2702" path="|22|27|I"/>
+    <num codify:value="22-2701">1</num>
+    <heading>Engaging in prostitution or soliciting for prostitution.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsection (d) of this section, it is unlawful for any person to engage in prostitution or to solicit for prostitution.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided in paragraph (2) of this subsection, a person convicted of prostitution or soliciting for prostitution shall be:</text>
+        <para>
+          <num>(A)</num>
+          <text>Fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, imprisoned for not more than 90 days, or both, for the first offense; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, imprisoned not more than 180 days, or both, for the second offense.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person convicted of prostitution or soliciting for prostitution who has 2 or more prior convictions for prostitution or soliciting for prostitution, not committed on the same occasion, shall be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, imprisoned for not more than 2 years, or both.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>For the purposes of this section, a person shall be considered as having 2 or more prior convictions for prostitution or soliciting for prostitution if he or she has been convicted on at least 2 occasions of violations of:</text>
+      <para>
+        <num>(1)</num>
+        <text>This section;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A statute in one or more other jurisdictions prohibiting prostitution or soliciting for prostitution; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Conduct that would constitute a violation of this section if committed in the District of Columbia.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>A child who engages in or offers to engage in a sexual act or sexual contact in return for receiving anything of value shall be immune from prosecution for a violation of subsection (a) of this section.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Metropolitan Police Department shall refer any child suspected of engaging in or offering to engage in a sexual act or sexual contact in return for receiving anything of value to an organization that provides treatment, housing, or services appropriate for victims of sex trafficking of children under § <cite path="§22-1834">22-1834</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For the purposes of this subsection, the term “child” means a person who has not attained the age of 18 years.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 15, 1935, 49 Stat. 651, ch. 546, § 1</annotation>
+        <annotation>June 9, 1948, 62 Stat. 346, ch. 428, title I, § 102</annotation>
+        <annotation>June 29, 1953, 67 Stat. 93, ch. 159, § 202(b)</annotation>
+        <annotation doc="D.C. Law 4-57">Dec. 10, 1981, D.C. Law 4-57, § 3, 28 DCR 4652</annotation>
+        <annotation doc="D.C. Law 6-62">Nov. 21, 1985, D.C. Law 6-62, § 2, 32 DCR 4581</annotation>
+        <annotation doc="D.C. Law 7-44">Dec. 1, 1987, D.C. Law 7-44, § 2, 34 DCR 5310</annotation>
+        <annotation doc="D.C. Law 11-130">May 24, 1996, D.C. Law 11-130, § 3(a), 43 DCR 1570</annotation>
+        <annotation doc="D.C. Law 16-306">Apr. 24, 2007, D.C. Law 16-306,§ 211(a), 53 DCR 8610</annotation>
+        <annotation doc="D.C. Law 18-88">Dec. 10, 2009, D.C. Law 18-88, § 211, 56 DCR 7413</annotation>
+        <annotation doc="D.C. Law 19-120">Apr. 20, 2012, D.C. Law 19-120, § 202, 58 DCR 11235</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 228, 60 DCR 2064</annotation>
+        <annotation doc="D.C. Law 20-276">May 7, 2015, D.C. Law 20-276, § 7, 62 DCR 479</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Alcoholic beverages, licenses transfer or suspension, violation of laws, see §§ <cite path="§25-316">25-316</cite> and <cite path="§25-823">25-823</cite>.</annotation>
+        <annotation>Chief of Police, authority and duty in regard to houses of prostitution, see §§ <cite path="§5-115.06">5-115.06</cite> and <cite path="§5-115.07">5-115.07</cite>.</annotation>
+        <annotation>Conduct of prosecutions under this section, see § <cite path="§22-1809">22-1809</cite>.</annotation>
+        <annotation>Ownership or possession of a pistol, persons convicted under this section, see § <cite path="§22-4503">22-4503</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-1831">22-1831</cite>, § <cite path="§22-2701.01">22-2701.01</cite>, § <cite path="§22-2703">22-2703</cite>, § <cite path="§22-2723">22-2723</cite>, § <cite path="§22-2731">22-2731</cite>, § <cite path="§22-4001">22-4001</cite>, § <cite path="§42-3101">42-3101</cite>, and § <cite path="§47-2844">47-2844</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-2701.</annotation>
+        <annotation>1973 Ed., § 22-2701.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-306">D.C. Law 16-306</cite> rewrote the section.</annotation>
+        <annotation><cite doc="D.C. Law 18-88">D.C. Law 18-88</cite> rewrote the section, which had read as follows: “It is unlawful for any person to engage in prostitution or to solicit for prostitution. The penalties for violation of this section shall be a fine of $500 or not more than 90 days imprisonment, or both, for the first offense, a fine of $750 or not more than 135 days imprisonment, or both, for the second offense, and a fine of $1,000 or not more than 180 days imprisonment, or both, for the third and each subsequent offense.”</annotation>
+        <annotation><cite doc="D.C. Law 19-120">D.C. Law 19-120</cite>, in subsecs. (b) and (c), substituted “prostitution or soliciting for prostitution” for “prostitution”.</annotation>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $500” in (b)(1)(A), for “not more than $1,000” in (b)(1)(B), and for “not more than $4,000” in (b)(2).</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-276">D.C. Law 20-276</cite> added “Except as provided in subsection (d) of this section” in (a); and added (d).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 2 of the Safe Streets Anti-Prostitution Emergency Amendment Act of 1995 (D.C. Act 11-133, August 11, 1995,  42 DCR 4680) and § 2 of the Safe Streets Anti-Prostitution Legislative Review Emergency Amendment Act of 1995 (D.C. Act 11-153, November 9, 1995,  42 DCR 6567).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 211(a) of Omnibus Public Safety Emergency Amendment Act of 2006 (D.C. Act 16-445, July 19, 2006,  53 DCR 6443).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 211(a) of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-490, October 18, 2006,  53 DCR 8686).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 211(a) of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-10, January 16, 2007,  54 DCR 1479).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 211(a) of Omnibus Public Safety Second Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-25, April 19, 2007,  54 DCR 4036).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 203 of Crime Bill Emergency Amendment Act of 2009 (D.C. Act 18-129, June 29, 2009,  56 DCR 5495).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 228 of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-2704" path="|22|27|I"/>
+    <num codify:value="22-2703">3</num>
+    <heading>Suspension of sentence; conditions; enforcement.</heading>
+    <text>The court may impose conditions upon any person found guilty under § <cite path="§22-2701">22-2701</cite>, and so long as such person shall comply therewith to the satisfaction of the court the imposition or execution of sentence may be suspended for such period as the court may direct; and the court may at or before the expiration of such period remand such sentence or cause it to be executed. Conditions thus imposed by the court may include an order to stay away from the area within which the offense or offenses occurred, submission to medical and mental examination, diagnosis and treatment by proper public health and welfare authorities, and such other terms and conditions as the court may deem best for the protection of the community and the punishment, control, and rehabilitation of the defendant. The Department of Human Services of the District of Columbia, the Women’s Bureau of the Police Department, and the probation officers of the court are authorized and directed to perform such duties as may be directed by the court in effectuating compliance with the conditions so imposed upon any defendant.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 15, 1935, 49 Stat. 651, ch. 546, § 3</annotation>
+        <annotation>Aug. 1, 1950, 64 Stat. 393, ch. 513, § 1</annotation>
+        <annotation doc="D.C. Law 11-130">May 24, 1996, D.C. Law 11-130, § 3(b), 43 DCR 1570</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-2701.01">22-2701.01</cite>, § <cite path="§22-2723">22-2723</cite>, § <cite path="§22-2731">22-2731</cite>, § <cite path="§22-4001">22-4001</cite>, and § <cite path="§42-3101">42-3101</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-2703.</annotation>
+        <annotation>1973 Ed., § 22-2703.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 3(b) of the Safe Streets Anti-Prostitution Emergency Amendment Act of 1996 (D.C. Act 11-252, April 15, 1996,  43 DCR 2139).</annotation>
+        <annotation>For temporary addition of § 2703a, see § 12 of the Metropolitan Police Department Civilianization and Street Solicitation for Prostitution Emergency Amendment Act of 1998 (D.C. Act 12-428, August 6, 1998,  45 DCR 5884).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|27|I"/>
+    <num codify:value="22-2723">5</num>
+    <heading>Property subject to seizure and forfeiture.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The following are subject to forfeiture:</text>
+      <para>
+        <num>(1)</num>
+        <text>All conveyances, including aircraft, vehicles or vessels, which are used, or intended for use, to transport, or in any manner to facilitate a violation of a prostitution-related offense; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All money, coins, and currency which are used, or intended for use, in violation of a prostitution-related offense.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All seizures and forfeitures of property under this section shall be pursuant to the standards and procedures set forth in <cite doc="D.C. Law 20-278">D.C. Law 20-278</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 15, 1935, 49 Stat. 651, ch. 546, § 5</annotation>
+        <annotation doc="D.C. Law 9-267">as added May 7, 1993, D.C. Law 9-267, § 2, 39 DCR 5684</annotation>
+        <annotation doc="D.C. Law 11-130">May 24, 1996, D.C. Law 11-130, § 3(c), 43 DCR 1570</annotation>
+        <annotation doc="D.C. Law 13-160">October 4, 2000, D.C. Law 13-160, § 403(a), 47 DCR 4619</annotation>
+        <annotation doc="D.C. Law 16-306">Apr. 24, 2007, D.C. Law 16-306, § 211(b), 53 DCR 8610</annotation>
+        <annotation doc="D.C. Law 20-278">June 16, 2015, D.C. Law 20-278, § 306, 62 DCR 1920</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§22-2701.01">22-2701.01</cite>, § <cite path="§22-2725">22-2725</cite>, § <cite path="§22-2731">22-2731</cite>, § <cite path="§22-4001">22-4001</cite>, § <cite path="§42-3101">42-3101</cite>, and § <cite path="§47-2844">47-2844</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-2723.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-160">D.C. Law 13-160</cite> rewrote subsec. (b), which had read:</annotation>
+        <annotation>“All seizures and forfeitures of property under this section shall be pursuant to § 33-552 [1981 Ed.].”</annotation>
+        <annotation><cite doc="D.C. Law 16-306">D.C. Law 16-306</cite>, in pars. (1) and (2) of subsec. (a), substituted “a violation of a prostitution-related offense” for “a violation of this act”.</annotation>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-278">D.C. Law 20-278</cite> rewrote the section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary amendment of section, see § 3 of the Safe Streets Anti-Prostitution Emergency Amendment Act of 1995 (D.C. Act 11-133, August 11, 1995,  42 DCR 4680) and see § 3 of the Safe Streets Anti-Prostitution Legislative Review Emergency Amendment Act of 1995 (D.C. Act 11-153, November 9, 1995,  42 DCR 6567).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 211(b) of Omnibus Public Safety Emergency Amendment Act of 2006 (D.C. Act 16-445, July 19, 2006,  53 DCR 6443).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 211(b) of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-490, October 18, 2006,  53 DCR 8686).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 211(b) of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-10, January 16, 2007,  54 DCR 1479).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 211(b) of Omnibus Public Safety Second Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-25, April 19, 2007,  54 DCR 4036).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation><cite doc="D.C. Law 20-278">D.C. Law 20-278</cite>, referred to in (b), enacted Chapter 3 of Title 41 (§ <cite path="§41-301">41-301</cite> et seq.), made amendments to the criminal offenses in §§ <cite path="§48-901.02">48-901.02</cite> and <cite path="§48-905.02">48-905.02</cite>, and made conforming amendments to §§ <cite path="§7-2507.06a">7-2507.06a</cite>, <cite path="§8-905">8-905</cite>, <cite path="§22-902">22-902</cite>, <cite path="§22-1705">22-1705</cite>, <cite path="§22-2723">22-2723</cite>, <cite path="§32-1343">32-1343</cite>, <cite path="§48-905.03">48-905.03</cite>, and <cite path="§50-1501.04">50-1501.04</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|27|I"/>
+    <num codify:value="22-2724">6</num>
+    <heading>Impoundment.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any vehicle used in furtherance of a violation of a prostitution-related offense shall be subject to impoundment pursuant to this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Whenever a police officer has probable cause to believe that a vehicle is being used in furtherance of a violation of a prostitution-related offense, and an arrest is made for that violation, the police officer, other member of the Metropolitan Police Department, or duly authorized agent thereof shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Arrange for the towing of the vehicle by the Department of Public Works, or other designee of the Mayor, to a facility controlled by the District of Columbia or its agents, as designated by the Mayor, or, if towing services are not immediately available, arrange for the immobilization of the vehicle until such time as towing services become available; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide written notice to the owner of record of the vehicle and to the person who is found to be in control of the vehicle at the time of the seizure conveying the fact of seizure and impoundment of the vehicle, as well as the right to obtain immediate return of the vehicle pursuant to subsection (d) of this section, in lieu of requesting a hearing.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The notices to be given pursuant to this section shall be provided by hand delivery at the time of the seizure and impoundment of the vehicle to the person in control of the vehicle or to the owner of record of the vehicle. If the owner of record of the vehicle is not available to receive such notice at the time of the seizure, the notice shall be mailed by first class mail, no later than 5 days after the vehicle is received at an impoundment or storage facility, to the last known address of the owner or owners of record of the vehicle, as that information is indicated in the records of the Department of Motor Vehicles or in the records of the appropriate agency of the jurisdiction where the vehicle is registered.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>An owner, or a person duly authorized by an owner, shall, upon proof of same, be permitted to repossess or secure the release of the immobilized or impounded vehicle at any time (subject to administrative availability) by paying to the District government, as directed by the Department of Public Works, an administrative civil penalty of $150, a booting fee, if applicable, all outstanding fines and penalties for infractions for which liability has been admitted, deemed admitted, or sustained after hearing, and all applicable towing and storage costs for impounded vehicles as provided by § <cite path="§50-2421.09">50-2421.09</cite>(a)(6). Payment of such fees shall not be admissible as evidence of guilt in any criminal proceeding.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>An owner, or person duly authorized by an owner, shall be entitled to refund of the administrative civil penalty, booting fee, and 2 days’ towing and storage costs by showing that the prosecutor dropped the underlying criminal charges (except for instances of nolle prosequi or because the defendant completed a diversion program), that the Superior Court of the District of Columbia dismissed the case after consideration of the merits, or that the case resulted in a finding of not guilty on all prostitution-related charges, or by providing a police report demonstrating that the vehicle was stolen at the time that it was subject to seizure and impoundment. If the vehicle had been stolen at the time of seizure and impoundment, a refund of all towing and storage costs shall be made.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>An owner, or person duly authorized by an owner, shall be entitled to a due process hearing regarding the seizure of the vehicle.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Vehicles seized and impounded under this section shall not be subject to replevin, but shall be deemed to be in the custody of the Mayor.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>Vehicles that remain unclaimed for 30 days may be disposed of pursuant to §§ <cite path="§50-2421.07">50-2421.07</cite>(c), (d), (e), and (f), 50-2421.08, 50-2421.09, and 50-2421.10; provided, that if the owner wants to claim the vehicle before it is auctioned, the owner must pay the administrative civil penalty imposed by subsection (d) of this section in addition to the amounts required in § <cite path="§50-2421.09">50-2421.09</cite>.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>The Attorney General for the District of Columbia, or his or her assistants, shall represent the District of Columbia in all proceedings under this section.</text>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>The Mayor shall issue rules setting forth the process by which a refund shall be obtained timely pursuant to subsection (e) of this section. Until such rules are published in the District of Columbia Register, this section shall not be enforceable.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 15, 1935, 49 Stat. 651, ch. 546, § 6</annotation>
+        <annotation doc="D.C. Law 16-306">as added Apr. 24, 2007, D.C. Law 16-306, § 211(c), 53 DCR 8610</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 4(1), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-1831.03">2-1831.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite>, in subsec. (c), rewrote the second sentence which had read as follows: “If the owner of record of the vehicle is not available to receive such notice at the time of seizure, then the notice shall be sent to each owner of record via registered mail, return receipt requested, to the address listed in the records of the Department of Motor Vehicles within 3 days of the time of the impoundment, excluding Saturdays, Sundays, and legal holidays.”; and, in subsec. (d), substituted “a booting fee, if applicable, all outstanding fines and penalties for infractions for which liability has been admitted, deemed admitted, or sustained after hearing,” for “a booting fee, if applicable,”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 211(c) of Omnibus Public Safety Emergency Amendment Act of 2006 (D.C. Act 16-445, July 19, 2006,  53 DCR 6443).</annotation>
+        <annotation>For temporary (90 day) addition, see § 211(c) of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-490, October 18, 2006,  53 DCR 8686).</annotation>
+        <annotation>For temporary (90 day) addition, see § 211(c) of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-10, January 16, 2007,  54 DCR 1479).</annotation>
+        <annotation>For temporary (90 day) addition, see § 211(c) of Omnibus Public Safety Second Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-25, April 19, 2007,  54 DCR 4036).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority pursuant to Section 6(f) of an Act for the Suppression of Prostitution in the District of Columbia, see Mayor’s Order 2009-25, March 5, 2009 ( 56 DCR 6760).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|22|27|I"/>
+    <num codify:value="22-2725">7</num>
+    <heading>Anti-Prostitution Vehicle Impoundment Proceeds Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a nonlapsing fund the Anti-Prostitution Vehicle Impoundment Proceeds Fund (“Fund”), which shall be used for the purpose set forth in subsection (b) of this section. All funds collected from the assessment of civil penalties, booting, towing, impoundment, and storage fees pursuant to § <cite path="§22-2723">22-2723</cite>, and any and all interest earned on those funds, shall be deposited into the Fund, and shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (b) of this section with regard to fiscal year limitation, subject to authorization by Congress.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Fund shall be used solely to fund expenses directly related to the booting, towing, and impoundment of vehicles used in furtherance of prostitution-related activities, in violation of a prostitution-related offense.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall submit to the Council, as part of the annual budget, a requested appropriation for expenditures from the Fund.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 15, 1935, 49 Stat. 651, ch. 546, § 7</annotation>
+        <annotation doc="D.C. Law 16-306">as added Apr. 24, 2007, D.C. Law 16-306, § 211(c), 53 DCR 8610</annotation>
+        <annotation doc="D.C. Law 18-259">Nov. 6, 2010, D.C. Law 18-259, § 4(2), 57 DCR 5591</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 18-259">D.C. Law 18-259</cite> rewrote subsec. (a), which had read as follows: “(a) There is established a fund designated as the Anti-Prostitution Vehicle Impoundment Proceeds Fund (’Fund’), which shall be used for the purpose set forth in subsection (b) of this section. All funds collected from the assessment of civil penalties, booting, towing, impoundment, and storage fees pursuant to § <cite path="§22-2723">22-2723</cite>, and any and all interest earned on those funds, shall be deposited into the Fund, and shall be continually available for the uses and purposes set forth in subsection (b) of this section, subject to authorization by Congress, except that any unused funds remaining in the Fund on September 30th of each fiscal year shall revert to the General Fund of the District of Columbia.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 211(c) of Omnibus Public Safety Emergency Amendment Act of 2006 (D.C. Act 16-445, July 19, 2006,  53 DCR 6443).</annotation>
+        <annotation>For temporary (90 day) addition, see § 211(c) of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2006 (D.C. Act 16-490, October 18, 2006,  53 DCR 8686).</annotation>
+        <annotation>For temporary (90 day) addition, see § 211(c) of Omnibus Public Safety Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-10, January 16, 2007,  54 DCR 1479).</annotation>
+        <annotation>For temporary (90 day) addition, see § 211(c) of Omnibus Public Safety Second Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-25, April 19, 2007,  54 DCR 4036).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

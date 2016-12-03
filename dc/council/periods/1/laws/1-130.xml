@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 1-130">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 1-130">
   <num type="law">1-130</num>
   <heading type="short">Resocialization Furlough Act of 1976</heading>
   <meta>
@@ -12,4 +12,341 @@
       <narrative>Law 1-130, the “Resocialization Furlough Act of 1976,” was introduced in Council and assigned Bill No. 1-223, which was referred to the Committee on Public Safety. The Bill was adopted on first and second readings on July 20, 1976 and November 23, 1976, respectively. Enacted without signature by the Mayor on January 19, 1977, it was assigned Act No. 1-224 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|VI"/>
+    <num codify:value="24-251.01">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter:</text>
+    <para>
+      <num>(1)</num>
+      <text>The term “Department” means the District of Columbia Department of Corrections.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The term “Director” means the Director of the Department of Corrections, or his designated agent.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The term “furlough” means any extension of the limits of the place of confinement of a sentenced prisoner for the purposes outlined in § <cite path="§24-251.03">24-251.03</cite>, and when said purposes are in agreement with the goals of § <cite path="§24-211.02">24-211.02</cite> when the person sentenced is not escorted by a United States marshal or an officer or employee of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The term “minimum custody status” means that status of an individual who:</text>
+      <para>
+        <num>(A)</num>
+        <text>In the case of an individual who has been sentenced to serve for a definite number of years, is within 12 months of his earliest possible date of parole;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>In the case of an individual who has been sentenced to serve for a sentence of not less than a minimum period, has served for at least one-half of that minimum period;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>In the case of an individual who has been sentenced to serve for an indefinite period, has served for 12 months; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>In the case of an individual who has been sentenced to serve for a definite period of less than 18 months has served for at least one-half of that period.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The term “resident” means an individual confined, after conviction and sentencing, in an institution or facility of the District of Columbia operated by the Department of Corrections.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The term “committee” means an institutional review committee established pursuant to § <cite path="§24-251.06">24-251.06</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-130">Apr. 23, 1977, D.C. Law 1-130, § 2, 23 DCR 9694</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-481.</annotation>
+        <annotation>1973 Ed., § 24-481.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|VI"/>
+    <num codify:value="24-251.02">3</num>
+    <heading>Authority to grant furloughs.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor of the District of Columbia, or his designated agent, may grant a resocialization furlough to any eligible resident for the purposes specified in this subchapter and according to the procedures provided for in this subchapter. The decision to grant or deny a furlough shall not be made on the basis of rewarding a resident for good behavior nor for punishing misbehavior. Furloughs shall not be used to shorten sentences; any resident furloughed shall be considered, while on furlough, to still be in custody, and time spent on furlough shall be credited toward the remainder of his sentence.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>For the purposes of this subchapter, an eligible resident shall be any resident who:</text>
+      <para>
+        <num>(1)</num>
+        <text>Has attained minimum custody status;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Has demonstrated responsible attitudes and behavior in the institution or facility so that there is reasonable assurance that he will comply fully with the conditions of the furlough;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Has received, where applicable, a favorable recommendation by the appropriate committee; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Is mentally, physically, and financially capable of completing the furlough without escort or assistance from any officer or employee of the Department after his release from the institution or facility.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Any individual who is incarcerated in any institution or facility operated by the Department after being convicted of having violated either § <cite path="§22-2101">22-2101</cite> (relating to first degree murder), § <cite path="§22-2102">22-2102</cite> (relating to first degree murder), or § <cite path="§22-2103">22-2103</cite> (relating to second degree murder), § <cite path="§22-4801">22-4801</cite> [repealed] (relating to rape), or § <cite path="§22-3801">22-3801</cite> [repealed] (relating to indecent acts with a minor) shall not be eligible for any furlough under the provisions of this subchapter, except where such individual is within 12 months of a firm release date.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Any eligible resident who is within 12 months of a firm release date or who is participating in an approved work training or higher education program may be considered for 1 furlough per month. All other eligible residents may be considered for 1 furlough every 3 months.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-130">Apr. 23, 1977, D.C. Law 1-130, § 3, 23 DCR 9694</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-482.</annotation>
+        <annotation>1973 Ed., § 24-482.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|VI"/>
+    <num codify:value="24-251.03">4</num>
+    <heading>Purposes of furloughs; furloughs over 12 hours.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor, or his designated agent, may grant a furlough, except as provided in subsection (c) of this section, to any eligible resident:</text>
+      <para>
+        <num>(1)</num>
+        <text>In order to visit the bedside of a dying relative, or to attend the funeral of a relative, in the Washington metropolitan area;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon the recommendation of the institutional review committee, in order to call upon prospective employers in the Washington metropolitan area, enroll in an educational institution or program, obtain suitable housing prior to release, or to finalize parole supervision plans with an officer or employee of the Department; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Upon the recommendation of the institutional review committee, to participate in family and approved community, religious, or educational, social, civic, and recreational activities, when it is determined that such participation will directly facilitate the transition from life in the facility or institution to life in the community.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor, or his designated agent, may grant a furlough for the purposes specified in paragraph (1) of subsection (a) of this section outside of the Washington metropolitan area, so long as such furlough does not exceed 72 hours.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor, or his designated agent, may grant a furlough to an eligible resident for longer than 12 hours, but for no longer than 72 hours, where he finds that, based on a report from the institutional review committee, such eligible resident:</text>
+      <para>
+        <num>(1)</num>
+        <text>Has demonstrated complete institutional adjustment;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is strongly motivated to benefit from the program;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Is considered to have exceptional potential for rehabilitation; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Will not, while on furlough, constitute a threat or danger to the community.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>For the purposes of this section, the term “relative” means a spouse, child (including a step-child, adopted child, or child to whom the resident, though not a natural parent, has acted in the place of a parent), parent (including a person who, though not a natural parent, has acted in the place of a parent), brother, or sister.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>In the event any eligible resident applies for a furlough for 1 of the reasons specified in paragraph (1) of subsection (a) of this section, verification of the death or seriousness of the illness, as the case may be, of the relative must be obtained from the attending physician, hospital physician, or funeral home director (as applicable), before such furlough may be granted.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-130">Apr. 23, 1977, D.C. Law 1-130, § 4, 23 DCR 9694</annotation>
+        <annotation doc="D.C. Law 11-275">June 3, 1997, D.C. Law 11-275, § 17, 44 DCR 1408</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§24-251.01">24-251.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-483.</annotation>
+        <annotation>1973 Ed., § 24-483.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|VI"/>
+    <num codify:value="24-251.04">5</num>
+    <heading>Procedures.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Each caseworker or counselor on the staff of the Department who is assigned to investigate an application for a furlough shall: (1) verify the reasons given by the applicant for the furlough; (2) determine whether the furlough requested and the applicant meet the requirements of this subchapter; and (3) ascertain whether the furlough will contribute to the attainment of the correctional goals of the applicant. If the caseworker or counselor finds that the request meets these criteria, and the provisions of this subchapter, then he shall prepare a memorandum recommending the granting of the furlough. Such memorandum shall be reviewed by the appropriate supervisory personnel and finally by the Mayor, or his designated agent. Each such memorandum shall contain the name of the resident concerned, his Department number, the crime for which he was sentenced, the reason for the requested furlough, all factual information (including its verification data), and a statement by the caseworker or counselor on how the furlough is expected to contribute to the attainment of the resident concerned correctional goals and the date of the last furlough granted to such resident.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Each resident being released on furlough will be advised in writing of the conditions of his furlough and will be given a thorough explanation of such conditions. In addition, each resident will be advised that the wilful failure to remain within the extended limits of his confinement, or his failure to return to a designated place within the time prescribed may be deemed an escape, punishable by a fine of not more than $5,000 or imprisonment for not longer than 5 years, or both. This furlough release authorization form shall be signed by the resident concerned, indicating his understanding of the conditions of the furlough and his willingness to comply with such conditions. Such form will also be signed by the person authorizing such furlough. The resident concerned will be given a copy of such form and instructed to keep it on his person at all times while on furlough.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If a resident on furlough fails to return to a designated place within the time specified in the furlough authorization form signed by him, or if there is reason to believe that he has violated the conditions of his furlough after release, the Administrator shall immediately attempt to contact the resident in order to have him returned to the institution or facility from which he was released. If a furloughed resident cannot be located within 2 hours after the scheduled time for his return, he shall be deemed to be an escapee, subject to the appropriate actions taken under Departmental Order 5120.1A.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-130">Apr. 23, 1977, D.C. Law 1-130, § 5, 23 DCR 9694</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-484.</annotation>
+        <annotation>1973 Ed., § 24-484.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|VI"/>
+    <num codify:value="24-251.05">6</num>
+    <heading>Records and reports.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Residents being released on furlough shall be reported as “furloughed” on appropriate Departmental records and statistical forms, identifying such movement as a furlough. Because time spent on furlough is creditable toward the service of a sentence, such status will not preclude the earning of good time or pay.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Each caseworker or counselor assigned to handle a furloughed resident will, upon the completion of each such furlough, prepare a brief report to include:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name and Department number of the furloughed resident to whom the report relates;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The purpose of the furlough being completed;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A statement of the results of the furlough, including an explanation of any unusual circumstances or events;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The reporter’s assessment of the circumstances or events in relation to the resident’s correctional goals; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The dates of any previous furloughs granted, including the one to which the report relates.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Copies of all executed furlough release authorization forms shall be kept in the office of the Administrator. Within 5 calendar days before the beginning of each month, the information on these forms (in digested form) will be reported to the designee of the Director. These reports will include:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name and Department number of each resident who has been granted a furlough during the reporting period;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Sentence data relating to such resident, including his earliest release date;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The purpose of the furlough;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The beginning and ending dates of the furlough;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The name of the officer authorizing the furlough;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The number of furloughs previously granted to such resident; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The total number of furloughs granted to all residents during the reporting period.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-130">Apr. 23, 1977, D.C. Law 1-130, § 6, 23 DCR 9694</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-485.</annotation>
+        <annotation>1973 Ed., § 24-485.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|VI"/>
+    <num codify:value="24-251.06">7</num>
+    <heading>Institutional review committees.</heading>
+    <text>There shall be established, within each facility and institution of the Department, an institutional review committee composed of a psychologist, a senior correctional officer, and an academician. Each committee shall be appointed by the Director, or his designee. It shall be the function of each committee to examine the progress and adjustments of the residents of the facility or institution in which the committee was established, and to make recommendations to the appropriate person with respect to the applications for furloughs of such residents. In making such recommendations, each committee shall rely generally upon consideration of the applicant’s disciplinary record, psychological evaluation, work and training participation, and attitudinal and behavior adjustment.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-130">Apr. 23, 1977, D.C. Law 1-130, § 7, 23 DCR 9694</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§24-251.01">24-251.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-486.</annotation>
+        <annotation>1973 Ed., § 24-486.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|VI"/>
+    <num codify:value="24-251.07">8</num>
+    <heading>Report to Council.</heading>
+    <text>The Director shall submit to the Council’s Committee on Public Safety, semiannually (on January 31st and July 31st of each year), a report on the furlough program conducted during the immediately preceding period. The report shall include the number of furloughs granted during such reporting period, the types of furloughs so granted, a listing of all instances where a furloughed resident failed to abide by the conditions of his furlough, an analysis of each of the furloughed residents, giving the sex, sentence data, and other relevant information relating to each such resident, and such other information as the Director may deem necessary and relevant. The Director shall formulate an overall evaluation and submit same as a part of the report required by this section.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-130">Apr. 23, 1977, D.C. Law 1-130, § 8, 23 DCR 9694</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-487.</annotation>
+        <annotation>1973 Ed., § 24-487.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|VI"/>
+    <num codify:value="24-251.08">9</num>
+    <heading>Severability.</heading>
+    <text>If any section or provision of this subchapter is held to be unconstitutional or otherwise invalid in its application to any person or circumstance, such unconstitutionality or invalidity shall not affect the applicability of that section or provision, or the applicability of the remaining sections or provisions of this subchapter, to other persons or circumstances.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-130">Apr. 23, 1977, D.C. Law 1-130, § 9, 23 DCR 9694</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Non-health related occupations and professions, regulation by Mayor, excepted occupations, see § <cite path="§47-2853.04">47-2853.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-488.</annotation>
+        <annotation>1973 Ed., § 24-488.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

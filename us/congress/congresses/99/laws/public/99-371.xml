@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 99-371">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 99-371">
   <num>99-371</num>
   <meta>
     <effective>1986-08-04</effective>
@@ -7,4 +7,1282 @@
       <law session="99" lawId="371"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|I|A"/>
+    <num codify:value="38-2401.01">101</num>
+    <heading>Continuation of Gallaudet College as Gallaudet University.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Gallaudet University. —</heading>
+      <text>The Gallaudet College created by an Act entitled “An Act to amend the charter of the Columbia Institution for the Deaf, change its name, define its corporate powers, and provide for its organization and administration, and for other purposes” is continued as a body corporate under the name of Gallaudet University. Hereafter, Gallaudet College shall be known as Gallaudet University and have perpetual succession and shall have the powers and be subject to the limitations contained in this chapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Purpose. —</heading>
+      <text>The purpose of Gallaudet University shall be to provide education and training to individuals who are deaf and otherwise to further the education of individuals who are deaf.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 101</annotation>
+        <annotation>Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 151(a)(1), (4)</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 732, Pub. L. 103-73, § 203(a)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1841.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“An Act to amend the charter of the Columbia Institution for the Deaf, change its name, define its corporate powers, and provide for its organization and administration, and for other purposes,” referred to in subsection (a), is 68 Stat. 265.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|I|A"/>
+    <num codify:value="38-2401.02">102</num>
+    <heading>Property rights.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Property rights described. —</heading>
+      <text>Gallaudet University is vested with all the property and the rights of property, and shall have and be entitled to use all authority, privileges, and possessions and all legal rights which it has, or which it had or exercised under any former name, including the right to sue and be sued and to own, acquire, sell, mortgage, or otherwise dispose of property it may own now or hereafter acquire. Gallaudet University shall also be subject to all liabilities and obligations now outstanding against the corporation under any former name.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Disposal of real property. —</heading>
+      <para>
+        <num>(1)</num>
+        <text>With the approval of the Secretary, the Board of Trustees of Gallaudet University may convey fee simple title by deed, convey by quitclaim deed, mortgage, or otherwise dispose of any or all real property title to which is vested in Gallaudet University, Gallaudet College, the Columbia Institution for the Deaf, or any predecessor corporation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The proceeds of any such disposition shall be considered a part of the capital structure of the corporation, and may be used solely for the acquisition of real estate for the use of the corporation, for the construction, equipment, or improvement of buildings for such use, or for investment purposes, but, if invested, only the income from the investment may be used for current expenses of the corporation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 102</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 733, Pub. L. 103-73, § 203(b)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1841.2.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|I|A"/>
+    <num codify:value="38-2401.03">103</num>
+    <heading>Board of Trustees.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Composition of the Board. —</heading>
+      <para>
+        <num>(1)</num>
+        <text>Gallaudet University shall be under the direction and control of a Board of Trustees, composed of 21 members who shall include:</text>
+        <para>
+          <num>(A)</num>
+          <text>Three public members of whom (i) one shall be a United States Senator appointed by the President of the Senate, and (ii) two shall be Representatives appointed by the Speaker of the House of Representatives; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Eighteen other members, all of whom shall be elected by the Board of Trustees and of whom one shall be elected pursuant to regulations of the Board of Trustees, on nomination by the Gallaudet University Alumni Association, for a term of 3 years.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The members appointed from the Senate and House of Representatives shall be appointed for a term of 2 years at the beginning of each Congress, shall be eligible for reappointment, and shall serve until their successors are appointed.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Board of Trustees shall have the power to fill any vacancy in the membership of the Board except for public members. Nine trustees shall constitute a quorum to transact business. The Board of Trustees, by vote of a majority of its membership, is authorized to remove any member of their body (except the public members) who may refuse or neglect to discharge the duties of a trustee, or whose removal would, in the judgment of said majority, be to the interest and welfare of said corporation.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Powers of the Board. —</heading>
+      <text>The Board of Trustees is authorized to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Make such rules, policies, regulations, and bylaws, not inconsistent with the Constitution and laws of the United States, as may be necessary for the good government of Gallaudet University, for the management of the property and funds of such corporation (including the construction of buildings and other facilities), and for the admission, instruction, care, and discharge of students;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide for the adoption of a corporate seal and for its use;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Fix the date of holding their annual and other meetings;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Appoint a president and establish policies, guidelines, and procedures related to the appointments, the salaries, and the dismissals of professors, instructors, and other employees of Gallaudet University, including the adoption of a policy of outreach and recruitment to employ and advance in employment qualified individuals with disabilities, particularly individuals who are deaf or hard of hearing;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Elect a chairperson and other officers and prescribe their duties and terms of office, and appoint an executive committee to consist of 5 members, and vest the committee with such of its powers during periods between meetings of the Board as the Board deems necessary;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Establish such schools, departments, and other units as the Board of Trustees deems necessary to carry out the purpose of Gallaudet University;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Confer such degrees and marks of honor as are conferred by colleges and universities generally, and issue such diplomas and certificates of graduation as, in its opinion, may be deemed advisable, and consistent with academic standards;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Subject to § <cite path="§38-2402.03">38-2402.03</cite>, control expenditures of all moneys appropriated by Congress for the benefit of Gallaudet University; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Control the expenditure and investment of any moneys or funds or property which Gallaudet University may have or may receive from sources other than appropriations by Congress.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 103</annotation>
+        <annotation>Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, §§ 101(c), 111</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 733, Pub. L. 103-73, § 203(c)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1841.3.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|I|A"/>
+    <num codify:value="38-2401.04">104</num>
+    <heading>Elementary and secondary education programs.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>General authority. —</heading>
+      <para>
+        <num>(1)</num>
+        <para>
+          <num>(A)</num>
+          <text>The Board of Trustees of Gallaudet University is authorized, in accordance with the agreement under § <cite path="§38-2401.05">38-2401.05</cite>, to maintain and operate exemplary elementary and secondary education programs, projects, and activities for the primary purpose of developing, evaluating, and disseminating innovative curricula, instructional techniques and strategies, and materials that can be used in various educational environments serving individuals who are deaf or hard of hearing throughout the nation.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The elementary and secondary education programs described in subparagraph (A) of this paragraph shall serve students with a broad spectrum of needs, including students who are lower achieving academically, who come from non-English-speaking homes, who have secondary disabilities, who are members of minority groups, or who are from rural areas.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The elementary and secondary education programs described in subparagraph (A) of this paragraph shall include:</text>
+          <para>
+            <num>(i)</num>
+            <text>The Kendall Demonstration Elementary School, to provide day facilities for elementary education for students who are deaf from the age of onset of deafness to age fifteen, inclusive, but not beyond the eighth grade or its equivalent, to provide such students with the vocational, transitional, independent living, and related services they need to function independently, and to prepare such students for high school and other secondary study; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The Model Secondary School for the Deaf, to provide day and residential facilities for secondary education for students who are deaf from grades nine through twelve, inclusive, to provide such students with the vocational, transitional, independent living, and related services they need to function independently, and to prepare such students for college, other postsecondary opportunities, or the workplace.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Model Secondary School for the Deaf may provide residential facilities for students enrolled in the school:</text>
+        <para>
+          <num>(A)</num>
+          <text>Who live beyond a reasonable commuting distance from the school; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>For whom such residency is necessary for them to receive a free appropriate public education within the meaning of part B of the Individuals with Disabilities Education Act [20 U.S.C. § 1411 et seq.].</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Administrative requirements. —</heading>
+      <para>
+        <num>(1)</num>
+        <text>The elementary and secondary education programs shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Provide technical assistance and outreach throughout the nation to meet the training and information needs of parents of infants, children, and youth who are deaf or hard of hearing;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a); and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Establish and publish priorities for research, development, and demonstration through a process that allows for public input.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To the extent possible, the elementary and secondary education programs shall provide the services required under paragraph (1) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of § 618(b) of the Individuals with Disabilities Education Act [20 U.S.C. § 1418(b)]. Such educational environments shall include:</text>
+        <para>
+          <num>(A)</num>
+          <text>Regular classes;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Resource rooms;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Separate classes;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Separate, public or private, nonresidential schools; and</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Separate, public or private, residential schools and homebound or hospital environments.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a local educational agency, intermediate educational unit, or state educational agency refers a child to, or places a child in, one of the elementary or secondary education programs to meet its obligation to make available a free appropriate public education under part B of the Individuals with Disabilities Education Act [20 U.S.C. § 1411 et seq.], the agency or unit shall be responsible for ensuring that the special education and related services provided to the child by the education program are in accordance with part B of that Act and that the child is provided the rights and procedural safeguards under § 615 of that Act [20 U.S.C. § 1415].</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If the parents or guardian places a child in one of the elementary or secondary education programs, the University shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Notify the appropriate local educational agency, intermediate educational unit, or state educational agency of that child’s attendance in the program;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Work with local educational agencies, intermediate educational units, and state educational agencies, where appropriate, to ensure a smooth transfer of the child to and from that program; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Provide the child a free appropriate public education in accordance with part B of the Individuals with Disabilities Education Act and procedural safeguards in accordance with the following provisions of § 615 of such Act:</text>
+          <para>
+            <num>(i)</num>
+            <text>Subparagraphs (A), (C), (D), and (E) of paragraph (1) of subsection (b), and paragraph (2) of such subsection.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Subsection (d), except the portion of paragraph (4) requiring that findings and decisions be transmitted to a state advisory panel.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Paragraphs (1) through (3) of subsection (e). Paragraph (3) of such subsection is not applicable to a decision by the University to refuse to admit or to dismiss a child, except that, before dismissing any child, the University shall give at least 60 days notice to the child’s parents and to the local educational agency in which the child resides.</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Subsection (f ).</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, Pub. L. 99-371, § 104</annotation>
+        <annotation>as added Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 112</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 733, Pub. L. 103-73, § 203(d)</annotation>
+        <annotation doc="D.C. Law 11-255">Apr. 9, 1997, D.C. Law 11-255, § 35(a), 44 DCR 1271</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1841.3a.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <text>“The Individuals with Disabilities Education Act” and “§ 615 of that Act”, referred to in (a)(2)(B), (b)(3) and (b)(4)(C) are codified at  20 U.S.C. § 1400 et seq. and  20 U.S.C. § 1415, respectively.</text>
+        <text>“Section 618(b) of the Individuals with Disabilities Education Act”, referred to in (b)(2), is codified at  20 U.S.C. § 1418(b).</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|I|A"/>
+    <num codify:value="38-2401.05">105</num>
+    <heading>Agreement with Gallaudet University.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>General authority. —</heading>
+      <text>The Secretary and Gallaudet University shall establish, within one year after October 1, 1992, a new agreement governing the operation and national mission activities, including construction and provision of equipment, of the elementary and secondary education programs at the University. The Secretary and the University shall periodically update the agreement as determined to be necessary by the Secretary or the University.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Provisions of agreement. —</heading>
+      <text>The agreement shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provide that federal funds appropriated for the benefit of the Kendall Demonstration Elementary School and the Model Secondary School for the Deaf will be used only for the purposes for which appropriated and in accordance with the applicable provisions of this chapter and such agreement;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide that the University will make an annual report, to be part of the report required under § <cite path="§38-2402.04">38-2402.04</cite>, to the Secretary on the operations and national mission activities of the elementary and secondary education programs, including such other information as the Secretary may consider necessary;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide that in the design and construction of any facilities, maximum attention will be given to innovative auditory and visual devices and installations appropriate for the educational functions of such facilities;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Provide that any laborer or mechanic employed by any contractor or subcontractor in the performance of work on any construction aided by federal funds appropriated for the benefit of the Kendall Demonstration Elementary School or the Model Secondary School for the Deaf will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. § 276a — 276a-5) [now see 40 U.S.C. § 3142] commonly referred to as the Davis-Bacon Act; except that the Secretary of Labor shall have, with respect to the labor standards specified in this paragraph, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and § 2 of the Act of June 13, 1934 (40 U.S.C. § 276c) [now see 40 U.S.C. § 3145]; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Include such other conditions as the Secretary or the University considers necessary to carry out the purposes of this part.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, Pub. L. 99-371, § 105</annotation>
+        <annotation>as added Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 113</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 733, Pub. L. 103-73, § 203(e)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-2401.04">38-2401.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1841.3b.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|I|B"/>
+    <num codify:value="38-2401.11">201</num>
+    <heading>Authority.</heading>
+    <text>For the purpose of providing a residential facility for postsecondary technical training and education for individuals who are deaf in order to prepare them for successful employment, the institution of higher education with which the Secretary has an agreement under this part is authorized to operate and maintain a National Technical Institute for the Deaf.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 201</annotation>
+        <annotation>renumbered as § 111, Oct. 16, 1992, 106 Stat. 2151, Pub. L. 102-421, § 101(b)(4)</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 733, Pub. L. 103-73, § 203(f)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1841.4a.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|I|B"/>
+    <num codify:value="38-2401.12">202</num>
+    <heading>Agreement for National Technical Institute for the Deaf.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>General authority. —</heading>
+      <num>(1)</num>
+      <text>The Secretary is authorized to establish or continue an agreement with an institution of higher education for the establishment and operation, including construction and equipment, of a National Technical Institute for the Deaf. The Secretary, in considering proposals from institutions of higher education to enter into an agreement under this chapter, shall give preference to institutions which are located in metropolitan industrial areas.</text>
+      <para>
+        <num>(2)</num>
+        <text>The Secretary and the institution of higher education with which the Secretary has an agreement under this section shall, within 1 year after October 1, 1992, assess the need for modification of the agreement. The Secretary and the institution of higher education with which the Secretary has an agreement under this section shall also periodically update the agreement as determined to be necessary by the Secretary or the institution.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Provisions of agreement. —</heading>
+      <text>The agreement shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provide that federal funds appropriated for the benefit of NTID will be used only for the purposes for which appropriated and in accordance with the applicable provisions of this chapter and the agreement made pursuant thereto;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide that the Board of Trustees or other governing body of the institution, subject to the approval of the Secretary, will appoint an advisory group to advise the Director of NTID in formulating and carrying out the basic policies governing its establishment and operation, which group shall include individuals who are professionally concerned with education and technical training at the postsecondary school level, persons who are professionally concerned with activities relating to education and training of individuals who are deaf, and members of the public familiar with the need for services provided by NTID;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide that the Board of Trustees or other governing body of the institution will prepare and submit to the Secretary, not later than June 1 following the fiscal year for which the report is submitted, an annual report containing an accounting of all indirect costs paid to the institution of higher education under the agreement with the Secretary, which accounting the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives and to the Committee on Labor and Human Resources of the Senate, with such comments and recommendations as the Secretary may deem appropriate;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Include such other conditions as the Secretary deems necessary to carry out the purposes of this part;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Provide that any laborer or mechanic employed by any contractor or subcontractor in the performance of work on any construction aided by federal funds appropriated for the benefit of NTID will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with 40 U.S.C. §§ 276a—276a-5 [now see 40 U.S.C. § 3142] commonly referred to as the Davis-Bacon Act; except that the Secretary of Labor shall have, with respect to the labor standards specified in this paragraph, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and 40 U.S.C. § 276c [now see 40 U.S.C. § 3145] ; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Establish a policy of outreach and recruitment to employ and advance in employment qualified individuals with disabilities, particularly individuals who are deaf or hard of hearing.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Limitation. —</heading>
+      <text>If, within 20 years after the completion of any construction (except minor remodeling or alteration) for which such funds have been paid: (1) the facility ceases to be used for the purposes for which it was constructed or the agreement is terminated, unless the Secretary determines that there is good cause for releasing the institution from its obligation; or (2) the institution ceases to be the owner of the facility, the United States shall be entitled to recover from the applicant or other owner of the facility an amount which has the same ratio with respect to the current market value of the facility as the amount of federal funds expended for construction of such facility bears to the total cost of construction of the facility. The current market value of the facility shall be determined by agreement of the parties or by action brought in the United States district court for the district in which the facility is situated.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 202</annotation>
+        <annotation>renumbered as § 112, Oct. 16, 1992, 106 Stat. 2151, Pub. L. 102-421, §§ 101(b)(4), 121, 151(a)(4)</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 733, Pub. L. 103-73, §§ 202, 203(g)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-2402.03">38-2402.03</cite>, § <cite path="§38-2402.04">38-2402.04</cite>, and § <cite path="§38-2402.07a">38-2402.07a</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1841.4b.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|II"/>
+    <num codify:value="38-2402.01">401</num>
+    <heading>Definitions.</heading>
+    <text>As used in this chapter:</text>
+    <para>
+      <num>(1)</num>
+      <text>The term “international student” means an individual who:</text>
+      <para>
+        <num>(A)</num>
+        <text>Is not a citizen or national of, or lawfully admitted for permanent residence in, the United States;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Does not provide evidence from the Immigration and Naturalization Service that he or she is in the United States for other than temporary purposes with the intention of becoming a citizen of, or lawfully admitted for permanent residence in, the United States; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Is not lawfully admitted for permanent residence in American Samoa, Guam, Palau (but only until the Compact of Free Association with Palau takes effect), the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, or the Virgin Islands.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The term “construction” includes construction and initial equipment of new buildings, and expansion, remodeling, and alteration of existing buildings and equipment therein, including architect’s services, but excluding off-site improvements.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The term “institution of higher education” means an educational institution in any state which (A) admits as regular students only individuals having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate; (B) is legally authorized within such state to provide a program of education beyond secondary education; (C) provides an educational program for which it awards a bachelor’s degree; (D) includes one or more professional or graduate schools; (E) is a public or nonprofit private institution; and (F) is accredited by a nationally recognized accrediting agency or association. For the purpose of subparagraph (F) of this paragraph, the Secretary shall publish a list of nationally recognized accrediting agencies or associations which the Secretary determines to be reliable authority as to the quality of training offered.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The term “Secretary” means the Secretary of Education.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The term “state” means each of the several states, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palau takes effect).</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The term “NTID” means the National Technical Institute for the Deaf.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The term “University” means Gallaudet University.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 401</annotation>
+        <annotation>renumbered as § 201, Oct. 16, 1992, 106 Stat. 2151, Pub. L. 102-421, §§ 101(b)(6), 131, 151(a)(3), (b)</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 734, Pub. L. 103-73, § 204(a)</annotation>
+        <annotation doc="D.C. Law 11-255">Apr. 9, 1997, D.C. Law 11-255, § 35(b), 44 DCR 1271</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1842.2a.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|II"/>
+    <num codify:value="38-2402.02">402</num>
+    <heading>Gifts.</heading>
+    <text>The University and NTID are authorized to receive by gift, devise, bequest, purchase, or otherwise, property, both real and personal, for the use of the University or NTID, or for the use, as appropriate, for any programs, departments, or other units as may be designated in the conveyance or will, and to hold, invest, use, or dispose of such property for the purpose stated in the conveyance or will.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 402</annotation>
+        <annotation>renumbered as § 202, Oct. 16, 1992, 106 Stat. 2151, Pub. L. 102-421, §§ 101(b)(6), 132</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1842.2b.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|II"/>
+    <num codify:value="38-2402.03">403</num>
+    <heading>Audit.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>General Accounting Office authority. —</heading>
+      <text>All financial transactions and accounts of the corporation or institution of higher education, as the case may be, in connection with the expenditure of any moneys appropriated by any law of the United States:</text>
+      <para>
+        <num>(1)</num>
+        <text>For the benefit of Gallaudet University or for the construction of facilities for its use; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the benefit of the National Technical Institute for the Deaf or for the construction of facilities for its use;</text>
+      </para>
+      <afterText>shall be settled and adjusted in the General Accounting Office.</afterText>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Independent audit. —</heading>
+      <text>Gallaudet University shall have an annual independent financial audit made of the programs and activities of the University. The institution of higher education with which the Secretary has an agreement under § <cite path="§38-2401.12">38-2401.12</cite> shall have an annual independent financial audit made of the programs and activities of such institution of higher education, including NTID, and containing specific schedules and analyses for all NTID funds, as determined by the Secretary.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Limitations regarding expenditure of funds. —</heading>
+      <para>
+        <num>(1)</num>
+        <heading>In general. —</heading>
+        <text>No funds appropriated under this chapter for Gallaudet University, including the Kendall Demonstration Elementary School and the Model Secondary School for the Deaf, or for the National Technical Institute for the Deaf may be expended on the following:</text>
+        <para>
+          <num>(A)</num>
+          <text>Alcoholic beverages;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Goods or services for personal use;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Housing and personal living expenses (but only to the extent such expenses are not required by written employment agreement);</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Lobbying, except that nothing in this subparagraph shall be construed to prohibit the University and NTID from educating the Congress, the Secretary, and others regarding programs, projects, and activities conducted at those institutions; or</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Membership in country clubs and social or dining clubs and organizations.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Policies. —</heading>
+        <para>
+          <num>(A)</num>
+          <text>Not later than 180 days after October 1, 1992, the University and NTID shall develop policies, to be applied uniformly, for the allowability of expenditures for each institution. These policies should reflect the unique nature of these institutions. The principles established by the Office of Management and Budget for costs of educational institutions may be used as guidance in developing these policies. General principles relating to allowability and reasonableness of all costs associated with the operations of the institutions shall be addressed. These policies shall be submitted to the Secretary for review and comments, and to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Policies under subparagraph (A) of this paragraph shall include the following:</text>
+          <para>
+            <num>(i)</num>
+            <text>Noninstitutional professional activities;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Fringe benefits;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Interest on loans;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Rental cost of buildings and equipment;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Sabbatical leave;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Severance pay;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>Travel; and</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>Royalties and other costs for uses of patents.</text>
+          </para>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The Secretary is not authorized to add items to those specified in subparagraph (B) of this paragraph.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 403</annotation>
+        <annotation>renumbered as § 203, Oct. 16, 1992, 106 Stat. 2151, Pub. L. 102-421, §§ 101(b)(6), 133</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 732, 734, Pub. L. 103-73, §§ 202, 204(b)</annotation>
+        <annotation doc="D.C. Law 11-255">Apr. 9, 1997, D.C. Law 11-255, § 35(c), 44 DCR 1271</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-2401.03">38-2401.03</cite> and § <cite path="§38-2402.04">38-2402.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1842.3.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|II"/>
+    <num codify:value="38-2402.04">404</num>
+    <heading>Reports.</heading>
+    <text>The Board of Trustees of Gallaudet University and the Board of Trustees or other governing body of the institution of higher education with which the Secretary has an agreement under § <cite path="§38-2401.12">38-2401.12</cite> shall prepare and submit an annual report to the Secretary, and to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate, not later than 100 days after the end of each fiscal year, which shall include the following:</text>
+    <para>
+      <num>(1)</num>
+      <text>The number of students during the preceding academic year who enrolled and whether these were first-time enrollments, who graduated, who found employment, or who left without completing a program of study, reported under each of the programs of the University (elementary, secondary, preparatory, undergraduate, and graduate) and of NTID;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For the preceding academic year, and to the extent possible, the following data on individuals who are deaf and from minority backgrounds and who are students (at all educational levels) or employees:</text>
+      <para>
+        <num>(A)</num>
+        <text>The number of students enrolled full- and part-time;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The number of these students who completed or graduated from each of the educational programs;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The disposition of these students upon graduation/completion of programs at NTID and at the University and its elementary and secondary schools in comparison to students from nonminority backgrounds;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The number of students needing and receiving support services (such as tutoring and counseling) at all educational levels;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>The number of recruitment activities by type and location for all educational levels;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Employment openings/vacancies and grade level/type of job and number of these individuals that applied and that were hired; and</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Strategies (such as parent groups and training classes in the development of individualized education programs) used by the elementary and secondary programs and the extension centers to reach and actively involve minority parents in the educational programs of their children who are deaf or hard of hearing and the number of parents who have been served as a result of these activities;</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <para>
+        <num>(A)</num>
+        <text>The annual audited financial statements and auditor’s report of the University, as required under § <cite path="§38-2402.03">38-2402.03</cite>; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The annual audited financial statements and auditor’s report of the institution of higher education with which the Secretary has an agreement under § <cite path="§38-2401.12">38-2401.12</cite>, including specific schedules and analyses for all NTID funds, as required under § <cite path="§38-2402.03">38-2402.03</cite>, and such supplementary schedules presenting financial information for NTID for the end of the Federal fiscal year as determined by the Secretary;</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>For the preceding fiscal year, a statement showing the receipts of the University and NTID and from what federal sources, and a statement showing the expenditures of each institution by function, activity, and administrative and academic unit;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A statement showing the use of funds (both corpus and income) provided by the Federal Endowment Program under § <cite path="§38-2402.07a">38-2402.07a</cite>;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>A statement showing how such Endowment Program funds are invested, what the gains or losses (both realized and unrealized) on such investments were for the most recent fiscal year, and what changes were made in investments during that year; and</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Such additional information as the Secretary may consider necessary.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 404</annotation>
+        <annotation>renumbered as § 204, Oct 16, 1992, 106 Stat. 2151, Pub. L. 102-421, §§ 101(b)(6), 134</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 735, Pub. L. 103-73, § 204(c)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-2401.05">38-2401.05</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1842.4.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|II"/>
+    <num codify:value="38-2402.05">405</num>
+    <heading>Monitoring, evaluation, and reporting.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Activities. —</heading>
+      <text>The Secretary shall conduct monitoring and evaluation activities of the education programs and activities and the administrative operations of the University (including the elementary, secondary, preparatory, undergraduate, and graduate programs) and of NTID. The Secretary may also conduct studies related to the provision of preschool, elementary, secondary, and postsecondary education and other related services to individuals who are deaf or hard of hearing. In carrying out the responsibilities described in this section, the Secretary is authorized to employ such consultants as may be necessary pursuant to § 3109 of Title 5, United States Code.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Report. —</heading>
+      <text>The Secretary, as part of the annual report required under § 426 of the Department of Education Organization Act, shall include a description of the monitoring and evaluation activities pursuant to subsection (a) of this section, together with such recommendations, including recommendations for legislation, as the Secretary may consider necessary.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Authorization of appropriations. —</heading>
+      <text>There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993, 1994, 1995, 1996, and 1997 to carry out the monitoring and evaluation activities authorized under this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 405</annotation>
+        <annotation>renumbered as § 205, Oct. 16, 1992, 106 Stat. 2151, Pub. L. 102-421, §§ 101(b)(6), 135(a)</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 735, Pub. L. 103-73, § 204(d)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1842.5.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“Section 426 of the Department of Education Organization Act”, referred to in (b), is codified at  20 U.S.C. § 3486.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Secretary to submit report: Section 135(b) of Pub. L. 102-421 provided that not later than 180 days after October 1, 1992, the Secretary of Education shall submit a report to Congress regarding progress made by the Department of Education in implementing the recommendations of the Commission on Education of the Deaf pertaining to the provision of a free and appropriate public education to children who are deaf, and children who are hard of hearing, and with respect to the establishment of standards for programs and personnel to meet the educational, communicative, and psychological needs of children who are deaf, and children who are hard of hearing. In preparing this report, the Secretary of Education shall solicit input from the community of individuals who are deaf, and individuals who are hard of hearing.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|II"/>
+    <num codify:value="38-2402.06">406</num>
+    <heading>Liaison for educational programs.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Designation of liaison. —</heading>
+      <text>Not later than 30 days after August 4, 1986, the Secretary shall designate an individual in the Office of Special Education and Rehabilitative Services of the Department of Education from among individuals who have experience in the education of individuals who are deaf to serve as liaison between the Department and Gallaudet University, the National Technical Institute for the Deaf, and other postsecondary educational programs for the deaf under the Education of the Handicapped Act [20 U.S.C. § 1401 et seq.], the Rehabilitation Act of 1973 [29 U.S.C. § 701 et seq.], and other federal or nonfederal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Duties of liaison. —</heading>
+      <text>The individual serving as liaison for educational programs for individuals who are deaf or hard of hearing shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provide information to institutions regarding the Department’s efforts directly affecting the operation of such programs by such institutions;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Review research and other activities carried out by the University, NTID, and other federal or nonfederal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing for the purpose of determining overlap and opportunities for coordination among such entities; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide such support and assistance as such institutions may request and the Secretary considers appropriate.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Authority of Secretary. —</heading>
+      <text>Nothing in this section may be construed to affect the authority of the Secretary under this chapter or any other act with respect to Gallaudet University or the National Technical Institute for the Deaf.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 406</annotation>
+        <annotation>renumbered as § 206, Oct. 16, 1992, 106 Stat. 2151, Pub. L. 102-421, §§ 101(b)(6), 136, 151(a)(4), (5)</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 735, Pub. L. 103-73, § 204(e)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1842.6.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <text>The “Education of the Handicapped Act,” referred to in subsection (a), is the Act of April 13, 1970, 84 Stat. 188, Pub. L. 91-230, Title VI, § 662(3), which is codified at  20 U.S.C. § 1401 et seq.</text>
+        <text>The “Rehabilitation Act of 1973,” referred to in subsection (a), is  29 U.S.C. § 701 et seq. (September 26, 1973, 87 Stat. 355, Pub. L. 93-112).</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2402.07">407</num>
+    <heading>Gallaudet University Federal Endowment Program.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 407</annotation>
+        <annotation>renumbered as § 207, Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 101(b)(6)</annotation>
+        <annotation>repealed Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 137(1)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1842.7.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|II"/>
+    <num codify:value="38-2402.07a">207</num>
+    <heading>Federal endowment programs for Gallaudet University and the National Technical Institute for the Deaf.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Establishment of programs. —</heading>
+      <para>
+        <num>(1)</num>
+        <text>The Secretary and the Board of Trustees of Gallaudet University are authorized to establish the Gallaudet University Federal Endowment Fund as a permanent endowment fund, in accordance with this section, for the purpose of promoting the financial independence of the University. The Secretary and the Board of Trustees may enter into such agreements as may be necessary to carry out the purposes of this section with respect to the University.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Secretary and the Board of Trustees or other governing body of the institution of higher education with which the Secretary has an agreement under § <cite path="§38-2401.12">38-2401.12</cite> are authorized to establish the National Technical Institute for the Deaf Federal Endowment Fund as a permanent endowment fund, in accordance with this section, for the purpose of promoting the financial independence of NTID. The Secretary and the Board or other governing body may enter into such agreements as may be necessary to carry out the purposes of this section with respect to NTID.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Federal payments. —</heading>
+      <para>
+        <num>(1)</num>
+        <text>The Secretary shall, consistent with this section, make payments to the Federal endowment funds established under subsection (a) of this section from amounts appropriated under subsection (h) of this section for the fund involved.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to the availability of appropriations and the nonfederal matching requirements of paragraph (3) of this subsection, the Secretary shall make payments to each Federal endowment fund in amounts equal to sums contributed to the fund from nonfederal sources (excluding transfers from other endowment funds of the institution involved).</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Effective for fiscal year 1993 and each succeeding fiscal year, for any fiscal year in which the sums contributed to the federal endowment fund of the institution involved from nonfederal sources exceed $1,000,000, the nonfederal contribution to the federal endowment shall be $2 for each federal dollar provided in excess of $1,000,000 (excluding transfers from other endowment funds of the institution involved).</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Investments. —</heading>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided in subsection (e) of this section, the University and NTID, respectively, shall invest its federal endowment fund corpus and income in instruments and securities offered through one or more cooperative service organizations of operating educational organizations under section 501(f) of the Internal Revenue Code of 1986, or in low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State in which the institution involved is located.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In managing the investment of its federal endowment fund, the University or NTID shall exercise the judgment and care, under the prevailing circumstances, that a person of prudence, discretion, and intelligence would exercise in the management of that person’s own business affairs.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Neither the University nor NTID may invest its federal endowment fund corpus or income in real estate, or in instruments or securities issued by an organization in which an executive officer, a member of the Board of Trustees of the University or of the host institution, or a member of the advisory group established under § <cite path="§38-2401.12">38-2401.12</cite> is a controlling shareholder, director, or owner within the meaning of federal securities laws and other applicable laws. Neither the University nor NTID may assign, hypothecate, encumber, or create a lien on the federal endowment fund corpus without specific written authorization of the Secretary.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Withdrawals and expenditures. —</heading>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided in paragraph (3)(B) of this subsection, neither the University nor NTID may withdraw or expend any of the corpus of its federal endowment fund.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>The University and NTID, respectively, may withdraw or expend the income of its federal endowment fund only for expenses necessary to the operation of that institution, including expenses of operations and maintenance, administration, academic and support personnel, construction and renovation, community and student services programs, technical assistance, and research.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Neither the University nor NTID may withdraw or expend the income of its federal endowment fund for any commercial purpose.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Beginning on October 1, 1992, the University and NTID shall maintain records of the income generated from its respective federal endowment fund for the prior fiscal year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <para>
+          <num>(A)</num>
+          <text>Except as provided in subparagraph (B) of this paragraph, the University and NTID, respectively, may, on an annual basis, withdraw or expend not more than 50 percent of the income generated from its federal endowment fund from the prior fiscal year.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Secretary may permit the University or NTID to withdraw or expend a portion of its federal endowment fund corpus or more than 50 percent of the income generated from its federal endowment fund from the prior fiscal year if the institution involved demonstrates, to the Secretary’s satisfaction, that such withdrawal or expenditure is necessary because of:</text>
+          <para>
+            <num>(i)</num>
+            <text>A financial emergency, such as a pending insolvency or temporary liquidity problem;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A life-threatening situation occasioned by natural disaster or arson; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Another unusual occurrence or exigent circumstance.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Investment and expenditure flexibility. —</heading>
+      <text>The corpus associated with a federal payment (and its nonfederal match) made to the federal endowment fund of the University or NTID shall not be subject to the investment limitations of subsection (c)(1) of this section after 10 fiscal years following the fiscal year in which the funds are matched, and the income generated from such corpus after the tenth fiscal year described in this subsection shall not be subject to such investment limitations or to the withdrawal and expenditure limitations of subsection (d)(3) of this section.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <heading>Recovery of payments. —</heading>
+      <text>After notice and an opportunity for a hearing, the Secretary is authorized to recover any federal payments under this section if the University or NTID:</text>
+      <para>
+        <num>(1)</num>
+        <text>Makes a withdrawal or expenditure of the corpus or income of its federal endowment fund that is not consistent with this section;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Fails to comply with the investment standards and limitations under this section; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Fails to account properly to the Secretary concerning the investment of or expenditures from the federal endowment fund corpus or income.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <heading>Definitions. —</heading>
+      <text>As used in this section:</text>
+      <para>
+        <num>(1)</num>
+        <text>The term “corpus”, with respect to a federal endowment fund under this section, means an amount equal to the federal payments to such fund, amounts contributed to the fund from nonfederal sources, and appreciation from capital gains and reinvestment of income.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The term “federal endowment fund” means a fund, or a tax-exempt foundation, established and maintained pursuant to this section by the University or NTID, as the case may be, for the purpose of generating income for the support of the institution involved.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The term “income”, with respect to a federal endowment fund under this section, means an amount equal to the dividends and interest accruing from investments of the corpus of such fund.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The term “institution involved” means the University or NTID, as the case may be.</text>
+      </para>
+    </para>
+    <para>
+      <num>(h)</num>
+      <heading>Authorization of appropriations. —</heading>
+      <para>
+        <num>(1)</num>
+        <text>In the case of the University, there are authorized to be appropriated for the purposes of this section such sums as may be necessary for each of the fiscal years 1993 through 1997.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the case of NTID, there are authorized to be appropriated for the purposes of this section such sums as may be necessary for each of the fiscal years 1993 through 1997.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Amounts appropriated under paragraph (1) or (2) shall remain available until expended.</text>
+      </para>
+    </para>
+    <para>
+      <num>(i)</num>
+      <heading>Effective date. —</heading>
+      <text>The provisions of this section shall take effect as if included in this Act as enacted on August 4, 1986.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, Pub. L. 99-371, § 207</annotation>
+        <annotation>as added Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 137(2)</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 735, Pub. L. 103-73, § 204(f)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-2402.04">38-2402.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1842.7a.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <text>“ Section 501(f) of the Internal Revenue Code of 1986”, referred to in (c)(1), is codified at  26 U.S.C. § 501(f).</text>
+        <text>“This act”, referred to in (i), is Pub. L. 99-371, 100 Stat. 781, August 4, 1986.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|II"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2402.08">408</num>
+    <heading>National Technical Institute for the Deaf Endowment Program.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 408</annotation>
+        <annotation>renumbered as § 208, Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 101(b)(6)</annotation>
+        <annotation>repealed Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 137(1)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1842.8.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|II"/>
+    <num codify:value="38-2402.08a">208</num>
+    <heading>Scholarship program.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>The Secretary may make grants to institutions of higher education that have teacher training programs in deaf education or special education for the purpose of providing scholarships to individuals who are deaf for careers in deaf education or special education. Such institutions shall give priority consideration in the selection of qualified recipients of the scholarships to individuals from underrepresented backgrounds, particularly minority individuals who are deaf and who are underrepresented in the teaching profession. Grants may be used by institutions to assist in covering the cost of courses of training or study for such individuals and for establishing and maintaining fellowships or traineeships with stipends and allowances as may be determined by the Secretary.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Authorization of appropriations. —</heading>
+      <text>For the purpose of making grants under subsection (a), there are authorized to be appropriated $2,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 1997.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, Pub. L. 99-371, § 208</annotation>
+        <annotation>as added Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 138</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1842.8a.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|II"/>
+    <num codify:value="38-2402.09">409</num>
+    <heading>Oversight and effect of agreements.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Oversight activities. —</heading>
+      <text>Nothing in this chapter shall be construed to diminish the oversight activities of the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives with respect to any agreement entered into between the Secretary of Education and Gallaudet University, and the institution of higher education with which the Secretary has an agreement under part B of subchapter I of this chapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Construction of agreements. —</heading>
+      <text>The agreements described in subsection (a) of this section shall continue in effect, to the extent that such agreements are not inconsistent with this chapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 409</annotation>
+        <annotation>renumbered as § 209, Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 101(b)(6)</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 735, Pub. L. 103-73, § 204(g)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1842.9.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|II"/>
+    <num codify:value="38-2402.10">410</num>
+    <heading>International students.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Enrollment. —</heading>
+      <text>Effective with new admissions for academic year 1993-1994 and each succeeding academic year, the University (including preparatory, undergraduate, and graduate students) and NTID shall limit the enrollment of international students to approximately 10 percent of the total postsecondary student population enrolled respectively at the University or NTID.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Tuition surcharge. —</heading>
+      <text>Effective with new admissions, the tuition for postsecondary international students enrolled in the University (including preparatory, undergraduate, and graduate students) or NTID shall include a surcharge of 75% for the academic year 1993-1994 and 90 percent beginning with the academic year 1994-1995.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Reduction of surcharge. —</heading>
+      <text>Beginning with the academic year 1993-1994, the University or NTID may reduce the surcharge under subsection (b) of this section to 50% if:</text>
+      <para>
+        <num>(1)</num>
+        <text>A student described under subsection (b) of this section is from a developing country;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Such student is unable to pay the tuition surcharge under subsection (b) of this section; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Such student has made a good faith effort to secure aid through such student’s government or other sources.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Definition. —</heading>
+      <text>For purposes of subsection (c), the term “developing country” means a country that has a 1990 per capita income not in excess of $4,000 in 1990 United States dollars.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 410</annotation>
+        <annotation>renumbered as § 210, Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 139</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 735, Pub. L. 103-73, § 204(h)</annotation>
+        <annotation doc="D.C. Law 11-255">Apr. 9, 1997, D.C. Law 11-255, § 36, 44 DCR 1271</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1842.10.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|II"/>
+    <num codify:value="38-2402.11">411</num>
+    <heading>Authorization of appropriations.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Gallaudet University. —</heading>
+      <text>There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993 through 1997 to carry out the provisions of this chapter, relating to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Gallaudet University;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Kendall Demonstration Elementary School; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The model secondary school for individuals who are deaf.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>National Technical Institute for the Deaf. —</heading>
+      <text>There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993 through 1997 to carry out the provisions of this chapter relating to the National Technical Institute for the Deaf.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 411</annotation>
+        <annotation>renumbered as § 211, Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, §§ 101(b)(6), 140, 151(a)(4)</annotation>
+        <annotation doc="Pub. L. 103-73">Aug. 11, 1993, 107 Stat. 735, Pub. L. 103-73, § 204(i)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1842.11.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2411.01">111</num>
+    <heading>Authority of Gallaudet University.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 111</annotation>
+        <annotation>Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 101(a)(1)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1841.4.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2411.02">121</num>
+    <heading>Authority of Gallaudet University.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 121</annotation>
+        <annotation>Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 101(a)(1)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1841.5.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2411.03">122</num>
+    <heading>Agreement with Gallaudet University for model secondary school.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 122</annotation>
+        <annotation>Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 101(a)(1)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1841.6.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2411.04">301</num>
+    <heading>Commission established.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 301</annotation>
+        <annotation>Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 101(a)(2)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1843.1.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2411.05">302</num>
+    <heading>Duties of Commission.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 302</annotation>
+        <annotation>Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 101(a)(2)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1843.2.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2411.06">303</num>
+    <heading>Administrative provisions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 303</annotation>
+        <annotation>Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 101(a)(2)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1843.3.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|24|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="38-2411.07">304</num>
+    <heading>Compensation of members.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 99-371">Aug. 4, 1986, 100 Stat. 781, Pub. L. 99-371, § 304</annotation>
+        <annotation>Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 101(a)(2)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1843.4.</annotation>
+        <annotation>[Renumbered].</annotation>
+        <annotation>Renumbered.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 88-241">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 88-241">
   <num>88-241</num>
   <meta>
     <effective>1963-12-23</effective>
@@ -7,4 +7,39 @@
       <law session="88" lawId="241"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§24-201.02" path="|24|2|I|A"/>
+    <reason>Repealed</reason>
+    <num codify:value="24-201.01">21</num>
+    <heading>Place of imprisonment; cumulative sentences; jurisdiction of prosecutions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-241">Dec. 23, 1963, 77 Stat. 623, Pub. L. 88-241, § 21</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-401.</annotation>
+        <annotation>1973 Ed., § 24-401.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§24-303" path="|24|3"/>
+    <reason>Repealed</reason>
+    <num codify:value="24-302">21</num>
+    <heading>When probation may be granted; statement to probationers; rules and regulations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-241">Dec. 23, 1963, 77 Stat. 626, Pub. L. 88-241, § 21</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 24-102.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

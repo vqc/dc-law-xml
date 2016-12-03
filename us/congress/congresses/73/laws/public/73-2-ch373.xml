@@ -1,10 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 73-2-ch373">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 73-2-ch373">
+  <heading/>
   <meta>
     <effective>1934-06-04</effective>
     <cites>
-        <law congress="73" session="2" chapter="373"/>
+      <law congress="73" session="2" chapter="373"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|B|48"/>
+    <num codify:value="31-4801">1</num>
+    <heading>Applicability of provisions.</heading>
+    <text>Policies of industrial weekly payment life insurance after June 4, 1934, issued or delivered in the District of Columbia shall be subject to the following conditions, in addition to any others prescribed by law and not inconsistent with the provisions of this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 4, 1934, 48 Stat. 834, ch. 373, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-901.</annotation>
+        <annotation>1973 Ed., § 35-1001.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|B|48"/>
+    <num codify:value="31-4802">2</num>
+    <heading>Policies — Defenses to validity.</heading>
+    <text>If payment of such a policy shall be refused because of unsound health at or prior to the date of the policy, the good faith of both applicant and insured shall constitute a material element in determining the validity of the policy; and it shall not be held invalid because of unsound health unless the insurer shall prove that, at or before the date of issue of the policy, the insured or applicant had knowledge of, or reason to know, the facts on which the defense is based, or shall prove that the insurance was procured by the insured or applicant in bad faith or with intent to defraud the company, any provision, agreement, condition, warranty, or clause contained in said policy, or endorsed thereon, or added or attached thereto, to the contrary notwithstanding. Proof by the insurer of fraud, intent to deceive, unsound health, bad faith, breach of warranty or condition precedent, or other matter of defense, shall be subject to the provisions of § <cite path="§31-5203">31-5203</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 4, 1934, 48 Stat. 834, ch. 373, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Formal requisites of insurance policies, see § <cite path="§31-4703">31-4703</cite> et seq.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-902.</annotation>
+        <annotation>1973 Ed., § 35-1002.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|B|48"/>
+    <num codify:value="31-4803">3</num>
+    <heading>Policies — Incontestability.</heading>
+    <text>Every such policy shall be incontestable upon any ground relating to health after 2 years from its date of issue (notwithstanding a longer period may be named therein), provided the insured shall be alive at the end of said period. If the policy by its terms shall be incontestable after a shorter period than herein provided the terms of the policy with regard to such period of limitation shall govern.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 4, 1934, 48 Stat. 834, ch. 373, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Formal requisites of insurance policies, see § <cite path="§31-4703">31-4703</cite> et seq.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-3609">31-3609</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-903.</annotation>
+        <annotation>1973 Ed., § 35-1003.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|B|48"/>
+    <num codify:value="31-4804">4</num>
+    <heading>Policies — Assignment.</heading>
+    <text>Nothing contained in the terms of any such policy shall operate to prevent its valid assignment by the insured; but the company issuing the policy so assigned shall be discharged of all liability thereon by payment of its proceeds in accordance with its terms, unless before such payment the company shall have written notice of such assignment.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 4, 1934, 48 Stat. 835, ch. 373, § 4</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-904.</annotation>
+        <annotation>1973 Ed., § 35-1004.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|B|48"/>
+    <num codify:value="31-4805">5</num>
+    <heading>Beneficiaries and claimants.</heading>
+    <text>Any individual designated with the consent of the insurer, evidenced by the signature of its president or secretary, or designated upon a form furnished by and filed with the insurer, as beneficiary of such a policy shall be entitled to the proceeds of such policy after the death of the insured in priority to all other claimants, and may sue in his own name for such proceeds if payment is refused by the insurer; provided, that upon the expiration of 15 days after the death of the insured, unless proof of claim in the manner and form required by the policy, accompanied by the policy for surrender, has theretofore been made by or on behalf of such designated beneficiary, the insurer may pay to any other claimant permitted by the policy. A person specified as one to whom the insured desires payment made, but not formally designated as beneficiary, shall be deemed a beneficiary for the purposes of this section, provided such designation be made in writing and filed with the company during the lifetime of the insured.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 4, 1934, 48 Stat. 835, ch. 373, § 5</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-905.</annotation>
+        <annotation>1973 Ed., § 35-1005.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

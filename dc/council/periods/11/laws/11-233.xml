@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 11-233">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 11-233">
   <num type="law">11-233</num>
   <heading type="short">Risk-Based Capital Act of 1996</heading>
   <meta>
@@ -12,4 +12,827 @@
       <narrative>Law 11-233, the “Risk-Based Capital Act of 1996,” was introduced in Council and assigned Bill No. 11-237, which was referred to the Committee on Consumer and Regulatory Affairs. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-493 and transmitted to both Houses of Congress for its review. D.C. Law 11-233 became effective on April 9, 1997.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|20"/>
+    <num codify:value="31-2001">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Adjusted RBC Report” means an RBC report that has been adjusted by the Commissioner in accordance with § <cite path="§31-2002">31-2002</cite>(g).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Commissioner” means the Commissioner of the Department of Insurance, Securities, and Banking.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Corrective order” means an order issued by the Commissioner specifying corrective actions which the Commissioner has determined are required.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“District” means the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Domestic insurer” means any insurance company domiciled in the District.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Foreign insurer” means any insurance company which is licensed to do business in the District, but is not domiciled in the District.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Life or health insurer” means any insurance company licensed to underwrite life or health insurance, or a licensed property and casualty insurer writing only accident and health insurance.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“NAIC” means the National Association of Insurance Commissioners.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Negative trend” means, with respect to a life or health insurer, negative trend over a period of time, as determined in accordance with the “Trend Test Calculation” included in the RBC Instructions.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>“Property and casualty insurer” means any insurance company licensed to underwrite property and casualty insurance, but does not include monoline mortgage guaranty insurers, financial guaranty insurers, and title insurers.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>“RBC” means risk-based capital.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>“RBC Instructions” means the RBC Report including risk-based capital instructions adopted by the NAIC, as such RBC Instructions may be amended by the NAIC from time to time in accordance with the procedures adopted by the NAIC.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>“RBC Level” means an insurer’s Company Action Level RBC, Regulatory Action Level RBC, Authorized Control Level RBC, or Mandatory Control Level RBC where:</text>
+      <para>
+        <num>(A)</num>
+        <text>“Company Action Level RBC” means, with respect to any insurer, the product of 2.0 and its Authorized Control Level RBC;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>“Regulatory Action Level RBC” means the product of 1.5 and its Authorized Control Level RBC;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>“Authorized Control Level RBC” means the number determined under the risk-based capital formula in accordance with the RBC Instructions; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>“Mandatory Control Level RBC” means the product of .70 and the Authorized Control Level RBC.</text>
+      </para>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>“RBC Plan” means a comprehensive financial plan containing the elements specified in § <cite path="§31-2003">31-2003</cite>(b). If the Commissioner rejects the RBC Plan, and it is revised by the insurer, with or without the Commissioner’s recommendation, the plan shall be called the “Revised RBC Plan”.</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>“RBC Report” means the report required in § <cite path="§31-2002">31-2002</cite>.</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>“Total adjusted capital” means the sum of:</text>
+      <para>
+        <num>(A)</num>
+        <text>An insurer’s statutory capital and surplus; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Such other items, if any, as the RBC Instructions may provide.</text>
+      </para>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>“State” means any of the several states, the Commonwealth of Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, and the Commonwealth of Northern Mariana Islands.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-233">Apr. 9, 1997, D.C. Law 11-233, § 2, 44 DCR 765</annotation>
+        <annotation doc="D.C. Law 14-28">Oct. 3, 2001, D.C. Law 14-28, § 2802, 48 DCR 6981</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 4(l)(1), 51 DCR 2817</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-311.03">31-311.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4601.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-28">D.C. Law 14-28</cite>, in par. (1), substituted “31-2002(g)” for “31-2002(c)”.</annotation>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite>, in par. (2), substituted “Commissioner of the Department of Insurance, Securities, and Banking” for “Commissioner of Insurance and Securities”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2602 of Fiscal Year 2002 Budget Support Emergency Act of 2001 (D.C. Act 14-124, August 3, 2001,  48 DCR 7861).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 4(l)(1) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|20"/>
+    <num codify:value="31-2002">3</num>
+    <heading>RBC Reports.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Every domestic insurer shall, on or prior to each March 1 (“filing date”), prepare and submit to the Commissioner a report of its RBC Levels as of the end of the calendar year just ended, in a form and containing such information as is required by the RBC Instructions. In addition, every domestic insurer shall file its RBC Report:</text>
+      <para>
+        <num>(1)</num>
+        <text>With the NAIC in accordance with the RBC Instructions; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>With the commissioner in any state in which the insurer is authorized to do business, if the commissioner has notified the insurer of its request in writing, in which case the insurer shall file its RBC Report not later than the later of:</text>
+        <para>
+          <num>(A)</num>
+          <text>Fifteen days from the receipt of notice to file its RBC Report with that state; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The filing date.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A life and health insurer’s RBC shall be determined in accordance with the formula set forth in the RBC Instructions. The formula shall take into account, and may be adjusted for the covariance between:</text>
+      <para>
+        <num>(1)</num>
+        <text>The risk with respect to the insurer’s assets;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The risk of adverse insurance experience with respect to the insurer’s liabilities and obligations;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The interest rate risk with respect to the insurer’s business; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All other business risks and such other relevant risks as are set forth in the RBC Instructions;</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Factors set forth in subsection (b)(1) through (4) of this section shall be determined in each case by applying the factors in the manner set forth in the RBC Instructions.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A property and casualty insurer’s RBC shall be determined in accordance with the formula set forth in the RBC Instructions. The formula shall take into account and may adjust for the covariance between:</text>
+      <para>
+        <num>(1)</num>
+        <text>Asset risk;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Credit risk;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Underwriting risk; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All other business risks and such other relevant risks as are set forth in the RBC Instructions;</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The factors set forth in subsection (d)(1) through (4) of this section shall be determined in each case by applying the factors in the manner set forth in the RBC Instructions.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>An excess of capital over the amount produced by the risk-based capital requirements contained in this chapter and the formulas, schedules, and instructions referenced in this chapter is desirable in the business of insurance. Insurers should maintain capital above the RBC Levels required by this chapter.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>If a domestic insurer files an RBC Report which in the judgment of the Commissioner is inaccurate, then the Commissioner shall adjust the RBC Report to correct the inaccuracy and shall notify the insurer of the adjustment. The notice shall contain a statement of the reason for the adjustment.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-233">Apr. 9, 1997, D.C. Law 11-233, § 3, 44 DCR 765</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-2001">31-2001</cite>, § <cite path="§31-2010">31-2010</cite>, and § <cite path="§31-3931.22">31-3931.22</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4602.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|20"/>
+    <num codify:value="31-2003">4</num>
+    <heading>Company Action Level Event.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For the purposes of this chapter, the term “Company Action Level Event” means any of the following events:</text>
+      <para>
+        <num>(1)</num>
+        <text>The filing of an RBC Report by an insurer which indicates that:</text>
+        <para>
+          <num>(A)</num>
+          <text>The insurer’s total adjusted capital is greater than or equal to its Regulatory Action Level RBC, but less than its Company Action Level RBC;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>If a life or health insurer, the insurer has total adjusted capital which is greater than or equal to its Company Action Level RBC, but less than the product of its Authorized Control Level RBC and 2.5 and has a negative trend;  or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>If licensed as a property and casualty insurer, the insurer has total adjusted capital which is greater than or equal to its Company Action Level RBC, but less than the product of its Authorized Control Level RBC and 3.0, and triggers the trend test determined in accordance with the trend test calculation included in the Property and Casualty RBC instructions;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The notification by the Commissioner to the insurer of an Adjusted RBC Report that indicates an event in paragraph (1) of this subsection, provided the insurer does not challenge the Adjusted RBC Report under § <cite path="§31-2007">31-2007</cite>; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If, pursuant to § <cite path="§31-2007">31-2007</cite>, an insurer challenges an Adjusted RBC Report that indicates the event in paragraph (1) of this subsection, the notification by the Commissioner to the insurer that the Commissioner has, after a hearing, rejected the insurer’s challenge.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In the event of a Company Action Level Event, the insurer shall prepare and submit to the Commissioner an RBC Plan which shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Identify the conditions which contribute to the Company Action Level Event;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Contain proposals of corrective actions which the insurer intends to take and would be expected to result in the elimination of the Company Action Level Event;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide projections of the insurer’s financial results in the current year and at least the 4 succeeding years, both in the absence of proposed corrective actions and giving effect to the proposed corrective actions, including projections of statutory operating income, net income, capital, or surplus. The projections for both new and renewal business might include separate projections for each major line of business and separately identify each significant income, expense, and benefit component;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Identify the key assumptions impacting the insurer’s projections and the sensitivity of the projections to the assumptions; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Identify the quality of, and problems associated with, the insurer’s business, including, but not limited to, its assets, anticipated business growth and associated surplus strain, extraordinary exposure to risk, mix of business, and use of reinsurance, if any, in each case.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The RBC Plan shall be submitted to the Commissioner within 45 days of the Company Action Level Event; or if the insurer challenges an Adjusted RBC Report pursuant to § <cite path="§31-2007">31-2007</cite>, within 45 days after notification to the insurer that the Commissioner has, after a hearing, rejected the insurer’s challenge.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Within 60 days after the submission by an insurer of an RBC Plan to the Commissioner, the Commissioner shall notify the insurer whether the RBC Plan shall be implemented or is, in the judgment of the Commissioner, unsatisfactory. If the Commissioner determines the RBC Plan is unsatisfactory, the notification to the insurer shall set forth the reasons for the determination, and may set forth proposed revisions which will render the RBC Plan satisfactory. Upon notification from the Commissioner, the insurer shall prepare a Revised RBC Plan, which may incorporate by reference any revisions proposed by the Commissioner, and shall submit the Revised RBC Plan to the Commissioner within 45 days after the notification from the Commissioner; or if the insurer challenges the notification from the Commissioner under § <cite path="§31-2007">31-2007</cite>, within 45 days after a notification to the insurer that the Commissioner has, after a hearing, rejected the insurer’s challenge.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>In the event of a notification by the Commissioner to an insurer that the insurer’s RBC Plan or Revised RBC Plan is unsatisfactory, the Commissioner may at the Commissioner’s discretion, subject to the insurer’s right to a hearing under § <cite path="§31-2007">31-2007</cite>, specify in the notification that the notification constitutes a Regulatory Action Level Event as defined in § <cite path="§31-2004">31-2004</cite>.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Every domestic insurer that files an RBC Plan or Revised RBC Plan with the Commissioner shall file a copy of the RBC Plan or Revised RBC Plan with the insurance commissioner in any state in which the insurer is authorized to do business if:</text>
+      <para>
+        <num>(1)</num>
+        <text>Such state has a RBC provision substantially similar to § <cite path="§31-2008">31-2008</cite>(a); and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The insurance commissioner of that state has notified the insurer of its request for the filing in writing, in which case the insurer shall file a copy of the RBC Plan or Revised RBC Plan in that state no later than the later of:</text>
+        <para>
+          <num>(A)</num>
+          <text>Fifteen days after the receipt of notice to file a copy of its RBC Plan or Revised RBC Plan with the state; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The date on which the RBC Plan or Revised RBC Plan is filed under § <cite path="§31-2003">31-2003</cite>(c) and (d).</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-233">Apr. 9, 1997, D.C. Law 11-233, § 4, 44 DCR 765</annotation>
+        <annotation doc="D.C. Law 19-103">Mar. 14, 2012, D.C. Law 19-103, § 3, 59 DCR 432</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-2001">31-2001</cite>, § <cite path="§31-2004">31-2004</cite>, § <cite path="§31-2013">31-2013</cite>, and § <cite path="§31-3931.22">31-3931.22</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4603.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-103">D.C. Law 19-103</cite>, in subsec. (a)(1), deleted “and” from the end of subpar. (A), substituted “; or ” for a period the end of subpar. (B), and added subpar. (C).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|20"/>
+    <num codify:value="31-2004">5</num>
+    <heading>Regulatory Action Level Event.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For the purposes of this chapter, the term “Regulatory Action Level Event” means, with respect to any insurer, any of the following events:</text>
+      <para>
+        <num>(1)</num>
+        <text>The filing of an RBC Report by the insurer which indicates that the insurer’s total adjusted capital is greater than or equal to its Authorized Control Level RBC, but less than its Regulatory Action Level RBC;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The notification by the Commissioner to an insurer of an Adjusted RBC Report that indicates the event in paragraph (1) of this subsection, provided the insurer does not challenge the Adjusted RBC Report under § <cite path="§31-2007">31-2007</cite>;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If, pursuant to § <cite path="§31-2007">31-2007</cite>, the insurer challenges an Adjusted RBC Report that indicates the event in paragraph (1) of this subsection, the notification by the Commissioner to the insurer that the Commissioner has, after a hearing, rejected the insurer’s challenge;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The failure of the insurer to file an RBC Report by the filing date, unless the insurer has provided an explanation for such failure which is satisfactory to the Commissioner and has cured the failure within 10 days after the filing date;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The failure of the insurer to submit an RBC Plan to the Commissioner within the time period set forth in § <cite path="§31-2003">31-2003</cite>(c);</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Notification by the Commissioner to the insurer that:</text>
+        <para>
+          <num>(A)</num>
+          <text>The RBC Plan or Revised RBC Plan submitted by the insurer is, in the judgment of the Commissioner, unsatisfactory; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Such notification constitutes a Regulatory Action Level Event with respect to the insurer, provided the insurer has not challenged the determination under § <cite path="§31-2007">31-2007</cite>;</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>If, pursuant to § <cite path="§31-2007">31-2007</cite>, the insurer challenges a determination by the Commissioner under paragraph (6) of this subsection, the notification by the Commissioner to the insurer that the Commissioner has, after a hearing, rejected such challenge;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Notification by the Commissioner to the insurer that the insurer has failed to adhere to its RBC Plan or Revised RBC Plan, but only if such failure has a substantial adverse effect on the ability of the insurer to eliminate the Company Action Level Event in accordance with its RBC Plan or Revised RBC Plan and the Commissioner has so stated in the notification, provided the insurer has not challenged the determination under § <cite path="§31-2007">31-2007</cite>; or</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>If, pursuant to § <cite path="§31-2007">31-2007</cite>, the insurer challenges a determination by the Commissioner under paragraph (8) of this subsection, the notification by the Commissioner to the insurer that the Commissioner has, after a hearing, rejected the challenge.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In the event of a Regulatory Action Level Event, the Commissioner shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Require the insurer to prepare and submit an RBC Plan or, if applicable, a Revised RBC Plan;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Perform such examination or analysis, as the Commissioner deems necessary, of the assets, liabilities, and operations of the insurer including a review of its RBC Plan or Revised RBC Plan; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Subsequent to the examination or analysis, issue an order specifying such corrective actions as the Commissioner shall determine are required (“Corrective Order”).</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In determining corrective actions, the Commissioner may take into account such factors as are deemed relevant with respect to the insurer based upon the Commissioner’s examination or analysis of the assets, liabilities, and operations of the insurer, including, but not limited to, the results of any sensitivity tests undertaken pursuant to the RBC Instructions. The RBC Plan or Revised RBC Plan shall be submitted:</text>
+      <para>
+        <num>(1)</num>
+        <text>Within 45 days after the occurrence of the Regulatory Action Level Event;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the insurer challenges an Adjusted RBC Report pursuant to § <cite path="§31-2007">31-2007</cite> and the challenge is not frivolous in the judgment of the Commissioner, within 45 days after the notification to the insurer that the Commissioner has, after a hearing, rejected the insurer’s challenge; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the insurer challenges a Revised RBC Plan pursuant to § <cite path="§31-2007">31-2007</cite> and the challenge is not frivolous in the judgment of the Commissioner, within 45 days after the notification to the insurer that the Commissioner has, after a hearing, rejected the insurer’s challenge.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Commissioner may retain actuaries and investment experts and other consultants as may be necessary in the judgment of the Commissioner to review the insurer’s RBC Plan or Revised RBC Plan, examine or analyze the assets, liabilities, and operations of the insurer, and formulate the Corrective Order with respect to the insurer. The fees, costs, and expenses relating to consultants shall be borne by the affected insurer or such other party as directed by the Commissioner.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-233">Apr. 9, 1997, D.C. Law 11-233, § 5, 44 DCR 765</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-2003">31-2003</cite>, § <cite path="§31-2005">31-2005</cite>, and § <cite path="§31-2013">31-2013</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4604.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|20"/>
+    <num codify:value="31-2005">6</num>
+    <heading>Authorized Control Level Event.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For the purposes of this chapter, the term “Authorized Control Level Event” means any of the following events:</text>
+      <para>
+        <num>(1)</num>
+        <text>The filing of an RBC Report by the insurer which indicates that the insurer’s total adjusted capital is greater than or equal to its Mandatory Control Level RBC, but less than its Authorized Control Level RBC;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The notification by the Commissioner to the insurer of an Adjusted RBC Report that indicates the event in paragraph (1) of this subsection, provided the insurer does not challenge the Adjusted RBC Report under § <cite path="§31-2007">31-2007</cite>;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If, pursuant to § <cite path="§31-2007">31-2007</cite>, the insurer challenges an Adjusted RBC Report that indicates the event in paragraph (1) of this subsection, notification by the Commissioner to the insurer that the Commissioner has, after a hearing, rejected the insurer’s challenge;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The failure of the insurer to respond, in a manner satisfactory to the Commissioner, to a corrective order (provided the insurer has not challenged the corrective order under § <cite path="§31-2007">31-2007</cite>); or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>If the insurer has challenged a corrective order under § <cite path="§31-2007">31-2007</cite> and the Commissioner has, after a hearing, rejected the challenge or modified the Corrective Order, the failure of the insurer to respond, in a manner satisfactory to the Commissioner, to the corrective order subsequent to rejection or modification by the Commissioner.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In the event of an Authorized Control Level Event with respect to an insurer, the Commissioner shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Take such actions as are required under § <cite path="§31-2004">31-2004</cite> regarding an insurer with respect to which a Regulatory Action Level Event has occurred; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the Commissioner deems it to be in the best interests of the policyholders and creditors of the insurer and of the public, take such actions as are necessary to cause the insurer to be placed under regulatory control under Chapter 13 of this title. In the event the Commissioner takes such actions, the Authorized Control Level Event shall be deemed sufficient grounds for the Commissioner to take action under Chapter 13 of this title, and the Commissioner shall have the rights, powers, and duties with respect to the insurer as are set forth in Chapter 13 of this title. In the event the Commissioner takes actions under this paragraph pursuant to an Adjusted RBC Report, the insurer shall be entitled to such projections as are afforded to insurers under the provisions of Chapter 13 of this title pertaining to summary proceedings.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-233">Apr. 9, 1997, D.C. Law 11-233, § 6, 44 DCR 765</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-2013">31-2013</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4605.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|20"/>
+    <num codify:value="31-2006">7</num>
+    <heading>Mandatory Control Level Event.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For the purposes of this chapter, the term “Mandatory Control Level Event” means any of the following events:</text>
+      <para>
+        <num>(1)</num>
+        <text>The filing of an RBC Report which indicates that the insurer’s total adjusted capital is less than its Mandatory Control Level RBC;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notification by the Commissioner to the insurer of an Adjusted RBC Report that indicates the event in paragraph (1) of this subsection, provided the insurer does not challenge the Adjusted RBC Report under § <cite path="§31-2007">31-2007</cite>; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If, pursuant to § <cite path="§31-2007">31-2007</cite>, the insurer challenges an Adjusted RBC Report that indicates the event in paragraph (1) of this subsection, notification by the Commissioner to the insurer that the Commissioner has, after a hearing, rejected the insurer’s challenge.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In the event of a Mandatory Control Level Event:</text>
+      <para>
+        <num>(1)</num>
+        <text>With respect to a life insurer, the Commissioner shall take such actions as are necessary to place the insurer under regulatory control under Chapter 13 of this title. In that event, the Mandatory Control Level Event shall be deemed sufficient grounds for the Commissioner to take action under Chapter 13 of this title, and the Commissioner shall have the rights, powers, and duties with respect to the insurer as are set forth in Chapter 13 of this title. If the Commissioner takes actions pursuant to an Adjusted RBC Report, the insurer shall be entitled to the protections of Chapter 13 of this title pertaining to summary proceedings. Notwithstanding any of the foregoing, the Commissioner may forego action for up to 90 days after the Mandatory Control Level Event if the Commissioner finds there is a reasonable expectation that the Mandatory Control Level Event may be eliminated within the 90-day period.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>With respect to a property and casualty insurer, the Commissioner shall take such actions as are necessary to place the insurer under regulatory control under Chapter 13 of this title, or, in the case of an insurer which is writing no business and which is running-off its existing business, may allow the insurer to continue its run-off under the supervision of the Commissioner. In either event, the Mandatory Control Level Event shall be deemed sufficient grounds for the Commissioner to take action under Chapter 13 of this title, and the Commissioner shall have the rights, powers and duties with respect to the insurer as are set forth in Chapter 13 of this title. If the Commissioner takes actions pursuant to an Adjusted RBC Report, the insurer shall be entitled to the protections of Chapter 13 of this title pertaining to summary proceedings. Notwithstanding any of the foregoing, the Commissioner may forego action for up to 90 days after the Mandatory Control Level Event if the Commissioner finds there is a reasonable expectation that the Mandatory Control Level Event may be eliminated within the 90-day period.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-233">Apr. 9, 1997, D.C. Law 11-233, § 7, 44 DCR 765</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-2013">31-2013</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4606.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|20"/>
+    <num codify:value="31-2007">8</num>
+    <heading>Hearings.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The insurer shall have a right to a hearing, at which the insurer may challenge any of the following determinations or actions by the Commissioner:</text>
+      <para>
+        <num>(1)</num>
+        <text>Notification to an insurer by the Commissioner of an Adjusted RBC Report;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notification to an insurer by the Commissioner that:</text>
+        <para>
+          <num>(A)</num>
+          <text>The insurer’s RBC Plan or Revised RBC Plan is unsatisfactory; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Such notification constitutes a Regulatory Action Level Event with respect to such insurer;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Notification to any insurer by the Commissioner that the insurer has failed to adhere to its RBC Plan or Revised RBC Plan and that such failure has a substantial adverse effect on the ability of the insurer to eliminate the Company Action Level Event with respect to the insurer in accordance with its RBC Plan or Revised RBC Plan; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Notification to an insurer by the Commissioner of a Corrective Order with respect to the insurer.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The insurer shall notify the Commissioner of its request for a hearing within 5 days after the notification by the Commissioner under subsection (a) of this section. Upon receipt of the insurer’s request for a hearing, the Commissioner shall set a date for the hearing, which date shall be no less than 10 nor more than 30 days after the date of the insurer’s request.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-233">Apr. 9, 1997, D.C. Law 11-233, § 8, 44 DCR 765</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-2003">31-2003</cite>, § <cite path="§31-2004">31-2004</cite>, § <cite path="§31-2005">31-2005</cite>, and § <cite path="§31-2006">31-2006</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4607.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|20"/>
+    <num codify:value="31-2008">9</num>
+    <heading>Confidentiality; prohibition on announcements; prohibition on use in ratemaking.</heading>
+    <para>
+      <num>(a)</num>
+      <text>All RBC Reports (to the extent the information therein is not required to be set forth in a publicly available annual statement schedule) and RBC Plans (including the results or report of any examination or analysis of an insurer performed pursuant hereto and any Corrective Order issued by the Commissioner pursuant to examination or analysis) with respect to any domestic insurer or foreign insurer that are in the possession or control of the Department of Insurance, Securities, and Banking shall be confidential and privileged; shall not be subject to subchapter II of Chapter 5 of Title 2; shall not be subject to subpoena; and shall not be subject to discovery or admissible in evidence in a private civil action; provided, that the Commissioner may use the documents, materials, or other information in the furtherance of any regulatory or legal action brought as a part of the Commissioner’s official duties. This information is also exempt from any applicable freedom of information law, public records law, public records disclosure law, or other similar statute.</text>
+    </para>
+    <para>
+      <num>(a-1)</num>
+      <text>The Commissioner or any person who received documents, materials, or other information while acting under the authority of the Commissioner shall not be permitted or required to testify in a private civil action concerning confidential documents, materials, or other information subject to subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(a-2)</num>
+      <text>To assist in the performance of the Commissioner’s duties, the Commissioner:</text>
+      <para>
+        <num>(1)</num>
+        <text>May share documents, materials, or other information, including the confidential and privileged documents, materials, or other information subject to subsection (a) of this section, with other state, federal, and international regulatory agencies; with the National Association of Insurance Commissioners, including its affiliates and subsidiaries; and with state, federal and international law enforcement authorities; provided, that the recipient agrees, and has the legal authority, to maintain the confidentiality and privileged status of the documents, materials, or other information;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May receive documents, materials, or other information, including otherwise confidential and privileged documents, materials, or other information, from the National Association of Insurance Commissioners, and its affiliates and subsidiaries, and from regulatory and law enforcement officials of other foreign or domestic jurisdictions, and shall maintain as confidential or privileged any document, material, or other information received with notice or the understanding that it is confidential or privileged under the laws of the jurisdiction that is the source of the document, material, or other information; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>May enter into agreements governing the sharing and use of information consistent with this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(a-3)</num>
+      <text>No waiver of an applicable privilege or claim of confidentiality in the documents, materials, or other information shall occur as a result of disclosure to the Commissioner under this section or as a result of sharing as authorized in subsection (a-2) of this section. Nothing in this section shall require an insurer to disclose documents, materials, or other information that is not otherwise required by law to be disclosed.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Except as otherwise required under the provisions of this chapter, the making, publishing, disseminating, circulating, or placing before the public, or causing, directly or indirectly to be made, published, disseminated, circulated, or placed before the public, in a newspaper, magazine, or other publication, or in the form of a notice, circular, pamphlet, letter, or poster, or over any radio or television station, or in any other way, an advertisement, announcement, or statement containing an assertion, representation, or statement with regard to the RBC Levels of any insurer, or of any component derived in the calculation, by any insurer, agent, broker, or other person engaged in any manner in the insurance business would be misleading and is therefore prohibited; provided, however, that if any materially false statement with respect to the comparison regarding an insurer’s total adjusted capital to its RBC Levels (or any of them) or an inappropriate comparison of any other amount to the insurers’ RBC Levels is published in any written publication and the insurer is able to demonstrate to the Commissioner with substantial proof the falsity of such statement, or the inappropriateness, as the case may be, then the insurer may publish an announcement in a written publication if the sole purpose of the announcement is to rebut the materially false statement.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The RBC Instructions, RBC Reports, Adjusted RBC Reports, RBC Plans and Revised RBC Plans shall not be used by the Commissioner for ratemaking nor considered or introduced as evidence in any rate proceeding nor used by the Commissioner to calculate or derive any elements of an appropriate premium level or rate of return for any line of insurance which an insurer or any affiliate is authorized to write.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-233">Apr. 9, 1997, D.C. Law 11-233, § 9, 44 DCR 765</annotation>
+        <annotation doc="D.C. Law 13-191">Oct. 21, 2000, D.C. Law 13-191, § 4, 47 DCR 7311</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 4(l)(2), 51 DCR 2817</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§31-2003">31-2003</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4608.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 13-191">D.C. Law 13-191</cite> rewrote subsec. (a) and added subsecs. (a-1) to (a-3). Prior to amendment, subsec. (a) provided: “(a) All RBC Reports (to the extent the information therein is not required to be set forth in a publicly available annual statement schedule) and RBC Plans (including the results or report of any examination or analysis of an insurer performed pursuant hereto and any Corrective Order issued by the Commissioner pursuant to examination or analysis) with respect to any domestic insurer or foreign insurer which are filed with the Commissioner constitute information that might be damaging to the insurer if made available to its competitors, and therefore shall be kept confidential by the Commissioner. This information shall not be made public or be subject to subpoena, other than by the Commissioner and then only for the purpose of enforcement actions taken by the Commissioner pursuant to this chapter or any other provision of the insurance laws of the District. This information is also exempt from any applicable freedom of information law, public records law, public records disclosure law, or other similar statute.”</annotation>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite>, in subsec. (a), substituted “Department of Insurance, Securities, and Banking” for “Department of Insurance and Securities Regulation”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 4(l)(2) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|20"/>
+    <num codify:value="31-2009">10</num>
+    <heading>Supplemental provisions; rules; exemption.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The provisions of this chapter are supplemental to any other provisions of the laws of the District, and shall not preclude or limit any other powers or duties of the Commissioner under such laws, including, but not limited to, Chapter 13 and Chapter 21 of this title.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commissioner may adopt reasonable rules necessary for the implementation of this chapter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commissioner may exempt from the application of this chapter any insurer which;</text>
+      <para>
+        <num>(1)</num>
+        <text>Writes direct business only in the District;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Writes direct annual premiums of $1 million or less; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Assumes no reinsurance in excess of 5% of direct premium written.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-233">Apr. 9, 1997, D.C. Law 11-233, § 10, 44 DCR 765</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4609.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|20"/>
+    <num codify:value="31-2010">11</num>
+    <heading>Foreign Insurers.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any foreign insurer, upon the written request of the Commissioner, shall submit to the Commissioner an RBC Report as of the end of the calendar year just ended on the later of:</text>
+      <para>
+        <num>(1)</num>
+        <text>The date an RBC Report would be required to be filed by a domestic insurer under this chapter; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Fifteen days after the request is received by the foreign insurer.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any foreign insurer shall, at the written request of the Commissioner, promptly submit to the Commissioner a copy of any RBC Plan that is filed with the commissioner of any other state.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In the event of a Company Action Level Event, Regulatory Action Level Event or Authorized Control Level Event, with respect to any foreign insurer as determined under the RBC statute applicable in the state of domicile of the insurer (or, if no RBC statute is in force in that state under the provisions of this chapter), if the insurance commissioner or similar authority of the state of domicile of the foreign insurer fails to require the foreign insurer to file an RBC Plan in the manner specified under that state’s RBC statute (or, if no RBC statute is in force in that state, under § <cite path="§31-2002">31-2002</cite>), the Commissioner may require the foreign insurer to file an RBC Plan with the Commissioner. In such event, the failure of the foreign insurer to file an RBC Plan with the Commissioner shall be grounds to order the insurer to cease and desist from writing new insurance business in the District.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>In the event of a Mandatory Control Level Event with respect to any foreign insurer, if no domiciliary receiver has been appointed with respect to the foreign insurer under the rehabilitation and liquidation statute applicable in the state of domicile of the foreign insurer, the Commissioner may make application to the Superior Court permitted under Chapter 13 of this title with respect to the liquidation of property of foreign insurers found in the District, and the occurrence of the Mandatory Control Level Event shall be considered adequate grounds for the application.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-233">Apr. 9, 1997, D.C. Law 11-233, § 11, 44 DCR 765</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4610.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|20"/>
+    <num codify:value="31-2011">12</num>
+    <heading>Immunity.</heading>
+    <text>There shall be no liability on the part of, and no cause of action shall arise against, the Commissioner or the Department of Insurance, Securities, and Banking or its employees or agents for any action taken by them in the performance of their powers and duties under this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-233">Apr. 9, 1997, D.C. Law 11-233, § 12, 44 DCR 765</annotation>
+        <annotation doc="D.C. Law 15-166">June 11, 2004, D.C. Law 15-166, § 4(l)(3), 51 DCR 2817</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4611.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-166">D.C. Law 15-166</cite> substituted “Department of Insurance, Securities, and Banking” for “Department of Insurance and Securities Regulation”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 4(l)(3) of Consolidation of Financial Services Emergency Amendment Act of 2004 (D.C. Act 15-381, February 27, 2004,  51 DCR 2653).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|20"/>
+    <num codify:value="31-2012">13</num>
+    <heading>Notices.</heading>
+    <text>All notices by the Commissioner to an insurer which may result in regulatory action hereunder shall be effective upon dispatch if transmitted by registered or certified mail, or in the case of any other transmission shall be effective upon the insurer’s receipt of such notice.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-233">Apr. 9, 1997, D.C. Law 11-233, § 13, 44 DCR 765</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4612.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|31|20"/>
+    <num codify:value="31-2013">14</num>
+    <heading>Phase-in provision.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For RBC Reports required to be filed by life insurers with respect to 1993, the following requirements shall apply in lieu of the provisions of §§ <cite path="§31-2003">31-2003</cite>, <cite path="§31-2004">31-2004</cite>, <cite path="§31-2005">31-2005</cite>, and <cite path="§31-2006">31-2006</cite>:</text>
+      <para>
+        <num>(1)</num>
+        <text>In the event of a Company Action Level Event with respect to a domestic insurer, the Commissioner shall take no regulatory action hereunder.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the event of an Regulatory Action Level Event under § <cite path="§31-2004">31-2004</cite>(a)(1), (2), or (3), the Commissioner shall take the actions required under § <cite path="§31-2003">31-2003</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In the event of an Regulatory Action Level Event under § <cite path="§31-2004">31-2004</cite>(a)(4), (5), (6), (7), (8), or (9) or an Authorized Control Level Event, the Commissioner shall take the actions required under § <cite path="§31-2004">31-2004</cite> with respect to the insurer.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In the event of a Mandatory Control Level Event with respect to an insurer, the Commissioner shall take the actions required under § <cite path="§31-2005">31-2005</cite> with respect to the insurer.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>For RBC Reports required to be filed by property and casualty insurers with respect to 1994, the following requirements shall apply in lieu of the provisions of §§ <cite path="§31-2003">31-2003</cite>, <cite path="§31-2004">31-2004</cite>, <cite path="§31-2005">31-2005</cite>, and <cite path="§31-2006">31-2006</cite>:</text>
+      <para>
+        <num>(1)</num>
+        <text>In the event of a Company Action Level Event with respect to a domestic insurer, the Commissioner shall take no regulatory action hereunder.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the event of an Regulatory Action Level Event under § <cite path="§31-2004">31-2004</cite>(a)(1), (2), or (3) the Commissioner shall take the actions required under § <cite path="§31-2003">31-2003</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In the event of an Regulatory Action Level Event under § <cite path="§31-2004">31-2004</cite>(a)(4), (5), (6), (7), (8), or (9) or an Authorized Control Level Event, the Commissioner shall take the actions required under § <cite path="§31-2004">31-2004</cite> with respect to the insurer.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In the event of a Mandatory Control Level Event with respect to an insurer, the Commissioner shall take the actions required under § <cite path="§31-2005">31-2005</cite> with respect to the insurer.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-233">Apr. 9, 1997, D.C. Law 11-233, § 14, 44 DCR 765</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 35-4613.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

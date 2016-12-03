@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 19-168">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 19-168">
   <num type="law">19-168</num>
   <heading type="short">Fiscal Year 2013 Budget Support Act of 2012</heading>
   <meta>
@@ -12,4 +12,980 @@
       <narrative>Law 19-168, the “Fiscal Year 2013 Budget Support Act of 2012,” was introduced in Council and assigned Bill No. 19-743. The Bill was adopted on first and second readings on May 15, 2012, and June 5, 2012, respectively. Signed by the Mayor on June 22, 2012, it was assigned Act No. 19-385 and transmitted to Congress for its review. D.C. Law 19-168 became effective on September 20, 2012.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|21A|II"/>
+    <num codify:value="42-2141">2092</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Affordable housing unit” means a unit of housing that is offered for rent or for sale for residential occupancy and as a result of a federal or District subsidy is made available and affordable to households whose income levels are less than or equal to 120% of the area median income.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Area median income” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>For a household of 4 persons, the area median income for a household of 4 persons in the Washington Metropolitan Statistical Area as set forth in the periodic calculation provided by the United States Department of Housing and Urban Development;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>For a household of 3 persons, 90% of the area median income for a household of 4 persons;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>For a household of 2 persons, 80% of the area median income for a household of 4 persons;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>For a household of one person, 70% of the area median income for a household of 4 persons; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>For a household of more than 4 persons, the area median income for a household of 4 persons, increased by 10% for each household member exceeding 4 persons (for example, the area median income for a family of 5 shall be 110% of the area median income for a family of 4; the area median income for a household of 6 shall be 120% of the area median income for a family of 4).</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Extremely low-income” means a household income equal to 30% or less of the area median income.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Homeless” means a person:</text>
+      <para>
+        <num>(A)</num>
+        <text>Who is lacking a fixed, regular residence that provides safe housing and the financial means to acquire such a residence immediately; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Whose primary night-time residence is:</text>
+        <para>
+          <num>(i)</num>
+          <text>A supervised publicly or privately operated shelter or transitional housing facility designed to provide temporary living accommodations; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>A public or private place not designed for, or ordinarily used as, a regular sleeping accommodation for human beings.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Low-income” means a household income equal to, or less than, 80% of the area median income and greater than 50% of the area median income.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Very low-income” means a household income equal to, or less than, 50% of the area median income and greater than 30% of the area median income.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 2092, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|21A|II"/>
+    <num codify:value="42-2142">2093</num>
+    <heading>Inventory tracking requirements.</heading>
+    <text>No later than December 1, 2012, the Mayor shall transmit to the Council an implementation plan that details the budget and resources necessary to begin tracking the Department of Housing and Community Development’s (“DHCD”) affordable housing inventory. The plan shall explicate the process and analyze the budget and resources necessary to begin tracking the number of:</text>
+    <para>
+      <num>(1)</num>
+      <text>Affordable housing units that remain under affordability restrictions administered by DHCD, including the number of units that are:</text>
+      <para>
+        <num>(A)</num>
+        <text>Made affordable to low-income households;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Made affordable to very low-income households;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Made affordable to extremely low-income households;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Made available for homeownership;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Made available for rent; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Specifically allocated for:</text>
+        <para>
+          <num>(i)</num>
+          <text>Individuals diagnosed with HIV/AIDS;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Individuals diagnosed with a mental illness;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Individuals diagnosed as deaf or hearing impaired;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Individuals, and families, who are homeless;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Individuals who are victims of domestic violence; and</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Individuals diagnosed with a developmental disability;</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Low-income, very low-income, and extremely low-income households and individuals currently residing in the affordable housing units described in paragraph (1) of this section, including those listed in paragraph (1)(F)(i) through (vi) of this section;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Affordable housing units that will exit affordability restrictions within the next 5 years, 10 years, 20 years, 30 years, or 40 years, including a delineation of their affordability levels and whether they are allocated for those individuals listed in paragraph (1)(F)(i) through (vi) of this section; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Affordable housing units in each ward, including a delineation of their affordability levels and whether they are allocated for those individuals listed in paragraph (1)(F)(i) through (vi) of this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 2093, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|7C"/>
+    <num codify:value="32-771">2082</num>
+    <heading>Department of Employment Services quarterly reports on job training and adult education programs.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Beginning on February 15, 2013, the Department of Employment Services (“Department”) shall transmit to the Council on a quarterly basis, and make available on the Department’s website, a report on the outcomes associated with all local funding administered by the Department for job training or adult education purposes. The report shall include the following outcome measures for job training or adult education participants delineated by job training program and vendor:</text>
+      <para>
+        <num>(1)</num>
+        <text>The amount of funding that the program or vendor, or that both the program and the vendor, received;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The number of individuals enrolled in job training or adult education;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The classification of instructional program codes for which they were trained;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The number and percentage of those participants who were referred to the job training program or vendor who completed the job training or adult education program;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The number and percentage of those participants who completed the job training or adult education program who earned a General Educational Diploma, high school diploma, or a noncredit or credit-bearing certificate or degree offered by licensed post-secondary education and training programs or vendors;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Among participants who were unemployed at the start of the program, the number and percentage of participants who completed the job training or adult education program who found employment within 6 months of graduation;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Among participants who found employment within 6 months of graduation, the average wage earned; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Among participants who found employment within 6 months of graduation, the number and percentage of participants who retained employment 6 months after their initial start date.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The report shall also include the following outcome measures for subsidized employment programs, including the Transitional Employment Program (“TEP”), established pursuant to section § <cite path="§32-1331">32-1331</cite>:</text>
+      <para>
+        <num>(1)</num>
+        <text>The number of individuals participating, by month;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The number of private-sector employers that hosted a participant;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The number and percentage of participating residents who receive wages from their employer in addition to their subsidized wage and the average amount of the additional wages;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The average length of placement in the subsidized jobs;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The number and percentage of participants who have been hired into unsubsidized jobs upon completion of the subsidized component of TEP or within 6 months of participating in the program, and the average wages of those hired; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Among program participants who found unsubsidized employment, the number and percentage of participants who retained unsubsidized employment for at least 6 months after their initial unsubsidized start date.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The report shall also include the following outcome measures for training employment programs, including the On-the-Job Training program, established pursuant to § <cite path="§32-241">32-241</cite>(a)(4), the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Number of individuals participating, by month;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Number of private sector employers that hosted a participant;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Average and median wages paid to participants whose employers are then reimbursed by the Department;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Average amount and percentage paid of wage reimbursement per participant;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Average duration of time participants spend in the training component of a program; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Number and percentage of participants who retain employment for an additional 6 months beyond the completion of the training at the same wages and benefits as those in comparable positions who are not associated with a program.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 2082, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|E"/>
+    <num codify:value="1-137.01">1082</num>
+    <heading>Definitions. [Expired.]</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1082, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|E"/>
+    <num codify:value="1-137.02">1083</num>
+    <heading>Home Rule Act 40th Anniversary Celebration and Commemoration Commission. [Expired.]</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1083, 59 DCR 8025</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-137.01">1-137.01</cite> and § <cite path="§1-137.07">1-137.07</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|E"/>
+    <num codify:value="1-137.03">1084</num>
+    <heading>Staffing. [Expired.]</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1084, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|E"/>
+    <num codify:value="1-137.04">1085</num>
+    <heading>Home Rule 40th Anniversary Celebration and Commemoration Fund. [Expired.]</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1085, 59 DCR 8025</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-137.01">1-137.01</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|E"/>
+    <num codify:value="1-137.05">1086</num>
+    <heading>Reporting requirement. [Expired.]</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1086, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|E"/>
+    <num codify:value="1-137.06">1087</num>
+    <heading>Implementation. [Expired.]</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1087, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|E"/>
+    <num codify:value="1-137.07">1088</num>
+    <heading>Use of District funds. [Expired.]</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1088, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|E"/>
+    <num codify:value="1-137.08">1089</num>
+    <heading>Sunset.</heading>
+    <text>This part shall expire on January 31, 2015.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1089, 59 DCR 8025</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, § 1122, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> substituted “January 31, 2015” for “October 1, 2014.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see §  1122 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §  1122 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see §  1122 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XI|V"/>
+    <num codify:value="1-325.211">2033</num>
+    <heading>Neighborhood Parade and Festival Fund established.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a nonlapsing fund the Neighborhood Parade and Festival Fund (“Fund”), which shall be administered by the Commission on Arts and Humanities, to be used for the purposes set forth in subsection (c) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>Deposits into the Fund shall include:</text>
+        <para>
+          <num>(A)</num>
+          <text>Federal funds, if any;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Gifts, grants, and donations; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>An annual appropriation of $107,000.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All funds deposited into the Fund, and any interest earned on those funds, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in subsection (c) of this section without regard to fiscal year limitation, subject to authorization by Congress.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Fund shall be used for parades, festivals, and any other celebrations sponsored by a neighborhood or civic association.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Commission on Arts and Humanities is authorized to make grants for the purposes described in this section. Grants made under this section shall be administered pursuant to the requirements set forth in part B of subchapter XII-A of this chapter [§ <cite path="§1-328.11">1-328.11</cite> et seq.].</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 2033, 59 DCR 8025</annotation>
+        <annotation doc="D.C. Law 20-61">Dec. 24, 2013, D.C. Law 20-61, § 2002(b), 60 DCR 12472</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§39-204">39-204</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> substituted “Commission on Arts and Humanities” for “Deputy Mayor for Planning and Economic Development” in (a); added (b)(1)(C) and made related changes; and added (d).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of section, see § 2033 of the Fiscal Year 2013 Budget Support Emergency Act of 2012 (D.C Act 19-383, June 19, 2012,  59 DCR 7764).</annotation>
+        <annotation>For temporary addition of section, see § 2035 of the Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012,  59 DCR 9290).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2002(b) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2002(b) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Section 2001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle A of Title II of the act may be cited as the “Deputy Mayor for Planning and Economic Development Limited Grant-Making Authority Amendment Act of 2013”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 11001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XII-A|A"/>
+    <num codify:value="1-328.04">2032</num>
+    <heading>Deputy Mayor for Planning and Economic Development grant-making authority.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Deputy Mayor for Planning and Economic Development (“Deputy Mayor”) shall have grant-making authority for the purpose of providing:</text>
+      <para>
+        <num>(1)</num>
+        <text>Funds in support of the Skyland project;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Commercial revitalization services for properties adjacent to the Skyland project; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Repealed;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Funds for the creation of affordable housing for District residents.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Deputy Mayor may make grants for fiscal year 2013 as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>An amount of $100,000 for sector consultants;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An amount of $350,000 for local business promotion;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An amount of $75,000 for regional economic development;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An amount of $50,000 for the Bank on DC program;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>An amount of up to $700,000 for the purpose of providing interior tenant improvement assistance to an entity that agrees to operate a table service restaurant at 3220 Pennsylvania Avenue, S.E., also commonly known as the Penn Branch Shopping Center; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>An amount of $800,000 for the purpose of providing assistance to a mixed- use development located in Ward 7, including 100% affordable housing units supporting former Lincoln Heights residents.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b-1)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Deputy Mayor may make grants for fiscal year 2014 as follows:</text>
+        <para>
+          <num>(A)</num>
+          <text>An amount of $100,000 for sector consultants;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>An amount of $350,000 for local business promotion;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>An amount of $75,000 for regional economic development; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>An amount of $50,000 for increasing access to financial services and products to unbanked and under-banked residents.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Grants made pursuant to this subsection shall be administered pursuant to the requirements set forth in part B of subchapter XII-A of this chapter [§ <cite path="§1-328.11">1-328.11</cite> et seq.].</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In addition to the grant-making authority provided in subsection (a)(4) of this section, the Deputy Mayor shall have the authority to issue loans for the creation of affordable housing for District residents.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 2032, 59 DCR 8025</annotation>
+        <annotation doc="D.C. Law 20-61">Dec. 24, 2013, D.C. Law 20-61, § 2002(a), 60 DCR 12472</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> repealed (a)(3); and added (b-1).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 days) amendment of this section, see § 2 of the Deputy Mayor Planning and Economic Development Limited Grant-Making Authority Temporary Amendment Act of 2013 (<cite doc="D.C. Law 20-12">D.C. Law 20-12</cite>, July 13, 2013,  60 DCR 7238, 20 DCSTAT 1759).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 2 of the Deputy Mayor Planning and Economic Development Limited Grant-Making Authority Emergency Act of 2013 (D.C. Act 20-48, April 12, 2013,  60 DCR 5770, 20 DCSTAT 1354).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2 of the Deputy Mayor for Planning and Economic Development Limited Grant-Making Authority Congressional Review Emergency Act of 2013 (D.C. Act 20-132, July 30, 2013,  60 DCR 11529, 20 DCSTAT 1971).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2002(a) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 2002(a) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Section 2001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle A of Title II of the act may be cited as the “Deputy Mayor for Planning and Economic Development Limited Grant-Making Authority Amendment Act of 2013”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 11001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVII"/>
+    <num codify:value="1-350.01">1042</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Central Collection Unit” means the Central Collection Unit established within the Office of Finance and Treasury of the Office of the Chief Financial Officer to implement this subchapter.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Delinquent debt” means any financial obligation owed by a person to a District agency that remains unpaid more than 90 days after it was due; provided, that the term shall not include tax debts or child-support debts.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Delinquent Debt Fund” or “Fund” means the Delinquent Debt Fund established by § <cite path="§1-350.04">1-350.04</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“District agency” means any District office, department, or agency, including independent agencies, but not including the District of Columbia Water and Sewer Authority.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Person” means any natural person, trust, corporation, limited liability corporation, partnership, limited liability partnership, or any other business organization.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1042, 59 DCR 8025</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-1251.01">38-1251.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of subchapter, see §§ 10<cite path="§42-1053">42-1053</cite> of the Fiscal Year 2013 Budget Support Congressional Review Emergency Act of 2012 (D.C. Act 19-413, July 25, 2012,  59 DCR 9290).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVII"/>
+    <num codify:value="1-350.02">1043</num>
+    <heading>Responsibility of District agencies to transfer and refer delinquent debt to the Central Collection Unit for collection.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsections (a-1) and (a-2) of this section, notwithstanding any other provision of law, regulation, or Mayor’s order, each District agency shall transfer and refer delinquent debts to the Central Collection Unit within 60 days after a financial obligation owed by a person to the District becomes a delinquent debt.</text>
+    </para>
+    <para>
+      <num>(a-1)</num>
+      <text>The University of the District of Columbia shall transfer and refer unpaid student tuition, student fees, and student loans to the Central Collection Unit within one year after the end of the semester in which the student tuition, student fees, and student loans were incurred.</text>
+    </para>
+    <para>
+      <num>(a-2)</num>
+      <text>Beginning in fiscal year 2014 and for each fiscal year thereafter, funds collected and recovered by the Central Collection Unit arising out of delinquent debts transferred and referred to the Central Collection Unit by the Not-For-Profit Hospital Corporation for collection, net of costs and fees, shall be deposited into the Not-For-Profit Hospital Corporation Fund by the Central Collection Unit within 60 days following the then current fiscal year.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A transfer and referral of a delinquent debt to the Central Collection Unit shall include all documentation and information relating to the delinquent debt, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Documents that verify the existence and amount of the delinquent debt; (2) The name and last known address of the delinquent debtor; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any notices issued to the delinquent debtor demanding payment.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The procedure for transfer and referral of delinquent debt by each District agency to the Central Collection Unit, including the format and means of delivery of the information, shall be established by the Central Collection Unit within 120 days of September 20, 2012.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1043, 59 DCR 8025</annotation>
+        <annotation doc="D.C. Law 20-61">Dec. 24, 2013, D.C. Law 20-61, § 7032(a), 60 DCR 12472</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-350.04">1-350.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> added “Except as provided in subsections (a-1) and (a-2) of this section” in (a); and added (a-1) and (a-2).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 7032(a) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 7032(a) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Section 7031 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle C of Title VII of the act may be cited as the “Delinquent Debt Recovery Amendment Act of 2013”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 11001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVII"/>
+    <num codify:value="1-350.02a">1043a</num>
+    <heading>Collection on behalf of the University of the District of Columbia.</heading>
+    <text>Funds collected and recovered by the Central Collection Unit, beginning in fiscal year 2014 and continuing in the following fiscal years, arising out of delinquent debts transferred and referred to the Central Collection Unit by the University of the District of Columbia for collection, net of cost and fees, shall be deposited into the University of the District of Columbia Debt Collection Fund established pursuant to § <cite path="§38-1251.01">38-1251.01</cite>, by the Central Collection Unit within 60 days following the then current fiscal year.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1043a</annotation>
+        <annotation doc="D.C. Law 20-61">as added Dec. 24, 2013, D.C. Law 20-61, § 7032(b), 60 DCR 12472</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>University of the District of Columbia Debt Collection Fund, § <cite path="§38-1251.01">38-1251.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> added this section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 7032(b) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
+        <annotation>For temporary (90 days) addition of this section, see § 7032(b) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Section 7031 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle C of Title VII of the act may be cited as the “Delinquent Debt Recovery Amendment Act of 2013”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 11001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVII"/>
+    <num codify:value="1-350.03">1044</num>
+    <heading>Imposition of costs and fees.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Central Collection Unit may prescribe, impose, and collect fees from debtors to cover actual costs or expenses associated with the collection of delinquent debt.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In addition to the authority to impose and collect fees to cover actual costs or expenses associated with the collection of delinquent debt, the Central Collection Unit may prescribe and impose a fee to be paid by each person who tenders in payment of a financial obligation owed to the District, including a tax, assessment, fee, citation, or charge, a check that is subsequently dishonored or not duly paid, or whose delinquent debt is transferred and referred to the Central Collection Unit for action. The amount of the fee shall be set by regulations established by the Central Collection Unit.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1044, 59 DCR 8025</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-350.04">1-350.04</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVII"/>
+    <num codify:value="1-350.04">1045</num>
+    <heading>Delinquent Debt Fund.</heading>
+    <text>There is established within the General Fund of the District of Columbia a special nonlapsing fund known as the Delinquent Debt Fund (“Fund”). Funds allocated to the Central Collection Unit through the District’s annual Budget and Financial Plan, all delinquent debts collected by the Central Collection Unit, except those amounts collected by the Central Collection Unit described in § <cite path="§1-350.02">1-350.02</cite>(a-1) and (a-2), and all fees authorized by § <cite path="§1-350.03">1-350.03</cite> shall be deposited into the Fund; provided, that any funds deposited in the Fund before the then-current fiscal year, including any interest earned on such funds before the then-current fiscal year, the money remaining in the Fund after the payment of all costs and expenses accrued before the then-current fiscal year, less 10% of such remainder, which shall be retained as a reserve operating balance, shall be transferred or revert to the General Fund of the District of Columbia. All funds deposited in the Fund shall be administered and used by the Central Collection Unit, subject to appropriation by Congress, to conduct the authorized activities of the Central Collection Unit.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1045, 59 DCR 8025</annotation>
+        <annotation doc="D.C. Law 20-61">Dec. 24, 2013, D.C. Law 20-61, § 7032(c), 60 DCR 12472</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-350.01">1-350.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> added “except those amounts collected by the Central Collection Unit described in § <cite path="§1-350.02">1-350.02</cite>(a-1) and (a-2)” in the second sentence.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 7032(c) of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 7032(c) of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Section 7031 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle C of Title VII of the act may be cited as the “Delinquent Debt Recovery Amendment Act of 2013”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 11001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVII"/>
+    <num codify:value="1-350.05">1046</num>
+    <heading>Lien for delinquent debt.</heading>
+    <para>
+      <num>(a)</num>
+      <text>If a person liable to pay a delinquent debt neglects or refuses to pay the delinquent debt after demand by the Central Collection Unit, the amount, including any interest and any fees imposed for collection of the delinquent debt that may accrue, shall be a lien in favor of the District of Columbia upon all property (including rights to property), whether real or personal, belonging to the person, and shall have the same effect as a lien created by judgment. The lien shall attach to all real or personal property (including rights to property) belonging to, or acquired by, the person at any time during the period of the lien.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The lien imposed by subsection (a) of this section shall be deemed to have arisen on the 91st day after the debt became due and owing to the District and shall continue until the delinquent debt is satisfied or becomes unenforceable.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The lien imposed by subsection (a) of this section shall not be valid against a bona fide purchaser for value, holder of a security interest, mechanic’s lien, or judgment lien creditor until the lien has been filed with the Recorder of Deeds by the Central Collection Unit.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Upon transferring a delinquent debt to the Central Collection Unit, a transferring agency’s authority to file a lien for that debt shall terminate.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1046, 59 DCR 8025</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>For temporary (225 days) addition of provisions requiring the Office of the Chief Financial Officer to review all residential real property tax liens sold between September 1, 2003, and September 1, 2013, see § 2 of the Tax Lien Compensation and Relief Reporting Temporary Act of 2013 (<cite doc="D.C. Law 20-54">D.C. Law 20-54</cite>, December 13, 2013,  60 DCR 15161).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of provisions requiring the Office of the Chief Financial Officer to review all residential real property tax liens sold between September 1, 2003, and September 1, 2013, see § 2 of the Tax Lien Compensation and Relief Reporting Emergency Act of 2013 (D.C. Act 20-176, October 4, 2013,  60 DCR 14940).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVII"/>
+    <num codify:value="1-350.06">1047</num>
+    <heading>Payment plans; discharge of delinquent debt; sale of delinquent debt; report to credit agencies.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Subject to subsection (b) of this section, the Central Collection Unit, in its discretion, may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Enter into payment plan agreements with persons for payment of delinquent debt; provided, that no payment plan shall exceed a term of 5 years;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Discharge as uncollectible a delinquent debt that is older than 10 years;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Settle a delinquent debt for less than the full amount owed;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Report delinquent debts to credit agencies;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Sell delinquent debt; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Refer a delinquent debt to the Office of the Attorney General for the District of Columbia for civil or administrative collection or enforcement actions.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The authority described in subsection (a) of this section shall become effective upon the issuance of an order by the Mayor delegating the Mayor’s authority, pursuant to §§ <cite path="§2-402">2-402</cite> through <cite path="§2-406">2-406</cite>, as is necessary to carry out the purposes of this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1047, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVII"/>
+    <num codify:value="1-350.07">1048</num>
+    <heading>Suspension of licenses and permits.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Each District agency that transfers and refers a delinquent debt of more than $100 to the Central Collection Unit for collection shall, within 5 days of the transfer and referral, suspend the granting or issuance of any District license or permit to the delinquent debtor. The suspension shall remain in effect until the Central Collection Unit notifies the appropriate District agency that the delinquent debt has been satisfied.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Each District agency that suspends the granting or issuance of a District license or permit pursuant to this section shall provide written or electronic notice of the suspension to the Central Collection Unit within 5 days of the suspension.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Central Collection Unit shall provide to all District agencies, within 10 days of the end of the preceding month, a list of the names of all persons currently subject to suspension of the granting or issuing of a District license or permit due to delinquent debt of more than $100.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1048, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVII"/>
+    <num codify:value="1-350.08">1049</num>
+    <heading>Reciprocal agreements.</heading>
+    <text>The Central Collection Unit may enter into reciprocal agreements for the collection of delinquent debts with any state, local, or municipal government.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1049, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVII"/>
+    <num codify:value="1-350.09">1050</num>
+    <heading>Offset of delinquent debt against District employee pay and against contractual obligations to District contractors.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Central Collection Unit may collect delinquent debt from District employees by deducting delinquent debt from the biweekly pay of District employees, in an amount not to exceed 10% of an employee’s gross biweekly pay, until the delinquent debt is fully satisfied.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a District employee’s wages are subject to a preexisting attachment or attachments, the Central Collection Unit shall not exercise its authority under paragraph (1) of this subsection until the preexisting attachments have been satisfied, in order of priority.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Central Collection Unit may collect delinquent debt from District contractors by deducting the delinquent debt from any amounts owed to a District contractor pursuant to a contractual obligation between the District and the contractor.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the purposes of this subsection, the term:</text>
+        <para>
+          <num>(A)</num>
+          <text>“Contractual obligation” includes an obligation arising from a contract or a grant agreement described in subparagraph (B) of this paragraph that is entered into after September 20, 2012.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>“District contractor” includes any person who receives payments from the District pursuant to a contract or a grant agreement that requires the grantee to perform services in consideration for the payment of the grant amount.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Central Collection Unit may collect delinquent debts by offsetting District tax refunds and District lottery winnings against delinquent debts owed to the District.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1050, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVII"/>
+    <num codify:value="1-350.10">1051</num>
+    <heading>Consumer protection.</heading>
+    <text>The Central Collection Unit and any outside parties it engages to collect delinquent debt shall fully comply with the Fair Debt Collection Practices Act, approved September 20, 1977 (91 Stat. 874; 15 U.S.C. § 1692   et seq.), Chapter 39 of Title 28 [§ <cite path="§28-3901">28-3901</cite> et seq.], and all other federal and District laws and rules that govern collection of delinquent debt.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1051, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVII"/>
+    <num codify:value="1-350.11">1052</num>
+    <heading>Report to the Council.</heading>
+    <text>On or before March 1 of each year, the Central Collection Unit shall issue a report to the Mayor and the Council that includes:</text>
+    <para>
+      <num>(1)</num>
+      <text>The amount of delinquent debt collected in the preceding fiscal year;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The amount of uncollected delinquent debt owed to the District; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A summary of the efforts made to collect delinquent debt owed to the District and the challenges that remain for collecting it.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1052, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|XVII"/>
+    <num codify:value="1-350.12">1053</num>
+    <heading>Rules.</heading>
+    <text>Within 120 days of September 20, 2012, the Chief Financial Officer shall issue rules to implement the provisions of this subchapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 1053, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|21A|II"/>
+    <num codify:value="8-2141.01">5022</num>
+    <heading>Annual mosquito control and abatement plan.</heading>
+    <text>Beginning March 31, 2013, and annually thereafter, the Department of Health shall develop and submit to the Council a mosquito-abatement plan, delineated by ward, for the following fiscal year to prevent and abate the infestation of mosquitoes, which shall, at a minimum, include a:</text>
+    <para>
+      <num>(1)</num>
+      <text>Determination of which wards are in greatest need of mosquito abatement;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Plan of action to eliminate the habitats of immature mosquitoes and control immature and adult mosquitoes;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Plan to ensure that eradication measures are not injurious to pets or wildlife; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Delineation of the costs associated with the entire plan.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 19-168">Sept. 20, 2012, D.C. Law 19-168, § 5022, 59 DCR 8025</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,10 +1,103 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 59-2-ch3073">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 59-2-ch3073">
+  <heading/>
   <meta>
     <effective>1906-06-11</effective>
     <cites>
-        <law congress="59" session="2" chapter="3073"/>
+      <law congress="59" session="2" chapter="3073"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|35|3"/>
+    <num codify:value="35-301">1</num>
+    <heading>Liability of common carriers for injuries to employees.</heading>
+    <text>Every common carrier engaged in trade or commerce in the District of Columbia, or in any territory of the United States, or between the several states, or between any territory and another, or between any territory or territories and any state or states, or the District of Columbia, or with foreign nations, or between the District of Columbia and any state or states or foreign nations, shall be liable to any of its employees, or, in the case of his death, to his personal representative for the benefit of his widow and children, if any, if none, then for his parents, if none, then for his next of kin dependent upon him, for all damages which may result from the negligence of any of its officers, agents, or employees, or by reason of any defect or insufficiency due to its negligence in its cars, engines, appliances, machinery, track, roadbed, ways, or works.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 11, 1906, 34 Stat. 232, ch. 3073, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§35-305">35-305</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-401.</annotation>
+        <annotation>1973 Ed., § 44-401.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|35|3"/>
+    <num codify:value="35-302">2</num>
+    <heading>Contributory negligence no bar to recovery.</heading>
+    <text>In all actions brought against any common carriers to recover damages for personal injuries to an employee, or where such injuries have resulted in his death, the fact that the employee may have been guilty of contributory negligence shall not bar a recovery where his contributed negligence was slight and that of the employer was gross in comparison, but the damages shall be diminished by the jury in proportion to the amount of negligence attributable to such employee. All questions of negligence and contributory negligence shall be for the jury.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 11, 1906, 34 Stat. 232, ch. 3073, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-402.</annotation>
+        <annotation>1973 Ed., § 44-402.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|35|3"/>
+    <num codify:value="35-303">3</num>
+    <heading>Insurance contracts no bar to recovery.</heading>
+    <text>No contract of employment, insurance, relief benefit, or indemnity for injury or death entered into by or on behalf of any employee, nor the acceptance of any such insurance, relief benefit, or indemnity by the person entitled thereto, shall constitute any bar or defense to any action brought to recover damages for personal injuries to or death of such employee; provided, however, that upon the trial of such action against any common carrier the defendant may set off therein any sum it has contributed toward any such insurance, relief benefit, or indemnity that may have been paid to the injured employee, or, in case of his death, to his personal representative.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 11, 1906, 34 Stat. 232, ch. 3073, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-403.</annotation>
+        <annotation>1973 Ed., § 44-403.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|35|3"/>
+    <num codify:value="35-304">4</num>
+    <heading>Commencement of action.</heading>
+    <text>No action shall be maintained under this chapter unless commenced within 1 year from the time the cause of action accrued.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 11, 1906, 34 Stat. 232, ch. 3073, § 4</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-404.</annotation>
+        <annotation>1973 Ed., § 44-404.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|35|3"/>
+    <num codify:value="35-305">5</num>
+    <heading>Certain prior laws not affected.</heading>
+    <text>Nothing in §§ <cite path="§35-301">35-301</cite> to 35-304, inclusive, shall be held to limit the duty of common carriers by railroads or impair the rights of their employees under the Safety Appliance Act of March 2, 1893, as amended April 1, 1896, and March 2, 1903.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>June 11, 1906, 34 Stat. 233, ch. 3073, § 5</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 44-405.</annotation>
+        <annotation>1973 Ed., § 44-405.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>The Act of March 2, 1893, as amended, referred to in this section, was codified as  45 U.S.C. § 1 et seq., and was repealed in 1994 by P.L. 103-272, § 7(b). For present law, see  49 U.S.C. § 20301 et seq.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

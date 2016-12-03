@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 4-42">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 4-42">
   <num type="law">4-42</num>
   <heading type="short">Governmental Reorganization Procedures Act of 1981</heading>
   <meta>
@@ -12,4 +12,432 @@
       <narrative>Law 4-42, the “Governmental Reorganization Procedures Act of 1981,” was introduced in Council and assigned Bill No. 4-197, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on June 16, 1981 and June 30, 1981, respectively. Signed by the Mayor on July 23, 1981, it was assigned Act No. 4-71 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|VI"/>
+    <num codify:value="1-315.01">2</num>
+    <heading>Purposes.</heading>
+    <text>The Council of the District of Columbia (“Council”) declares that it is the policy of the District of Columbia government (“District government”) to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Promote better execution of laws, more effective management of the District government and of its agencies and functions, and promote the expeditious administration of public business;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Reduce expenditures, promote economy, and increase efficiency to the fullest extent practicable with respect to the District government operations; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Eliminate overlapping and duplication of effort by means of grouping, consolidating, or coordinating agencies and functions to the fullest extent consistent with the efficient operation of the District government.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-42">Oct. 17, 1981, D.C. Law 4-42, § 2, 28 DCR 3425</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-315.03">1-315.03</cite>, § <cite path="§1-523.01">1-523.01</cite>, and § <cite path="§34-2202.07">34-2202.07</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-299.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority pursuant to <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, the Fiscal Year 2005 the Budget Support Act of 2004, the Fiscal Year 2006 the Budget Support Act of 2005, and <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite>, the Fiscal Year 2007 the Budget Support Act of 2006, see Mayor’s Order 2007-143, June 20, 2007 ( 54 DCR 9598).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|VI"/>
+    <num codify:value="1-315.02">3</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Agency” means any office, department, division, board, commission, or other agency of the District government, required by law or by the Mayor or Council to administer any law or any rule adopted under the authority of a law. The term “agency” does not include: The Superior Court of the District of Columbia, the District of Columbia Court of Appeals, those agencies identified in §§ <cite path="§1-1001.03">1-1001.03</cite>, <cite path="§3-302">3-302</cite>, <cite path="§6-621.01">6-621.01</cite>, <cite path="§1-204.95">1-204.95</cite> [repealed] and 34-801, or the Executive Office of the Mayor as defined in this subchapter.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Reorganization” is the process described in § <cite path="§1-315.03">1-315.03</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Executive Office of the Mayor” means those offices or agencies expressly established to provide managerial, budgetary, personnel, secretarial, planning, informational, and special assistance to the Mayor in carrying out the Mayor’s administrative functions in the management of the District government. The term “Executive Office of the Mayor” does not include the Office of Personnel established by § <cite path="§1-604.02">1-604.02</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Rule” means the whole or any part of any Mayor’s, Council’s, or agency’s statement of general or particular applicability and future effect designed to implement, interpret, or prescribe law or policy, or to describe the organization, procedure, or practice requirement of the Mayor, Council, or of any agency.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Boards and commissions” means bodies established by law or by order of the Mayor consisting of appointed members to perform a trust or execute official functions on behalf of the District government.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-42">Oct. 17, 1981, D.C. Law 4-42, § 3, 28 DCR 3425</annotation>
+        <annotation doc="D.C. Law 10-68">Feb. 5, 1994, D.C. Law 10-68, § 4(a), 40 DCR 6311</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-299.2.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|VI"/>
+    <num codify:value="1-315.03">4</num>
+    <heading>Process of reorganization defined.</heading>
+    <text>For the purposes of carrying out the objectives of § <cite path="§1-315.01">1-315.01</cite>, the process of reorganization means that action which results in the transfer, consolidation, abolition, or authorization with respect to functions and hierarchy, between or among agencies, and which affects the structure or structures thereof, at the control or responsibility center level(s), including, but not limited to:</text>
+    <para>
+      <num>(1)</num>
+      <text>The transfer of the whole or part of an agency, or the whole or part of the functions thereof, to the jurisdiction and control of another agency;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The consolidation of the whole or part of an agency, or the whole or part of the functions thereof, with the whole or part of another agency or the functions thereof;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The abolition of the whole or part of an agency wherein such agency or part thereof does not have or will not have any functions; or</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The authorization of an officer or agency head to delegate functions vested in specific officers or agency heads not presently authorized to be delegated, except as provided in § <cite path="§1-204.22">1-204.22</cite>(6).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-42">Oct. 17, 1981, D.C. Law 4-42, § 4, 28 DCR 3425</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-315.02">1-315.02</cite> and § <cite path="§1-315.04">1-315.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-299.3.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|VI"/>
+    <num codify:value="1-315.04">5</num>
+    <heading>Preparation, transmittal, publication, and effective date of reorganization plan.</heading>
+    <para>
+      <num>(a)</num>
+      <text>When, after investigation, the Mayor finds that it is necessary to accomplish 1 or more purposes of § <cite path="§1-315.03">1-315.03</cite>, he or she shall prepare a detailed reorganization plan consistent with such findings, which are included in the plan, and shall transmit the plan bearing an identification number to the Council.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Upon transmittal of the proposed reorganization plan, the Mayor shall cause the same to be published in the District of Columbia Register.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The reorganization plan shall become effective on the 61st day following receipt by the Council, excluding Saturdays, Sundays, and holidays: Provided, that the Council does not adopt, within such 60 days, a resolution disapproving such reorganization plan.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Unless the Council has adopted a disapproval resolution by the time of the request, the Mayor may, by written request transmitted to the Chairman of the Council, withdraw a reorganization plan prior to the expiration of the 60-day review period.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-42">Oct. 17, 1981, D.C. Law 4-42, § 5, 28 DCR 3425</annotation>
+        <annotation doc="D.C. Law 5-24">Aug. 2, 1983, D.C. Law 5-24, § 10, 30 DCR 3341</annotation>
+        <annotation doc="D.C. Law 7-201">Mar. 16, 1989, D.C. Law 7-201, § 4(a), 36 DCR 248</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>National capital revitalization corporation, transfer of authority from office of economic development, see § <cite path="§2-1219.29">2-1219.29</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-315.05">1-315.05</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-299.4.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Mayor's Orders</heading>
+        <annotation>Implementation of Reorganization Plan No. 2 of 1992, Establishment of the District of Columbia Office of Tourism and Promotions: See Mayor’s Order 93-81, June 21, 1993.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Reorganization Plan #2 of 1993 for the Office of the Assistant City Administrator for Human Resources Development Approval Resolution of 1993: Pursuant to Resolution 10-123, effective August 6, 1993, the Council approved Reorganization Plan #2 of 1993 for the Office of the Assistant City Administrator for Human Resources Development.</text>
+        <text>Reorganization Plan No. 6 of 1993 Transferring the Bureau of Correctional Services from the Department of Human Services to the Department of Corrections Disapproval Resolution of 1993: Pursuant to Resolution 10-211, effective December 17, 1993, the Council disapproved Reorganization Plan No. 6 of 1993 transferring the Bureau of Correctional Services from the Department of Human Services to the Department of Corrections.</text>
+        <text>Reorganization Plan No. 4 of 1996: The administrative and management support functions in the Department of Human Services as set forth in Sections III. (A), (B), (C), (D), (E), and (F), of Reorganization Plan No. 3 of 1986, dated January 3, 1987, that relate to the functions set forth in section V. (A)(I) above were transferred to the Department of Health.</text>
+        <text>Reorganization Plan No. 4 of 1996: Pursuant to Reorganization Plan No. 4 of 1996, each of the functions assigned, and authorities delegated to the Director of the Department of Human Services as set forth in Sections III. (K), (L), and (P), of Reorganization Plan No. 3 of 1986, dated January 3, 1987; and.</text>
+        <text>Reorganization Plan No. 5 of 1996: Pursuant to Reorganization Plan No. 5 of 1996, the function of providing mental health services to inmates in Department of Corrections facilities provided by the Bureau of Correctional Services, Commission on Mental Health Services, were transferred to the Department of Corrections.</text>
+        <text>International Business Program abolished: Pursuant to Reorganization Plan No. 7 of 1996, effective December 13, 1996, the International Business Program in the Office of Economic Development was abolished and its functions transferred to the Office of International Affairs which was created as an independent subordinate agency within the Executive Office of the Mayor. Additionally, Reorganization Plan No. 7 of 1996 transferred to the Office of International Affairs, 2 International Business Program positions, associated property, records and unexpended balances of appropriations, and other funds, if any, that related to the positions and functions assigned to the Office of International Affairs.</text>
+        <text>Transfer of powers, duties, and responsibilities from Office of Economic Development: Section 30(d) of <cite doc="D.C. Law 12-144">D.C. Law 12-144</cite> provided for the transfer of the powers, duties, and responsibilities of the Office of Economic Development to the Board of Directors of the National Capital Revitalization Corporation, and for the abolition of the Office of Economic Development.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|VI"/>
+    <num codify:value="1-315.05">6</num>
+    <heading>Contents and format of reorganization plan.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A reorganization plan transmitted by the Mayor pursuant to § <cite path="§1-315.04">1-315.04</cite> shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>In such cases as the Mayor deems necessary, change the name of an agency or part of an agency affected by reorganization and the title of its head, designate the name of the agency resulting from the reorganization, and the title of its head;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide for the transfer or other disposition of the records, property, and personnel affected by the reorganization;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide for the transfer of such unexpended balances of appropriations and other funds available for use in connection with a function or agency affected by a reorganization as the Mayor deems necessary by reason of such reorganization for use by the agency which shall be responsible for the function after the reorganization plan becomes effective: Provided, however, that all such unexpended balances so transferred may be used only for the purposes for which the appropriation was originally made;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Provide for the termination of the affairs of an agency abolished as a result of the reorganization;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Provide a timetable for the implementation of the reorganization;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Provide for reporting and evaluation systems that will allow for the results of the plan to be measured; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Be in the following format:</text>
+        <para>
+          <num>(A)</num>
+          <text>Mayor’s statement;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Reorganization plan;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Section-by-section analysis;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Rationale for the reorganization plan:</text>
+          <para>
+            <num>(i)</num>
+            <text>Problems with the present organization;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Recent reorganization studies and recommendations, if any; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Expected benefits and improvements;</text>
+          </para>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Functional Organization Chart of each affected agency:</text>
+          <para>
+            <num>(i)</num>
+            <text>Existing; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Proposed;</text>
+          </para>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Staffing organizational chart indicating grade and source of funding for each position:</text>
+          <para>
+            <num>(i)</num>
+            <text>Existing; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Proposed;</text>
+          </para>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>Budget data relevant to present and proposed operations of entities to be reorganized:</text>
+          <para>
+            <num>(i)</num>
+            <text>Impact on financial management system budget structure:</text>
+            <para>
+              <num>(I)</num>
+              <text>Control centers; and</text>
+            </para>
+            <para>
+              <num>(II)</num>
+              <text>Responsibility centers;</text>
+            </para>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Impact on budget organization:</text>
+            <para>
+              <num>(I)</num>
+              <text>Total budget comparisons;</text>
+            </para>
+            <para>
+              <num>(II)</num>
+              <text>Changes in budget organization (grants and appropriated funds combined); and</text>
+            </para>
+            <para>
+              <num>(III)</num>
+              <text>Changes detailed by grant and appropriated funds by responsibility center;</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(H)</num>
+          <text>Transition planning and employee protection; and</text>
+        </para>
+        <para>
+          <num>(I)</num>
+          <text>Training needs.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall include, in his or her transmittal message to accompany the plan, the statutory authority for the exercise of the function(s) affected, and an itemization, to the extent practicable, of the reduction of expenditures as a probable result of the reorganization.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A reorganization plan may provide for appointment with the advice and consent of the Council and the salary of the agency head (including an agency resulting from a consolidation or other type of reorganization) if the Mayor finds, and his or her transmittal message declares, that by reason of a reorganization made pursuant to the plan, such provisions are necessary.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-42">Oct. 17, 1981, D.C. Law 4-42, § 6, 28 DCR 3425</annotation>
+        <annotation doc="D.C. Law 10-68">Feb. 5, 1994, D.C. Law 10-68, § 4(b), 40 DCR 6311</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-731">7-731</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-299.5.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|VI"/>
+    <num codify:value="1-315.06">7</num>
+    <heading>Transmittal of District of Columbia government organization chart.</heading>
+    <text>The Mayor shall annually submit to the Council, on or before February 1st for a 45-day period of review, a revised chart detailing the organization and structure of the District government that shall reflect any reorganization plans or legislative changes relating to the structure of the District government. If the Council does not approve or disapprove the chart, by resolution, within a 45-day review period, excluding Saturdays, Sundays, holidays, and days of Council recess, the chart shall be deemed approved.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-42">Oct. 17, 1981, D.C. Law 4-42, § 7, 28 DCR 3425</annotation>
+        <annotation doc="D.C. Law 7-201">Mar. 16, 1989, D.C. Law 7-201, § 4(b), 36 DCR 248</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-299.6.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Mayor's Orders</heading>
+        <annotation>Establishment — Historical Records Advisory Board, see Mayor’s Order 2002-150, September 13, 2002 ( 49 DCR 8615).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Official organizational structure of District government: Pursuant to this section, the organizational structure set forth below is the official organizational structure of the District of Columbia government as enacted by <cite doc="D.C. Law 7-139">D.C. Law 7-139</cite>.</text>
+        <text>Commission on Cooperative Economic Development abolished: Section 401(k) of <cite doc="D.C. Law 12-86">D.C. Law 12-86</cite>, effective April 29, 1998, provided that the Commission on Cooperative Economic Development, established by Mayor’s Order 80-168, issued May 29, 1980 ( 27 DCR 2596), is abolished. Community Advisory Board on the Deinstitutionalization of Forest Haven abolished: Section 401(m) of <cite doc="D.C. Law 12-86">D.C. Law 12-86</cite>, effective April 29, 1998 provided that the community Advisory Board on the Deinstitutionalization of Forest Haven, established by Mayor’s Order 86-177, issued October 1, 1986 ( 33 DCR 6963), is abolished. History Records Advisory Board abolished: Section 401(q) of <cite doc="D.C. Law 12-86">D.C. Law 12-86</cite>, effective April 29, 1998, provided that the Historical Records Advisory Board, established by Mayor’s Order 84-35, issued February 10, 1984 ( 31 DCR 799), is abolished. Traffic Safety Advisory Committee abolished: Section 401(cc) of <cite doc="D.C. Law 12-86">D.C. Law 12-86</cite>, effective April 29, 1998, provided that the Traffic Safety Advisory Committee, established by Mayor’s Order 84-228, issued December 13, 1984 ( 32 DCR 226), is abolished. Mayor’s Policy Advisory Committee for Weatherization of Low-Income Homes abolished: Section 401(ee) of <cite doc="D.C. Law 12-86">D.C. Law 12-86</cite>, effective April 29, 1998, provided that the Mayor’s Policy Advisory Committee for Weatherization of Low-Income Homes, established by Mayor’s Order 89-12, issued January 6, 1989 ( 36 DCR 1260), is abolished.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|VI"/>
+    <num codify:value="1-315.07">8</num>
+    <heading>Report on District boards and commissions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall, within 60 days of October 17, 1981, transmit to the Council a report on all boards and commissions in existence during the preceding 12-month period by major categories by 1 of the following functions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Institutional governance boards;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Independent regulatory boards;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Judicial boards;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Appeals boards;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Procedural boards;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Institutional licensure boards;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Occupational and professional licensure boards;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>State planning boards; or</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Advisory boards.</text>
+      </para>
+      <afterText>The report shall include the name, functions, status, composition, date and authority for its creation, the total estimated annual cost to the District government to fund, service, supply, and maintain such board or commission, and the agency responsible for providing the necessary support for the board or commission.</afterText>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall, within 90 days after October 17, 1981, issue in accordance with subchapter I of Chapter 5 of Title 2, rules and regulations establishing criteria for evaluating all boards and commissions to determine whether such board or commission should be abolished or merged with any other board or commission, and whether the responsibility of such board or commission performs a necessary function not already being performed.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall, immediately after October 1, 1982, institute a comprehensive review of the activities and responsibilities of each board and commission to determine:</text>
+      <para>
+        <num>(1)</num>
+        <text>Whether such board or commission is carrying out its purpose;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Whether, consistent with the provisions of applicable statutes, the responsibilities assigned to it should be revised;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Whether it should be merged with another board or commission; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Whether it should be abolished.</text>
+      </para>
+      <afterText>Upon completion of the review, the Mayor shall make recommendations to either the agency head or the Council with respect to action he or she believes should be taken. Thereafter, the Mayor shall carry out a similar review annually, and transmit to the Council no later than February 1st of each year, a report on the activities, status, and composition of all boards and commissions. The report shall contain the name of every board and commission, the date of and authority for its creation, its termination date or the date it is to make a report, its functions, a reference to the reports it has submitted, a statement of whether it is an ad hoc or continuing body, and the total estimated annual cost to the District government to fund, service, supply, and maintain such board or commission.</afterText>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 4-42">Oct. 17, 1981, D.C. Law 4-42, § 8, 28 DCR 3425</annotation>
+        <annotation doc="D.C. Law 4-113">June 4, 1982, D.C. Law 4-113, § 3, 29 DCR 1695</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-299.7.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Establishment of new commissions: Section 402 of <cite doc="D.C. Law 12-86">D.C. Law 12-86</cite> provided that, as of the effective date of the act, there shall be no new commission established except as necessary to carry out a legislatively mandated purpose as required by federal or District of Columbia laws.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

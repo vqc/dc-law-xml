@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 3-171">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 3-171">
   <num type="law">3-171</num>
   <meta>
     <effective>1981-03-10</effective>
@@ -11,4 +11,920 @@
       <narrative>Law 3-171 was submitted to the electors of the District of Columbia on November 4, 1980, as Initiative No. 3. The results of the voting, certified by the Board of Election and Ethics on November 21, 1980, were 90,533 for the Initiative and 60,972 against the Initiative. It was transmitted to both Houses of Congress for its review on January 19, 1981.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|1"/>
+    <num codify:value="1-121">2</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of this initiative is to propose to the registered qualified electors of the District of Columbia the question of calling a statehood constitutional convention for the purpose of forming a constitution and otherwise providing a process for a major portion of the territory now known as the District of Columbia to be admitted in the Union as a state on equal footing with the other states. The acts of the convention shall be submitted for ratification by the people, as provided for in this initiative.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 2, 27 DCR 4732</annotation>
+        <annotation doc="D.C. Law 4-35">Oct. 8, 1981, D.C. Law 4-35, § 2(a), 28 DCR 3376</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Constitution of State of New Columbia, see New Columbia Const., Art. 1, § 1 et seq. in Volume 1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-111.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Constitution approved: The Constitution developed by the Statehood Constitutional Convention, entitled the “Constitution of the State of New Columbia”, was submitted to the electors of the District of Columbia for ratification on November 2, 1982. The results of the voting, certified by the Board of Elections and Ethics on November 10, 1982, were 61,405 for the Constitution and 54,964 against the Constitution.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|1"/>
+    <num codify:value="1-122">3</num>
+    <heading>Questions to be presented to electors.</heading>
+    <text>For the purpose of this initiative, the District of Columbia Board of Elections is authorized and directed to conduct at the next scheduled general, special, or primary election held after March 10, 1981, an election to fill the positions of delegate at-large and ward delegate to the constitutional convention, as prescribed in § <cite path="§1-124">1-124</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 3, 27 DCR 4732</annotation>
+        <annotation doc="D.C. Law 4-35">Oct. 8, 1981, D.C. Law 4-35, § 2(b), 28 DCR 3376</annotation>
+        <annotation doc="D.C. Law 19-124">Apr. 27, 2012, D.C. Law 19-124, § 501(k)(1), 59 DCR 1862</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-124">1-124</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-112.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-124">D.C. Law 19-124</cite> substituted “District of Columbia Board of Elections” for “District of Columbia Board of Elections and Ethics”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 401(k)(1) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|1"/>
+    <num codify:value="1-123">4</num>
+    <heading>Call of convention; duties of convention; adoption of constitution; rejection of constitution; election of Senator and Representative.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Within 60 days after the Board of Elections has certified the election of at-large and ward delegates to the constitutional convention pursuant to § <cite path="§1-124">1-124</cite>, the Mayor of the District of Columbia shall call a constitutional convention and assemble the elected delegates. The convention shall write a constitution within 90 days which shall be republican in form and shall not be repugnant to the Constitution or laws of the United States, and it shall otherwise prepare for the admission of a major portion of the territory now known as the District of Columbia as a state.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The proposed Constitution for the State of New Columbia, approved by Congress June 24, 1987, is amended to read as set forth in Volume 1 of the District of Columbia Code.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If a majority of the registered qualified electors voting reject the constitution, the Mayor shall within 60 calendar days call for the reassembly of the constitutional convention and thereafter a new constitution shall be framed and the same proceedings shall be taken for its submission to the electors of the District of Columbia: Except, that if the proposed constitution of a second constitutional convention is rejected by the registered qualified electors, then the task of writing a constitution acceptable to the electorate shall be abandoned until such time as a new constitutional convention is called for by either legislative action or voter initiative.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>Following the approval of a proposed constitution by a majority of the electors voting thereon, there shall be held an election of candidates for the offices of Senator and Representative from the new state. Such election shall be partisan and shall be held at the next regularly scheduled primary and general elections following certification by the District of Columbia Board of Elections that the proposed constitution has been approved by a majority of the electors voting thereon. In the event that the proposed constitution is approved by the electors at the general election to be held in November, 1982, the primary and general elections authorized by this paragraph shall be held in September, 1990, and November, 1990, respectively.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The qualifications for candidates for the offices of Senator and Representative shall conform with the provisions of Article I of the United States Constitution and the primary and general elections shall follow the same electoral procedures as provided for candidates for nonvoting Delegate of the District of Columbia in the District of Columbia Election Code of 1955, subchapter I of Chapter 10 of this title. The term of the 1st Representative elected pursuant to this initiative shall begin on January 2, 1991, and shall expire on January 2, 1993. The terms of the 1st Senators elected pursuant to this initiative shall begin on January 2, 1991, and shall expire on January 2, 1997, and January 2, 1995, respectively. At the initial election, the candidate for Senator receiving the highest number of votes will receive the longer term and the candidate receiving the second highest number of votes will receive the shorter term. A primary and a general election to replace a Representative or a Senator whose term is about to expire shall be held in September and in November respectively, of the year preceding the year during which the term of the Representative or the Senator expires. Each Representative shall be elected for a 2-year term and each Senator shall be elected for a 6-year term as prescribed by the Constitution of the United States.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The District of Columbia Board of Elections shall:</text>
+        <para>
+          <num>(A)</num>
+          <text>Conduct elections to fill the positions of 2 United States Senators and 1 United States Representative; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Issue such rules and expressly delegate authority to officials and employees of the District of Columbia Board of Elections (such delegation of authority only to be effective upon publication in the District of Columbia Register) as are necessary to carry out the purposes of this initiative, and related acts requiring implementation by the District of Columbia Board of Elections.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A Representative or Senator elected pursuant to this subchapter shall be a public official as defined in § <cite path="§1-1161.01">1-1161.01</cite>(47), and subscribe to the oath or affirmation of office provided for in § <cite path="§1-604.08">1-604.08</cite>.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>A Representative or Senator:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall inform the Congress and individual members of Congress that the District of Columbia residents meet the standards traditionally required by Congress for the admission of a United States territory as a state of the United States;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Shall monitor the progress of the petition for admission of New Columbia to statehood pending before the Congress and report on the progress to the District of Columbia residents;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>May advise the District of Columbia on matters of public policy that bear on the achievement of statehood;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In accordance with subsection (g) of this section, may employ staff and expend funds donated by private sources for public purposes related to the achievement of statehood; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Shall have any other powers or duties as may be provided by law.</text>
+      </para>
+    </para>
+    <para>
+      <num>(g)</num>
+      <para>
+        <num>(1)</num>
+        <text>A Representative or Senator may solicit and receive contributions to support the purposes and operations of the Representative’s or Senator’s public office. A Representative or Senator may accept services, monies, gifts, endowments, donations, or bequests. A Representative or Senator shall establish a District of Columbia statehood fund in 1 or more financial institutions in the District of Columbia. There shall be deposited in each fund any gift or contribution in whatever form, and any monies not included in annual Congressional appropriations. A Representative or Senator is authorized to administer the Representative’s or Senator’s respective fund in any manner the Representative or Senator deems wise and prudent, provided that the administration is lawful, in accordance with the fiduciary responsibilities of public office, and does not impose any financial burden on the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Contributions may be expended for the salary, office, or other expenses necessary to support the purposes and operations of the public office of a Representative or Senator, however, each Representative or Senator shall receive compensation no greater than the compensation of the Chairman of the Council of the District of Columbia, as provided in §§ <cite path="§1-204.03">1-204.03</cite> and <cite path="§1-611.09">1-611.09</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Each Representative or Senator shall file with the Director of Campaign Finance a quarterly report of all contributions received and expenditures made in accordance with paragraph (1) of this subsection. No campaign activities related to election or re-election to the office of Representative or Senator shall be conducted nor shall expenditures for campaign literature or paraphernalia be authorized under paragraph (1) of this subsection.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The recordkeeping requirements of subchapter III of Chapter 11A of this title, shall apply to contributions and expenditures made under paragraph (1) of this subsection.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Upon expiration of a Representative’s or Senator’s term of office and where the Representative or Senator has not been re-elected, the Representative’s or Senator’s statehood fund, established in accordance with paragraph (1) of this subsection, shall be dissolved and any excess funds shall be used to retire the Representative’s or Senator’s debts for salary, office, or other expenses necessary to support the purposes and operation of the public office of the Representative or Senator. Any remaining funds shall be donated to an organization operating in the District of Columbia as a not-for-profit organization within the meaning of section 501(c) of the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2085; 26 U.S.C. § 501(c)).</text>
+      </para>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>A Representative or Senator elected pursuant to subsection (d) of this section, shall be subject to recall pursuant to § <cite path="§1-1001.17">1-1001.17</cite>, during the period of the Representative’s or Senator’s service prior to the admission of the proposed new state into the union.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 4, 27 DCR 4732</annotation>
+        <annotation doc="D.C. Law 4-35">Oct. 8, 1981, D.C. Law 4-35, § 2(c), 28 DCR 3376</annotation>
+        <annotation doc="D.C. Law 4-138">Aug. 14, 1982, D.C. Law 4-138, § 2, 29 DCR 2761</annotation>
+        <annotation doc="D.C. Law 5-17">Aug. 2, 1983, D.C. Law 5-17, § 4, 30 DCR 3196</annotation>
+        <annotation doc="D.C. Law 5-105">Aug. 10, 1984, D.C. Law 5-105, § 2, 31 DCR 3040</annotation>
+        <annotation doc="D.C. Law 6-1">Apr. 23, 1985, D.C. Law 6-1, § 2, 32 DCR 1475</annotation>
+        <annotation doc="D.C. Law 7-2">May 13, 1987, D.C. Law 7-2, § 2, 34 DCR 2153</annotation>
+        <annotation doc="D.C. Law 7-8">June 24, 1987, D.C. Law 7-8, § 2, 34 DCR 3057</annotation>
+        <annotation doc="D.C. Law 7-10">June 24, 1987, D.C. Law 7-10, § 2, 34 DCR 3286</annotation>
+        <annotation doc="D.C. Law 8-135">June 8, 1990, D.C. Law 8-135, § 2, 37 DCR 2616</annotation>
+        <annotation doc="D.C. Law 19-124">Apr. 27, 2012, D.C. Law 19-124, § 501(k)(2), 59 DCR 1862</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Congressional vacancies, appointments, see § <cite path="§1-1001.10">1-1001.10</cite>.</annotation>
+        <annotation>Election campaigns, disclosure of financial interests, see § <cite path="§1-1106.02">1-1106.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-124">1-124</cite>, § <cite path="§1-127">1-127</cite>, § <cite path="§1-129.01">1-129.01</cite>, § <cite path="§1-131">1-131</cite>, § <cite path="§1-603.01">1-603.01</cite>, § <cite path="§1-1001.10">1-1001.10</cite>, § <cite path="§1-1161.01">1-1161.01</cite>, and § <cite path="§47-1812.11c">47-1812.11c</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-113.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-124">D.C. Law 19-124</cite>, in subsecs. (a), (d)(1), and (d)(3), substituted “Board of Elections” for “Board of Elections and Ethics”; in subsec. (e), substituted “§ <cite path="§1-1162.24">1-1162.24</cite>” for “§ <cite path="§1-1106.02">1-1106.02</cite>(a)”; and, in subsec. (g)(4), substituted “subchapter III of Chapter 11A of this title” for “subchapter I of Chapter 11 of this title”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 401(k)(2) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Restriction on use of funds: Section 128 of Pub. L. 104-194, 110 Stat. 2368, the District of Columbia Appropriations Act, 1997, provided that none of the funds provided in this Act may be used by the District of Columbia to provide for salaries, expenses, or other costs associated with the offices of United States Senator or United States Representative under subsection (d) of this section.</text>
+        <text>Amendment of proposed Constitution: For text of proposed Constitution for the State of New Columbia as amended by <cite doc="D.C. Law 7-8">D.C. Law 7-8</cite>, see Volume 1.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|1"/>
+    <num codify:value="1-124">5</num>
+    <heading>Composition of convention; election of delegate candidates; compensation; office space; appropriations.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The constitutional convention authorized by this initiative shall consist of 45 delegates selected in the following manner: Five delegates elected at large; and 5 delegates elected from each of the 8 election wards.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Candidates for at-large delegates shall file with the Board of Elections a nominating petition signed by at least 200 of the registered qualified electors of the District of Columbia such that there will be at least 25 certified signatures from each of the 8 election wards. The 5 candidates for at-large delegate who receive the highest number of votes shall be declared elected and shall serve for 3-year terms.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Candidates for the ward delegate positions shall file with the Board of Elections a nominating petition signed by at least 50 of the registered qualified electors from the election ward from which the candidate seeks nomination. The 5 candidates from each of the 8 election wards receiving the highest number of votes shall be declared elected to represent that ward and shall serve for 3-year terms.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Each of the elected delegates, as authorized by subsection (a) of this section, shall be entitled to receive $30 per diem when engaged in the performance of the duties of the constitutional convention.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <para>
+        <num>(1)</num>
+        <text>Except as they may be modified by this section, the election procedures prescribed by subchapter I of Chapter 10 of this title and subchapter III of Chapter 11A of this title for at-large and ward candidates for the Board of Education shall be applicable in respect to at-large and ward candidates for delegate to the constitutional convention.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Each candidate for delegate and each delegate to the constitutional convention shall be a registered qualified voting resident of the District of Columbia and the discontinuance of such residence shall result in forfeiture of the convention seat occupied by such delegate. Each candidate for delegate and each delegate representing a ward shall be a registered qualified voting resident of that ward and the discontinuance of such residence in that ward shall result in forfeiture of the convention seat occupied by such ward delegate. No ward delegate shall forfeit his or her seat solely by reason of a change in ward boundaries.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A vacancy in the convention arising from any cause shall be filled temporarily by the convention and such temporary appointee may serve for the remainder of the 3-year term or until such earlier time as the seat has been filled by an election which shall be held by the Board of Elections in accordance with its regulations concurrently with the earliest practicable special, primary, or general election being held to fill 1 or more offices other than that of convention delegate.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The District of Columbia government shall furnish such space in public buildings for the constitutional convention as is necessary to accommodate public attendance at convention hearings, meetings, and sessions, and shall provide all records and services as may be required by the constitutional convention for carrying out its function.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>There is hereby authorized an appropriation from the General Fund of the District of Columbia a sum not in excess of $400,000 to the constitutional convention for such expenses as it may have in carrying out its duties and responsibilities under this initiative.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>There is hereby authorized an appropriation from the General Fund of the District of Columbia a sum not in excess of $50,000 to the Board of Elections for the administration of the elections authorized in §§ <cite path="§1-122">1-122</cite> and <cite path="§1-123">1-123</cite>(b), and in otherwise carrying out the provisions of this initiative.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 5, 27 DCR 4732</annotation>
+        <annotation doc="D.C. Law 4-35">Oct. 8, 1981, D.C. Law 4-35, § 2(d), 28 DCR 3376</annotation>
+        <annotation doc="D.C. Law 4-52">Nov. 17, 1981, D.C. Law 4-52, § 3(a), 28 DCR 4348</annotation>
+        <annotation doc="D.C. Law 19-124">Apr. 27, 2012, D.C. Law 19-124, § 501(k)(3), 59 DCR 1862</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-122">1-122</cite> and § <cite path="§1-123">1-123</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-114.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 19-124">D.C. Law 19-124</cite>, in subsecs. (b), (c), (e)(3), and (h), substituted “Board of Elections” for “Board of Elections and Ethics”; and, in subsec. (e)(1), substituted “subchapter III of Chapter 11A of this title” for “subchapter I of Chapter 11 of this title”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 401(k)(3) of Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Emergency Amendment Act of 2012 (D.C. Act 19-298, January 29, 2012,  59 DCR 683).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|1"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-125">6</num>
+    <heading>Statehood Commission.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 6, 27 DCR 4732</annotation>
+        <annotation doc="D.C. Law 4-35">Oct. 8, 1981, D.C. Law 4-35, § 2(e), 28 DCR 3376</annotation>
+        <annotation doc="D.C. Law 10-167">Aug. 26, 1994, D.C. Law 10-167, § 2(a), 41 DCR 4895</annotation>
+        <annotation doc="D.C. Law 19-171">Sept. 26, 2012, D.C. Law 19-171, § 2, 59 DCR 6190</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(a), 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-115.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> redesignated former (c-1) as (d).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) repeal of this section, see §  101(a) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, Nov. 18, 2014, 61 DCR 12133, 20 STAT 4405).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 101(a) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 STAT 807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Sources of funding appropriation: Section 101(d) of Pub. L. 99-591, the D.C. Appropriations Act, 1987, provided that the District of Columbia shall identify the sources of funding for admission to statehood from its own locally-generated revenues and provided further that no revenues from federal sources shall be used to support the operations or activities of the Statehood Commission and Statehood Compact Commission.</text>
+        <text>Section 1(c) of Pub. L. 100-202, the District of Columbia Appropriations Act, 1988, provided that the District of Columbia shall identify the sources of funding for Admission to Statehood from its own locally-generated revenues and provided further that no revenues from Federal sources shall be used to support the operations or activities of the Statehood Commission and Statehood Compact Commission.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|1"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-126">7</num>
+    <heading>Statehood Compact Commission.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 7, 27 DCR 4732</annotation>
+        <annotation doc="D.C. Law 4-35">Oct. 8, 1981, D.C. Law 4-35, § 2(f), 28 DCR 3376</annotation>
+        <annotation doc="D.C. Law 10-167">Aug. 26, 1994, D.C. Law 10-167, § 2(b), 41 DCR 4895</annotation>
+        <annotation doc="D.C. Law 11-255">Apr. 9, 1997, D.C. Law 11-255, § 2, 44 DCR 1271</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(a), 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-116.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) repeal of this section, see §  101(a) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, Nov. 18, 2014, 61 DCR 12133, 20 STAT 4405).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 101(a) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 STAT 807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Sources of funding appropriation: Section 101(d) of Pub. L. 99-591, the D.C. Appropriations Act, 1987, provided that the District of Columbia shall identify the sources of funding for admission to statehood from its own locally-generated revenues and provided further that no revenues from federal sources shall be used to support the operations or activities of the Statehood Commission and Statehood Compact Commission.</text>
+        <text>Section 1(c) of Pub. L. 100-202, the District of Columbia Appropriations Act, 1988, provided that the District of Columbia shall identify the sources of funding for Admission to Statehood from its own locally-generated revenues and provided further that no revenues from Federal sources shall be used to support the operations or activities of the Statehood Commission and Statehood Compact Commission.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|1"/>
+    <num codify:value="1-127">8</num>
+    <heading>Appropriations.</heading>
+    <text>There is authorized to be appropriated from the General Fund of the District of Columbia an amount for the salaries and office expenses of the elected representatives to the Senate and House referred to in § <cite path="§1-123">1-123</cite>(d) during the period of their service prior to the admission of the proposed new state into the union.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 8, 27 DCR 4732</annotation>
+        <annotation doc="D.C. Law 4-35">Oct. 8, 1981, D.C. Law 4-35, § 2(g), 28 DCR 3376</annotation>
+        <annotation doc="D.C. Law 5-159">Mar. 14, 1985, D.C. Law 5-159, § 19, 32 DCR 30</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-117.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|1"/>
+    <num codify:value="1-128">9</num>
+    <heading>Severability.</heading>
+    <text>If any provisions or section of this measure, or the application thereof, shall in any circumstances be held invalid, such invalidity shall not affect the validity of the remainder of the provisions or applications.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 9, 27 DCR 4732</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-118.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|2"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-129.01">11</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 11</annotation>
+        <annotation doc="D.C. Law 15-226">as added Mar. 16, 2005, D.C. Law 15-226, § 102, 51 DCR 10539</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this subpart, see § 101(b) of the  New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, Nov. 18, 2014, 61 DCR 12133, 20 STAT 4405).</annotation>
+        <annotation>For temporary (90 days) amendment of this subpart, see § 101(b) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 STAT 807).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|2"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-129.02">12</num>
+    <heading>Establishment of the District of Columbia Statehood Delegation Fund Commission; purpose; fiscal year.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 12</annotation>
+        <annotation doc="D.C. Law 15-226">as added Mar. 16, 2005, D.C. Law 15-226, § 102, 51 DCR 10539</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§47-1812.11c">47-1812.11c</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|2"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-129.03">13</num>
+    <heading>Commissioners.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 13</annotation>
+        <annotation doc="D.C. Law 15-226">as added Mar. 16, 2005, D.C. Law 15-226, § 102, 51 DCR 10539</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|2"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-129.04">14</num>
+    <heading>Meetings of the Commission.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 14</annotation>
+        <annotation doc="D.C. Law 15-226">as added Mar. 16, 2005, D.C. Law 15-226, § 102, 51 DCR 10539</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|2"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-129.05">15</num>
+    <heading>Officers and employees.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 15</annotation>
+        <annotation doc="D.C. Law 15-226">as added Mar. 16, 2005, D.C. Law 15-226, § 102, 51 DCR 10539</annotation>
+        <annotation doc="D.C. Law 17-108">Feb. 6, 2008, D.C. Law 17-108, § 201, 54 DCR 10993</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 223(b), 56 DCR 1117</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-108">D.C. Law 17-108</cite>, in subsec. (a), inserted “provided, that the Executive Director of the Commission shall be a District resident and shall remain a District resident for the duration of his or her employment by the Commission. Failure to maintain District residency shall result in a forfeiture of the position”; added subsec. (a-1); and, in subsec. (b), inserted “, a listing of the names of all new employees, their pay schedules, titles, and place of residence”.</annotation>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite>, in subsec. (a), designated pars. (1) and (2), substituted a period for “; provided that” at the end of par. (1); and, in subsec. (b), inserted “and” preceding “a listing”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|2"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-129.06">16</num>
+    <heading>Limitations on actions; representation by Attorney General of the District of Columbia.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 16</annotation>
+        <annotation doc="D.C. Law 15-226">as added Mar. 16, 2005, D.C. Law 15-226, § 102, 51 DCR 10539</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|2"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-129.07">17</num>
+    <heading>Tax-exempt status.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 17</annotation>
+        <annotation doc="D.C. Law 15-226">as added Mar. 16, 2005, D.C. Law 15-226, § 102, 51 DCR 10539</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|2"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-129.08">18</num>
+    <heading>Establishment of Statehood Delegation Fund.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 18</annotation>
+        <annotation doc="D.C. Law 15-226">as added Mar. 16, 2005, D.C. Law 15-226, § 102, 51 DCR 10539</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-129.01">1-129.01</cite>, § <cite path="§1-129.03">1-129.03</cite>, and § <cite path="§47-1812.11c">47-1812.11c</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|2"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-129.09">19</num>
+    <heading>Use of funds.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 19</annotation>
+        <annotation doc="D.C. Law 15-226">as added Mar. 16, 2005, D.C. Law 15-226, § 102, 51 DCR 10539</annotation>
+        <annotation doc="D.C. Law 16-91">Apr. 7, 2006, D.C. Law 16-91, § 115, 52 DCR 10637</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-129.08">1-129.08</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-91">D.C. Law 16-91</cite>, in the section heading, validated a previously made technical correction.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|2"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-129.10">20</num>
+    <heading>Prohibition on political activity.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 20</annotation>
+        <annotation doc="D.C. Law 15-226">as added Mar. 16, 2005, D.C. Law 15-226, § 102, 51 DCR 10539</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|2"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-129.11">21</num>
+    <heading>Reports.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 21</annotation>
+        <annotation doc="D.C. Law 15-226">as added Mar. 16, 2005, D.C. Law 15-226, § 102, 51 DCR 10539</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-129.03">1-129.03</cite>, § <cite path="§1-129.05">1-129.05</cite>, § <cite path="§1-129.08">1-129.08</cite>, and § <cite path="§1-129.09">1-129.09</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|2"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-129.12">22</num>
+    <heading>Dissolution; termination of affairs.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 22</annotation>
+        <annotation doc="D.C. Law 15-226">as added Mar. 16, 2005, D.C. Law 15-226, § 102, 51 DCR 10539</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-129.08">1-129.08</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of Subpart 3, see § 101(b) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, Nov. 18, 2014, 61 DCR 12133, 20 STAT 4405).</annotation>
+        <annotation>For temporary (90 days) requirement that the Commission issue a report concerning compensation for the Statehood Delegation, see § 105 of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, Nov. 18, 2014,  61 DCR 12133, 20 STAT 4405).</annotation>
+        <annotation>For temporary (90 days) addition of subpart 3, see § 101(b) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 STAT 807).</annotation>
+        <annotation>For temporary (90 days) requirement that the Commission issue a report concerning compensation for the Statehood Delegation, see § 105 of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 STAT 807).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|3"/>
+    <num codify:value="1-129.21">11</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subpart, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Commission” means the New Columbia Statehood Commission established pursuant to § <cite path="§1-129.31">1-129.31</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Fund” means the New Columbia Statehood Fund established pursuant to § <cite path="§1-129.32">1-129.32</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Statehood Delegation” means, collectively, the United States Representative and the 2 United States Senators holding office pursuant to § <cite path="§1-123">1-123</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Statehood Fund” means the fund established by each United States Senator and United States Representative pursuant to § <cite path="§1-123">1-123</cite>(g), and overseen by the Office of Campaign Finance.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“United States Representative” means the District of Columbia public official elected pursuant to § <cite path="§1-123">1-123</cite> to the office of Representative.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“United States Senator” means either of the 2 District of Columbia public officials elected pursuant to § <cite path="§1-123">1-123</cite> to the office of Senator.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, §  11 [23], 27 DCR 4732</annotation>
+        <annotation doc="D.C. Law 20-271">as added May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this subpart, see § 101(b) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015, 62 DCR 2646, 21 STAT 807).</annotation>
+        <annotation>For temporary (90 days) requirement that the Commission issue a report with findings as to whether the Statehood Delegation should receive compensation in the form of a salary or stipend, see § 105 of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015, 62 DCR 2646, 21 STAT 807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 105 of <cite doc="D.C. Law 20-271">D.C. Law 20-271</cite> provided that, within 60 days of May 2, 2015, the Commission shall issue a report with findings as to whether the Statehood Delegation should receive compensation in the form of a salary or stipend and, if so, the appropriate amount of such compensation.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|3"/>
+    <num codify:value="1-129.22">21</num>
+    <heading>Office of the Statehood Delegation.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Office of the Statehood Delegation (“Office”) is established as an independent agency within the District of Columbia government, consistent with the meaning of the term independent agency as provided in § <cite path="§1-603.01">1-603.01</cite>(13).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Office shall provide support to the Statehood Delegation in promoting statehood and voting rights for the citizens of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Office shall be headed by an Executive Director who shall be appointed by the Statehood Delegation. The Executive Director shall support the members of the Statehood Delegation and provide administrative support to the Commission.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Executive Director shall devote his or her full time to the duties of the Office. The salary of the Executive Director shall be determined by the Statehood Delegation, but shall not exceed 75% of the compensation for a Member of the Council as determined by § <cite path="§1-611.09">1-611.09</cite>(b).</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>For Fiscal Year 2015, the compensation for the Executive Director shall be paid from funds budgeted for Statehood Initiatives under § <cite path="§1-301.154">1-301.154</cite>. Beginning in Fiscal Year 2016, the salary for the Executive Director shall be paid from the New Columbia Statehood Fund, subject to the availability of funds.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, §  21 [24], 27 DCR 4732</annotation>
+        <annotation doc="D.C. Law 20-271">as added May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this subpart, see § 101(b) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015, 62 DCR 2646, 21 STAT 807).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|3"/>
+    <num codify:value="1-129.31">31</num>
+    <heading>Establishment of the New Columbia Statehood Commission.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The New Columbia Statehood Commission is established as an independent agency within the District of Columbia government, consistent with the meaning of the term independent agency as provided in § <cite path="§1-603.01">1-603.01</cite>(13).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Educate regarding, advocate for, promote, and advance the proposition of statehood and voting rights for the District of Columbia to District residents and citizens of the 50 states;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Solicit financial and in-kind contributions, grants, allocations, gifts, bequests, and appropriations from public and private sources to be deposited in the New Columbia Statehood Fund established pursuant to § <cite path="§1-129.32">1-129.32</cite> and used for the purposes of promoting statehood and voting rights; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Develop an annual budget for, and oversee expenditures from, the New Columbia Statehood Fund.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Commission shall be comprised of 5 voting members (“Commissioners”) as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor, or his or her alternate;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Chairman of the Council, or his or her alternate;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The United States Representative for the District of Columbia; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The 2 United States Senators for the District of Columbia.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Mayor and the Chairman of the Council shall serve as co-chairs of the Commission.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>By March 1, 2015, the Commission shall adopt bylaws, and may adopt guidelines, rules, and procedures for the governance of its affairs and the conduct of its business.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Commission shall meet, at a minimum, on a semiannual basis. A majority of the Commissioners shall constitute a quorum for the conduct of business.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Commission, in carrying out its duties, may utilize pro bono services; provided, that such services are reported pursuant to § <cite path="§1-129.33">1-129.33</cite>.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>The Commission may recruit honorary members based on criteria the Commission shall determine. The honorary members shall have no vote on the operation of the Commission.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 31</annotation>
+        <annotation doc="D.C. Law 20-271">as added May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|3"/>
+    <num codify:value="1-129.32">32</num>
+    <heading>Establishment of the New Columbia Statehood Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the New Columbia Statehood Fund, which shall be administered in accordance with subsections (b), (c), and (d) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>All revenues from the following sources shall be deposited into the Fund:</text>
+        <para>
+          <num>(A)</num>
+          <text>An annual appropriation;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Any contributions to, and grants for, the benefit of the New Columbia Statehood Fund received from public and private sources;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Net receipts pursuant to the income tax check-off provided in § <cite path="§47-1812.11c">47-1812.11c</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For Fiscal Year 2015, all funds not expended pursuant to § <cite path="§1-129.21">1-129.21</cite>(e) from the funds budgeted for Statehood Initiatives under § <cite path="§1-301.154">1-301.154</cite> shall be deposited into the Fund.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Fund shall be used to support the Statehood Delegation, each of the members thereof, the Commission, and efforts to promote statehood and voting rights for the citizens of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>To the extent that disbursements are to be made to the Statehood Fund of each member of the Statehood Delegation, the disbursements, as decided by the Commission, shall be equal to each member, except as provided in this subsection.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>No disbursement shall be made under this subsection to a member of the District of Columbia Statehood Delegation who is out of compliance with the filing and disclosure requirements of this subpart and applicable District or federal law, or who has used funds in violation of § <cite path="§1-129.35">1-129.35</cite>, until such time as the violation has been corrected. In this instance, the 1/3 disbursement held back shall become part of the corpus from which the next disbursement pursuant to this subsection may be made.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <para>
+        <num>(1)</num>
+        <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of any fiscal year or at any other time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Mayor shall submit to the Council, as part of the annual budget, a requested appropriation for expenditures from the Fund. The Mayor’s submission shall be based on a budget prepared by the Commission, and shall include the rationale for any variance from the Commission’s request.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Chief Financial Officer shall transmit to the Mayor and the Council, at least annually, a report summarizing the revenues and expenditures of the Fund.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>All revenues and expenses of the Fund shall be audited annually by the Chief Financial Officer, who shall transmit the audit to the Mayor and the Council. The expenses of the annual audit shall be defrayed by the Fund.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 32</annotation>
+        <annotation doc="D.C. Law 20-271">as added May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|3"/>
+    <num codify:value="1-129.33">33</num>
+    <heading>Annual reporting requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission shall submit to the Mayor and the Chairman of the Council by September 1, 2015, and on a biannual basis thereafter, a detailed report including:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Commission’s activities, revenues, and expenditures;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The full name, value, and form of each gift, grant, bequest, or appropriation to the New Columbia Statehood Fund; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any other information considered appropriate by the Commission.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission shall make each report available to the general public upon request.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 33</annotation>
+        <annotation doc="D.C. Law 20-271">as added May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|3"/>
+    <num codify:value="1-129.34">34</num>
+    <heading>Tax-exempt status.</heading>
+    <text>Contributions to the New Columbia Statehood Fund shall be tax deductible.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 34</annotation>
+        <annotation doc="D.C. Law 20-271">as added May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|1|II|A|3"/>
+    <num codify:value="1-129.35">35</num>
+    <heading>Use of funds by Statehood Delegation members.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Except as provided in subsection (b) of this section, members of the Statehood Delegation shall use New Columbia Statehood Fund monies for any expense closely and directly related to the operation of their offices.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>Fund monies shall not be used by members of the Statehood Delegation for:</text>
+        <para>
+          <num>(A)</num>
+          <text>Campaign expenses related to any election, local or national;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>To influence the outcome of any election, local or national;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Any contributions or loans to any political party or candidate for federal or non-federal office;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Any personal expenses, or travel expenses not closely and directly related to the office the member holds; or</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Any personal salary or stipend for the member.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The prohibition in paragraph (1)(E) of this subsection shall not limit the ability of a member of the Statehood Delegation to pay salaries to employees other than the member, or to pay vendors providing services closely and directly related to the office the member holds.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Upon request, but at least annually, each Statehood Delegation member shall provide the Chief Financial Officer with an accounting of the expenditures made with the money received from the Fund. The date by which the accounting is due shall be set by the Chief Financial Officer. Information submitted by members of the Statehood Delegation shall be included in the report required by § <cite path="§1-129.33">1-129.33</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 3-171">Mar. 10, 1981, D.C. Law 3-171, § 35</annotation>
+        <annotation doc="D.C. Law 20-271">as added May 2, 2015, D.C. Law 20-271, § 101(b), 62 DCR 1884</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

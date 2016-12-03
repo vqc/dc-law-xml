@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 20-152">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 20-152">
   <num type="law">20-152</num>
   <heading type="short">Fair Criminal Record Screening Act of 2014</heading>
   <meta>
@@ -12,4 +12,226 @@
       <narrative>Law 20-152, the “Fair Criminal Record Screening Act of 2014,” was introduced in Council and assigned Bill No. 20-642. The Bill was adopted on first and second readings on June 3, 2014, and July 14, 2014, respectively. Signed by the Mayor on Aug. 21, 2014, it was assigned Act No. 20-422 and transmitted to Congress for its review. D.C. Law 20-152 became effective on Dec. 17, 2014.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|13B|I"/>
+    <num codify:value="32-1341">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Applicant” means any person considered or who requests to be considered for employment by an employer.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Arrest” means being apprehended, detained, taken into custody, held for investigation, or restrained by a law enforcement agency due to an accusation or suspicion that the person committed a crime.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Conditional offer” means an offer that is conditional solely on:</text>
+      <para>
+        <num>(A)</num>
+        <text>The results of the employer’s subsequent inquiring into or gathering information about the applicant’s criminal record; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Some other employment-related contingency expressly communicated to the applicant at the time of the offer.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Conviction” means any sentence arising from a verdict or plea of guilty or nolo contendere, including a sentence of incarceration, a suspended sentence, a sentence of probation, or a sentence of unconditional discharge.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Criminal accusation” means an existing accusation that an individual has committed a crime, lodged by a law enforcement agency through an indictment, information, complaint, or other formal charge.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Employer” means any person, company, corporation, firm, labor organization, or association, including the District government, but not including the courts, that employs more than 10 employees in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Employment” means any occupation, vocation, job, or work for pay, including temporary or seasonal work, contracted work, contingent work, and work through the services of a temporary or other employment agency or any form of vocational or educational training with or without pay, where the physical location of the employment is in whole or substantial part within the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>“Inquiry” means any direct or indirect conduct intended to gather criminal history information from or about an applicant using any method, including application forms, interviews, and criminal history checks.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>“Interview” means any direct contact by the employer with the applicant, whether in person or by telephone, to discuss the employment being sought or the applicant’s qualifications.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-152">Dec. 17, 2014, D.C. Law 20-152, § 2, 61 DCR 8904</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Because of the codification of <cite doc="D.C. Law 20-152">D.C. Law 20-152</cite> as subchapter I of this chapter, the preexisting text, § <cite path="§32-1351">32-1351</cite>, has been designated as subchapter II.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|13B|I"/>
+    <num codify:value="32-1342">3</num>
+    <heading>Inquiries into certain arrests, accusations, and convictions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An employer may not make an inquiry about or require an applicant to disclose or reveal:</text>
+      <para>
+        <num>(1)</num>
+        <text>An arrest; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A criminal accusation made against the applicant, which:</text>
+        <para>
+          <num>(A)</num>
+          <text>Is not then pending against the applicant; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Did not result in a conviction.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An employer may not make an inquiry about or require an applicant to disclose or reveal a criminal conviction until after making a conditional offer of employment.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The prohibitions of this subchapter shall not apply:</text>
+      <para>
+        <num>(1)</num>
+        <text>Where a federal or District law or regulation requires the consideration of an applicant’s criminal history for the purposes of employment;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To a position designated by the employer as part of a federal or District government program or obligation that is designed to encourage the employment of those with criminal histories; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To any facility or employer that provides programs, services, or direct care to minors or vulnerable adults.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Following the extension of a conditional offer of employment, an employer may only withdraw the conditional offer to an applicant or take an adverse action against an applicant for a legitimate business reason. The employer’s determination of a legitimate business reason must be reasonable in light of the following factors:</text>
+      <para>
+        <num>(1)</num>
+        <text>The specific duties and responsibilities necessarily related to the employment sought or held by the applicant;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The bearing, if any, of the criminal offense for which the applicant was previously convicted will have on his or her fitness or ability to perform one or more such duties or responsibilities;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The time which has elapsed since the occurrence of the criminal offense;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The age of the applicant at the time of the occurrence of the criminal offense;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The frequency and seriousness of the criminal offense; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Any information produced by the applicant, or produced on his or her behalf, in regard to his or her rehabilitation and good conduct since the occurrence of the criminal offense.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>If an applicant believes that a conditional offer was terminated or an adverse action was taken against the applicant on the basis of a criminal conviction, the applicant may request, within 30 days after the termination or adverse action, that the employer provide the applicant within 30 days after the receipt of the request:</text>
+      <para>
+        <num>(1)</num>
+        <text>A copy of any and all records procured by the employer in consideration of the applicant, including criminal records; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A notice that advises the applicant of his or her opportunity to file an administrative complaint with the Office of Human Rights.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-152">Dec. 17, 2014, D.C. Law 20-152, § 3, 61 DCR 8904</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|13B|I"/>
+    <num codify:value="32-1343">4</num>
+    <heading>Filing a complaint with the Office of Human Rights; exclusive remedy.</heading>
+    <para>
+      <num>(a)</num>
+      <text>A person claiming to be aggrieved by a violation of this subchapter may file an administrative complaint with the Office of Human Rights, in accordance with the procedures set forth in subchapter III of Unit A of Chapter 14 of Title 2 [§ <cite path="§2-1403.01">2-1403.01</cite> et seq.].</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The administrative remedies referenced in § <cite path="§32-1344">32-1344</cite> are exclusive. A person claiming to be aggrieved by a violation of this subchapter shall have no private cause of action in any court based on a violation of this subchapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-152">Dec. 17, 2014, D.C. Law 20-152, § 4, 61 DCR 8904</annotation>
+        <annotation doc="D.C. Law 20-278">June 16, 2015, D.C. Law 20-278, § 309, 62 DCR 1920</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-278">D.C. Law 20-278</cite> rewrote (b).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|13B|I"/>
+    <num codify:value="32-1344">5</num>
+    <heading>Penalties.</heading>
+    <text>If the Commission on Human Rights finds that a violation of this subchapter has occurred, the commission shall impose the following penalties, of which half shall be awarded to the complainant:</text>
+    <para>
+      <num>(1)</num>
+      <text>For employers that employ 11 to 30 employees, a fine of up to $1,000;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For employers that employ 31 to 99 employees, a fine of up to $2,500; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>For employers that employ 100 or more employees, a fine of up to $5,000.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-152">Dec. 17, 2014, D.C. Law 20-152, § 5, 61 DCR 8904</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|32|13B|I"/>
+    <num codify:value="32-1345">6</num>
+    <heading>Reporting requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Office of Human Rights shall maintain data on the number of complaints filed pursuant to this subchapter, demographic information on the complainants, the number of investigations it conducts, and the disposition of every complaint and investigation.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Data maintained by the Office of Human Rights pursuant to subsection (a) of this section shall be submitted to the Council annually, beginning one year from the December 17, 2014.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Eighteen months after December 17, 2014, the Office of the District of Columbia Auditor (“ODCA”) shall provide the Council with a report, using information that ODCA may request from relevant government agencies, nonprofit organizations, and employers that are willing to voluntarily provide data, on the hiring of applicants with criminal backgrounds by employers and the impact of this subchapter on employers.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-152">Dec. 17, 2014, D.C. Law 20-152, § 6, 61 DCR 8904</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

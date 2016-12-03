@@ -1,10 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 83-1-ch179">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 83-1-ch179">
+  <heading/>
   <meta>
     <effective>1953-07-06</effective>
     <cites>
-        <law congress="83" session="1" chapter="179"/>
+      <law congress="83" session="1" chapter="179"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§7-2205" path="|7|22|I|A"/>
+    <num codify:value="7-2204">1</num>
+    <heading>“Metropolitan Police Department”, “Fire Department” defined.</heading>
+    <text>As used in § <cite path="§7-2203">7-2203</cite>, the terms “Metropolitan Police Department” and “Fire Department” shall include, respectively, offices or agencies succeeding to the functions of such departments pursuant to Reorganization Plan No. 5 of 1952.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 6, 1953, 67 Stat. 140, ch. 179, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-1404.</annotation>
+        <annotation>1973 Ed., § 6-1202b.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

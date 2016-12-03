@@ -1,10 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Joint Res. No. 40">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Joint Res. No. 40">
+  <heading/>
   <meta>
     <effective>1894-08-01</effective>
     <cites>
-        <law joint="True" resNum="40"/>
+      <law joint="True" resNum="40"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§9-101.12" path="|9|1|I"/>
+    <num codify:value="9-101.10">1</num>
+    <heading>Street, avenue, or public thoroughfare prohibited within 1,000 feet of Naval Observatory.</heading>
+    <text>No street, avenue, or public thoroughfare in the neighborhood of the buildings erected upon the United States Naval Observatory grounds, Georgetown Heights, District of Columbia, shall extend within the area of a circle described with a radius of 1,000 feet from the center of the building known as the clock room of the said Observatory.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 1, 1894, 28 Stat. 588, Joint Res. No. 40, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§9-101.11">9-101.11</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-120.</annotation>
+        <annotation>1973 Ed., § 7-120.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§9-101.12" path="|9|1|I"/>
+    <num codify:value="9-101.11">2</num>
+    <heading>Massachusetts Avenue through grounds of United States Naval Observatory.</heading>
+    <text>Massachusetts Avenue, as laid down in conformity with § <cite path="§9-101.10">9-101.10</cite> upon the maps of the engineer department of the District of Columbia, through the grounds of the United States Naval Observatory is declared to be a public street in all respects as the other public streets of the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 1, 1894, 28 Stat. 588, Joint Res. No. 40, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-121.</annotation>
+        <annotation>1973 Ed., § 7-121.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

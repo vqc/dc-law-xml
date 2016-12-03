@@ -1,10 +1,64 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 70-1-ch306">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 70-1-ch306">
+  <heading/>
   <meta>
     <effective>1927-03-03</effective>
     <cites>
-        <law congress="70" session="1" chapter="306"/>
+      <law congress="70" session="1" chapter="306"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§9-317" path="|9|3"/>
+    <num codify:value="9-315">1</num>
+    <heading>Fern and Varnum Streets and Eastern Avenue Viaducts.</heading>
+    <text>The viaducts and approaches thereto, to carry Fern and Varnum Streets over the tracks and right-of-way of the Baltimore and Ohio Railroad Company or the viaduct and approaches thereto to carry Eastern Avenue over the tracks and rights-of-way of the Philadelphia, Baltimore and Washington Railroad Company and the Baltimore and Ohio Railroad Company shall not be used by any street railroad company until said Companies shall have paid to the Collector of Taxes of the District of Columbia, a sum equal to one-fourth of the total cost of constructing said viaducts and approaches, to be applied to the credit of the District of Columbia. No limitation shall run against claims made by the District of Columbia under the provisions of this section.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1927, 44 Stat. 1352, ch. 306, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Pennsylvania Railroad Company, switch and siding connections, see § <cite path="§9-1205.01">9-1205.01</cite> et seq.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§9-1205.04">9-1205.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-515.</annotation>
+        <annotation>1973 Ed., § 7-515.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Office of Collector of Taxes abolished: See Historical and Statutory Notes following § <cite path="§9-310">9-310</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§9-317" path="|9|3"/>
+    <num codify:value="9-316">4</num>
+    <heading>Certain grade crossings to be closed after completion of Fern Street Viaduct.</heading>
+    <text>From and after the completion of the viaduct and approaches to carry Fern Street over the tracks and right-of-way of the Metropolitan branch of the Baltimore and Ohio Railroad Company, the highway grade crossing over the tracks and right-of-way of the said Baltimore and Ohio Railroad Company at Chestnut Street shall be forever closed against further traffic of any kind; and from and after the completion of the viaduct and approaches to carry Varnum Street over the tracks and right-of-way of the Metropolitan branch of the Baltimore and Ohio Railroad Company, the highway grade crossing over the tracks and right-of-way of the said railroad company at Bates Road shall be forever closed against further traffic of any kind, and from and after the completion of the viaduct and approaches to carry Eastern Avenue over the tracks and right-of-way of the Philadelphia, Baltimore and Washington Railroad Company and the Baltimore and Ohio Railroad Company, the highway grade crossing over the tracks and rights-of-way of the said railroad companies at Quarles Street, shall be forever closed against further traffic of any kind.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Mar. 3, 1927, 44 Stat. 1354, ch. 306, § 4</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Pennsylvania Railroad Company, switch and siding connections, see § <cite path="§9-1205.01">9-1205.01</cite> et seq.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§9-1205.04">9-1205.04</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-516.</annotation>
+        <annotation>1973 Ed., § 7-516.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

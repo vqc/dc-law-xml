@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 11-98" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 11-98" flag="true">
   <num type="law">11-98</num>
   <heading type="short">Budget Support Temporary Act of 1995</heading>
   <meta>
@@ -12,4 +12,67 @@
       <narrative>Law 11-98, the “Budget Support Temporary Act of 1995,” was introduced in Council and assigned Bill No. 11-440, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1995, and December 5, 1995, respectively. Signed by the Mayor on December 26, 1995, it was assigned Act No. 11-181 and transmitted to both Houses of Congress for its review. D.C. Law 11-98 became effective on March 5, 1996.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-161" path="|38|1|III"/>
+    <num codify:value="38-157">1203</num>
+    <heading>Contracting out of food services operations and security services; development of management and data systems.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Notwithstanding any other law, rule, or regulation, the District of Columbia Public Schools shall contract out, beginning in School Year 1995-96 and Fiscal Year 1996, all food services operations and security services for the D.C. Public Schools unless the Chancellor determines that it is not feasible.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Notwithstanding any other law, rule, or regulation, the District of Columbia Public Schools shall contract out for no more than a 3-year period, beginning in School Year 1995-96 and Fiscal Year 1996, the development of new management and data systems, as well as training of currently employed personnel to use and manage these systems, in the areas of budget, finance, personnel/human resources, management information services, procurement, and supply management.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-98">March 5, 1996, D.C. Law 11-98, § 1203, 43 DCR 5</annotation>
+        <annotation doc="D.C. Law 17-9">June 12, 2007, D.C. Law 17-9, § 1007, 54 DCR 4102</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-121.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-9">D.C. Law 17-9</cite> substituted “District of Columbia Public Schools” for “District of Columbia Board of Education” and “Chancellor” for “Superintendent”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-161" path="|38|1|III"/>
+    <num codify:value="38-158">1204</num>
+    <heading>Detail of officers to training program.</heading>
+    <text>Pursuant to section 101(1)(c) and (d) of the Reserve Officers’ Training Corps Vitalization Act of 1964, approved October 13, 1964 (78 Stat. 1063; 10 U.S.C. § 2031(c)   and (d)), the Board of Education, beginning in the 1995-96 School Year, shall request and ensure that active duty officers and noncommissioned officers of the U.S. Armed Forces be detailed as administrators and instructors to the District of Columbia Public Schools’ Junior Reserve Officers’ Training Corps program.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 11-98">March 5, 1996, D.C. Law 11-98, § 1204, 43 DCR 5</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-122.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary addition of section, see § 1405 of the Budget Support Emergency Act of 1995 (D.C. Act 11-137, August 14, 1995,  42 DCR 4706) § 1405 of the Budget Support Legislative Review Emergency Act of 1995 (D.C. Act 11-154, November 9, 1995,  42 DCR 6569), and § 1204 of the Budget Support Congressional Review Emergency Act of 1996 (D.C. Act 11-206, February 9, 1996,  43 DCR 777).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section>
+    <num>501</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|2|3|B|III"/>
+      <num codify:value="2-325.03">(c)</num>
+      <heading>Standards for contracting officer.</heading>
+      <text>Recodified as § <cite path="§2-381.43">2-381.43</cite>.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 11-98">Mar. 5, 1996, D.C. Law 11-98, § 501(c), 43 DCR 5</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

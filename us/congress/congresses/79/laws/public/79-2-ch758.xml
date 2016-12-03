@@ -1,10 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 79-2-ch758">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 79-2-ch758">
+  <heading/>
   <meta>
     <effective>1946-08-02</effective>
     <cites>
-        <law congress="79" session="2" chapter="758"/>
+      <law congress="79" session="2" chapter="758"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|12"/>
+    <num codify:value="42-1216">1</num>
+    <heading>Office closed on Saturdays.</heading>
+    <text>Notwithstanding the provisions of any other act, the Office of the Recorder of Deeds for the District of Columbia shall be closed on every Saturday.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 2, 1946, 60 Stat. 860, ch. 758, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-913.</annotation>
+        <annotation>1973 Ed., § 45-712.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|12"/>
+    <num codify:value="42-1217">2</num>
+    <heading>Extension of time for recordation; Saturday, Sunday, and legal holidays.</heading>
+    <text>Any writing, the time for recording of which expires on a Saturday, or on a Sunday, shall be deemed to have been recorded within the time prescribed if such writing be recorded on the first day thereafter other than Sunday or a legal holiday.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Aug. 2, 1946, 60 Stat. 861, ch. 758, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-914.</annotation>
+        <annotation>1973 Ed., § 45-713.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

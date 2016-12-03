@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 16-192" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 16-192" flag="true">
   <num type="law">16-192</num>
   <heading type="short">Fiscal Year Budget Support Act of 2006</heading>
   <meta>
@@ -12,4 +12,819 @@
       <narrative>Law 16-192, the “Fiscal Year Budget Support Act of 2006”, was introduced in Council and assigned Bill No. 16-679, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on May 9, 2006, and June 6, 2006, respectively. Signed by the Mayor on August 8, 2006, it was assigned Act No. 16-476 and transmitted to both Houses of Congress for its review. D.C. Law 16-192 became effective on March 2, 2007.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|28C"/>
+    <reason>Expired</reason>
+    <num codify:value="42-2855.01">2052</num>
+    <heading>Mayor’s Comprehensive Housing Task Force Fund established.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 2052, 53 DCR 6899</annotation>
+        <annotation doc="D.C. Law 17-20">Sept. 18, 2007, D.C. Law 17-20, §§ 2092, 2102, 54 DCR 7052</annotation>
+        <annotation doc="D.C. Law 17-219">Aug. 16, 2008, D.C. Law 17-219, § 2002, 55 DCR 7598</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 135, 56 DCR 1117</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1061.01">6-1061.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) enactments, see §§ 1142, 1143, 2052, and 2055 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) enactments, see §§ 1142, 1143, 2052, and 2055 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) enactments, see §§ 1142, 1143, 2052, and 2055 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see §§ 2092, 2102 of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007,  54 DCR 7549).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <text>Short title: Section 2051 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided that subtitle D of title II of the act may be cited as the “Deed Transfer and Recordation Amendment Act of 2006”.</text>
+        <text>Short title: Section 1141 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided that subtitle M of title I of the act may be cited as the “Commercial Linkage Nexus Study Act of 2006”.</text>
+        <text>Short title: Section 2091 of <cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> provided that subtitle J of title II of the act may be cited as the “Affordable Housing Amendment Act of 2007”.</text>
+        <text>Short title: Section 2101 of <cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> provided that subtitle K of title II of the act may be cited as the “Fiscal Year 2008 Comprehensive Housing Task Force Fund Authorized Expenditures Amendment Act of 2007”.</text>
+        <text>Short title: Section 2001 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided that subtitle A of title II of the act may be cited as the “Comprehensive Housing Strategy Fund Amendment Act of 2008”.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Sections 1142 and 1143 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided as follows:</text>
+        <text>“Sec. 1142. Nexus study.</text>
+        <text>“To quantify the relationship between commercial development and the need for housing for low and moderate-income workers, the District of Columbia Office of Planning shall commission one or more nexus studies. Each study shall determine the appropriate level of a one-time commercial linkage fee, based on square footage, that will generate revenues from new commercial development sufficient to support low and moderate-income housing needs created by the new development. The initial study shall be commissioned not later than October 15, 2006, and shall be completed not later than April 1, 2007.</text>
+        <text>“Sec. 1143. Funding for nexus study.</text>
+        <text>“The nexus study shall be funded from the Mayor’s Comprehensive Task Force Fund, from which $80,000 shall be allocated from the fiscal year budget as provided in section 2052(b)(7).”</text>
+        <text>Section 2055 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite>, as amended by section 203 of <cite doc="D.C. Law 16-223">D.C. Law 16-223</cite> and section 8(c) of <cite doc="D.C. Law 16-294">D.C. Law 16-294</cite>, provided as follows:</text>
+        <text>“The following programs shall be funded for fiscal year 2007 from the General Fund of the District of Columbia in the following amounts:</text>
+        <text>“(1) An amount of $15,089,443 to the Office of Unified Communications, which shall be allocated for personnel and nonpersonal costs of the E-911 system;</text>
+        <text>“(2) An amount of $508,200 to fund the fiscal effect and implementation of the Health Care Benefits Expansion Amendment Act of 2006, effective April 4, 2006 (<cite doc="D.C. Law 16-82">D.C. Law 16-82</cite>; D.C. Official Code § <cite path="§32-706">32-706</cite> et seq.);</text>
+        <text>“(3) An amount of $379,400 to the Office of the Deputy Mayor for Planning and Economic Development to be granted to the Tudor Place Historic House and Garden for capital restoration funding;</text>
+        <text>“(4) An amount of $200,000 to the Commission on Arts and Humanities to be granted to the Washington D.C. Jewish Community Center’s Center for the Arts;</text>
+        <text>“(5) An amount of $250,000 to the Department of Health to be granted to the Capital Breast Care Center;</text>
+        <text>“(6) An amount of $50,000 to the Department of Health to be granted to the D.C. Assembly on School-Based Health Care to fund school-based health programs;</text>
+        <text>“(7) An amount of $400,000 to the Department of Youth Rehabilitation Services to be granted to Peaceoholics to assist in providing comprehensive, wrap-around services for at-risk youth and their families in the District of Columbia;</text>
+        <text>“(8) An amount of $100,000 to the Department of Youth Rehabilitation Services to be granted to Positive Choices to provide educational, athletic, emotional, and a socially enriched environment for economically disadvantaged inner-city youth;</text>
+        <text>“(9) An amount of $50,000 to the Office on Aging to be granted to Saint Mary’s Court Senior Living Facility to assist its Quality of Life Program, which provides support services, classes, community, and social activities for its residents;</text>
+        <text>“(10) An amount of $50,000 to the Department of Human Services to be granted to Bread for the City to assist in funding programs offered including meals, housing, legal assistance, and job placement;</text>
+        <text>“(11) An amount of $50,000 to the Department of Human Services to be granted to D.C. Central Kitchen to assist in supplemental food purchases used to provide daily meals to residents at all District of Columbia shelters;</text>
+        <text>“(12) An amount of $50,000 to the Department of Parks and Recreation to be used as one-time capital funding for the Spanish Steps project;</text>
+        <text>“(13) An amount of $14 million to the District of Columbia Housing Authority for operations, rent supplements, and emergency assistance;</text>
+        <text>“(14) An amount of $7 million to the Metropolitan Police Department to hire new police officers; provided, that:</text>
+        <text>“(A) The Metropolitan Police Department maintain the total percent of sworn officers assigned to the police districts as existed on June 11, 2006;</text>
+        <text>“(B) The additional police officers shall be allocated evenly across all 7 police districts for patrol duty, shall be in addition to current patrol staffing levels, and shall be assigned to foot patrol, bike patrol, and scooter patrol, mounted patrol, and Segway (or other electric personal assistive mobility device) patrol; and</text>
+        <text>“(C) The Chief of Police shall provide to the Council monthly reports on deployment and Metropolitan Police Department strength by the 15th of each month</text>
+        <text>“(15) An amount of $257,000 to the fund the fiscal effect and implementation of subtitle B of Title IV;</text>
+        <text>“(16) An amount of $89,5000 to fund the fiscal effect and implementation of subtitle I of Title I;</text>
+        <text>“(17) An amount of $143,882 to the Department of Parks and Recreation for Boys and Girls Club programs;</text>
+        <text>“(18) An amount of $8,780,300 to fund the fiscal effect of subtitle II-L; and</text>
+        <text>“(19) An amount of $150,000 to fund the earned income tax credit community outreach; and</text>
+        <text>“(20) An amount of $124,000 to the Board of Real Property Assessments and Appeals to be allocated as follows:</text>
+        <text>“(A) The amount of $9,000 for computer upgrades;</text>
+        <text>“(B) The amount of $45,000 for records management conversion to a web-based system;</text>
+        <text>“(C) The amount of $20,000 for centralized digital recording;</text>
+        <text>“(D) The amount of $35,000 to increase Board member reimbursements to $35 per hour; and</text>
+        <text>“(E) The amount of $15,000 for nonlegal administrative support staff.”</text>
+        <text>Pursuant to subsection (d) of this section, added by <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite>, this section expired on April 1, 2009.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|IX"/>
+    <num codify:value="24-281">3002</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Commissary” means a system through which inmates in District correctional facilities are able to purchase permitted commodities.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Committee” means the Inmate Welfare Fund Committee established by section 3005 [§ <cite path="§24-284">24-284</cite>].</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Correctional facility” means any building, or group of buildings, and concomitant services, operated as a single management unit by, or under contract with, the Department of Corrections for the purpose of housing and providing services to persons ordered confined pending trial or upon conviction and sentencing for a violation of law.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Department” means the Department of Corrections.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Director” means the Director of the Department of Corrections.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Fund” means the Inmate Welfare Fund established by § <cite path="§24-282">24-282</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 3002, 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 3002 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3002 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3002 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 3001 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided that subtitle A of title III of the act may be cited as the “Inmate Welfare Fund Establishment Act of 2006”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|IX"/>
+    <num codify:value="24-282">3003</num>
+    <heading>Establishment of Inmate Welfare Fund; audit; report.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a nonlapsing fund to be known as the Inmate Welfare Fund and to be used for the purposes set forth in § <cite path="§24-283">24-283</cite>.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Fund shall consist of:</text>
+      <para>
+        <num>(1)</num>
+        <text>An initial appropriation in fiscal year 2007; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Monies derived from the sale of goods through the commissary at correctional facilities.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Except as provided in § <cite path="§24-283">24-283</cite>(2), funds deposited into the Fund shall not be transferred or revert to the fund balance of the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall be continually available for the uses and purposes set forth in § <cite path="§24-283">24-283</cite>, subject to authorization by Congress.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Fund shall comply with all financial and procurement statutes, rules, regulations, standards, and systems promulgated by the District of Columbia government.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Fund shall be subject to annual audits scheduled by the Office of the Chief Financial Officer, which shall be submitted to the Council no later than February 1 of each year. The scope of the audit shall include an examination of the Department’s use of Fund profits, including stocking the commissaries, low-bond releases, providing inmate clothing upon release, and funding transportation costs for inmates after release. The audit reports shall be submitted to the Council and the Mayor.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 3003, 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§24-281">24-281</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 3003 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3003 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3003 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|IX"/>
+    <num codify:value="24-283">3004</num>
+    <heading>Uses of Inmate Welfare Fund.</heading>
+    <text>The Fund shall be used for the following purposes, in order of priority:</text>
+    <para>
+      <num>(1)</num>
+      <text>To stock the commissaries of District correctional facilities;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>To repay the initial appropriation used to finance the Fund; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>To provide goods and services that benefit the general inmate population at District correctional facilities, as determined by the Inmate Welfare Fund Committee established in § <cite path="§24-284">24-284</cite>.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 3004, 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§24-282">24-282</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 3004 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3004 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3004 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|24|2|IX"/>
+    <num codify:value="24-284">3005</num>
+    <heading>Inmate Welfare Fund Committee.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Inmate Welfare Fund Committee is established for the purpose of administering and supervising the operations of and the expenditures from the Inmate Welfare Fund.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Committee shall be composed of the following 5 members:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Director of the Department of Corrections, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The General Counsel of the Department of Corrections, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Warden of the Central Detention Facility, or his or her designee;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Manager of the Office of Internal Controls, Compliance, and Accreditation of the Department of Corrections, or his or her designee; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Director of the Office of Management Information and Technological Services of the Department of Corrections, or his or her designee.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Committee shall maintain a record of its authorization and approval for all expenditures from the Fund.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Committee may promulgate regulations governing the use and expenditures of the Fund.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 3005, 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§24-281">24-281</cite> and § <cite path="§24-283">24-283</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 3005 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3005 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3005 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|27A"/>
+    <num codify:value="38-2731">4022</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Academic year” shall have the same meaning as provided in section 481 of the Higher Education Act [20 U.S.C. § 1088].</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“DC Leveraging Educational Assistance Partnership Program” means the college financial assistance program administered by the State Education Office pursuant to Subpart 4 of Part A of Title IV of the Higher Education Act [20 U.S.C. § 1070c et seq.].</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Eligible institution” means an institution that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Is an institution of higher education, either public or private, with its principal campus in the District of Columbia; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Is eligible to receive Student Aid Program funds under Title IV of the Higher Education Act [20 U.S.C. § 1070 et seq.].</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Eligible student” means a District resident who meets the eligibility criteria for the DC Leveraging Educational Assistance Partnership Program administered by the State Education Office.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>“Higher Education Act” means the Higher Education Act of 1965, approved November 8, 1965 [(79 Stat. 1219; 20 U.S.C. § 1001 et seq.)].</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>“Institution of higher education” shall have the same meaning as provided in section 101 of the Higher Education Act [20 U.S.C. § 1001].</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>“Qualified higher education expenses” means:</text>
+      <para>
+        <num>(A)</num>
+        <text>Tuition, fees, and the cost of books, supplies, and equipment required for the enrollment or attendance of a qualified beneficiary at an eligible institution;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The costs of room and board of a qualified beneficiary incurred while attending an eligible institution; provided, that the amount of room and board shall not exceed the minimum room and board allowance determined in calculating costs of attendance for federal financial aid programs under section 472 of the Higher Education Act [20 U.S.C. § 1087ll], or any subsequent legislation and implementing regulations; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Additional living expenses.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 4022, 53 DCR 6899</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 137, 56 DCR 1117</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in par. (2).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4022 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4022 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4022 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 4021 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided that subtitle C of title IV of the act may be cited as the “Higher Education Financial Aid Assistance Act of 2006”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <text>Section 481 of the Higher Education Act, referred to in par. (1), is codified at  20 U.S.C. § 1088.</text>
+        <text>Subpart 4 of part A of Title IV of the Higher Education Act, referred to in par. (2), is codified at  20 U.S.C. § 1070c et seq.</text>
+        <text>Title IV of the Higher Education Act, referred to in par. (3)(B), is codified at  20 U.S.C. § 1070 et seq.</text>
+        <text>Section 101 of the Higher Education Act, referred to in par. (6), is codified at  20 U.S.C. § 1001.</text>
+        <text>Section 472 of the Higher Education Act, referred to in par. (7)(B), is codified at  20 U.S.C. § 1088.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|27A"/>
+    <num codify:value="38-2732">4023</num>
+    <heading>DC Leveraging Educational Assistance Partnership Program.</heading>
+    <text>The State Education Office shall administer the DC Leveraging Educational Assistance Partnership Program.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 4023, 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4023 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4023 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4023 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|27A"/>
+    <num codify:value="38-2733">4024</num>
+    <heading>Grant awards for DC Leveraging Educational Assistance Partnership Program.</heading>
+    <para>
+      <num>(a)</num>
+      <text>From local funds appropriated annually for the DC Leveraging Educational Assistance Partnership Program, the State Education Office shall make available grant awards to pay for qualified higher education expenses for no fewer than 800 eligible students attending eligible institutions. If fewer than 800 eligible students from eligible institutions apply, the funds may be used to grant awards to eligible students attending eligible institutions of higher education outside of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>An eligible student attending an eligible institution shall have paid on the student’s behalf under this section:</text>
+      <para>
+        <num>(A)</num>
+        <text>Not more than $5,000 for any one academic year; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A total of not more than $25,000 over 5 years.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Payments under this section shall be prorated for eligible students who attend an eligible institution on less than a full-time basis.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 4024, 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4024 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4024 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4024 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|27A"/>
+    <num codify:value="38-2734">4025</num>
+    <heading>Annual reports.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor shall report to the Council annually regarding:</text>
+      <para>
+        <num>(1)</num>
+        <text>The number of eligible students attending each eligible institution and the amount of the grant awards paid to those institutions on behalf of eligible students;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The extent, if any, to which a ratable reduction was made in the amount of higher education assistance payments made on behalf of eligible students; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The progress made by eligible students each year in obtaining recognized academic credentials.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The State Education Office shall annually make available the following information, to be solicited by the State Education Office and collected from participating institutions:</text>
+      <para>
+        <num>(1)</num>
+        <text>The enrollment status and graduation rates of students on whose behalf funding from this program has been paid to eligible institutions; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The enrollment status and graduation rates of students on whose behalf funding has been paid from the DC Tuition Assistance Grant Program, established by Chapter 27 of this title.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 4025, 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4025 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4025 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4025 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|33"/>
+    <num codify:value="38-3301">4032</num>
+    <heading>Educational services for detained and committed youth under the supervision of the Department of Youth Rehabilitation Services.</heading>
+    <text>The District of Columbia Board of Education shall enter into a Memorandum of Understanding (“MOU”) with the Mayor that shall specify how educational services shall be provided to committed and detained youth who are under the supervision of the Department of Youth Rehabilitation Services (“DYRS”) and are residing in the Oak Hill Youth Center, the Youth Services Center, and any other replacement or new secure facilities operated by or on behalf of DYRS for youth in DYRS custody. The MOU shall specify in detail how an appropriate educational program shall be delivered to children under the supervision of DYRS and how operating funds, allocations, and other funds that support the provision of these services will be utilized.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 4032, 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 4032 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4032 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 4032 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 4031 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided that subtitle D of title IV of the act may be cited as the “Educational Services for Detained and Committed Youth Act of 2006”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|15|VI"/>
+    <num codify:value="2-1581">1152</num>
+    <heading>Youth Development Plan.</heading>
+    <text>The Mayor shall oversee the implementation of District’s Youth Development Plan, which has been designed to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Increase the quality of coordination and collaboration among all stakeholders to deliver city-funded youth services;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Advance the positive youth development philosophy and policy approach;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Effectively implement youth violence prevention and intervention strategies;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Provide for consistent and sustained investment in the city’s youth guided by positive youth development; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Directly impact upon challenges affecting adolescent youth and disconnected youth.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 1152, 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1152 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1152 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1152 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided that subtitle N of title I of the act may be cited as the “Youth Development Plan Implementation Strategy Act of 2006”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|15|VI"/>
+    <num codify:value="2-1582">1153</num>
+    <heading>Strategy update.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor, within 30 days of the adoption of the budget, shall disseminate the budget and implementation strategy for the Youth Development Plan for each fiscal year (“youth development report”). Copies of the youth development report shall be transmitted to each member of the Council and posted on the District government’s website. This report shall summarize the successes and difficulties of the previous year’s strategy and any new youth development initiatives that are to be included in the plan for the upcoming year.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The youth development report shall also include qualitative and quantitative outcome measures and performance measures (“measures”) for each implemented initiative (“measures”). Outcome measures and performance measures for other initiatives shall be developed as soon as practicable. The Deputy Mayor for Children, Youth, Families and Elders and the Deputy Mayor for Public Safety and Justice shall develop these measures upon advice from the Youth Development Plan Executive Working Group established under § <cite path="§2-1585">2-1585</cite>.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>For purposes of this section, the term “Qualitative and quantitative outcome measures and performance measures” means indicators of progress toward achieving the citywide goals established in the Children’s Budget Report and ensuring that youth development programs are provided effectively and efficiently.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 1153, 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1153 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1153 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1153 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|15|VI"/>
+    <num codify:value="2-1583">1154</num>
+    <heading>Realignment of funding priorities.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Notwithstanding any other law to the contrary, any reprogramming of money that relates to the funding of the Youth Development Plan’s budget or the Children’s Budget shall conform with the citywide goals for children and youth identified in the Children’s Budget Report. The city-wide goals for children and youth are:</text>
+      <para>
+        <num>(1)</num>
+        <text>Children are ready for school.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Children and youth succeed in school;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Children and youth practice healthy behaviors;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Children and youth engage in meaningful activities;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Children and youth live in healthy, stable, and supportive families; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>All youth make a successful transition to adulthood.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Reprogrammed funds may only be allocated to meet the one of the following specific goals for which such funding was made.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 1154, 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-1584">2-1584</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1154 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1154 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1154 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|15|VI"/>
+    <num codify:value="2-1584">1155</num>
+    <heading>Funding priorities.</heading>
+    <para>
+      <num>(a)</num>
+      <text>In fiscal year 2007, the youth development plan shall be funded by a $1 million allocation to the Office of the City Administrator to be used as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>An amount of $600,000 for gang intervention services, including the Violence Intervention Partnership to reduce youth violence in communities east of the Anacostia River through innovative law enforcement, conflict resolution, and intervention and prevention strategies through a collaborative effort by community leaders, law enforcement officers, government agencies, faith-based institutions, community-based organizations, educators, and youth outreach workers.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An amount of $300,000 for girls leadership and violence prevention programs, including a program to study violence among female youth and implement programs to address this issue; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An amount of $100,000 for youth worker training in positive youth development principles and methods.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall designate additional resources for the Youth Development Plan from agencies that will provide services and support for the Plan’s initiatives, subject to the provisions of § <cite path="§2-1583">2-1583</cite> and applicable laws and regulations.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 1155, 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1155 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1155 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1155 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|15|VI"/>
+    <num codify:value="2-1585">1156</num>
+    <heading>Executive Working Group.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a Youth Development Plan Executive Working Group (“Working Group”), that shall advise its chair on the youth development plan. The chair of the Working Group shall be the Deputy Mayor for Children, Youth, Families and Elders (“chair”). The other members of the Executive working group shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>Current members of the Youth Development Plan’s executive steering committee, including the Deputy Mayor for Public Safety and, the Superintendent of the District of Columbia Public Schools, the City Administrator, and the President of the District of Columbia Children and Youth Investment Trust Corporation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Director of the District of Columbia Department of Employment Services;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A member of the Council, as designated the Council Chairman;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Adolescent youths, to be selected by the chair of the Executive Working Group as follows:</text>
+        <para>
+          <num>(A)</num>
+          <text>A member of the Mayor’s Youth Advisory Council,</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A system-involved youth who may be a youth who is legally a ward of, or committed to the care of the District of Columbia, or who is under the care of, the Department of Mental Health, and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>At least one youth who resides in the District;</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>At least one representative from the Department of Parks and Recreation, as selected by the chair;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>At least one representative from the Department of Youth Rehabilitative Services, as selected by the chair;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>At least one representative from the Child and Family Services Agency, as selected by the chair;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>At least one representative from the Metropolitan Police Department, as selected by the Deputy Mayor for Public Safety &amp; Justice;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Representatives from other governmental agencies and instrumentalities as selected by the chair; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>At least 2 District residents who have demonstrated an interest in youth violence or youth development in the District.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The operations of the Working Group shall be subject to the discretion of the chair; provided, that Working Group shall meet at least twice a year. The chair of the Working Group shall work to ensure that the Group receives meaningful, informed feedback and input from its youth members.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 1156, 53 DCR 6899</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-1582">2-1582</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 1156 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1156 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 1156 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+        <annotation>For temporary (90 day) addition, see § 602 of Crime Bill Emergency Amendment Act of 2009 (D.C. Act 18-129, June 29, 2009,  56 DCR 5495).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|13|III-A"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-1345.01">5202</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 5202, 53 DCR 6899</annotation>
+        <annotation doc="D.C. Law 17-368">Mar. 25, 2009, D.C. Law 17-368, § 4(c), 56 DCR 1338</annotation>
+        <annotation doc="D.C. Law 19-169">Sept. 26, 2012, D.C. Law 19-169, § 10, 59 DCR 5567</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  9028, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§2-1594">2-1594</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-368">D.C. Law 17-368</cite>, in par. (2)(D), substituted “§ <cite path="§16-1001">16-1001</cite>(7)” for “§ <cite path="§16-1031">16-1031</cite>”.</annotation>
+        <annotation>The 2012 amendment by <cite doc="D.C. Law 19-169">D.C. Law 19-169</cite> added (1)(D-i); and repealed (1)(F), which formerly read: “Mental retardation, as that term is defined in § <cite path="§21-1201">21-1201</cite>(7).”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 5202 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 5202 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 5202 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see §§ 9028 and 9029 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 9028 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 9028 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title: Section 5201 of <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> provided that subtitle N of title V of the act may be cited as the “Integrated Funding and Services for At-Risk Children, Youth, and Families Act of 2006”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 35 of <cite doc="D.C. Law 19-169">D.C. Law 19-169</cite> provided that no provision of the act shall impair any right or obligation existing under law.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|13|III-A"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-1345.02">5203</num>
+    <heading>Integrated  Services Fund for At-Risk Children, Youth, and Families.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 5203, 53 DCR 6899</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  9028, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-1345.03">4-1345.03</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 5203 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 5203 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 5203 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) repeal of this section, see §§ 9028 and 9029 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 9028 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 9028 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 9029 of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> provided that the repeal by § 9028 of the act shall apply as of September 30, 2014.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|4|13|III-A"/>
+    <reason>Repealed</reason>
+    <num codify:value="4-1345.03">5204</num>
+    <heading>Scope and design of programs and services.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 16-192">Mar. 2, 2007, D.C. Law 16-192, § 5204, 53 DCR 6899</annotation>
+        <annotation doc="D.C. Law 20-155">Feb. 26, 2015, D.C. Law 20-155, §  9028, 61 DCR 9990</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§4-1345.02">4-1345.02</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 5204 of Fiscal Year 2007 Budget Support Emergency Act of 2006 (D.C. Act 16-477, August 8, 2006,  53 DCR 7068).</annotation>
+        <annotation>For temporary (90 day) addition, see § 5204 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2006 (D.C. Act 16-499, October 23, 2006,  53 DCR 8845).</annotation>
+        <annotation>For temporary (90 day) addition, see § 5204 of Fiscal Year 2007 Budget Support Congressional Review Emergency Act of 2007 (D.C. Act 17-1, January 16, 2007,  54 DCR 1165).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see §§ 9028 and 9029 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 9028 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation>For temporary (90 days) repeal of this section, see § 9028 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Section 9029 of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> provided that the repeal by § 9028 of the act shall apply as of September 30, 2014.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

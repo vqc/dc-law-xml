@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <heading>The 59th Congress</heading>
+  <subheading>Public Laws</subheading>
+  <ns0:include href="./laws/public/59-2-ch3932.xml"/>
+  <ns0:include href="./laws/public/59-2-ch3585.xml"/>
+  <ns0:include href="./laws/public/59-2-ch3575.xml"/>
+  <ns0:include href="./laws/public/59-2-ch3553.xml"/>
+  <ns0:include href="./laws/public/59-2-ch3505.xml"/>
+  <ns0:include href="./laws/public/59-2-ch3446.xml"/>
+  <ns0:include href="./laws/public/59-2-ch3443.xml"/>
+  <ns0:include href="./laws/public/59-2-ch3073.xml"/>
+  <ns0:include href="./laws/public/59-2-ch3055.xml"/>
+  <ns0:include href="./laws/public/59-2-ch2073.xml"/>
+  <ns0:include href="./laws/public/59-2-ch1641.xml"/>
+  <ns0:include href="./laws/public/59-2-ch1626.xml"/>
+  <ns0:include href="./laws/public/59-2-ch958.xml"/>
+  <ns0:include href="./laws/public/59-2-ch957.xml"/>
+  <ns0:include href="./laws/public/59-1-ch1434.xml"/>
+  <ns0:include href="./laws/public/59-1-ch1415.xml"/>
+  <ns0:include href="./laws/public/59-1-ch1414.xml"/>
+  <ns0:include href="./laws/public/59-1-ch1406.xml"/>
+  <ns0:include href="./laws/public/59-1-ch742.xml"/>
+  <ns0:include href="./laws/public/59-1-ch733.xml"/>
+</collection>

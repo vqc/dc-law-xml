@@ -1,10 +1,290 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 55-2-ch543">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 55-2-ch543">
+  <heading/>
   <meta>
     <effective>1898-07-01</effective>
     <cites>
-        <law congress="55" session="2" chapter="543"/>
+      <law congress="55" session="2" chapter="543"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-109" path="|10|1"/>
+    <num codify:value="10-104">2</num>
+    <heading>Control of park system; composition thereof.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The park system of the District of Columbia is placed under the exclusive charge and control of the Director of the National Park Service, under such regulations as may be prescribed by the President of the United States.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The said park system shall be held to comprise; (1) all public spaces laid down as reservations on the map of 1894 accompanying the annual report for 1894 of the officer in charge of public buildings and grounds; (2) all portions of the space in the streets and avenues of the said District, after the same shall have been set aside by the Council of the District of Columbia for park purposes; provided, that no areas less than 250 square feet between sidewalk lines shall be included within the said park system, and no improvements shall be made in unimproved public spaces in streets between building lines or building lines prolonged until the outlines of such portions as are to be improved as parks shall have been laid out by the Council of the District of Columbia; and provided further, that the said Director is authorized temporarily to turn over the care of any of the parking spaces included in clauses (1) and (2) of this subsection, to private owners of adjoining lands under such regulations as he may prescribe and with the condition that the said private owners shall pay special assessments for improvements contiguous to such parking, under the same regulations as are or may be prescribed for private lands; and provided further, that the Council of the District of Columbia is authorized and directed to denominate portions of streets in the District of Columbia as business streets and to authorize the use, on such portions of streets, for business purposes by abutting property owners, under such general regulations as said Council may prescribe, of so much of the sidewalk and parking as may not be needed, in the judgment of said Council, by the general public, under the following conditions, namely:</text>
+      <para>
+        <num>(1)</num>
+        <text>Wherein a portion of a street not already denominated a business street a majority of a frontage not less than 3 blocks in length is occupied and used for business purposes; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Where a portion of a street has already been denominated a business street, and there exists adjoining such portion a block or more whose frontage is occupied and used for business purposes.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 1, 1898, 30 Stat. 570, ch. 543, § 2</annotation>
+        <annotation>Feb. 2, 1904, 33 Stat. 10, ch. 89</annotation>
+        <annotation>Apr. 14, 1906, 34 Stat. 112, ch. 1622</annotation>
+        <annotation>Feb. 26, 1925, 43 Stat. 983, ch. 339, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Driving on footways, penalty, see § <cite path="§22-1318">22-1318</cite>.</annotation>
+        <annotation>Public roads and bridges, jurisdiction, see § <cite path="§9-101.02">9-101.02</cite>.</annotation>
+        <annotation>Transfer of National Children’s Island, see § <cite path="§10-1404">10-1404</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-129">10-129</cite>, § <cite path="§10-137">10-137</cite>, § <cite path="§10-138">10-138</cite>, § <cite path="§10-142">10-142</cite>, § <cite path="§10-146">10-146</cite>, § <cite path="§10-154">10-154</cite>, and § <cite path="§10-1404">10-1404</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 8-104.</annotation>
+        <annotation>1973 Ed., § 8-108.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>The functions of the Director of the National Park Service relating to public buildings were transferred to the Federal Works Administrator by § 303 (b) of  Reorganization Plan No. I, July 1, 1939, 4 F.R. 2729, 53 Stat. 1427. All functions of all officers of the Department of the Interior (including the Director of the National Park Service) and all functions of all agencies and employees of such Department were, with 2 exceptions, transferred to the Secretary of the Interior, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorganization Plan No. 3, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1262. All functions of the Federal Works Agency and of all agencies thereof, together with all functions of the Federal Works Administrator, and all functions of the Commissioner of Public Buildings and the Public Buildings Administration, were transferred to the Administrator of General Services by § 103(a) of the Act of June 30, 1949, 63 Stat. 380, ch. 288. The Federal Works Agency, the Office of Federal Works Administrator, the Office of Commissioner of Public Buildings, and the Public Buildings Administration, were abolished by § 103(b) of said Act. All functions with respect to acquiring space in buildings by lease and all functions with respect to assigning and reassigning space in buildings for use by agencies (including both space acquired by lease and space in government-owned buildings), were, with certain exceptions, transferred from the respective agencies in which theretofore vested to the Administrator of General Services by §  1 of 1950 Reorganization Plan No. 18, 15 F.R. 3177, 64 Stat. 1270.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(179) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-109" path="|10|1"/>
+    <num codify:value="10-106">1</num>
+    <heading>Jurisdiction and control of street parking.</heading>
+    <text>The jurisdiction and control of the street parking in the streets and avenues of the District of Columbia is transferred to and vested in the Council of the District of Columbia.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 1, 1898, 30 Stat. 570, ch. 543, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Traffic and parking laws, see § <cite path="§50-2201.03">50-2201.03</cite> et seq.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-129">10-129</cite>, § <cite path="§10-137">10-137</cite>, and § <cite path="§10-138">10-138</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 8-106.</annotation>
+        <annotation>1973 Ed., § 8-110.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(180) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-125" path="|10|1"/>
+    <num codify:value="10-123">4</num>
+    <heading>Use of spaces or reservations for widening roadways.</heading>
+    <text>When, in the judgment of the Mayor of the District of Columbia, the public necessity or convenience requires them to enter upon any of the spaces or reservations under the jurisdiction of the Director of the National Park Service for the purpose of widening the roadway of any street or avenue adjacent thereto or to establish sidewalks along the same, the Director of the National Park Service is authorized to grant the necessary permission upon the application of the Mayor.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 1, 1898, 30 Stat. 570, ch. 543, § 4</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-129">10-129</cite>, § <cite path="§10-137">10-137</cite>, and § <cite path="§10-138">10-138</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 8-123.</annotation>
+        <annotation>1973 Ed., § 8-127.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>The functions of the Director of the National Park Service relating to public buildings were transferred to the Federal Works Administrator by § 303 (b) of  Reorganization Plan No. I, July 1, 1939, 4 F.R. 2729, 53 Stat. 1427. All functions of all officers of the Department of the Interior (including the Director of the National Park Service) and all functions of all agencies and employees of such Department were, with 2 exceptions, transferred to the Secretary of the Interior, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorganization Plan No. 3, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1262. All functions of the Federal Works Agency and of all agencies thereof, together with all functions of the Federal Works Administrator, and all functions of the Commissioner of Public Buildings and the Public Buildings Administration, were transferred to the Administrator of General Services by § 103(a) of the Act of June 30, 1949, 63 Stat. 380, ch. 288. The Federal Works Agency, the Office of Federal Works Administrator, the Office of Commissioner of Public Buildings, and the Public Buildings Administration, were abolished by § 103(b) of said Act. All functions with respect to acquiring space in buildings by lease and all functions with respect to assigning and reassigning space in buildings for use by agencies (including both space acquired by lease and space in government-owned buildings), were, with certain exceptions, transferred from the respective agencies in which theretofore vested to the Administrator of General Services by §  1 of 1950 Reorganization Plan No. 18, 15 F.R. 3177, 64 Stat. 1270.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-131" path="|10|1"/>
+    <num codify:value="10-129">5</num>
+    <heading>Letters of transfer and acceptance deemed authority for change in maps and for record.</heading>
+    <text>When in accordance with law or mutual legal agreement, spaces or portions of public land are transferred from the jurisdiction of the Director of the National Park Service, as established by §§ <cite path="§6-404">6-404</cite>, <cite path="§10-104">10-104</cite>, <cite path="§10-106">10-106</cite>, <cite path="§10-123">10-123</cite>, <cite path="§10-129">10-129</cite> and <cite path="§10-137">10-137</cite>, to that of the Mayor of the District of Columbia, or vice versa, the letters exchanged between them of transfer and acceptance shall be sufficient authority for the necessary change in the official maps and for record when necessary.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 1, 1898, 30 Stat. 570, ch. 543, § 5</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-137">10-137</cite> and § <cite path="§10-138">10-138</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 8-129.</annotation>
+        <annotation>1973 Ed., § 8-135.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>The functions of the Director of the National Park Service relating to public buildings were transferred to the Federal Works Administrator by § 303 (b) of  Reorganization Plan No. I, July 1, 1939, 4 F.R. 2729, 53 Stat. 1427. All functions of all officers of the Department of the Interior (including the Director of the National Park Service) and all functions of all agencies and employees of such Department were, with 2 exceptions, transferred to the Secretary of the Interior, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorganization Plan No. 3, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1262. All functions of the Federal Works Agency and of all agencies thereof, together with all functions of the Federal Works Administrator, and all functions of the Commissioner of Public Buildings and the Public Buildings Administration, were transferred to the Administrator of General Services by § 103(a) of the Act of June 30, 1949, 63 Stat. 380, ch. 288. The Federal Works Agency, the Office of Federal Works Administrator, the Office of Commissioner of Public Buildings, and the Public Buildings Administration, were abolished by § 103(b) of said Act. All functions with respect to acquiring space in buildings by lease and all functions with respect to assigning and reassigning space in buildings for use by agencies (including both space acquired by lease and space in government-owned buildings), were, with certain exceptions, transferred from the respective agencies in which theretofore vested to the Administrator of General Services by §  1 of 1950 Reorganization Plan No. 18, 15 F.R. 3177, 64 Stat. 1270.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-140" path="|10|1"/>
+    <num codify:value="10-137">6</num>
+    <heading>Authority to make rules and regulations for care of public grounds — Generally.</heading>
+    <text>The Director of the National Park Service and the said Mayor of the District of Columbia are authorized to make all needful rules and regulations for the government and proper care of all the public grounds placed by §§ <cite path="§6-404">6-404</cite>, <cite path="§10-104">10-104</cite>, <cite path="§10-106">10-106</cite>, <cite path="§10-123">10-123</cite>, <cite path="§10-129">10-129</cite> and <cite path="§10-137">10-137</cite>, under their respective charge and control; and to annex to such rules and regulations such reasonable penalties as will secure their enforcement.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 1, 1898, 30 Stat. 571, ch. 543, § 6</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-138">10-138</cite> and § <cite path="§10-148">10-148</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 8-137.</annotation>
+        <annotation>1973 Ed., § 8-143.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Transfer of Functions</heading>
+        <annotation>The functions of the Director of the National Park Service relating to public buildings were transferred to the Federal Works Administrator by § 303 (b) of  Reorganization Plan No. I, July 1, 1939, 4 F.R. 2729, 53 Stat. 1427. All functions of all officers of the Department of the Interior (including the Director of the National Park Service) and all functions of all agencies and employees of such Department were, with 2 exceptions, transferred to the Secretary of the Interior, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorganization Plan No. 3, §§ 1, 2, 15 F.R. 3174, 64 Stat. 1262. All functions of the Federal Works Agency and of all agencies thereof, together with all functions of the Federal Works Administrator, and all functions of the Commissioner of Public Buildings and the Public Buildings Administration, were transferred to the Administrator of General Services by § 103(a) of the Act of June 30, 1949, 63 Stat. 380, ch. 288. The Federal Works Agency, the Office of Federal Works Administrator, the Office of Commissioner of Public Buildings, and the Public Buildings Administration, were abolished by § 103(b) of said Act. All functions with respect to acquiring space in buildings by lease and all functions with respect to assigning and reassigning space in buildings for use by agencies (including both space acquired by lease and space in government-owned buildings), were, with certain exceptions, transferred from the respective agencies in which theretofore vested to the Administrator of General Services by §  1 of 1950 Reorganization Plan No. 18, 15 F.R. 3177, 64 Stat. 1270.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-140" path="|10|1"/>
+    <num codify:value="10-137.01">6a</num>
+    <heading>Authority of the Director of the Department of Parks and Recreation to regulate District parks.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Council finds that, in order to protect the public health and safety, environmental and scenic values, natural or cultural resources, equitable allocations and use of District park facilities, and to alleviate conflict among park visitors, it is necessary to implement management responsibilities for District parks.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Director of the Department may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Establish a reasonable schedule of hours for the operation of parks;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Impose limits, conditions, and restrictions on the public use of parks;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Close all or a portion of a park area to public use or to a specific use or activity; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Terminate a limit, condition, restriction, or any other decision made pursuant to this subsection.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>Except in emergency situations, the Director of the Department shall inform the public of closures, designations, use restrictions or conditions, or the termination or relaxation of such, which is of a nature, magnitude and duration that will result in a significant alteration in the public use pattern of the park area, adversely affect the park’s natural, aesthetic, scenic or cultural values, require a long-term or significant modification in the resource management objectives of the unit, or is of a highly controversial nature, by publishing such changes as rulemaking in the District of Columbia Register and a major Washington, D.C. metropolitan newspaper.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Except in emergency situations, prior to implementing or terminating a restriction, condition, public use limit or closure, the Director of the Department shall prepare a written determination justifying the action. That determination shall set forth the reasons why the restriction, condition, public use limit or closure authorized by subsection (b) of this section has been established, and an explanation of why less restrictive measures will not suffice, or in the case of a termination of a restriction, condition, public use limit or closure previously established under subsection (b) of this section, a determination as to why the restriction is no longer necessary and a finding that the termination will not adversely impact park resources. This determination shall be available to the public upon request.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>To implement a public use limit, the Director of the Department may establish a permit, registration, or reservation system. Permits shall be issued in accordance with, or in exception to, the criteria in subsection (b) of this section. Applications for use permits may be sent to the Director of the Department, 30 days in advance of the event, by writing a letter which describes the event including the date, day, starting and ending time of the event, a description of what the event will be, and approximately how many people are expected.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Violating a closure, designation, use or activity restriction or condition, schedule of visiting hours, or public use limit is prohibited. The District of Columbia Metropolitan Police Department may enforce the provisions contained in subsection (b) of this section. Any person violating the provisions of subsection (b) of this section may be punished by a fine of not more than $100 or by imprisonment for not more than 90 days, or both.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 1, 1898, ch. 543, § 6a</annotation>
+        <annotation doc="D.C. Law 10-226">as added Mar. 16, 1995, D.C. Law 10-226, § 2, 42 DCR 1</annotation>
+        <annotation doc="D.C. Law 11-110">Apr. 18, 1996, D.C. Law 11-110, § 19, 43 DCR 530</annotation>
+        <annotation doc="D.C. Law 20-271">May 2, 2015, D.C. Law 20-271, § 301(a), 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-301">10-301</cite> and § <cite path="§10-302">10-302</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 8-137.1.</annotation>
+        <annotation>1981 Ed., § 8-137.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2015 amendment by <cite doc="D.C. Law 20-271">D.C. Law 20-271</cite> substituted “Department of Parks and Recreation” for “Department of Recreation and Parks” in the section heading.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Legislation</heading>
+        <annotation>Section 2 of <cite doc="D.C. Law 17-336">D.C. Law 17-336</cite> added a section to read as follows:</annotation>
+        <annotation>“Sec. 2. Analysis of proposed child day care services and senior citizen programs.</annotation>
+        <annotation>“(a) The Mayor shall submit to the Council a comprehensive analysis of proposed child day care services and senior citizen programs offered by the Department of Parks and Recreation prior to the closing, discontinuing, or relocating of any child day care or senior citizen program offered by the department.</annotation>
+        <annotation>“(b) The analysis shall include:</annotation>
+        <annotation>“(1) A pedestrian safety and transportation option analysis for participants near proposed, closed, or discontinued locations to the nearest site with comparable services;</annotation>
+        <annotation>“(2) The possible effect, if any, on any federal funding of the closing, discontinuing, or relocating of services and programs; and</annotation>
+        <annotation>“(3) A plan to increase participation in the affected programs and services.”</annotation>
+        <annotation>Section 4(b) of <cite doc="D.C. Law 17-336">D.C. Law 17-336</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2 of Day Care and Senior Services Emergency Act of 2008 (D.C. Act 17-615, December 19, 2008,  56 DCR 42).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2 of Day Care and Senior Services Congressional Review Emergency Act of 2009 (D.C. Act 18-25, March 16, 2009,  56 DCR 2313).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 301(a) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, November 18, 2014, 61 DCR 12133, 20 STAT 4405).</annotation>
+        <annotation>For temporary (90 days) addition of § 8b to the Act of July 1, 1898, ch. 543, concerning a name change to the Department of Recreation and Parks, see § 301(b) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, November 18, 2014, 61 DCR 12133, 20 STAT 4405).</annotation>
+        <annotation>For temporary (90 days) amendment of this section, see § 301(a) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 STAT 807).</annotation>
+        <annotation>For temporary (90 days) addition of § 8b to the Act of July 1, 1898, ch. 543, concerning a name change to the Department of Recreation and Parks, see § 301(b) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 STAT 807).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>Pursuant to Mayor’s Order 2000-20, the agency formerly known as the Department of Recreation and Parks shall be known as the Department of Parks and Recreation.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§10-140" path="|10|1"/>
+    <num codify:value="10-137.02">8</num>
+    <heading>Name change.</heading>
+    <text>The Department of Recreation and Parks, established by Organization Order No. 10, approved June 27, 1968, shall be renamed the Department of Parks and Recreation.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 1, 1898, 30 Stat. 571, ch. 543, § 8</annotation>
+        <annotation doc="D.C. Law 20-271">as added May 2, 2015, D.C. Law 20-271, § 301(b), 62 DCR 1884</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) addition of this section, see § 301(b) of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 DCSTAT 807).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

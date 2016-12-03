@@ -1,7 +1,188 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="R.S., U.S.">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="R.S., U.S.">
   <heading>Revised Statutes of the United States</heading>
   <meta>
     <effective>0000-00-01</effective>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|A"/>
+    <num codify:value="10-503.01">1820</num>
+    <heading>Authority to make regulations.</heading>
+    <text>The Sergeants at Arms of the Senate and of the House of Representatives are authorized to make such regulations as they may deem necessary for preserving the peace and securing the Capitol from defacement, and for the protection of the public property therein, and they shall have power to arrest and detain any person violating such regulations, until such person can be brought before the proper authorities for trial.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>R.S., § 1820</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Metropolitan Police jurisdiction, see § <cite path="§5-133.02">5-133.02</cite>.</annotation>
+        <annotation>United States Park Police, see § <cite path="§5-201">5-201</cite> et seq.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-105.</annotation>
+        <annotation>1973 Ed., § 9-105.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Enlargement of Capitol Grounds: Act of March 4, 1929, 45 Stat. 1694, ch. 708, as amended, provided for the enlargement of the Capitol Grounds.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|23|I"/>
+    <num codify:value="38-2303">441</num>
+    <heading>Supervision.</heading>
+    <text>The Secretary of Education is charged with the supervision of public business relating to Gallaudet University.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>R.S., § 441</annotation>
+        <annotation>Mar. 4, 1911, 36 Stat. 1422, ch. 285</annotation>
+        <annotation>1940 Reorg. Plan No. IV,§ 11</annotation>
+        <annotation>1953 Reorg. Plan No. 1</annotation>
+        <annotation>June 18, 1954, 68 Stat. 265, ch. 324, § 1</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1803.</annotation>
+        <annotation>1973 Ed., § 31-1022.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <text>“Gallaudet University” was substituted for “Gallaudet College” pursuant to § <cite path="§38-2401.01">38-2401.01</cite>. “Gallaudet College” had previously been substituted for “Columbia Institution for the Deaf” at the end of this section, pursuant to former § <cite path="§38-2305">38-2305</cite>.</text>
+        <text>“Secretary of Education” was substituted for “Secretary of Health, Education and Welfare” near the beginning of this section, pursuant to § 301 of the Act of October 17, 1979, 93 Stat. 677, Pub. L. 96-88.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§2-225.08" path="|2|2|XIII|A"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-225.05">3709</num>
+    <heading>Advertisement for purchases and contracts required; exceptions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>R.S. § 3709</annotation>
+        <annotation>Aug. 2, 1946, 60 Stat. 809, ch. 744, § 9(a)</annotation>
+        <annotation>June 30, 1949, 63 Stat. 403, ch. 288, title VI, § 602(f)</annotation>
+        <annotation>Sept. 5, 1950, 64 Stat. 583, ch. 849,§§ 6(a), (b), 8(c)</annotation>
+        <annotation doc="Pub. L. 93-356">Aug. 28, 1958, 72 Stat. 967, Pub. L. 93-356, § 1</annotation>
+        <annotation doc="D.C. Law 1-95">Mar. 29, 1977, D.C. Law 1-95, § 11(c), 23 DCR 9532b</annotation>
+        <annotation doc="D.C. Law 11-259">April 12, 1997, D.C. Law 11-259, § 405, 44 DCR 1423</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-1110.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|24|I"/>
+    <num codify:value="34-2401.23">1805</num>
+    <heading>Main pipes; laying for use of public buildings.</heading>
+    <text>No greater number of main pipes of the Washington Aqueduct shall be laid at the expense of the United States than are sufficient to furnish the public buildings, offices, and grounds with the necessary supply of water. The cost of any main pipe, for the supply of water to the inhabitants of Washington, must be paid by the District of Columbia, in the manner provided by law.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>R.S., U.S., § 1805</annotation>
+        <annotation>Feb. 11, 1895, 28 Stat. 650, ch. 79</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 43-1549.</annotation>
+        <annotation>1973 Ed., § 43-1537.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|34|24|I"/>
+    <num codify:value="34-2401.24">1803</num>
+    <heading>Unauthorized opening of mains or pipes.</heading>
+    <text>No person, unless by consent of the Chief of Engineers, shall tap or open the mains or pipes laid or hereafter to be laid by the United States, under a penalty of not less than $50 nor more than $500.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>R.S., U.S., § 1803</annotation>
+        <annotation>Feb. 26, 1925, 43 Stat. 983, ch. 339, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 43-1550.</annotation>
+        <annotation>1973 Ed., § 43-1538.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§9-401.17" path="|9|4|I"/>
+    <num codify:value="9-401.16">1813</num>
+    <heading>Limitation on contracts of Mayor.</heading>
+    <text>The Mayor of the District of Columbia is prohibited from incurring or contracting liabilities on behalf of the United States in the improvement of streets, avenues, and reservations beyond the amount of appropriations previously made by Congress, and from entering into any contract touching such improvements on behalf of the United States, except in pursuance of appropriations made by Congress.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>R.S., § 1813</annotation>
+        <annotation>June 20, 1874, 18 Stat. 116, ch. 337</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-625.</annotation>
+        <annotation>1973 Ed., § 7-620.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§9-1201.15" path="|9|12|I"/>
+    <num codify:value="9-1201.09">1818</num>
+    <heading>Improper appropriation or occupation of streets.</heading>
+    <text>The Secretary of the Interior is directed to prevent the improper appropriation or occupation of any of the public streets, avenues, squares, or reservations in the City of Washington, belonging to the United States, and to reclaim the same if unlawfully appropriated; and particularly to prevent the erection of any permanent building upon any property reserved to or for the use of the United States, unless plainly authorized by act of Congress, and to report to Congress at the commencement of each session his proceedings in the premises, together with a full statement of all such property, and how, and by what authority, the same is occupied or claimed. Nothing herein contained shall be construed to interfere with the temporary and proper occupation of any portion of such property, by lawful authority, for the legitimate purposes of the United States.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>R.S., § 1818</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 7-1409.</annotation>
+        <annotation>1973 Ed., § 7-1209.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§22-3322" path="|22|33"/>
+    <num codify:value="22-3318">1806</num>
+    <heading>Malicious pollution of water.</heading>
+    <text>Every person who maliciously commits any act by reason of which the supply of water, or any part thereof, to the City of Washington, becomes impure, filthy, or unfit for use, shall be fined not less than $500 and not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>, or imprisoned at hard labor not more than 3 years nor less than 1 year.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>R.S., § 1806</annotation>
+        <annotation>Feb. 11, 1895, 28 Stat. 650, ch. 79</annotation>
+        <annotation doc="D.C. Law 19-317">June 11, 2013, D.C. Law 19-317, § 219 ac(b), 60 DCR 2064</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 22-3118.</annotation>
+        <annotation>1973 Ed., § 22-3118.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “and not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “nor more than $1,000”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 days) amendment of this section, see § 219(b) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

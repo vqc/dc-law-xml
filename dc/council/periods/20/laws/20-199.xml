@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 20-199">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 20-199">
   <num type="law">20-199</num>
   <heading type="short">Truth in Affordability Reporting Act of 2014</heading>
   <meta>
@@ -12,4 +12,63 @@
       <narrative>Law 20-199, the “Truth in Affordability Reporting Act of 2014,” was introduced in Council and assigned Bill No. 20-369. The Bill was adopted on first and second readings on Oct. 28, 2014, and Nov. 18, 2014, respectively. Signed by the Mayor on Dec. 8, 2014, it was assigned Act No. 20-493 and transmitted to Congress for its review. D.C. Law 20-199 became effective on Mar. 10, 2015.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|21A|III"/>
+    <num codify:value="42-2151.01">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Actual income” means the cash equivalent of any affordable housing level expressed as a percentage of area median income.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Affordable housing development” means any structure or building in the District that is publically subsidized utilizing federal or local funds for the purpose of providing affordable housing.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Area median income” means the area median income of the Washington Metropolitan Statistical Area as set forth in the periodic calculation provided by the U.S. Department of Housing and Urban Development.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“District of Columbia median family income” means the median family income solely for the District of Columbia, as calculated by the Office of the Chief Financial Officer of the District of Columbia.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-199">Mar. 10, 2015, D.C. Law 20-199, § 2, 61 DCR 12561</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|21A|III"/>
+    <num codify:value="42-2151.02">3</num>
+    <heading>Calculation and reporting of affordability.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No less frequently than annually, the Office of the Chief Financial Officer of the District of Columbia shall calculate and publish the District of Columbia median family income on the basis of household size.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Affordable housing development projects that are publicly financed or subsidized by the District of Columbia shall be marketed utilizing affordability data expressed both in terms of area median income and actual income.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>When expressing data about affordable housing, the District of Columbia shall reference levels of affordability both in terms of area median income and actual income.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The District's affordable housing database shall track affordable housing both by area median income and District of Columbia median family income.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A tax abatement financial analysis required by Chapter 47 of Title 47 for the subsidy of affordable housing shall include the calculation of levels of housing affordability in terms of area median income, actual income, and District of Columbia median family income.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-199">Mar. 10, 2015, D.C. Law 20-199, § 3, 61 DCR 12561</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 2-38">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 2-38">
   <num type="law">2-38</num>
   <meta>
     <effective>1977-12-13</effective>
@@ -14,17 +14,2331 @@
   <container>
     <prefix>Title</prefix>
     <num>I</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|I"/>
+      <num codify:value="2-1401.01">101</num>
+      <heading>Intent of Council.</heading>
+      <text>It is the intent of the Council of the District of Columbia, in enacting this chapter, to secure an end in the District of Columbia to discrimination for any reason other than that of individual merit, including, but not limited to, discrimination by reason of race, color, religion, national origin, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, familial status, family responsibilities, matriculation, political affiliation, genetic information, disability, source of income, status as a victim of an intrafamily offense, and place of residence or business.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title I, § 101, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 10-129">June 28, 1994, D.C. Law 10-129, § 2(a), 41 DCR 2583</annotation>
+          <annotation doc="D.C. Law 12-242">Apr. 20, 1999, D.C. Law 12-242,§ 2(a), 46 DCR 952</annotation>
+          <annotation doc="D.C. Law 15-263">Apr. 5, 2005, D.C. Law 15-263, § 2(a), 52 DCR 237</annotation>
+          <annotation doc="D.C. Law 16-58">Mar. 8, 2006, D.C. Law 16-58, § 2(a), 53 DCR 14</annotation>
+          <annotation doc="D.C. Law 16-273">Mar. 14, 2007, D.C. Law 16-273, § 3(a), 54 DCR 859</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§1-608.01">1-608.01</cite>, § <cite path="§1-608.01a">1-608.01a</cite>, § <cite path="§1-608.59">1-608.59</cite>, § <cite path="§1-632.06">1-632.06</cite>, § <cite path="§2-1403.01">2-1403.01</cite>, § <cite path="§2-1431.01">2-1431.01</cite>, § <cite path="§2-1535.01">2-1535.01</cite>, § <cite path="§4-754.21">4-754.21</cite>, § <cite path="§22-3312.02">22-3312.02</cite>, and § <cite path="§50-325">50-325</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2501.</annotation>
+          <annotation>1973 Ed., § 6-2201.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 15-263">D.C. Law 15-263</cite> substituted “genetic information, disability,” for “disability,”.</annotation>
+          <annotation><cite doc="D.C. Law 16-58">D.C. Law 16-58</cite> substituted “sexual orientation, gender identity or expression,” for “sexual orientation,”.</annotation>
+          <annotation><cite doc="D.C. Law 16-273">D.C. Law 16-273</cite> inserted “status as a victim of an intrafamily offense,” following “source of income,”.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Repeal of Law</heading>
+          <text>Repeal of Law 12-138</text>
+          <text>Section 153 of Pub. L. 105-277, 112 Stat. 2681-146, the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, provided that <cite doc="D.C. Law 12-138">D.C. Law 12-138</cite> is repealed October 21, 1998.</text>
+        </annoGroup>
+        <annoGroup>
+          <heading>Mayor's Orders</heading>
+          <text>Establishment of Department of Human Rights and Minority Business Development: See Mayor’s Order 89-247, November 1, 1989.</text>
+          <text>Uniform Language in D.C. Government Anti-Discrimination Issuances and Equal Employment Opportunity Notices, see Mayor’s Order 2002-149, September 13, 2002 ( 49 DCR 8613).</text>
+          <text>Amendment of M.O. 2002-149, dated 8-26-02 — Uniform Language in D.C. Government Anti-Discrimination Issuances and Equal Employment Opportunity Notices, see Mayor’s Order 2002-175, November 1, 2002 ( 49 DCR 9883).</text>
+          <text>Sexual Harassment, see Mayor’s Order 2004-171, October 20, 2004 ( 51 DCR 10486).</text>
+          <text>Amendment of Mayor’s Order 2002-175, dated October 23, 2002 Uniform Language in D.C. Government Anti-Discrimination Issuances and Equal Employment Opportunity Notices, see Mayor’s Order 2006-151, November 6, 2006 ( 53 DCR 9351).</text>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Residency requirement for District employees: Section 2 of <cite doc="D.C. Law 12-138">D.C. Law 12-138</cite>, repealed by § 153 of Pub. L. 105-277, had amended §§ <cite path="§1-608.1">1-608.1</cite> and <cite path="§1-609.1">1-609.1</cite> 1-608.01 and 1-608.01a, 2001 Ed., and enacted § <cite path="§1-607.51">1-607.51</cite>, to require newly-hired District employees in the Career Service, Excepted Service, and Educational Service to establish and maintain residency in the District within 180 days of being hired, and to allow the Mayor to exempt hard to fill positions from the requirements of the act.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|I"/>
+      <num codify:value="2-1401.02">102</num>
+      <heading>Definitions.</heading>
+      <text>The following words and terms when used in this chapter have the following meanings:</text>
+      <para>
+        <num>(1)</num>
+        <text>“Administrative Procedure Act” means the “District of Columbia Administrative Procedure Act,” (§ <cite path="§2-501">2-501</cite> et seq.).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Age” means 18 years of age or older.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Chairman” means the duly appointed Chairman of the District of Columbia Commission on Human Rights.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Commission” means the Commission on Human Rights, as established under subchapter IV of Unit A of this chapter.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Council” means the Council of the District of Columbia as established by § <cite path="§1-204.01">1-204.01</cite>(a).</text>
+      </para>
+      <para>
+        <num>(5A)</num>
+        <text>“Disability” means a physical or mental impairment that substantially limits one or more of the major life activities of an individual having a record of such an impairment or being regarded as having such an impairment.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Director” means the Director of the District of Columbia Office of Human Rights, or a designate.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“District” means the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(7A)</num>
+        <text>“Domestic partner” shall have the same meaning as provided in § <cite path="§32-701">32-701</cite>(3).</text>
+      </para>
+      <para>
+        <num>(7B)</num>
+        <text>“Domestic partnership” shall have the same meaning as provided in § <cite path="§32-701">32-701</cite>(4).</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Educational institution” means any public or private institution including an academy, college, elementary or secondary school, extension course, kindergarten, nursery, school system or university; and a business, nursing, professional, secretarial, technical, or vocational school; and includes an agent of an educational institution.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Employee” means any individual employed by or seeking employment from an employer; provided, that the term “employee” shall include an unpaid intern.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Employer” means any person who, for compensation, employs an individual, except for the employer’s parent, spouse, children or domestic servants, engaged in work in and about the employer’s household; any person acting in the interest of such employer, directly or indirectly; and any professional association.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“Employment agency” means any person regularly undertaking or attempting, with or without compensation, to procure employees for an employer or to procure for employees, opportunities to work for an employer, and includes an agent of such a person.</text>
+      </para>
+      <para>
+        <num>(11A)</num>
+        <text>“Familial status” means one or more individuals under 18 years of age being domiciled with: (1) a parent or other person having legal custody of the individual; or (2) the designee, with written authorization of the parent, or other persons having legal custody of individuals under 18 years of age. The protection afforded against discrimination on the basis of familial status shall apply to any person who is pregnant or in the process of securing legal custody of any individual under 18 years of age.</text>
+      </para>
+      <para>
+        <num>(11B)</num>
+        <text>“Family member” means, with respect to an individual and genetic information, the spouse or domestic partner of the individual, dependent child (whether born to or placed for adoption with the individual), and all other individuals related by blood to the individual, spouse, domestic partner, or child.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Family responsibilities” means the state of being, or the potential to become, a contributor to the support of a person or persons in a dependent relationship, irrespective of their number, including the state of being the subject of an order of withholding or similar proceedings for the purpose of paying child support or a debt related to child support.</text>
+      </para>
+      <para>
+        <num>(12A)</num>
+        <text>“Gender identity or expression” means a gender-related identity, appearance, expression, or behavior of an individual, regardless of the individual’s assigned sex at birth.</text>
+      </para>
+      <para>
+        <num>(12A-i)</num>
+        <text>“Genetic information” means information about the presence of any gene, chromosome, protein, or certain metabolites that indicate or confirm that an individual or an individual’s family member has a mutation or other genotype that is scientifically or medically believed to cause a disease, disorder, or syndrome, if the information is obtained from a genetic test.</text>
+      </para>
+      <para>
+        <num>(12B)</num>
+        <text>“Genetic test” means an analysis of human chromosomes, genes, gene products, or genetic information that is used to identify the presence or absence of inherited or congenital alterations in genetic material that are associated with disease or illness. A genetic test shall not include a test for the presence of illegal drugs, routine physical measurements, or chemical, blood or urine analysis, unless conducted purposefully to obtain genetic information.</text>
+      </para>
+      <para>
+        <num>(12C)</num>
+        <text>“Health benefit plan” means any accident and health insurance policy or certificate, hospital and medical services corporation contract, health maintenance organization subscriber contract, plan provided by a multiple employer welfare arrangement, or plan provided by another benefit arrangement. The term “health care benefit plan” does not mean accident only, credit or disability insurance; coverage of Medicare services or federal employee benefit plans, pursuant to contracts with the United States government; Medicare supplemental or long-term care insurance; dental only or vision only insurance; specified disease insurance; hospital confinement indemnity coverage; limited benefit health coverage; coverage issued as supplemental to liability insurance, insurance arising out of workers compensation or similar law; automobile medical payment insurance; medical expense and loss of income benefits; insurance under which benefits are payable with or without regard to fault and that is statutorily required to be contained in any liability insurance policy or equivalent self-insurance; or life insurance.</text>
+      </para>
+      <para>
+        <num>(12D)</num>
+        <text>“Health insurer” means any person that provides one or more health benefits plans, or insurance in the District of Columbia, including an insurer, a hospital and medical services corporation, a fraternal benefits society, a health maintenance organization, a multiple employer welfare arrangement, or any other person providing a plan of health insurance subject to the authority of the Commissioner of the Department of Insurance, Securities, and Banking.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>“Hearing tribunal” means members of the Commission, or 1 or more hearing examiners, appointed by the Commission to conduct a hearing.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Housing business” means a business operated under the authority of a license issued by the Mayor, or other authorized District agent, pursuant to § <cite path="§47-2828">47-2828</cite> and the regulations promulgated thereunder.</text>
+      </para>
+      <para>
+        <num>(14A)</num>
+        <text>“Intrafamily offense” means an offense as defined in § <cite path="§16-1001">16-1001</cite>(8).</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>“Labor organization” means any organization, agency, employee representation committee, group, association, or plan in which employees participate directly or indirectly; and which exists for the purpose, in whole or in part, of dealing with employers, or any agent thereof, concerning grievances, labor disputes, wages, rates of pay, hours, or other terms, conditions, or privileges of employment; and any conference, general committee, joint or system board, or joint council, which is subordinate to a national or international organization.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>“Make public” means disclosure to the public or to the news media of any personal or business data obtained during the course of an investigation of a complaint filed under the provisions of this chapter, but not to include the publication of EEO-1, EEO-2, or EEO-3 reports as required by the Equal Employment Opportunity Commission, or any other data in the course of any administrative or judicial proceeding under this chapter; or any judicial proceeding under Title VII of the Civil Rights Act of 1964 [42 U.S.C. § 2000e et seq.] involving such information; nor shall it include access to such data by staff or the Office of Human Rights, members of the Commission on Human Rights, or parties to a proceeding, nor shall it include publication of aggregated data from individual reports.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>“Marital status” means the state of being married, in a domestic partnership, single, divorced, separated, or widowed and the usual conditions associated therewith, including pregnancy or parenthood.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>“Matriculation” means the condition of being enrolled in a college, or university; or in a business, nursing, professional, secretarial, technical or vocational school; or in an adult education program.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>“Office” means the District of Columbia Office of Human Rights, established by § <cite path="§2-1411.01">2-1411.01</cite>.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <para>
+          <num>(A)</num>
+          <text>“Owner” means 1 of the following:</text>
+          <para>
+            <num>(i)</num>
+            <text>Any person, or any one of a number of persons in whom is vested all or any part of the legal or equitable ownership, dominion, or title to any real property;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The committee, conservator, or any other legal guardian of a person who for any reason is non sui juris, in whom is vested the legal or equitable ownership, dominion or title to any real property; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A trustee, elected or appointed or required by law to execute a trust, other than a trustee under a deed of trust to secure the payment of money; or one who, as agent of, or fiduciary, or officer appointed by the court for the estate of the person defined in sub-subparagraph (i) of this subparagraph shall have charge, care or control of any real property.</text>
+          </para>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The term “owner” shall also include the lessee, the sublessee, assignee, managing agent, or other person having the right of ownership or possession of, or the right to sell, rent or lease, any real property.</text>
+        </para>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>“Person” means any individual, firm, partnership, mutual company, joint-stock company, corporation, association, organization, unincorporated organization, labor union, government agency, incorporated society, statutory or common-law trust, estate, executor, administrator, receiver, trustee, conservator, liquidator, trustee in bankruptcy, committee, assignee, officer, employee, principal or agent, legal or personal representative, real estate broker or salesman or any agent or representative of any of the foregoing.</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>“Personal appearance” means the outward appearance of any person, irrespective of sex, with regard to bodily condition or characteristics, manner or style of dress, and manner or style of personal grooming, including, but not limited to, hair style and beards. It shall not relate, however, to the requirement of cleanliness, uniforms, or prescribed standards, when uniformly applied for admittance to a public accommodation, or when uniformly applied to a class of employees for a reasonable business purpose; or when such bodily conditions or characteristics, style or manner of dress or personal grooming presents a danger to the health, welfare or safety of any individual.</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>Repealed.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>“Place of public accommodation” means all places included in the meaning of such terms as inns, taverns, road houses, hotels, motels, whether conducted for the entertainment of transient guests or for the accommodation of those seeking health, recreation or rest; restaurants or eating houses, or any place where food is sold for consumption on the premises; buffets, saloons, barrooms, or any store, park or enclosure where spirituous or malt liquors are sold; ice cream parlors, confectioneries, soda fountains and all stores where ice cream, ice and fruit preparation or their derivatives, or where beverages of any kind are retailed for consumption on the premises; wholesale and retail stores, and establishments dealing with goods or services of any kind, including, but not limited to, the credit facilities thereof; banks, savings and loan associations, establishments of mortgage bankers and brokers, all other financial institutions, and credit information bureaus; insurance companies and establishments of insurance policy brokers; dispensaries, clinics, hospitals, bath-houses, swimming pools, laundries and all other cleaning establishments; barber shops, beauty parlors, theaters, motion picture houses, airdromes, roof gardens, music halls, race courses, skating rinks, amusement and recreation parks, trailer camps, resort camps, fairs, bowling alleys, golf courses, gymnasiums, shooting galleries, billiards and pool parlors; garages, all public conveyances operated on land or water or in the air, as well as the stations and terminals thereof; travel or tour advisory services, agencies or bureaus; public halls and public elevators of buildings and structures, occupied by 2 or more tenants, or by the owner and 1 or more tenants. Such term shall not include any institution, club, or place of accommodation which is in its nature distinctly private except, that any such institution, club or place of accommodation shall be subject to the provisions of § <cite path="§2-1402.67">2-1402.67</cite>. A place of accommodation, institution, or club shall not be considered in its nature distinctly private if the place of accommodation, institution, or club:</text>
+        <para>
+          <num>(A)</num>
+          <text>Has 350 or more members;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Serves meals on a regular basis; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Regularly receives payment for dues, fees, use of space, facilities, services, meals, or beverages directly or indirectly from or on behalf of nonmembers for the furtherance of trade or business.</text>
+        </para>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>“Political affiliation” means the state of belonging to or endorsing any political party.</text>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>“Real estate broker (or salesperson)” means any person licensed as such in accordance with the provisions of Chapter 17 of Title 42.</text>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>“Real Estate Commission” means the Real Estate Commission of the District of Columbia established by § <cite path="§42-1739">42-1739</cite> [repealed].</text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>“Sexual orientation” means male or female homosexuality, heterosexuality and bisexuality, by preference or practice.</text>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>“Source of income” means the point, the cause, or the form of the origination, or transmittal of gains of property accruing to a person in a stated period of time; including, but not limited to, money and property secured from any occupation, profession or activity, from any contract, agreement or settlement, from federal payments, court-ordered payments, from payments received as gifts, bequests, annuities, life insurance policies and compensation for illness or injury, except in a case where conflict of interest may exist.</text>
+      </para>
+      <para>
+        <num>(30)</num>
+        <text>“Transaction in real property” means the exhibiting, listing, advertising, negotiating, agreeing to transfer or transferring, whether by sale, lease, sublease, rent, assignment or other agreement, any interest in real property or improvements thereon, including, but not limited to, leaseholds and other real chattels.</text>
+      </para>
+      <para>
+        <num>(31)</num>
+        <text>“Unlawful discriminatory practice” means those discriminatory practices which are so specified in subchapter II of Unit A of this chapter. “Unlawful discriminatory practice” shall include harassment engaged in for discriminatory reasons specified in § <cite path="§2-1402.11">2-1402.11</cite>(a).</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title I, § 102, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 4-209">Mar. 10, 1983, D.C. Law 4-209, § 35(a)(1), 30 DCR 390</annotation>
+          <annotation doc="D.C. Law 6-166">Feb. 24, 1987, D.C. Law 6-166,§ 33(c), 33 DCR 6710</annotation>
+          <annotation doc="D.C. Law 7-50">Dec. 10, 1987, D.C. Law 7-50, § 2, 34 DCR 6887</annotation>
+          <annotation doc="D.C. Law 10-129">June 28, 1994, D.C. Law 10-129, § 2(b), 41 DCR 2583</annotation>
+          <annotation doc="D.C. Law 12-242">Apr. 20, 1999, D.C. Law 12-242, § 2(b), 46 DCR 952</annotation>
+          <annotation doc="D.C. Law 13-91">Apr. 12, 2000, D.C. Law 13-91, § 159(a), 47 DCR 520</annotation>
+          <annotation doc="D.C. Law 13-313">June 19, 2001, D.C. Law 13-313, § 7, 48 DCR 1873</annotation>
+          <annotation doc="D.C. Law 14-189">Oct. 1, 2002, D.C. Law 14-189, § 2(a), 49 DCR 6523</annotation>
+          <annotation doc="D.C. Law 15-216">Dec. 7, 2004, D.C. Law 15-216, § 2(a), 51 DCR 9123</annotation>
+          <annotation doc="D.C. Law 15-263">Apr. 5, 2005, D.C. Law 15-263, § 2(b), 52 DCR 237</annotation>
+          <annotation doc="D.C. Law 15-309">Apr. 8, 2005, D.C. Law 15-309, § 2, 52 DCR 1718</annotation>
+          <annotation doc="D.C. Law 16-58">Mar. 8, 2006, D.C. Law 16-58, § 2(b), 53 DCR 14</annotation>
+          <annotation doc="D.C. Law 16-191">Mar. 2, 2007, D.C. Law 16-191, § 123, 53 DCR 6794</annotation>
+          <annotation doc="D.C. Law 16-273">Mar. 14, 2007, D.C. Law 16-273, § 3(b), 54 DCR 859</annotation>
+          <annotation doc="D.C. Law 17-231">Sept. 12, 2008, D.C. Law 17-231, § 7, 55 DCR 6758</annotation>
+          <annotation doc="D.C. Law 17-368">Mar. 25, 2009, D.C. Law 17-368, § 4(a)(1), 56 DCR 1338</annotation>
+          <annotation doc="D.C. Law 18-111">Mar. 3, 2010, D.C. Law 18-111, § 1151, 57 DCR 181</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§1-603.01">1-603.01</cite>, § <cite path="§1-1001.02">1-1001.02</cite>, § <cite path="§2-1411.02">2-1411.02</cite>, § <cite path="§2-1535.01">2-1535.01</cite>, § <cite path="§4-751.01">4-751.01</cite>, § <cite path="§5-1103">5-1103</cite>, § <cite path="§7-1231.02">7-1231.02</cite>, § <cite path="§16-901">16-901</cite>, § <cite path="§22-2104.01">22-2104.01</cite>, § <cite path="§22-3701">22-3701</cite>, § <cite path="§24-112">24-112</cite>, § <cite path="§24-403.01">24-403.01</cite>, § <cite path="§31-1601">31-1601</cite>, § <cite path="§31-2231.01">31-2231.01</cite>, § <cite path="§31-2231.11">31-2231.11</cite>, § <cite path="§31-2231.13">31-2231.13</cite>, § <cite path="§32-401">32-401</cite>, § <cite path="§34-1501">34-1501</cite>, and § <cite path="§51-110">51-110</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2502.</annotation>
+          <annotation>1973 Ed., § 6-2202.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite> validated a previously made technical correction in par. (11A).</annotation>
+          <annotation><cite doc="D.C. Law 13-313">D.C. Law 13-313</cite> rewrote par. (19) which had read:</annotation>
+          <annotation>“(19) ‘Office’ means the District of Columbia Office of Human Rights, as established by Commissioner’s Order No. 71-224, dated July 8, 1971, as amended.”</annotation>
+          <annotation><cite doc="D.C. Law 14-189">D.C. Law 14-189</cite> rewrote par. (31) which had read as follows: “’Unlawful discriminatory practice’ means those discriminatory practices which are so specified in subchapter II of Unit A of this chapter.”</annotation>
+          <annotation><cite doc="D.C. Law 15-216">D.C. Law 15-216</cite>, in par. (4), substituted “Commission on Human Rights, as established under subchapter IV of Unit A of this chapter” for “District of Columbia Commission on Human Rights, as established by Commissioner’s Order No. 71-224, dated July 8, 1971”.</annotation>
+          <annotation><cite doc="D.C. Law 15-263">D.C. Law 15-263</cite> added pars. (11B), (12A) to (12D).</annotation>
+          <annotation><cite doc="D.C. Law 15-309">D.C. Law 15-309</cite>, in par. (17), substituted “in a domestic partnership, single, divorced” for “single, divorced”.</annotation>
+          <annotation><cite doc="D.C. Law 16-58">D.C. Law 16-58</cite> designated the existing text of par. (12A) as (12A-i); and added par. (12A).</annotation>
+          <annotation><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in par. (12A-i), validated a previously made technical correction.</annotation>
+          <annotation><cite doc="D.C. Law 16-273">D.C. Law 16-273</cite> added par. (14A).</annotation>
+          <annotation><cite doc="D.C. Law 17-231">D.C. Law 17-231</cite> added subsecs. (7A) and (7B); and rewrote subsec. (11B), which had read as follows: “(11B) ‘Family member’ means, with respect to an individual and genetic information, the spouse of the individual, dependent child (whether born to or placed for adoption with the individual), and all other individuals related by blood to the individual, spouse, or child.”</annotation>
+          <annotation><cite doc="D.C. Law 17-368">D.C. Law 17-368</cite>, in par. (14A), substituted “§ <cite path="§16-1001">16-1001</cite>(8)” for “§ <cite path="§16-1001">16-1001</cite>(5)”.</annotation>
+          <annotation><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in par. (9), inserted “; provided, that the term ‘employee’ shall include an unpaid intern”.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 day) amendment of section, see § 1151 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+          <annotation>For temporary (90 day) amendment of section, see § 1151 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Short Title</heading>
+          <annotation>Short title: Section 1150 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle P of title I of the act may be cited as the “Intern Anti-Discrimination Amendment Act of 2009”.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|I"/>
+      <num codify:value="2-1401.03">103</num>
+      <heading>Exceptions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any practice which has a discriminatory effect and which would otherwise be prohibited by this chapter shall not be deemed unlawful if it can be established that such practice is not intentionally devised or operated to contravene the prohibitions of this chapter and can be justified by business necessity. Under this chapter, a “business necessity” exception is applicable only in each individual case where it can be proved by a respondent that, without such exception, such business cannot be conducted; a “business necessity” exception cannot be justified by the facts of increased cost to business, business efficiency, the comparative characteristics of one group as opposed to another, the stereotyped characterization of one group as opposed to another, and the preferences of co-workers, employers, customers or any other person. The business necessity exemption is inapplicable to complaints of unlawful discrimination in residential real estate transactions and to complaints alleging violations of the Fair Housing Act, approved April 11, 1968 (42 U.S.C. § 3601 et seq.) (“FHA”).</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Nothing in this chapter shall be construed to bar any religious or political organization, or any organization operated for charitable or educational purposes, which is operated, supervised or controlled by or in connection with a religious or political organization, from limiting employment, or admission to or giving preference to persons of the same religion or political persuasion as is calculated by the organization to promote the religious or political principles for which it is established or maintained.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing in this chapter shall be construed to supersede any federal rule, regulation or act.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Nothing in this chapter shall prohibit any religious organization, association, or society or non-profit organization which is operated, supervised or controlled by or in conjunction with a religious organization, association or society from limiting the sales, rental or occupancy of housing accommodations which it owns or operates for other than a commercial purpose to members of the same religion or organization, or from giving preference to these persons, unless the entity restricts its membership on the basis of race, color, or national origin. This chapter does not prohibit a private club, not open to the public, which incident to its primary purpose, provides lodgings which it owns or operates for other than a commercial purpose, from limiting the rental or occupancy of these lodgings to its members or from giving preference to its members.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Nothing in this chapter shall prohibit an employer, an employment agency, or a labor organization from seeking, obtaining, or using genetic information to determine the existence of a bona fide occupational qualification reasonably necessary for the normal operation of an employer’s business or enterprise; provided, that the employee or applicant for employment provides, in writing, his or her informed consent, the genetic information is provided to the employee or applicant for employment in writing as soon as it is available, and the genetic information is not disclosed to any other person.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Nothing in this chapter shall prohibit an employer from seeking, obtaining, or using genetic information about an employee to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Investigate a workers’ compensation or disability compensation claim; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Determine an employee’s susceptibility or level of exposure to potentially toxic substances in the workplace; provided, that the employee provides, in writing, his or her informed consent, and the genetic information is provided to the employee in writing as soon as it is available, and the genetic information is not disclosed to any other person.</text>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title I, § 103, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 12-242">Apr. 20, 1999, D.C. Law 12-242, § 2(c), 46 DCR 952</annotation>
+          <annotation doc="D.C. Law 13-91">Apr. 12, 2000, D.C. Law 13-91, § 159(b), 47 DCR 520</annotation>
+          <annotation doc="D.C. Law 15-263">Apr. 5, 2005, D.C. Law 15-263, § 2(c), 52 DCR 237</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1402.41">2-1402.41</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2503.</annotation>
+          <annotation>1973 Ed., § 6-2203.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite> validated a previously made technical correction in subsec. (d).</annotation>
+          <annotation><cite doc="D.C. Law 15-263">D.C. Law 15-263</cite> added subsecs. (e) and (f).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|I"/>
+      <num codify:value="2-1401.04">104</num>
+      <heading>Severability of provisions.</heading>
+      <text>If any provision, or part thereof of this chapter or application thereof to any person or circumstances is held invalid, the remainder of the chapter and the application of the provision, or part thereof, to other persons not similarly situated or to other circumstances is not to be affected thereby.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title I, § 104, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2504.</annotation>
+          <annotation>1973 Ed., § 6-2204.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|I"/>
+      <num codify:value="2-1401.05">105</num>
+      <heading>Discrimination based on pregnancy, childbirth, related medical conditions, or breastfeeding.</heading>
+      <para>
+        <num>(a)</num>
+        <text>For the purposes of interpreting this chapter, discrimination on the basis of sex shall include, but not be limited to, discrimination on the basis of pregnancy, childbirth, related medical conditions, breastfeeding, or reproductive health decisions. This section shall not be construed to require an employer to provide insurance coverage related to a reproductive health decision.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Women affected by pregnancy, childbirth, related medical conditions, or breastfeeding, and employees affected by reproductive health decisions shall be treated the same for all employment-related purposes, including receipt of benefits under fringe benefit programs, as other persons not so affected but similar in their ability or inability to work, and this requirement shall include, but not be limited to, a requirement that an employer must treat an employee temporarily unable to perform the functions of her job because of her pregnancy-related condition in the same manner as it treats other employees with temporary disabilities.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>For the purposes of this section, the term “reproductive health decisions” includes a decision by an employee, an employee’s dependent, or an employee’s spouse related to the use or intended use of a particular drug, device, or medical service, including the use or intended use of contraception or fertility control or the planned or intended initiation or termination of a pregnancy.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title I, § 105</annotation>
+          <annotation doc="D.C. Law 6-8">as added July 17, 1985, D.C. Law 6-8, § 2, 32 DCR 2959</annotation>
+          <annotation doc="D.C. Law 16-305">Apr. 24, 2007, D.C. Law 16-305, § 10, 53 DCR 6198</annotation>
+          <annotation doc="D.C. Law 17-58">Dec. 11, 2007, D.C. Law 17-58, § 2(a), 54 DCR 10714</annotation>
+          <annotation doc="D.C. Law 20-261">May 2, 2015, D.C. Law 20-261, § 2, 62 DCR 1337</annotation>
+          <annotation doc="D.C. Law 21-36">Oct. 22, 2015, D.C. Law 21-36, § 5092, 62 DCR 10905</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2505.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite>, in subsec. (b), substituted “employees with temporary disabilities” for “temporarily disabled employees”.</annotation>
+          <annotation><cite doc="D.C. Law 17-58">D.C. Law 17-58</cite>, in the section heading and subsecs. (a) and (b), substituted “related medical conditions, or breastfeeding” for “or related medical conditions”.</annotation>
+          <annotation>The 2015 amendment by <cite doc="D.C. Law 20-261">D.C. Law 20-261</cite> substituted “related medical conditions, breastfeeding, or reproductive health decisions” for “related medical conditions, or breastfeeding” in (a); substituted “related medical conditions, breastfeeding, and employees affected by reproductive health decisions” for “related medical conditions, or breastfeeding” in (b); and added (c).</annotation>
+          <annotation>The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> added the last sentence in (a).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Legislation</heading>
+          <annotation>For temporary (225 days) amendment of this section, see §§ 2 and 3 of the Reproductive Health Non-Discrimination Clarification Temporary Amendment Act of 2015 (<cite doc="D.C. Law 21-10">D.C. Law 21-10</cite>, June 4, 2015,  62 DCR 4715).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary (90 days) amendment of this section, see §§ 2 and 3 of the Reproductive Health Non-Discrimination Clarification Emergency Amendment Act of 2015 (D.C. Act 21-18, Mar. 26, 2015,  62 DCR 3855, 21 DCSTAT 851).</annotation>
+          <annotation>For temporary (90 days) amendment of this section, see § 5092 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>II</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|A"/>
+      <num codify:value="2-1402.01">201</num>
+      <heading>General.</heading>
+      <text>Every individual shall have an equal opportunity to participate fully in the economic, cultural and intellectual life of the District and to have an equal opportunity to participate in all aspects of life, including, but not limited to, in employment, in places of public accommodation, resort or amusement, in educational institutions, in public service, and in housing and commercial space accommodations.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 201, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Public accommodations licensed by District, prohibition against discrimination, see § <cite path="§47-2901">47-2901</cite> et seq.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1403.01">2-1403.01</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2511.</annotation>
+          <annotation>1973 Ed., § 6-2211.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Mayor's Orders</heading>
+          <annotation>Establishment of Department of Human Rights and Minority Business Development: See Mayor’s Order 89-247, November 1, 1989.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|B"/>
+      <num codify:value="2-1402.11">211</num>
+      <heading>Prohibitions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>General. —</heading>
+        <text>It shall be an unlawful discriminatory practice to do any of the following acts, wholly or partially for a discriminatory reason based upon the actual or perceived: race, color, religion, national origin, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, family responsibilities, genetic information, disability, matriculation, or political affiliation of any individual:</text>
+        <para>
+          <num>(1)</num>
+          <heading>By an employer. —</heading>
+          <text>To fail or refuse to hire, or to discharge, any individual; or otherwise to discriminate against any individual, with respect to his compensation, terms, conditions, or privileges of employment, including promotion; or to limit, segregate, or classify his employees in any way which would deprive or tend to deprive any individual of employment opportunities, or otherwise adversely affect his status as an employee;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>By an employment agency. —</heading>
+          <text>To fail or refuse to refer for employment, or to classify or refer for employment, any individual, or otherwise to discriminate against, any individual; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>By a labor organization. —</heading>
+          <text>To exclude or to expel from its membership, or otherwise to discriminate against, any individual; or to limit, segregate, or classify its membership; or to classify, or fail, or refuse to refer for employment any individual in any way, which would deprive such individual of employment opportunities, or would limit such employment opportunities, or otherwise adversely affect his status as an employee or as an applicant for employment; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>By an employer, employment agency or labor organization. —</heading>
+          <para>
+            <num>(A)</num>
+            <text>To discriminate against any individual in admission to or the employment in, any program established to provide apprenticeship or other training or retraining, including an on-the-job training program;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>To print or publish, or cause to be printed or published, any notice or advertisement, or use any publication form, relating to employment by such an employer, or to membership in, or any classification or referral for employment by such a labor organization, or to any classification or referral for employment by such an employment agency, unlawfully indicating any preference, limitation, specification, or distinction, based on the race, color, religion, national origin, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, gender identity or expression, family responsibilities, matriculation, genetic information, disability, or political affiliation of any individual.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>To request or require a genetic test of, or administer a genetic test to, any individual as a condition of employment, application for employment, or membership, or to seek to obtain, obtain, or use genetic information of an employee or applicant for employment or membership.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Subterfuge. —</heading>
+        <text>It shall further be an unlawful discriminatory practice to do any of the above said acts for any reason that would not have been asserted but for, wholly or partially, a discriminatory reason based on the actual or perceived: race, color, religion, national origin, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, family responsibilities, matriculation, genetic information, disability, or political affiliation of any individual.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Accommodation for religious observance. —</heading>
+        <para>
+          <num>(1)</num>
+          <text>It shall further be an unlawful discriminatory practice for an employer to refuse to make a reasonable accommodation for an employee’s religious observance by permitting the employee to make up work time lost due to such observance, unless such an accommodation would cause the employer undue hardship. An accommodation would cause an employer undue hardship when it would cause the employer to incur more than de minimis costs.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Such an accommodation may be made by permitting the employee to work:</text>
+          <para>
+            <num>(A)</num>
+            <text>During the employee’s scheduled lunch time or other work breaks;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Before or after the employee’s usual working hours;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Outside of the employer’s normal business hours;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>During the employee’s paid vacation days;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>During another employee’s working hours as part of a voluntary swap with such other employee; or</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>In any other manner that is mutually agreeable to the employer and employee.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>When an employee’s request for a particular form of accommodation would cause undue hardship to the employer, the employer shall reasonably accommodate the employee in a manner that does not cause undue hardship to the employer. Where other means of accommodation would cause undue hardship to the employer, an employee shall have the option of taking leave without pay if granting leave without pay would not cause undue hardship to the employer.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>An employee shall notify the employer of the need for an accommodation at least 10 working days prior to the day or days for which the accommodation is needed, unless the need for the accommodation cannot reasonably be foreseen.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>In any proceeding brought under this section, the employer shall have the burden of establishing that it would be unable reasonably to accommodate an employee’s religious observance without incurring an undue hardship, provided, however, that in the case of an employer that employs more than 5 but fewer than 15 full-time employees, or where accommodation of an employee’s observance of a religious practice would require the employee to take more than 3 consecutive days off from work, the employee shall have the burden of establishing that the employer could reasonably accommodate the employee’s religious observance without incurring an undue hardship; and provided further, that it shall be considered an undue hardship if an employer would be required to pay any additional compensation to an employee by reason of an accommodation for an employee’s religious observance. The mere assumption that other employees with the same religious beliefs might also request accommodation shall not be considered evidence of undue hardship. An employer that employs 5 or fewer full-time employees shall be exempt from the provisions of this subsection.</text>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 211, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 9-211">Mar. 17, 1993, D.C. Law 9-211, § 2, 40 DCR 21</annotation>
+          <annotation doc="D.C. Law 10-129">June 28, 1994, D.C. Law 10-129, § 2(c), 41 DCR 2583</annotation>
+          <annotation doc="D.C. Law 14-189">Oct. 1, 2002, D.C. Law 14-189, § 2(b), 49 DCR 6523</annotation>
+          <annotation doc="D.C. Law 15-263">Apr. 5, 2005, D.C. Law 15-263, § 2(d), 52 DCR 237</annotation>
+          <annotation doc="D.C. Law 16-58">Mar. 8, 2006, D.C. Law 16-58, § 2(c), 53 DCR 14</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Bonds and construction procurement, construction contracts and subcontracts, nondiscrimination provisions, see § <cite path="§2-305.08">2-305.08</cite>.</annotation>
+          <annotation>Employment services, discrimination prohibited, see § <cite path="§32-408">32-408</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1401.02">2-1401.02</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2512.</annotation>
+          <annotation>1973 Ed., § 6-2221.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 14-189">D.C. Law 14-189</cite>, in subsecs. (a) and (b), substituted “actual or perceived: race” for “race”.</annotation>
+          <annotation><cite doc="D.C. Law 15-263">D.C. Law 15-263</cite>, in subsecs. (a) and (b), substituted “genetic information, disability,” for “disability,”; and added subpar. (C) of par. (4) of subsec. (a).</annotation>
+          <annotation><cite doc="D.C. Law 16-58">D.C. Law 16-58</cite>, in the lead-in language of subsec. (a), subsec. (a)(4)(B), and subsec. (b), substituted “sexual orientation, gender identity or expression,” for “sexual orientation,”.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|B"/>
+      <num codify:value="2-1402.12">212</num>
+      <heading>Exception.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It shall not be an unlawful discriminatory practice for an employer to observe the conditions of a bona fide seniority system or a bona fide employee benefit system such as retirement, pension or insurance plan which is not a subterfuge to evade the purposes of this chapter, except that no such employee seniority system or benefit plan shall excuse the failure to hire any individual.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall not be an unlawful discriminatory practice for the District of Columbia to prescribe minimum and maximum age limits for appointment to the police officer and firefighter cadet programs.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 212, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 4-172">Mar. 9, 1983, D.C. Law 4-172, § 4(a), 29 DCR 5745</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2513.</annotation>
+          <annotation>1973 Ed., § 6-2222.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|B"/>
+      <num codify:value="2-1402.13">213</num>
+      <heading>Reports and records.</heading>
+      <text>Every employer, employment agency, and labor organization, subject both to this chapter and to title VII of the Civil Rights Act of 1964, as amended, is to furnish to the Office, all reports that may be required by the Equal Employment Opportunity Commission established under the Civil Rights Act of 1964.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 213, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2514.</annotation>
+          <annotation>1973 Ed., § 6-2223.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|C"/>
+      <num codify:value="2-1402.21">221</num>
+      <heading>Prohibitions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>General. —</heading>
+        <text>It shall be an unlawful discriminatory practice to do any of the following acts, wholly or partially for a discriminatory reason based on the actual or perceived: race, color, religion, national origin, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, familial status, family responsibilities, disability, matriculation, political affiliation, source of income, status as a victim of an intrafamily offense, or place of residence or business of any individual:</text>
+        <para>
+          <num>(1)</num>
+          <text>To interrupt or terminate, or refuse or fail to initiate or conduct any transaction in real property; or to require different terms for such transaction; or to represent falsely that an interest in real property is not available for transaction;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To include in the terms or conditions of a transaction in real property, any clause, condition or restriction;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>To appraise a property, refuse to lend money, guarantee a loan, purchase a loan, accept residential real property as security for a loan, accept a deed of trust or mortgage, or otherwise refuse to make funds available for the purchase, acquisition, construction, alteration, rehabilitation, repair or maintenance of real property; or impose different conditions on such financing; or refuse to provide title or other insurance relating to the ownership or use of any interest in real property;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>To refuse or restrict facilities, services, repairs or improvements for a tenant or lessee;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>To make, print, or publish, or cause to be made, printed, or published any notice, statement, or advertisement, with respect to a transaction, or proposed transaction, in real property, or financing relating thereto, which notice, statement, or advertisement unlawfully indicates or attempts unlawfully to indicate any preference, limitation, or discrimination based on race, color, religion, national origin, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, familial status, family responsibilities, disability, matriculation, political affiliation, source of income, or place of residence or business, of any individual;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>To discriminate in any financial transaction involving real property, on account of the location of residence or business (i.e. to “red-line”); or</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>To limit access to, or membership or participation in any multiple-listing service, real estate brokers’ organization or other service, organization, or facility relating to the business of selling or renting residential real estate, or to discriminate against any person in terms or conditions of access, membership or participation in any organization, service or facility.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Subterfuge. —</heading>
+        <text>It shall further be an unlawful discriminatory practice to do any of the above said acts for any reason that would not have been asserted but for, wholly or partially, a discriminatory reason based on the actual or perceived: race, color, religion, national origin, sex, sexual orientation, gender identity or expression, familial status, family responsibilities, disability, matriculation, political affiliation, source of income, status as victim of an intrafamily offense, or place of residence or business of any individual.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Families with children. —</heading>
+        <para>
+          <num>(1)</num>
+          <text>It shall be an unlawful discriminatory practice to do any of the acts prohibited in subsections (a) and (b) of this section wholly or partially based on the fact that a person has one or more children who reside with that person.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>There shall be a rebuttable presumption that an unlawful discriminatory practice has occurred if the person alleging discrimination has 1 or more children who reside with that person and any of the acts prohibited by subsections (a) and (b) of this section are done to maintain residential occupancies more restrictive than the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>In an efficiency apartment, 2 persons; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>In an apartment with one or more bedrooms, 2 times the number of bedrooms plus one.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Nothing contained in this chapter limits the applicability of any District or federal restriction regarding the maximum number of occupants permitted to occupy a dwelling. Nothing in this chapter regarding familial status applies to housing for older persons.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>For the purposes of this subsection “housing for older persons” means a premises which:</text>
+          <para>
+            <num>(A)</num>
+            <text>The U.S. Department of Housing and Urban Development determines pursuant to a federal program, is specifically designed and operated to assist older persons;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Is intended for, and solely occupied by persons 62 years of age or older; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Is intended and operated for occupancy by persons 55 years of age or older, provided that at least 80% of the occupied units are occupied by at least one person who is 55 years of age or older, and the housing facility or community publishes and adheres to policies and procedures that demonstrate the intent required pursuant to this paragraph, and complies with rules issued by the Secretary of the U.S. Department of Housing and Urban Development for verification of occupancy.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Disability. —</heading>
+        <para>
+          <num>(1)</num>
+          <text>It shall be an unlawful discriminatory practice in the sale or rental of real estate to deny a dwelling to a buyer or renter or to otherwise make a dwelling unavailable to a buyer or renter because of a disability of:</text>
+          <para>
+            <num>(A)</num>
+            <text>That buyer or renter; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Any person residing in or intending to reside in that dwelling after it is sold, rented or made available; or any person associated with that buyer or renter.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>It shall be unlawful to discriminate against any person in the terms, conditions, or privileges of sale or rental of a dwelling or in the provision of services or facilities in connection with the dwelling because of a disability of:</text>
+          <para>
+            <num>(A)</num>
+            <text>That buyer or renter; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Any person residing in or intending to reside in that dwelling after it is sold, rented or made available; or any person associated with that buyer or renter.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>For purposes of this subsection, “unlawful discrimination” includes:</text>
+          <para>
+            <num>(A)</num>
+            <text>A refusal to permit, at the expense of the person with the disability, reasonable modifications of existing premises occupied or to be occupied by the person if the modification may be necessary to afford the person full enjoyment of the premises of a dwelling. A landlord, where it is reasonable, may condition permission for a modification on the renter agreeing to restore the interior of the premises to the condition that existed before the modification, reasonable wear and tear excepted;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A refusal to make reasonable accommodations in rules, policies, practices, or services, when these accommodations may be necessary to afford any person equal opportunity to use and enjoy a dwelling;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>In connection with the design and construction of covered multifamily dwellings for first occupancy after April 20, 1999, a failure to design and construct these dwellings in a manner that:</text>
+            <para>
+              <num>(i)</num>
+              <text>The public and common use portions of the dwellings are readily accessible to and usable by persons with disabilities; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Doors designed to allow passage into and within all premises within the dwellings are sufficiently wide to allow passage by persons with wheelchairs;</text>
+            </para>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>All premises within the dwellings shall contain the following features of adaptive design:</text>
+            <para>
+              <num>(i)</num>
+              <text>An accessible route into and through the dwelling;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Light switches, electrical outlets, thermostats, and other environmental controls in accessible locations;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>Reinforcements in bathroom walls to allow later installations of grab bars;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>Usable kitchens and bathrooms so that an individual in a wheelchair can maneuver about the space; and</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>The premises within the dwellings shall have at least 1 building entrance on an accessible route unless it is impracticable because of the terrain or unusual characteristics of the site.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Compliance with the appropriate requirements of the American National Standard for buildings and facilities providing accessibility and usability for persons with disabilities suffices to satisfy the requirements of paragraph (3) of this subsection.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Nothing in this subsection requires that a dwelling be made available to an individual whose tenancy would constitute a direct threat to the health or safety of other individuals or whose tenancy would result in substantial physical damage to the property of others.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The monetary assistance provided to an owner of a housing accommodation under section 8 of the United States Housing Act of 1937, approved August 22, 1974 (88 Stat. 662; 42 U.S.C. § 1437f), either directly or through a tenant, shall be considered a source of income under this section.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Victims of intrafamily offenses. —</heading>
+        <para>
+          <num>(1)</num>
+          <text>For purposes of this subsection, the term “record” means documentation produced by a law enforcement officer, as defined in § <cite path="§4-1301.02">4-1301.02</cite>(14), or a court order pursuant to § <cite path="§16-1005">16-1005</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>It shall be an unlawful discriminatory practice to do any of the acts prohibited in subsections (a) and (b) of this section wholly or partially based on the fact that a person residing, or intending to reside, in the dwelling is, has a record of being, a victim of an intrafamily offense, as defined in § <cite path="§16-1001">16-1001</cite>(8).</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>It shall be an unlawful discriminatory practice to do any of the following additional acts, for purposes of this subsection, wholly or partially based on the fact that a person residing, or intending to reside, in the dwelling is, or has a record of being, a victim of an intrafamily offense, as defined in § <cite path="§16-1001">16-1001</cite>(8):</text>
+          <para>
+            <num>(A)</num>
+            <text>Refusing to make a reasonable accommodation in restoring or improving security and safety measures beyond the housing provider’s duty of ordinary care and diligence, the costs of which the housing provide may charge to the tenant, when an accommodation is necessary to ensure the person’s security and safety;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Refusing to permit a person to terminate the lease of the premises early, without penalty, upon notice to the landlord and upon a showing that the person is a victim of an intrafamily offense, pursuant to § <cite path="§42-3505.07">42-3505.07</cite>;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <para>
+              <num>(i)</num>
+              <text>Barring or limiting the right of a person to call for police or emergency assistance, which right, for purposes of this subsection, shall not be waivable; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Imposing any penalty for calling police or emergency assistance.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 221, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 3-80">July 26, 1980, D.C. Law 3-80, § 2, 27 DCR 2554</annotation>
+          <annotation doc="D.C. Law 10-129">June 28, 1994, D.C. Law 10-129, § 2(d), 41 DCR 2583</annotation>
+          <annotation doc="D.C. Law 12-242">Apr. 20, 1999, D.C. Law 12-242, § 2(d), 46 DCR 952</annotation>
+          <annotation doc="D.C. Law 14-189">Oct. 1, 2002, D.C. Law 14-189, § 2(c), 49 DCR 6523</annotation>
+          <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 8(a), 52 DCR 2638</annotation>
+          <annotation doc="D.C. Law 16-58">Mar. 8, 2006, D.C. Law 16-58, § 2(d), 53 DCR 14</annotation>
+          <annotation doc="D.C. Law 16-273">Mar. 14, 2007, D.C. Law 16-273, § 3(c), 54 DCR 859</annotation>
+          <annotation doc="D.C. Law 16-305">Apr. 24, 2007, D.C. Law 16-305, § 11, 53 DCR 6198</annotation>
+          <annotation doc="D.C. Law 17-368">Mar. 25, 2009, D.C. Law 17-368, § 4(a)(2), 56</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Rental housing discrimination prohibited, see § <cite path="§42-3505.05">42-3505.05</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1402.24">2-1402.24</cite>, § <cite path="§6-1041.06">6-1041.06</cite>, and § <cite path="§42-2851.06">42-2851.06</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2515.</annotation>
+          <annotation>1973 Ed., § 6-2231.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 14-189">D.C. Law 14-189</cite>, in subsecs. (a) and (b), substituted “actual or perceived: race” for “race”.</annotation>
+          <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite> added subsec. (e).</annotation>
+          <annotation><cite doc="D.C. Law 16-58">D.C. Law 16-58</cite>, in the lead-in language of subsec. (a), subsec. (a)(5), and subsec. (b), substituted “sexual orientation, gender identity or expression,” for “sexual orientation,”.</annotation>
+          <annotation><cite doc="D.C. Law 16-273">D.C. Law 16-273</cite>, in subsecs. (a) and (b), inserted “status as a victim of an intrafamily offense” following “source of income”; and added subsec. (f).</annotation>
+          <annotation><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite> substituted “persons with disabilities” for “disabled persons”, throughout the section.</annotation>
+          <annotation><cite doc="D.C. Law 17-368">D.C. Law 17-368</cite>, in subsecs. (f)(2) and (3), substituted “§ <cite path="§16-1001">16-1001</cite>(8)” for “§ <cite path="§16-1001">16-1001</cite>(5)”.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|C"/>
+      <num codify:value="2-1402.22">222</num>
+      <heading>Blockbusting and steering.</heading>
+      <text>It shall be an unlawful discriminatory practice for any person, whether or not acting for monetary gain, directly or indirectly to engage in the practices of “blockbusting” and “steering”, including, but not limited to, the commission of any 1 or more of the following acts:</text>
+      <para>
+        <num>(1)</num>
+        <text>To promote, induce, influence, or attempt to promote, induce, or influence a transaction in real property through any representation, means or device whatsoever calculated to induce a person to discriminate or to engage in such transaction wholly or partially in response to discrimination, prejudice, fear or unrest adduced by such means, device or representation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To place a sign, or display any other device, either purporting to offer or tending to lead to the belief that an offer is being made for a transaction in real property that is not in fact available or offered for transaction, or which purports that any transaction in real property has occurred that in fact has not.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 222, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2516.</annotation>
+          <annotation>1973 Ed., § 6-2232.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|C"/>
+      <num codify:value="2-1402.23">223</num>
+      <heading>Acts of discrimination by broker or salesperson.</heading>
+      <text>Any real estate broker or real estate salesperson who commits any act of discrimination prohibited under the provisions of this chapter, if such act or the property involved is within the District of Columbia, or if such act occurs outside of the District of Columbia, in a place where such act is prohibited by state or local law, ordinance or regulation, without regard to location of the property, shall be considered by the Real Estate Commission, for the purposes of Chapter 17 of Title 42, as having endangered the public interest; and shall be subject to the procedures set forth in § <cite path="§2-1403.17">2-1403.17</cite>.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 223, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 4-209">Mar. 10, 1983, D.C. Law 4-209, § 35(a)(2), 30 DCR 390</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2517.</annotation>
+          <annotation>1973 Ed., § 6-2233.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|C"/>
+      <num codify:value="2-1402.24">224</num>
+      <heading>Exceptions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Nothing in this chapter is to be construed to apply to the rental or leasing of housing accommodations in a building in which the owner, or members of his family occupy one of the living units and in which there are, or the owner intends that there be, accommodations for not more than:</text>
+        <para>
+          <num>(1)</num>
+          <text>Four families, and only with respect to a prospective tenant, not related to the owner-occupant, with whom the owner-occupant anticipates the necessity of sharing a kitchen or bathroom; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Two families living independently of each other.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Nothing contained in the provisions of this chapter shall be deemed to permit any rental or occupancy otherwise prohibited by any statute, or by any regulation previously enacted and not repealed herein.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing in this chapter shall apply to the sale or rental of a single-family home sold or rented by an owner if:</text>
+        <para>
+          <num>(1)</num>
+          <text>The owner does not own more than 3 single-family homes at any one time; or own any interest in, or has owned or reserved on his behalf, under any express or voluntary agreement, title to any right to all or a portion of the proceeds from the sale or rental of more than 3 single-family homes at any one time. This exemption shall apply only to one sale within a 24-month period of the sale of any single-family home by a private owner not residing in that home at the time of the sale or who was not the most recent resident of that home prior to the sale.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The home was sold or rented without:</text>
+          <para>
+            <num>(A)</num>
+            <text>The use of the sales or rental facilities or services of a real estate broker, agent, or salesperson, or of the facilities or services of any person in the business of selling or renting dwellings, or of any employee or agent, or salesperson; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Without the publication, posting or mailing, after notice, of any advertisement in violation of § <cite path="§2-1402.21">2-1402.21</cite>(a)(5).</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 224, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 12-242">Apr. 20, 1999, D.C. Law 12-242, § 2(e), 46 DCR 952</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2518.</annotation>
+          <annotation>1973 Ed., § 6-2234.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|D"/>
+      <num codify:value="2-1402.31">231</num>
+      <heading>Prohibitions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>General. —</heading>
+        <text>It shall be an unlawful discriminatory practice to do any of the following acts, wholly or partially for a discriminatory reason based on the actual or perceived: race, color, religion, national origin, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, familial status, family responsibilities, genetic information, disability, matriculation, political affiliation, source of income, or place of residence or business of any individual:</text>
+        <para>
+          <num>(1)</num>
+          <text>To deny, directly or indirectly, any person the full and equal enjoyment of the goods, services, facilities, privileges, advantages, and accommodations of any place of public accommodations;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To print, circulate, post, or mail, or otherwise cause, directly or indirectly, to be published a statement, advertisement, or sign which indicates that the full and equal enjoyment of the goods, services, facilities, privileges, advantages, and accommodations of a place of public accommodation will be unlawfully refused, withheld from or denied an individual; or that an individual’s patronage of, or presence at, a place of public accommodation is objectional, unwelcome, unacceptable, or undesirable.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A health benefit plan or health insurer shall not establish rules for the eligibility, new or continued, of any individual or adjust premium or contribution amounts for an individual on the basis of genetic information concerning the individual or family member of the individual, including information about a request for or receipt of genetic services by an individual or the individual’s family member.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A health benefit plan or health insurer shall not request or require an individual or the individual’s family member to undergo a genetic test. Nothing in this paragraph shall:</text>
+          <para>
+            <num>(A)</num>
+            <text>Limit the authority of a health care professional who is providing health care services to an individual to request that the individual or the individual’s family member undergo a genetic test;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Limit the authority of a health care professional who is employed by or affiliated with a health benefit plan or a health insurer and who is providing health care services to an individual to notify such individual of the availability of a genetic test or to provide information to such individual regarding such genetic test; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Authorize or permit a health care professional to require that an individual undergo a genetic test.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Subterfuge. —</heading>
+        <text>It is further unlawful to do any of the above said acts for any reason that would not have been asserted but for, wholly or partially, a discriminatory reason based on the actual or perceived: race, color, religion, national origin, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, familial status, family responsibilities, genetic information, disability, matriculation, political affiliation, source of income, or place of residence or business of any individual.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Repealed.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 231, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 10-129">June 28, 1994, D.C. Law 10-129, § 2(e), 41 DCR 2583</annotation>
+          <annotation doc="D.C. Law 12-242">Apr. 20, 1999, D.C. Law 12-242,§ 2(f), 46 DCR 952</annotation>
+          <annotation doc="D.C. Law 13-91">Apr. 12, 2000, D.C. Law 13-91, § 133, 47 DCR 520</annotation>
+          <annotation doc="D.C. Law 14-114">Apr. 19, 2002, D.C. Law 14-114, § 292(c), 49 DRC 1468</annotation>
+          <annotation doc="D.C. Law 14-189">Oct. 1, 2002, D.C. Law 14-189, § 2(d), 49 DCR 6523</annotation>
+          <annotation doc="D.C. Law 15-263">Apr. 5, 2005, D.C. Law 15-263, § 2(e), 52 DCR 237</annotation>
+          <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 8(b), 52 DCR 2638</annotation>
+          <annotation doc="D.C. Law 16-58">Mar. 8, 2006, D.C. Law 16-58, § 2(e), 53 DCR 14</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Licensed places of amusement, admission to, discrimination prohibited, see § <cite path="§47-2901">47-2901</cite> et seq.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2519.</annotation>
+          <annotation>1973 Ed., § 6-2241.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite> validated a previously made technical correction in subsec. (a).</annotation>
+          <annotation><cite doc="D.C. Law 14-114">D.C. Law 14-114</cite> added subsec. (c).</annotation>
+          <annotation><cite doc="D.C. Law 14-189">D.C. Law 14-189</cite>, in subsecs. (a) and (b), substituted “actual or perceived: race” for “race”.</annotation>
+          <annotation><cite doc="D.C. Law 15-263">D.C. Law 15-263</cite>, in subsecs. (a) and (b), substituted “genetic information, disability,” for “disability,”; and added pars. (3) and (4) of subsec. (a).</annotation>
+          <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite> repealed subsec. (c) which had read as follows: “(c) The monetary assistance provided to an owner of a housing accommodation under section 8 of the United States Housing Act of 1937, approved August 22, 1974 (88 Stat. 662;  42 U.S.C. § 1437f), either directly or through a tenant, shall be considered a source of income under this section.”</annotation>
+          <annotation><cite doc="D.C. Law 16-58">D.C. Law 16-58</cite>, in subsecs. (a) and (b), substituted “sexual orientation, gender identity or expression,” for “sexual orientation,”.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|E"/>
+      <num codify:value="2-1402.41">241</num>
+      <heading>Prohibitions.</heading>
+      <text>It is an unlawful discriminatory practice, subject to the exemptions in § <cite path="§2-1401.03">2-1401.03</cite>(b), for an educational institution:</text>
+      <para>
+        <num>(1)</num>
+        <text>To deny, restrict, or to abridge or condition the use of, or access to, any of its facilities, services, programs, or benefits of any program or activity to any person otherwise qualified, wholly or partially, for a discriminatory reason, based upon the actual or perceived: race, color, religion, national origin, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, familial status, family responsibilities, political affiliation, source of income, or disability of any individual; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To make or use a written or oral inquiry, or form of application for admission, that elicits or attempts to elicit information, or to make or keep a record, concerning the race, color, religion, or national origin of an applicant for admission, except as permitted by regulations of the Office.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Repealed.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 241, 24 DCR 6038</annotation>
+          <annotation doc="Pub. L. 101-168">Nov. 21, 1989, 103 Stat. 1284, Pub. L. 101-168, § 141(b)</annotation>
+          <annotation doc="D.C. Law 10-129">June 28, 1994, D.C. Law 10-129, § 2(f), 41 DCR 2583</annotation>
+          <annotation doc="D.C. Law 12-242">Apr. 20, 1999, D.C. Law 12-242, § 2(g), 46 DCR 952</annotation>
+          <annotation doc="D.C. Law 14-189">Oct. 1, 2002, D.C. Law 14-189, § 2(e), 49 DCR 6523</annotation>
+          <annotation doc="D.C. Law 16-58">Mar. 8, 2006, D.C. Law 16-58, § 2(f), 53 DCR 14</annotation>
+          <annotation doc="D.C. Law 20-266">May 2, 2015, D.C. Law 20-266, § 3(a), 62 DCR 1540</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2520.</annotation>
+          <annotation>1973 Ed., § 6-2251.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 14-189">D.C. Law 14-189</cite>, in par. (1), substituted “facilities, services, programs, or benefits of any program or activity” for “facilities and services” and substituted “actual or perceived: race” for “race”.</annotation>
+          <annotation><cite doc="D.C. Law 16-58">D.C. Law 16-58</cite>, in par. (1), substituted “sexual orientation, gender identity or expression,” for “sexual orientation,”.</annotation>
+          <annotation>The 2015 amendment by <cite doc="D.C. Law 20-266">D.C. Law 20-266</cite> repealed (3).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|E"/>
+      <num codify:value="2-1402.42">242</num>
+      <heading>Exceptions regarding sex discrimination and age.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Nothing in this chapter regarding sex discrimination in admission policy shall apply to any private undergraduate college or to any private preschool, elementary or secondary school; except that, when any of the above exempted colleges offers a course nowhere else available in the District, opportunity for admission to that course must be open to students of both sexes who otherwise meet lawful requirements for admission.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall not be an unlawful discriminatory practice for the District of Columbia to prescribe minimum and maximum age limits for appointment to the police officer and firefighter cadet programs.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 242, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 4-172">Mar. 9, 1983, D.C. Law 4-172, § 4(b), 29 DCR 5745</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2521.</annotation>
+          <annotation>1973 Ed., § 6-2252.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|F"/>
+      <num codify:value="2-1402.51">251</num>
+      <heading>Posting of notice.</heading>
+      <text>Every person subject to this chapter shall post and keep posted in a conspicuous location where business or activity is customarily conducted or negotiated, a notice whose language and form has been prepared by the Office, setting forth excerpts from or summaries of, the pertinent provisions of this chapter and information pertinent to the filing of a complaint.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 251, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Bonds and construction procurement, construction contractors and subcontractors, agreement to post notice of nondiscrimination provisions, see § <cite path="§2-305.08">2-305.08</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1402.64">2-1402.64</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2522.</annotation>
+          <annotation>1973 Ed., § 6-2261.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|F"/>
+      <num codify:value="2-1402.52">252</num>
+      <heading>Records and reports.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every person subject to this chapter shall preserve any regularly kept business records for a period of 6 months from the date of the making of the record, or from the date of the action which is the subject of the record, whichever is longer; such records shall include, but not be limited to, application forms submitted by applicants, sales and rental records, credit and reference reports, personnel records, and any other record pertaining to the status of an individual’s enjoyment of the rights and privileges protected or granted under this chapter.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Where a charge of discrimination has been filed against a person under this chapter, the respondent shall preserve all records which may be relevant to the charge or action, until a final disposition of the charge in accordance with subsection (c) of this section.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>All persons subject to this chapter shall furnish to the Office, at the time and in the manner prescribed by the Office, such reports relating to information under their control as the Office may require. The identities of persons and properties contained in reports submitted to the Office under the provisions of this section shall not be made public.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 252, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2523.</annotation>
+          <annotation>1973 Ed., § 6-2262.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|F"/>
+      <num codify:value="2-1402.53">253</num>
+      <heading>Affirmative action plans.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It shall not be an unlawful discriminatory practice for any person to carry out an affirmative action plan that has been approved by the Office. An affirmative action plan is any plan devised to effectuate remedial or corrective action in response to past discriminatory practices prohibited under this chapter and may also include those plans devised to provide preferential treatment for a class or classes of persons, which preferential treatment by class would otherwise be prohibited by this chapter and which plan is not devised to contravene the intent of this chapter.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All banks and savings and loan associations, subject to this chapter, shall submit annually to the Office an affirmative action plan which shall include goals and timetables for the remediation or correction of past or present discriminatory practices. Such plan shall be reviewed by the Office and is subject to its approval.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>It shall be an unlawful discriminatory practice for any bank or savings and loan association, subject to this chapter, to fail to develop an affirmative action plan approved by the Office or fail to comply substantially with the terms of such affirmative action plan.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Office shall develop and promulgate guidelines which will set forth the affirmative action requirements of this section and shall incorporate, but not be limited to, applicable federal guidelines. Such guidelines shall be promulgated by the Office within 120 days of the enactment of this law consistent with the District of Columbia Administrative Procedure Act (§ <cite path="§2-501">2-501</cite> et seq.) and shall not become effective until 60 calendar days following submission to the Council.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 253, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 2-140">Mar. 3, 1979, D.C. Law 2-140, § 3, 25 DCR 5473</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2524.</annotation>
+          <annotation>1973 Ed., § 6-2263.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|G"/>
+      <num codify:value="2-1402.61">261</num>
+      <heading>Coercion or retaliation.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It shall be an unlawful discriminatory practice to coerce, threaten, retaliate against, or interfere with any person in the exercise or enjoyment of, or on account of having exercised or enjoyed, or on account of having aided or encouraged any other person in the exercise or enjoyment of any right granted or protected under this chapter.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall be an unlawful discriminatory practice for any person to require, request, or suggest that a person retaliate against, interfere with, intimidate or discriminate against a person, because that person has opposed any practice made unlawful by this chapter, or because that person has made a charge, testified, assisted, or participated in any manner in an investigation, proceeding or hearing authorized under this chapter.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>It shall be an unlawful discriminatory practice for any person to cause or coerce, or attempt to cause or coerce, directly or indirectly, any person to prevent any person from complying with the provisions of this chapter.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 261, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2525.</annotation>
+          <annotation>1973 Ed., § 6-2271.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|G"/>
+      <num codify:value="2-1402.62">262</num>
+      <heading>Aiding or abetting.</heading>
+      <text>It shall be an unlawful discriminatory practice for any person to aid, abet, invite, compel, or coerce the doing of any of the acts forbidden under the provisions of this chapter or to attempt to do so.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 262, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2526.</annotation>
+          <annotation>1973 Ed., § 6-2272.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|G"/>
+      <num codify:value="2-1402.63">263</num>
+      <heading>Conciliation agreements.</heading>
+      <text>It shall be an unlawful discriminatory practice for a party to a conciliation agreement, made under the provisions of this chapter, to violate the terms of such agreement.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 263, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2527.</annotation>
+          <annotation>1973 Ed., § 6-2273.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|G"/>
+      <num codify:value="2-1402.64">264</num>
+      <heading>Resisting the Office or Commission.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person who shall willfully resist, prevent, impede or interfere with the Office or the Commission, or any of their representatives, in the performance of any duty under the provisions of this chapter, or shall willfully violate an order of the Commission, shall upon conviction, be punished by imprisonment for not more than 10 days, or by a fine of not more than $300, or by both, except, that filing a petition for review of an order, pursuant to the provisions of this chapter, shall not be deemed to constitute such willful conduct, nor shall compliance with any procedure regarding a subpoena in accord with § <cite path="§5-1021">5-1021</cite>, be deemed to constitute such willful conduct.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall be an unlawful discriminatory practice for a person subject to this chapter, to fail to post notices, maintain records, file reports, as required by §§ <cite path="§2-1402.51">2-1402.51</cite> to 2-1402.53, or to supply documents and information requested by the Office in connection with a matter under investigation.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 264, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2528.</annotation>
+          <annotation>1973 Ed., § 6-2274.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|G"/>
+      <num codify:value="2-1402.65">265</num>
+      <heading>Falsifying documents and testimony.</heading>
+      <text>It shall be unlawful to willfully falsify documents, records, or reports, which are required or subpoenaed pursuant to this chapter, or willfully to falsify testimony, or to intimidate any witness or complainant; such violations shall be punishable by imprisonment for not more than 10 days, or by a fine of not more than $300, or by both.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 265, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2529.</annotation>
+          <annotation>1973 Ed., § 6-2275.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|G"/>
+      <num codify:value="2-1402.66">266</num>
+      <heading>Arrest records.</heading>
+      <para>
+        <num>(a)</num>
+        <para>
+          <num>(1)</num>
+          <para>
+            <num>(A)</num>
+            <text>An individual may request production of his or her arrest record for the purposes of determining eligibility for sealing or expunging that record pursuant to Chapter 8 of Title 16 [§  16-801 et seq.], or similar sealing statutes in the District or in another jurisdiction, and may request production of his or her arrest record for filing a sealing or expungement motion.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The District may charge the individual a nominal fee for processing this request.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>For the purposes of this subsection, an “arrest record” shall contain a listing of all adult arrests, regardless of the disposition of each arrest, and regardless of the date on which the arrest, conviction, or completion of the sentence occurred.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A person who requires an individual to produce any arrest record or any copy, extract, or statement thereof pursuant to this subsection other than for the purpose of filing a sealing or expungement motion shall be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite> or imprisoned for not more than 10 days.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <para>
+          <num>(1)</num>
+          <para>
+            <num>(A)</num>
+            <text>An individual may request production of his or her arrest record or authorize another person to request production of his or her arrest record for any other purpose.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The District may charge the individual a nominal fee for processing this request.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>For purposes of this subsection, an “arrest record” shall contain a listing only of adult convictions for which the sentence was completed not more than 10 years before the date on which the records were requested and forfeitures of collateral in a court proceeding that have occurred not more than 10 years before the date on which the record was requested; provided, that forfeitures of collateral in a court proceeding shall not include any forfeiture of collateral that was made pursuant to the post-and-forfeit procedure, as that term is defined in § <cite path="§5-335.01">5-335.01</cite>(a).</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 266, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 19-319">June 15, 2013, D.C. Law 19-319, § 3, 60 DCR 2333</annotation>
+          <annotation doc="D.C. Law 20-186">Mar. 10, 2015, D.C. Law 20-186, § 3, 61 DCR 12108</annotation>
+          <annotation doc="D.C. Law 20-243">Apr. 24, 2015, D.C. Law 20-243, §  4, 61 DCR 8320</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2530.</annotation>
+          <annotation>1973 Ed., § 6-2276.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>The 2013 amendment by <cite doc="D.C. Law 19-319">D.C. Law 19-319</cite> rewrote the section.</annotation>
+          <annotation>The 2015 amendment by <cite doc="D.C. Law 20-186">D.C. Law 20-186</cite> redesignated (a)(1) through (3) as (a)(1)(A) through (a)(1)(C); and added (a)(2).</annotation>
+          <annotation>The 2015 amendment by <cite doc="D.C. Law 20-243">D.C. Law 20-243</cite> added “provided, that forfeitures of collateral in a court proceeding shall not include any forfeiture of collateral that was made pursuant to the post-and-forfeit procedure, as that term is defined in § <cite path="§5-335.01">5-335.01</cite>(a)” in (b)(1)(C).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|G"/>
+      <num codify:value="2-1402.67">267</num>
+      <heading>District of Columbia.</heading>
+      <text>All permits, licenses, franchises, benefits, exemptions, or advantages issued by or on behalf of the government of the District of Columbia, shall specifically require and be conditioned upon full compliance with the provisions of this chapter; and shall further specify that the failure or refusal to comply with any provision of this chapter shall be a proper basis for revocation of such permit, license, franchise, benefit, exemption, or advantage.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 267, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1401.02">2-1401.02</cite> and § <cite path="§34-1731.09">34-1731.09</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2531.</annotation>
+          <annotation>1973 Ed., § 6-2277.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|II|G"/>
+      <num codify:value="2-1402.68">268</num>
+      <heading>Effects clause.</heading>
+      <text>Any practice which has the effect or consequence of violating any of the provisions of this chapter shall be deemed to be an unlawful discriminatory practice.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title II, § 268, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2532.</annotation>
+          <annotation>1973 Ed., § 6-2278.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>III</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.01">301</num>
+      <heading>Powers of Office and Commission; annual report by Mayor.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The activities of the Office and the Commission, under the provisions of this chapter, shall be considered investigations or examinations of municipal matters, within the meaning of § <cite path="§5-1021">5-1021</cite>; and the Commission, the individual members thereof, and the Director, shall possess the powers vested in the Council of the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Office is hereby empowered to undertake its own investigations and public hearings on any racial, religious, and ethnic group tensions, prejudice, intolerance, bigotry, and disorder; and on any form of, or reason for, discrimination, in accordance with §§ <cite path="§2-1401.01">2-1401.01</cite> and <cite path="§2-1402.01">2-1402.01</cite>, against any person, group of persons, organization, or corporations, whether practiced by private persons, associations, corporations, city officials, or city agencies; for the purpose of making appropriate recommendations for action, including legislation, against such discrimination.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Office and the Commission may make, issue, adopt, promulgate, amend, and rescind such rules and procedures as they deem necessary to effectuate and which are not in conflict with, the provisions of this chapter. Such rules and procedures and amendments thereto shall be adopted and promulgated in accordance with procedures promulgated pursuant to the D.C. Administrative Procedure Act (§ <cite path="§2-501">2-501</cite> et seq.).</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In taking any action authorized or required by the provisions of this chapter, the Commission may act through panels or a division of not less than 3 of its members, a majority of whom shall constitute a quorum.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Mayor shall recommend to the Council any additional regulations.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Investigations relating to the enforcement of provisions of this chapter shall be given priority over all other duties and activities of the Office.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <para>
+          <num>(1)</num>
+          <text>The Mayor shall report annually to the Council as to the progress with regard to the enforcement of this chapter, and any other activity related to the field of human rights deemed valuable to the Council in the pursuit of its responsibilities.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The annual report required by paragraph (1) of this subsection shall include information regarding concluded investigations, including concluded inquiries by the Director conducted pursuant to subsection (b) of this section; provided, that the Director may withhold information relating to a concluded investigation or inquiry if the Director finds that including the information in the annual report would:</text>
+          <para>
+            <num>(A)</num>
+            <text>Undermine the integrity of the concluded investigation or inquiry; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Violate a work-sharing agreement with the Equal Employment Opportunity Commission, the U.S. Department of Housing and Urban Development, or any other federal agency.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The Office and the Commission shall enforce §§ <cite path="§34-1240">34-1240</cite> [repealed], 34-1241 [repealed], 34-1242 [repealed], 34-1243 [repealed] and any other human rights provisions of Chapter 12 of Title 34.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 301, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 4-142">Aug. 21, 1982, D.C. Law 4-142, § 42(i), 29 DCR 2872</annotation>
+          <annotation doc="D.C. Law 20-266">May 2, 2015, D.C. Law 20-266, § 3(b), 62 DCR 1540</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2541.</annotation>
+          <annotation>1973 Ed., § 6-2281.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>The 2015 amendment by <cite doc="D.C. Law 20-266">D.C. Law 20-266</cite> redesignated the existing text of (g) as (g)(1); and added (g)(2).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Mayor's Orders</heading>
+          <annotation>Establishment of Department of Human Rights and Minority Business Development: See Mayor’s Order 89-247, November 1, 1989.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.02">302</num>
+      <heading>Complaints; independent action by other District agencies.</heading>
+      <text>Nothing in the provisions of this chapter is deemed to relieve any agency or authority of the government of the District of its obligation to take immediate and independent action regarding a matter filed with it, in accord with its jurisdiction, that also may be the subject of a complaint filed with the Office.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 302, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2542.</annotation>
+          <annotation>1973 Ed., § 6-2282.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.03">303</num>
+      <heading>Establishment of procedure for complaints filed against District government.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Mayor shall establish rules of procedure for the investigation, conciliation, and hearing of administrative complaints filed against District government agencies, officials and employees alleging violations of this chapter. The final administrative determination in such matters shall be made by the Mayor or his designee.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person claiming to be aggrieved by an unlawful discriminatory practice on the part of District government agencies, officials, or employees may elect to file an administrative complaint under the rules of procedure established by the Mayor under this section or a civil action in a court of competent jurisdiction under § <cite path="§2-1403.16">2-1403.16</cite>.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 303, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 14-189">Oct. 1, 2002, D.C. Law 14-189, § 2(h), 49 DCR 6523</annotation>
+          <annotation doc="D.C. Law 15-105">Mar. 13, 2004, D.C. Law 15-105,§ 28, 51 DCR 881</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>Administration, merit system, reductions-in-force, selection of position to be abolished, review procedure, see § <cite path="§1-624.08">1-624.08</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§1-624.08">1-624.08</cite>, § <cite path="§2-1403.04">2-1403.04</cite>, and § <cite path="§2-1403.16">2-1403.16</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2543.</annotation>
+          <annotation>1973 Ed., § 6-2283.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 14-189">D.C. Law 14-189</cite>, designated the section as subsec. (a); added subsec. (b); and rewrote the newly designated subsec. (a) which had read as follows: “Notwithstanding any other provision of this chapter, the Mayor shall establish rules of procedure for the investigation, conciliation, and hearing of complaints filed against District government agencies, officials and employees alleging violations of this chapter. The final determination in such matters shall be made by the Mayor or his designee.”</annotation>
+          <annotation><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite> validated a previously made technical correction.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.04">304</num>
+      <heading>Filing of complaints and mediation.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person or organization, whether or not an aggrieved party, may file with the Office a complaint of a violation of the provisions of this chapter, including a complaint of general discrimination, unrelated to a specific person or instance. The complaint shall state the name and address of the person alleged to have committed the violation, hereinafter called the respondent, and shall set forth the substance thereof, and such other information as may be required by the Office. The Director, sua sponte, may investigate individual instances and patterns of conduct prohibited by the provisions of this chapter and may initiate complaints in connection therewith. Any complaint under this chapter shall be filed with the Office within 1 year of the occurrence of the unlawful discriminatory practice, or the discovery thereof, except as may be modified in accordance with § <cite path="§2-1403.03">2-1403.03</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Complaints filed with the Office under the provisions of this chapter may be voluntarily withdrawn at the request of the complainant at any time prior to the completion of the Office’s investigation and findings as specified in § <cite path="§2-1403.05">2-1403.05</cite>, except that the circumstances accompanying said withdrawal may be fully investigated by the Office.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A mediation program shall be established and all complaints shall be mediated before the Office commences a full investigation. During the mediation the parties shall discuss the issues of the complaint in an effort to reach an agreement that satisfies the interests of all concerned parties. The Office shall grant the parties up to 45 days within which to mediate a complaint. If an agreement is reached during the mediation process, the terms of the agreement shall control resolution of the complaint. If an agreement is not reached, the Office shall proceed with an investigation of the complaint.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Complaints filed with the Office alleging unlawful discrimination in residential real estate transactions or violations of FHA, shall be served on the complainant and respondent within 5 days of filing, with a notice identifying the alleged discriminatory practice and advising the parties of their procedural rights and obligations under this chapter and  FHA. The Office shall refer the complaint for mediation, but shall begin investigating the complaint within 30 days of its filing if the parties fail to reach an agreement.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 304, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 12-39">Oct. 23, 1997, D.C. Law 12-39, § 2(a), 44 DCR 4856</annotation>
+          <annotation doc="D.C. Law 12-242">Apr. 20, 1999, D.C. Law 12-242,§ 2(h), 46 DCR 952</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2544.</annotation>
+          <annotation>1973 Ed., § 6-2284.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.05">305</num>
+      <heading>Investigation.</heading>
+      <para>
+        <num>(a)</num>
+        <text>With the exception of complaints alleging unlawful discrimination in residential real estate transactions brought pursuant to this chapter or the FHA, the Office shall serve, within 15 days of said filing, a copy thereof upon the respondent, and upon all persons it deems to be necessary parties; and shall make prompt investigation in connection therewith.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Within 120 days, after service of the complaint upon all parties thereto, the Office shall determine whether, in accord with its own rules, it has jurisdiction; and if so, whether there is probable cause to believe that the respondent has engaged or is engaging in an unlawful discriminatory practice.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the Office finds, with respect to any respondent, that it lacks jurisdiction or that probable cause does not exist the Director forthwith shall issue and cause to be served on the appropriate parties, an order dismissing the allegations of the complaint.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Office shall complete investigations of complaints alleging unlawful discrimination in residential real estate transactions brought pursuant to this chapter or the FHA, within 100 days after filing of the complaint. The Office shall notify the parties in writing of the reasons for not timely completing the investigation, if it is unable to or it becomes impracticable to complete the investigation within 100 days.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Office may join a person not named as an additional or substitute respondent upon written notice for complaints alleging unlawful discrimination in residential real estate transactions brought pursuant to this chapter or the FHA.  The Office, in the notice to the respondent shall explain the basis for determining that the person is properly joined as a respondent.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The complainant, respondent, or an aggrieved person on whose behalf the complaint was filed, for complaints alleging unlawful discrimination in residential real estate transactions or violations of the FHA, may elect to have the claims asserted in the complaint decided in a civil action.</text>
+        <para>
+          <num>(1)</num>
+          <text>An election of remedies, pursuant to this subsection, shall be made no later than 20 days after the service of a charge, based on a finding of probable cause pursuant to the investigation of the complaint.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The person making the election of remedies shall give notice by certified mail to the Director and to all parties to the complaint.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>If a timely election is made pursuant to subsection (f) of this section, the Director shall authorize, not later than 30 days after the election is made, and the Corporation Counsel shall file a civil action on behalf of the aggrieved party in the Superior Court of the District of Columbia.  Venue for an action pursuant to this section shall be in the District of Columbia. Any aggrieved party may intervene in this court action.  The Court may grant relief pursuant to § <cite path="§2-1403.16">2-1403.16</cite>(b) if the court finds that a discriminatory housing practice has occurred or is occurring.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 305, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 12-242">Apr. 20, 1999, D.C. Law 12-242, § 2(i), 46 DCR 952</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1403.04">2-1403.04</cite> and § <cite path="§2-1403.17">2-1403.17</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2545.</annotation>
+          <annotation>1973 Ed., § 6-2285.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.06">306</num>
+      <heading>Conciliation.</heading>
+      <para>
+        <num>(a)</num>
+        <text>If, in the judgment of the Office, the circumstances so warrant, it may, at any time after the filing of the complaint, endeavor to eliminate such unlawful discriminatory practice by conference, conciliation, or persuasion.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the Office determines that there exists probable cause to believe that the respondent has engaged or is engaging in an unlawful practice, the parties shall attempt to conciliate the complaint. The Office shall grant the parties up to 60 days within which to reach a conciliation agreement. If the parties fail to execute a conciliation agreement within the time allowed by the Office, the Office shall certify the case to the Commission for a public hearing. The terms of a conciliation agreement may require a respondent to refrain, in the future, from committing specified discriminatory practices, and to take such affirmative action as, in the judgment of the Office, will effectuate the purposes of this chapter; and may include consent, by the respondent, to the entry in court of a consent decree, embodying the terms of the conciliation agreement.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Upon agreement of all parties to a complaint and upon notice to all parties thereto, a conciliation agreement shall be deemed an order of the Commission, and shall be enforceable as such. Except for the terms of the conciliation agreement, employees of the Office shall not make public, without the written consent of the respondent, information concerning conciliation efforts.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Repealed.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Office shall make public, unless the complainant and respondent agree otherwise and the Director determines that disclosure is not required to further the purpose of this chapter, conciliation agreements alleging unlawful discrimination in residential real estate transactions or violations of the FHA.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 306, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 11-198">Apr. 9, 1997, D.C. Law 11-198, § 402, 43 DCR 4569</annotation>
+          <annotation doc="D.C. Law 12-39">Oct. 23, 1997, D.C. Law 12-39, § 2(b), 44 DCR 4856</annotation>
+          <annotation doc="D.C. Law 12-242">Apr. 20, 1999, D.C. Law 12-242, § 2(j), 46 DCR 952</annotation>
+          <annotation doc="D.C. Law 13-91">Apr. 12, 2000, D.C. Law 13-91, § 159(c), 47 DCR 520</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2546.</annotation>
+          <annotation>1973 Ed., § 6-2286.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite> validated a previously made technical correction in subsec. (e).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Temporary Amendment of Section</heading>
+          <annotation>For temporary (225 day) amendment of section, see § 2 of the Fiscal Year 1997 Budget Support Temporary Amendment Act of 1996, (<cite doc="D.C. Law 11-226">D.C. Law 11-226</cite>, Apr. 9, 1997, law notification  44 DCR 2584).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Emergency Legislation</heading>
+          <annotation>For temporary amendment of section, see § 402 of the Fiscal Year 1997 Budget Support Congressional Adjournment Emergency Amendment Act of 1997 (D.C. Act 12-2, February 19, 1997,  44 DCR 1590).</annotation>
+          <annotation>Section 1001 of D.C. Act 12-2 provided for the application of the act.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.07">307</num>
+      <heading>Injunctive relief.</heading>
+      <text>If, at any time after a complaint has been filed, the Office believes that appropriate civil action to preserve the status quo or to prevent irreparable harm appears advisable, the Office shall certify the matter to the Corporation Counsel, who shall bring, in the name of the District of Columbia, any action necessary to preserve such status quo or to prevent such harm, including the seeking of temporary restraining orders and preliminary injunctions. The appropriate parties shall be notified of such certification and the complainant may initiate independently, or in cooperation with the Corporation Counsel, appropriate civil action to seek a temporary restraining order or preliminary injunction.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 307, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1403.16">2-1403.16</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2547.</annotation>
+          <annotation>1973 Ed., § 6-2287.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.08">308</num>
+      <heading>Posting of notice of complaint in housing accommodation.</heading>
+      <text>If a finding of probable cause has been made, as to a complaint of discrimination in housing, and the property owner, or his duly authorized agent, will not agree voluntarily to withhold from the market the subject housing accommodations for a period of 10 days from the date of such finding of probable cause, the Office may cause to be posted on the door of said housing accommodations for a period of 10 days from the date of said finding a notice advising that said accommodations are the subject of a complaint before the Office and that prospective transferees will take such housing accommodations at their peril. Any destruction, defacement, alteration or removal of the notice thereof, by the owner or his agents, servants and employees, shall be punishable, upon conviction, by a fine of up to $300, or by imprisonment for not more than 10 days, or both.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 308, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2548.</annotation>
+          <annotation>1973 Ed., § 6-2288.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.09">309</num>
+      <heading>Service of process.</heading>
+      <text>In all cases where the Office is required to effect service, it shall be accomplished by regular, registered, or certified mail, return receipt requested, by electronic mail, or by personal service and shall otherwise be in accordance with rules of the Office regarding service and notice.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 309, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 19-112">Mar. 14, 2012, D.C. Law 19-112, § 2, 59 DCR 453</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2549.</annotation>
+          <annotation>1973 Ed., § 6-2289.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 19-112">D.C. Law 19-112</cite> substituted “regular, registered, or certified mail, return receipt requested, by electronic mail,” for “registered or certified mail, return receipt requested”.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.10">310</num>
+      <heading>Notice of hearing.</heading>
+      <text>In case of failure of conciliation efforts, or in advance of conciliation efforts, as determined by the Office, and after a finding of probable cause, the Office shall cause to be issued and served in the name of the Commission, a written notice, together with a copy of the complaint, as the same may have been amended, requiring the respondent to answer the charges of such complaint at a public hearing before 1 or more members of the Commission or before a hearing examiner, such hearing to be scheduled not less than 10 days or not more than 30 days after such service and at a place to be specified in such notice. Notice shall be served by registered or certified mail, return receipt requested, or by personal service.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 310, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2550.</annotation>
+          <annotation>1973 Ed., § 6-2290.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.11">311</num>
+      <heading>Hearing tribunal.</heading>
+      <para>
+        <num>(a)</num>
+        <text>After a complaint has been noticed for hearing, a hearing tribunal consisting of 3 members of the Commission, sitting as the Commission, shall be appointed to make a determination upon such complaint. At the discretion of the Commission, 1 or more hearing examiners may be delegated to hear and report back to the Commission, on any case or question before the Commission.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A hearing examiner may be an employee of the District government or may be selected from a list of qualified hearing examiners prepared by the Commission. Commission members may serve as hearing examiners. Hearing examiners shall be paid on a per diem basis, while actually sitting and hearing a case: Provided, that funds are available for such purpose.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 311, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2551.</annotation>
+          <annotation>1973 Ed., § 6-2291.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.12">312</num>
+      <heading>Conduct of hearing.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The hearing shall be conducted in accordance with procedures promulgated pursuant to the Administrative Procedure Act (§ <cite path="§2-501">2-501</cite> et seq.).</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The case in support of the complaint shall be presented by an agent or attorney of the Office.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any Commissioner or hearing examiner, who has participated in the investigation, conciliation or processing of a complaint, or has participated in any decision related to the merits of a complaint, may not sit with a hearing tribunal appointed to make a determination upon such complaint.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Efforts at conciliation by the Office, or the parties, shall not be received in evidence.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If the respondent fails to answer the complaint, the hearing tribunal, or the hearing examiner designated to conduct the hearing, may enter the default and the hearing shall proceed on the basis of the evidence in support of the complaint. Such default may be set aside only for good cause shown, and upon equitable terms and conditions.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 312, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2552.</annotation>
+          <annotation>1973 Ed., § 6-2292.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.13">313</num>
+      <heading>Decision and order.</heading>
+      <para>
+        <num>(a)</num>
+        <para>
+          <num>(1)</num>
+          <text>If, at the conclusion of the hearing, the Commission determines that a respondent has engaged in an unlawful discriminatory practice or has otherwise violated the provisions of this chapter, the Commission shall issue, and cause to be served upon such respondent, a decision and order, accompanied by findings of fact and conclusions of law, requiring such respondent to cease and desist from such unlawful discriminatory practice, and to take such affirmative action, including but not limited to:</text>
+          <para>
+            <num>(A)</num>
+            <text>The hiring, reinstatement or upgrading of employees, with or without back pay;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The restoration to the membership in any respondent labor organization, admission to or participation in a program, apprenticeship training program, on-the-job training program or other occupational training or retraining program;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The extension of full, equal and unsegregated accommodations, advantages, facilities and privileges to all persons;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The payment of compensatory damages to the person aggrieved by such practice;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The payment of reasonable attorney fees;</text>
+          </para>
+          <para>
+            <num>(E-1)</num>
+            <text>The payment of civil penalties, which shall be deposited in the General Fund, according to the following schedule:</text>
+            <para>
+              <num>(i)</num>
+              <text>In an amount not to exceed $10,000 if the respondent has not been adjudged to have committed any prior unlawful discriminatory practice;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>In an amount not to exceed $25,000 if the respondent has been adjudged to have committed 1 other unlawful discriminatory practice during the 5-year period ending on the date of the filing of this charge; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>In an amount not to exceed $50,000 if the respondent has been adjudged to have committed 2 or more unlawful discriminatory practices during the 7-year period ending on the date of the filing of this charge; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>The payment of hearing costs, as, in the judgment of the Commission, will effectuate the purposes of this chapter, and including a requirement for a report as to the manner of compliance with such decision and order.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>With regard to compensatory damages, civil penalties, and attorneys fees, the Commission shall develop guidelines which shall be submitted to the Council for review prior to implementation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If, upon all the evidence, the Commission finds that a respondent has not engaged in any unlawful discriminatory practice, the Commission shall issue and cause to be served on the complainant, an order dismissing the complaint as to such respondent.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Whenever a case has been heard by 1 or more hearing examiners who do not have the power to render a final order or decision, the Commissioners, assigned to decide the case, shall serve upon the parties a proposed order or decision, including findings of fact and conclusions of law, with a notice providing that each party adversely affected may file exceptions and present arguments to the Commissioners, on a date not less than 10 days from the date of service of the proposed order or decision.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Findings of fact and conclusions of law shall be supported by, and in accordance with, reliable, probative, and substantial evidence.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 313, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 12-39">Oct. 23, 1997, D.C. Law 12-39, § 2(c), 44 DCR 4856</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1403.16">2-1403.16</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2553.</annotation>
+          <annotation>1973 Ed., § 6-2293.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <text>Compensatory damages and attorneys’ fees guidelines approved: Pursuant to Resolution 4-637, the “Commission on Human Rights Compensatory Damages and Attorneys’ Fees Approved Resolution of 1982”, effective October 19, 1982, the Council approved the proposed guidelines concerning compensatory damages and attorneys’ fees which were transmitted from the Commission to the Council on May 10, 1982.</text>
+          <text>Compensatory damages, civil penalties, and attorney’s fees approved: Proposed Resolution 12-1237 (R12-838), the “District of Columbia Commission on Human Rights Compensatory Damages, Civil Penalties, and Attorneys’ Fees Approval Resolution of 1998”, was deemed approved, effective December 15, 1998.</text>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.14">314</num>
+      <heading>Judicial review.</heading>
+      <text>Any person suffering a legal wrong, or adversely affected or aggrieved by an order or decision of the Commission in a matter pursuant to the provisions of this chapter, is entitled to a judicial review thereof, in accordance with § <cite path="§2-510">2-510</cite>, upon filing, in the District of Columbia Court of Appeals, a written petition for such review.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 314, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1403.15">2-1403.15</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2554.</annotation>
+          <annotation>1973 Ed., § 6-2294.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.15">315</num>
+      <heading>Enforcement of order.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The decision and order of the Commission shall be served on the respondent, with notice that, if the Commission determines that the respondent has not, after 30 calendar days following service of its order, corrected the unlawful discriminatory practice and complied with the order, the Commission will certify the matter to the Corporation Counsel, and to such other agencies as may be appropriate for enforcement.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Corporation Counsel shall institute, in the name of the District, civil proceedings including the seeking of such restraining orders and temporary or permanent injunctions, as are necessary to obtain complete compliance with the Commission’s orders. In the event that successful civil proceedings do not result in securing such compliance, the Corporation Counsel shall institute criminal action.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No enforcement action shall be instituted pending review as provided in § <cite path="§2-1403.14">2-1403.14</cite>.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Nothing in this section shall be construed to deprive any person of rights in the criminal justice process.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 315, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1403.17">2-1403.17</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2555.</annotation>
+          <annotation>1973 Ed., § 6-2295.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.16">316</num>
+      <heading>Private cause of action.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person claiming to be aggrieved by an unlawful discriminatory practice shall have a cause of action in any court of competent jurisdiction for damages and such other remedies as may be appropriate, unless such person has filed a complaint hereunder; provided, that where the Office has dismissed such complaint on the grounds of administrative convenience, or where the complainant has withdrawn a complaint, such person shall maintain all rights to bring suit as if no complaint had been filed. No person who maintains, in a court of competent jurisdiction, any action based upon an act which would be an unlawful discriminatory practice under this chapter may file the same complaint with the Office. A private cause of action pursuant to this chapter shall be filed in a court of competent jurisdiction within one year of the unlawful discriminatory act, or the discovery thereof, except that the limitation shall be within 2 years of the unlawful discriminatory act, or the discovery thereof, for complaints of unlawful discrimination in real estate transactions brought pursuant to this chapter or the FHA.  The timely filing of a complaint with the Office, or under the administrative procedures established by the Mayor pursuant to § <cite path="§2-1403.03">2-1403.03</cite>, shall toll the running of the statute of limitations while the complaint is pending.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The court may grant any relief it deems appropriate, including, the relief provided in §§ <cite path="§2-1403.07">2-1403.07</cite> and <cite path="§2-1403.13">2-1403.13</cite>(a).</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The notice requirement of § <cite path="§12-309">12-309</cite> shall not apply to any action brought against the District of Columbia under this section.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 316, 24 DCR 6038</annotation>
+          <annotation doc="D.C. Law 12-39">Oct. 23, 1997, D.C. Law 12-39, § 2(d), 44 DCR 4856</annotation>
+          <annotation doc="D.C. Law 12-242">Apr. 20, 1999, D.C. Law 12-242,§ 2(k), 46 DCR 952</annotation>
+          <annotation doc="D.C. Law 14-189">Oct. 1, 2002, D.C. Law 14-189, § 2(i), 49 DCR 6523</annotation>
+          <annotation doc="D.C. Law 20-266">May 2, 2015, D.C. Law 20-266, § 3(c), 62 DCR 1540</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1403.03">2-1403.03</cite> and § <cite path="§2-1403.05">2-1403.05</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2556.</annotation>
+          <annotation>1973 Ed., § 6-2296.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation><cite doc="D.C. Law 14-189">D.C. Law 14-189</cite>, in the fourth sentence of subsec. (a), substituted “The timely filing of a complaint with the Office, or under the administrative procedures established by the Mayor pursuant to § <cite path="§2-1403.03">2-1403.03</cite>, shall toll the running of the statute of limitations while the complaint is pending.” for “The timely filing of a complaint with the Office shall toll the running of the statute of limitations while the complaint is pending before the Office.”</annotation>
+          <annotation>The 2015 amendment by <cite doc="D.C. Law 20-266">D.C. Law 20-266</cite> added (c).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|III"/>
+      <num codify:value="2-1403.17">317</num>
+      <heading>Referral to licensing agencies.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Whenever it appears that the holder of a permit, license, franchise, benefit, or advantage issued by any agency or authority of the government of the District is a person against whom the Office has made a finding of probable cause pursuant to § <cite path="§2-1403.05">2-1403.05</cite>, the Office, notwithstanding any other action it may take or may have taken under the authority of the provisions of this chapter, may refer to the proper agency or authority the facts and identities of all persons involved in the complaint for such action as such agency or authority, in its judgment, considers appropriate, based upon the facts thus disclosed to it.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Commission, upon a determination of a violation of any of the provisions of this chapter by a holder of, or applicant for any permit, license, franchise, benefit, exemption, or advantage issued by or on behalf of the government of the District of Columbia, and upon failure of the respondent to correct the unlawful discriminatory practice and comply with its order, in accordance with § <cite path="§2-1403.15">2-1403.15</cite>(a), shall refer this determination to the appropriate agency or authority. Such determination shall constitute prima facie evidence that the respondent, with respect to the particular business in which the violation was found, is not operating in the public interest. Such agency or authority shall, upon notification, issue to said holder or applicant an order to show cause why such privileges related to that business should not be revoked, suspended, denied or otherwise restricted.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title III, § 317, 24 DCR 6038</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§2-1402.23">2-1402.23</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 1-2557.</annotation>
+          <annotation>1973 Ed., § 6-2297.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>IV</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|IV"/>
+      <num codify:value="2-1404.01">401</num>
+      <heading>Establishment of the Commission on Human Rights.</heading>
+      <text>There is hereby established, in the Executive Branch of the District government, a Commission on Human Rights.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title IV, § 401</annotation>
+          <annotation doc="D.C. Law 15-216">as added Dec. 7, 2004, D.C. Law 15-216, § 2(b), 51 DCR 9123</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§1-523.01">1-523.01</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|IV"/>
+      <num codify:value="2-1404.02">402</num>
+      <heading>Purpose and functions.</heading>
+      <text>The Commission shall serve as an impartial forum for the hearing and deciding of cases of unlawful discrimination in employment, real estate transactions, public accommodations, or educational institutions. The Commission shall hear such cases following a determination by the Office that there is probable cause to believe that an act of unlawful discrimination has occurred. In hearing and deciding such cases, the Commission shall follow the procedures set forth and use, in its discretion, the powers and authority provided in subchapter III of Unit A of this chapter.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title IV, § 402</annotation>
+          <annotation doc="D.C. Law 15-216">as added Dec. 7, 2004, D.C. Law 15-216, § 2(b), 51 DCR 9123</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|IV"/>
+      <num codify:value="2-1404.03">403</num>
+      <heading>Composition and appointment.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Commission shall consist of 15 members, appointed by the Mayor and confirmed by the Council, in accordance with § <cite path="§1-523.01">1-523.01</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Commission members shall be residents of the District of Columbia who have a demonstrated background or interest in human rights.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Commission members shall serve 3-year terms. The terms shall be staggered so that 5 positions expire on December 31 of each year.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Mayor shall designate one member to serve, at the Mayor’s pleasure, as Chairperson of the Commission.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Any person appointed to fill a vacancy occurring prior to the expiration of the term for which his or her predecessor was appointed shall be appointed only for the remainder of the term.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Commission members who began their service before December 7, 2004, shall serve the remainder of their terms.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Commission members shall serve without compensation, but shall be eligible for reimbursement of expenses as provided in § <cite path="§1-611.08">1-611.08</cite>(d).</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title IV, § 403</annotation>
+          <annotation doc="D.C. Law 15-216">as added Dec. 7, 2004, D.C. Law 15-216, § 2(b), 51 DCR 9123</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|2|14|IV"/>
+      <num codify:value="2-1404.04">404</num>
+      <heading>Organization.</heading>
+      <para>
+        <num>(a)</num>
+        <text>At the initial meeting of each year, the Commission shall determine its organization and name its officers, other than the Chairperson. The officers serving on December 7, 2004, shall serve until the initial meeting of the following year.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Commission shall meet at the invitation of the Chairperson or a majority of the members.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Commission may establish subcommittees to review issues and make recommendations to the Commission.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, title IV, § 404</annotation>
+          <annotation doc="D.C. Law 15-216">as added Dec. 7, 2004, D.C. Law 15-216, § 2(b), 51 DCR 9123</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|14|II|H"/>
+    <num codify:value="2-1402.71">271</num>
+    <heading>Prohibitions.</heading>
+    <text>It is unlawful discriminatory practice for an insurer authorized to sell motor vehicle insurance in the District of Columbia to do any of the following acts, wholly or partially for a discriminatory reason based on actual or perceived: race, color, religion, national origin, sex, marital status, personal appearance, sexual orientation, gender identity or expression, family responsibilities, disability, matriculation, political affiliation, lawful occupation, or location within the geographical area of the District of Columbia of any individual:</text>
+    <para>
+      <num>(1)</num>
+      <text>To fail or refuse to issue a policy of motor vehicle insurance;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>To fail or refuse to renew a policy of motor vehicle insurance; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>To cancel a policy of motor vehicle insurance.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, § 271</annotation>
+        <annotation doc="D.C. Law 4-155">as added Sept. 18, 1982, D.C. Law 4-155, § 14(b), 29 DCR 3491</annotation>
+        <annotation doc="D.C. Law 10-129">June 28, 1994, D.C. Law 10-129, § 2(g), 41 DCR 2583</annotation>
+        <annotation doc="D.C. Law 11-64">Oct. 21, 1995, D.C. Law 11-64, § 2(a), 42 DCR 4322</annotation>
+        <annotation doc="D.C. Law 14-189">Oct. 1, 2002, D.C. Law 14-189, § 2(f), 49 DCR 6523</annotation>
+        <annotation doc="D.C. Law 16-58">Mar. 8, 2006, D.C. Law 16-58, § 2(g), 53 DCR 14</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2533.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-189">D.C. Law 14-189</cite> substituted “actual or perceived: race” for “race”.</annotation>
+        <annotation><cite doc="D.C. Law 16-58">D.C. Law 16-58</cite> substituted “sexual orientation, gender identity or expression,” for “sexual orientation,”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|14|II|H"/>
+    <num codify:value="2-1402.73">273</num>
+    <heading>Application to the District government.</heading>
+    <text>Except as otherwise provided for by District law or when otherwise lawfully and reasonably permitted, it shall be an unlawful discriminatory practice for a District government agency or office to limit or refuse to provide any facility, service, program, or benefit to any individual on the basis of an individual’s actual or perceived: race, color, religion, national origin, sex, age, marital status, personal appearance, sexual orientation, gender identity or expression, familial status, family responsibilities, disability, matriculation, political affiliation, source of income, or place of residence or business.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, § 273</annotation>
+        <annotation doc="D.C. Law 14-189">as added Oct. 1, 2002, D.C. Law 14-189, § 2(g), 49 DCR 6523</annotation>
+        <annotation doc="D.C. Law 16-58">Mar. 8, 2006, D.C. Law 16-58, § 2(h), 53 DCR 14</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-58">D.C. Law 16-58</cite> substituted “sexual orientation, gender identity or expression,” for “sexual orientation,”.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|14|II|I"/>
+    <num codify:value="2-1402.81">281</num>
+    <heading>Findings and purposes.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Council finds that:</text>
+      <para>
+        <num>(1)</num>
+        <text>The encouragement of a public acceptance of breastfeeding is consistent with the promotion of family values between a mother and her child and no mother should be made to feel incriminated or socially ostracized for breastfeeding her child.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Breastfeeding a baby constitutes a basic act of nurturing to which every mother and child has a right and which should be encouraged in the interests of maternal and child health.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Breastfeeding provides significant health benefits to both the mother and child. Breastfeeding provides maternal protection from breast cancer, osteoporosis, urinary tract infections, and other cancers. Studies indicate that if every mother in the United States breastfed their children for 2 years, breast cancer could decline by 25%.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Social constraints of modem society weigh against the choice of breastfeeding and often result in new mothers opting to choose formula feeding to avoid embarrassment, social ostracism, or criminal prosecution.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Studies show that babies who are not breastfed have higher rates of death, meningitis, childhood leukemia and other cancers, diabetes, respiratory illnesses, bacterial and viral infections, diarrhoeal diseases, otitis media, allergies, obesity, and developmental delays. Breastfeeding may also raise a baby’s intelligence quotient.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>To attain an optimal, healthy start in life, the Surgeon General of the United States and the American Academy of Pediatrics recommend that babies from birth to at least one year of age be breastfed unless medically contraindicated. In addition, the World Health Organization and UNICEF have established the encouragement of breastfeeding as one of their major goals for the decade.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Despite these recommendations, statistics reveal a declining percentage of mothers are choosing to breastfeed their children. Nearly 50% of all new mothers are now choosing formula over breastfeeding before they leave the hospital, only 20% are still breastfeeding when their babies are 6 months of age, and only 6% are still breastfeeding when their babies are one year of age.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This part has the following purposes:</text>
+      <para>
+        <num>(1)</num>
+        <text>To increase the incidence and duration of breastfeeding as a goal for optimal maternal and child health and nutrition;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To enable women who so choose to freely breastfeed their children so that infants may be fed exclusively on breast milk from birth to 4 to 6 months of age;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To further enable women to breastfeed while giving appropriate and adequate complementary foods to children for up to 2 years of age or beyond; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To create an appropriate environment of awareness and support so that women can breastfeed and thereby achieve an ideal child nutrition option.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, § 281</annotation>
+        <annotation doc="D.C. Law 17-58">as added Dec. 11, 2007, D.C. Law 17-58, § 2(b), 54 DCR 10714</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|14|II|I"/>
+    <num codify:value="2-1402.82">282</num>
+    <heading>Rights of breastfeeding mothers.</heading>
+    <para>
+      <num>(a)</num>
+      <text>For the purposes of this section, the term:</text>
+      <para>
+        <num>(1)</num>
+        <text>“Reasonable efforts” means any effort that would not impose an undue hardship on the operation of an employer’s business.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Undue hardship” means any action that requires significant difficulty or expense when considered in relation to factors such as the size of the business, its financial resources, and the nature and structure of its operation.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>It shall be an unlawful discriminatory practice to deny a woman any right provided under this section.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>A woman shall have the right to breastfeed her child in any location, public or private, where she has the right to be with her child, without respect to whether the mother’s breast or any part of it is uncovered during or incidental to the breastfeeding of her child.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notwithstanding any other provision of District of Columbia law governing indecent exposure or the definition of the private or intimate parts of a female person, including that portion of the breast that is below the top of the areola, a woman shall have the right to breastfeed in accordance with this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>An employer shall provide reasonable daily unpaid break periods, as required by the employee, so that the employee may express breast milk for her child to maintain milk supply and comfort. If any break period, paid or unpaid, is already provided to the employee by the employer, the break period required shall run concurrently with the break periods already provided. Notwithstanding the foregoing, an employer shall not be required to provide break periods if it would create an undue hardship on the operations of the employer.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An employer shall make reasonable efforts to provide a sanitary room or other location in close proximity to the work area, other than a bathroom or toilet stall, where an employee can express her breast milk in privacy and security. The location may include a childcare facility in close proximity to the employee’s work location.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, § 282</annotation>
+        <annotation doc="D.C. Law 17-58">as added Dec. 11, 2007, D.C. Law 17-58, § 2(b), 54 DCR 10714</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|14|II|I"/>
+    <num codify:value="2-1402.83">283</num>
+    <heading>Duties of the Department of Health.</heading>
+    <text>The Department of Health shall monitor breastfeeding rates in the District of Columbia, the number and nature of complaints regarding violations of this part received by the Office of Human Rights, and any benefits reported by working breastfeeding mothers and employers to the Department of Health. The Department of Health shall issue annual reports of its findings to the Council.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 2-38">Dec. 13, 1977, D.C. Law 2-38, § 283</annotation>
+        <annotation doc="D.C. Law 17-58">as added Dec. 11, 2007, D.C. Law 17-58, § 2(b), 54 DCR 10714</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Procurement, bonds and construction, nondiscrimination provisions, see § <cite path="§2-305.08">2-305.08</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 6-113">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 6-113">
   <num type="law">6-113</num>
   <heading type="short">District of Columbia Uniform Conservation Easement Act of 1986</heading>
   <meta>
@@ -12,4 +12,287 @@
       <narrative>Law 6-113, the “District of Columbia Uniform Conservation Easement Act of 1986,” was introduced in Council and assigned Bill No. 6-55, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on February 25, 1986, and March 11, 1986, respectively. Signed by the Mayor on March 24, 1986, it was assigned Act No. 6-143 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|2"/>
+    <num codify:value="42-201">2</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this chapter, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>“Conservation easement” means a nonpossessory interest of a holder in real property imposing limitations or affirmative obligations the purposes of which include retaining or protecting natural, scenic, or open-space values of real property, ensuring its availability for agricultural, forestal, recreational, or open-space use, protecting natural resources, maintaining or enhancing air or water quality, or preserving the historical, architectural, archaeological, or cultural aspects of real property.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>“Holder” means 1 of the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>A governmental body empowered to hold an interest in real property under the laws of the District of Columbia or the United States; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A charitable corporation, charitable association, or charitable trust, the purposes or powers of which include retaining or protecting the natural, scenic, or open-space values of real property, ensuring the availability of real property for agricultural, forestal, recreational, or open-space use, protecting natural resources, maintaining or enhancing air or water quality, or preserving the historical, architectural, archaeological, or cultural aspects of real property.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>“Third-party right of enforcement” means a right provided in a conservation easement to enforce any of its terms granted to a governmental body, charitable corporation, charitable association, or charitable trust, which, although eligible to be a holder, is not a holder.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-113">May 16, 1986, D.C. Law 6-113, § 2, 33 DCR 1996</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-202">42-202</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2601.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Community Development Block Grant Program: Pursuant to Resolution 6-768, the “Community Development Block Grant Program Resolution of 1986,” effective July 8, 1986, the Council authorized the Mayor to revise the proposed final statement to include the homestead housing preservation program as an activity to permit the use of CDBG funds for initial program staff, approved the revised final statement, and authorized the Mayor to submit the revised final statement to HUD.</text>
+        <text>Uniform Law: This section is based upon § 1 of the Uniform Conservation Easement Act.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|2"/>
+    <num codify:value="42-202">3</num>
+    <heading>Exemption from recordation and transfer tax.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>Except as otherwise provided in this chapter, a conservation easement may be created, conveyed, recorded, assigned, released, modified, terminated, or otherwise altered or affected in the same manner as other easements, provided that the recordation of any conservation easement as defined in § <cite path="§42-201">42-201</cite>, or of any assignment, release, modification, termination, or other alteration of a conservation easement shall be exempt from the recordation tax imposed by § <cite path="§42-1103">42-1103</cite>, and from the transfer tax imposed by § <cite path="§47-903">47-903</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The exemption provided for in paragraph (1) of this subsection shall not apply if the consideration for the conservation easement exceeds $100 in value.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>No right or duty in favor of or against a person having a third-party right of enforcement arises under a conservation easement before its acceptance by the holder and a recordation of the acceptance.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Except as provided in § <cite path="§42-203">42-203</cite>(b), a conservation easement is unlimited in duration unless the instrument creating it otherwise provides.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>An interest in real property in existence at the time a conservation easement is created is not impaired by it unless the owner of the interest is a party to the conservation easement or consents to it.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>A conservation easement is valid even under the following circumstances:</text>
+      <para>
+        <num>(1)</num>
+        <text>It is not appurtenant to an interest in real property;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>It can be or has been assigned to another holder;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>It is not of a character that has been recognized traditionally at common law;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>It imposes a negative burden;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>It imposes affirmative obligations upon the owner of an interest in the burdened property or upon the holder;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The benefit does not touch or concern real property; or</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>There is no privity of estate or of contract.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-113">May 16, 1986, D.C. Law 6-113, § 3, 33 DCR 1996</annotation>
+        <annotation doc="D.C. Law 7-104">Apr. 30, 1988, D.C. Law 7-104, § 25, 35 DCR 147</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Tax on deeds, imposition and return, see § <cite path="§42-1103">42-1103</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2602.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon §§ 2 and 4 of the Uniform Conservation Easement Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|2"/>
+    <num codify:value="42-202.01">3a</num>
+    <heading>Rights of the holder of a conservation easement.</heading>
+    <text>Whenever a recorded conservation easement has been registered with the Mayor, written consent of the holder of the registered and recorded conservation easement shall be required prior to the recordation of a subdivision by the Office of the Surveyor, and to the issuance of a permit for construction, demolition, alteration, or repair, except solely for interior work. With respect to the affected property, a conservation easement shall be deemed registered with the Mayor 10 days after proof of a recorded conservation easement is presented to the Historic Preservation Division of the Building and Land Regulation Administration, Department of Consumer and Regulatory Affairs.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-113">May 16, 1986, D.C. Law 6-113, § 3a</annotation>
+        <annotation doc="D.C. Law 9-233">as added Mar. 17, 1993, D.C. Law 9-233, § 2, 40 DCR 603</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2602.1.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|2"/>
+    <num codify:value="42-203">4</num>
+    <heading>Persons who may bring actions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>An action affecting a conservation easement may be brought by 1 of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>An owner of an interest in the real property burdened by the easement;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A holder of the easement;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person having a third-party right of enforcement; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A person authorized by other law.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This chapter does not affect the power of a court to modify or terminate a conservation easement in accordance with the principles of law and equity.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-113">May 16, 1986, D.C. Law 6-113, § 4, 33 DCR 1996</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§42-202">42-202</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2603.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 3 of the Uniform Conservation Easement Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|2"/>
+    <num codify:value="42-204">5</num>
+    <heading>Affected interests.</heading>
+    <para>
+      <num>(a)</num>
+      <text>This chapter applies to any interest created after May 16, 1986, which complies with this chapter, whether designated as a conservation easement or as a covenant, equitable servitude, restriction, easement, or otherwise.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This chapter applies to any interest created before May 16, 1986, if it would have been enforceable had it been created after May 16, 1986, unless retroactive application contravenes the laws of the District of Columbia or the United States.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>This chapter does not invalidate any interest, whether designated as a conservation or preservation easement, a covenant, equitable servitude, restriction, easement, or otherwise, that is enforceable under other law of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <para>
+        <num>(1)</num>
+        <text>The deduction of a qualified conservation contribution as claimed under section 170 of the Internal Revenue Code of 1986 [26 U.S.C. § 170] shall be allowed under § <cite path="§47-1803.03">47-1803.03</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The conservation easement shall qualify as a qualified conservation contribution notwithstanding the inclusion of a provision in the easement that permits the creation of a lien on behalf of the holder of a conservation easement for the purposes of enforcing the easement, which lien does not have precedence over other lienholders, mortgagees, or holders of a deed of trust.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>This subsection shall apply to all instruments recorded at the Recorder of Deeds.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-113">May 16, 1986, D.C. Law 6-113, § 5, 33 DCR 1996</annotation>
+        <annotation doc="D.C. Law 14-190">Oct. 1, 2002, D.C. Law 14-190, § 902, 49 DCR 6968</annotation>
+        <annotation doc="D.C. Law 14-282">Apr. 4, 2003, D.C. Law 14-282, §§ 12, 13, 50 DCR 896</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2604.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> added subsec. (d).</annotation>
+        <annotation><cite doc="D.C. Law 14-282">D.C. Law 14-282</cite> repealed subsec. (d); and added subsec. (e).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 14 of the Tax Clarity and Related Amendments Temporary Act of 2002 (<cite doc="D.C. Law 14-228">D.C. Law 14-228</cite>, Mar. 25, 2003, law notification  50 DCR 2741).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 902 of Fiscal Year 2003 Budget Support Emergency Act of 2002 (D.C. Act 14-453, July 23, 2002,  49 DCR 8026).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 13 of Tax Clarity and Related Amendments Emergency Act of 2002 (D.C. Act 14-456, July 23, 2002,  49 DCR 8107).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see §§ 13(a) and 14 of Tax Clarity and Related Amendments Congressional Review Emergency Act of 2002 (D.C. Act 14-510, October 23, 2002,  49 DCR 10247).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Short Title</heading>
+        <annotation>Short title of title IX of Law 14-190: Section 901 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> provided that title IX of the act may be cited as the Conservation Easement Deed of Gift Clarification Amendment Act of 2002. This title was repealed by <cite doc="D.C. Law 14-282">D.C. Law 14-282</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>Section 170 of the Internal Revenue Code of 1986, referred to in subsec. (e), is classified to  26 U.S.C. § 170.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 5 of the Uniform Conservation Easement Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|42|2"/>
+    <num codify:value="42-205">6</num>
+    <heading>Application and construction of chapter.</heading>
+    <text>This chapter shall be applied and construed to effectuate its general purpose to make uniform the laws with respect to the subject of the chapter among states enacting it.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-113">May 16, 1986, D.C. Law 6-113, § 6, 33 DCR 1996</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 45-2605.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Uniform Law: This section is based upon § 6 of the Uniform Conservation Easement Act.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 17-259">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 17-259">
   <num type="law">17-259</num>
   <heading type="short">Trash Collection Noise Violations Abatement Act of 2008</heading>
   <meta>
@@ -12,4 +12,79 @@
       <narrative>Law 17-259, the “Trash Collection Noise Violations Abatement Act of 2008”, was introduced in Council and assigned Bill No. 17-365 which was referred to the Committee Public Works and the Environment. The Bill was adopted on first and second readings on July 15, 2008, and September 16, 2008, respectively. Signed by the Mayor on September 29, 2008, it was assigned Act No. 17-510 and transmitted to both Houses of Congress for its review. D.C. Law 17-259 became effective on November 19, 2008.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|7A"/>
+    <num codify:value="8-731">2</num>
+    <heading>Complaints of trash collection noise violations; hearings; notice of infraction.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any person may file a complaint of a trash collection noise violation with the Mayor.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>A complaint under subsection (a) of this section shall be submitted in written form prescribed by the Mayor and made available on the District of Columbia website. The complaint shall be submitted within one week of the alleged violation and shall be signed by an original complainant who shall attest to its accuracy, under penalty of perjury. The complaint shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name of the individual or company alleged to have violated section 2806 of Title 20 of the District of Columbia Municipal Regulations;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The location of the alleged violation;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The date and time of the alleged violation; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any additional identifying information about the trash truck or its driver.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A District inspector need not witness a violation for a complaint to be valid.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>A complainant under subsection (a) of this section may appear and give testimony at any administrative hearing or administrative review of the complaint, or any other judicial or quasi-judicial action that may result from the complaint.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>If the Mayor deems that the complaint has merit, the Mayor shall file a Notice of Infraction pursuant to Chapter 18 of Title 2 and with the Office of Administrative Hearings.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>This section shall not apply to complaints relating to Department of Public Works trash trucks.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-259">Nov. 19, 2008, D.C. Law 17-259, § 2, 55 DCR 10881</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of Authority—Trash Collection Noise Violations Abatement Act of 2008, see Mayor’s Order 2009-28, March 16, 2009 ( 56 DCR 6764).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|8|7A"/>
+    <num codify:value="8-732">3</num>
+    <heading>Rules.</heading>
+    <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], may issue rules to implement the provisions of this chapter.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 17-259">Nov. 19, 2008, D.C. Law 17-259, § 3, 55 DCR 10881</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Illegal dumping, enforcement, see § <cite path="§8-903">8-903</cite>.</annotation>
+        <annotation>Illegal dumping, forfeitures, see § <cite path="§8-905">8-905</cite>.</annotation>
+        <annotation>Illegal dumping, prohibition and penalties, see § <cite path="§8-902">8-902</cite>.</annotation>
+        <annotation>Licensure, clean hands requirement, prohibition against issuance of licenses, see § <cite path="§47-2862">47-2862</cite>.</annotation>
+        <annotation>Solid waste management and multi-material recycling, fines and penalties, see § <cite path="§8-1017">8-1017</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

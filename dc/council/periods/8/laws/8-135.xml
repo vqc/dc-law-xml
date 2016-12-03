@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 8-135" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 8-135" flag="true">
   <num type="law">8-135</num>
   <heading type="short">REPRESENTATIVE AND SENATORS TERM OF OFFICE, DUTIES, AND USE OF PRIVATE FUNDS FOR PUBLIC PURPOSES AMENDMENT ACT OF 1990</heading>
   <meta>
@@ -12,4 +12,20 @@
       <narrative>Law 8-135 was introduced in Council and assigned Bill No. 8-488, which was referred to the Committee on Government Operations. The Bill was adopted on first and second readings on February 27, 1990 and March 27, 1990, respectively. Signed by the Mayor on April 13, 1990, it was assigned Act No. 8-191 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§1-132" path="|1|1|II|B"/>
+    <num codify:value="1-131">4</num>
+    <heading>Application of honoraria limitations.</heading>
+    <text>Notwithstanding the provisions of § <cite path="§1-135">1-135</cite>, the honoraria limitations imposed by part H of subchapter I of Chapter 11 of this title [repealed; see now § <cite path="§1-1162.26">1-1162.26</cite>] shall apply to a Senator or Representative elected pursuant to § <cite path="§1-123">1-123</cite>(d)(1), only if the salary of the Senator or Representative is supported by public revenues.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-135">June 8, 1990, D.C. Law 8-135, § 4, 37 DCR 2616</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-113a.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

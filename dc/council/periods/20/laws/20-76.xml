@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 20-76">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 20-76">
   <num type="law">20-76</num>
   <heading type="short">Parent and Student Empowerment Amendment Act of 2013</heading>
   <meta>
@@ -12,4 +12,72 @@
       <narrative>Law 20-76, the “Parent and Student Empowerment Amendment Act of 2013,” was introduced in Council and assigned Bill No. 20-314. The Bill was adopted on first and second readings on November 5, 2013 and December 3, 2013, respectively. Signed by the Mayor on December 16, 2013, it was assigned Act No. 20-242 and transmitted to Congress for its review. D.C. Law 20-76 became effective on February 22, 2014.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3B"/>
+    <num codify:value="38-371">202</num>
+    <heading>Office of the Student Advocate.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-76">Feb. 22, 2014, D.C. Law 20-76, § 202, 61 DCR 39</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§38-2652">38-2652</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-74">D.C. Law 20-74</cite>: Section 401 of <cite doc="D.C. Law 20-74">D.C. Law 20-74</cite> provided that Title II [§§ 2<cite path="§01-205">01-205</cite>] of the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3B"/>
+    <num codify:value="38-372">203</num>
+    <heading>Chief Advocate; qualification.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-76">Feb. 22, 2014, D.C. Law 20-76, § 203, 61 DCR 39</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-74">D.C. Law 20-74</cite>: Section 401 of <cite doc="D.C. Law 20-74">D.C. Law 20-74</cite> provided that Title II [§§ 2<cite path="§01-205">01-205</cite>] of the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3B"/>
+    <num codify:value="38-373">204</num>
+    <heading>Duties.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-76">Feb. 22, 2014, D.C. Law 20-76, § 204, 61 DCR 39</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-74">D.C. Law 20-74</cite>: Section 401 of <cite doc="D.C. Law 20-74">D.C. Law 20-74</cite> provided that Title II [§§ 2<cite path="§01-205">01-205</cite>] of the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|38|3B"/>
+    <num codify:value="38-374">205</num>
+    <heading>Public education resource centers.</heading>
+    <text>[Not funded].</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 20-76">Feb. 22, 2014, D.C. Law 20-76, § 205, 61 DCR 39</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Applicability of <cite doc="D.C. Law 20-74">D.C. Law 20-74</cite>: Section 401 of <cite doc="D.C. Law 20-74">D.C. Law 20-74</cite> provided that Title II [§§ 2<cite path="§01-205">01-205</cite>] of the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

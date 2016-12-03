@@ -1,10 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 76-1-ch39">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 76-1-ch39">
+  <heading/>
   <meta>
     <effective>1939-04-05</effective>
     <cites>
-        <law congress="76" session="1" chapter="39"/>
+      <law congress="76" session="1" chapter="39"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-1907" path="|38|19|I"/>
+    <num codify:value="38-1906">4</num>
+    <heading>Classification of research assistants.</heading>
+    <text>Research assistants shall be classified as teachers for payroll purposes and for retirement purposes.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>Apr. 5, 1939, 53 Stat. 568, ch. 39, § 4</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-1006.</annotation>
+        <annotation>1973 Ed., § 31-623.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

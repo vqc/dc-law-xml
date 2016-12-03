@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 112-10">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 112-10">
   <num>112-10</num>
   <meta>
     <effective>2011-04-15</effective>
@@ -10,5 +10,1050 @@
   <container>
     <prefix>Div</prefix>
     <num>C</num>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.01">3001</num>
+      <heading>Short title.</heading>
+      <text>This chapter may be cited as the “Scholarships for Opportunity and Results Act” or the “SOAR Act”.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 199, Pub. L. 112-10, Div. C, § 3001</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.02">3002</num>
+      <heading>Findings.</heading>
+      <text>Congress finds the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Parents are best equipped to make decisions for their children, including the educational setting that will best serve the interests and educational needs of their child.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For many parents in the District of Columbia, public school choice provided under the Elementary and Secondary Education Act of 1965, as well as under other public school choice programs, is inadequate. More educational options are needed to ensure all families in the District of Columbia have access to a quality education. In particular, funds are needed to provide low-income parents with enhanced public opportunities and private educational environments, regardless of whether such environments are secular or nonsecular.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>While the per student cost for students in the public schools of the District of Columbia is one of the highest in the United States, test scores for such students continue to be among the lowest in the Nation. The National Assessment of Educational Progress (NAEP), an annual report released by the National Center for Education Statistics, reported in its 2009 study that students in the District of Columbia were being outperformed by every State in the Nation. On the 2009 NAEP, 56 percent of fourth grade students scored “below basic” in reading, and 44 percent scored “below basic” in mathematics. Among eighth grade students, 49 percent scored “below basic” in reading and 60 percent scored “below basic” in mathematics. On the 2009 NAEP reading assessment, only 17 percent of the District of Columbia fourth grade students could read proficiently, while only 13 percent of the eighth grade students scored at the proficient or advanced level.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In 2003, Congress passed the DC School Choice Incentive Act of 2003 (Public Law 108-199; 118 Stat. 126), to provide opportunity scholarships to parents of students in the District of Columbia to enable them to pursue a high-quality education at a public or private elementary or secondary school of their choice. The DC Opportunity Scholarship Program (DC OSP) under such Act was part of a comprehensive 3-part funding arrangement that also included additional funds for the District of Columbia public schools, and additional funds for public charter schools of the District of Columbia. The intent of the approach was to ensure that progress would continue to be made to improve public schools and public charter schools, and that funding for the opportunity scholarship program would not lead to a reduction in funding for the District of Columbia public and charter schools. Resources would be available for a variety of educational options that would give families in the District of Columbia a range of choices with regard to the education of their children.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The DC OSP was established in accordance with the Supreme Court decision, Zelman v. Simmons-Harris, 536 U.S. 639 (2002), which found that a program enacted for the valid secular purpose of providing educational assistance to low-income children in a demonstrably failing public school system is constitutional if it is neutral with respect to religion and provides assistance to a broad class of citizens who direct government aid to religious and secular schools solely as a result of their genuine and independent private choices.</text>
+        <text>
+          <em>Zelman v. Simmons-Harris</em>
+        </text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Since the inception of the DC OSP, it has consistently been oversubscribed. Parents express strong support for the opportunity scholarship program. Rigorous studies of the program by the Institute of Education Sciences have shown significant improvements in parental satisfaction and in reading scores that are more dramatic when only those students consistently using the scholarships are considered. The program also was found to result in significantly higher graduation rates for DC OSP students.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The DC OSP is a program that offers families in need, in the District of Columbia, important alternatives while public schools are improved. This program should be reauthorized as 1 of a 3-part comprehensive funding strategy for the District of Columbia school system that provides new and equal funding for public schools, public charter schools, and opportunity scholarships for students to attend private schools.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 199, Pub. L. 112-10, Div. C, § 3002</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>References in Text</heading>
+          <annotation>The Elementary and Secondary Education Act of 1965, referred to in par. (2), is  20 U.S.C. §§ 6301 et seq.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.03">3003</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of this chapter is to provide low-income parents residing in the District of Columbia, particularly parents of students who attend elementary schools or secondary schools implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) [20 U.S.C. § 6311(d)  ] of the Elementary and Secondary Education Act of 1965, with expanded opportunities for enrolling their children in other schools in the District of Columbia, at least until the public schools in the District of Columbia have adequately addressed shortfalls in health, safety, and security, and the students in the District of Columbia public schools are testing in mathematics and reading at or above the national average.</text>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 200, Pub. L. 112-10, Div. C, § 3003</annotation>
+          <annotation doc="Pub. L. 114-95">Dec. 10, 2015, 129 Stat. 1802, Pub. L. 114-95, § 9215(ppp)(1)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>Section 9215(ppp)(1) of Public Law 114-95 substituted “implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965” for “identified for improvement, corrective action, or restructuring under section 1116 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316).”</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.04">3004</num>
+      <heading>General authority.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Opportunity Scholarships. —</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general. —</heading>
+          <text>From funds appropriated under § <cite path="§38-1853.14">38-1853.14</cite>(a)(1), the Secretary shall award grants on a competitive basis to eligible entities with approved applications under § <cite path="§38-1853.05">38-1853.05</cite> to carry out a program to provide eligible students with expanded school choice opportunities. The Secretary may award a single grant or multiple grants, depending on the quality of applications submitted and the priorities of this chapter.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Duration of grants. —</heading>
+          <text>The Secretary may make grants under this subsection for a period of not more than 5 years.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>D.C. Public Schools and Charter Schools. —</heading>
+        <text>From funds appropriated under paragraphs (2) and (3) of § <cite path="§38-1853.14">38-1853.14</cite>(a), the Secretary shall provide funds to the Mayor of the District of Columbia, if the Mayor agrees to the requirements described in § <cite path="§38-1853.11">38-1853.11</cite>(a), for—</text>
+        <para>
+          <num>(1)</num>
+          <text>the District of Columbia public schools to improve public education in the District of Columbia; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the District of Columbia public charter schools to improve and expand quality public charter schools in the District of Columbia.</text>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 200, Pub. L. 112-10, Div. C, § 3004</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§38-1853.05">38-1853.05</cite>, § <cite path="§38-1853.06">38-1853.06</cite>, § <cite path="§38-1853.07">38-1853.07</cite>, § <cite path="§38-1853.09">38-1853.09</cite>, § <cite path="§38-1853.10">38-1853.10</cite>, and § <cite path="§38-1853.12">38-1853.12</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.05">3005</num>
+      <heading>Applications.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general. —</heading>
+        <text>In order to receive a grant under § <cite path="§38-1853.04">38-1853.04</cite>(a), an eligible entity shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Contents. —</heading>
+        <text>The Secretary may not approve the request of an eligible entity for a grant under § <cite path="§38-1853.04">38-1853.04</cite>(a) unless the entity’s application includes—</text>
+        <para>
+          <num>(1)</num>
+          <text>a detailed description of—</text>
+          <para>
+            <num>(A)</num>
+            <text>how the entity will address the priorities described in § <cite path="§38-1853.06">38-1853.06</cite>;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>how the entity will ensure that if more eligible students seek admission in the program of the entity than the program can accommodate, eligible students are selected for admission through a random selection process which gives weight to the priorities described in § <cite path="§38-1853.06">38-1853.06</cite>;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>how the entity will ensure that if more participating eligible students seek admission to a participating school than the school can accommodate, participating eligible students are selected for admission through a random selection process;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>how the entity will notify parents of eligible students of the expanded choice opportunities in order to allow the parents to make informed decisions;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>the activities that the entity will carry out to provide parents of eligible students with expanded choice opportunities through the awarding of scholarships under § <cite path="§38-1853.07">38-1853.07</cite>(a);</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>how the entity will determine the amount that will be provided to parents under § <cite path="§38-1853.07">38-1853.07</cite>(a)(2) for the payment of tuition, fees, and transportation expenses, if any;</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>how the entity will seek out private elementary schools and secondary schools in the District of Columbia to participate in the program;</text>
+          </para>
+          <para>
+            <num>(H)</num>
+            <text>how the entity will ensure that each participating school will meet the reporting and other program requirements under this chapter;</text>
+          </para>
+          <para>
+            <num>(I)</num>
+            <text>how the entity will ensure that participating schools submit to site visits by the entity as determined to be necessary by the entity, except that a participating school may not be required to submit to more than 1 site visit per school year;</text>
+          </para>
+          <para>
+            <num>(J)</num>
+            <text>how the entity will ensure that participating schools are financially responsible and will use the funds received under § <cite path="§38-1853.07">38-1853.07</cite> effectively;</text>
+          </para>
+          <para>
+            <num>(K)</num>
+            <text>how the entity will address the renewal of scholarships to participating eligible students, including continued eligibility; and</text>
+          </para>
+          <para>
+            <num>(L)</num>
+            <text>how the entity will ensure that a majority of its voting board members or governing organization are residents of the District of Columbia; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>an assurance that the entity will comply with all requests regarding any evaluation carried out under § <cite path="§38-1853.09">38-1853.09</cite>(a).</text>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 201, Pub. L. 112-10, Div. C, § 3005</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§38-1853.04">38-1853.04</cite> and § <cite path="§38-1853.07">38-1853.07</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.06">3006</num>
+      <heading>Priorities.</heading>
+      <text>In awarding grants under § <cite path="§38-1853.04">38-1853.04</cite>(a), the Secretary shall give priority to applications from eligible entities that will most effectively—</text>
+      <para>
+        <num>(1)</num>
+        <text>in awarding scholarships under § <cite path="§38-1853.07">38-1853.07</cite>(a), give priority to—</text>
+        <para>
+          <num>(A)</num>
+          <text>eligible students who, in the school year preceding the school year for which the eligible students are seeking a scholarship, attended an elementary school or secondary school implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) [20 U.S.C. § 6311(d)] of the Elementary and Secondary Education Act of 1965;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>students who have been awarded a scholarship in a preceding year under this chapter or the DC School Choice Incentive Act of 2003 (§ <cite path="§38-1851.01">38-1851.01</cite> et seq., D.C. Official Code), as such Act was in effect on the day before the date of the enactment of this chapter, but who have not used the scholarship, including eligible students who were provided notification of selection for a scholarship for school year 2009-2010, which was later rescinded in accordance with direction from the Secretary of Education; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>students whose household includes a sibling or other child who is already participating in the program of the eligible entity under this chapter, regardless of whether such students have, in the past, been assigned as members of a control study group for the purposes of an evaluation under § <cite path="§38-1853.09">38-1853.09</cite>(a);</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>target resources to students and families that lack the financial resources to take advantage of available educational options; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>provide students and families with the widest range of educational options.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 202, Pub. L. 112-10, Div. C, § 3006</annotation>
+          <annotation doc="Pub. L. 114-95">Dec. 10, 2015, 129 Stat. 1802, Pub. L. 114-95, § 9215(ppp)(2)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§38-1853.05">38-1853.05</cite> and § <cite path="§38-1853.09">38-1853.09</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>Section 9215(ppp)(2) of Public Law 114-95 substituted “implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965” for “identified for improvement, corrective action, or restructuring under section 1116 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316)” in (1)(A).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.07">3007</num>
+      <heading>Use of funds.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Opportunity Scholarships. —</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general. —</heading>
+          <text>Subject to paragraphs (2) and (3), an eligible entity receiving a grant under § <cite path="§38-1853.04">38-1853.04</cite>(a) shall use the grant funds to provide eligible students with scholarships to pay the tuition, fees, and transportation expenses, if any, to enable the eligible students to attend the District of Columbia private elementary school or secondary school of their choice beginning in school year 2011-2012. Each such eligible entity shall ensure that the amount of any tuition or fees charged by a school participating in such entity’s program under this chapter to an eligible student participating in the program does not exceed the amount of tuition or fees that the school charges to students who do not participate in the program.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Payments to parents. —</heading>
+          <text>An eligible entity receiving a grant under § <cite path="§38-1853.04">38-1853.04</cite>(a) shall make scholarship payments under the entity’s program under this chapter to the parent of the eligible student participating in the program, in a manner which ensures that such payments will be used for the payment of tuition, fees, and transportation expenses (if any), in accordance with this chapter.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Amount of assistance. —</heading>
+          <para>
+            <num>(A)</num>
+            <heading>Varying amounts permitted. —</heading>
+            <text>Subject to the other requirements of this section, an eligible entity receiving a grant under § <cite path="§38-1853.04">38-1853.04</cite>(a) may award scholarships in larger amounts to those eligible students with the greatest need.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <heading>Annual limit on amount. —</heading>
+            <para>
+              <num>(i)</num>
+              <heading>Limit for school year 2011-2012. —</heading>
+              <text>The amount of assistance provided to any eligible student by an eligible entity under the entity’s program under this chapter for school year 2011-2012 may not exceed—</text>
+              <para>
+                <num>(I)</num>
+                <text>$ 8,000 for attendance in kindergarten through grade 8; and</text>
+              </para>
+              <para>
+                <num>(II)</num>
+                <text>$ 12,000 for attendance in grades 9 through 12.</text>
+              </para>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <heading>Cumulative inflation adjustment. —</heading>
+              <text>Beginning with school year 2012-2013, the Secretary shall adjust the maximum amounts of assistance described in clause (i) for inflation, as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>Participating school requirements. —</heading>
+          <text>None of the funds provided under this chapter for opportunity scholarships may be used by an eligible student to enroll in a participating private school unless the participating school—</text>
+          <para>
+            <num>(A)</num>
+            <text>has and maintains a valid certificate of occupancy issued by the District of Columbia;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>makes readily available to all prospective students information on its school accreditation;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>in the case of a school that has been operating for 5 years or less, submits to the eligible entity administering the program proof of adequate financial resources reflecting the financial sustainability of the school and the school’s ability to be in operation through the school year;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>agrees to submit to site visits as determined to be necessary by the eligible entity pursuant to § <cite path="§38-1853.05">38-1853.05</cite>(b)(1)(I);</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>has financial systems, controls, policies, and procedures to ensure that funds are used according to this chapter;</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>ensures that, with respect to core academic subjects (as such term was defined in section 9101(11) of the Elementary and Secondary Act of 1965 (20 U.S.C. § 7801(11) on the day before December 10, 2015), participating students are taught by a teacher who has a baccalaureate degree or equivalent degree, whether such degree was awarded in or outside of the United States ensures that each teacher of core subject matter in the school has a baccalaureate degree or equivalent degree, whether such degree was awarded in or outside of the United States;</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <para>
+              <num>(i)</num>
+              <text>is provisionally or fully accredited by a national or regional accrediting agency that is recognized in §  38-1802.02(16)(A)-(G) or any other accrediting body deemed appropriate by the Office of the State Superintendent for Schools for the purposes of accrediting an elementary or secondary school; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>in the case of a school that is a participating school as of the day before December 15, 2015 and, as of such day, does not meet the requirements of clause (i)—</text>
+              <para>
+                <num>(I)</num>
+                <text>by not later than 1 year after such date of enactment, is pursuing accreditation by a national or regional accrediting agency recognized in §  38-1802.02(16)(A)-(G) or any other accrediting body deemed appropriate by the Office of the State Superintendent for Schools for the purposes of accrediting an elementary or secondary school; and</text>
+              </para>
+              <para>
+                <num>(II)</num>
+                <text>by not later than 5 years after such date of enactment, is provisionally or fully accredited by such accrediting agency, except that an eligible entity may grant not more than one 1-year extension to meet this requirement for each participating school that provides evidence to the eligible entity from such accrediting agency that the school's application for accreditation is in process and the school will be awarded accreditation before the end of the 1-year extension period;</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(H)</num>
+            <text>conducts criminal background checks on school employees who have direct and unsupervised interaction with students; and</text>
+          </para>
+          <para>
+            <num>(I)</num>
+            <text>complies with all requests for data and information regarding the reporting requirements described in § <cite path="§38-1853.10">38-1853.10</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <heading>New participating schools. —</heading>
+          <text>If a school is not a participating school as of December 15, 2015, the school shall not become a participating school and none of the funds provided under this division for opportunity scholarships may be used by an eligible student to enroll in that school unless the school—</text>
+          <para>
+            <num>(A)</num>
+            <text>is actively pursuing provisional or full accreditation by a national or regional accrediting agency that is recognized §  38-1802.02(16)(A)-(G) or any other accrediting body deemed appropriate by the Office of the State Superintendent for Schools for the purposes of accrediting an elementary or secondary school; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>meets all of the other requirements for participating schools under this chapter.</text>
+          </para>
+        </para>
+        <para>
+          <num>(6)</num>
+          <heading>Enrolling in another school. —</heading>
+          <text>An eligible entity shall assist the parents of a participating eligible student in identifying, applying to, and enrolling in an another participating school for which opportunity scholarship funds may be used, if—</text>
+          <para>
+            <num>(A)</num>
+            <text>such student is enrolled in a participating private school and may no longer use opportunity scholarship funds for enrollment in that participating private school because such school fails to meet a requirement under paragraph 4, or any other requirement of this chapter; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>a participating eligible student is enrolled in a school that ceases to be a participating school.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Administrative expenses. —</heading>
+        <text>An eligible entity receiving a grant under § <cite path="§38-1853.04">38-1853.04</cite>(a) may use not more than 3 percent of the amount provided under the grant each year for the administrative expenses of carrying out its program under this chapter during the year, including—</text>
+        <para>
+          <num>(1)</num>
+          <text>determining the eligibility of students to participate;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>selecting eligible students to receive scholarships;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>determining the amount of scholarships and issuing the scholarships to eligible students;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>compiling and maintaining financial and programmatic records; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>conducting site visits as described in § <cite path="§38-1853.05">38-1853.05</cite>(b)(1)(I).</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Parental assistance. —</heading>
+        <text>An eligible entity receiving a grant under § <cite path="§38-1853.04">38-1853.04</cite>(a) may use not more than 2 percent of the amount provided under the grant each year for the expenses of educating parents about the entity’s program under this chapter, and assisting parents through the application process, under this chapter, including—</text>
+        <para>
+          <num>(1)</num>
+          <text>providing information about the program and the participating schools to parents of eligible students;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>providing funds to assist parents of students in meeting expenses that might otherwise preclude the participation of eligible students in the program; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>streamlining the application process for parents.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Student academic assistance. —</heading>
+        <text>An eligible entity receiving a grant under § <cite path="§38-1853.04">38-1853.04</cite>(a) may use not more than 1 percent of the amount provided under the grant each year for expenses to provide tutoring services to participating eligible students that need additional academic assistance. If there are insufficient funds to provide tutoring services to all such students in a year, the eligible entity shall give priority in such year to students who previously attended an elementary school or secondary school that was implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) [20 U.S.C. § 6311(d)] of the Elementary and Secondary Education Act of 1965.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 202, Pub. L. 112-10, Div. C, § 3007</annotation>
+          <annotation doc="Pub. L. 112-92">Feb. 1, 2012, 126 Stat. 6, Pub. L. 112-92, § 2</annotation>
+          <annotation doc="Pub. L. 114-95">Dec. 10, 2015, 129 Stat. 1802, Pub. L. 114-95, § 9215(ppp)(3)</annotation>
+          <annotation doc="Pub. L. 114-113">Dec. 15, 2015, 129 Stat. 2242, Pub. L. 114-113, § 817(b)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§38-1853.05">38-1853.05</cite>, § <cite path="§38-1853.06">38-1853.06</cite>, and § <cite path="§38-1853.12">38-1853.12</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>Pub. L. 112-92 rewrote subsec. (a)(4)(F) which had read as follows:</annotation>
+          <annotation>“(F) ensures that each teacher of core subject matter in the school has a baccalaureate degree or equivalent degree, whether such degree was awarded in or outside of the United States.”</annotation>
+          <annotation>Section 9215(ppp)(3) of Public Law 114-95 substituted “ensures that, with respect to core academic subjects (as such term was defined in section 9101(11) of the Elementary and Secondary Act of 1965 (20 U.S.C. 7801(11)) on the day before the date of enactment of the Every Student Succeeds Act)” for “ensures that, with respect to core academic subjects (as such term is defined in section 9101(11) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(11))” in (a)(4)(F); and substituted “implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965” for “identified for improvement, corrective action, or restructuring under section 1116 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316)” in (d).</annotation>
+          <annotation>The 2015 amendment by Pub. L.114-113 added (a)(4)(G), (H), and (I); and added (a)(5) and (a)(6).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Short Title</heading>
+          <annotation>Section 817(a) of Pub.L. 114-113 provided that § 817 of the act may be cited as the “D.C. Opportunity Scholarship Program School Certification Requirements Act.”</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Section 817(d) of P.L. 114-113 provided that unless specifically provided otherwise, § 817, and the amendments made by § 817, shall take effect 1 year after Dec. 15, 2015.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.08">3008</num>
+      <heading>Nondiscrimination and other requirements for participating schools.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general. —</heading>
+        <text>An eligible entity or a school participating in any program under this chapter shall not discriminate against program participants or applicants on the basis of race, color, national origin, religion, or sex.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Applicability and single sex schools, classes, or activities. —</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general. —</heading>
+          <text>Notwithstanding any other provision of law, the prohibition of sex discrimination in subsection (a) shall not apply to a participating school that is operated by, supervised by, controlled by, or connected to a religious organization to the extent that the application of subsection (a) is inconsistent with the religious tenets or beliefs of the school.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Single sex schools, classes, or activities. —</heading>
+          <text>Notwithstanding subsection (a) or any other provision of law, a parent may choose and a school may offer a single sex school, class, or activity.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Applicability. —</heading>
+          <text>For purposes of this chapter, the provisions of section 909 of the Education Amendments of 1972 (20 U.S.C. 1688) shall apply to this chapter as if section 909 of the Education Amendments of 1972 (20 U.S.C. 1688) were part of this chapter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Children with disabilities. —</heading>
+        <text>Nothing in this chapter may be construed to alter or modify the provisions of the Individuals with Disabilities Education Act (20 U.S.C. § 1400 et seq.).</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Religiously affiliated schools. —</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general. —</heading>
+          <text>Notwithstanding any other provision of law, a school participating in any program under this chapter that is operated by, supervised by, controlled by, or connected to, a religious organization may exercise its right in matters of employment consistent with title VII of the Civil Rights Act of 1964 (42 U.S.C. § 2000e-1 et seq.), including the exemptions in such title.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Administration Of Tests. —</heading>
+          <text>The Institute of Education Sciences shall administer nationally norm-referenced standardized tests, as described in paragraph (3)(A) of § <cite path="§38-1853.09">38-1853.09</cite>(a), to students participating in the evaluation under § <cite path="§38-1853.09">38-1853.09</cite>(a) for the purpose of conducting the evaluation under such section, except where a student is attending a participating school that is administering the same nationally norm-referenced standardized test in accordance with the testing requirements described in paragraph (1).</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Test Results. —</heading>
+          <text>Each participating school that administers the nationally norm-referenced standardized test described in paragraph (2) to an eligible student shall make the test results, with respect to such student, available to the Secretary as necessary for evaluation under § <cite path="§38-1853.09">38-1853.09</cite>(a).</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Rule of construction. —</heading>
+        <text>A scholarship (or any other form of support provided to parents of eligible students) under this chapter shall be considered assistance to the student and shall not be considered assistance to the school that enrolls the eligible student. The amount of any scholarship (or other form of support provided to parents of an eligible student) under this chapter shall not be treated as income of the child or his or her parents for purposes of Federal tax laws or for determining eligibility for any other Federal program.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Requests for data and information. —</heading>
+        <text>Each school participating in a program funded under this chapter shall comply with all requests for data and information regarding evaluations conducted under § <cite path="§38-1853.09">38-1853.09</cite>(a).</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Rules of conduct and other school policies. —</heading>
+        <text>A participating school, including the schools described in subsection (d), may require eligible students to abide by any rules of conduct and other requirements applicable to all other students at the school.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Nationally norm-referenced standardized tests. —</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general. —</heading>
+          <text>Each participating school shall comply with any testing requirements determined to be necessary for evaluation under § 853.09(a)(2)(A)(i).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Administration Of Tests. —</heading>
+          <text>The Institute of Education Sciences shall administer nationally norm-referenced standardized tests, as described in paragraph (3)(A) of § 853.09(a), to students participating in the evaluation under § <cite path="§38-1853.09">38-1853.09</cite> for the purpose of conducting the evaluation under such section, except where a student is attending a participating school that is administering the same nationally norm-referenced standardized test in accordance with the testing requirements described in paragraph (1).</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Test Results. —</heading>
+          <text>Each participating school that administers the nationally norm-referenced standardized test described in paragraph (2) to an eligible student shall make the test results, with respect to such student, available to the Secretary as necessary for evaluation under § <cite path="§38-1853.09">38-1853.09</cite>(a).</text>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 204, Pub. L. 112-10, Div. C, § 3008</annotation>
+          <annotation doc="Pub. L. 112-92">Feb. 1, 2012, 126 Stat. 6, Pub. L. 112-92, § 3</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§38-1853.09">38-1853.09</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>Pub. L. 112-92 rewrote subsec. (h)(2); and added subsec. (h)(3). Prior to amendment, subsec. (h)(2) read as follows: “(2) MAKE-UP SESSION.—If a participating school does not administer a nationally norm-referenced standardized test or the Institute of Education Sciences does not receive data on a student who is receiving an opportunity scholarship, then the Secretary (through the Institute of Education Sciences of the Department of Education) shall administer such test at least one time during a school year for each student receiving an opportunity scholarship.”</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.09">3009</num>
+      <heading>Evaluations.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general. —</heading>
+        <para>
+          <num>(1)</num>
+          <heading>Duties of the Secretary and the Mayor. —</heading>
+          <text>The Secretary and the Mayor of the District of Columbia shall—</text>
+          <para>
+            <num>(A)</num>
+            <text>jointly enter into an agreement with the Institute of Education Sciences of the Department of Education to evaluate annually the performance of students who received scholarships under the 5-year program under this chapter;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>jointly enter into an agreement to monitor and evaluate the use of funds authorized and appropriated for the District of Columbia public schools and the District of Columbia public charter schools under this chapter; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>make the evaluations described in subparagraphs (A) and (B) public in accordance with subsection (c).</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Duties of the Secretary. —</heading>
+          <text>The Secretary, through a grant, contract, or cooperative agreement, shall—</text>
+          <para>
+            <num>(A)</num>
+            <heading>ensure that the evaluation under paragraph (1)(A)—</heading>
+            <para>
+              <num>(i)</num>
+              <text>is conducted using the strongest possible research design for determining the effectiveness of the opportunity scholarship program under this chapter; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>addresses the issues described in paragraph (4); and</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>disseminate information on the impact of the program—</text>
+            <para>
+              <num>(i)</num>
+              <text>in increasing the academic growth and achievement of participating eligible students; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>on students and schools in the District of Columbia.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Duties of the Institute of Education Sciences. —</heading>
+          <text>The Institute of Education Sciences of the Department of Education shall—</text>
+          <para>
+            <num>(A)</num>
+            <text>use a grade appropriate, nationally norm-referenced standardized test each school year to assess participating eligible students in a manner consistent with § <cite path="§38-1853.08">38-1853.08</cite>(h);</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>measure the academic achievement of all participating eligible students; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>work with the eligible entities to ensure that the parents of each student who applies for a scholarship under this chapter (regardless of whether the student receives the scholarship) and the parents of each student participating in the scholarship program under this chapter, agree that the student will participate, if requested by the Institute of Education Sciences, in the measurements given annually by the Institute of Educational Sciences for the period for which the student applied for or received the scholarship, respectively, except that nothing in this subparagraph shall affect a student’s priority for an opportunity scholarship as provided under § <cite path="§38-1853.06">38-1853.06</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>Issues to be evaluated. —</heading>
+          <text>The issues to be evaluated under paragraph (1)(A) shall include the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>A comparison of the academic growth and achievement of participating eligible students in the measurements described in paragraph (3) to the academic growth and achievement of the eligible students in the same grades who sought to participate in the scholarship program under this chapter but were not selected.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The success of the program in expanding choice options for parents of participating eligible students, improving parental and student satisfaction of such parents and students, respectively, and increasing parental involvement of such parents in the education of their children.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The reasons parents of participating eligible students choose for their children to participate in the program, including important characteristics for selecting schools.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>A comparison of the retention rates, high school graduation rates, and college admission rates of participating eligible students with the retention rates, high school graduation rates, and college admission rates of students of similar backgrounds who do not participate in such program.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>A comparison of the safety of the schools attended by participating eligible students and the schools in the District of Columbia attended by students who do not participate in the program, based on the perceptions of the students and parents.</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Such other issues with respect to participating eligible students as the Secretary considers appropriate for inclusion in the evaluation, such as the impact of the program on public elementary schools and secondary schools in the District of Columbia.</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>An analysis of the issues described in subparagraphs (A) through (F) by applying such subparagraphs by substituting “the subgroup of participating eligible students who have used each opportunity scholarship awarded to such students under this chapter to attend a participating school” for “participating eligible students” each place such term appears.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <heading>Prohibition. —</heading>
+          <text>Personally identifiable information regarding the results of the measurements used for the evaluations may not be disclosed, except to the parents of the student to whom the information relates.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Reports. —</heading>
+        <text>The Secretary shall submit to the Committees on Appropriations, Education and the Workforce, and Oversight and Government Reform of the House of Representatives and the Committees on Appropriations, Health, Education, Labor, and Pensions, and Homeland Security and Governmental Affairs of the Senate—</text>
+        <para>
+          <num>(1)</num>
+          <text>annual interim reports, not later than April 1 of the year following the year of the date of enactment of this chapter [April 15, 2011], and each subsequent year through the year in which the final report is submitted under paragraph (2), on the progress and preliminary results of the evaluation of the opportunity scholarship program funded under this chapter; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a final report, not later than 1 year after the final year for which a grant is made under § <cite path="§38-1853.04">38-1853.04</cite>(a), on the results of the evaluation of the program.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Public availability. —</heading>
+        <text>All reports and underlying data gathered pursuant to this section shall be made available to the public upon request, in a timely manner following submission of the applicable report under subsection (b), except that personally identifiable information shall not be disclosed or made available to the public.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Limit on amount expended. —</heading>
+        <text>The amount expended by the Secretary to carry out this section for any fiscal year may not exceed 5 percent of the total amount appropriated under § <cite path="§38-1853.14">38-1853.14</cite>(a)(1) for the fiscal year.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 206, Pub. L. 112-10, Div. C, § 3009</annotation>
+          <annotation doc="Pub. L. 112-92">Feb. 1, 2012, 126 Stat. 6, Pub. L. 112-92, § 4</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§38-1853.05">38-1853.05</cite>, § <cite path="§38-1853.06">38-1853.06</cite>, § <cite path="§38-1853.08">38-1853.08</cite>, § <cite path="§38-1853.11">38-1853.11</cite>, and § <cite path="§38-1853.12">38-1853.12</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>Pub. L. 112-92, in subsec. (a)(3)(A), inserted “in a manner consistent with § <cite path="§38-1853.08">38-1853.08</cite>(h)”; and, in subsec. (a)(3)(C), inserted “if requested by the Institute of Education Sciences,”.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.10">3010</num>
+      <heading>Reporting requirements.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Activities Reports. —</heading>
+        <text>Each eligible entity receiving funds under § <cite path="§38-1853.04">38-1853.04</cite>(a) during a year shall submit a report to the Secretary not later than July 30 of the following year regarding the activities carried out with the funds during the preceding year.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Achievement reports. —</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general. —</heading>
+          <text>In addition to the reports required under subsection (a), each eligible entity receiving funds under § <cite path="§38-1853.04">38-1853.04</cite>(a) shall, not later than September 1 of the year during which the second school year of the entity’s program is completed and each of the next 2 years thereafter, submit to the Secretary a report, including any pertinent data collected in the preceding 2 school years, concerning—</text>
+          <para>
+            <num>(A)</num>
+            <text>the academic growth and achievement of students participating in the program;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>the high school graduation and college admission rates of students who participate in the program, where appropriate; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>parental satisfaction with the program.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Prohibiting disclosure of personal information. —</heading>
+          <text>No report under this subsection may contain any personally identifiable information.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Reports to parents. —</heading>
+        <para>
+          <num>(1)</num>
+          <heading>In general. —</heading>
+          <text>Each eligible entity receiving funds under § <cite path="§38-1853.04">38-1853.04</cite>(a) shall ensure that each school participating in the entity’s program under this chapter during a school year reports at least once during the year to the parents of each of the school’s students who are participating in the program on—</text>
+          <para>
+            <num>(A)</num>
+            <text>the student’s academic achievement, as measured by a comparison with the aggregate academic achievement of other participating students at the student’s school in the same grade or level, as appropriate, and the aggregate academic achievement of the student’s peers at the student’s school in the same grade or level, as appropriate;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>the safety of the school, including the incidence of school violence, student suspensions, and student expulsions; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>the accreditation status of the school.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Prohibiting disclosure of personal information. —</heading>
+          <text>No report under this subsection may contain any personally identifiable information, except as to the student who is the subject of the report to that student’s parent.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Reports to eligible entities. —</heading>
+        <text>The eligible entity receiving funds under § <cite path="§38-1853.04">38-1853.04</cite>(a) shall ensure that each participating school under this division submits to the eligible entity beginning not later than 5 years after the date of the enactment of the D.C. Opportunity Scholarship Program School Certification Requirements Act [Dec. 15, 2105], a certification that the school has been awarded provisional or full accreditation, or has been granted an extension by the eligible entity in accordance with § <cite path="§38-1853.07">38-1853.07</cite>(a)(4)(G).</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Report to Congress. —</heading>
+        <text>Not later than 6 months after the first appropriation of funds under § <cite path="§38-1853.14">38-1853.14</cite>, and each succeeding year thereafter, the Secretary shall submit to the Committees on Appropriations, Education and the Workforce, and Oversight and Government Reform of the House of Representatives and the Committees on Appropriations, Health, Education, Labor, and Pensions, and Homeland Security and Governmental Affairs of the Senate, an annual report on the findings of the reports submitted under subsections (a) and (b).</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 208, Pub. L. 112-10, Div. C, § 3010</annotation>
+          <annotation doc="Pub. L. 114-113">Dec. 15, 2015, 129 Stat. 2242, Pub. L. 114-113, § 817(c)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>The 2015 amendment by Pub. L. 114-113 added (d); and redesignated former (d) as (e).</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Short Title</heading>
+          <annotation>Section 817(a) of P.L. 114-113 provided that § 817 of the act may be cited as the “D.C. Opportunity Scholarship Program School Certification Requirements Act.”</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Editor's Notes</heading>
+          <annotation>Section 817(d) of P.L. 114-113 provided that unless specifically provided otherwise, § 817, and the amendments made by § 817, shall take effect 1 year after Dec. 15, 2015.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.11">3011</num>
+      <heading>D.C. public schools and D.C. public charter schools.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Condition of receipt of funds. —</heading>
+        <text>As a condition of receiving funds under this chapter on behalf of the District of Columbia public schools and the District of Columbia public charter schools, the Mayor shall agree to carry out the following:</text>
+        <para>
+          <num>(1)</num>
+          <heading>Information requests. —</heading>
+          <text>Ensure that all the District of Columbia public schools and the District of Columbia public charter schools comply with all reasonable requests for information for purposes of the evaluation under § <cite path="§38-1853.09">38-1853.09</cite>(a).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Agreement with the Secretary. —</heading>
+          <text>Enter into the agreement described in § <cite path="§38-1853.09">38-1853.09</cite>(a)(1)(B) to monitor and evaluate the use of funds authorized and appropriated for the District of Columbia public schools and the District of Columbia public charter schools under this chapter.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Submission of report. —</heading>
+          <text>Not later than 6 months after the first appropriation of funds under § <cite path="§38-1853.14">38-1853.14</cite>, and each succeeding year thereafter, submit to the Committee on Appropriations, the Committee on Education and the Workforce, and the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Appropriations, the Committee on Health, Education, Labor, and Pensions, and the Committee on Homeland Security and Governmental Affairs of the Senate, information on—</text>
+          <para>
+            <num>(A)</num>
+            <text>how the funds authorized and appropriated under this chapter for the District of Columbia public schools and the District of Columbia public charter schools were used in the preceding school year; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>how such funds are contributing to student achievement.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Enforcement. —</heading>
+        <text>If, after reasonable notice and an opportunity for a hearing for the Mayor, the Secretary determines that the Mayor has not been in compliance with 1 or more of the requirements described in subsection (a), the Secretary may withhold from the Mayor, in whole or in part, further funds under this chapter for the District of Columbia public schools and the District of Columbia public charter schools.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Rule of construction. —</heading>
+        <text>Nothing in this section shall be construed to reduce, or otherwise affect, funding provided under this chapter for the opportunity scholarship program under this chapter.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, Div. C, § 3011</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§38-1853.04">38-1853.04</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.12">3012</num>
+      <heading>Transition provisions.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Repeal. —</heading>
+        <text>The DC School Choice Incentive Act of 2003 (§ <cite path="§38-1851.01">38-1851.01</cite> et seq., D.C. Official Code) is repealed.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Special Rules. —</heading>
+        <text>Notwithstanding any other provision of law—</text>
+        <para>
+          <num>(1)</num>
+          <text>funding appropriated to provide opportunity scholarships for students in the District of Columbia under the heading “Federal Payment for School Improvement” in title IV of division D of the Omnibus Appropriations Act, 2009 (Public Law 111-8; 123 Stat. 653), the heading “Federal Payment for School Improvement” in title IV of division C of the Consolidated Appropriations Act, 2010 (Public Law 111-117; 123 Stat. 3181), or any other Act, may be used to provide opportunity scholarships under § <cite path="§38-1853.07">38-1853.07</cite>(a) for the 2011-2012 school year to students who have not previously received such scholarships;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the fourth and fifth provisos under the heading “Federal Payment for School Improvement” of title IV of Division C of the Consolidated Appropriations Act, 2010 (Public Law 111-117; 123 Stat. 3181) shall not apply; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>any unobligated amounts reserved to carry out the provisos described in paragraph (2) shall be made available to an eligible entity receiving a grant under § <cite path="§38-1853.04">38-1853.04</cite>(a)—</text>
+          <para>
+            <num>(A)</num>
+            <text>for administrative expenses described in § <cite path="§38-1853.07">38-1853.07</cite>(b); or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>to provide opportunity scholarships under § <cite path="§38-1853.07">38-1853.07</cite>(a), including to provide such scholarships for the 2011-2012 school year to students who have not previously received such scholarships.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Multiyear awards. —</heading>
+        <text>The recipient of a grant or contract under the DC School Choice Incentive Act of 2003 (§ <cite path="§38-1851.01">38-1851.01</cite> et seq., D.C. Official Code), as such Act was in effect on the day before April 15, 2011, shall continue to receive funds in accordance with the terms and conditions of such grant or contract, except that—</text>
+        <para>
+          <num>(1)</num>
+          <text>the provisos relating to opportunity scholarships in the Acts described in subsection (b)(1) shall not apply; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the memorandum of understanding described in subsection (d), including any revision made under such subsection, shall apply.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Memorandum of understanding. —</heading>
+        <text>The Secretary and the Mayor of the District of Columbia shall revise the memorandum of understanding entered into under the DC School Choice Incentive Act of 2003 (§ <cite path="§38-1851.01">38-1851.01</cite> et seq., D.C. Official Code), as such Act was in effect on the day before April 15, 2011, to address—</text>
+        <para>
+          <num>(1)</num>
+          <text>the implementation of the opportunity scholarship program under this chapter; and</text>
+        </para>
+        <para>
+          <num>(1)</num>
+          <text>how the Mayor will ensure that the District of Columbia public schools and the District of Columbia public charter schools comply with all the reasonable requests for information as necessary to fulfill the requirements for evaluations conducted under § <cite path="§38-1853.09">38-1853.09</cite>(a).</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Orderly transition. —</heading>
+        <text>Subject to subsections (c) and (d), the Secretary shall take such steps as the Secretary determines to be appropriate to provide for the orderly transition to the authority of this chapter from any authority under the provisions of the DC School Choice Incentive Act of 2003 (§ <cite path="§38-1851.01">38-1851.01</cite> et seq., D.C. Official Code), as such Act was in effect on the day before April 15, 2011.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 209, Pub. L. 112-10, Div. C, § 3012</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.13">3013</num>
+      <heading>Definitions.</heading>
+      <text>As used in this division:</text>
+      <para>
+        <num>(1)</num>
+        <heading>Elementary school. —</heading>
+        <text>The term “elementary school” means an institutional day or residential school, including a public elementary charter school, that provides elementary education, as determined under District of Columbia law.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Eligible entity. —</heading>
+        <text>The term “eligible entity” means any of the following:</text>
+        <para>
+          <num>(A)</num>
+          <text>A nonprofit organization.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>A consortium of non profit organizations.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Eligible student. —</heading>
+        <text>The term “eligible student” means a student who is a resident of the District of Columbia and comes from a household—</text>
+        <para>
+          <num>(A)</num>
+          <text>receiving assistance under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. § 2011 et seq.); or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>whose income does not exceed—</text>
+          <para>
+            <num>(i)</num>
+            <text>185 percent of the poverty line; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>in the case of a student participating in the opportunity scholarship program in the preceding year under this division or the DC School Choice Incentive Act of 2003 (§ <cite path="§38-1851.01">38-1851.01</cite> et seq., D.C. Official Code), as such Act was in effect on the day before the date of enactment of this division [April 15, 2011], 300 percent of the poverty line.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Mayor. —</heading>
+        <text>The term “Mayor” means the Mayor of the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <heading>Parent. —</heading>
+        <text>The term “parent” has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965 [20 U.S.C. § 7801].</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <heading>Participating eligible student. —</heading>
+        <text>The term “participating eligible student” means an eligible student awarded an opportunity scholarship under this division, without regard to whether the student uses the scholarship to attend a participating school.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <heading>Participating school. —</heading>
+        <text>The term “participating school” means a private elementary school or secondary school participating in the opportunity scholarship program of an eligible entity under this division.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <heading>Poverty line. —</heading>
+        <text>The term “poverty line” has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965 [20 U.S.C. § 7801].</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <heading>Secondary school. —</heading>
+        <text>The term “secondary school” means an institutional day or residential school, including a public secondary charter school, that provides secondary education, as determined under District of Columbia law, except that the term does not include any education beyond grade 12.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <heading>Secretary. —</heading>
+        <text>The term “Secretary” means the Secretary of Education.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 210, Pub. L. 112-10, Div. C, § 3013</annotation>
+          <annotation doc="Pub. L. 114-95">Dec. 10, 2015, 129 Stat. 1802, Pub. L. 114-95, § 9215(ppp)(4)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effect of Amendments</heading>
+          <annotation>Section 9215(ppp)(4) of Public Law 114-95 substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)” in (5) and (8).</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
+    <section from-code="true">
+      <codify:insert doc="D.C. Code" path="|38|18N"/>
+      <num codify:value="38-1853.14">3014</num>
+      <heading>Authorization of appropriations.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>In general. —</heading>
+        <text>There are authorized to be appropriated $ 60,000,000 for fiscal year 2012 and for each of the 4 succeeding fiscal years, of which—</text>
+        <para>
+          <num>(1)</num>
+          <text>one-third shall be made available to carry out the opportunity scholarship program under this division for each fiscal year;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>one-third shall be made available to carry out § 3004(b)(1) for each fiscal year; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>one-third shall be made available to carry out § 3004(b)(2) for each fiscal year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Apportionment. —</heading>
+        <text>If the total amount of funds appropriated under subsection (a) for a fiscal year does not equal $ 60,000,000, the funds shall be apportioned in the manner described in subsection (a) for such fiscal year.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 112-10">Apr. 15, 2011, 125 Stat. 211, Pub. L. 112-10, Div. C, § 3014</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§38-1853.04">38-1853.04</cite>, § <cite path="§38-1853.09">38-1853.09</cite>, and § <cite path="§38-1853.11">38-1853.11</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </section>
   </container>
 </document>

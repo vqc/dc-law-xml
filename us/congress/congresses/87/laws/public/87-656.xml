@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 87-656">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 87-656">
   <num>87-656</num>
   <meta>
     <effective>1962-09-10</effective>
@@ -7,4 +7,279 @@
       <law session="87" lawId="656"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§7-1541.08" path="|7|15|III"/>
+    <num codify:value="7-1541.01">2</num>
+    <heading>Statement of policy and purpose.</heading>
+    <text>Because of the rapid medical progress in the field of tissue preservation, tissue transplantation, and tissue culture, and because it is in the public interest to aid the development of this field of medicine, it is the policy and purpose of Congress in enacting this subchapter and the amendments to §§ <cite path="§43-119">43-119</cite> and <cite path="§43-125">43-125</cite> to encourage and aid the development of reconstructive medicine and surgery and the development of medico-surgical research by providing for the licensing and regulation of tissue banks, and by facilitating antemortem and postmortem authorizations for donations of tissue.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-656">Sept. 10, 1962, 76 Stat. 534, Pub. L. 87-656, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§7-1531.01">7-1531.01</cite> and § <cite path="§43-125">43-125</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-1601.</annotation>
+        <annotation>1973 Ed., § 2-251.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§7-1541.08" path="|7|15|III"/>
+    <num codify:value="7-1541.02">3</num>
+    <heading>Definitions.</heading>
+    <text>For the purposes of this subchapter and §§ <cite path="§43-119">43-119</cite> and <cite path="§43-125">43-125</cite>, except where the context indicates a different meaning:</text>
+    <para>
+      <num>(1)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>“Tissue bank” means a facility for the recovery, screening, testing, processing, storage, or distribution of tissue for the purposes set forth in subchapter II-A of this chapter [§ <cite path="§7-1531.01">7-1531.01</cite> et seq.], and for the purposes of reconstructive medicine and surgery, and research and teaching in reconstructive medicine and surgery; provided, that the facility is accredited by the American Association of Tissue Banks.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-656">Sept. 10, 1962, 76 Stat. 534, Pub. L. 87-656, § 3</annotation>
+        <annotation doc="Pub. L. 91-268">May 26, 1970, 84 Stat. 270, Pub. L. 91-268, § 9(a)</annotation>
+        <annotation doc="D.C. Law 17-145">Apr. 15, 2008, D.C. Law 17-145, § 30(e)(1), 55 DCR 2532</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 230(f), 56 DCR 1117</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-1602.</annotation>
+        <annotation>1973 Ed., § 2-252.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-145">D.C. Law 17-145</cite> repealed pars. (1), (2), and (3) and rewrote par. (4), which had read as follows:</annotation>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in par. (4).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§7-1541.08" path="|7|15|III"/>
+    <num codify:value="7-1541.03">4</num>
+    <heading>Licenses.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person shall operate any tissue bank in the District of Columbia without a valid license issued pursuant to this subchapter and §§ <cite path="§43-119">43-119</cite> and <cite path="§43-125">43-125</cite>. No such license shall be issued except to persons duly licensed or duly registered as physicians under Chapter 12 of Title 3 or to persons holding valid licenses to operate and maintain hospitals for humans pursuant to Chapter 5 of Title 44.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Council of the District of Columbia is authorized, after public hearing, to adopt and promulgate rules and regulations to carry out the purposes of this subchapter and subchapter II-A of this chapter, including, without limitation, rules and regulations prescribing:</text>
+      <para>
+        <num>(1)</num>
+        <text>The terms and conditions under which a tissue bank license may be issued and renewed;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The fees to be paid for the issuance and renewal of such licenses;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The duration of such licenses;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The grounds for suspension and revocation of such licenses;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The operation of tissue banks;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The conditions under which tissue may be recovered, screened, tested, processed, stored, distributed, and transported; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The making, keeping, and disposition of records by tissue banks or by other persons recovering, screening, testing, processing, storing, distributing, or transporting tissue.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor may, after notice and hearing, deny, suspend, or revoke any tissue bank license issued or applied for pursuant to this subchapter and §§ <cite path="§43-119">43-119</cite> and <cite path="§43-125">43-125</cite>.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Any person aggrieved by any final decision or final order of the Mayor denying, suspending, or revoking any tissue bank license or renewal thereof, issued or applied for under this subchapter and §§ <cite path="§43-119">43-119</cite> and <cite path="§43-125">43-125</cite>, may obtain a review of such decision or order in the District of Columbia Court of Appeals.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Except with respect to the provisions as to licensing, the provisions of this subchapter and §§ <cite path="§43-119">43-119</cite> and <cite path="§43-125">43-125</cite>, and the regulations made pursuant thereto, shall apply to federal agencies situated in the District of Columbia, and to District of Columbia agencies.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-656">Sept. 10, 1962, 76 Stat. 535, Pub. L. 87-656, § 4</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 78, Pub. L. 88-60, § 6</annotation>
+        <annotation doc="Pub. L. 91-268">May 26, 1970, 84 Stat. 270, Pub. L. 91-268, § 9(b)</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 585, Pub. L. 91-358, title I, § 164(f)</annotation>
+        <annotation doc="D.C. Law 7-231">May 10, 1989, D.C. Law 7-231, § 8, 36 DCR 492</annotation>
+        <annotation doc="D.C. Law 17-145">Apr. 15, 2008, D.C. Law 17-145, § 30(e)(2), 55 DCR 2532</annotation>
+        <annotation doc="D.C. Law 17-353">Mar. 25, 2009, D.C. Law 17-353, § 230(f), 56 DCR 1117</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Embalming of dead bodies, handling of tissue, see § <cite path="§43-125">43-125</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§43-125">43-125</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-1603.</annotation>
+        <annotation>1973 Ed., § 2-253.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 17-145">D.C. Law 17-145</cite>, in the introductory language of subsec. (b), substituted “subchapter II-A of this chapter 15” for “subchapter II of this chapter 15”; in subsec. (b)(6), substituted “recovered, screened, tested, processed, stored, distributed, and transported” for “processed, preserved, stored, and transported”; and, in subsec. (b)(7), substituted “recovering, screening, testing, processing, storing, distributing, or transporting” for “processing, preserving, storing, or transporting”.</annotation>
+        <annotation><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in subsec. (b).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(36) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§7-1541.08" path="|7|15|III"/>
+    <num codify:value="7-1541.04">5</num>
+    <heading>Penalties; prosecutions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any person violating any provision of this subchapter and the amendments to §§ <cite path="§43-119">43-119</cite> and <cite path="§43-125">43-125</cite>, or any regulation made pursuant to this subchapter and the amendments to §§ <cite path="§43-119">43-119</cite> and <cite path="§43-125">43-125</cite>, shall be fined not more than $300, or be imprisoned for not more than 90 days. Prosecution for violations of this subchapter and the amendments to §§ <cite path="§43-119">43-119</cite> and <cite path="§43-125">43-125</cite> and regulations made pursuant thereto shall be brought in the name of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this subchapter, or any rules or regulations issued under the authority of this subchapter pursuant to Chapter 18 of Title 2. Adjudication of any infraction of this subchapter shall be pursuant to Chapter 18 of Title 2.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-656">Sept. 10, 1962, 76 Stat. 535, Pub. L. 87-656, § 5</annotation>
+        <annotation doc="D.C. Law 6-42">Oct. 5, 1985, D.C. Law 6-42, § 430, 32 DCR 4450</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-1604.</annotation>
+        <annotation>1973 Ed., § 2-254.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§7-1541.08" path="|7|15|III"/>
+    <reason>Repealed</reason>
+    <num codify:value="7-1541.05">9</num>
+    <heading>Authorization by the Chief Medical Examiner.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-656">Sept. 10, 1962, 76 Stat. 536, Pub. L. 87-656, § 9</annotation>
+        <annotation doc="Pub. L. 91-268">May 26, 1970, 84 Stat. 270, Pub. L. 91-268, § 9(d)</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 579, Pub. L. 91-358, title I, § 160(b)</annotation>
+        <annotation doc="D.C. Law 3-145">Mar. 5, 1981, D.C. Law 3-145, § 2, 27 DCR 4663</annotation>
+        <annotation doc="D.C. Law 9-157">Sept. 29, 1992, D.C. Law 9-157, § 3, 39 DCR 5686</annotation>
+        <annotation doc="D.C. Law 13-172">Oct. 19, 2000, D.C. Law 13-172,§ 2919(b), 47 DCR 6308</annotation>
+        <annotation doc="D.C. Law 17-145">Apr. 15, 2008, D.C. Law 17-145, § 30(e)(3), 55 DCR 2532</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-1605.</annotation>
+        <annotation>1973 Ed., § 2-258.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90-day) amendment of section, see § 2919(b) of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2919(b) of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000,  47 DCR 8740).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Mayor authorized to issue rules: Section 4 of <cite doc="D.C. Law 9-157">D.C. Law 9-157</cite> provided that the Mayor shall issue rules to implement the provisions of the act.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§7-1541.08" path="|7|15|III"/>
+    <num codify:value="7-1541.05a">9a</num>
+    <heading>Authority of organ procurement organization acting on behalf of eye bank or tissue bank.</heading>
+    <text>An organ procurement organization may screen, test, or recover eyes or tissues on behalf of an eye bank or tissue bank.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-656">Sept. 10, 1962, 76 Stat. 537, Pub. L. 87-656, § 9a</annotation>
+        <annotation doc="D.C. Law 17-145">as added Apr. 15, 2008, D.C. Law 17-145, § 30(e)(4), 55 DCR 2532</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§7-1541.08" path="|7|15|III"/>
+    <num codify:value="7-1541.06">12</num>
+    <heading>Exemptions from subchapter.</heading>
+    <text>Nothing in this subchapter and §§ <cite path="§43-119">43-119</cite> and <cite path="§43-125">43-125</cite> shall be construed:</text>
+    <para>
+      <num>(1)</num>
+      <text>To prohibit funeral directors, licensed pursuant to §§ <cite path="§3-405">3-405</cite> and <cite path="§3-406">3-406</cite>, from discharging their duties; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>To prohibit or affect in any way the authority, duties, rights, or obligations vested, imposed, or granted by Chapter 2 of Title 3.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-656">Sept. 10, 1962, 76 Stat. 537, Pub. L. 87-656, § 12</annotation>
+        <annotation doc="D.C. Law 6-192">Feb. 24, 1987, D.C. Law 6-192, § 23, 33 DCR 7836</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-1606.</annotation>
+        <annotation>1973 Ed., § 2-259.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§7-1541.08" path="|7|15|III"/>
+    <num codify:value="7-1541.07">13</num>
+    <heading>Construction.</heading>
+    <text>Nothing in this subchapter and §§ <cite path="§43-119">43-119</cite> and <cite path="§43-125">43-125</cite> shall be construed so as to affect the authority vested in the Mayor by Reorganization Plan No. 5 of 1952. The performance of any function vested by this subchapter and §§ <cite path="§43-119">43-119</cite> and <cite path="§43-125">43-125</cite> in the Mayor or in any office or agency under the jurisdiction and control of said Mayor may be delegated by said Mayor in accordance with § 3 of such Plan.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 87-656">Sept. 10, 1962, 76 Stat. 537, Pub. L. 87-656, § 13</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-1607.</annotation>
+        <annotation>1973 Ed., § 2-260.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818,§ 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

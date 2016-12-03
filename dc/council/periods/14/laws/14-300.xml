@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 14-300">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 14-300">
   <num type="law">14-300</num>
   <heading type="short">Draft Master Plan for Public Reservation 13 Approval Act of 2002</heading>
   <meta>
@@ -12,4 +12,193 @@
       <narrative>Law 14-300, the “Draft Master Plan for Public Reservation 13 Approval Act of 2002”, was introduced in Council and assigned Bill No. 14-648, which was referred to the Committee on the Whole. The Bill was adopted on first and second readings on November 7, 2002, and December 3, 2002, respectively. Signed by the Mayor on January 7, 2003, it was assigned Act No. 14-576 and transmitted to both Houses of Congress for its review. D.C. Law 14-300 became effective on April 11, 2003.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|15"/>
+    <num codify:value="10-1501">2</num>
+    <heading>Approval of Draft Master Plan.</heading>
+    <text>Pursuant to the District of Columbia Appropriations Act, 2002 (Public Law 107-96), the Mayor transmitted to the Council a Draft Master Plan for Public Reservation 13, dated March 31, 2002. Public Law 107-96 provides that the Mayor shall present to the Council for its approval a plan for the development of Reservation 13. The Draft Master Plan for Public Reservation 13, dated March 31, 2002, is hereby approved.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-300">Apr. 11, 2003, D.C. Law 14-300, § 2, 50 DCR 406</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>For tax exemption of property, see § <cite path="§47-1055">47-1055</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Exchange of Title over Reservation 13</text>
+        <text>For the exchange of title over Reservation 13, see Public Law 109-396, 120 Stat. 2711.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|15"/>
+    <num codify:value="10-1502">3</num>
+    <heading>Health care facility; acreage set aside, development.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Approximately 2 acres within Reservation 13 shall be set aside for the development of a new health care facility, which may include emergency care services, primary and specialty care physician offices, ambulatory surgery, diagnostic imaging, laboratories, or health education. Upon completion of the development of the health care facility, any excess land set aside for the facility shall be available for development.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor is authorized to issue a request for proposals for the development of a health care facility on the acreage set aside and to enter into any contract or agreement necessary to enable the construction and operation of the facility.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Interested bidders shall be allowed to submit proposals for both constructing and operating the health care facility.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-300">Apr. 11, 2003, D.C. Law 14-300, § 3, 50 DCR 406</annotation>
+        <annotation doc="D.C. Law 16-288">Mar. 14, 2007, D.C. Law 16-288, § 201, 54 DCR 976</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 16-288">D.C. Law 16-288</cite>, rewrote this section, which formerly read:</annotation>
+        <annotation>“Approximately 2 acres within the Independence Avenue District of Reservation 13 shall be set aside for the development of a new full-service hospital, including approximately 200 beds, an emergency department with level 1 trauma care, general pediatric care, behavioral health services including substance abuse and mental health, long-term or transitional care capability, outpatient diagnostic and ambulatory care, and specialty clinic services.”</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see §§ 2, 3 of National Capital Medical Center Negotiation Temporary Act of 2003 (<cite doc="D.C. Law 15-96">D.C. Law 15-96</cite>, March 10, 2004, law notification  51 DCR 3616).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see §§ 2 and 3 of National Capital Medical Center Negotiation Emergency Act of 2003 (D.C. Act 15-229, November 25, 2003,  50 DCR 10720).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Sections 2 and 3 of <cite doc="D.C. Law 15-178">D.C. Law 15-178</cite> provided:</text>
+        <text>“Sec. 2. (a) Pursuant to the National Capital Medical Center Negotiation Emergency Act of 2003, effective November 25, 2003 (D.C. Act 15-229;  50 DCR 10720), the Mayor transmitted to the Council a proposed memorandum of understanding between the District of Columbia government and Howard University, dated January 15, 2004, for Council approval.</text>
+        <text>“(b) The Council hereby approves the memorandum of understanding between the District of Columbia government and Howard University, dated January 15, 2004.</text>
+        <text>“Sec. 3. The Mayor shall submit by proposed resolution to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess, which review period shall begin on the 1st day following its receipt by the Office of the Secretary, the final plan (‘plan’) to finance, construct, manage, and operate the National Capital Medical Center. If the Council does not approve or disapprove the proposed resolution within the 45-day review period, the proposed resolution, and thereby the plan, shall be deemed disapproved.”</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|15"/>
+    <num codify:value="10-1503">4</num>
+    <heading>Establishment of Reservation 13 Benefit Area.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a Reservation 13 Benefit Area (“R13BA”), which shall be comprised of the 67 acres of land historically know as Reservation 13.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Repealed.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-300">Apr. 11, 2003, D.C. Law 14-300, § 4, 50 DCR 406</annotation>
+        <annotation doc="D.C. Law 15-69">Feb. 6, 2004, D.C. Law 15-69, § 2(a), 50 DCR 9824</annotation>
+        <annotation doc="D.C. Law 15-354">Apr. 13, 2005, D.C. Law 15-354, § 89(a), 52 DCR 2638</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-69">D.C. Law 15-69</cite> deleted the subsection (a) designation; and repealed subsecs. (b) and (c) which had read as follows:</annotation>
+        <annotation><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in subsecs. (b) and (c), validated previously made technical corrections.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(a) of Draft Master Plan for Public Reservation 13 Temporary Amendment Act of 2003 (<cite doc="D.C. Law 15-3">D.C. Law 15-3</cite>, May 3, 2003, law notification  50 DCR 3783).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Draft Master Plan for Public Reservation 13 Emergency Amendment Act of 2003 (D.C. Act 15-13, January 27, 2003,  50 DCR 1488).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(a) of Draft Master Plan for Public Reservation 13 Congressional Review Emergency Amendment Act of 2003 (D.C. Act 15-273, December 18, 2003,  51 DCR 40).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|15"/>
+    <num codify:value="10-1504">5</num>
+    <heading>Establishment of special taxing district.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The R13BA shall be a special taxing district.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All sales tax revenues generated from commercial enterprises within the R13BA, all taxes on any real property, except for the real property special tax set aside to pay debt service on general obligation bonds issued by the District of Columbia, and all payments made in lieu of taxes on any real property, which is exempt or immune from real property taxation that is leased, loaned, or otherwise made available to any person in connection with a commercial enterprise or as a residence in an amount equivalent to the tax that would be lawfully assessed if the real property were not exempt or immune from real property taxation, that are collected within the R13BA shall be applied in the following order:</text>
+      <para>
+        <num>(1)</num>
+        <text>To fund infrastructure improvements related to a proposed development; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To be deposited in the Tobacco Settlement Trust Fund, established by subchapter II of Chapter 18 of Title 7 (‘Fund”) into a dedicated R13BA Health Care account to be used for the purpose of providing health care to the uninsured residents of the District.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Repealed.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-300">Apr. 11, 2003, D.C. Law 14-300, § 5, 50 DCR 406</annotation>
+        <annotation doc="D.C. Law 15-69">Feb. 6, 2004, D.C. Law 15-69, § 2(b), 50 DCR 9824</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-69">D.C. Law 15-69</cite> rewrote subsec. (b); and repealed subsec. (c).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(b) of Draft Master Plan for Public Reservation 13 Temporary Amendment Act of 2003 (<cite doc="D.C. Law 15-3">D.C. Law 15-3</cite>, May 3, 2003, law notification  50 DCR 3783).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Draft Master Plan for Public Reservation 13 Emergency Amendment Act of 2003 (D.C. Act 15-13, January 27, 2003,  50 DCR 1488).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(b) of Draft Master Plan for Public Reservation 13 Congressional Review Emergency Amendment Act of 2003 (D.C. Act 15-273, December 18, 2003,  51 DCR 40).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|15"/>
+    <num codify:value="10-1505">6</num>
+    <heading>Allocation of R13BA property sales and lease proceeds.</heading>
+    <text>The proceeds from the lease or sale of any property in the R13BA, which includes all structures of a permanent character erected on or affixed to, any natural resources located on or under, all riparian rights attached to, or any air space located above or below the property or any street or alley, owned, controlled, or administered by the District, shall be applied in the following order:</text>
+    <para>
+      <num>(1)</num>
+      <text>To fund infrastructure improvements related to a proposed development; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>To be deposited in the Fund into a dedicated R13BA Health Care account to be used for the purpose of providing health care to the uninsured residents of the District.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 14-300">Apr. 11, 2003, D.C. Law 14-300, § 6, 50 DCR 406</annotation>
+        <annotation doc="D.C. Law 15-69">Feb. 6, 2004, D.C. Law 15-69, § 2(c), 50 DCR 9824</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation><cite doc="D.C. Law 15-69">D.C. Law 15-69</cite> rewrote the section.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Amendment of Section</heading>
+        <annotation>For temporary (225 day) amendment of section, see § 2(c) of Draft Master Plan for Public Reservation 13 Temporary Amendment Act of 2003 (<cite doc="D.C. Law 15-3">D.C. Law 15-3</cite>, May 3, 2003, law notification  50 DCR 3783).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) amendment of section, see § 2(c) of Draft Master Plan for Public Reservation 13 Emergency Amendment Act of 2003 (D.C. Act 15-13, January 27, 2003,  50 DCR 1488).</annotation>
+        <annotation>For temporary (90 day) amendment of section, see § 2(c) of Draft Master Plan for Public Reservation 13 Congressional Review Emergency Amendment Act of 2003 (D.C. Act 15-273, December 18, 2003,  51 DCR 40).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

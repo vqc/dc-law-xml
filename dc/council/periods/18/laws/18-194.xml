@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 18-194">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 18-194">
   <num type="law">18-194</num>
   <heading type="short">Stimulus Accountability Act of 2010</heading>
   <meta>
@@ -12,4 +12,65 @@
       <narrative>Law 18-194, the “Stimulus Accountability Act of 2010”, was introduced in Council and assigned Bill No. 18-350, which was referred to the Committee on Housing Safety and Workforce Development. The Bill was adopted on first and second readings on April 20, 2010, and May 4, 2010, respectively. Signed by the Mayor on May 19, 2010, it was assigned Act No. 18-405 and transmitted to both Houses of Congress for its review. D.C. Law 18-194 became effective on July 23, 2010.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2|X|C"/>
+    <num codify:value="2-219.51">2</num>
+    <heading>Reporting requirements for entities receiving grants under the federal recovery act.</heading>
+    <text>All nonprofit organizations, companies, associations, contractors, and subcontractors who receive a grant or funding under the American Recovery and Reinvestment Act of 2009, approved February 17, 2009 (Pub. L. No. 111-5; 98 Stat. 1861) (“ARRA”), shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>As a condition of the grant or funding, list all jobs that shall be created as a result of the grant or funding on the Department of Employment Services website;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Provide the list required by paragraph (1) of this section to the Department of Employment Services; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Inform the Department of Employment Services of the number of District residents hired for ARRA-funded positions once the positions created as a result of a grant or funding under the ARRA are filled.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-194">July 23, 2010, D.C. Law 18-194, § 2, 57 DCR 4512</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 2 of the Stimulus Accountability Temporary Act of 2009 (<cite doc="D.C. Law 18-75">D.C. Law 18-75</cite>, October 22, 2009, law notification  56 DCR 8660).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 2 of Stimulus Accountability Emergency Act of 2009 (D.C. Act 18-143, July 13, 2009,  56 DCR 5872).</annotation>
+        <annotation>For temporary (90 day) addition, see § 2 of Stimulus Accountability Congressional Review Emergency Act of 2009 (D.C. Act 18-194, October 5, 2009,  56 DCR 8124).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|2|X|C"/>
+    <num codify:value="2-219.52">3</num>
+    <heading>Requirements of the Mayor.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Mayor, through the Department of Employment Services, shall create a listing of all jobs that have become available through grants or funding under the ARRA.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor, through the Department of Employment Services, shall maintain a list of ARRA-funded positions that have been filled by District residents. The list of District residents hired as a result of ARRA grants or funding shall be reported to the Council.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 18-194">July 23, 2010, D.C. Law 18-194, § 3, 57 DCR 4512</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition, see § 3 of the Stimulus Accountability Temporary Act of 2009 (<cite doc="D.C. Law 18-75">D.C. Law 18-75</cite>, October 22, 2009, law notification  56 DCR 8660).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) addition, see § 3 of Stimulus Accountability Emergency Act of 2009 (D.C. Act 18-143, July 13, 2009,  56 DCR 5872).</annotation>
+        <annotation>For temporary (90 day) addition, see § 3 of Stimulus Accountability Congressional Review Emergency Act of 2009 (D.C. Act 18-194, October 5, 2009,  56 DCR 8124).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

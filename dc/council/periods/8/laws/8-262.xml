@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 8-262" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 8-262" flag="true">
   <num type="law">8-262</num>
   <heading type="short">Smoking Regulation Amendment Act of 1990</heading>
   <meta>
@@ -12,4 +12,32 @@
       <narrative>Law 8-262, the “Smoking Regulation Amendment Act of 1990,” was introduced in Council and assigned Bill No. 8-581, which was referred to the Committee on Public Works. The Bill was adopted on first and second readings on November 20, 1990, and December 4, 1990, respectively. Signed by the Mayor on December 14, 1990, it was assigned Act No. 8-278 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|17|II"/>
+    <num codify:value="7-1731">5</num>
+    <heading>Distribution of free cigarettes prohibited; penalty.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No person, agent, or employee of any person shall, in the course of doing business, distribute any free cigarettes or other tobacco product to any person on any public street, public sidewalk, public park, playground, in a public building, other public property, or private property open to the public, except that free cigarettes or other tobacco products may be distributed at a tobacco store, a convention, or a conference catering to adults.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any person who violates subsection (a) of this section shall, upon conviction, be fined not less than $250 for each violation.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 8-262">May 2, 1991, D.C. Law 8-262, § 5, 37 DCR 8434</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 6-920.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90-day) requirement that certain manufacturers establish a reserve fund, see §§ 2 and 3 of the Tobacco Settlement Model Emergency Act of 1999 (D.C. Act 13-109, June 30, 1999,  46 DCR 5769).</annotation>
+        <annotation>For temporary (90-day) requirement that certain manufacturers establish a reserve fund, see §§ 2 and 3 of the Tobacco Settlement Model Congressional Review Emergency Act of 1999 (D.C. Act 13-139, September 28, 1999,  46 DCR 7963).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

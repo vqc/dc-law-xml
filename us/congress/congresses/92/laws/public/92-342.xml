@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 92-342">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 92-342">
   <num>92-342</num>
   <meta>
     <effective>1972-07-10</effective>
@@ -7,4 +7,44 @@
       <law session="92" lawId="342"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|III|A"/>
+    <num codify:value="10-505.01">101</num>
+    <heading>Detail of personnel from Metropolitan Police to Capitol Police Board.</heading>
+    <text>The Mayor of the District of Columbia is authorized and directed to make such details upon the request of the Board. Personnel so detailed shall, during the period of such detail, serve under the direction and instructions of the Board and are authorized to exercise the same authority as members of such Metropolitan Police and members of the Capitol Police and to perform such other duties as may be assigned by the Board. Reimbursement for salaries and other expenses of such detail personnel shall be made to the government of the District of Columbia, and any sums so reimbursed shall be credited to the appropriation or appropriations from which such salaries and expenses are payable and shall be available for all the purposes thereof; provided, that any person detailed under the authority of this section or under similar authority in the Legislative Branch Appropriation Act, 1942, and the Second Deficiency Appropriation Act, 1940, from the Metropolitan Police of the District of Columbia shall be deemed a member of such Metropolitan Police during the period or periods of any such detail for all purposes of rank, pay, allowances, privileges, and benefits to the same extent as though such detail had not been made, and at the termination thereof any such person shall have a status with respect to rank, pay, allowances, privileges, and benefits which is not less than the status of such person in such police at the end of such detail.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 92-342">July 10, 1972, 86 Stat. 440, Pub. L. 92-342, § 101</annotation>
+        <annotation doc="Pub. L. 95-94">Aug. 5, 1977, 91 Stat. 670, Pub. L. 95-94, title I</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-116.</annotation>
+        <annotation>1973 Ed., § 9-126a.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>The Second Deficiency Appropriation Act, 1940 and the Legislative Branch Appropriation Act, 1942, both referred to in the proviso of the last sentence of this section, were enacted by 54 Stat. 629 and 55 Stat. 456, respectively.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" before="§38-153" path="|38|1|III"/>
+    <num codify:value="38-152">101</num>
+    <heading>Education of pages.</heading>
+    <text>The Board of Education of the District of Columbia is hereby authorized to employ such personnel for the education of pages as may be required and to pay compensation for such services in accordance with such rates of compensation as the Board of Education may prescribe.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 92-342">July 10, 1972, 86 Stat. 441, Pub. L. 92-342, § 101</annotation>
+        <annotation doc="Pub. L. 95-94">Aug. 5, 1977, 91 Stat. 671, Pub. L. 95-94, title I</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 31-118.</annotation>
+        <annotation>1973 Ed., § 31-121.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

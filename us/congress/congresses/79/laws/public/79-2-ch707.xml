@@ -1,10 +1,535 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 79-2-ch707">
-  <heading />
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 79-2-ch707">
+  <heading/>
   <meta>
     <effective>1946-07-31</effective>
     <cites>
-        <law congress="79" session="2" chapter="707"/>
+      <law congress="79" session="2" chapter="707"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.11">1</num>
+    <heading>Boundaries; jurisdiction of Architect; responsibilities of Mayor.</heading>
+    <text>The United States Capitol Grounds shall comprise all squares, reservations, streets, roadways, walks, and other areas as defined on a map entitled “Map showing areas comprising United States Capitol Grounds”, dated June 25, 1946, approved by the Architect of the Capitol and recorded in the Office of the Surveyor of the District of Columbia in Book 127, Page 8, including all additions added thereto by law subsequent to June 25, 1946, and the jurisdiction and control over the United States Capitol Grounds, vested prior to July 31, 1946 by law in the Architect of the Capitol, is extended to the entire area of the United States Capitol Grounds, and the Architect of the Capitol shall be responsible for the maintenance and improvement thereof, including those streets and roadways in said United States Capitol Grounds as shown on said map as being under the jurisdiction and control of the Mayor of the District of Columbia, except that the Mayor of the District of Columbia shall be responsible for the maintenance and improvement of those portions of the following streets which are situated between the curblines thereof: Constitution Avenue from Second Street Northeast to Third Street Northwest, First Street from D Street N.E. to D Street S.E., D Street from First Street S.E. to Canal Street S.W., and First Street from the north side of Louisiana Avenue to the intersection of C Street and Canal Street S.W., Pennsylvania Avenue Northwest from First Street Northwest to Third Street Northwest, Maryland Avenue Southwest from First Street Southwest to Third Street Southwest, Second Street Northeast from F Street Northeast to C Street Southeast; C Street Southeast from Second Street Southeast to First Street Southeast; that portion of Maryland Avenue Northeast from Second Street Northeast to First Street Northeast; that portion of New Jersey Avenue Northwest from D Street Northwest to Louisiana Avenue; that portion of Second Street Southwest from the north curb of D Street to the south curb of Virginia Avenue Southwest; that portion of Virginia Avenue Southwest from the east curb of Second Street Southwest to the west curb of Third Street Southwest; that portion of Third Street Southwest from the south curb of Virginia Avenue Southwest to the north curb of D Street Southwest; that portion of D Street Southwest from the west curb of Third Street Southwest to the east curb of Second Street Southwest; that portion of Canal Street Southwest, including sidewalks and traffic islands, from the south curb of Independence Avenue Southwest to the west curb of South Capitol Street; provided, that the Mayor of the District of Columbia shall be permitted to enter any part of said United States Capitol Grounds for the purpose of repairing or maintaining or, subject to the approval of the Architect of the Capitol, for the purpose of constructing or altering, any utility service of the District of Columbia government.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 718, ch. 707, § 1</annotation>
+        <annotation doc="Pub. L. 90-108">Oct. 20, 1967, 81 Stat. 275, Pub. L. 90-108, § 1(a)</annotation>
+        <annotation doc="Pub. L. 93-198">Dec. 24, 1973, 87 Stat. 829, Pub. L. 93-198, title VII, § 739(g)(7)</annotation>
+        <annotation doc="Pub. L. 96-432">Oct. 10, 1980, 94 Stat. 1852, Pub. L. 96-432, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>District planning, powers and duties of mayor, see § <cite path="§1-204.23">1-204.23</cite>.</annotation>
+        <annotation>National Capital Planning Commission, see § <cite path="§2-1002">2-1002</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§1-204.23">1-204.23</cite>, § <cite path="§1-207.39">1-207.39</cite>, and § <cite path="§2-1002">2-1002</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-106.</annotation>
+        <annotation>1973 Ed., § 9-118.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <text>Extension of United States Capitol Grounds: Section 739(g)(3) of the Act of December 24, 1973, 87 Stat. 828, Pub. L. 93-198, provided that § 1 of the Act of July 31, 1946, 60 Stat. 718, as amended, is amended to include within the definition of the United States Capitol Grounds the streets as set forth in the Act of December 24, 1973.</text>
+        <text>Section 1 of the Act of October 10, 1980, 94 Stat. 1852, Pub. L. 96-432, and the Act of December 22, 1982, 96 Stat. 1935, Pub. L. 97-379, provided that § 1 of the Act of July 31, 1946, 60 Stat. 718, as amended, is amended to include within the definition of the United States Capitol Grounds the areas as set forth in the Act of December 22, 1982.</text>
+        <text>Law Enforcement Authority of Capitol Police: Title I of Act of October 6, 1992, 106 Stat. 1949, Pub. L. 102-397, provided that “An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes” is amended to expand the jurisdiction of the Capitol Police.</text>
+        <text>Order of House Office Building Commission: By order, dated October 17, 1967, the House Office Building Commission ordered that the Rayburn House Office Building, the subway connecting such building to the Capitol Building, the pedestrian tunnels connecting such building to the Longworth House Office Building, the underground garages in squares 637 and 691 and the tunnels connecting these garages to the House Office Buildings, are declared to be House Office Buildings and, as such, are made subject to the provisions of the Act of July 31, 1946, including any amendments to such Act, which are applicable to the Capitol Buildings.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.12">2</num>
+    <heading>Public travel in and occupancy of restricted.</heading>
+    <text>Public travel in and occupancy of said United States Capitol Grounds shall be restricted to the roads, walks, and places prepared for that purpose by flagging, paving, or otherwise.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 718, ch. 707, § 2</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-503.18">10-503.18</cite> and § <cite path="§10-503.22">10-503.22</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-108.</annotation>
+        <annotation>1973 Ed., § 9-119.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.13">3</num>
+    <heading>Obstruction of roads.</heading>
+    <text>It is forbidden to occupy the roads in said United States Capitol Grounds in such manner as to obstruct or hinder their proper use, or to use the roads in the area of said United States Capitol Grounds, south of Constitution Avenue and B Street and north of Independence Avenue and B Street, for the conveyance of goods or merchandise, except to or from the Capitol on government service.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 718, ch. 707, § 3</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-503.18">10-503.18</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-109.</annotation>
+        <annotation>1973 Ed., § 9-120.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.14">4</num>
+    <heading>Sale of goods, advertising, or begging forbidden.</heading>
+    <text>It is forbidden to offer or expose any article for sale in said United States Capitol Grounds; to display any sign, placard, or other form of advertisement therein; to solicit fares, alms, subscriptions, or contributions therein.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 718, ch. 707, § 4</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-503.18">10-503.18</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-110.</annotation>
+        <annotation>1973 Ed., § 9-121.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.15">5</num>
+    <heading>Removal or injury of property forbidden.</heading>
+    <text>It is forbidden to step or climb upon, remove, or in any way injure any statue, seat, wall, fountain, or other erection or architectural feature, or any tree, shrub, plant, or turf in said United States Capitol Grounds.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 718, ch. 707, § 5</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-503.18">10-503.18</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-111.</annotation>
+        <annotation>1973 Ed., § 9-122.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.16">6</num>
+    <heading>Unlawful conduct.</heading>
+    <para>
+      <num>(a)</num>
+      <text>It shall be unlawful for any person or group of persons:</text>
+      <para>
+        <num>(1)</num>
+        <text>Except as authorized by regulations which shall be promulgated by the Capitol Police Board:</text>
+        <para>
+          <num>(A)</num>
+          <text>To carry on or have readily accessible to the person of any individual upon the United States Capitol Grounds or within any of the Capitol Buildings any firearm, dangerous weapon, explosive, or incendiary device; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>To discharge any firearm or explosive, to use any dangerous weapon, or to ignite any incendiary device, upon the United States Capitol Grounds or within any of the Capitol Buildings; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>To transport by any means upon the United States Capitol Grounds or within any of the Capitol Buildings any explosive or incendiary device; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Knowingly, with force and violence, to enter or to remain upon the floor of either House of the Congress.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>It shall be unlawful for any person or group of persons willfully and knowingly:</text>
+      <para>
+        <num>(1)</num>
+        <text>To enter or to remain upon the floor of either House of the Congress, to enter or to remain in any cloakroom or lobby adjacent to such floor, or to enter or to remain in the Rayburn Room of the House or the Marble Room of the Senate, unless such person is authorized, pursuant to rules adopted by that House or pursuant to authorization given by that House, to enter or to remain upon such floor or in such cloakroom, lobby, or room;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To enter or to remain in the gallery of either House of the Congress in violation of rules governing admission to such gallery adopted by that House or pursuant to authorization given by that House;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To enter or to remain in any room within any of the Capitol Buildings set aside or designated for the use of either House of the Congress or any member, committee, subcommittee, officer, or employee of the Congress or either House thereof with intent to disrupt the orderly conduct of official business;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To utter loud, threatening, or abusive language, or to engage in any disorderly or disruptive conduct, at any place upon the United States Capitol Grounds or within any of the Capitol Buildings with intent to impede, disrupt, or disturb the orderly conduct of any session of the Congress or either House thereof, or the orderly conduct within any such building of any hearing before, or any deliberations of, any committee or subcommittee of the Congress or either House thereof;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>To obstruct, or to impede passage through or within, the United States Capitol Grounds or any of the Capitol Buildings;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>To engage in any act of physical violence upon the United States Capitol Grounds or within any of the Capitol Buildings; or</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>To parade, demonstrate, or picket within any of the Capitol Buildings.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Nothing contained in this section shall forbid any act of any member of the Congress, or any employee of a member of the Congress, any officer or employee of the Congress or any committee or subcommittee thereof, or any officer or employee of either House of the Congress or any committee or subcommittee thereof, which is performed in the lawful discharge of his official duties.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 718, ch. 707, § 6</annotation>
+        <annotation doc="Pub. L. 87-571">Aug. 6, 1962, 76 Stat. 307, Pub. L. 87-571</annotation>
+        <annotation doc="Pub. L. 90-108">Oct. 20, 1967, 81 Stat. 276, Pub. L. 90-108, § 1(b)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-503.18">10-503.18</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-112.</annotation>
+        <annotation>1973 Ed., § 9-123.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.17">7</num>
+    <heading>Parades, assemblages, and displays forbidden.</heading>
+    <text>It is forbidden to parade, stand, or move in processions or assemblages in said United States Capitol Grounds, or to display therein any flag, banner, or device designed or adapted to bring into public notice any party, organization, or movement, except as hereinafter provided in §§ <cite path="§10-503.22">10-503.22</cite> and <cite path="§10-503.23">10-503.23</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 719, ch. 707, § 7</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-503.18">10-503.18</cite> and § <cite path="§10-503.23">10-503.23</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-113.</annotation>
+        <annotation>1973 Ed., § 9-124.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.18">8</num>
+    <heading>Prosecution and punishment of offenses.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any violation of § <cite path="§10-503.16">10-503.16</cite>(a), and any attempt to commit any such violation, shall be a felony punishable by a fine not exceeding $5,000, or imprisonment not exceeding 5 years, or both.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any violation of § <cite path="§10-503.12">10-503.12</cite>, § <cite path="§10-503.13">10-503.13</cite>, § <cite path="§10-503.14">10-503.14</cite>, § <cite path="§10-503.15">10-503.15</cite>, § <cite path="§10-503.16">10-503.16</cite>(b), or § <cite path="§10-503.17">10-503.17</cite>, and any attempt to commit any such violation, shall be a misdemeanor punishable by a fine not exceeding $500, or imprisonment not exceeding 6 months, or both.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Violations of this part, including attempts or conspiracies to commit such violations, shall be prosecuted by the United States Attorney or his assistants in the name of the United States. None of the general laws of the United States and none of the laws of the District of Columbia shall be superseded by any provision of this part. Where the conduct violating this part, also violates the general laws of the United States or the laws of the District of Columbia, both violations may be joined in a single prosecution. Prosecution for any violation of § <cite path="§10-503.16">10-503.16</cite>(a) or for conduct which constitutes a felony under the general laws of the United States or the laws of the District of Columbia shall be in the United States District Court for the District of Columbia. All other prosecutions for violations of this part may be in the Superior Court of the District of Columbia. Whenever any person is convicted of a violation of this part and of the general laws of the United States or the laws of the District of Columbia, in a prosecution under this subsection, the penalty which may be imposed for such violation is the highest penalty authorized by any of the laws for violation of which the defendant is convicted.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 719, ch. 707, § 8</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 90-108">Oct. 20, 1967, 81 Stat. 277, Pub. L. 90-108, § 1(c)</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-114.</annotation>
+        <annotation>1973 Ed., § 9-125.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.19">9</num>
+    <heading>Policing.</heading>
+    <text>The Capitol Police shall police the United States Capitol Buildings and Grounds under the direction of the Capitol Police Board, consisting of the Sergeant at Arms of the United States Senate, the Sergeant at Arms of the House of Representatives, and the Architect of the Capitol, and shall have the power to enforce the provisions of this part, and regulations promulgated under § <cite path="§10-503.25">10-503.25</cite> and to make arrests within the United States Capitol Buildings and Grounds for any violations of any law of the United States, of the District of Columbia, or of any State, or any regulation promulgated pursuant thereto; provided, that for the fiscal year for which appropriations are made by this Act, the Capitol Police shall have the additional authority to make arrests within the District of Columbia for crimes of violence, as defined in 18 U.S.C. § 16  , committed within the Capitol Buildings and Grounds and shall have the additional authority to make arrests, without a warrant, for crimes of violence, as defined in 18 U.S.C. § 16  , committed in the presence of any member of the Capitol Police performing official duties; provided further, that the Metropolitan Police force of the District of Columbia are authorized to make arrests within the United States Capitol Buildings and Grounds for any violation of any such laws or regulations, but such authority shall not be construed as authorizing the Metropolitan Police force, except with the consent or upon the request of the Capitol Police Board, to enter such buildings to make arrests in response to complaints or to serve warrants or to patrol the United States Capitol Buildings and Grounds. For the purpose of this section, the word “grounds” shall include the House Office Buildings parking areas and that part or parts of property which have been or hereafter are acquired in the District of Columbia by the Architect of the Capitol, or by an officer of the Senate or the House, by lease, purchase, intergovernment transfer, or otherwise, for the use of the Senate, the House, or the Architect of the Capitol.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 719, ch. 707, § 9</annotation>
+        <annotation doc="Pub. L. 93-198">Dec. 24, 1973, 87 Stat. 829, Pub. L. 93-198, title VII, § 739(g)(4), (5)</annotation>
+        <annotation doc="Pub. L. 101-520">Nov. 5, 1990, 104 Stat. 2264, Pub. L. 101-520, § 106(a)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-115.</annotation>
+        <annotation>1973 Ed., § 9-126.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“This Act,” referred to in the first proviso, is Pub. L. 101-520, 104 Stat. 2264, November 5, 1990.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Concurrent jurisdiction over Office of Technology Assessment: Act of November 14, 1977, 91 Stat. 1362, Pub. L. 95-175, provided that the supervision of the United States Capitol Police shall extend over that part or parts of the premises leased by the Office of Technology Assessment. In carrying out such supervision, the United States Capitol Police shall have concurrent jurisdiction with that of the Metropolitan Police of the District of Columbia.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.20">9A</num>
+    <heading>Protection of Congressional personnel by Capitol Police.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Subject to the direction of the Capitol Police Board, the United States Capitol Police is authorized to protect, in any area of the United States, the person of any member of Congress, officer of the Congress, as defined in 2 U.S.C. § 60-1(b), and any member of the immediate family of any such member or officer, if the Capitol Police Board determines such protection to be necessary.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In carrying out its authority under this section, the Capitol Police Board, or its designee, is authorized, in accordance with regulations issued by the Board pursuant to this section, to detail, on a case-by-case basis, members of the United States Capitol Police to provide such protection as the Board may determine necessary under this section.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In the performance of their protective duties under this section, members of the United States Capitol Police are authorized:</text>
+      <para>
+        <num>(1)</num>
+        <text>To make arrests without warrant for any offense against the United States committed in their presence, or for any felony cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such felony; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To utilize equipment and property of the Capitol Police.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Whoever knowingly and willfully obstructs, resists, or interferes with a member of the Capitol Police engaged in the performance of the protective functions authorized by this section shall be fined not more than $300 or imprisoned not more than 1 year, or both.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Nothing contained in this section shall be construed to imply that the authority, duty, and function conferred on the Capitol Police Board and the United States Capitol Police are in lieu of or intended to supersede any authority, duty, or function imposed on any federal department, agency, bureau, or other entity, or the Metropolitan Police of the District of Columbia, involving the protection of any such member, officer, or family member.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>As used in this section, the term “United States” means each of the several states of the United States, the District of Columbia, and territories and possessions of the United States.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, ch. 707, § 9A</annotation>
+        <annotation doc="Pub. L. 97-143">as added Dec. 29, 1981, 95 Stat. 1723, Pub. L. 97-143, § 1(a)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-115.1.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.21">10</num>
+    <heading>Employees to assist enforcement authorities.</heading>
+    <text>It shall be the duty of all persons employed in the service of the government in the Capitol or in the United States Capitol Grounds to prevent, as far as may be in their power, offenses against this part, and to aid the police, by information or otherwise, in securing the arrest and conviction of offenders.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 719, ch. 707, § 10</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-123.</annotation>
+        <annotation>1973 Ed., § 9-127.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.22">11</num>
+    <heading>Suspension of prohibitions against use — Authorization generally.</heading>
+    <text>In order to admit of the due observance within the United States Capitol Grounds of occasions of national interest becoming the cognizance and entertainment of Congress, the President of the Senate and the Speaker of the House of Representatives, acting concurrently, are hereby authorized to suspend for such proper occasions so much of the prohibitions contained in §§ <cite path="§10-503.12">10-503.12</cite> to 10-503.17 as would prevent the use of the roads and walks of the said grounds by processions or assemblages, and the use upon them of suitable decorations, music, addresses, and ceremonies; provided, that responsible officers shall have been appointed, and arrangements determined which are adequate, in the judgment of said President of the Senate and Speaker of the House of Representatives, for the maintenance of suitable order and decorum in the proceedings, and for guarding the Capitol and its grounds from injury.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 719, ch. 707, § 11</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-503.17">10-503.17</cite> and § <cite path="§10-503.23">10-503.23</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-124.</annotation>
+        <annotation>1973 Ed., § 9-128.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.23">12</num>
+    <heading>Suspension of prohibitions against use — Authorization generally — Authorization of Capitol Police Board.</heading>
+    <text>In the absence from Washington of either of the officers designated in § <cite path="§10-503.22">10-503.22</cite>, the authority therein given to suspend certain prohibitions of this part shall devolve upon the other, and in the absence from Washington of both it shall devolve upon the Capitol Police Board; provided, that notwithstanding the provisions of §§ <cite path="§10-503.17">10-503.17</cite> and <cite path="§10-503.22">10-503.22</cite>, the Capitol Police Board is hereby authorized to grant the Mayor of the District of Columbia authority to permit the use of Louisiana Avenue for any of the purposes prohibited by said § <cite path="§10-503.17">10-503.17</cite>.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 719, ch. 707, § 12</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-503.17">10-503.17</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-125.</annotation>
+        <annotation>1973 Ed., § 9-129.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.24">13</num>
+    <heading>Suspension of prohibitions against use — Concerts.</heading>
+    <text>Nothing in this part shall be construed to prohibit the giving of concerts in the United States Capitol Grounds, at such times as will not interfere with the Congress, by any band in the service of the United States, when and as authorized by the Architect of the Capitol.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 720, ch. 707, § 13</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-126.</annotation>
+        <annotation>1973 Ed., § 9-130.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+    <num codify:value="10-503.25">14</num>
+    <heading>Suspension of prohibitions against use — Traffic regulations by Capitol Police Board.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Capitol Police Board, consisting of the Sergeant at Arms of the United States Senate, the Sergeant at Arms of the House of Representatives, and the Architect of the Capitol, shall have exclusive charge and control of the regulation and movement of all vehicular and other traffic, including the parking and impounding of vehicles and limiting the speed thereof, within the United States Capitol Grounds; and said Board is hereby authorized and empowered to make and enforce all necessary regulations therefor and to prescribe penalties for violation of such regulations, such penalties not to exceed a fine of $300 or imprisonment for not more than 90 days. Notwithstanding the foregoing provisions of this section those provisions of Chapters 14 and 22 of Title 50, for the violation of which specific penalties are provided in said Chapters, shall be applicable to the United States Capitol Grounds. Except as provided in Chapter 23 of Title 50, prosecutions for violation of such regulations shall be in the Superior Court of the District of Columbia, upon information by the Corporation Counsel of the District of Columbia or any of his assistants.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Regulations authorized to be promulgated under this section shall be promulgated by the Capitol Police Board and such regulations may be amended from time to time by the Capitol Police Board whenever it shall deem it necessary; provided, that until such regulations are promulgated and become effective, the traffic regulations of the District of Columbia shall be applicable to the United States Capitol Grounds.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>All regulations promulgated under the authority of this section shall, when adopted by the Capitol Police Board, be printed in 1 or more of the daily newspapers published in the District of Columbia, and shall not become effective until the expiration of 10 days after the date of such publication, except that whenever the Capitol Police Board deems it advisable to make effective immediately any regulation relating to parking, diverting of vehicular traffic, or the closing of streets to such traffic, the regulation shall be effective immediately upon placing at the point where it is to be in force conspicuous signs containing a notice of the regulation. Any expenses incurred under this subsection shall be payable from the appropriation “Uniforms and Equipment, Capitol Police.”</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>It shall be the duty of the Mayor of the District of Columbia, or any officer or employee of the government of the District of Columbia designated by said Mayor, upon request of the Capitol Police Board, to cooperate with the Board in the preparation of the regulations authorized to be promulgated under this section, and any future amendments thereof.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation>July 31, 1946, 60 Stat. 720, ch. 707, § 14</annotation>
+        <annotation>July 11, 1947, 61 Stat. 308, ch. 221, §§ 1, 2</annotation>
+        <annotation doc="Pub. L. 88-60">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
+        <annotation doc="Pub. L. 93-198">Dec. 24, 1973, 87 Stat. 829, Pub. L. 93-198, title VII, § 739(g)(6)</annotation>
+        <annotation doc="D.C. Law 9-272">May 15, 1993, D.C. Law 9-272, § 201, 40 DCR 796</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Operation of vehicle in the District, application of law, see §§ <cite path="§50-2302.01">50-2302.01</cite>, <cite path="§50-2303.01">50-2303.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§10-503.19">10-503.19</cite>, § <cite path="§50-2302.01">50-2302.01</cite>, and § <cite path="§50-2303.01">50-2303.01</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 9-127.</annotation>
+        <annotation>1973 Ed., § 9-131.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section>
+    <num>16</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|10|5|II|B"/>
+      <num codify:value="10-503.26">(a)</num>
+      <heading>Definitions.</heading>
+      <text>As used in this part:</text>
+      <para>
+        <num>(1)</num>
+        <text>The term “Capitol Buildings” means the United States Capitol, the Senate and House Office Buildings and garages, the Capitol Power Plant, all subways and enclosed passages connecting 2 or more of such structures, and the real property underlying and enclosed by any such structure.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The term “firearm” shall have the same meaning as when used in § 901(3) of Title 15, United States Code.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The term “dangerous weapon” includes all articles enumerated in § <cite path="§22-4514">22-4514</cite>(a) and also any device designed to expel or hurl a projectile capable of causing injury to persons or property, daggers, dirks, stilettoes, and knives having blades over 3 inches in length.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The term “explosive” shall have the same meaning as when used in § 121(1) of Title 50, United States Code.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The term “act of physical violence” means any act involving:</text>
+        <para>
+          <num>(A)</num>
+          <text>An assault or any other infliction or threat of infliction of death or bodily harm upon any individual; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Damage to or destruction of any real property or personal property.</text>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation>July 31, 1946, 60 Stat. 721, ch. 707, § 16(a)</annotation>
+          <annotation doc="Pub. L. 90-108">Oct. 20, 1967, 81 Stat. 277, Pub. L. 90-108, § 1(d)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Cross References</heading>
+          <annotation>District planning, responsibilities of mayor, see § <cite path="§1-204.23">1-204.23</cite>.</annotation>
+          <annotation>National Capital Planning Commission, see § <cite path="§2-1002">2-1002</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§1-204.23">1-204.23</cite>, § <cite path="§1-207.39">1-207.39</cite>, and § <cite path="§2-1002">2-1002</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 9-128.</annotation>
+          <annotation>1973 Ed., § 9-132.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>References in Text</heading>
+          <text>Section 901(3) of Title 15, United States Code, referred to in paragraph (2) of this section, was repealed by the Act of June 19, 1968, 82 Stat. 234, Pub. L. 90-351, § 906.</text>
+          <text>Section 121(1) of Title 50, United States Code, referred to in paragraph (4) of this section, was repealed by the Act of October 15, 1970, 84 Stat. 960, Pub. L. 91-452, § 1106(a).</text>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
 </document>

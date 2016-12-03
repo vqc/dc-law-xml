@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns:ns0="http://www.w3.org/2001/XInclude">
+  <heading>The 50th Congress</heading>
+  <subheading>Public Laws</subheading>
+  <ns0:include href="./laws/public/50-2-ch676.xml"/>
+  <ns0:include href="./laws/public/50-2-ch30.xml"/>
+  <ns0:include href="./laws/public/50-1-ch390.xml"/>
+  <ns0:include href="./laws/public/50-1-ch355.xml"/>
+  <ns0:include href="./laws/public/50-1-ch272.xml"/>
+  <ns0:include href="./laws/public/50-1-ch49.xml"/>
+</collection>

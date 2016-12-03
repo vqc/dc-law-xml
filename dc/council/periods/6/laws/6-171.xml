@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 6-171">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 6-171">
   <num type="law">6-171</num>
   <heading type="short">District of Columbia Enterprise Zone Study Commission Act of 1986</heading>
   <meta>
@@ -12,4 +12,215 @@
       <narrative>Law 6-171, the “District of Columbia Enterprise Zone Study Commission Act of 1986,” was introduced in Council and assigned Bill No. 6-431, which was referred to the Committee on Housing and Economic Development. The Bill was adopted on first and second readings on September 23, 1986 and October 7, 1986, respectively. Signed by the Mayor on October 30, 1986, it was assigned Act No. 6-220 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|VI"/>
+    <num codify:value="2-1211.01">2</num>
+    <heading>Statement of purpose.</heading>
+    <text>The purpose of this subchapter is to create a commission to examine and evaluate proposals, recommendations, and studies in order to establish an enterprise zone or zones in blighted and underdeveloped areas of the District of Columbia (“District”). The commission shall submit a comprehensive plan to the Council of the District of Columbia (“Council”), consistent with historic and residential concerns, to provide for the establishment of an enterprise zone or zones in the District, which will encourage the elimination of economic problems in blighted and underdeveloped areas, foster the growth of small business, and lead to higher employment and economic development.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-171">Feb. 24, 1987, D.C. Law 6-171, § 2, 33 DCR 7205</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2251.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|VI"/>
+    <num codify:value="2-1211.02">3</num>
+    <heading>Findings.</heading>
+    <text>The Council finds that:</text>
+    <para>
+      <num>(1)</num>
+      <text>Unemployment in some areas of the District exceeds 10%.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The incidence of business dislocation in the District is alarming.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Many areas of the District suffer from the overall pattern of urban blight seen in other northeastern American cities.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Blighted areas have become a haven for criminal activity and have had a detrimental effect on the residential life of surrounding areas.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Enterprise zones established in other jurisdictions have created an aggregate of over 80,000 jobs and $3 billion in investments.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The promotion of small business growth will lead to a better climate for employment and a better life for District residents.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-171">Feb. 24, 1987, D.C. Law 6-171, § 3, 33 DCR 7205</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2252.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|VI"/>
+    <num codify:value="2-1211.03">4</num>
+    <heading>Commission established.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established the District of Columbia Enterprise Zone Study Commission (“Commission”).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The commission shall be composed of 25 members who shall be appointed as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>One member shall be appointed by each member of the Council; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Twelve members shall be appointed by the Mayor of the District of Columbia (“Mayor”), 1 of whom the Mayor shall appoint as the chairperson of the commission. In making his appointments, the Mayor shall appoint at least 6 people, each with experience or expertise in 1 of the following areas:</text>
+        <para>
+          <num>(A)</num>
+          <text>Real estate development;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Banking and lending;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Finance and taxation;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Historic preservation;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Housing development;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Business and management; or</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>Labor and employee interests.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A majority of the members of the commission shall constitute a quorum. A quorum of the members shall be necessary for the commission to conduct its business.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Vacancies in the commission shall be filled in the same manner as the original appointment.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-171">Feb. 24, 1987, D.C. Law 6-171, § 4, 33 DCR 7205</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2253.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|VI"/>
+    <num codify:value="2-1211.04">5</num>
+    <heading>Duties of commission.</heading>
+    <text>The commission shall develop a method for the evaluation of a strategy to establish and implement an enterprise zone or zones in the District. The process shall include: The evaluation and consideration of a method to best select proposed sites for an enterprise zone or zones; tax incentives based on the number of new employees; exemptions from sales taxes on materials used in construction; abatement in real estate taxes; tax credits or deductions for capital improvements or employee training; low interest loans to help businesses get started; and reduction of business taxes to a level equal to or below that of the surrounding jurisdictions.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-171">Feb. 24, 1987, D.C. Law 6-171, § 5, 33 DCR 7205</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2254.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|VI"/>
+    <num codify:value="2-1211.05">6</num>
+    <heading>Commission report.</heading>
+    <text>The commission shall complete its work and submit its report with recommendations to the Council no later than 12 months following the first meeting of the commission. Upon filing its report, all authority for the commission shall expire.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-171">Feb. 24, 1987, D.C. Law 6-171, § 6, 33 DCR 7205</annotation>
+        <annotation doc="D.C. Law 7-137">July 29, 1988, D.C. Law 7-137, § 2, 35 DCR 4262</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2255.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|VI"/>
+    <num codify:value="2-1211.06">7</num>
+    <heading>Compensation; assistance from other agencies.</heading>
+    <para>
+      <num>(a)</num>
+      <text>No compensation shall be paid to the members of the commission, but commission members may be reimbursed for actual expenses incurred in the performance of their duties.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor shall provide office space and an appropriate staff of professional and clerical personnel to assist the commission in carrying out the duties assigned to it under this subchapter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor shall designate at least 1 employee from each of the following District agencies to serve as a liaison to the commission for the purpose of providing any information from the agency requested by the commission and lending needed assistance to the commission in performing its duties:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Office of Business and Economic Development;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department of Housing and Community Development;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Redevelopment Land Agency;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Department of Finance and Revenue;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Department of Consumer and Regulatory Affairs; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Any other agency the Mayor deems appropriate.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 6-171">Feb. 24, 1987, D.C. Law 6-171, § 7, 33 DCR 7205</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2256.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Pursuant to the Office of the Chief Financial Officer’s “Notice of Public Interest” published in the April 18, 1997, issue of the District of Columbia Register ( 44 DCR 2345) the Office of Tax and Revenue assumed all of the duties and functions previously performed by the Department of Finance and Revenue, as set forth in Commissioner’s Order 69-96, dated March 7, 1969. This action was made effective January 22, 1997, nunc pro tunc.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 88-503">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 88-503">
   <num>88-503</num>
   <meta>
     <effective>1964-08-30</effective>
@@ -7,4 +7,377 @@
       <law session="88" lawId="503"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3601">2</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 620, Pub. L. 88-503, § 2</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(a)(1), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2601.</annotation>
+        <annotation>1973 Ed., § 2-2401.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3602">32</num>
+    <heading>Fraudulent acts unlawful.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 623, Pub. L. 88-503, § 32</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2602.</annotation>
+        <annotation>1973 Ed., § 2-2402.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3603">4</num>
+    <heading>License — Required; expiration.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 623, Pub. L. 88-503, § 4</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2603.</annotation>
+        <annotation>1973 Ed., § 2-2403.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3604">5</num>
+    <heading>License — Application; fees; net capital requirements; bond; renewal.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 625, Pub. L. 88-503, § 5</annotation>
+        <annotation doc="D.C. Law 3-133">Mar. 5, 1981, D.C. Law 3-133, § 2(a)-(e), 27 DCR 4417</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(a)(2), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2604.</annotation>
+        <annotation>1973 Ed., § 2-2404.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3605">6</num>
+    <heading>Unlawful representations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 625, Pub. L. 88-503, § 6</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(a)(2), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2605.</annotation>
+        <annotation>1973 Ed., § 2-2405.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3606">7</num>
+    <heading>Records; reports.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 625, Pub. L. 88-503, § 7</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(a)(2), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 5(a), 45 DCR 745</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2606.</annotation>
+        <annotation>1973 Ed., § 2-2406.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3607">8</num>
+    <heading>Filing of sales and advertising literature.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 625, Pub. L. 88-503, § 8</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(a)(2), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2607.</annotation>
+        <annotation>1973 Ed., § 2-2407.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3608">9</num>
+    <heading>False or misleading filings.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 626, Pub. L. 88-503, § 9</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(a)(2), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2608.</annotation>
+        <annotation>1973 Ed., § 2-2408.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3609">10</num>
+    <heading>Denial, revocation, suspension, cancellation, and withdrawal of license.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 626, Pub. L. 88-503, § 10</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(a)(2), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 5(b), 45 DCR 745</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2609.</annotation>
+        <annotation>1973 Ed., § 2-2409.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3610">11</num>
+    <heading>Investigations.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 628, Pub. L. 88-503, § 11</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 571, Pub. L. 91-358, title I, § 155(c)(11)(A)</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(a)(2), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 5(c), 45 DCR 745</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2610.</annotation>
+        <annotation>1973 Ed., § 2-2410.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3611">12</num>
+    <heading>Injunctions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 629, Pub. L. 88-503, § 12</annotation>
+        <annotation doc="Pub. L. 91-358">July 29, 1970, 84 Stat. 571, Pub. L. 91-358, title I, § 155(c)(11) (B)</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(a)(2), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2611.</annotation>
+        <annotation>1973 Ed., § 2-2411.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3612">13</num>
+    <heading>Criminal penalties.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 629, Pub. L. 88-503, § 13</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2612.</annotation>
+        <annotation>1973 Ed., § 2-2412.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3613">14</num>
+    <heading>Civil liabilities.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 629, Pub. L. 88-503, § 14</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2613.</annotation>
+        <annotation>1973 Ed., § 2-2413.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3615">15</num>
+    <heading>Application of chapter; service of process.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 630, Pub. L. 88-503, § 15</annotation>
+        <annotation doc="D.C. Law 3-133">Mar. 5, 1981, D.C. Law 3-133, § 2(f), 27 DCR 4417</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(a)(2), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 5(d), 45 DCR 745</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2615.</annotation>
+        <annotation>1973 Ed., § 2-2414.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3616">16</num>
+    <heading>Administration of chapter.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 632, Pub. L. 88-503, § 16</annotation>
+        <annotation doc="D.C. Law 2-139">Mar. 3, 1979, D.C. Law 2-139, § 3205(f), 25 DCR 5740</annotation>
+        <annotation doc="D.C. Law 3-70">June 14, 1980, D.C. Law 3-70, § 7(a), 27 DCR 1776</annotation>
+        <annotation doc="D.C. Law 3-133">Mar. 5, 1981, D.C. Law 3-133, § 2(f), 27 DCR 4417</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(a)(3), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2616.</annotation>
+        <annotation>1973 Ed., § 2-2415.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3617">18</num>
+    <heading>District of Columbia Securities Advisory Committee.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 633, Pub. L. 88-503, § 18</annotation>
+        <annotation doc="D.C. Law 3-133">Mar. 5, 1981, D.C. Law 3-133, § 2(f), 27 DCR 4417</annotation>
+        <annotation doc="D.C. Law 11-268">May 21, 1997, D.C. Law 11-268, § 10(a)(4), 44 DCR 1730</annotation>
+        <annotation doc="D.C. Law 12-81">Mar. 24, 1998, D.C. Law 12-81, § 5(e), 45 DCR 745</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2617.</annotation>
+        <annotation>1973 Ed., § 2-2416.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Change in Government</heading>
+        <annotation>This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 401 of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to a single Commissioner. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3618">19</num>
+    <heading>Severability.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 633, Pub. L. 88-503, § 19</annotation>
+        <annotation doc="D.C. Law 3-133">Mar. 5, 1981, D.C. Law 3-133, § 2(f), 27 DCR 4417</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2618.</annotation>
+        <annotation>1973 Ed., § 2-2417.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|3|36"/>
+    <reason>Repealed</reason>
+    <num codify:value="3-3619">21</num>
+    <heading>Change of name of Public Utilities Commission.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 88-503">Aug. 30, 1964, 78 Stat. 634, Pub. L. 88-503, § 21</annotation>
+        <annotation doc="D.C. Law 3-133">Mar. 5, 1981, D.C. Law 3-133, § 2(f), 27 DCR 4417</annotation>
+        <annotation doc="D.C. Law 13-203">Oct. 26, 2000, D.C. Law 13-203, § 804(a), 47 DCR 7837</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 2-2619.</annotation>
+        <annotation>1973 Ed., § 2-2418.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

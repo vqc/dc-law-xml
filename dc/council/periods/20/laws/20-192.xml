@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 20-192">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 20-192">
   <num type="law">20-192</num>
   <heading type="short">Commission on Health Disparities Establishment Act of 2014</heading>
   <meta>
@@ -12,4 +12,284 @@
       <narrative>Law 20-192, the “Commission on Health Disparities Establishment Act of 2014,” was introduced in Council and assigned Bill No. 20-572. The Bill was adopted on first and second readings on Oct. 7, 2014, and Oct. 28, 2014, respectively. Signed by the Mayor on Nov. 21, 2014, it was assigned Act No. 20-484 and transmitted to Congress for its review. D.C. Law 20-192 became effective on Mar. 10, 2015.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B-i"/>
+    <num codify:value="7-755.01">2</num>
+    <heading>Establishment of the Commission on Health Disparities.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established a Commission on Health Disparities (“Commission”) to prepare comprehensive recommendations to the Department of Health, the Council, and the Mayor that examine health disparities in each election ward of the District.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Commission shall have 9 voting members, who shall be appointed as follows:</text>
+      <para>
+        <num>(1)</num>
+        <para>
+          <num>(A)</num>
+          <text>Six voting members shall be appointed by the Mayor with the advice and consent of the Council, in accordance with § <cite path="§1-523.01">1-523.01</cite>(f).</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Mayor’s initial 6 appointments shall include 3 members appointed to 3-year terms and 3 members appointed to 2-year terms. All subsequent appointments by the Mayor shall be for 3-year terms.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <text>Three voting members shall be appointed by the Council.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The Council’s initial 3 appointments shall be for 1-year terms. All subsequent appointments by the Council shall be for 3-year terms.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The voting members shall have expertise in at least one of the following areas:</text>
+        <para>
+          <num>(A)</num>
+          <text>Health disparities;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Social and human services;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Early learning and education;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Minority communities;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Economic development; and</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Ecology and the environment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Mayor shall appoint the Chairperson of the Commission from among its voting members.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Commission shall have 8 nonvoting advisory members, including the following:</text>
+        <para>
+          <num>(A)</num>
+          <text>The Chairperson of the Committee on Health, who shall serve as an ex-officio member;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Three community advisory members, one each from Wards 5, 7, and 8, appointed by the Council;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>One patient organization representative, appointed by the voting members of the Commission; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The presidents or chief executive officers of 2 District hospitals and a representative from an insurance company who has access to a health disparities database, or their designees.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the purposes of this subsection, the term “patient organization representative” means an individual who works for a nationally or locally recognized organization committed to improving the diagnosis, treatment, and quality of life for individuals suffering from a particular disease or condition.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>All vacancies on the Commission shall be filled in the same manner in which the initial appointment is made.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>All members of the Commission shall be appointed within one year after March 10, 2015.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="-20-192">Mar. 10, 2015, D.C. Law 20-192, § 2, 61 DCR 12403</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B-i"/>
+    <num codify:value="7-755.02">3</num>
+    <heading>Commission duties and functions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Analyze each election ward in the city for health disparities related to the following diseases, conditions, and health indicators:</text>
+        <para>
+          <num>(A)</num>
+          <text>Diabetes;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Asthma;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Infant mortality, including sudden infant death syndrome;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>HIV/AIDS;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Heart disease;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Stroke;</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>Breast cancer, cervical cancer, and prostate cancer;</text>
+        </para>
+        <para>
+          <num>(H)</num>
+          <text>Chronic kidney disease;</text>
+        </para>
+        <para>
+          <num>(I)</num>
+          <text>Mental health;</text>
+        </para>
+        <para>
+          <num>(J)</num>
+          <text>Women’s health issues;</text>
+        </para>
+        <para>
+          <num>(K)</num>
+          <text>Smoking cessation;</text>
+        </para>
+        <para>
+          <num>(L)</num>
+          <text>Oral disease;</text>
+        </para>
+        <para>
+          <num>(M)</num>
+          <text>Immunization rates of children and senior citizens; and</text>
+        </para>
+        <para>
+          <num>(N)</num>
+          <text>Any other disease, condition, or health indicator that the Commission considers appropriate;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Gather information from public hearings, inquires, and studies to understand how the District government may work to eliminate health disparities;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Seek federal grants, if available; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Submit a formal city action plan by March 1st of each year to the Department of Health, the Mayor, and the Council.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The formal city action plan required by subsection (a)(4) of this section hall be a public document and shall include, at a minimum:</text>
+      <para>
+        <num>(1)</num>
+        <text>A report of the Commission’s findings regarding the prevalence and severity of the diseases, conditions, or health indicators studied that highlight the election ward and demographic most affected; possible steps that can be taken by the District government to remedy these issues; and, expected outcomes that will result from taking the recommended steps; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Draft legislation, regulations, amendments to statutes or regulations, or any other specific steps for implementing the recommendations described in paragraph (1) of this subsection.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="-20-192">Mar. 10, 2015, D.C. Law 20-192, § 3, 61 DCR 12403</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B-i"/>
+    <num codify:value="7-755.03">4</num>
+    <heading>Commission procedure and powers.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Commission shall meet at least once a quarter to share findings regarding the prevalence and severity of health disparities that exist in each election ward.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chairperson of the Commission, or his or her designee, who must be a member of the Commission, shall convene all Commission meetings.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>A majority of the voting members appointed to the Commission at any given time shall constitute a quorum for the transaction of official business. Official actions of the Commission shall be taken by a majority vote of the voting members present at the meeting.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Commission may use space and supplies owned or rented by the District government and use staff loaned from the Council or detailed by the Mayor for purposes consistent with this chapter as the Commission may determine.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="-20-192">Mar. 10, 2015, D.C. Law 20-192, § 4, 61 DCR 12403</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|7|7B-i"/>
+    <num codify:value="7-755.04">5</num>
+    <heading>Commission on Health Disparities Fund.</heading>
+    <para>
+      <num>(a)</num>
+      <text>There is established as a special fund the Commission on Health Disparities Fund (“Fund”), which shall be administered by the Commission in accordance with subsections (b) and (c) of this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Revenue from the following sources shall be deposited into the Fund:</text>
+      <para>
+        <num>(1)</num>
+        <text>Appropriations;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Private gifts or donations; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Federal grants, when awarded.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Money in the Fund shall be used to fulfill the functions and duties of the Commission, as set forth in § <cite path="§7-755.02">7-755.02</cite>.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(1)</num>
+        <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="-20-192">Mar. 10, 2015, D.C. Law 20-192, § 5, 61 DCR 12403</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 10-236">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 10-236">
   <num type="law">10-236</num>
   <heading type="short">Contractors Guarantee Association Act of 1994</heading>
   <meta>
@@ -12,4 +12,74 @@
       <narrative>Law 10-236, the “Contractors Guarantee Association Act of 1994,” was introduced in Council and assigned Bill No. 10-535, which was referred to the Committee on Public Services and Youth Affairs. The Bill was adopted on first and second readings on November 1, 1994, and December 6, 1994, respectively. Signed by the Mayor on December 27, 1994, it was assigned Act No. 10-379 and transmitted to both Houses of Congress for its review. D.C. Law 10-236 became effective on March 21, 1995.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|VII"/>
+    <reason>Expired</reason>
+    <num codify:value="2-1213.01">2</num>
+    <heading>Technical Assistance Program.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-236">Mar. 21, 1995, D.C. Law 10-236, § 2, 42 DCR 33</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2261.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 10-236</text>
+        <text>Section 6(b) of <cite doc="D.C. Law 10-236">D.C. Law 10-236</cite> provided that the act shall expire 3 years after having taken effect. <cite doc="D.C. Law 10-236">D.C. Law 10-236</cite>, which added §§ <cite path="§1-2261">1-2261</cite> to 1-2263 §§ <cite path="§2-1213.01">2-1213.01</cite> to 2-1213.03, 2001 Ed., became effective on March 21, 1995.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|VII"/>
+    <reason>Expired</reason>
+    <num codify:value="2-1213.02">3</num>
+    <heading>Contractor fees.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-236">Mar. 21, 1995, D.C. Law 10-236, § 3, 42 DCR 33</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2262.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 10-236</text>
+        <text>See Historical and Statutory Notes following § <cite path="§2-1213.01">2-1213.01</cite>.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|VII"/>
+    <reason>Expired</reason>
+    <num codify:value="2-1213.03">4</num>
+    <heading>Establishment of Financial Assurance Fund.</heading>
+    <text>Expired.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 10-236">Mar. 21, 1995, D.C. Law 10-236, § 4, 42 DCR 33</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2263.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 10-236</text>
+        <text>See Historical and Statutory Notes following § <cite path="§2-1213.01">2-1213.01</cite>.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Revision of subchapter: <cite doc="D.C. Law 12-26">D.C. Law 12-26</cite> revised this subchapter by renumbering former §§ <cite path="§1-2271">1-2271</cite> through <cite path="§1-2291">1-2291</cite> as §§ <cite path="§1-2272">1-2272</cite> through <cite path="§1-2292">1-2292</cite> [§§ <cite path="§2-1215.02">2-1215.02</cite> through <cite path="§2-1215.22">2-1215.22</cite>, 2001 Ed.], and by adding § <cite path="§1-2271">1-2271</cite> [§ <cite path="§2-1215.01">2-1215.01</cite>, 2001 Ed.].</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

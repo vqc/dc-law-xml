@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 5-89">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 5-89">
   <num type="law">5-89</num>
   <heading type="short">District of Columbia Economic Development Finance Corporation Act of 1984</heading>
   <meta>
@@ -12,4 +12,298 @@
       <narrative>Law 5-89, the “District of Columbia Economic Development Finance Corporation Act of 1984,” was introduced in Council and assigned Bill No. 5-41, which was referred to the Committee on Housing and Economic Development. The Bill was adopted on first and second readings on April 10, 1984 and April 30, 1984, respectively. Signed by the Mayor on May 9, 1984, it was assigned Act No. 5-130 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1207.01">2</num>
+    <heading>Findings.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-89">June 29, 1984, D.C. Law 5-89, § 2, 31 DCR 2514</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 7, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2211.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Transfer of powers, duties, and responsibilities from Board of Directors of Economic Development Finance Corporation: Section 30(b) of <cite doc="D.C. Law 12-144">D.C. Law 12-144</cite> provided for the transfer of the powers, duties, and responsibilities of the Board of Directors of the Economic Development Finance Corporation to the Board of Directors of the National Capital Revitalization Corporation, and for the abolition of the Board of Directors of the Economic Development Finance Corporation.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1207.02">33</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-89">June 29, 1984, D.C. Law 5-89, § 33, 31 DCR 2514</annotation>
+        <annotation doc="D.C. Law 10-236">Mar. 21, 1995, D.C. Law 10-236, § 5(a), 42 DCR 33</annotation>
+        <annotation doc="D.C. Law 12-144">Sept. 11, 1998, D.C. Law 12-144, § 31(b)(1), 45 DCR 3747</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 7, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2212.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 33(b)(2) of <cite doc="D.C. Law 12-144">D.C. Law 12-144</cite> provided that § 31(b) shall take effect on the latter of: (A) the effective Dates of this act; or (B) the Dates determined by the Board, but not later than one year after the initial meeting of the Board.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 10-236</text>
+        <text>Section 6(b) of <cite doc="D.C. Law 10-236">D.C. Law 10-236</cite> provided that the act shall expire 3 years after having taken effect. <cite doc="D.C. Law 10-236">D.C. Law 10-236</cite>, which had inserted paragraphs (3A), (7A), and (14A), became effective on March 21, 1995.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1207.03">4</num>
+    <heading>Economic Development Finance Corporation—Established; composition; appointment; term of office; vacancies; quorum; reimbursement for expenses.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-89">June 29, 1984, D.C. Law 5-89, § 4, 31 DCR 2514</annotation>
+        <annotation doc="D.C. Law 5-186">March. 16, 1985, D.C. Law 5-186, § 2, 32 DCR 870</annotation>
+        <annotation doc="D.C. Law 10-236">March 21, 1995, D.C. Law 10-236, § 5(b), 42 DCR 33</annotation>
+        <annotation doc="D.C. Law 12-144">D.C. Law 12-144, § 31(b)(2), 45 DCR 3747</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 7, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2213.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 33(b)(2) of <cite doc="D.C. Law 12-144">D.C. Law 12-144</cite> provided that § 31(b) shall take effect on the latter of: (A) the effective Dates of this act; or (B) the Dates determined by the Board, but not later than one year after the initial meeting of the Board.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 10-236</text>
+        <text>Section 6(b) of <cite doc="D.C. Law 10-236">D.C. Law 10-236</cite> provided that the act shall expire 3 years after having taken effect. <cite doc="D.C. Law 10-236">D.C. Law 10-236</cite>, which had amended (b), became effective on March 21, 1995.</text>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Council determination of satisfactory commitment from private sources: Pursuant to Resolution 6-557, the “Economic Development Finance Corporation Commitment Resolution of 1986,” effective February 25, 1986, the Council determined that there were satisfactory commitments from private sources to warrant the expenditure of public funds for the activities of the District of Columbia Economic Development Finance Corporation.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1207.04">5</num>
+    <heading>Economic Development Finance Corporation—President.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-89">June 29, 1984, D.C. Law 5-89, § 5, 31 DCR 2514</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 7, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2214.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1207.05">6</num>
+    <heading>Conflict of interest.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-89">June 29, 1984, D.C. Law 5-89, § 6, 31 DCR 2514</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 7, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2215.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1207.06">7</num>
+    <heading>Powers of Corporation.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-89">June 29, 1984, D.C. Law 5-89, § 7, 31 DCR 2514</annotation>
+        <annotation doc="D.C. Law 10-236">Mar. 21, 1995, D.C. Law 10-236, § 5(c), 42 DCR 33</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 7, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2216.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Expiration of Law</heading>
+        <text>Expiration of Law 10-236</text>
+        <text>Section 6(b) of <cite doc="D.C. Law 10-236">D.C. Law 10-236</cite> provided that the act shall expire 3 years after having taken effect. <cite doc="D.C. Law 10-236">D.C. Law 10-236</cite>, which had inserted paragraph (21A), became effective on March 21, 1995.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1207.06a">7a</num>
+    <heading>Business Purchase Assistance Program.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-89">June 29, 1984, D.C. Law 5-89, § 7a</annotation>
+        <annotation doc="D.C. Law 6-74">as added Dec. 21, 1985, D.C. Law 6-74, § 2, 32 DCR 6475</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 7, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2223.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Editor's Notes</heading>
+        <annotation>Transfer of powers, duties, and responsibilities from Board of Directors of Economic Development Finance Corporation: Section 30(b) of <cite doc="D.C. Law 12-144">D.C. Law 12-144</cite> provided for the transfer of the powers, duties, and responsibilities of the Board of Directors of the Economic Development Finance Corporation to the Board of Directors of the National Capital Revitalization Corporation, and for the abolition of the Board of Directors of the Economic Development Finance Corporation.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1207.07">8</num>
+    <heading>Capitalization.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-89">June 29, 1984, D.C. Law 5-89, § 8, 31 DCR 2514</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 7, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2217.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1207.08">9</num>
+    <heading>Project criteria.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-89">June 29, 1984, D.C. Law 5-89, § 9, 31 DCR 2514</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 7, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2218.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1207.09">10</num>
+    <heading>Rules and regulations; sponsorship of projects; application by for-profit subsidiary corporation.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-89">June 29, 1984, D.C. Law 5-89, § 10, 31 DCR 2514</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 7, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2219.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority for District of Columbia Economic Development Finance Corporation Act of 1984, see Mayor’s Order 84-169, September 27, 1984.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1207.10">11</num>
+    <heading>Biennial audit; report of audit; annual report of operation.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-89">June 29, 1984, D.C. Law 5-89, § 11, 31 DCR 2514</annotation>
+        <annotation doc="D.C. Law 11-152">Aug. 1, 1996, D.C. Law 11-152, § 401, 43 DCR 2978</annotation>
+        <annotation doc="D.C. Law 13-172">Oct. 19, 2000, D.C. Law 13-172, § 2403, 47 DCR 6308</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 7, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2220.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90-day) amendment of section, see § 2403 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1207.11">12</num>
+    <heading>Minority Enterprise Small Business Investment Company and Small Business Investment Company.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-89">June 29, 1984, D.C. Law 5-89, § 12, 31 DCR 2514</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 7, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2221.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|2|12|IV"/>
+    <reason>Repealed</reason>
+    <num codify:value="2-1207.12">13</num>
+    <heading>Title to property upon dissolution.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 5-89">June 29, 1984, D.C. Law 5-89, § 13, 31 DCR 2514</annotation>
+        <annotation doc="D.C. Law 14-213">Oct. 19, 2002, D.C. Law 14-213, § 7, 49 DCR 8140</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-2222.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Temporary Addition of Section</heading>
+        <annotation>For temporary (225 day) addition of sections, see §§ 2 to 6 of the Emergency Economic Assistance Temporary Act of 2001 (<cite doc="D.C. Law 14-74">D.C. Law 14-74</cite>, on March 6, 2002, law notification  49 DCR 2808).</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Emergency Legislation</heading>
+        <annotation>For temporary (90 day) emergency economic assistance to transportation, tourism, restaurant, catering, and lodging industries, see §§ 2 to 6 of Emergency Economic Assistance Emergency Act of 2001 (D.C. Act 14-163, November 2, 2001,  48 DCR 10404), see §§ 2 to 6 of Emergency Economic Assistance Congressional Review Emergency Act of 2002 (D.C. Act 14-260, January 30, 2002,  49 DCR 1433).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

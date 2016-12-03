@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 108-386">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 108-386">
   <num>108-386</num>
   <meta>
     <effective>2004-10-30</effective>
@@ -7,4 +7,42 @@
       <law session="108" lawId="386"/>
     </cites>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|5|I"/>
+    <num codify:value="1-510">6</num>
+    <heading>Exemption of District government employees on compressed schedule from federal overtime requirements.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>In general. —</heading>
+      <text>Section 7 of the Fair Labor Standards Act (29 U.S.C. § 207) shall not apply to the hours of an employee of the District of Columbia government which constitute a compressed schedule.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Compressed schedule defined. —</heading>
+      <text>In this section, the term “compressed schedule” means:</text>
+      <para>
+        <num>(1)</num>
+        <text>In the case of a full-time employee, an 80-hour biweekly basic work requirement which is scheduled for less than 10 workdays; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the case of a part-time employee, a biweekly basic work requirement of less than 80 hours which is scheduled for less than 10 workdays.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Effective date. —</heading>
+      <text>This section shall apply with respect to hours occurring on or after October 30, 2004.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 108-386">Oct. 30, 2004, 118 Stat. 2230, Pub. L. 108-386, § 6</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 9 of Pub. L. 108-386, 118 Stat. 2228, the 2004 District of Columbia Omnibus Authorization Act, provided: “The amendments made by this section shall take effect on the date of the enactment of this Act Oct. 30, 2004.”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

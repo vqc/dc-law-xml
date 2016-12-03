@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 1-72" flag="true">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="D.C. Law 1-72" flag="true">
   <num type="law">1-72</num>
   <meta>
     <effective>1976-06-19</effective>
@@ -11,4 +11,168 @@
       <narrative>Law 1-72 was introduced in Council and assigned Bill No. 1-233, which was referred to the Advisory Committee. The Bill was adopted on first and second readings on March 9, 1976 and March 23, 1976, respectively. Signed by the Mayor on April 26, 1976, it was assigned Act No. 1-108 and transmitted to both Houses of Congress for its review.</narrative>
     </history>
   </meta>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|V|B"/>
+    <reason>Repealed</reason>
+    <num codify:value="1-309.31">2</num>
+    <heading>Definitions.</heading>
+    <text>Repealed.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-72">June 19, 1976, D.C. Law 1-72, § 2, 23 DCR 574</annotation>
+        <annotation doc="D.C. Law 13-135">June 27, 2000, D.C. Law 13-135, § 5, 47 DCR 2741</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-265.</annotation>
+        <annotation>1973 Ed., § 1-171m.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|V|B"/>
+    <num codify:value="1-309.32">3</num>
+    <heading>Supplementary petitions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>As soon as possible after June 19, 1976, but in no case more than 5 days after such date, the Board shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Make available to any resident of a Commission area copies of petition forms for collecting signatures of registered qualified electors in such area; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Publish in the District of Columbia Register, and post in conspicuous places in each Commission area, the number of registered qualified electors in such Commission area.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Upon certification by the Board to the Chairman of the Council that 5 percent of the registered qualified electors of a Commission area have signed a petition calling for the establishment of an Advisory Neighborhood Commission in such area, the Council shall then establish, by resolution, a nonpartisan elected Advisory Neighborhood Commission for such Commission area, with its members to be elected from the single-member districts established for such Commission area. Nothing in this section shall be construed to permit an individual to sign more than 1 petition for the establishment of an Advisory Neighborhood Commission.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-72">June 19, 1976, D.C. Law 1-72, § 3, 23 DCR 575</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-266.</annotation>
+        <annotation>1973 Ed., § 1-171n.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|V|B"/>
+    <num codify:value="1-309.33">4</num>
+    <heading>Qualifications of members.</heading>
+    <text>Members of the Advisory Neighborhood Commissions which are established pursuant to the provisions of this part shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Be nominated in the manner prescribed in § <cite path="§1-309.05">1-309.05</cite>(b); and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Have those qualifications specified in § <cite path="§1-309.05">1-309.05</cite>(a).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-72">June 19, 1976, D.C. Law 1-72, § 4, 23 DCR 576</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-267.</annotation>
+        <annotation>1973 Ed., § 1-171o.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|V|B"/>
+    <num codify:value="1-309.34">5</num>
+    <heading>Election of members; term of office; vacancies; change in residency.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Following the initial elections of members of Advisory Neighborhood Commissions in November 1976, subsequent elections of such members occurred in November of odd-numbered calendar years through 1981. Beginning in 1984, general elections of members of Advisory Neighborhood Commissions shall take place on the 1st Tuesday after the 1st Monday in November of each even-numbered calendar year.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>Each member of an Advisory Neighborhood Commission shall serve for a term of 2 years which shall begin at noon on the 2nd day of January next following the date of election of such member, or at noon on the day after the date the Board certifies the election of such member, whichever is later.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Repealed.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Each member of an Advisory Neighborhood Commission holding office on August 2, 1983, shall continue in office until noon on the 2nd day of January next following the date of the election provided for in paragraph (2) [repealed] of this subsection.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The provisions of subsections (c) [repealed], (d), and (e) of § <cite path="§1-309.06">1-309.06</cite> shall apply to members elected to such Advisory Neighborhood Commissions.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-72">June 19, 1976, D.C. Law 1-72, § 5, 23 DCR 576</annotation>
+        <annotation doc="D.C. Law 5-17">Aug. 2, 1983, D.C. Law 5-17, § 3, 30 DCR 3196</annotation>
+        <annotation doc="D.C. Law 5-116">Sept. 26, 1984, D.C. Law 5-116, § 2, 31 DCR 4018</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Elections, board of education, see § <cite path="§1-1001.10">1-1001.10</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-268.</annotation>
+        <annotation>1973 Ed., § 1-171p.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <text>“Paragraph (2) of this subsection”, which established the term of members elected in 1984, referred to in (b)(3), was repealed by <cite doc="D.C. Law 5-116">D.C. Law 5-116</cite>, § 3(b), effective September 26, 1984.</text>
+        <text>Section 1-309.06(c), referred to in subsection (c), was repealed by <cite doc="D.C. Law 4-14">D.C. Law 4-14</cite>, § 2(b), effective June 23, 1981.</text>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|V|B"/>
+    <num codify:value="1-309.35">6</num>
+    <heading>Applicability of other provisions of law.</heading>
+    <text>Except to the extent specifically provided in this part, those provisions of the Advisory Neighborhood Commissions Act of 1975, including the amendments made by that Act, and all other provisions of law relating to Advisory Neighborhood Commissions, shall apply to the Advisory Neighborhood Commissions established pursuant to the provisions of this part.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-72">June 19, 1976, D.C. Law 1-72, § 6, 23 DCR 577</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-269.</annotation>
+        <annotation>1973 Ed., § 1-171q.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>The Advisory Neighborhood Commissions Act of 1975, referred to in this section, is the Act of October 10, 1975, <cite doc="D.C. Law 1-21">D.C. Law 1-21</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|1|3|V|B"/>
+    <num codify:value="1-309.36">8</num>
+    <heading>Regulations.</heading>
+    <text>The Board is authorized to adopt, amend, repeal, and enforce such regulations as are necessary to carry out the provisions of this part, and is further directed to take such steps as are necessary to ensure that the election provided for under this part is held in an efficient manner.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="D.C. Law 1-72">June 19, 1976, D.C. Law 1-72, § 8, 23 DCR 578</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 1-270.</annotation>
+        <annotation>1973 Ed., § 1-171r.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>

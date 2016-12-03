@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document id="Pub. L. 97-241">
+<document xmlns:codify="http://code.dccouncil.us/schemas/codify" id="Pub. L. 97-241">
   <num>97-241</num>
   <meta>
     <effective>1982-08-24</effective>
@@ -7,4 +7,957 @@
       <law session="97" lawId="241"/>
     </cites>
   </meta>
+  <section>
+    <num>202</num>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" before="§6-1302" path="|6|13"/>
+      <num codify:value="6-1301">(b)</num>
+      <heading>Congressional findings and policy.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Congress finds that the operation in the United States of foreign missions and public international organizations and the official missions to such organizations, including the permissible scope of their activities and the location and size of their facilities, is a proper subject for the exercise of federal jurisdiction.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Congress declares that it is the policy of the United States to support the secure and efficient operation of United States missions abroad, to facilitate the secure and efficient operation in the United States of foreign missions and public international organizations and the official missions to such organizations, and to assist in obtaining appropriate benefits, privileges, and immunities for those missions and organizations and to require their observance of corresponding obligations in accordance with international law.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The treatment to be accorded to a foreign mission in the United States shall be determined by the Secretary after due consideration of the benefits, privileges, and immunities provided to missions of the United States in the country or territory represented by that foreign mission, as well as matters relating to the protection of the interests of the United States.</text>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 97-241">Aug. 24, 1982, 96 Stat. 283, Pub. L. 97-241, § 202(b)</annotation>
+          <annotation doc="Pub. L. 99-93">Aug. 16, 1985, 99 Stat. 405, Pub. L. 99-93, § 127(a)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§6-1309">6-1309</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 5-1201.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effective Dates</heading>
+          <annotation>Section 204 of Public Law 97-241 provided that the amendments made by title II shall take effect on October 1, 1982.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+    <para from-code="true" codify:tag="section">
+      <codify:insert doc="D.C. Code" path="|6|13"/>
+      <num codify:value="6-1303">(b)</num>
+      <heading>Office of Foreign Missions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Secretary shall establish an Office of Foreign Missions as an office within the Department of State. The Office shall be headed by a Director, appointed by the President by and with the advice and consent of the Senate, who shall perform his or her functions under the supervision and direction of the Secretary. The Secretary may delegate this authority for supervision and direction of the Director only to the Deputy Secretary of State or an Under Secretary of State. The Director shall have the rank of ambassador. The Director shall be an individual who is a member of the Foreign Service, who has been a member of the Foreign Service for at least 10 years, who has significant administrative experience, and who has served in countries in which the United States has had significant problems in assuring the secure and efficient operations of its missions as the result of the actions of other countries.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>There shall also be a Deputy Director of the Office of Foreign Missions who shall be an individual who has served in the United States intelligence community.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Secretary may authorize the Director to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Assist agencies of federal, state, and municipal government with regard to ascertaining and according benefits, privileges, and immunities to which a foreign mission may be entitled;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Provide or assist in the provision of benefits for or on behalf of a foreign mission in accordance with § <cite path="§6-1304">6-1304</cite>; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Perform such other functions as the Secretary may determine necessary in furtherance of the policy of this chapter.</text>
+        </para>
+      </para>
+      <annotations>
+        <annoGroup>
+          <heading>History</heading>
+          <annotation doc="Pub. L. 97-241">Aug. 24, 1982, 96 Stat. 284, Pub. L. 97-241, § 202(b)</annotation>
+          <annotation doc="Pub. L. 98-164">Nov. 22, 1983, 97 Stat. 1017, Pub. L. 98-164, § 604(a), (b)</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Section References</heading>
+          <annotation>This section is referenced in § <cite path="§6-1302">6-1302</cite> and § <cite path="§6-1307">6-1307</cite>.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Prior Codifications</heading>
+          <annotation>1981 Ed., § 5-1203.</annotation>
+        </annoGroup>
+        <annoGroup>
+          <heading>Effective Dates</heading>
+          <annotation>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § <cite path="§6-1301">6-1301</cite>.</annotation>
+        </annoGroup>
+      </annotations>
+    </para>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1304">204</num>
+    <heading>Provision of benefits.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Upon the request of a foreign mission, benefits may be provided to or for that foreign mission by or through the Director on such terms and conditions as the Secretary may approve.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>If the Secretary determines that such action is reasonably necessary on the basis of reciprocity or otherwise:</text>
+      <para>
+        <num>(1)</num>
+        <text>To facilitate relations between the United States and a sending state;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To protect the interests of the United States;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To adjust for costs and procedures of obtaining benefits for missions of the United States abroad; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To assist in resolving a dispute affecting United States interests and involving a foreign mission or sending state, then the Secretary may require a foreign mission: (A) to obtain benefits from or through the Director on such terms and conditions as the Secretary may approve; or (B) to forego the acceptance, use, or relation of any benefit or to comply with such terms and conditions as the Secretary may determine as a condition to the execution or performance in the United States of any contract or other agreement, the acquisition, retention, or use of any real property, or the application for or acceptance of any benefit (including any benefit from or authorized by any federal, state, or municipal governmental authority, or any entity providing public services).</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Terms and conditions established by the Secretary under this section may include:</text>
+      <para>
+        <num>(1)</num>
+        <text>A requirement to pay to the Director a surcharge or fee; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A waiver by a foreign mission (or any assignee of or person deriving rights from a foreign mission) of any recourse against any governmental authority, any entity providing public services, any employee or agent of such an authority or entity, or any other person, in connection with any action determined by the Secretary to be undertaken in furtherance of this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>For purposes of effectuating a waiver of recourse which is required under this section, the Secretary may designate the Director or any other officer of the Department of State as the agent of a foreign mission (or of any assignee of or person deriving rights from a foreign mission). Any such waiver by an officer so designated shall for all purposes (including any court or administrative proceeding) be deemed to be a waiver by the foreign mission (or the assignee of or other person deriving rights from a foreign mission).</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Nothing in this chapter shall be deemed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to § 3056 or § 3056A of Title 18, United States Code, at a level commensurate with protective requirements as determined by the United States Secret Service.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, 96 Stat. 284, Pub. L. 97-241, § 204</annotation>
+        <annotation doc="Pub. L. 99-93">Aug. 16, 1985, 99 Stat. 405, Pub. L. 99-93, §§ 126(b), 127(c)</annotation>
+        <annotation doc="Pub. L. 109-177">Mar. 9, 2006, 120 Stat. 255, Pub. L. 109-177, § 605(d)(2)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1303">6-1303</cite>, § <cite path="§6-1307">6-1307</cite>, and § <cite path="§6-1309">6-1309</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1204.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>Pub. L. 109-177, in subsec. (e), substituted “§ 3056 or § 3056A” for “ § 202 of Title 3, United States Code or § 3056”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § <cite path="§6-1301">6-1301</cite>.</annotation>
+        <annotation>Section 126(e) of Pub. L. 99-93 provided that the amendments made by the section shall take effect on October 1, 1985.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1304.01">204A</num>
+    <heading>Notice of lapse of termination of liability insurance; report of motor vehicles, vessels, and aircraft owned by members of mission; fee for unsatisfied judgments or damages.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The head of a foreign mission shall notify promptly the Director of the lapse or termination of any liability insurance coverage held by a member of the mission, by a member of the family of such member, or by an individual described in § 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Not later than February 1 of each year, the head of each foreign mission shall prepare and transmit to the Director a report including a list of motor vehicles, vessels, and aircraft registered in the United States by members of the mission, members of the families of such members, individuals described ins § 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946, and by the mission itself. Such list shall set forth for each such motor vehicle, vessel, or aircraft:</text>
+        <para>
+          <num>(A)</num>
+          <text>The jurisdiction in which it is registered;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The name of the insured;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>The name of the insurance company;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The insurance policy number and the extent of insurance coverage; and</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Such other information as the Director may prescribe.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Whenever the Director finds that a member of a foreign mission, a member of the family of such member, or an individual described in § 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946: (1) is at fault for personal injury, death, or property damage arising out of the operation of a motor vehicle, vessel, or aircraft in the United States; (2) is not covered by liability insurance; and (3) has not satisfied a court-rendered judgment against him or is not legally liable, the Director shall impose a surcharge or fee on the foreign mission of which such member or individual is a part, amounting to the unsatisfied portion of the judgment rendered against such member or individual or, if there is no court-rendered judgment, an estimated amount of damages incurred by the victim. The payment of any such surcharge or fee shall be available only for compensation of the victim or his estate.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>For purposes of this section:</text>
+      <para>
+        <num>(1)</num>
+        <text>The term “head of a foreign mission” has the same meaning as is ascribed to the term “head of a mission” in Article 1 of the Vienna Convention on Diplomatic Relations of April 18, 1961 (T.I.A.S. numbered 7502; 23 U.S.T. 3227); and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The terms “members of a mission” and “family” have the same meaning as is ascribed to them by paragraphs (1) and (2) of § 2 of the Diplomatic Relations Act (22 U.S.C. § 254a).</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, Pub. L. 97-241, § 204A</annotation>
+        <annotation doc="Pub. L. 98-164">as added Nov. 22, 1983, 97 Stat. 1017, Pub. L. 98-164, § 204A</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1204.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § <cite path="§6-1301">6-1301</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1305">205</num>
+    <heading>Property.</heading>
+    <para>
+      <num>(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Secretary shall require any foreign mission, including any mission to an international organization (as defined in § <cite path="§6-1309">6-1309</cite>(b)(2)), to notify the Director prior to any proposed acquisition, or any proposed sale or other disposition, of any real property by or on behalf of such mission. The foreign mission (or other party acting on behalf of the foreign mission) may initiate or execute any contract, proceeding, application, or other action required for the proposed action:</text>
+        <para>
+          <num>(A)</num>
+          <text>Only after the expiration of the 60-day period beginning on the date of such notification (or after the expiration of such shorter period as the Secretary may specify in a given case); and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Only if the mission is not notified by the Secretary within that period that the proposal has been disapproved; however, the Secretary may include in such a notification such terms and conditions as the Secretary may determine appropriate in order to remove the disapproval.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For purposes of this section, “acquisition” includes any acquisition or alteration of, or addition to, any real property or any change in the purpose for which real property is used by a foreign mission.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Secretary may require any foreign mission to divest itself of, or forego the use of, any real property determined by the Secretary:</text>
+      <para>
+        <num>(1)</num>
+        <text>Not to have been acquired in accordance with this section;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To exceed limitations placed on real property available to a United States mission in the sending state; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Where otherwise necessary to protect the interests of the United States.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If a foreign mission has ceased conducting diplomatic, consular, and other governmental activities in the United States and has not designated a protecting power or other agent approved by the Secretary to be responsible for the property of that foreign mission, the Secretary:</text>
+      <para>
+        <num>(1)</num>
+        <text>Until the designation of a protecting power or other agent approved by the Secretary, may protect and preserve any property of that foreign mission; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May authorize the Director to dispose of such property at such time as the Secretary may determine after the expiration of the 1-year period beginning on the date that the foreign mission ceased those activities, and may remit to the sending state the net proceeds from such disposition.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, 96 Stat. 285, Pub. L. 97-241, § 205</annotation>
+        <annotation doc="Pub. L. 99-93">Aug. 16, 1985, 99 Stat. 405, Pub. L. 99-93, § 127(d), (e)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1306">6-1306</cite> and § <cite path="§6-1307">6-1307</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1205.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § <cite path="§6-1301">6-1301</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1306">206</num>
+    <heading>Location in District.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The location, replacement, or expansion of chanceries in the District of Columbia shall be subject to this section.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <para>
+        <num>(1)</num>
+        <text>A chancery shall be permitted to locate as a matter of right in any area which is zoned commercial, industrial, waterfront, or mixed-use (CR).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A chancery shall also be permitted to locate: (A) in any area which is zoned medium-high or high density residential; and (B) in any other area, determined on the basis of existing uses, which includes office or institutional uses, including, but not limited to, any area zoned mixed-use diplomatic or special purpose; subject to disapproval by the District of Columbia Board of Zoning Adjustment in accordance with this section.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In each of the areas described in paragraphs (1) and (2) of this subsection, the limitations and conditions applicable to chanceries shall not exceed those applicable to other office or institutional uses in that area.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>If a foreign mission wishes to locate a chancery in an area described in subsection (b)(2) of this section, or wishes to appeal an administrative decision relating to a chancery based in whole or in part upon any zoning map or regulation, it shall file an application with the Board of Zoning Adjustment which shall publish notice of that application in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Regulations issued to carry out this section shall provide appropriate opportunities for participation by the public in proceedings concerning the location, replacement, or expansion of chanceries.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A final determination concerning the location, replacement, or expansion of a chancery shall be made not later than 6 months after the date of the filing of an application with respect to such location, replacement, or expansion. Such determination shall not be subject to the administrative proceedings of any other agency or official except as provided in this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Any determination concerning the location of a chancery under subsection (b)(2) of this section, or concerning an appeal of an administrative decision with respect to a chancery based in whole or in part upon any zoning regulation or map, shall be based solely on the following criteria:</text>
+      <para>
+        <num>(1)</num>
+        <text>The international obligation of the United States to facilitate the provision of adequate and secure facilities for foreign missions in the Nation’s Capital;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Historic preservation, as determined by the Board of Zoning Adjustment in carrying out this section; and in order to ensure compatibility with historic landmarks and districts, substantial compliance with District of Columbia and federal regulations governing historic preservation shall be required with respect to new construction and to demolition of or alteration to historic landmarks;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The adequacy of off-street or other parking and the extent to which the area will be served by public transportation to reduce parking requirements, subject to such special security requirements as may be determined by the Secretary, after consultation with federal agencies authorized to perform protective services;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The extent to which the area is capable of being adequately protected, as determined by the Secretary, after consultation with federal agencies authorized to perform protective services;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The municipal interest, as determined by the Mayor of the District of Columbia; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The federal interest, as determined by the Secretary.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <para>
+        <num>(1)</num>
+        <text>Regulations, proceedings, and other actions of the National Capital Planning Commission, the Zoning Commission for the District of Columbia, and the Board of Zoning Adjustment affecting the location, replacement, or expansion of chanceries shall be consistent with this section (including the criteria set out in subsection (d) of this section) and shall reflect the policy of this chapter.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Proposed actions of the Zoning Commission concerning implementation of this section shall be referred to the National Capital Planning Commission for review and comment.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Regulations issued to carry out this section shall provide for proceedings of a rule-making and not of an adjudicatory nature.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>The Secretary shall require foreign missions to comply substantially with District of Columbia building and related codes in a manner determined by the Secretary to be not inconsistent with the international obligations of the United States.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>Approval by the Board of Zoning Adjustment or the Zoning Commission or, except as provided in § <cite path="§6-1305">6-1305</cite>, by any other agency or official is not required:</text>
+      <para>
+        <num>(1)</num>
+        <text>For the location, replacement, or expansion of a chancery to the extent that authority to proceed, or rights or interests, with respect to such location, replacement, or expansion were granted to or otherwise acquired by the foreign mission before October 1, 1982; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For continuing use of a chancery by a foreign mission to the extent that the chancery was being used by a foreign mission on October 1, 1982.</text>
+      </para>
+    </para>
+    <para>
+      <num>(i)</num>
+      <para>
+        <num>(1)</num>
+        <text>The President may designate the Secretary of Defense, the Secretary of the Interior, or the Administrator of General Services (or such alternate as such official may from time to time designate) to serve as a member of the Zoning Commission in lieu of the Director of the National Park Service whenever the President determines that the Zoning Commission is performing functions concerning the implementation of this section.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Whenever the Board of Zoning Adjustment is performing functions regarding an application by a foreign mission with respect to the location, expansion, or replacement of a chancery:</text>
+        <para>
+          <num>(A)</num>
+          <text>The representative from the Zoning Commission shall be the Director of the National Park Service or if another person has been designated under paragraph (1) of this subsection, the person so designated; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The representative from the National Capital Planning Commission shall be the Executive Director of that Commission.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>Provisions of law (other than this chapter) applicable with respect to the location, replacement, or expansion of real property in the District of Columbia shall apply with respect to chanceries only to the extent that they are consistent with this section.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, 96 Stat. 286, Pub. L. 97-241, § 206</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Cross References</heading>
+        <annotation>Application of construction code, see § <cite path="§6-1403">6-1403</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1309">6-1309</cite> and § <cite path="§6-1403">6-1403</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1206.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § <cite path="§6-1301">6-1301</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Delegation of Authority</heading>
+        <annotation>Delegation of authority under Law 97-241, see Mayor’s Order 83-106, April 28, 1983.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1307">207</num>
+    <heading>Preemption.</heading>
+    <text>Notwithstanding any other law, no act of any federal agency shall be effective to confer or deny any benefit with respect to any foreign mission contrary to this chapter. Nothing in § <cite path="§6-1302">6-1302</cite>, § <cite path="§6-1303">6-1303</cite>, § <cite path="§6-1304">6-1304</cite>, or § <cite path="§6-1305">6-1305</cite> may be construed to preempt any state or municipal law or governmental authority regarding zoning, land use, health, safety, or welfare, except that a denial by the Secretary involving a benefit for a foreign mission within the jurisdiction of a particular state or local government shall be controlling.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, 96 Stat. 288, Pub. L. 97-241, § 207</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1207.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § <cite path="§6-1301">6-1301</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1308">208</num>
+    <heading>Administrative provisions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Secretary may issue such regulations as the Secretary may determine necessary to carry out the policy of this chapter.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Compliance with any regulation, instruction, or direction issued by the Secretary under this chapter shall to the extent thereof be a full acquittance and discharge for all purposes of the obligation of the person making the same. No person shall be held liable in any court or administrative proceeding for, or with respect to, anything done or omitted in good faith in connection with the administration of, or pursuant to and in reliance on, this chapter, or any regulation, instruction, or direction issued by the Secretary under this chapter.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>For purposes of administering this chapter:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Secretary may accept details and assignments of employees of federal agencies to the Office of Foreign Missions on a reimbursable or nonreimbursable basis (with any such reimbursements to be credited to the appropriations made available for the salaries and expenses of officers and employees of the employing agency); and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Secretary may, to the extent necessary to obtain services without delay, exercise his authority to employ experts and consultants under § 3109 of Title 5, United States Code, without requiring compliance with such otherwise applicable requirements for that employment as the Secretary may determine, except that such employment shall be terminated after 60 days if by that time those requirements are not complied with.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Contracts and subcontracts for supplies or services, including personal services, made by or on behalf of the Director shall be made after advertising, in such manner and at such times as the Secretary shall determine to be adequate to ensure notice and opportunity for competition, except that advertisement shall not be required when: (1) the Secretary determines that it is impracticable or will not permit timely performance to obtain bids by advertising; or (2) the aggregate amount involved in a purchase of supplies or procurement of services does not exceed $10,000. Such contracts and subcontracts may be entered into without regard to laws and regulations otherwise applicable to solicitation, negotiation, administration, and performance of government contracts. In awarding contracts, the Secretary may consider such factors as relative quality and availability of supplies or services and the compatibility of the supplies or services with implementation of this chapter.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The head of any federal agency may, for purposes of this chapter:</text>
+      <para>
+        <num>(1)</num>
+        <text>Transfer or loan any property to, and perform administrative and technical support functions and services for the operations of, the Office of Foreign Missions (with reimbursements to agencies under this paragraph to be credited to the current applicable appropriation of the agency concerned); and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Acquire and accept services from the Office of Foreign Missions, including (whenever the Secretary determines it to be in furtherance of the purposes of this chapter) acquisitions without regard to laws normally applicable to the acquisition of services by such agency.</text>
+      </para>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Assets of or under the control of the Office of Foreign Missions, wherever situated, which are used by or held for the use of a foreign mission shall not be subject to attachment, execution, injunction, or similar process, whether intermediate or final.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Except as otherwise provided, any determination required under this chapter shall be committed to the discretion of the Secretary.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <para>
+        <num>(1)</num>
+        <text>In order to implement this chapter, the Secretary may transfer to the working capital fund established by § 13 of this act such amounts available to the Department of State as may be necessary.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All revenues, including proceeds from gifts and donations, received by the Director or the Secretary in carrying out this chapter may be credited to the working capital fund established by § 13 of this act and shall be available for purposes of this chapter in accordance with that section.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Only amounts transferred or credited to the working capital fund established by § 13 of this act may be used in carrying out the functions of the Secretary or the Director under this chapter.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, 96 Stat. 288, Pub. L. 97-241, § 208</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1313">6-1313</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1208.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § <cite path="§6-1301">6-1301</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“§ 13 of this act,” referred to throughout subsection (h) of this section, is § 13 of the Act of August 24, 1982, 96 Stat. 288, Pub. L. 97-241.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1309">209</num>
+    <heading>Application to international organizations.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Secretary may make § <cite path="§6-1306">6-1306</cite>, or any other provision of this chapter, applicable with respect to an international organization to the same extent that it is applicable with respect to a foreign mission if the Secretary determines that such application is necessary to carry out the policy set forth in § <cite path="§6-1301">6-1301</cite>(b) and to further the objectives set forth in § <cite path="§6-1304">6-1304</cite>(b).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>For purposes of this section, “international organization” means:</text>
+      <para>
+        <num>(1)</num>
+        <text>a public international organization designated as such pursuant to the International Organizations Immunities Act (22 U.S.C. §§ 288 — 288f-4) or a public international organization created pursuant to a treaty or other international agreement as an instrument through or by which 2 or more foreign governments engage in some aspect of their conduct of international affairs; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>an official mission (other than a United States mission) to such a public international organization; including any real property of such an organization or mission and including the personnel of such an organization or mission.</text>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, 96 Stat. 289, Pub. L. 97-241, § 209</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Section References</heading>
+        <annotation>This section is referenced in § <cite path="§6-1302">6-1302</cite>, § <cite path="§6-1305">6-1305</cite>, § <cite path="§6-1314">6-1314</cite>, and § <cite path="§6-1315">6-1315</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1209.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § <cite path="§6-1301">6-1301</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>The “International Organizations Immunities Act,” referred to in (b), is the Act of Dec. 29, 1945, C. 652, 59 Stat. 669, as amended, and is codified as  22 U.S.C. §§ 288—288f-4.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1309.01">209A</num>
+    <heading>United States responsibilities for employees of the United Nations.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Findings. —</heading>
+      <text>The Congress finds that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Pursuant to the Agreement Between the United States and the United Nations Regarding the Headquarters of the United Nations (authorized by Public Law 80-357 (22 U.S.C. § 287 note)), the United States has accepted:</text>
+        <para>
+          <num>(A)</num>
+          <text>The obligation to permit and to facilitate the right of individuals, who are employed by or are authorized by the United Nations to conduct official business in connection with that organization or its agencies, to enter into and exit from the United States for purposes of conducting official activities within the United Nations Headquarters District, subject to regulation as to points of entry and departure; and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>The implied obligation to permit and to facilitate the acquisition of facilities in order to conduct such activities within or in proximity to the United Nations Headquarters District, subject to reasonable regulation including regulation of the location and size of such facilities; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Taking into account paragraph (1) of this subsection and consistent with the obligation of the United States to facilitate the functioning of the United Nations, the United States has no additional obligation to permit the conduct of any other activities, including nonofficial activities, by such individuals outside of the United Nations Headquarters District.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Activities of United Nations employees. —</heading>
+      <text>(1) The conduct of any activities, or the acquisition of any benefits (as defined in § <cite path="§6-1302">6-1302</cite>(a)(1)), outside the United Nations Headquarters District by any individual employed by, or authorized by the United Nations to conduct official business in connection with, that organization or its agencies, or by any person or agency acting on behalf thereof, may be permitted or denied or subject to reasonable regulation, as determined to be in the best interests of the United States and pursuant to this title.</text>
+      <para>
+        <num>(2)</num>
+        <text>The Secretary shall apply to those employees of the United Nations Secretariat who are nationals of a foreign country or members of a foreign mission all terms, limitations, restrictions, and conditions which are applicable pursuant to this title to the members of that country’s mission or of any other mission to the United Nations unless the Secretary determines and reports to the Congress that national security and foreign policy circumstances require that this paragraph be waived in specific circumstances.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Reports. —</heading>
+      <text>The Secretary shall report to the Congress:</text>
+      <para>
+        <num>(1)</num>
+        <text>Not later than 30 days after August 16, 1985, on the plans of the Secretary for implementing this section; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Not later than 6 months thereafter, on the actions taken pursuant to those plans.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>United States nationals. —</heading>
+      <text>This section shall not apply with respect to any United States national.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Definitions. —</heading>
+      <text>For purposes of this section, the term “United Nations Headquarters District” means the area within the United States which is agreed to by the United Nations and the United States to constitute such a district, together with such other areas as the Secretary of State may approve from time to time in order to permit effective functioning of the United Nations or missions to the United Nations.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, Pub. L. 97-241, § 209A</annotation>
+        <annotation doc="Pub. L. 99-93">as added Aug. 16, 1985, 99 Stat. 405, Pub. L. 99-93, § 141</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1209.1.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § <cite path="§6-1301">6-1301</cite>.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“This title,” referred to subsection (b)(1) and (2), is the Act of August 24, 1982, Pub. L. 97-241, § 209A.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1310">210</num>
+    <heading>Privileges and immunities.</heading>
+    <text>Nothing in this chapter shall be construed to limit the authority of the United States to carry out its international obligations, or to supersede or limit immunities otherwise available by law. No act or omission by any foreign mission, public international organization, or official mission to such an organization, in compliance with this chapter shall be deemed to be an implied waiver of any immunity otherwise provided for by law.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, 96 Stat. 290, Pub. L. 97-241, § 210</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1210.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § <cite path="§6-1301">6-1301</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1311">211</num>
+    <heading>Enforcement.</heading>
+    <para>
+      <num>(a)</num>
+      <text>It shall be unlawful for any person to make available any benefits to a foreign mission contrary to this chapter. The United States, acting on its own behalf or on behalf of a foreign mission, has standing to bring or intervene in an action to obtain compliance with this chapter, including any action for injunctive or other equitable relief.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Upon the request of any federal agency, any state or local government agency, or any business or other person that proposes to enter into a contract or other transaction with a foreign mission, the Secretary shall advise whether the proposed transaction is prohibited by any regulation or determination of the Secretary under this chapter.</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, 96 Stat. 290, Pub. L. 97-241, § 211</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1211.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § <cite path="§6-1301">6-1301</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1312">212</num>
+    <heading>Presidential approved procedures and guidelines.</heading>
+    <text>The authorities granted to the Secretary pursuant to the provisions of this chapter shall be exercised in accordance with procedures and guidelines approved by the President.</text>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, 96 Stat. 290, Pub. L. 97-241, § 212</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1212.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>For effective date of amendment made by title II of Pub. L. 97-241, Historical and Statutory Notes following § <cite path="§6-1301">6-1301</cite>.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1313">214</num>
+    <heading>Extraordinary protective services.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>General authority. —</heading>
+      <text>The Secretary may provide extraordinary protective services for foreign missions directly, by contract, or through state or local authority to the extent deemed necessary by the Secretary in carrying out this chapter, except that the Secretary may not provide under this section any protective services for which authority exists to provide such services under § 3056A(a)(7) and (d) of Title 18, United States Code.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Requirement of extraordinary circumstances. —</heading>
+      <text>The Secretary may provide funds to a state or local authority for protective services under this section only if the Secretary has determined that a threat of violence, or other circumstances, exists which requires extraordinary security measures which exceed those which local law enforcement agencies can reasonably be expected to take.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Consultation with Congress before obligation of funds. —</heading>
+      <text>Funds may be obligated under this section only after regulations to implement this section have been issued by the Secretary after consultation with appropriate committees of the Congress.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Restrictions on use of funds. —</heading>
+      <text>Of the funds made available for obligation under this section in any fiscal year:</text>
+      <para>
+        <num>(1)</num>
+        <text>Not more than 20% may be obligated for protective services within any single state during that year; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Not less than 15% shall be retained as a reserve for protective services provided directly by the Secretary or for expenditures in local jurisdictions not otherwise covered by an agreement for protective services under this section. The limitations on funds available for obligation in this subsection shall not apply to unobligated funds during the final quarter of any fiscal year.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Period of agreement with state or local authority. —</heading>
+      <text>Any agreement with a state or local authority for the provision of protective services under this section shall be for a period of not to exceed 90 days in any calendar year, but such agreements may be renewed after review by the Secretary.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <heading>Requirement for appropriations. —</heading>
+      <text>Contracts may be entered into in carrying out this section only to such extent or in such amounts as are provided in advance in appropriation acts.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <heading>Working capital fund. —</heading>
+      <text>Amounts used to carry out this section shall not be subject to § <cite path="§6-1308">6-1308</cite>(h).</text>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, Pub. L. 97-241, § 214</annotation>
+        <annotation doc="Pub. L. 99-93">as added Aug. 16, 1985, 99 Stat. 405, Pub. L. 99-93, § 126(a)</annotation>
+        <annotation doc="Pub. L. 109-177">Mar. 9, 2006, 120 Stat. 255, Pub. L. 109-177, § 605(d)(3)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1213.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effect of Amendments</heading>
+        <annotation>Pub. L. 109-177, in subsec. (a), substituted “§ 3056A(a)(7) and (d) of Title 18” for “§§ 202(8) and 208 of Title 3”.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 126(e) of Pub. L. 99-93 provided that the amendments made by the section shall take effect on October 1, 1985.</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1314">215</num>
+    <heading>Use of foreign mission in a manner incompatible with its status as a foreign mission.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Establishment of limitation on certain uses. —</heading>
+      <text>A foreign mission may not allow an unaffiliated alien the use of any premise of that foreign mission which is inviolable under United States law (including any treaty) for any purpose which is incompatible with its status as a foreign mission, including use as a residence.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Temporary lodging. —</heading>
+      <text>For the purposes of this section, the term “residence” does not include such temporary lodging as may be permitted under regulations issued by the Secretary.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Waiver. —</heading>
+      <text>The Secretary may waive subsection (a) of this section with respect to all foreign missions of a country (and may revoke such a waiver) 30 days after providing written notification of such a waiver, together with the reasons for such waiver (or revocation of such a waiver), to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Report. —</heading>
+      <text>Not later than 180 days after December 23, 1987, the Secretary of State shall submit a report to the Congress concerning the implementation of this section and shall submit such other reports to the Congress concerning changes in implementation as may be necessary.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Definitions. —</heading>
+      <text>For the purposes of this section:</text>
+      <para>
+        <num>(1)</num>
+        <text>The term “foreign mission” includes any international organization as defined in § <cite path="§6-1309">6-1309</cite>(b).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The term “unaffiliated alien” means, with respect to a foreign country, an alien who:</text>
+        <para>
+          <num>(A)</num>
+          <text>Is admitted to the United States as a nonimmigrant, and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Is not a member, or a family member of a member, of a foreign mission of that foreign country.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, Pub. L. 97-241, § 215</annotation>
+        <annotation doc="Pub. L. 100-204">as added Dec. 23, 1987, 101 Stat. 1343, Pub. L. 100-204, title I, § 128(a)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1214.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 128(b) of Pub. L. 100-204 provided that:</annotation>
+        <annotation>“(1) Except as provided in paragraph (2), the amendment made by subsection (a) shall apply to any foreign mission beginning on the Dates of enactment of this Act.</annotation>
+        <annotation>“(2)(A) The amendment made by subsection (a) shall apply beginning 6 months after the Dates of enactment of this Act with respect to any nonimmigrant alien who is using a foreign mission as a residence or a place of business on the Dates of enactment of this Act.</annotation>
+        <annotation>“(B) The Secretary of State may delay the effective Dates provided for in subparagraph (A) for not more than 6 months with respect to any nonimmigrant alien if the Secretary finds that a hardship to that alien would result from the implementation of subsection (A).”</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
+  <section from-code="true">
+    <codify:insert doc="D.C. Code" path="|6|13"/>
+    <num codify:value="6-1315">216</num>
+    <heading>Application of travel restrictions to personnel of certain countries and organizations.</heading>
+    <para>
+      <num>(a)</num>
+      <heading>Requirement for restrictions. —</heading>
+      <text>The Secretary shall apply the same generally applicable restrictions to the travel while in the United States of the individuals described in subsection (b) as are applied under this title to the members of the missions of the Soviet Union in the United States.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Individuals subject to restrictions. —</heading>
+      <text>The restrictions required by subsection (a) shall be applied with respect to those individuals who (as determined by the Secretary) are:</text>
+      <para>
+        <num>(1)</num>
+        <text>The personnel of an international organization, if the individual is a national of any foreign country whose government engages in intelligence activities in the United States that are harmful to the national security of the United States;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The personnel of a mission to an international organization if that mission is the mission of a foreign government that engages in intelligence activities in the United States that are harmful to the national security of the United States; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The family members or dependents of an individual described in paragraphs (1) and (2);</text>
+      </para>
+      <afterText>and who are not nationals or permanent resident aliens of the United States.</afterText>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Waivers. —</heading>
+      <text>The Secretary, after consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) if the Secretary determines that the national security and foreign policy interests of the United States so require.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Reports. —</heading>
+      <text>The Secretary shall transmit to the Select Committee on Intelligence and the Committee on Foreign Relations of the Senate, and to the Permanent Select Committee on Intelligence and the Committee on Foreign Affairs of the House of Representatives, not later than six months after December 23, 1987, and not later than every six months thereafter, a report on the actions taken by the Secretary in carrying out this section during the previous six months.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Definitions. —</heading>
+      <text>For purposes of this section:</text>
+      <para>
+        <num>(1)</num>
+        <text>The term “generally applicable restrictions” means any limitations on the radius within which unrestricted travel is permitted and obtaining travel services through the auspices of the Office of Foreign Missions for travel elsewhere, and does not include any restrictions which unconditionally prohibit the members of missions of the Soviet Union in the United States from traveling to designated areas of the United States and which are applied as a result of particular factors in relations between the United States and the Soviet Union.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The term “international organization” means an organization described in § <cite path="§6-1309">6-1309</cite>(b)(1).</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The term “personnel” includes:</text>
+        <para>
+          <num>(A)</num>
+          <text>Officers, employees, and any other staff member, and</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Any individual who is retained under the contract or other arrangement to serve functions similar to those of an officer, employee, or other staff member.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annoGroup>
+        <heading>History</heading>
+        <annotation doc="Pub. L. 97-241">Aug. 24, 1982, Pub. L. 97-241, § 216</annotation>
+        <annotation doc="Pub. L. 100-204">as added Dec. 23, 1987, 101 Stat. 1357, Pub. L. 100-204, title I, § 162(a)</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Prior Codifications</heading>
+        <annotation>1981 Ed., § 5-1215.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>Effective Dates</heading>
+        <annotation>Section 162(b) of Pub. L. 100-204 provided that subsection (a) shall take effect 90 days after the Dates of enactment of this Act.</annotation>
+      </annoGroup>
+      <annoGroup>
+        <heading>References in Text</heading>
+        <annotation>“This title”, referred to in subsection (a), is title II of the State Department Basic Authorities Act of 1956 ( 22 U.S.C. § 4301 et seq.).</annotation>
+      </annoGroup>
+    </annotations>
+  </section>
 </document>
