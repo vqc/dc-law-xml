@@ -56,6 +56,9 @@
 		      <xs:attribute name="url" type="xs:string" use="optional" />
 		      <xs:attribute name="session" type="xs:string" use="optional" />
           <xs:attribute name="chapter" type="xs:string" use="optional" />
+          <xs:attribute name="congress" type="xs:string" use="optional" />
+          <xs:attribute name="resNum" type="xs:string" use="optional" />
+          <xs:attribute name="joint" type="xs:boolean" use="optional" />
 		    </xs:complexType>
 	      </xs:element>
 	    </xs:choice>
