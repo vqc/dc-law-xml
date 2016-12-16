@@ -10,9 +10,11 @@
   <container>
     <prefix>Div</prefix>
     <num>C</num>
+    <heading/>
     <container>
       <prefix>Title</prefix>
       <num>III</num>
+      <heading/>
     </container>
   </container>
 </document>
