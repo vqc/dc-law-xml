@@ -70,9 +70,13 @@
     <xs:complexType>
       <xs:sequence>
         <xs:element ref="heading" />
-        <xs:element ref="ns0:include" minOccurs="0" maxOccurs="unbounded" />
-        <xs:element ref="collection" minOccurs="0" maxOccurs="unbounded" />
-        <xs:element ref="document" minOccurs="0" maxOccurs="unbounded" />
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="text" maxOccurs="unbounded" />
+          <xs:element ref="ns0:include" minOccurs="0" maxOccurs="unbounded" />
+          <xs:element ref="collection" minOccurs="0" maxOccurs="unbounded" />
+          <xs:element ref="document" minOccurs="0" maxOccurs="unbounded" />
+          <xs:element name="subheading" type="xs:string" />
+        </xs:choice>
       </xs:sequence>
       <xs:attribute name="name" type="xs:string" use="required" />
     </xs:complexType>
@@ -95,7 +99,7 @@
           <xs:element ref="heading" />
         </xs:sequence>
         <xs:choice maxOccurs="unbounded">
-           <xs:element ref="ns0:include" minOccurs="0" />
+          <xs:element ref="ns0:include" minOccurs="0" />
           <xs:element name="subheading" type="xs:string" />
           <xs:element ref="section" />
           <xs:element ref="container" />
