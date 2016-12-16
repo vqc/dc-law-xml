@@ -10,13 +10,16 @@
   <container>
     <prefix>Title</prefix>
     <num>III</num>
+    <heading/>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>VI</num>
+    <heading/>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>IX</num>
+    <heading/>
   </container>
 </document>

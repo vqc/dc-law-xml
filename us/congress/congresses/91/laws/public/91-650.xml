@@ -10,9 +10,11 @@
   <container>
     <prefix>Title</prefix>
     <num>VII</num>
+    <heading/>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>III</num>
+    <heading/>
   </container>
 </document>

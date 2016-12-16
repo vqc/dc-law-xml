@@ -15,9 +15,11 @@
   <container>
     <prefix>Title</prefix>
     <num>I</num>
+    <heading/>
   </container>
   <container>
     <prefix>Title</prefix>
     <num>II</num>
+    <heading/>
   </container>
 </document>

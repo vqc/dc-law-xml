@@ -10,5 +10,6 @@
   <container>
     <prefix>Title</prefix>
     <num>IX</num>
+    <heading/>
   </container>
 </document>
